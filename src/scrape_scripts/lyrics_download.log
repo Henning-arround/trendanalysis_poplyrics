@@ -1,0 +1,202 @@
+2025-06-27 12:07:29,844 - INFO - Lyrics Downloader gestartet
+2025-06-27 12:07:32,046 - INFO - CSV-Datei geladen: 386888 Einträge gefunden
+2025-06-27 12:07:32,405 - INFO - Bereits vorhandene Lyrics: 166022 Dateien
+2025-06-27 12:07:40,762 - INFO - Fehlende Lyrics: 220866 Songs
+2025-06-27 12:07:40,913 - INFO - LyricsFindScrapper erfolgreich importiert
+2025-06-27 12:07:40,913 - INFO - LyricsFindScrapper erfolgreich initialisiert
+2025-06-27 12:07:40,913 - INFO - Verarbeite Batch 1/4418 (50 Songs)
+2025-06-27 12:07:40,913 - INFO - Lade Lyrics für Index 0: The Bluebells - Young At Heart
+2025-06-27 12:07:44,251 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:07:44,251 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:07:52,457 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:07:52,457 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:00,972 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:00,972 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:00,972 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - Young At Heart
+2025-06-27 12:08:00,972 - WARNING - ✗ Keine Lyrics gefunden: Index 0
+2025-06-27 12:08:02,975 - INFO - Lade Lyrics für Index 1: Depeche Mode - Everything Counts
+2025-06-27 12:08:06,583 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:06,583 - WARNING - Versuch 1 fehlgeschlagen für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:15,344 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:15,344 - WARNING - Versuch 2 fehlgeschlagen für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:23,597 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:23,597 - WARNING - Versuch 3 fehlgeschlagen für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:23,597 - ERROR - Alle Versuche fehlgeschlagen für Depeche Mode - Everything Counts
+2025-06-27 12:08:23,597 - WARNING - ✗ Keine Lyrics gefunden: Index 1
+2025-06-27 12:08:25,598 - INFO - Lade Lyrics für Index 2: Plastic Ono Band - Give Peace A Chance
+2025-06-27 12:08:28,588 - ERROR - Fehler beim Herunterladen von Lyrics für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:28,588 - WARNING - Versuch 1 fehlgeschlagen für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:37,187 - ERROR - Fehler beim Herunterladen von Lyrics für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:37,187 - WARNING - Versuch 2 fehlgeschlagen für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:45,519 - ERROR - Fehler beim Herunterladen von Lyrics für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:45,519 - WARNING - Versuch 3 fehlgeschlagen für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:45,519 - ERROR - Alle Versuche fehlgeschlagen für Plastic Ono Band - Give Peace A Chance
+2025-06-27 12:08:45,519 - WARNING - ✗ Keine Lyrics gefunden: Index 2
+2025-06-27 12:08:47,521 - INFO - Lade Lyrics für Index 3: The Bluebells - Blue Train
+2025-06-27 12:08:50,928 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Blue Train: 'NoneType' object has no attribute 'string'
+2025-06-27 12:08:50,928 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Blue Train: 'NoneType' object has no attribute 'string'
+2025-06-27 12:13:58,762 - INFO - Lyrics Downloader gestartet
+2025-06-27 12:14:00,979 - INFO - CSV-Datei geladen: 386888 Einträge gefunden
+2025-06-27 12:14:01,335 - INFO - Bereits vorhandene Lyrics: 166022 Dateien
+2025-06-27 12:14:09,599 - INFO - Fehlende Lyrics: 220866 Songs
+2025-06-27 12:14:09,755 - INFO - LyricsFindScrapper erfolgreich importiert
+2025-06-27 12:14:09,755 - INFO - LyricsFindScrapper erfolgreich initialisiert
+2025-06-27 12:14:09,755 - INFO - Verarbeite Batch 1/4418 (50 Songs)
+2025-06-27 12:14:09,755 - INFO - Lade Lyrics für Index 0: The Bluebells - Young At Heart
+2025-06-27 12:14:13,724 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:13,724 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:21,902 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:21,902 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:30,127 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:30,127 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - Young At Heart: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:30,127 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - Young At Heart
+2025-06-27 12:14:30,127 - WARNING - ✗ Keine Lyrics gefunden: Index 0
+2025-06-27 12:14:32,129 - INFO - Lade Lyrics für Index 1: Depeche Mode - Everything Counts
+2025-06-27 12:14:35,242 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:35,242 - WARNING - Versuch 1 fehlgeschlagen für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:43,330 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:43,330 - WARNING - Versuch 2 fehlgeschlagen für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:51,514 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:51,514 - WARNING - Versuch 3 fehlgeschlagen für Depeche Mode - Everything Counts: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:51,514 - ERROR - Alle Versuche fehlgeschlagen für Depeche Mode - Everything Counts
+2025-06-27 12:14:51,514 - WARNING - ✗ Keine Lyrics gefunden: Index 1
+2025-06-27 12:14:53,517 - INFO - Lade Lyrics für Index 2: Plastic Ono Band - Give Peace A Chance
+2025-06-27 12:14:57,033 - ERROR - Fehler beim Herunterladen von Lyrics für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:14:57,033 - WARNING - Versuch 1 fehlgeschlagen für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:05,566 - ERROR - Fehler beim Herunterladen von Lyrics für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:05,566 - WARNING - Versuch 2 fehlgeschlagen für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:14,087 - ERROR - Fehler beim Herunterladen von Lyrics für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:14,087 - WARNING - Versuch 3 fehlgeschlagen für Plastic Ono Band - Give Peace A Chance: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:14,087 - ERROR - Alle Versuche fehlgeschlagen für Plastic Ono Band - Give Peace A Chance
+2025-06-27 12:15:14,087 - WARNING - ✗ Keine Lyrics gefunden: Index 2
+2025-06-27 12:15:16,090 - INFO - Lade Lyrics für Index 3: The Bluebells - Blue Train
+2025-06-27 12:15:19,517 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Blue Train: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:19,517 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Blue Train: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:28,153 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Blue Train: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:28,153 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - Blue Train: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:36,450 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Blue Train: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:36,450 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - Blue Train: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:36,450 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - Blue Train
+2025-06-27 12:15:36,450 - WARNING - ✗ Keine Lyrics gefunden: Index 3
+2025-06-27 12:15:38,451 - INFO - Lade Lyrics für Index 4: Depeche Mode - Ghosts Again
+2025-06-27 12:15:41,951 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Ghosts Again: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:41,952 - WARNING - Versuch 1 fehlgeschlagen für Depeche Mode - Ghosts Again: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:50,301 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Ghosts Again: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:50,301 - WARNING - Versuch 2 fehlgeschlagen für Depeche Mode - Ghosts Again: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:58,771 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Ghosts Again: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:58,771 - WARNING - Versuch 3 fehlgeschlagen für Depeche Mode - Ghosts Again: 'NoneType' object has no attribute 'string'
+2025-06-27 12:15:58,771 - ERROR - Alle Versuche fehlgeschlagen für Depeche Mode - Ghosts Again
+2025-06-27 12:15:58,771 - WARNING - ✗ Keine Lyrics gefunden: Index 4
+2025-06-27 12:16:00,774 - INFO - Lade Lyrics für Index 5: The Bluebells - The Patriots Game
+2025-06-27 12:16:03,724 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - The Patriots Game: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:03,724 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - The Patriots Game: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:11,717 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - The Patriots Game: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:11,717 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - The Patriots Game: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:20,026 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - The Patriots Game: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:20,026 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - The Patriots Game: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:20,026 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - The Patriots Game
+2025-06-27 12:16:20,026 - WARNING - ✗ Keine Lyrics gefunden: Index 5
+2025-06-27 12:16:22,028 - INFO - Lade Lyrics für Index 6: John Lennon With The Plastic Ono Nuclear Band - Whatever Gets You Thru' The Night
+2025-06-27 12:16:25,178 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon With The Plastic Ono Nuclear Band - Whatever Gets You Thru' The Night: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:25,178 - WARNING - Versuch 1 fehlgeschlagen für John Lennon With The Plastic Ono Nuclear Band - Whatever Gets You Thru' The Night: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:33,474 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon With The Plastic Ono Nuclear Band - Whatever Gets You Thru' The Night: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:33,474 - WARNING - Versuch 2 fehlgeschlagen für John Lennon With The Plastic Ono Nuclear Band - Whatever Gets You Thru' The Night: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:41,699 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon With The Plastic Ono Nuclear Band - Whatever Gets You Thru' The Night: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:41,699 - WARNING - Versuch 3 fehlgeschlagen für John Lennon With The Plastic Ono Nuclear Band - Whatever Gets You Thru' The Night: 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:41,699 - ERROR - Alle Versuche fehlgeschlagen für John Lennon With The Plastic Ono Nuclear Band - Whatever Gets You Thru' The Night
+2025-06-27 12:16:41,699 - WARNING - ✗ Keine Lyrics gefunden: Index 6
+2025-06-27 12:16:43,701 - INFO - Lade Lyrics für Index 7: The Bluebells - Wishful Thinking (Will She Always Be Waiting)
+2025-06-27 12:16:47,053 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Wishful Thinking (Will She Always Be Waiting): 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:47,053 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Wishful Thinking (Will She Always Be Waiting): 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:55,410 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Wishful Thinking (Will She Always Be Waiting): 'NoneType' object has no attribute 'string'
+2025-06-27 12:16:55,410 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - Wishful Thinking (Will She Always Be Waiting): 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:03,666 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Wishful Thinking (Will She Always Be Waiting): 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:03,666 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - Wishful Thinking (Will She Always Be Waiting): 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:03,666 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - Wishful Thinking (Will She Always Be Waiting)
+2025-06-27 12:17:03,666 - WARNING - ✗ Keine Lyrics gefunden: Index 7
+2025-06-27 12:17:05,668 - INFO - Lade Lyrics für Index 8: Depeche Mode - Where's The Revolution
+2025-06-27 12:17:08,910 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Where's The Revolution: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:08,910 - WARNING - Versuch 1 fehlgeschlagen für Depeche Mode - Where's The Revolution: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:16,838 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Where's The Revolution: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:16,838 - WARNING - Versuch 2 fehlgeschlagen für Depeche Mode - Where's The Revolution: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:25,226 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Where's The Revolution: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:25,226 - WARNING - Versuch 3 fehlgeschlagen für Depeche Mode - Where's The Revolution: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:25,226 - ERROR - Alle Versuche fehlgeschlagen für Depeche Mode - Where's The Revolution
+2025-06-27 12:17:25,226 - WARNING - ✗ Keine Lyrics gefunden: Index 8
+2025-06-27 12:17:27,228 - INFO - Lade Lyrics für Index 9: John Lennon / Plastic Ono Band - Imagine
+2025-06-27 12:17:30,211 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon / Plastic Ono Band - Imagine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:30,211 - WARNING - Versuch 1 fehlgeschlagen für John Lennon / Plastic Ono Band - Imagine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:38,332 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon / Plastic Ono Band - Imagine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:38,332 - WARNING - Versuch 2 fehlgeschlagen für John Lennon / Plastic Ono Band - Imagine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:46,419 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon / Plastic Ono Band - Imagine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:46,419 - WARNING - Versuch 3 fehlgeschlagen für John Lennon / Plastic Ono Band - Imagine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:46,419 - ERROR - Alle Versuche fehlgeschlagen für John Lennon / Plastic Ono Band - Imagine
+2025-06-27 12:17:46,420 - WARNING - ✗ Keine Lyrics gefunden: Index 9
+2025-06-27 12:17:48,421 - INFO - Lade Lyrics für Index 10: The Bluebells - Happy Birthday (Turn Gold)
+2025-06-27 12:17:51,730 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Happy Birthday (Turn Gold): 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:51,730 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Happy Birthday (Turn Gold): 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:59,907 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Happy Birthday (Turn Gold): 'NoneType' object has no attribute 'string'
+2025-06-27 12:17:59,907 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - Happy Birthday (Turn Gold): 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:08,237 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Happy Birthday (Turn Gold): 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:08,237 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - Happy Birthday (Turn Gold): 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:08,237 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - Happy Birthday (Turn Gold)
+2025-06-27 12:18:08,237 - WARNING - ✗ Keine Lyrics gefunden: Index 10
+2025-06-27 12:18:10,239 - INFO - Lade Lyrics für Index 11: Depeche Mode - Should Be Higher
+2025-06-27 12:18:13,801 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Should Be Higher: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:13,801 - WARNING - Versuch 1 fehlgeschlagen für Depeche Mode - Should Be Higher: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:22,505 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Should Be Higher: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:22,505 - WARNING - Versuch 2 fehlgeschlagen für Depeche Mode - Should Be Higher: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:30,630 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Should Be Higher: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:30,630 - WARNING - Versuch 3 fehlgeschlagen für Depeche Mode - Should Be Higher: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:30,630 - ERROR - Alle Versuche fehlgeschlagen für Depeche Mode - Should Be Higher
+2025-06-27 12:18:30,630 - WARNING - ✗ Keine Lyrics gefunden: Index 11
+2025-06-27 12:18:32,632 - INFO - Lade Lyrics für Index 12: The Bluebells - Some Sweet Day
+2025-06-27 12:18:36,175 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Some Sweet Day: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:36,175 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Some Sweet Day: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:44,646 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Some Sweet Day: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:44,646 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - Some Sweet Day: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:53,028 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Some Sweet Day: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:53,028 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - Some Sweet Day: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:53,028 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - Some Sweet Day
+2025-06-27 12:18:53,028 - WARNING - ✗ Keine Lyrics gefunden: Index 12
+2025-06-27 12:18:55,030 - INFO - Lade Lyrics für Index 13: John Lennon / Plastic Ono Band - Power To The People
+2025-06-27 12:18:58,880 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon / Plastic Ono Band - Power To The People: 'NoneType' object has no attribute 'string'
+2025-06-27 12:18:58,880 - WARNING - Versuch 1 fehlgeschlagen für John Lennon / Plastic Ono Band - Power To The People: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:07,123 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon / Plastic Ono Band - Power To The People: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:07,123 - WARNING - Versuch 2 fehlgeschlagen für John Lennon / Plastic Ono Band - Power To The People: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:16,413 - ERROR - Fehler beim Herunterladen von Lyrics für John Lennon / Plastic Ono Band - Power To The People: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:16,413 - WARNING - Versuch 3 fehlgeschlagen für John Lennon / Plastic Ono Band - Power To The People: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:16,413 - ERROR - Alle Versuche fehlgeschlagen für John Lennon / Plastic Ono Band - Power To The People
+2025-06-27 12:19:16,413 - WARNING - ✗ Keine Lyrics gefunden: Index 13
+2025-06-27 12:19:18,415 - INFO - Lade Lyrics für Index 14: The Bluebells - Sugar Bridge
+2025-06-27 12:19:21,624 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Sugar Bridge: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:21,624 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Sugar Bridge: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:30,279 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Sugar Bridge: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:30,279 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - Sugar Bridge: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:38,516 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Sugar Bridge: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:38,516 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - Sugar Bridge: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:38,516 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - Sugar Bridge
+2025-06-27 12:19:38,516 - WARNING - ✗ Keine Lyrics gefunden: Index 14
+2025-06-27 12:19:40,518 - INFO - Lade Lyrics für Index 15: Depeche Mode - Soothe My Soul
+2025-06-27 12:19:43,635 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Soothe My Soul: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:43,635 - WARNING - Versuch 1 fehlgeschlagen für Depeche Mode - Soothe My Soul: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:51,677 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Soothe My Soul: 'NoneType' object has no attribute 'string'
+2025-06-27 12:19:51,677 - WARNING - Versuch 2 fehlgeschlagen für Depeche Mode - Soothe My Soul: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:00,068 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - Soothe My Soul: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:00,068 - WARNING - Versuch 3 fehlgeschlagen für Depeche Mode - Soothe My Soul: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:00,068 - ERROR - Alle Versuche fehlgeschlagen für Depeche Mode - Soothe My Soul
+2025-06-27 12:20:00,068 - WARNING - ✗ Keine Lyrics gefunden: Index 15
+2025-06-27 12:20:02,069 - INFO - Lade Lyrics für Index 16: The Bluebells - Fall From Grace
+2025-06-27 12:20:05,805 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Fall From Grace: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:05,805 - WARNING - Versuch 1 fehlgeschlagen für The Bluebells - Fall From Grace: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:14,454 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Fall From Grace: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:14,454 - WARNING - Versuch 2 fehlgeschlagen für The Bluebells - Fall From Grace: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:23,117 - ERROR - Fehler beim Herunterladen von Lyrics für The Bluebells - Fall From Grace: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:23,117 - WARNING - Versuch 3 fehlgeschlagen für The Bluebells - Fall From Grace: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:23,117 - ERROR - Alle Versuche fehlgeschlagen für The Bluebells - Fall From Grace
+2025-06-27 12:20:23,117 - WARNING - ✗ Keine Lyrics gefunden: Index 16
+2025-06-27 12:20:25,119 - INFO - Lade Lyrics für Index 17: Depeche Mode - All That's Mine
+2025-06-27 12:20:28,468 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - All That's Mine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:28,468 - WARNING - Versuch 1 fehlgeschlagen für Depeche Mode - All That's Mine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:36,726 - ERROR - Fehler beim Herunterladen von Lyrics für Depeche Mode - All That's Mine: 'NoneType' object has no attribute 'string'
+2025-06-27 12:20:36,726 - WARNING - Versuch 2 fehlgeschlagen für Depeche Mode - All That's Mine: 'NoneType' object has no attribute 'string'

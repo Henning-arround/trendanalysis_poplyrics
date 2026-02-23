@@ -1,0 +1,16 @@
+=== BERTSCORE SIMILARITY ANALYSIS ===
+
+Model: microsoft/deberta-xlarge-mnli
+Language: de
+Metric: F1-Score (Balance aus Precision und Recall)
+Interpretation: Hoch = semantisch ähnlich, Niedrig = semantisch divers
+
+                              mean_bertscore_mean  mean_bertscore_std  mean_bertscore_min  mean_bertscore_max  mean_bertscore_median  n_songs
+experiment         llm_model                                                                                                                 
+prompt_engineering deepseek                0.8365              0.0583              0.7526              0.9829                 0.8271      100
+                   llama                   0.8626              0.0596              0.7329              0.9819                 0.8508      100
+                   openai                  0.7627              0.0135              0.7324              0.8151                 0.7608      100
+standard           deepseek                0.8412              0.0605              0.7116              0.9966                 0.8345      100
+                   llama                   0.8658              0.0686              0.7308              1.0000                 0.8523      100
+                   openai                  0.7439              0.0163              0.7126              0.7786                 0.7423      100
+

@@ -1,0 +1,867 @@
+Evaluation completed at 2025-12-16 13:50:39
+Total combinations: 78
+Parameter grid: {'n_neighbors': [5, 15], 'n_components': [3, 5, 10], 'min_cluster_size': [80, 100, 120, 140], 'min_samples': [30, 55, 80, 105], 'cluster_selection_epsilon': [0.2], 'min_df': [5], 'max_df': [0.7]}
+================================================================================
+
+Iteration 1/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 71/71/71
+  Coverage (before/after/force): 88.49%/92.02%/100.00%
+  Topic 0 ratio (after/force): 84.69%/89.24%
+  Topic 1 ratio (after/force): 0.84%/0.88%
+  Coherence (after/force): 0.5799/0.4296
+  Diversity (after/force): 0.8662/0.9324
+  Time: 991.0s
+  Status: SUCCESS
+
+Iteration 2/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 80, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 85/85/85
+  Coverage (before/after/force): 79.63%/86.53%/100.00%
+  Topic 0 ratio (after/force): 75.04%/82.52%
+  Topic 1 ratio (after/force): 1.34%/1.58%
+  Coherence (after/force): 0.6234/0.4439
+  Diversity (after/force): 0.8765/0.9424
+  Time: 987.9s
+  Status: SUCCESS
+
+Iteration 3/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 58/58/58
+  Coverage (before/after/force): 88.05%/92.20%/100.00%
+  Topic 0 ratio (after/force): 85.09%/89.43%
+  Topic 1 ratio (after/force): 0.84%/0.91%
+  Coherence (after/force): 0.5763/0.4400
+  Diversity (after/force): 0.8845/0.9466
+  Time: 856.5s
+  Status: SUCCESS
+
+Iteration 4/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 100, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 66/66/66
+  Coverage (before/after/force): 79.11%/85.85%/100.00%
+  Topic 0 ratio (after/force): 74.96%/83.01%
+  Topic 1 ratio (after/force): 1.33%/1.61%
+  Coherence (after/force): 0.6372/0.4323
+  Diversity (after/force): 0.9121/0.9485
+  Time: 838.6s
+  Status: SUCCESS
+
+Iteration 5/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 100, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 78/78/78
+  Coverage (before/after/force): 70.64%/81.30%/100.00%
+  Topic 0 ratio (after/force): 58.74%/69.62%
+  Topic 1 ratio (after/force): 8.09%/8.62%
+  Coherence (after/force): 0.6119/0.4229
+  Diversity (after/force): 0.9179/0.9500
+  Time: 842.6s
+  Status: SUCCESS
+
+Iteration 6/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 120, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 48/48/48
+  Coverage (before/after/force): 87.62%/91.68%/100.00%
+  Topic 0 ratio (after/force): 84.92%/90.14%
+  Topic 1 ratio (after/force): 0.84%/1.04%
+  Coherence (after/force): 0.5584/0.4245
+  Diversity (after/force): 0.9354/0.9417
+  Time: 795.8s
+  Status: SUCCESS
+
+Iteration 7/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 120, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 56/56/56
+  Coverage (before/after/force): 78.67%/86.95%/100.00%
+  Topic 0 ratio (after/force): 76.14%/83.55%
+  Topic 1 ratio (after/force): 1.37%/1.60%
+  Coherence (after/force): 0.6091/0.4318
+  Diversity (after/force): 0.9375/0.9429
+  Time: 778.4s
+  Status: SUCCESS
+
+Iteration 8/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 120, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 65/65/65
+  Coverage (before/after/force): 70.08%/80.79%/100.00%
+  Topic 0 ratio (after/force): 59.28%/70.22%
+  Topic 1 ratio (after/force): 8.08%/8.66%
+  Coherence (after/force): 0.6546/0.4246
+  Diversity (after/force): 0.9354/0.9508
+  Time: 798.9s
+  Status: SUCCESS
+
+Iteration 9/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 120, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 75/75/75
+  Coverage (before/after/force): 63.04%/77.76%/100.00%
+  Topic 0 ratio (after/force): 53.02%/63.48%
+  Topic 1 ratio (after/force): 7.60%/8.23%
+  Coherence (after/force): 0.6250/0.4003
+  Diversity (after/force): 0.9373/0.9600
+  Time: 801.7s
+  Status: SUCCESS
+
+Iteration 10/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 140, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 37/37/37
+  Coverage (before/after/force): 87.07%/92.55%/100.00%
+  Topic 0 ratio (after/force): 86.04%/90.70%
+  Topic 1 ratio (after/force): 0.86%/1.05%
+  Coherence (after/force): 0.5443/0.4403
+  Diversity (after/force): 0.9486/0.9432
+  Time: 730.3s
+  Status: SUCCESS
+
+Iteration 11/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 140, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 43/43/43
+  Coverage (before/after/force): 78.03%/86.60%/100.00%
+  Topic 0 ratio (after/force): 76.59%/84.40%
+  Topic 1 ratio (after/force): 1.37%/1.60%
+  Coherence (after/force): 0.6641/0.4112
+  Diversity (after/force): 0.9419/0.9744
+  Time: 730.0s
+  Status: SUCCESS
+
+Iteration 12/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 140, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 51/51/51
+  Coverage (before/after/force): 69.45%/81.83%/100.00%
+  Topic 0 ratio (after/force): 60.79%/71.21%
+  Topic 1 ratio (after/force): 8.07%/8.65%
+  Coherence (after/force): 0.6435/0.3957
+  Diversity (after/force): 0.9627/0.9745
+  Time: 739.8s
+  Status: SUCCESS
+
+Iteration 13/78
+  Parameters: {'n_neighbors': 5, 'n_components': 3, 'min_cluster_size': 140, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 62/62/62
+  Coverage (before/after/force): 62.40%/79.04%/100.00%
+  Topic 0 ratio (after/force): 54.45%/64.29%
+  Topic 1 ratio (after/force): 7.65%/8.23%
+  Coherence (after/force): 0.6493/0.3717
+  Diversity (after/force): 0.9484/0.9694
+  Time: 754.5s
+  Status: SUCCESS
+
+Iteration 14/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 148/148/148
+  Coverage (before/after/force): 61.16%/65.14%/100.00%
+  Topic 0 ratio (after/force): 35.98%/52.99%
+  Topic 1 ratio (after/force): 7.36%/8.32%
+  Coherence (after/force): 0.6551/0.4504
+  Diversity (after/force): 0.8716/0.9182
+  Time: 1246.0s
+  Status: SUCCESS
+
+Iteration 15/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 80, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 164/164/164
+  Coverage (before/after/force): 50.78%/55.24%/100.00%
+  Topic 0 ratio (after/force): 7.29%/8.33%
+  Topic 1 ratio (after/force): 7.83%/14.77%
+  Coherence (after/force): 0.6513/0.4548
+  Diversity (after/force): 0.8738/0.9055
+  Time: 1246.2s
+  Status: SUCCESS
+
+Iteration 16/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 120/120/120
+  Coverage (before/after/force): 60.74%/66.84%/100.00%
+  Topic 0 ratio (after/force): 37.79%/53.16%
+  Topic 1 ratio (after/force): 7.39%/8.33%
+  Coherence (after/force): 0.6498/0.4535
+  Diversity (after/force): 0.9025/0.9317
+  Time: 1072.4s
+  Status: SUCCESS
+
+Iteration 17/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 100, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 132/132/132
+  Coverage (before/after/force): 50.17%/56.74%/100.00%
+  Topic 0 ratio (after/force): 7.32%/8.31%
+  Topic 1 ratio (after/force): 8.33%/14.38%
+  Coherence (after/force): 0.6639/0.4282
+  Diversity (after/force): 0.9000/0.9212
+  Time: 1075.3s
+  Status: SUCCESS
+
+Iteration 18/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 100, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 137/137/137
+  Coverage (before/after/force): 45.13%/52.59%/100.00%
+  Topic 0 ratio (after/force): 7.53%/8.49%
+  Topic 1 ratio (after/force): 5.31%/6.80%
+  Coherence (after/force): 0.6535/0.4364
+  Diversity (after/force): 0.9015/0.9321
+  Time: 1057.0s
+  Status: SUCCESS
+
+Iteration 19/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 120, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 97/97/97
+  Coverage (before/after/force): 59.91%/68.43%/100.00%
+  Topic 0 ratio (after/force): 39.65%/53.92%
+  Topic 1 ratio (after/force): 7.45%/8.38%
+  Coherence (after/force): 0.6474/0.4501
+  Diversity (after/force): 0.9289/0.9402
+  Time: 936.1s
+  Status: SUCCESS
+
+Iteration 20/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 120, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 108/108/108
+  Coverage (before/after/force): 49.43%/59.63%/100.00%
+  Topic 0 ratio (after/force): 7.45%/8.48%
+  Topic 1 ratio (after/force): 9.33%/14.92%
+  Coherence (after/force): 0.6569/0.4313
+  Diversity (after/force): 0.9361/0.9389
+  Time: 957.0s
+  Status: SUCCESS
+
+Iteration 21/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 120, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 116/116/116
+  Coverage (before/after/force): 44.29%/55.07%/100.00%
+  Topic 0 ratio (after/force): 7.53%/8.49%
+  Topic 1 ratio (after/force): 5.62%/7.12%
+  Coherence (after/force): 0.6390/0.4272
+  Diversity (after/force): 0.9379/0.9405
+  Time: 966.5s
+  Status: SUCCESS
+
+Iteration 22/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 120, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 132/132/132
+  Coverage (before/after/force): 39.15%/47.79%/100.00%
+  Topic 0 ratio (after/force): 7.32%/8.53%
+  Topic 1 ratio (after/force): 4.52%/6.46%
+  Coherence (after/force): 0.6442/0.4176
+  Diversity (after/force): 0.9098/0.9227
+  Time: 1001.4s
+  Status: SUCCESS
+
+Iteration 23/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 140, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 77/77/77
+  Coverage (before/after/force): 59.03%/69.06%/100.00%
+  Topic 0 ratio (after/force): 41.00%/56.33%
+  Topic 1 ratio (after/force): 7.48%/8.48%
+  Coherence (after/force): 0.6379/0.4394
+  Diversity (after/force): 0.9494/0.9455
+  Time: 853.0s
+  Status: SUCCESS
+
+Iteration 24/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 140, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 94/94/94
+  Coverage (before/after/force): 48.73%/60.06%/100.00%
+  Topic 0 ratio (after/force): 7.51%/8.55%
+  Topic 1 ratio (after/force): 9.26%/14.74%
+  Coherence (after/force): 0.6437/0.3959
+  Diversity (after/force): 0.9426/0.9436
+  Time: 887.3s
+  Status: SUCCESS
+
+Iteration 25/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 140, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 101/101/101
+  Coverage (before/after/force): 43.53%/56.22%/100.00%
+  Topic 0 ratio (after/force): 7.52%/8.54%
+  Topic 1 ratio (after/force): 5.89%/7.46%
+  Coherence (after/force): 0.6245/0.3852
+  Diversity (after/force): 0.9416/0.9446
+  Time: 902.2s
+  Status: SUCCESS
+
+Iteration 26/78
+  Parameters: {'n_neighbors': 5, 'n_components': 5, 'min_cluster_size': 140, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 115/115/115
+  Coverage (before/after/force): 38.29%/48.68%/100.00%
+  Topic 0 ratio (after/force): 7.28%/8.59%
+  Topic 1 ratio (after/force): 4.68%/6.47%
+  Coherence (after/force): 0.6431/0.3872
+  Diversity (after/force): 0.9270/0.9322
+  Time: 927.0s
+  Status: SUCCESS
+
+Iteration 27/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 169/169/169
+  Coverage (before/after/force): 56.31%/59.19%/100.00%
+  Topic 0 ratio (after/force): 23.80%/36.27%
+  Topic 1 ratio (after/force): 7.28%/8.40%
+  Coherence (after/force): 0.6430/0.4812
+  Diversity (after/force): 0.8787/0.8976
+  Time: 1370.0s
+  Status: SUCCESS
+
+Iteration 28/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 183/183/183
+  Coverage (before/after/force): 47.17%/50.73%/100.00%
+  Topic 0 ratio (after/force): 7.49%/8.40%
+  Topic 1 ratio (after/force): 6.39%/9.10%
+  Coherence (after/force): 0.6531/0.4771
+  Diversity (after/force): 0.8738/0.8902
+  Time: 1330.7s
+  Status: SUCCESS
+
+Iteration 29/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 141/141/141
+  Coverage (before/after/force): 55.41%/59.70%/100.00%
+  Topic 0 ratio (after/force): 24.58%/36.72%
+  Topic 1 ratio (after/force): 7.28%/8.43%
+  Coherence (after/force): 0.6536/0.4406
+  Diversity (after/force): 0.9021/0.9184
+  Time: 1185.4s
+  Status: SUCCESS
+
+Iteration 30/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 152/152/152
+  Coverage (before/after/force): 46.91%/51.99%/100.00%
+  Topic 0 ratio (after/force): 7.49%/8.34%
+  Topic 1 ratio (after/force): 6.55%/8.95%
+  Coherence (after/force): 0.6581/0.4578
+  Diversity (after/force): 0.9039/0.9204
+  Time: 1149.9s
+  Status: SUCCESS
+
+Iteration 31/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 157/157/157
+  Coverage (before/after/force): 42.47%/46.89%/100.00%
+  Topic 0 ratio (after/force): 7.02%/8.35%
+  Topic 1 ratio (after/force): 5.21%/6.83%
+  Coherence (after/force): 0.6584/0.4469
+  Diversity (after/force): 0.8904/0.9115
+  Time: 1142.9s
+  Status: SUCCESS
+
+Iteration 32/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 120, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 114/114/114
+  Coverage (before/after/force): 54.36%/60.89%/100.00%
+  Topic 0 ratio (after/force): 25.49%/36.77%
+  Topic 1 ratio (after/force): 7.32%/8.45%
+  Coherence (after/force): 0.6483/0.4492
+  Diversity (after/force): 0.9272/0.9421
+  Time: 1027.6s
+  Status: SUCCESS
+
+Iteration 33/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 120, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 129/129/129
+  Coverage (before/after/force): 45.97%/53.38%/100.00%
+  Topic 0 ratio (after/force): 7.51%/8.35%
+  Topic 1 ratio (after/force): 6.94%/9.38%
+  Coherence (after/force): 0.6637/0.4576
+  Diversity (after/force): 0.9295/0.9372
+  Time: 1056.1s
+  Status: SUCCESS
+
+Iteration 34/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 120, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 135/135/135
+  Coverage (before/after/force): 41.59%/48.48%/100.00%
+  Topic 0 ratio (after/force): 7.05%/8.52%
+  Topic 1 ratio (after/force): 5.40%/6.96%
+  Coherence (after/force): 0.6553/0.4230
+  Diversity (after/force): 0.9222/0.9193
+  Time: 1051.6s
+  Status: SUCCESS
+
+Iteration 35/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 120, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 137/137/137
+  Coverage (before/after/force): 33.67%/41.40%/100.00%
+  Topic 0 ratio (after/force): 4.03%/7.70%
+  Topic 1 ratio (after/force): 4.01%/5.55%
+  Coherence (after/force): 0.6547/0.4146
+  Diversity (after/force): 0.9117/0.9000
+  Time: 1045.2s
+  Status: SUCCESS
+
+Iteration 36/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 140, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 101/101/101
+  Coverage (before/after/force): 53.71%/62.61%/100.00%
+  Topic 0 ratio (after/force): 26.45%/36.88%
+  Topic 1 ratio (after/force): 7.35%/8.38%
+  Coherence (after/force): 0.6315/0.4349
+  Diversity (after/force): 0.9436/0.9614
+  Time: 963.9s
+  Status: SUCCESS
+
+Iteration 37/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 140, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 109/109/109
+  Coverage (before/after/force): 45.32%/54.76%/100.00%
+  Topic 0 ratio (after/force): 7.79%/8.52%
+  Topic 1 ratio (after/force): 7.19%/9.38%
+  Coherence (after/force): 0.6449/0.4328
+  Diversity (after/force): 0.9376/0.9477
+  Time: 977.4s
+  Status: SUCCESS
+
+Iteration 38/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 140, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 118/118/118
+  Coverage (before/after/force): 41.05%/49.32%/100.00%
+  Topic 0 ratio (after/force): 7.04%/8.46%
+  Topic 1 ratio (after/force): 5.56%/7.15%
+  Coherence (after/force): 0.6295/0.3993
+  Diversity (after/force): 0.9322/0.9339
+  Time: 984.9s
+  Status: SUCCESS
+
+Iteration 39/78
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 140, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 120/120/120
+  Coverage (before/after/force): 33.07%/43.13%/100.00%
+  Topic 0 ratio (after/force): 4.45%/7.75%
+  Topic 1 ratio (after/force): 4.22%/5.62%
+  Coherence (after/force): 0.6505/0.4075
+  Diversity (after/force): 0.9167/0.9025
+  Time: 980.6s
+  Status: SUCCESS
+
+Iteration 40/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 25/25/25
+  Coverage (before/after/force): 94.79%/96.09%/100.00%
+  Topic 0 ratio (after/force): 93.32%/96.46%
+  Topic 1 ratio (after/force): 1.41%/1.44%
+  Coherence (after/force): 0.5886/0.4693
+  Diversity (after/force): 0.8680/0.9160
+  Time: 908.4s
+  Status: SUCCESS
+
+Iteration 41/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 80, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 32/32/32
+  Coverage (before/after/force): 90.61%/94.94%/100.00%
+  Topic 0 ratio (after/force): 83.06%/86.78%
+  Topic 1 ratio (after/force): 7.80%/8.00%
+  Coherence (after/force): 0.6101/0.5121
+  Diversity (after/force): 0.8875/0.9250
+  Time: 875.5s
+  Status: SUCCESS
+
+Iteration 42/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 19/19/19
+  Coverage (before/after/force): 94.88%/96.14%/100.00%
+  Topic 0 ratio (after/force): 93.64%/96.67%
+  Topic 1 ratio (after/force): 1.38%/1.46%
+  Coherence (after/force): 0.5904/0.4555
+  Diversity (after/force): 0.8789/0.9737
+  Time: 854.0s
+  Status: SUCCESS
+
+Iteration 43/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 100, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 26/26/26
+  Coverage (before/after/force): 90.40%/95.41%/100.00%
+  Topic 0 ratio (after/force): 83.54%/86.97%
+  Topic 1 ratio (after/force): 7.78%/7.93%
+  Coherence (after/force): 0.5795/0.5082
+  Diversity (after/force): 0.9192/0.9269
+  Time: 828.7s
+  Status: SUCCESS
+
+Iteration 44/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 100, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 29/29/29
+  Coverage (before/after/force): 87.47%/95.39%/100.00%
+  Topic 0 ratio (after/force): 77.09%/80.09%
+  Topic 1 ratio (after/force): 7.69%/7.86%
+  Coherence (after/force): 0.5972/0.4931
+  Diversity (after/force): 0.9172/0.9448
+  Time: 827.3s
+  Status: SUCCESS
+
+Iteration 45/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 120, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 12/12/12
+  Coverage (before/after/force): 94.64%/96.73%/100.00%
+  Topic 0 ratio (after/force): 94.49%/97.19%
+  Topic 1 ratio (after/force): 1.42%/1.53%
+  Coherence (after/force): 0.5277/0.4065
+  Diversity (after/force): 0.9000/0.9167
+  Time: 822.2s
+  Status: SUCCESS
+
+Iteration 46/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 120, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 19/19/19
+  Coverage (before/after/force): 90.11%/94.76%/100.00%
+  Topic 0 ratio (after/force): 83.49%/87.40%
+  Topic 1 ratio (after/force): 7.71%/7.88%
+  Coherence (after/force): 0.6325/0.5088
+  Diversity (after/force): 0.8737/0.9211
+  Time: 819.5s
+  Status: SUCCESS
+
+Iteration 47/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 120, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 22/22/22
+  Coverage (before/after/force): 87.18%/93.58%/100.00%
+  Topic 0 ratio (after/force): 76.10%/80.30%
+  Topic 1 ratio (after/force): 7.71%/7.90%
+  Coherence (after/force): 0.6483/0.4554
+  Diversity (after/force): 0.9000/0.9591
+  Time: 783.6s
+  Status: SUCCESS
+
+Iteration 48/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 120, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 27/27/27
+  Coverage (before/after/force): 78.81%/90.28%/100.00%
+  Topic 0 ratio (after/force): 72.05%/78.55%
+  Topic 1 ratio (after/force): 7.67%/7.95%
+  Coherence (after/force): 0.6455/0.4646
+  Diversity (after/force): 0.9259/0.9667
+  Time: 771.2s
+  Status: SUCCESS
+
+Iteration 49/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 140, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 9/9/9
+  Coverage (before/after/force): 94.48%/97.71%/100.00%
+  Topic 0 ratio (after/force): 95.53%/97.42%
+  Topic 1 ratio (after/force): 1.42%/1.53%
+  Coherence (after/force): 0.5494/0.3937
+  Diversity (after/force): 0.9222/0.9556
+  Time: 785.1s
+  Status: SUCCESS
+
+Iteration 50/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 140, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 15/15/15
+  Coverage (before/after/force): 90.22%/97.06%/100.00%
+  Topic 0 ratio (after/force): 85.50%/87.64%
+  Topic 1 ratio (after/force): 7.83%/7.95%
+  Coherence (after/force): 0.5815/0.5414
+  Diversity (after/force): 0.9067/0.9200
+  Time: 768.7s
+  Status: SUCCESS
+
+Iteration 51/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 140, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 17/17/17
+  Coverage (before/after/force): 86.92%/96.54%/100.00%
+  Topic 0 ratio (after/force): 78.51%/80.55%
+  Topic 1 ratio (after/force): 7.82%/7.95%
+  Coherence (after/force): 0.5901/0.4606
+  Diversity (after/force): 0.9235/0.9588
+  Time: 736.7s
+  Status: SUCCESS
+
+Iteration 52/78
+  Parameters: {'n_neighbors': 15, 'n_components': 3, 'min_cluster_size': 140, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 22/22/22
+  Coverage (before/after/force): 78.55%/94.15%/100.00%
+  Topic 0 ratio (after/force): 75.10%/78.90%
+  Topic 1 ratio (after/force): 7.80%/8.00%
+  Coherence (after/force): 0.5365/0.4651
+  Diversity (after/force): 0.9273/0.9591
+  Time: 748.3s
+  Status: SUCCESS
+
+Iteration 53/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 60/60/60
+  Coverage (before/after/force): 61.43%/70.65%/100.00%
+  Topic 0 ratio (after/force): 51.64%/71.59%
+  Topic 1 ratio (after/force): 7.05%/8.31%
+  Coherence (after/force): 0.6253/0.4498
+  Diversity (after/force): 0.9333/0.9583
+  Time: 911.0s
+  Status: SUCCESS
+
+Iteration 54/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 80, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 83/83/83
+  Coverage (before/after/force): 48.96%/58.94%/100.00%
+  Topic 0 ratio (after/force): 34.68%/53.53%
+  Topic 1 ratio (after/force): 8.47%/10.62%
+  Coherence (after/force): 0.6336/0.4640
+  Diversity (after/force): 0.9301/0.9578
+  Time: 952.7s
+  Status: SUCCESS
+
+Iteration 55/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 51/51/51
+  Coverage (before/after/force): 61.12%/74.21%/100.00%
+  Topic 0 ratio (after/force): 54.67%/71.90%
+  Topic 1 ratio (after/force): 7.20%/8.29%
+  Coherence (after/force): 0.5947/0.4092
+  Diversity (after/force): 0.9431/0.9706
+  Time: 862.3s
+  Status: SUCCESS
+
+Iteration 56/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 100, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 70/70/70
+  Coverage (before/after/force): 48.51%/62.27%/100.00%
+  Topic 0 ratio (after/force): 36.83%/54.00%
+  Topic 1 ratio (after/force): 8.74%/11.01%
+  Coherence (after/force): 0.6134/0.4457
+  Diversity (after/force): 0.9457/0.9671
+  Time: 894.9s
+  Status: SUCCESS
+
+Iteration 57/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 100, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 88/88/88
+  Coverage (before/after/force): 42.96%/50.93%/100.00%
+  Topic 0 ratio (after/force): 14.86%/26.07%
+  Topic 1 ratio (after/force): 5.88%/6.86%
+  Coherence (after/force): 0.6472/0.4519
+  Diversity (after/force): 0.9375/0.9682
+  Time: 928.8s
+  Status: SUCCESS
+
+Iteration 58/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 120, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 41/41/41
+  Coverage (before/after/force): 60.69%/76.48%/100.00%
+  Topic 0 ratio (after/force): 56.76%/72.50%
+  Topic 1 ratio (after/force): 7.23%/8.01%
+  Coherence (after/force): 0.5689/0.4035
+  Diversity (after/force): 0.9634/0.9780
+  Time: 816.8s
+  Status: SUCCESS
+
+Iteration 59/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 120, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 57/57/57
+  Coverage (before/after/force): 48.12%/61.76%/100.00%
+  Topic 0 ratio (after/force): 36.86%/55.07%
+  Topic 1 ratio (after/force): 8.66%/10.66%
+  Coherence (after/force): 0.5934/0.4422
+  Diversity (after/force): 0.9649/0.9789
+  Time: 842.3s
+  Status: SUCCESS
+
+Iteration 60/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 120, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 76/76/76
+  Coverage (before/after/force): 42.57%/52.90%/100.00%
+  Topic 0 ratio (after/force): 15.98%/26.59%
+  Topic 1 ratio (after/force): 5.92%/6.82%
+  Coherence (after/force): 0.6518/0.4340
+  Diversity (after/force): 0.9566/0.9684
+  Time: 874.5s
+  Status: SUCCESS
+
+Iteration 61/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 120, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 77/77/77
+  Coverage (before/after/force): 38.70%/48.47%/100.00%
+  Topic 0 ratio (after/force): 10.34%/18.74%
+  Topic 1 ratio (after/force): 6.16%/7.06%
+  Coherence (after/force): 0.6524/0.3969
+  Diversity (after/force): 0.9571/0.9571
+  Time: 875.7s
+  Status: SUCCESS
+
+Iteration 62/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 140, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 31/31/31
+  Coverage (before/after/force): 60.17%/78.77%/100.00%
+  Topic 0 ratio (after/force): 59.72%/74.64%
+  Topic 1 ratio (after/force): 7.34%/8.26%
+  Coherence (after/force): 0.5465/0.4110
+  Diversity (after/force): 0.9774/0.9806
+  Time: 783.5s
+  Status: SUCCESS
+
+Iteration 63/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 140, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 51/51/51
+  Coverage (before/after/force): 47.86%/61.62%/100.00%
+  Topic 0 ratio (after/force): 35.56%/51.55%
+  Topic 1 ratio (after/force): 8.75%/10.62%
+  Coherence (after/force): 0.5819/0.4032
+  Diversity (after/force): 0.9765/0.9784
+  Time: 823.7s
+  Status: SUCCESS
+
+Iteration 64/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 140, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 65/65/65
+  Coverage (before/after/force): 42.41%/55.41%/100.00%
+  Topic 0 ratio (after/force): 17.07%/27.00%
+  Topic 1 ratio (after/force): 5.99%/7.02%
+  Coherence (after/force): 0.6292/0.4082
+  Diversity (after/force): 0.9662/0.9769
+  Time: 843.5s
+  Status: SUCCESS
+
+Iteration 65/78
+  Parameters: {'n_neighbors': 15, 'n_components': 5, 'min_cluster_size': 140, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 69/69/69
+  Coverage (before/after/force): 38.37%/52.29%/100.00%
+  Topic 0 ratio (after/force): 11.50%/18.80%
+  Topic 1 ratio (after/force): 6.20%/7.06%
+  Coherence (after/force): 0.6477/0.3864
+  Diversity (after/force): 0.9609/0.9739
+  Time: 858.4s
+  Status: SUCCESS
+
+Iteration 66/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 85/85/85
+  Coverage (before/after/force): 50.74%/55.87%/100.00%
+  Topic 0 ratio (after/force): 31.93%/54.08%
+  Topic 1 ratio (after/force): 6.41%/8.13%
+  Coherence (after/force): 0.6332/0.4698
+  Diversity (after/force): 0.9353/0.9576
+  Time: 994.9s
+  Status: SUCCESS
+
+Iteration 67/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 104/104/104
+  Coverage (before/after/force): 42.67%/47.76%/100.00%
+  Topic 0 ratio (after/force): 13.25%/21.79%
+  Topic 1 ratio (after/force): 6.72%/7.49%
+  Coherence (after/force): 0.6513/0.4798
+  Diversity (after/force): 0.9221/0.9462
+  Time: 1037.4s
+  Status: SUCCESS
+
+Iteration 68/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 67/67/67
+  Coverage (before/after/force): 50.12%/56.90%/100.00%
+  Topic 0 ratio (after/force): 33.16%/56.72%
+  Topic 1 ratio (after/force): 6.54%/8.37%
+  Coherence (after/force): 0.6264/0.4776
+  Diversity (after/force): 0.9597/0.9612
+  Time: 922.5s
+  Status: SUCCESS
+
+Iteration 69/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 89/89/89
+  Coverage (before/after/force): 42.59%/49.24%/100.00%
+  Topic 0 ratio (after/force): 14.01%/22.59%
+  Topic 1 ratio (after/force): 6.74%/7.48%
+  Coherence (after/force): 0.6381/0.4831
+  Diversity (after/force): 0.9461/0.9449
+  Time: 970.8s
+  Status: SUCCESS
+
+Iteration 70/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 97/97/97
+  Coverage (before/after/force): 36.38%/44.25%/100.00%
+  Topic 0 ratio (after/force): 9.55%/18.66%
+  Topic 1 ratio (after/force): 6.19%/7.47%
+  Coherence (after/force): 0.6607/0.4683
+  Diversity (after/force): 0.9299/0.9536
+  Time: 997.7s
+  Status: SUCCESS
+
+Iteration 71/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 120, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 59/59/59
+  Coverage (before/after/force): 49.81%/60.56%/100.00%
+  Topic 0 ratio (after/force): 36.12%/57.40%
+  Topic 1 ratio (after/force): 6.52%/8.07%
+  Coherence (after/force): 0.6244/0.4832
+  Diversity (after/force): 0.9763/0.9678
+  Time: 892.2s
+  Status: SUCCESS
+
+Iteration 72/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 120, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 81/81/81
+  Coverage (before/after/force): 42.29%/51.96%/100.00%
+  Topic 0 ratio (after/force): 14.73%/22.97%
+  Topic 1 ratio (after/force): 6.79%/7.47%
+  Coherence (after/force): 0.6286/0.4553
+  Diversity (after/force): 0.9593/0.9580
+  Time: 932.4s
+  Status: SUCCESS
+
+Iteration 73/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 120, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 88/88/88
+  Coverage (before/after/force): 36.05%/44.40%/100.00%
+  Topic 0 ratio (after/force): 10.13%/18.65%
+  Topic 1 ratio (after/force): 6.18%/7.09%
+  Coherence (after/force): 0.6652/0.4452
+  Diversity (after/force): 0.9420/0.9500
+  Time: 948.8s
+  Status: SUCCESS
+
+Iteration 74/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 120, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 87/87/87
+  Coverage (before/after/force): 34.52%/42.17%/100.00%
+  Topic 0 ratio (after/force): 6.42%/7.14%
+  Topic 1 ratio (after/force): 4.85%/5.97%
+  Coherence (after/force): 0.6766/0.4336
+  Diversity (after/force): 0.9529/0.9563
+  Time: 949.6s
+  Status: SUCCESS
+
+Iteration 75/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 140, 'min_samples': 30, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 54/54/54
+  Coverage (before/after/force): 49.67%/64.05%/100.00%
+  Topic 0 ratio (after/force): 38.86%/57.21%
+  Topic 1 ratio (after/force): 6.50%/7.85%
+  Coherence (after/force): 0.6231/0.4564
+  Diversity (after/force): 0.9889/0.9722
+  Time: 870.9s
+  Status: SUCCESS
+
+Iteration 76/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 140, 'min_samples': 55, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 70/70/70
+  Coverage (before/after/force): 41.89%/53.19%/100.00%
+  Topic 0 ratio (after/force): 15.27%/23.58%
+  Topic 1 ratio (after/force): 6.79%/7.26%
+  Coherence (after/force): 0.6136/0.4483
+  Diversity (after/force): 0.9686/0.9700
+  Time: 899.4s
+  Status: SUCCESS
+
+Iteration 77/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 140, 'min_samples': 80, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 74/74/74
+  Coverage (before/after/force): 36.16%/46.36%/100.00%
+  Topic 0 ratio (after/force): 10.51%/18.39%
+  Topic 1 ratio (after/force): 6.22%/7.22%
+  Coherence (after/force): 0.6390/0.4263
+  Diversity (after/force): 0.9568/0.9595
+  Time: 905.8s
+  Status: SUCCESS
+
+Iteration 78/78
+  Parameters: {'n_neighbors': 15, 'n_components': 10, 'min_cluster_size': 140, 'min_samples': 105, 'cluster_selection_epsilon': 0.2, 'min_df': 5, 'max_df': 0.7}
+  Topics (before/after/force): 77/77/77
+  Coverage (before/after/force): 34.41%/44.13%/100.00%
+  Topic 0 ratio (after/force): 6.44%/7.33%
+  Topic 1 ratio (after/force): 4.95%/6.06%
+  Coherence (after/force): 0.6649/0.4176
+  Diversity (after/force): 0.9675/0.9688
+  Time: 912.9s
+  Status: SUCCESS
+
+================================================================================
+Total iterations: 78
+Successful: 78
+Failed: 0

@@ -1,0 +1,19 @@
+"""Context: Du bist ein Kulturwissenschaftler mit Expertise in Textanalyse und Songinterpretationen.
+Objective: Interpretiere den Song "{titel}" von {künstler} aus dem Jahr {jahr} aus kulturwissenschaftlicher Perspektive.
+Style: Klar verständlich
+Tone: Objektiv
+Response: auf Deutsch, maximal 300 Wörter, strukturiert in drei Absätze, keine Zwischenüberschriften
+SONGTEXT: {songtext}
+ANALYSERAHMEN:
+
+Zentrale Botschaft und thematische Komplexität
+Literarische Stilmittel (Metaphern, Symbole, Bilder, Narrative)
+Emotionale Wirkung und affektive Dimension
+Kultureller, historischer und gesellschaftlicher Kontext
+Tiefere Bedeutungsebenen und symbolische Ordnungen
+
+ANFORDERUNGEN:
+
+Belege jede Behauptung mit konkreten Textzeilen
+Identifiziere Ambiguitäten, Spannungen und Widersprüche statt sie aufzulösen
+Vermeide oberflächliche Aussagen"""

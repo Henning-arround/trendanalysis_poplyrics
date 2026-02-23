@@ -1,0 +1,47 @@
+Nimm die HTML File als Input. Basierend auf dieser HTML File möchte ich mehrere Informationen scrapen. Die Informationen sollen am Ende in eine CSV. Die Informationen die ich scrapen möchte sind folgende. hinter den doppelpunkten ist immer ein beispiel aus der HTML gegeben wo die Information steht
+ record = {
+        "Künstler":<h1 class="big-head">John Lennon / Plastic Ono Band</h1>
+        "Titel": <h2 class="sub-head">Imagine <a class="label label-primary gfk-label" href="https://www.offiziellecharts.de/charts/single">Single</a>
+                </h2> (ohne "Single")
+        "Album": erstmal offen lassen
+        "Jahr":  <td class="detail-info-label">Jahr:</td>
+                            <td>1971
+                            </td> (hier nur 1971)
+        "Musik/Text":  <td class="detail-info-label">Musik/Text:</td>
+                                <td>
+                                    <ul class="list-unstyled">
+                                                                                    <li>
+                                                <a href="https://www.offiziellecharts.de/component/content/article/10-suche?Itemid=139&amp;personId=9">John Lennon</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.offiziellecharts.de/component/content/article/10-suche?Itemid=139&amp;personId=679">Yoko Ono</a>
+                                            </li>
+                                                                            </ul>
+                                </td> (hier die Musik/Text im text des a elements. Bitte mit semikolon trennen)
+        "Produzent": <td class="detail-info-label">Produzent:</td>
+                                <td>
+                                    <ul class="list-unstyled">
+                                                                                    <li>
+                                                <a href="https://www.offiziellecharts.de/component/content/article/10-suche?Itemid=139&amp;personId=9">John Lennon</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.offiziellecharts.de/component/content/article/10-suche?Itemid=139&amp;personId=182">Phil Spector</a>
+                                            </li>
+                                                                                    <li>
+                                                <a href="https://www.offiziellecharts.de/component/content/article/10-suche?Itemid=139&amp;personId=679">Yoko Ono</a>
+                                            </li>
+                                                                            </ul>
+                                </td> (hier die produzenten im Text des a elementes. Bitte mit Semikolon trennen)
+        "Chartentry":  <td class="detail-info-label">Chartentry:</td>
+                                                                    <td>02.02.1981 (15)</td> (hier bitte nur 02.02.1981 (15))
+        "Letzte Chartposition": <td class="detail-info-label">Letzte Chartposition:</td>
+                                <td>05.02.2010                                    (94)
+                                </td> (hier auch nur 05.02.2010                                    (94))
+        "Chartverlauf": "                <div class="graph-wrapper">
+                                            <div id="chartgraph" style="height: 500px; overflow: hidden;" data-chart="15,13,12,12,9,7,15,14,13,21,33,27,37,27,40,42,44,52,54,67,null,null,null,null," (hier soll diese Zeichenkette extrahiert werden: "15,13,12,12,9,7,15,14,13,21,33,27,37,27,40,42,44,52,54,67" also bis zum ersten null).
+        "Anzahl Wochen":  <td class="detail-info-label">Anzahl Wochen: </td>
+                                <td>21</td> (hier nur die 21)
+        "Erscheinungsjahr Album": erstmal offen lassen
+    }
+    
+Damit du auch immer die richtigen Elemente extrahierst checke ob die keys als text vorkommen, also jahr, musik/text, Produzent, und so weiter. 

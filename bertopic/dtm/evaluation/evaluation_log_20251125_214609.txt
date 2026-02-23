@@ -1,0 +1,697 @@
+Evaluation started at 2025-11-25 21:46:09
+Total combinations: 96
+================================================================================
+
+Iteration 1/96 - 22:30:46
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 154/154
+  Outlier ratio: 54.83%
+  Coherence: 0.2793
+  Diversity: 0.7942
+  Time: 2676.5s
+  Status: SUCCESS
+
+Iteration 2/96 - 22:50:25
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 39/39
+  Outlier ratio: 19.73%
+  Coherence: 0.3110
+  Diversity: 0.9154
+  Time: 1177.6s
+  Status: SUCCESS
+
+Iteration 3/96 - 23:49:29
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 165/165
+  Outlier ratio: 74.99%
+  Coherence: 0.2793
+  Diversity: 0.7994
+  Time: 3543.0s
+  Status: SUCCESS
+
+Iteration 4/96 - 00:32:44
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 74/74
+  Outlier ratio: 52.93%
+  Coherence: 0.2672
+  Diversity: 0.9216
+  Time: 2593.6s
+  Status: SUCCESS
+
+Iteration 5/96 - 01:35:17
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 135/135
+  Outlier ratio: 79.93%
+  Coherence: 0.2619
+  Diversity: 0.8163
+  Time: 3752.2s
+  Status: SUCCESS
+
+Iteration 6/96 - 02:27:27
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 92/92
+  Outlier ratio: 65.31%
+  Coherence: 0.3024
+  Diversity: 0.8663
+  Time: 3128.9s
+  Status: SUCCESS
+
+Iteration 7/96 - 03:12:46
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 86/86
+  Outlier ratio: 55.93%
+  Coherence: 0.2848
+  Diversity: 0.8523
+  Time: 2717.2s
+  Status: SUCCESS
+
+Iteration 8/96 - 03:29:42
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 23/23
+  Outlier ratio: 15.80%
+  Coherence: 0.3390
+  Diversity: 0.9000
+  Time: 1014.7s
+  Status: SUCCESS
+
+Iteration 9/96 - 04:28:35
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 109/109
+  Outlier ratio: 75.04%
+  Coherence: 0.2574
+  Diversity: 0.8376
+  Time: 3531.0s
+  Status: SUCCESS
+
+Iteration 10/96 - 05:11:57
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 50/50
+  Outlier ratio: 53.36%
+  Coherence: 0.2984
+  Diversity: 0.9280
+  Time: 2600.8s
+  Status: SUCCESS
+
+Iteration 11/96 - 06:14:35
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 105/105
+  Outlier ratio: 80.22%
+  Coherence: 0.2744
+  Diversity: 0.8448
+  Time: 3757.1s
+  Status: SUCCESS
+
+Iteration 12/96 - 07:06:55
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 75/75
+  Outlier ratio: 65.64%
+  Coherence: 0.3259
+  Diversity: 0.8867
+  Time: 3138.7s
+  Status: SUCCESS
+
+Iteration 13/96 - 07:52:21
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 69/69
+  Outlier ratio: 56.23%
+  Coherence: 0.2791
+  Diversity: 0.8681
+  Time: 2724.5s
+  Status: SUCCESS
+
+Iteration 14/96 - 08:08:03
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 17/17
+  Outlier ratio: 14.25%
+  Coherence: 0.3009
+  Diversity: 0.9059
+  Time: 941.2s
+  Status: SUCCESS
+
+Iteration 15/96 - 09:07:13
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 84/84
+  Outlier ratio: 75.61%
+  Coherence: 0.3028
+  Diversity: 0.8726
+  Time: 3549.3s
+  Status: SUCCESS
+
+Iteration 16/96 - 09:50:45
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 36/36
+  Outlier ratio: 53.70%
+  Coherence: 0.3782
+  Diversity: 0.9472
+  Time: 2610.2s
+  Status: SUCCESS
+
+Iteration 17/96 - 10:52:44
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 82/82
+  Outlier ratio: 79.11%
+  Coherence: 0.2992
+  Diversity: 0.8683
+  Time: 3717.9s
+  Status: SUCCESS
+
+Iteration 18/96 - 11:44:55
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 55/55
+  Outlier ratio: 65.45%
+  Coherence: 0.2482
+  Diversity: 0.9091
+  Time: 3129.6s
+  Status: SUCCESS
+
+Iteration 19/96 - 12:30:37
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 54/54
+  Outlier ratio: 56.63%
+  Coherence: 0.2955
+  Diversity: 0.9241
+  Time: 2740.8s
+  Status: SUCCESS
+
+Iteration 20/96 - 12:46:24
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 13/13
+  Outlier ratio: 14.35%
+  Coherence: 0.3258
+  Diversity: 0.9385
+  Time: 945.8s
+  Status: SUCCESS
+
+Iteration 21/96 - 13:46:02
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 68/68
+  Outlier ratio: 74.98%
+  Coherence: 0.2961
+  Diversity: 0.8956
+  Time: 3576.7s
+  Status: SUCCESS
+
+Iteration 22/96 - 14:29:25
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 30/30
+  Outlier ratio: 53.43%
+  Coherence: 0.4467
+  Diversity: 0.9467
+  Time: 2602.4s
+  Status: SUCCESS
+
+Iteration 23/96 - 15:30:44
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 71/71
+  Outlier ratio: 78.15%
+  Coherence: 0.3135
+  Diversity: 0.9127
+  Time: 3677.6s
+  Status: SUCCESS
+
+Iteration 24/96 - 16:23:46
+  Parameters: {'n_neighbors': 5, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 50/50
+  Outlier ratio: 65.56%
+  Coherence: 0.3188
+  Diversity: 0.9380
+  Time: 3180.1s
+  Status: SUCCESS
+
+Iteration 25/96 - 17:10:07
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 152/152
+  Outlier ratio: 55.52%
+  Coherence: 0.2864
+  Diversity: 0.7961
+  Time: 2779.8s
+  Status: SUCCESS
+
+Iteration 26/96 - 17:32:36
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 39/39
+  Outlier ratio: 21.73%
+  Coherence: 0.2732
+  Diversity: 0.9359
+  Time: 1348.2s
+  Status: SUCCESS
+
+Iteration 27/96 - 18:35:44
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 166/166
+  Outlier ratio: 75.85%
+  Coherence: 0.2417
+  Diversity: 0.7922
+  Time: 3784.9s
+  Status: SUCCESS
+
+Iteration 28/96 - 19:22:25
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 74/74
+  Outlier ratio: 53.08%
+  Coherence: 0.2399
+  Diversity: 0.9095
+  Time: 2799.8s
+  Status: SUCCESS
+
+Iteration 29/96 - 20:26:33
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 129/129
+  Outlier ratio: 79.53%
+  Coherence: 0.2665
+  Diversity: 0.8147
+  Time: 3846.4s
+  Status: SUCCESS
+
+Iteration 30/96 - 21:20:41
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 86/86
+  Outlier ratio: 65.97%
+  Coherence: 0.2715
+  Diversity: 0.8814
+  Time: 3246.9s
+  Status: SUCCESS
+
+Iteration 31/96 - 22:07:54
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 60, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 76/76
+  Outlier ratio: 56.84%
+  Coherence: 0.3084
+  Diversity: 0.8829
+  Time: 2832.0s
+  Status: SUCCESS
+
+Iteration 32/96 - 22:25:20
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 60, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 18/18
+  Outlier ratio: 14.56%
+  Coherence: 0.2837
+  Diversity: 0.9389
+  Time: 1044.9s
+  Status: SUCCESS
+
+Iteration 33/96 - 23:26:32
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 60, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 108/108
+  Outlier ratio: 75.98%
+  Coherence: 0.2430
+  Diversity: 0.8343
+  Time: 3669.4s
+  Status: SUCCESS
+
+Iteration 34/96 - 00:10:22
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 60, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 45/45
+  Outlier ratio: 51.92%
+  Coherence: 0.4334
+  Diversity: 0.9489
+  Time: 2629.4s
+  Status: SUCCESS
+
+Iteration 35/96 - 01:13:57
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 60, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 99/99
+  Outlier ratio: 79.25%
+  Coherence: 0.2825
+  Diversity: 0.8566
+  Time: 3813.9s
+  Status: SUCCESS
+
+Iteration 36/96 - 02:08:15
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 60, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 69/69
+  Outlier ratio: 66.22%
+  Coherence: 0.2830
+  Diversity: 0.9072
+  Time: 3256.2s
+  Status: SUCCESS
+
+Iteration 37/96 - 02:55:41
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 80, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 61/61
+  Outlier ratio: 57.18%
+  Coherence: 0.3144
+  Diversity: 0.9213
+  Time: 2845.1s
+  Status: SUCCESS
+
+Iteration 38/96 - 03:13:11
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 80, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 15/15
+  Outlier ratio: 14.65%
+  Coherence: 0.3124
+  Diversity: 0.9533
+  Time: 1048.2s
+  Status: SUCCESS
+
+Iteration 39/96 - 04:14:06
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 85/85
+  Outlier ratio: 75.77%
+  Coherence: 0.2776
+  Diversity: 0.8741
+  Time: 3653.8s
+  Status: SUCCESS
+
+Iteration 40/96 - 04:57:45
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 35/35
+  Outlier ratio: 51.66%
+  Coherence: 0.2081
+  Diversity: 0.9457
+  Time: 2618.0s
+  Status: SUCCESS
+
+Iteration 41/96 - 06:00:37
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 80, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 80/80
+  Outlier ratio: 78.23%
+  Coherence: 0.3134
+  Diversity: 0.8788
+  Time: 3770.7s
+  Status: SUCCESS
+
+Iteration 42/96 - 06:55:05
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 80, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 54/54
+  Outlier ratio: 66.53%
+  Coherence: 0.2810
+  Diversity: 0.9185
+  Time: 3266.5s
+  Status: SUCCESS
+
+Iteration 43/96 - 07:42:41
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 100, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 51/51
+  Outlier ratio: 57.53%
+  Coherence: 0.2458
+  Diversity: 0.9196
+  Time: 2855.4s
+  Status: SUCCESS
+
+Iteration 44/96 - 07:59:25
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 100, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 12/12
+  Outlier ratio: 13.64%
+  Coherence: 0.2161
+  Diversity: 0.9583
+  Time: 1002.8s
+  Status: SUCCESS
+
+Iteration 45/96 - 09:00:28
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 69/69
+  Outlier ratio: 76.03%
+  Coherence: 0.3362
+  Diversity: 0.9159
+  Time: 3661.1s
+  Status: SUCCESS
+
+Iteration 46/96 - 09:44:11
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 27/27
+  Outlier ratio: 51.87%
+  Coherence: 0.3056
+  Diversity: 0.9630
+  Time: 2622.5s
+  Status: SUCCESS
+
+Iteration 47/96 - 10:46:41
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 100, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 74/74
+  Outlier ratio: 77.69%
+  Coherence: 0.2896
+  Diversity: 0.9000
+  Time: 3748.9s
+  Status: SUCCESS
+
+Iteration 48/96 - 11:41:12
+  Parameters: {'n_neighbors': 5, 'n_components': 20, 'min_cluster_size': 100, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 51/51
+  Outlier ratio: 66.60%
+  Coherence: 0.3542
+  Diversity: 0.9431
+  Time: 3269.8s
+  Status: SUCCESS
+
+Iteration 49/96 - 12:28:01
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 53/53
+  Outlier ratio: 57.47%
+  Coherence: 0.2647
+  Diversity: 0.9302
+  Time: 2807.5s
+  Status: SUCCESS
+
+Iteration 50/96 - 12:47:10
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 27/27
+  Outlier ratio: 18.01%
+  Coherence: 0.3756
+  Diversity: 0.9148
+  Time: 1147.6s
+  Status: SUCCESS
+
+Iteration 51/96 - 13:48:14
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 75/75
+  Outlier ratio: 77.32%
+  Coherence: 0.2662
+  Diversity: 0.9107
+  Time: 3662.8s
+  Status: SUCCESS
+
+Iteration 52/96 - 14:28:38
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 31/31
+  Outlier ratio: 48.37%
+  Coherence: 0.2040
+  Diversity: 0.9677
+  Time: 2423.1s
+  Status: SUCCESS
+
+Iteration 53/96 - 15:33:01
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 75/75
+  Outlier ratio: 81.96%
+  Coherence: 0.3468
+  Diversity: 0.9253
+  Time: 3861.5s
+  Status: SUCCESS
+
+Iteration 54/96 - 16:24:18
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 40, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 43/43
+  Outlier ratio: 63.52%
+  Coherence: 0.2424
+  Diversity: 0.9628
+  Time: 3075.9s
+  Status: SUCCESS
+
+Iteration 55/96 - 17:11:19
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 35/35
+  Outlier ratio: 57.80%
+  Coherence: 0.2756
+  Diversity: 0.9771
+  Time: 2819.7s
+  Status: SUCCESS
+
+Iteration 56/96 - 17:30:35
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 18/18
+  Outlier ratio: 18.19%
+  Coherence: 0.3175
+  Diversity: 0.9556
+  Time: 1154.2s
+  Status: SUCCESS
+
+Iteration 57/96 - 18:31:37
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 57/57
+  Outlier ratio: 77.44%
+  Coherence: 0.3657
+  Diversity: 0.9596
+  Time: 3661.1s
+  Status: SUCCESS
+
+Iteration 58/96 - 19:12:18
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 21/21
+  Outlier ratio: 48.57%
+  Coherence: 0.4656
+  Diversity: 0.9524
+  Time: 2440.3s
+  Status: SUCCESS
+
+Iteration 59/96 - 20:16:52
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 63/63
+  Outlier ratio: 82.08%
+  Coherence: 0.2779
+  Diversity: 0.9571
+  Time: 3872.5s
+  Status: SUCCESS
+
+Iteration 60/96 - 21:08:15
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 60, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 35/35
+  Outlier ratio: 63.68%
+  Coherence: 0.2382
+  Diversity: 0.9743
+  Time: 3081.7s
+  Status: SUCCESS
+
+Iteration 61/96 - 21:54:47
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 25/25
+  Outlier ratio: 57.18%
+  Coherence: 0.3815
+  Diversity: 0.9920
+  Time: 2790.4s
+  Status: SUCCESS
+
+Iteration 62/96 - 22:14:04
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 14/14
+  Outlier ratio: 18.29%
+  Coherence: 0.2672
+  Diversity: 0.9857
+  Time: 1156.3s
+  Status: SUCCESS
+
+Iteration 63/96 - 23:15:13
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 49/49
+  Outlier ratio: 77.57%
+  Coherence: 0.4102
+  Diversity: 0.9633
+  Time: 3668.0s
+  Status: SUCCESS
+
+Iteration 64/96 - 23:55:51
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 18/18
+  Outlier ratio: 48.65%
+  Coherence: 0.2151
+  Diversity: 0.9833
+  Time: 2436.2s
+  Status: SUCCESS
+
+Iteration 65/96 - 01:00:29
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 54/54
+  Outlier ratio: 82.21%
+  Coherence: 0.5156
+  Diversity: 0.9537
+  Time: 3877.1s
+  Status: SUCCESS
+
+Iteration 66/96 - 01:51:57
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 80, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 30/30
+  Outlier ratio: 63.81%
+  Coherence: 0.3603
+  Diversity: 0.9667
+  Time: 3086.6s
+  Status: SUCCESS
+
+Iteration 67/96 - 02:38:36
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 17/17
+  Outlier ratio: 57.46%
+  Coherence: 0.4106
+  Diversity: 0.9882
+  Time: 2797.8s
+  Status: SUCCESS
+
+Iteration 68/96 - 02:57:58
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 9/9
+  Outlier ratio: 18.47%
+  Coherence: 0.3827
+  Diversity: 1.0000
+  Time: 1160.8s
+  Status: SUCCESS
+
+Iteration 69/96 - 03:59:19
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 43/43
+  Outlier ratio: 77.78%
+  Coherence: 0.2410
+  Diversity: 0.9558
+  Time: 3680.0s
+  Status: SUCCESS
+
+Iteration 70/96 - 04:40:00
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 14/14
+  Outlier ratio: 48.78%
+  Coherence: 0.2969
+  Diversity: 0.9714
+  Time: 2439.5s
+  Status: SUCCESS
+
+Iteration 71/96 - 05:44:42
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 46/46
+  Outlier ratio: 82.50%
+  Coherence: 0.2848
+  Diversity: 0.9652
+  Time: 3881.1s
+  Status: SUCCESS
+
+Iteration 72/96 - 06:36:11
+  Parameters: {'n_neighbors': 10, 'n_components': 10, 'min_cluster_size': 100, 'min_samples': 50, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 27/27
+  Outlier ratio: 63.92%
+  Coherence: 0.3281
+  Diversity: 0.9704
+  Time: 3087.5s
+  Status: SUCCESS
+
+Iteration 73/96 - 07:23:38
+  Parameters: {'n_neighbors': 10, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 10, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 60/60
+  Outlier ratio: 56.84%
+  Coherence: 0.2595
+  Diversity: 0.9533
+  Time: 2846.2s
+  Status: SUCCESS
+
+Iteration 74/96 - 07:44:15
+  Parameters: {'n_neighbors': 10, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 10, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 31/31
+  Outlier ratio: 18.60%
+  Coherence: 0.3242
+  Diversity: 0.9548
+  Time: 1235.7s
+  Status: SUCCESS
+
+Iteration 75/96 - 08:46:35
+  Parameters: {'n_neighbors': 10, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 30, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 76/76
+  Outlier ratio: 77.25%
+  Coherence: 0.3234
+  Diversity: 0.9013
+  Time: 3738.2s
+  Status: SUCCESS
+
+Iteration 76/96 - 09:28:23
+  Parameters: {'n_neighbors': 10, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 30, 'cluster_selection_epsilon': 0.23}
+  Topics (before/after): 36/36
+  Outlier ratio: 48.45%
+  Coherence: 0.2688
+  Diversity: 0.9722
+  Time: 2507.2s
+  Status: SUCCESS
+
+Iteration 77/96 - 10:33:49
+  Parameters: {'n_neighbors': 10, 'n_components': 20, 'min_cluster_size': 40, 'min_samples': 50, 'cluster_selection_epsilon': 0.17}
+  Topics (before/after): 72/72
+  Outlier ratio: 81.49%
+  Coherence: 0.2573
+  Diversity: 0.9264
+  Time: 3924.3s
+  Status: SUCCESS
+

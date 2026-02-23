@@ -1,0 +1,4 @@
+"""Analysiere und interpretiere den Song {titel} von {künstler} aus dem Jahr {jahr}. 
+Verfasse deine Interpretation als zusammenhängenden Fließtext mit maximal 300 Wörtern. Verwende keine Aufzählungen, Stichpunkte oder Zwischenüberschriften. Gib ausschließlich die Interpretation aus, ohne einleitende oder abschließende Kommentare.
+Songtext:
+{songtext}"""

@@ -1,0 +1,9 @@
+,,halluzination_score,halluzination_score,halluzination_score,halluzination_score,halluzination_score,halluzination_score,tiefe_score,tiefe_score,tiefe_score,tiefe_score,tiefe_score,tiefe_score
+,,mean,median,std,min,max,count,mean,median,std,min,max,count
+interpretations_model,methode,,,,,,,,,,,,
+deepseek,prompt_engineering,3.277,3.4,0.966,1.0,5.0,393,3.16,3.4,0.677,1.4,4.6,393
+deepseek,standard,3.844,4.0,0.948,1.0,5.0,392,3.271,3.4,0.537,1.8,5.0,392
+llama,prompt_engineering,3.417,3.4,0.863,1.0,5.0,392,3.39,3.4,0.512,2.0,4.8,392
+llama,standard,3.913,4.0,0.939,1.0,5.0,395,3.317,3.4,0.556,1.0,4.8,395
+openai,prompt_engineering,3.158,3.3,0.727,1.0,5.0,390,3.756,3.8,0.37,2.0,5.0,390
+openai,standard,3.653,3.6,0.928,1.0,5.0,385,3.724,3.8,0.571,1.2,5.0,385

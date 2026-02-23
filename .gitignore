@@ -1,0 +1,15 @@
+data/*
+llm_as_a_judge/evaluations*
+llm_as_a_judge/interpretations*
+bertopic/dtm/embedding/
+bertopic/dtm/models/bertopic_model_dtm
+bertopic/dtm/models/probabilities.npy
+bertopic/dtm_k_means/embedding/
+bertopic/dtm_k_means/models/
+documents.html
+all_topics_datacloud.html
+llm_scads.txt
+lyricsgenius_api_key.docx
+song-analysis*
+visualisations/examples*
+llm_as_a_judge/samples*
