@@ -149,6 +149,21 @@ def create_summary(df: pd.DataFrame, stats: pd.DataFrame) -> str:
                 summary.append(f"    Interpretationstiefe: {subset_methode['tiefe_score'].mean():.3f} (±{subset_methode['tiefe_score'].std():.3f})")
     
     summary.append("\n" + "=" * 80)
+
+    # Zusätzliche Tabellenansicht für "konkrete Werte"
+    summary.append("\n" + "=" * 80)
+    summary.append(f"{'Modell':<15} | {'Methode':<20} | {'Halluzinationsrate':<20} | {'Interpretationstiefe':<20}")
+    summary.append("-" * 80)
+    
+    for model in sorted(df['interpretations_model'].unique()):
+        for methode in ['standard', 'prompt_engineering']:
+            subset = df[(df['interpretations_model'] == model) & (df['methode'] == methode)]
+            if len(subset) > 0:
+                halluzination = round(subset['halluzination_score'].mean(), 3)
+                tiefe = round(subset['tiefe_score'].mean(), 3)
+                summary.append(f"{model:<15} | {methode:<20} | {halluzination:<20} | {tiefe:<20}")
+    
+    summary.append("=" * 80)
     
     return "\n".join(summary)
 
