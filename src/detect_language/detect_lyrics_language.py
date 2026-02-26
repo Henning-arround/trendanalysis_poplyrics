@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 def detect_language_from_file(lyrics_path):
     """
-    Detect language from a lyrics file.
+    Detect language from lyrics file.
     Returns language code or None if detection fails.
     """
     try:

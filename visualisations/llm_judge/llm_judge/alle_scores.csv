@@ -1,0 +1,2348 @@
+judge_model,interpretations_model,methode,song,halluzination_score,tiefe_score,beste_interpretation
+llama,deepseek,standard,Dick and Jane - Bobby Vinton (1974),3.4,3.4,1
+llama,openai,standard,Streets of Fear - Hawkwind (1981),3.6,3.6,1
+llama,openai,standard,Dance Dance Dance - Arabesque (1983),3.8,3.6,1
+llama,openai,standard,They Only Come Out At Night - Lordi (2006),3.6,3.6,1
+llama,deepseek,standard,When You Give It Away - Bruce Cockburn (1999),3.6,3.6,1
+llama,deepseek,standard,Thank Me Now - Drake (2010),4.4,3.6,3
+llama,llama,standard,Mama Told Me Not To Come - Wilson Pickett (1971),4.0,3.6,1
+llama,openai,standard,Welcome to the Big Room - Neil Young (2015),3.6,3.6,1
+llama,llama,standard,Number One - Laid Back (2019),4.0,4.0,1
+llama,deepseek,standard,Jekyll And Hyde - Judas Priest (2001),4.0,3.0,1
+llama,llama,standard,Ride It - Jay Sean (2007),3.4,3.6,1
+llama,deepseek,standard,You Belong To Me - Rick Astley (2005),4.2,3.4,5
+llama,llama,standard,Clues - Godley & Creme (1979),3.4,3.6,1
+llama,deepseek,standard,Clues - Godley & Creme (1979),3.6,3.6,1
+llama,deepseek,standard,Sleepy Time Gal - Bing Crosby (1953),3.4,3.0,2
+llama,openai,standard,Thank Me Now - Drake (2010),3.6,3.8,1
+llama,openai,standard,Heart of Stone - The Platters (1956),3.6,3.6,1
+llama,openai,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.6,4.0,1
+llama,llama,standard,Arschgesicht - Udo Lindenberg (1996),4.0,3.8,1
+llama,deepseek,standard,Light My Fire - Bananafishbones (2002),2.6,3.2,1
+llama,deepseek,standard,4:am Forever - Lostprophets (2006),4.2,3.4,5
+llama,openai,standard,All I Need - Heather Nova (2003),4.0,3.6,1
+llama,deepseek,standard,Got To Give It Up - Marvin Gaye (1977),3.8,2.8,5
+llama,llama,standard,Into The Blue - Rooney (2010),4.0,3.0,1
+llama,openai,standard,Sauerkrautpolka - Gus Backus (1961),3.6,3.6,1
+llama,deepseek,standard,Planetarium - Covenant (1997),3.6,3.6,1
+llama,deepseek,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",4.0,3.0,1
+llama,llama,standard,Du fehlst - Die Toten Hosen (2012),3.4,2.8,1
+llama,openai,standard,Teach Me Tonight - Neil Diamond (1988),3.8,4.4,5
+llama,llama,standard,Time Immemorial - Crowded House (1990),4.0,3.0,1
+llama,llama,standard,Dick and Jane - Bobby Vinton (1974),5.0,3.0,1
+llama,llama,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.6,3.6,1
+llama,llama,standard,Best Night - Justice Crew (2012),4.0,3.5,1
+llama,openai,standard,I Know - Vanilla Ninja (2005),3.8,4.2,5
+llama,openai,standard,Coffee - Kelly Rowland (2020),3.8,3.8,1
+llama,llama,standard,Battles - In Flames (2016),4.0,3.6,1
+llama,deepseek,standard,They Only Come Out At Night - Lordi (2006),4.0,3.0,1
+llama,deepseek,standard,Arschgesicht - Udo Lindenberg (1996),3.6,3.6,1
+llama,deepseek,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),4.2,3.2,3
+llama,deepseek,standard,You Know I Miss You - Fats Domino (1952),3.6,3.0,1
+llama,llama,standard,Drunk On Love - Basia (1994),3.2,3.2,1
+llama,llama,standard,Coffee - Kelly Rowland (2020),3.8,3.8,5
+llama,deepseek,standard,I Can't Stand The Rain - Seal (2008),3.4,3.4,1
+llama,deepseek,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),4.0,3.5,1
+llama,openai,standard,Time Immemorial - Crowded House (1990),3.6,3.6,1
+llama,openai,standard,One Day Tomorrow - Edgar Winter (1975),3.6,4.0,1
+llama,openai,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.6,3.6,1
+llama,llama,standard,Wait - Martin Jensen feat. Loote (2017),4.0,3.6,1
+llama,openai,standard,Ale Ale - Capital Bra (2023),3.6,3.8,1
+llama,deepseek,standard,Sing to Me Mr. C - Perry Como (1962),3.4,3.2,3
+llama,openai,standard,Funny How Time Slips Away - Wanda Jackson (1963),3.6,4.2,1
+llama,llama,standard,Heavens Rain - Uriah Heep (2008),3.6,3.6,1
+llama,llama,standard,Assistant's Cry - Yello (1980),4.2,3.5,1
+llama,llama,standard,Blessed Assurance - Burl Ives (1950),4.0,3.8,1
+llama,deepseek,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),4.2,3.3,5
+llama,openai,standard,I Can't Stand The Rain - Seal (2008),3.6,3.6,1
+llama,openai,standard,It’s Alright - The Osmonds (1973),3.6,4.0,1
+llama,llama,standard,A Reason - Circ (2004),4.0,3.0,1
+llama,openai,standard,Sleepy Time Gal - Bing Crosby (1953),3.6,4.0,5
+llama,openai,standard,Worth It All - Jay Sean (2013),4.0,4.0,1
+llama,deepseek,standard,Without Love - Dina Carroll (1999),4.0,2.0,1
+llama,llama,standard,Es geht mir gut - Westernhagen (1994),3.8,3.4,1
+llama,llama,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.2,3.2,4
+llama,openai,standard,Breakout - Beverley Knight (2009),3.6,3.6,1
+llama,llama,standard,When You Give It Away - Bruce Cockburn (1999),4.2,3.4,5
+llama,deepseek,standard,I Know - Vanilla Ninja (2005),3.4,3.4,1
+llama,deepseek,standard,Sternengold und Silbermond - Peter Alexander (1962),3.6,3.2,3
+llama,llama,standard,"Reise, Reise - Rammstein (2004)",4.2,3.7,4
+llama,llama,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),4.0,3.0,1
+llama,llama,standard,Here I Go Again - Blue System (1995),3.4,3.6,3
+llama,openai,standard,Ship Of Fools - World Party (1987),3.6,3.6,1
+llama,openai,standard,Dick and Jane - Bobby Vinton (1974),3.6,3.6,1
+llama,llama,standard,Spirits' Masquerade - Leaves' Eyes (2011),3.6,3.6,1
+llama,deepseek,standard,It’s Alright - The Osmonds (1973),3.2,3.2,1
+llama,llama,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),3.8,3.8,1
+llama,openai,standard,Ride It - Jay Sean (2007),3.6,4.0,1
+llama,llama,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.8,3.8,1
+llama,openai,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),3.8,3.8,5
+llama,openai,standard,When You Give It Away - Bruce Cockburn (1999),3.6,4.0,1
+llama,deepseek,standard,Sea Song - Tears For Fears (1985),4.2,3.7,3
+llama,deepseek,standard,Number One - Laid Back (2019),5.0,3.0,1
+llama,deepseek,standard,Let's Get Together Soon - Dusty Springfield (1970),4.0,3.2,5
+llama,openai,standard,Uns geht's gut - And One (1997),3.6,3.8,1
+llama,deepseek,standard,You Are The Reason - Air Supply (2001),4.0,4.0,1
+llama,openai,standard,You Belong To Me - Rick Astley (2005),3.2,4.0,1
+llama,llama,standard,It’s Alright - The Osmonds (1973),4.0,3.6,1
+llama,openai,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.6,4.0,1
+llama,deepseek,standard,Drunk On Love - Basia (1994),3.2,2.4,5
+llama,llama,standard,Eye Of The Storm - Pseudo Echo (1989),4.0,3.0,1
+llama,deepseek,standard,Time Immemorial - Crowded House (1990),3.6,4.2,3
+llama,openai,standard,Where Do We Go From Here - Charles & Eddie (1992),3.6,3.6,1
+llama,deepseek,standard,Ein Festival der Liebe - Jürgen Marcus (1972),4.0,3.0,1
+llama,deepseek,standard,Somewhere My Love - Roger Whittaker (1982),4.4,3.6,4
+llama,deepseek,standard,Where Do We Go From Here - Charles & Eddie (1992),4.2,3.4,4
+llama,llama,standard,Planetarium - Covenant (1997),3.4,3.4,1
+llama,openai,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.6,4.0,1
+llama,openai,standard,Timeless - Drunken Tiger feat. BTS (2018),3.6,3.6,1
+llama,openai,standard,"Reise, Reise - Rammstein (2004)",3.2,4.0,1
+llama,openai,standard,Battles - In Flames (2016),3.6,3.6,1
+llama,deepseek,standard,One Day Tomorrow - Edgar Winter (1975),4.2,2.6,4
+llama,deepseek,standard,Best Night - Justice Crew (2012),4.0,4.0,5
+llama,openai,standard,"My Life - Nat ""King"" Cole (1960)",3.6,4.0,1
+llama,deepseek,standard,Fellow Hoodlums - Deacon Blue (1991),3.2,2.8,4
+llama,deepseek,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.4,3.4,1
+llama,deepseek,standard,Timeless - Drunken Tiger feat. BTS (2018),3.2,3.6,5
+llama,deepseek,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),4.2,3.7,5
+llama,deepseek,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.6,3.6,1
+llama,llama,standard,Worth It All - Jay Sean (2013),4.0,3.0,1
+llama,deepseek,standard,Ride It - Jay Sean (2007),3.8,2.8,1
+llama,llama,standard,Fellow Hoodlums - Deacon Blue (1991),3.4,3.8,1
+llama,openai,standard,Breaking My Heart - Richard Marx (2022),3.6,3.6,1
+llama,llama,standard,Dance Dance Dance - Arabesque (1983),4.0,3.4,3
+llama,deepseek,standard,Teach Me Tonight - Neil Diamond (1988),4.0,4.0,1
+llama,deepseek,standard,"Reise, Reise - Rammstein (2004)",3.8,3.8,5
+llama,deepseek,standard,Breaking My Heart - Richard Marx (2022),3.6,2.8,4
+llama,llama,standard,I Cried for You - Ray Charles (1964),3.6,3.6,1
+llama,llama,standard,Argue - Matchbox 20 (1996),4.0,3.0,1
+llama,llama,standard,Leg die Knarre weg - Udo Jürgens (1958),3.8,3.2,5
+llama,llama,standard,Without Love - Dina Carroll (1999),5.0,3.0,1
+llama,openai,standard,Eye Of The Storm - Pseudo Echo (1989),3.6,3.6,1
+llama,openai,standard,Without Love - Dina Carroll (1999),3.2,3.8,1
+llama,deepseek,standard,Eye Of The Storm - Pseudo Echo (1989),3.6,3.6,1
+llama,llama,standard,They Only Come Out At Night - Lordi (2006),3.4,3.4,1
+llama,openai,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,4.0,1
+llama,deepseek,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.0,2.0,1
+llama,llama,standard,I Know - Vanilla Ninja (2005),3.6,3.6,1
+llama,deepseek,standard,"My Life - Nat ""King"" Cole (1960)",3.8,3.8,1
+llama,deepseek,standard,Ale Ale - Capital Bra (2023),3.4,2.6,4
+llama,openai,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",3.8,4.0,1
+llama,llama,standard,Funny How Time Slips Away - Wanda Jackson (1963),4.0,3.0,1
+llama,llama,standard,Teach Me Tonight - Neil Diamond (1988),3.8,4.0,1
+llama,llama,standard,Hold Me - Brenda Lee (1961),3.6,3.6,2
+llama,openai,standard,Home - Birdy (2013),4.0,4.0,1
+llama,llama,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.4,3.6,1
+llama,openai,standard,All That Meat and Potatoes - Louis Armstrong (1955),3.6,3.8,1
+llama,llama,standard,Home - Birdy (2013),3.2,2.4,4
+llama,openai,standard,Light My Fire - Bananafishbones (2002),3.6,3.8,1
+llama,llama,standard,You Are The Reason - Air Supply (2001),3.6,3.6,1
+llama,openai,standard,Planetarium - Covenant (1997),3.6,3.6,1
+llama,deepseek,standard,Welcome to the Big Room - Neil Young (2015),4.0,3.0,1
+llama,llama,standard,Ein Festival der Liebe - Jürgen Marcus (1972),3.8,3.2,4
+llama,openai,standard,Sing to Me Mr. C - Perry Como (1962),3.6,4.0,1
+llama,llama,standard,All I Need - Heather Nova (2003),4.0,3.0,1
+llama,llama,standard,Timeless - Drunken Tiger feat. BTS (2018),3.4,3.8,5
+llama,openai,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",3.6,3.8,1
+llama,openai,standard,Hold Me - Brenda Lee (1961),3.8,4.6,1
+llama,llama,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,3.6,3
+llama,llama,standard,You Know I Miss You - Fats Domino (1952),4.0,3.4,3
+llama,openai,standard,Mama Told Me Not To Come - Wilson Pickett (1971),3.6,4.2,1
+llama,openai,standard,Scratch My Back - Slade (1976),3.8,3.8,1
+llama,openai,standard,Heavens Rain - Uriah Heep (2008),3.6,3.6,1
+llama,llama,standard,Sauerkrautpolka - Gus Backus (1961),4.0,3.0,5
+llama,deepseek,standard,A Reason - Circ (2004),4.0,3.0,1
+llama,deepseek,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),4.2,3.6,4
+llama,openai,standard,Sternengold und Silbermond - Peter Alexander (1962),3.6,4.2,1
+llama,deepseek,standard,"Stay (Far Away, So Close) - Gregorian (2012)",3.4,3.6,3
+llama,deepseek,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),3.4,3.4,1
+llama,llama,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.6,3.6,1
+llama,llama,standard,"My Life - Nat ""King"" Cole (1960)",4.0,3.0,1
+llama,openai,standard,Smoke Dreams - k.d. lang (1997),3.6,4.0,1
+llama,llama,standard,Thank Me Now - Drake (2010),3.4,3.4,1
+llama,deepseek,standard,Mama Told Me Not To Come - Wilson Pickett (1971),3.4,3.6,3
+llama,openai,standard,The Flat Foot Floogee - Louis Armstrong (1954),3.6,3.8,1
+llama,llama,standard,I Can't Stand The Rain - Seal (2008),4.0,3.8,1
+llama,openai,standard,Blessed Assurance - Burl Ives (1950),3.4,3.8,1
+llama,openai,standard,Assistant's Cry - Yello (1980),3.6,3.6,1
+llama,openai,standard,Es geht mir gut - Westernhagen (1994),3.6,4.0,1
+llama,openai,standard,Clues - Godley & Creme (1979),3.6,3.6,1
+llama,llama,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.2,3.8,5
+llama,llama,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",4.0,3.2,3
+llama,llama,standard,Before You Leave - Kurt Nilsen (2004),3.6,3.6,1
+llama,llama,standard,All That Meat and Potatoes - Louis Armstrong (1955),3.6,3.2,5
+llama,openai,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.6,3.8,1
+llama,deepseek,standard,I Cried for You - Ray Charles (1964),3.6,3.6,1
+llama,llama,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.6,3.4,3
+llama,llama,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",4.2,3.4,5
+llama,deepseek,standard,Battles - In Flames (2016),3.6,3.0,1
+llama,deepseek,standard,Sie - Manfred Mann (1964),3.2,3.6,1
+llama,openai,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.4,4.4,1
+llama,deepseek,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.6,3.0,1
+llama,llama,standard,Let's Get Together Soon - Dusty Springfield (1970),4.0,3.0,1
+llama,openai,standard,A Reason - Circ (2004),3.6,4.0,1
+llama,deepseek,standard,Du fehlst - Die Toten Hosen (2012),3.6,3.6,1
+llama,openai,standard,Drunk On Love - Basia (1994),3.6,3.6,1
+llama,deepseek,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),4.0,3.0,5
+llama,llama,standard,Pay The Man - The Offspring (1998),2.8,2.8,1
+llama,llama,standard,Ale Ale - Capital Bra (2023),4.0,3.8,5
+llama,llama,standard,Smoke Dreams - k.d. lang (1997),4.0,3.4,4
+llama,openai,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),4.0,4.0,1
+llama,deepseek,standard,Circus Of Death - Project Pitchfork (1993),3.6,2.8,1
+llama,llama,standard,Sea Song - Tears For Fears (1985),3.6,3.6,1
+llama,openai,standard,Fellow Hoodlums - Deacon Blue (1991),3.6,3.6,1
+llama,deepseek,standard,Hold Me - Brenda Lee (1961),4.0,3.0,1
+llama,openai,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.6,3.8,1
+llama,llama,standard,4:am Forever - Lostprophets (2006),3.2,3.2,1
+llama,deepseek,standard,Spirits' Masquerade - Leaves' Eyes (2011),4.2,3.4,5
+llama,openai,standard,Dance Only With Me - Perry Como (1958),3.6,3.6,1
+llama,openai,standard,Number One - Laid Back (2019),3.4,3.6,1
+llama,deepseek,standard,Leg die Knarre weg - Udo Jürgens (1958),3.6,3.6,1
+llama,deepseek,standard,Streets of Fear - Hawkwind (1981),3.4,3.6,1
+llama,deepseek,standard,Scratch My Back - Slade (1976),3.6,3.8,5
+llama,llama,standard,Jekyll And Hyde - Judas Priest (2001),4.2,3.9,3
+llama,deepseek,standard,Argue - Matchbox 20 (1996),4.2,3.8,5
+llama,openai,standard,Best Night - Justice Crew (2012),3.6,3.8,1
+llama,openai,standard,"Stay (Far Away, So Close) - Gregorian (2012)",3.6,3.6,1
+llama,llama,standard,Got To Give It Up - Marvin Gaye (1977),3.6,3.6,1
+llama,deepseek,standard,Smoke Dreams - k.d. lang (1997),4.0,3.0,1
+llama,openai,standard,See Emily Play - Pink Floyd (1967),3.6,3.8,1
+llama,llama,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),4.0,3.0,1
+llama,deepseek,standard,Before You Leave - Kurt Nilsen (2004),3.6,3.4,1
+llama,llama,standard,The Flat Foot Floogee - Louis Armstrong (1954),3.0,2.0,"Keine der Interpretationen ragt heraus, da sie alle sehr ähnlich sind"
+llama,openai,standard,Sea Song - Tears For Fears (1985),3.6,4.2,1
+llama,openai,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),3.6,3.6,1
+llama,llama,standard,Where Do We Go From Here - Charles & Eddie (1992),4.0,3.0,1
+llama,deepseek,standard,Heart of Stone - The Platters (1956),3.0,2.0,1
+llama,deepseek,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.4,3.2,3
+llama,openai,standard,Somewhere My Love - Roger Whittaker (1982),3.6,3.6,1
+llama,openai,standard,Here I Go Again - Blue System (1995),3.6,4.2,1
+llama,deepseek,standard,All That Meat and Potatoes - Louis Armstrong (1955),4.0,3.0,Alle Interpretationen sind gleich gut/beschreiben das gleiche
+llama,openai,standard,Argue - Matchbox 20 (1996),3.6,4.0,1
+llama,llama,standard,Sleepy Time Gal - Bing Crosby (1953),4.0,2.2,1
+llama,llama,standard,Ship Of Fools - World Party (1987),4.0,3.4,5
+llama,deepseek,standard,Sauerkrautpolka - Gus Backus (1961),3.6,2.8,5
+llama,deepseek,standard,Coffee - Kelly Rowland (2020),3.8,3.4,3
+llama,deepseek,standard,Wait - Martin Jensen feat. Loote (2017),3.6,3.6,1
+llama,openai,standard,You Are The Reason - Air Supply (2001),3.6,4.0,1
+llama,llama,standard,Uns geht's gut - And One (1997),4.0,4.0,5
+llama,deepseek,standard,Breakout - Beverley Knight (2009),3.6,3.6,1
+llama,deepseek,standard,Yesterday When I Was Young - Charles Aznavour (1969),3.6,3.4,1
+llama,openai,standard,"Get In, Fit In - Ciara (2007)",3.6,3.6,1
+llama,deepseek,standard,Here I Go Again - Blue System (1995),3.8,2.8,5
+llama,llama,standard,Welcome to the Big Room - Neil Young (2015),3.0,2.0,1
+llama,llama,standard,Heart of Stone - The Platters (1956),3.6,3.6,1
+llama,openai,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),3.6,3.8,1
+llama,deepseek,standard,Home - Birdy (2013),3.2,3.2,3
+llama,llama,standard,Breaking My Heart - Richard Marx (2022),4.0,3.6,2
+llama,openai,standard,Spirits' Masquerade - Leaves' Eyes (2011),3.6,4.2,1
+llama,llama,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.6,2.8,1
+llama,deepseek,standard,The Flat Foot Floogee - Louis Armstrong (1954),3.8,3.6,4
+llama,openai,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),3.6,3.6,1
+llama,deepseek,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,3.4,1
+llama,deepseek,standard,Heavens Rain - Uriah Heep (2008),3.6,3.6,1
+llama,llama,standard,You Belong To Me - Rick Astley (2005),4.0,3.0,1
+llama,deepseek,standard,Wahre Liebe - Westernhagen (2014),3.6,3.6,1
+llama,openai,standard,Jekyll And Hyde - Judas Priest (2001),3.6,3.6,1
+llama,openai,standard,I Cried for You - Ray Charles (1964),3.6,3.6,1
+llama,deepseek,standard,Pay The Man - The Offspring (1998),3.4,3.2,5
+llama,llama,standard,Somewhere My Love - Roger Whittaker (1982),4.0,3.6,3
+llama,llama,standard,Sing to Me Mr. C - Perry Como (1962),4.0,4.0,1
+llama,llama,standard,Scratch My Back - Slade (1976),3.6,3.6,1
+llama,llama,standard,Streets of Fear - Hawkwind (1981),3.8,3.6,1
+llama,openai,standard,You Know I Miss You - Fats Domino (1952),3.4,3.4,1
+llama,openai,standard,Let's Get Together Soon - Dusty Springfield (1970),3.6,3.6,1
+llama,deepseek,standard,"Get In, Fit In - Ciara (2007)",4.2,3.4,5
+llama,llama,standard,Circus Of Death - Project Pitchfork (1993),4.0,3.0,1
+llama,llama,standard,Yesterday When I Was Young - Charles Aznavour (1969),3.4,2.8,5
+llama,deepseek,standard,Dance Only With Me - Perry Como (1958),3.2,3.2,1
+llama,openai,standard,Circus Of Death - Project Pitchfork (1993),3.6,4.2,1
+llama,openai,standard,4:am Forever - Lostprophets (2006),3.6,3.6,1
+llama,deepseek,standard,Dance Dance Dance - Arabesque (1983),4.6,3.8,5
+llama,deepseek,standard,Assistant's Cry - Yello (1980),3.4,3.4,1
+llama,deepseek,standard,See Emily Play - Pink Floyd (1967),3.6,3.6,1
+llama,deepseek,standard,Uns geht's gut - And One (1997),3.8,3.8,1
+llama,llama,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),4.4,3.6,3
+llama,llama,standard,"Get In, Fit In - Ciara (2007)",4.2,3.4,4
+llama,llama,standard,Sternengold und Silbermond - Peter Alexander (1962),3.6,3.6,1
+llama,openai,standard,Arschgesicht - Udo Lindenberg (1996),3.6,3.8,1
+llama,llama,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),3.6,2.8,1
+llama,openai,standard,Sie - Manfred Mann (1964),3.2,3.6,3
+llama,openai,standard,Ein Festival der Liebe - Jürgen Marcus (1972),3.2,4.0,1
+llama,openai,standard,Du fehlst - Die Toten Hosen (2012),3.8,3.8,1
+llama,openai,standard,Leg die Knarre weg - Udo Jürgens (1958),3.6,3.8,1
+llama,llama,standard,Light My Fire - Bananafishbones (2002),3.6,3.6,1
+llama,openai,standard,Got To Give It Up - Marvin Gaye (1977),3.6,3.6,1
+llama,openai,standard,Into The Blue - Rooney (2010),3.4,3.4,1
+llama,deepseek,standard,Ship Of Fools - World Party (1987),3.4,3.2,3
+llama,deepseek,standard,Es geht mir gut - Westernhagen (1994),3.6,4.0,5
+llama,deepseek,standard,All I Need - Heather Nova (2003),4.0,3.0,1
+llama,deepseek,standard,Into The Blue - Rooney (2010),3.8,3.2,1
+llama,openai,standard,Pay The Man - The Offspring (1998),3.6,3.6,1
+llama,openai,standard,Wahre Liebe - Westernhagen (2014),3.6,3.6,1
+llama,llama,standard,Breakout - Beverley Knight (2009),4.2,3.2,4
+llama,llama,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),4.0,3.0,1
+llama,deepseek,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),3.8,3.2,3
+llama,deepseek,standard,Blessed Assurance - Burl Ives (1950),4.2,3.9,3
+llama,deepseek,standard,Worth It All - Jay Sean (2013),4.0,3.8,1
+llama,llama,standard,One Day Tomorrow - Edgar Winter (1975),3.6,3.4,1
+llama,openai,standard,Before You Leave - Kurt Nilsen (2004),4.2,4.2,3
+llama,openai,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.6,3.8,1
+llama,openai,standard,Wait - Martin Jensen feat. Loote (2017),3.6,3.8,1
+llama,llama,standard,"Stay (Far Away, So Close) - Gregorian (2012)",3.8,3.8,1
+llama,llama,standard,Dance Only With Me - Perry Como (1958),4.0,3.6,3
+llama,openai,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),3.6,3.6,1
+llama,llama,standard,Wahre Liebe - Westernhagen (2014),4.0,3.6,1
+llama,deepseek,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",3.4,3.4,1
+llama,llama,standard,See Emily Play - Pink Floyd (1967),3.6,3.6,1
+llama,deepseek,standard,Funny How Time Slips Away - Wanda Jackson (1963),3.6,4.0,3
+llama,llama,standard,Sie - Manfred Mann (1964),2.8,3.2,4
+llama,openai,standard,Yesterday When I Was Young - Charles Aznavour (1969),4.0,4.0,4
+llama,deepseek,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.0,3.0,1
+deepseek,deepseek,standard,They Only Come Out At Night - Lordi (2006),3.2,3.4,5
+deepseek,deepseek,standard,Best Night - Justice Crew (2012),4.0,3.0,3
+deepseek,llama,standard,Without Love - Dina Carroll (1999),3.4,3.2,5
+deepseek,deepseek,standard,Time Immemorial - Crowded House (1990),3.6,2.8,3
+deepseek,openai,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),4.8,4.0,4
+deepseek,deepseek,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.4,3.6,4
+deepseek,deepseek,standard,Here I Go Again - Blue System (1995),3.2,3.2,4
+deepseek,llama,standard,Light My Fire - Bananafishbones (2002),2.8,3.0,5
+deepseek,deepseek,standard,The Flat Foot Floogee - Louis Armstrong (1954),4.2,3.6,2
+deepseek,deepseek,standard,"Reise, Reise - Rammstein (2004)",3.4,3.4,4
+deepseek,llama,standard,Scratch My Back - Slade (1976),2.8,3.0,1
+deepseek,llama,standard,Ship Of Fools - World Party (1987),3.6,3.6,4
+deepseek,openai,standard,"My Life - Nat ""King"" Cole (1960)",3.0,3.8,5
+deepseek,deepseek,standard,When You Give It Away - Bruce Cockburn (1999),3.4,3.6,"[1, 3, 4]"
+deepseek,llama,standard,See Emily Play - Pink Floyd (1967),2.8,3.2,2
+deepseek,llama,standard,All That Meat and Potatoes - Louis Armstrong (1955),3.2,3.4,2
+deepseek,openai,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),2.6,3.6,4
+deepseek,openai,standard,Heavens Rain - Uriah Heep (2008),3.0,4.0,5
+deepseek,openai,standard,It’s Alright - The Osmonds (1973),2.8,3.6,5
+deepseek,openai,standard,Circus Of Death - Project Pitchfork (1993),2.8,4.0,3
+deepseek,llama,standard,All I Need - Heather Nova (2003),4.0,4.0,5
+deepseek,deepseek,standard,Light My Fire - Bananafishbones (2002),3.6,3.0,3
+deepseek,deepseek,standard,4:am Forever - Lostprophets (2006),5.0,3.6,4
+deepseek,openai,standard,"Reise, Reise - Rammstein (2004)",3.2,3.8,4
+deepseek,deepseek,standard,It’s Alright - The Osmonds (1973),4.2,3.8,5
+deepseek,deepseek,standard,You Know I Miss You - Fats Domino (1952),3.2,3.2,5
+deepseek,llama,standard,Argue - Matchbox 20 (1996),3.0,3.6,2
+deepseek,llama,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.8,3.2,5
+deepseek,deepseek,standard,Scratch My Back - Slade (1976),3.2,3.4,5
+deepseek,openai,standard,Sternengold und Silbermond - Peter Alexander (1962),3.0,4.0,4
+deepseek,llama,standard,Somewhere My Love - Roger Whittaker (1982),3.8,3.4,4
+deepseek,llama,standard,Wahre Liebe - Westernhagen (2014),3.0,3.2,5
+deepseek,openai,standard,The Flat Foot Floogee - Louis Armstrong (1954),2.4,3.2,3
+deepseek,deepseek,standard,I Cried for You - Ray Charles (1964),3.6,3.8,1
+deepseek,openai,standard,Number One - Laid Back (2019),2.8,3.8,4
+deepseek,openai,standard,"Get In, Fit In - Ciara (2007)",4.0,4.0,4
+deepseek,openai,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.2,3.6,2
+deepseek,llama,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),4.8,4.2,5
+deepseek,openai,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),2.8,3.6,5
+deepseek,llama,standard,Where Do We Go From Here - Charles & Eddie (1992),3.4,3.2,4
+deepseek,openai,standard,When You Give It Away - Bruce Cockburn (1999),3.2,4.2,5
+deepseek,openai,standard,Es geht mir gut - Westernhagen (1994),3.4,4.2,3
+deepseek,deepseek,standard,Thank Me Now - Drake (2010),3.2,2.8,4
+deepseek,deepseek,standard,Before You Leave - Kurt Nilsen (2004),4.8,3.8,3
+deepseek,llama,standard,"Stay (Far Away, So Close) - Gregorian (2012)",3.4,3.2,1
+deepseek,llama,standard,Got To Give It Up - Marvin Gaye (1977),3.2,3.0,5
+deepseek,deepseek,standard,Wait - Martin Jensen feat. Loote (2017),4.6,3.4,2
+deepseek,deepseek,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),4.6,4.0,5
+deepseek,llama,standard,Worth It All - Jay Sean (2013),4.4,3.6,3
+deepseek,llama,standard,You Know I Miss You - Fats Domino (1952),3.2,3.0,3
+deepseek,llama,standard,Dance Dance Dance - Arabesque (1983),4.6,3.4,4
+deepseek,llama,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),3.4,3.2,4
+deepseek,llama,standard,I Can't Stand The Rain - Seal (2008),5.0,4.0,3
+deepseek,openai,standard,Without Love - Dina Carroll (1999),4.0,4.0,3
+deepseek,llama,standard,Pay The Man - The Offspring (1998),4.4,3.8,3
+deepseek,openai,standard,Ride It - Jay Sean (2007),3.4,3.8,4
+deepseek,deepseek,standard,Spirits' Masquerade - Leaves' Eyes (2011),3.8,3.8,5
+deepseek,openai,standard,Dick and Jane - Bobby Vinton (1974),3.4,4.0,3
+deepseek,deepseek,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),4.6,3.6,"[3, 5]"
+deepseek,openai,standard,You Know I Miss You - Fats Domino (1952),2.8,3.6,1
+deepseek,deepseek,standard,Somewhere My Love - Roger Whittaker (1982),4.4,3.4,3
+deepseek,llama,standard,Leg die Knarre weg - Udo Jürgens (1958),2.6,3.4,5
+deepseek,llama,standard,Let's Get Together Soon - Dusty Springfield (1970),4.2,3.8,4
+deepseek,llama,standard,Jekyll And Hyde - Judas Priest (2001),5.0,3.4,"[4, 5]"
+deepseek,openai,standard,Argue - Matchbox 20 (1996),4.0,3.8,4
+deepseek,llama,standard,Time Immemorial - Crowded House (1990),5.0,4.0,2
+deepseek,deepseek,standard,Funny How Time Slips Away - Wanda Jackson (1963),2.4,3.0,1
+deepseek,deepseek,standard,Uns geht's gut - And One (1997),3.2,3.6,2
+deepseek,deepseek,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),2.4,3.4,2
+deepseek,llama,standard,Welcome to the Big Room - Neil Young (2015),4.2,3.8,3
+deepseek,deepseek,standard,Ein Festival der Liebe - Jürgen Marcus (1972),3.6,3.2,4
+deepseek,llama,standard,Here I Go Again - Blue System (1995),3.2,2.8,5
+deepseek,deepseek,standard,Home - Birdy (2013),2.4,3.0,3
+deepseek,deepseek,standard,Sing to Me Mr. C - Perry Como (1962),3.2,3.2,4
+deepseek,llama,standard,Blessed Assurance - Burl Ives (1950),5.0,4.0,4
+deepseek,llama,standard,Mama Told Me Not To Come - Wilson Pickett (1971),4.2,3.6,3
+deepseek,openai,standard,Jekyll And Hyde - Judas Priest (2001),4.2,4.4,5
+deepseek,openai,standard,I Cried for You - Ray Charles (1964),2.8,4.0,3
+deepseek,openai,standard,One Day Tomorrow - Edgar Winter (1975),3.4,3.8,3
+deepseek,llama,standard,One Day Tomorrow - Edgar Winter (1975),4.8,3.4,4
+deepseek,llama,standard,Uns geht's gut - And One (1997),4.6,4.2,"[1, 4]"
+deepseek,openai,standard,They Only Come Out At Night - Lordi (2006),4.2,4.2,1
+deepseek,openai,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),4.6,4.6,5
+deepseek,deepseek,standard,Assistant's Cry - Yello (1980),2.8,3.2,3
+deepseek,openai,standard,Drunk On Love - Basia (1994),3.4,4.0,5
+deepseek,deepseek,standard,Es geht mir gut - Westernhagen (1994),4.2,3.6,"[2, 3]"
+deepseek,llama,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.6,3.8,"[1, 4]"
+deepseek,openai,standard,Timeless - Drunken Tiger feat. BTS (2018),4.2,4.0,5
+deepseek,llama,standard,Teach Me Tonight - Neil Diamond (1988),3.6,3.6,5
+deepseek,llama,standard,Sauerkrautpolka - Gus Backus (1961),4.2,3.4,4
+deepseek,deepseek,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),1.8,3.4,4
+deepseek,openai,standard,Teach Me Tonight - Neil Diamond (1988),4.2,4.4,"[3, 5]"
+deepseek,deepseek,standard,Heart of Stone - The Platters (1956),3.2,3.2,3
+deepseek,openai,standard,Light My Fire - Bananafishbones (2002),2.4,3.4,1
+deepseek,openai,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.4,3.6,3
+deepseek,deepseek,standard,Hold Me - Brenda Lee (1961),3.2,3.2,3
+deepseek,deepseek,standard,Where Do We Go From Here - Charles & Eddie (1992),4.4,3.6,4
+deepseek,openai,standard,Where Do We Go From Here - Charles & Eddie (1992),4.4,4.0,5
+deepseek,deepseek,standard,Heavens Rain - Uriah Heep (2008),5.0,3.4,4
+deepseek,llama,standard,Clues - Godley & Creme (1979),3.4,3.8,3
+deepseek,deepseek,standard,Smoke Dreams - k.d. lang (1997),4.8,3.4,4
+deepseek,llama,standard,You Are The Reason - Air Supply (2001),2.8,3.4,5
+deepseek,llama,standard,Sternengold und Silbermond - Peter Alexander (1962),4.2,3.4,2
+deepseek,deepseek,standard,Teach Me Tonight - Neil Diamond (1988),3.8,3.6,"[3, 5]"
+deepseek,llama,standard,"My Life - Nat ""King"" Cole (1960)",4.6,3.8,3
+deepseek,deepseek,standard,Planetarium - Covenant (1997),3.2,3.6,2
+deepseek,llama,standard,I Know - Vanilla Ninja (2005),4.0,3.8,1
+deepseek,openai,standard,Eye Of The Storm - Pseudo Echo (1989),4.6,4.8,"[1, 2, 3, 4]"
+deepseek,openai,standard,Ship Of Fools - World Party (1987),3.2,3.4,4
+deepseek,deepseek,standard,See Emily Play - Pink Floyd (1967),3.0,3.4,1
+deepseek,openai,standard,Scratch My Back - Slade (1976),3.4,3.6,4
+deepseek,deepseek,standard,Mama Told Me Not To Come - Wilson Pickett (1971),2.8,2.8,5
+deepseek,llama,standard,Battles - In Flames (2016),4.4,3.8,3
+deepseek,llama,standard,Dance Only With Me - Perry Como (1958),3.8,3.4,4
+deepseek,deepseek,standard,Into The Blue - Rooney (2010),3.8,3.2,4
+deepseek,llama,standard,Best Night - Justice Crew (2012),3.6,2.8,1
+deepseek,llama,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.0,3.0,2
+deepseek,deepseek,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.2,3.6,3
+deepseek,openai,standard,Heart of Stone - The Platters (1956),4.4,3.6,2
+deepseek,openai,standard,Somewhere My Love - Roger Whittaker (1982),4.8,4.8,"[1, 2, 3, 5]"
+deepseek,llama,standard,Home - Birdy (2013),4.8,3.4,4
+deepseek,deepseek,standard,Leg die Knarre weg - Udo Jürgens (1958),3.4,3.4,1
+deepseek,deepseek,standard,Streets of Fear - Hawkwind (1981),3.8,3.8,3
+deepseek,openai,standard,Dance Dance Dance - Arabesque (1983),4.0,4.2,4
+deepseek,llama,standard,Number One - Laid Back (2019),3.2,3.4,3
+deepseek,openai,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),3.2,3.6,3
+deepseek,llama,standard,Du fehlst - Die Toten Hosen (2012),4.8,3.6,2
+deepseek,openai,standard,4:am Forever - Lostprophets (2006),4.8,3.8,5
+deepseek,llama,standard,"Get In, Fit In - Ciara (2007)",2.8,3.2,2
+deepseek,deepseek,standard,Eye Of The Storm - Pseudo Echo (1989),4.8,3.6,"[1, 4, 5]"
+deepseek,llama,standard,Funny How Time Slips Away - Wanda Jackson (1963),4.0,3.8,4
+deepseek,deepseek,standard,I Know - Vanilla Ninja (2005),5.0,3.2,2
+deepseek,llama,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),4.2,3.4,4
+deepseek,openai,standard,Into The Blue - Rooney (2010),3.0,4.0,4
+deepseek,openai,standard,Fellow Hoodlums - Deacon Blue (1991),3.2,3.6,3
+deepseek,openai,standard,Spirits' Masquerade - Leaves' Eyes (2011),3.6,3.6,3
+deepseek,openai,standard,You Are The Reason - Air Supply (2001),2.8,4.0,5
+deepseek,openai,standard,Ein Festival der Liebe - Jürgen Marcus (1972),3.6,3.4,5
+deepseek,openai,standard,Time Immemorial - Crowded House (1990),2.8,3.6,3
+deepseek,openai,standard,Yesterday When I Was Young - Charles Aznavour (1969),5.0,4.2,5
+deepseek,openai,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),2.4,3.6,3
+deepseek,deepseek,standard,Coffee - Kelly Rowland (2020),4.2,3.4,5
+deepseek,deepseek,standard,I Can't Stand The Rain - Seal (2008),4.0,3.6,3
+deepseek,openai,standard,You Belong To Me - Rick Astley (2005),4.2,3.8,4
+deepseek,llama,standard,Before You Leave - Kurt Nilsen (2004),4.6,3.4,3
+deepseek,openai,standard,Worth It All - Jay Sean (2013),4.4,4.4,"[1, 5]"
+deepseek,deepseek,standard,Clues - Godley & Creme (1979),2.8,3.4,2
+deepseek,deepseek,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.8,3.2,1
+deepseek,openai,standard,Battles - In Flames (2016),3.0,3.6,5
+deepseek,deepseek,standard,Drunk On Love - Basia (1994),4.2,3.2,"[1, 3]"
+deepseek,llama,standard,I Cried for You - Ray Charles (1964),3.6,3.4,4
+deepseek,openai,standard,Thank Me Now - Drake (2010),3.6,4.0,4
+deepseek,openai,standard,"Stay (Far Away, So Close) - Gregorian (2012)",5.0,4.2,5
+deepseek,deepseek,standard,Circus Of Death - Project Pitchfork (1993),2.8,3.0,4
+deepseek,llama,standard,Smoke Dreams - k.d. lang (1997),4.2,3.8,1
+deepseek,llama,standard,Sie - Manfred Mann (1964),2.6,3.2,5
+deepseek,openai,standard,Welcome to the Big Room - Neil Young (2015),3.0,3.6,2
+deepseek,llama,standard,Spirits' Masquerade - Leaves' Eyes (2011),3.4,3.6,5
+deepseek,openai,standard,Sing to Me Mr. C - Perry Como (1962),3.0,3.8,4
+deepseek,openai,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",4.6,4.0,5
+deepseek,openai,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),2.6,3.6,3
+deepseek,llama,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",4.2,3.6,"[2, 3]"
+deepseek,llama,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.2,3.6,4
+deepseek,deepseek,standard,Yesterday When I Was Young - Charles Aznavour (1969),4.4,2.8,5
+deepseek,llama,standard,The Flat Foot Floogee - Louis Armstrong (1954),3.2,3.6,5
+deepseek,deepseek,standard,Without Love - Dina Carroll (1999),4.6,3.2,3
+deepseek,openai,standard,Clues - Godley & Creme (1979),5.0,4.6,"[4, 5]"
+deepseek,deepseek,standard,Arschgesicht - Udo Lindenberg (1996),4.4,3.8,4
+deepseek,llama,standard,Planetarium - Covenant (1997),2.8,3.6,4
+deepseek,llama,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),2.4,3.2,"[1, 4]"
+deepseek,openai,standard,All That Meat and Potatoes - Louis Armstrong (1955),2.4,3.8,2
+deepseek,deepseek,standard,Pay The Man - The Offspring (1998),3.0,3.4,3
+deepseek,openai,standard,Leg die Knarre weg - Udo Jürgens (1958),3.0,3.2,4
+deepseek,openai,standard,I Can't Stand The Rain - Seal (2008),4.0,3.4,5
+deepseek,llama,standard,Breakout - Beverley Knight (2009),4.0,3.4,1
+deepseek,deepseek,standard,Blessed Assurance - Burl Ives (1950),4.2,3.0,3
+deepseek,deepseek,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),2.8,3.4,2
+deepseek,llama,standard,Hold Me - Brenda Lee (1961),3.8,3.4,5
+deepseek,deepseek,standard,Sleepy Time Gal - Bing Crosby (1953),4.0,3.4,3
+deepseek,deepseek,standard,Jekyll And Hyde - Judas Priest (2001),4.6,3.0,3
+deepseek,openai,standard,Pay The Man - The Offspring (1998),3.0,3.8,5
+deepseek,llama,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),4.0,3.6,1
+deepseek,deepseek,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.0,3.4,5
+deepseek,llama,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.2,3.0,4
+deepseek,deepseek,standard,A Reason - Circ (2004),4.4,3.8,4
+deepseek,deepseek,standard,Ride It - Jay Sean (2007),3.2,2.8,3
+deepseek,openai,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),3.6,3.6,"[1, 2, 5]"
+deepseek,openai,standard,A Reason - Circ (2004),4.0,3.8,5
+deepseek,deepseek,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.8,3.0,3
+deepseek,deepseek,standard,Sie - Manfred Mann (1964),2.6,3.2,5
+deepseek,openai,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),4.2,4.0,2
+deepseek,llama,standard,Arschgesicht - Udo Lindenberg (1996),4.4,3.8,3
+deepseek,deepseek,standard,Sea Song - Tears For Fears (1985),3.6,2.8,3
+deepseek,deepseek,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),4.6,3.8,"[2, 4, 5]"
+deepseek,deepseek,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),3.6,3.6,1
+deepseek,deepseek,standard,Dance Only With Me - Perry Como (1958),3.0,3.0,3
+deepseek,deepseek,standard,Dance Dance Dance - Arabesque (1983),3.2,3.0,3
+deepseek,openai,standard,Sauerkrautpolka - Gus Backus (1961),2.8,3.6,3
+deepseek,openai,standard,See Emily Play - Pink Floyd (1967),2.2,3.8,4
+deepseek,llama,standard,Ein Festival der Liebe - Jürgen Marcus (1972),4.8,3.6,5
+deepseek,deepseek,standard,You Are The Reason - Air Supply (2001),3.6,3.6,2
+deepseek,llama,standard,"Reise, Reise - Rammstein (2004)",3.6,3.6,4
+deepseek,deepseek,standard,Argue - Matchbox 20 (1996),3.8,3.0,5
+deepseek,llama,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.2,3.4,4
+deepseek,deepseek,standard,Sauerkrautpolka - Gus Backus (1961),2.8,3.2,5
+deepseek,deepseek,standard,Got To Give It Up - Marvin Gaye (1977),2.4,3.4,3
+deepseek,openai,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),2.8,4.0,4
+deepseek,openai,standard,Smoke Dreams - k.d. lang (1997),4.8,5.0,3
+deepseek,openai,standard,Got To Give It Up - Marvin Gaye (1977),2.4,3.2,3
+deepseek,llama,standard,You Belong To Me - Rick Astley (2005),4.2,3.6,1
+deepseek,llama,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.4,3.2,4
+deepseek,openai,standard,Ale Ale - Capital Bra (2023),3.0,3.8,1
+deepseek,openai,standard,Wahre Liebe - Westernhagen (2014),4.2,4.0,1
+deepseek,deepseek,standard,Sternengold und Silbermond - Peter Alexander (1962),3.0,3.0,3
+deepseek,openai,standard,Planetarium - Covenant (1997),3.2,3.6,1
+deepseek,llama,standard,Sleepy Time Gal - Bing Crosby (1953),2.4,3.6,1
+deepseek,llama,standard,Heart of Stone - The Platters (1956),3.6,3.6,"[2, 5, 1]"
+deepseek,deepseek,standard,Battles - In Flames (2016),4.4,3.8,3
+deepseek,deepseek,standard,You Belong To Me - Rick Astley (2005),4.0,3.0,4
+deepseek,llama,standard,Ale Ale - Capital Bra (2023),3.0,3.2,"[2, 5]"
+deepseek,deepseek,standard,"My Life - Nat ""King"" Cole (1960)",3.4,3.0,4
+deepseek,openai,standard,I Know - Vanilla Ninja (2005),4.6,4.0,4
+deepseek,llama,standard,Coffee - Kelly Rowland (2020),4.8,3.4,2
+deepseek,llama,standard,Yesterday When I Was Young - Charles Aznavour (1969),3.4,3.6,5
+deepseek,llama,standard,Sea Song - Tears For Fears (1985),3.8,3.8,"[1, 4]"
+deepseek,deepseek,standard,All I Need - Heather Nova (2003),4.2,3.8,5
+deepseek,llama,standard,Ride It - Jay Sean (2007),3.8,3.2,1
+deepseek,llama,standard,Heavens Rain - Uriah Heep (2008),4.4,3.4,2
+deepseek,llama,standard,Breaking My Heart - Richard Marx (2022),4.0,3.6,3
+deepseek,openai,standard,Blessed Assurance - Burl Ives (1950),3.4,4.2,2
+deepseek,llama,standard,When You Give It Away - Bruce Cockburn (1999),3.4,3.6,3
+deepseek,llama,standard,Fellow Hoodlums - Deacon Blue (1991),3.2,3.6,4
+deepseek,llama,standard,Es geht mir gut - Westernhagen (1994),3.4,3.8,5
+deepseek,llama,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),3.4,2.8,1
+deepseek,deepseek,standard,Fellow Hoodlums - Deacon Blue (1991),3.0,3.6,4
+deepseek,openai,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),3.6,4.2,3
+deepseek,deepseek,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",3.0,3.6,3
+deepseek,deepseek,standard,One Day Tomorrow - Edgar Winter (1975),4.4,2.8,5
+deepseek,llama,standard,Into The Blue - Rooney (2010),2.6,3.0,3
+deepseek,openai,standard,Sleepy Time Gal - Bing Crosby (1953),2.8,3.6,3
+deepseek,openai,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.0,3.6,4
+deepseek,llama,standard,Circus Of Death - Project Pitchfork (1993),3.2,3.2,1
+deepseek,deepseek,standard,Timeless - Drunken Tiger feat. BTS (2018),3.6,3.2,2
+deepseek,llama,standard,It’s Alright - The Osmonds (1973),4.6,4.0,5
+deepseek,llama,standard,Dick and Jane - Bobby Vinton (1974),3.4,3.2,3
+deepseek,openai,standard,Arschgesicht - Udo Lindenberg (1996),3.2,3.6,3
+deepseek,llama,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",4.0,3.6,4
+deepseek,deepseek,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.2,3.2,4
+deepseek,llama,standard,Streets of Fear - Hawkwind (1981),4.8,4.0,"[2, 3, 4, 5]"
+deepseek,llama,standard,Wait - Martin Jensen feat. Loote (2017),4.6,3.2,3
+deepseek,deepseek,standard,Ship Of Fools - World Party (1987),4.4,4.2,3
+deepseek,openai,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",4.4,4.0,"[4, 5]"
+deepseek,openai,standard,Wait - Martin Jensen feat. Loote (2017),4.0,4.0,1
+deepseek,llama,standard,4:am Forever - Lostprophets (2006),3.4,3.2,1
+deepseek,openai,standard,Sie - Manfred Mann (1964),2.4,3.6,3
+deepseek,deepseek,standard,Ale Ale - Capital Bra (2023),3.2,3.0,5
+deepseek,deepseek,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",4.4,3.8,5
+deepseek,deepseek,standard,Number One - Laid Back (2019),3.8,3.4,5
+deepseek,llama,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),3.8,3.0,4
+deepseek,deepseek,standard,Let's Get Together Soon - Dusty Springfield (1970),3.6,3.2,3
+deepseek,openai,standard,Streets of Fear - Hawkwind (1981),3.2,3.8,4
+deepseek,llama,standard,A Reason - Circ (2004),4.6,3.6,3
+deepseek,deepseek,standard,"Get In, Fit In - Ciara (2007)",3.2,2.6,1
+deepseek,openai,standard,Coffee - Kelly Rowland (2020),4.0,3.6,3
+deepseek,openai,standard,Sea Song - Tears For Fears (1985),3.6,3.6,1
+deepseek,deepseek,standard,Welcome to the Big Room - Neil Young (2015),3.4,3.2,4
+deepseek,deepseek,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),2.8,3.0,4
+deepseek,llama,standard,They Only Come Out At Night - Lordi (2006),3.8,3.8,"[1, 4]"
+deepseek,llama,standard,Eye Of The Storm - Pseudo Echo (1989),4.6,3.2,5
+deepseek,deepseek,standard,Breakout - Beverley Knight (2009),4.0,3.6,4
+deepseek,openai,standard,All I Need - Heather Nova (2003),5.0,4.2,3
+deepseek,openai,standard,Breaking My Heart - Richard Marx (2022),3.8,3.8,5
+deepseek,openai,standard,Before You Leave - Kurt Nilsen (2004),4.2,3.8,5
+deepseek,llama,standard,Sing to Me Mr. C - Perry Como (1962),3.2,3.4,1
+deepseek,llama,standard,Timeless - Drunken Tiger feat. BTS (2018),4.2,3.6,5
+deepseek,deepseek,standard,All That Meat and Potatoes - Louis Armstrong (1955),2.4,3.2,2
+deepseek,deepseek,standard,"Stay (Far Away, So Close) - Gregorian (2012)",3.8,3.0,3
+deepseek,deepseek,standard,Dick and Jane - Bobby Vinton (1974),5.0,3.8,"[1, 3, 4, 5]"
+deepseek,deepseek,standard,Worth It All - Jay Sean (2013),4.6,3.8,5
+deepseek,deepseek,standard,Du fehlst - Die Toten Hosen (2012),3.6,3.0,3
+deepseek,openai,standard,Dance Only With Me - Perry Como (1958),2.8,3.8,3
+deepseek,openai,standard,Hold Me - Brenda Lee (1961),2.8,3.8,2
+deepseek,llama,standard,Drunk On Love - Basia (1994),4.0,3.6,5
+openai,deepseek,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),2.0,3.0,5
+openai,llama,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),2.0,2.8,2
+openai,llama,standard,Worth It All - Jay Sean (2013),5.0,3.0,3
+openai,openai,standard,Heavens Rain - Uriah Heep (2008),4.8,4.4,4
+openai,llama,standard,Thank Me Now - Drake (2010),4.2,3.4,5
+openai,llama,standard,A Reason - Circ (2004),5.0,4.0,2
+openai,openai,standard,Hold Me - Brenda Lee (1961),4.2,2.6,3
+openai,openai,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),1.0,2.0,"Alle Interpretationen liegen gleichwertig (Halluzination‑Score 1, Tiefe‑Score 2)."
+openai,openai,standard,They Only Come Out At Night - Lordi (2006),1.0,2.2,4
+openai,deepseek,standard,I Know - Vanilla Ninja (2005),5.0,3.8,1
+openai,llama,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),1.0,2.0,2
+openai,llama,standard,Ride It - Jay Sean (2007),3.0,3.0,3
+openai,openai,standard,Dance Only With Me - Perry Como (1958),2.4,4.0,3
+openai,deepseek,standard,Home - Birdy (2013),2.0,2.8,1
+openai,deepseek,standard,Ride It - Jay Sean (2007),4.6,4.0,3
+openai,llama,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",2.2,2.0,1
+openai,deepseek,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),1.0,2.2,3
+openai,llama,standard,Planetarium - Covenant (1997),4.0,4.0,1
+openai,openai,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),1.0,2.0,3
+openai,llama,standard,All That Meat and Potatoes - Louis Armstrong (1955),2.4,3.4,1
+openai,llama,standard,I Can't Stand The Rain - Seal (2008),5.0,3.8,3
+openai,openai,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",4.8,3.0,3
+openai,openai,standard,Du fehlst - Die Toten Hosen (2012),4.4,4.0,2
+openai,deepseek,standard,Fellow Hoodlums - Deacon Blue (1991),1.0,2.0,4
+openai,openai,standard,Into The Blue - Rooney (2010),5.0,4.0,4
+openai,openai,standard,Teach Me Tonight - Neil Diamond (1988),4.8,3.0,3
+openai,openai,standard,Ship Of Fools - World Party (1987),5.0,4.6,1
+openai,deepseek,standard,Battles - In Flames (2016),5.0,2.2,1
+openai,llama,standard,Pay The Man - The Offspring (1998),1.0,2.0,3
+openai,openai,standard,Wahre Liebe - Westernhagen (2014),5.0,3.8,5
+openai,deepseek,standard,Wahre Liebe - Westernhagen (2014),2.6,2.8,1
+openai,openai,standard,Jekyll And Hyde - Judas Priest (2001),5.0,4.0,3
+openai,openai,standard,Thank Me Now - Drake (2010),5.0,4.2,3
+openai,deepseek,standard,Welcome to the Big Room - Neil Young (2015),5.0,3.0,3
+openai,deepseek,standard,Du fehlst - Die Toten Hosen (2012),5.0,3.6,3
+openai,openai,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.4,3.6,4
+openai,llama,standard,Es geht mir gut - Westernhagen (1994),5.0,4.2,4
+openai,openai,standard,Let's Get Together Soon - Dusty Springfield (1970),3.8,2.6,3
+openai,deepseek,standard,The Flat Foot Floogee - Louis Armstrong (1954),1.0,2.0,1
+openai,deepseek,standard,See Emily Play - Pink Floyd (1967),1.0,2.2,3
+openai,deepseek,standard,I Cried for You - Ray Charles (1964),4.2,4.0,2
+openai,openai,standard,Pay The Man - The Offspring (1998),5.0,4.2,3
+openai,deepseek,standard,Mama Told Me Not To Come - Wilson Pickett (1971),4.6,3.6,3
+openai,llama,standard,Without Love - Dina Carroll (1999),5.0,4.0,3
+openai,deepseek,standard,Worth It All - Jay Sean (2013),5.0,3.2,2
+openai,llama,standard,Heart of Stone - The Platters (1956),2.2,3.0,1
+openai,deepseek,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.0,4.2,4
+openai,openai,standard,When You Give It Away - Bruce Cockburn (1999),1.0,2.6,1
+openai,deepseek,standard,Yesterday When I Was Young - Charles Aznavour (1969),4.8,4.2,1
+openai,llama,standard,Sie - Manfred Mann (1964),5.0,3.0,4
+openai,deepseek,standard,Sea Song - Tears For Fears (1985),5.0,4.0,3
+openai,llama,standard,Fellow Hoodlums - Deacon Blue (1991),2.8,3.4,3
+openai,openai,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),4.0,3.6,3
+openai,deepseek,standard,Pay The Man - The Offspring (1998),2.0,2.2,5
+openai,llama,standard,Scratch My Back - Slade (1976),1.0,1.0,3
+openai,openai,standard,Coffee - Kelly Rowland (2020),5.0,3.6,2
+openai,llama,standard,Ein Festival der Liebe - Jürgen Marcus (1972),3.2,3.8,1
+openai,openai,standard,Sea Song - Tears For Fears (1985),5.0,4.2,3
+openai,llama,standard,Smoke Dreams - k.d. lang (1997),1.8,2.8,1
+openai,openai,standard,Smoke Dreams - k.d. lang (1997),1.0,2.0,4
+openai,llama,standard,Dick and Jane - Bobby Vinton (1974),5.0,4.0,1
+openai,llama,standard,Wait - Martin Jensen feat. Loote (2017),4.0,2.0,1
+openai,openai,standard,I Know - Vanilla Ninja (2005),1.6,3.4,1
+openai,deepseek,standard,Teach Me Tonight - Neil Diamond (1988),1.0,2.0,1
+openai,openai,standard,Blessed Assurance - Burl Ives (1950),4.2,3.8,1
+openai,openai,standard,Light My Fire - Bananafishbones (2002),1.0,2.0,
+openai,llama,standard,When You Give It Away - Bruce Cockburn (1999),2.0,3.6,1
+openai,llama,standard,Dance Only With Me - Perry Como (1958),1.0,2.4,1
+openai,openai,standard,Here I Go Again - Blue System (1995),5.0,4.2,1
+openai,deepseek,standard,Breaking My Heart - Richard Marx (2022),2.8,2.8,1
+openai,llama,standard,Breaking My Heart - Richard Marx (2022),5.0,3.4,2
+openai,llama,standard,Here I Go Again - Blue System (1995),3.0,3.0,3
+openai,llama,standard,Time Immemorial - Crowded House (1990),1.0,2.0,
+openai,openai,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),4.4,2.6,4
+openai,llama,standard,The Flat Foot Floogee - Louis Armstrong (1954),1.0,1.0,"keine – alle Interpretationen weisen identische, stark halluzinierte und oberflächliche Analysen auf"
+openai,deepseek,standard,Here I Go Again - Blue System (1995),5.0,4.2,5
+openai,deepseek,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),2.8,3.8,2
+openai,deepseek,standard,It’s Alright - The Osmonds (1973),5.0,2.0,1
+openai,llama,standard,Du fehlst - Die Toten Hosen (2012),4.2,4.0,2
+openai,llama,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.8,3.8,3
+openai,llama,standard,Clues - Godley & Creme (1979),2.4,2.2,1
+openai,deepseek,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),5.0,4.2,4
+openai,deepseek,standard,Arschgesicht - Udo Lindenberg (1996),5.0,2.6,2
+openai,llama,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.2,3.6,1
+openai,openai,standard,Dance Dance Dance - Arabesque (1983),1.8,2.6,5
+openai,openai,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),4.2,4.0,2
+openai,deepseek,standard,"Get In, Fit In - Ciara (2007)",4.8,3.2,5
+openai,llama,standard,Before You Leave - Kurt Nilsen (2004),5.0,4.4,2
+openai,deepseek,standard,Es geht mir gut - Westernhagen (1994),1.4,1.8,3
+openai,llama,standard,Argue - Matchbox 20 (1996),5.0,3.4,5
+openai,openai,standard,Welcome to the Big Room - Neil Young (2015),1.0,2.0,1
+openai,deepseek,standard,Ship Of Fools - World Party (1987),3.4,3.4,3
+openai,deepseek,standard,Light My Fire - Bananafishbones (2002),1.0,2.0,2
+openai,openai,standard,You Are The Reason - Air Supply (2001),5.0,4.8,2
+openai,deepseek,standard,Timeless - Drunken Tiger feat. BTS (2018),2.0,2.2,5
+openai,llama,standard,All I Need - Heather Nova (2003),2.0,2.0,3
+openai,openai,standard,Time Immemorial - Crowded House (1990),4.4,3.8,3
+openai,deepseek,standard,One Day Tomorrow - Edgar Winter (1975),5.0,2.0,3
+openai,openai,standard,Dick and Jane - Bobby Vinton (1974),5.0,3.4,1
+openai,deepseek,standard,Drunk On Love - Basia (1994),2.0,3.0,5
+openai,llama,standard,Sleepy Time Gal - Bing Crosby (1953),4.0,4.0,3
+openai,deepseek,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),1.0,2.0,5
+openai,deepseek,standard,Planetarium - Covenant (1997),5.0,4.0,2
+openai,openai,standard,Timeless - Drunken Tiger feat. BTS (2018),3.6,3.8,1
+openai,openai,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),5.0,4.2,2
+openai,deepseek,standard,"Stay (Far Away, So Close) - Gregorian (2012)",5.0,3.6,1
+openai,llama,standard,Sternengold und Silbermond - Peter Alexander (1962),1.0,2.0,3
+openai,openai,standard,Ride It - Jay Sean (2007),5.0,5.0,3
+openai,deepseek,standard,Scratch My Back - Slade (1976),5.0,3.8,5
+openai,deepseek,standard,"My Life - Nat ""King"" Cole (1960)",5.0,4.4,4
+openai,openai,standard,I Cried for You - Ray Charles (1964),5.0,3.6,5
+openai,deepseek,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),4.2,3.0,4
+openai,llama,standard,4:am Forever - Lostprophets (2006),5.0,3.0,1
+openai,deepseek,standard,Sauerkrautpolka - Gus Backus (1961),4.4,2.8,1
+openai,llama,standard,Number One - Laid Back (2019),4.6,2.0,4
+openai,deepseek,standard,Number One - Laid Back (2019),4.0,2.0,1
+openai,llama,standard,Eye Of The Storm - Pseudo Echo (1989),5.0,4.0,1
+openai,deepseek,standard,Circus Of Death - Project Pitchfork (1993),5.0,4.0,3
+openai,llama,standard,Ale Ale - Capital Bra (2023),2.4,3.6,5
+openai,openai,standard,Breakout - Beverley Knight (2009),5.0,4.0,1
+openai,llama,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),1.0,2.0,3
+openai,llama,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",2.8,3.8,1
+openai,openai,standard,Scratch My Back - Slade (1976),5.0,4.6,3
+openai,openai,standard,Yesterday When I Was Young - Charles Aznavour (1969),5.0,5.0,1
+openai,deepseek,standard,Blessed Assurance - Burl Ives (1950),3.4,3.0,4
+openai,deepseek,standard,Thank Me Now - Drake (2010),3.2,3.8,1
+openai,deepseek,standard,Wait - Martin Jensen feat. Loote (2017),5.0,3.4,"[1, 5]"
+openai,deepseek,standard,Dick and Jane - Bobby Vinton (1974),4.6,2.2,1
+openai,openai,standard,Circus Of Death - Project Pitchfork (1993),1.0,1.8,3
+openai,deepseek,standard,Argue - Matchbox 20 (1996),3.8,4.0,4
+openai,llama,standard,Somewhere My Love - Roger Whittaker (1982),4.4,3.4,1
+openai,llama,standard,Timeless - Drunken Tiger feat. BTS (2018),4.6,3.2,5
+openai,openai,standard,Uns geht's gut - And One (1997),3.0,2.4,4
+openai,openai,standard,"Get In, Fit In - Ciara (2007)",5.0,3.4,3
+openai,openai,standard,Sing to Me Mr. C - Perry Como (1962),1.0,2.0,
+openai,openai,standard,You Belong To Me - Rick Astley (2005),1.2,3.2,2
+openai,deepseek,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),5.0,3.6,3
+openai,llama,standard,Battles - In Flames (2016),3.6,3.4,3
+openai,openai,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),1.8,2.8,1
+openai,openai,standard,One Day Tomorrow - Edgar Winter (1975),1.0,2.4,3
+openai,llama,standard,Streets of Fear - Hawkwind (1981),4.2,3.8,3
+openai,deepseek,standard,All That Meat and Potatoes - Louis Armstrong (1955),5.0,2.0,1
+openai,openai,standard,Spirits' Masquerade - Leaves' Eyes (2011),5.0,3.0,2
+openai,deepseek,standard,Where Do We Go From Here - Charles & Eddie (1992),4.8,3.8,1
+openai,llama,standard,Drunk On Love - Basia (1994),5.0,3.4,1
+openai,openai,standard,Sauerkrautpolka - Gus Backus (1961),1.0,2.4,3
+openai,openai,standard,A Reason - Circ (2004),5.0,4.0,1
+openai,llama,standard,"Reise, Reise - Rammstein (2004)",4.6,2.2,4
+openai,deepseek,standard,Leg die Knarre weg - Udo Jürgens (1958),1.4,2.2,2
+openai,deepseek,standard,Breakout - Beverley Knight (2009),5.0,4.2,4
+openai,llama,standard,Light My Fire - Bananafishbones (2002),1.0,2.0,2
+openai,deepseek,standard,Let's Get Together Soon - Dusty Springfield (1970),4.8,3.8,2
+openai,openai,standard,Wait - Martin Jensen feat. Loote (2017),5.0,4.2,4
+openai,deepseek,standard,You Are The Reason - Air Supply (2001),5.0,4.4,4
+openai,llama,standard,"Stay (Far Away, So Close) - Gregorian (2012)",5.0,4.2,3
+openai,deepseek,standard,You Belong To Me - Rick Astley (2005),4.6,3.2,3
+openai,llama,standard,Sauerkrautpolka - Gus Backus (1961),4.0,3.0,3
+openai,llama,standard,"Get In, Fit In - Ciara (2007)",4.6,3.8,1
+openai,llama,standard,Wahre Liebe - Westernhagen (2014),5.0,4.0,2
+openai,llama,standard,Blessed Assurance - Burl Ives (1950),5.0,4.0,2
+openai,deepseek,standard,Sie - Manfred Mann (1964),3.0,3.4,5
+openai,llama,standard,One Day Tomorrow - Edgar Winter (1975),4.8,3.0,2
+openai,openai,standard,Heart of Stone - The Platters (1956),4.4,4.0,3
+openai,llama,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),4.0,3.4,1
+openai,llama,standard,You Know I Miss You - Fats Domino (1952),3.8,3.2,3
+openai,deepseek,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),4.8,3.8,1
+openai,llama,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),5.0,3.4,1
+openai,openai,standard,Leg die Knarre weg - Udo Jürgens (1958),4.8,4.0,5
+openai,openai,standard,Got To Give It Up - Marvin Gaye (1977),2.8,3.8,4
+openai,openai,standard,Mama Told Me Not To Come - Wilson Pickett (1971),1.0,2.0,5
+openai,openai,standard,Clues - Godley & Creme (1979),5.0,3.6,4
+openai,llama,standard,Spirits' Masquerade - Leaves' Eyes (2011),1.2,2.2,1
+openai,deepseek,standard,Sternengold und Silbermond - Peter Alexander (1962),1.4,2.4,3
+openai,deepseek,standard,4:am Forever - Lostprophets (2006),3.2,3.0,5
+openai,openai,standard,Drunk On Love - Basia (1994),4.8,2.2,3
+openai,llama,standard,Hold Me - Brenda Lee (1961),4.4,3.4,1
+openai,deepseek,standard,Ale Ale - Capital Bra (2023),4.6,2.4,4
+openai,openai,standard,I Can't Stand The Rain - Seal (2008),5.0,3.8,1
+openai,llama,standard,Coffee - Kelly Rowland (2020),4.8,4.2,4
+openai,openai,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),4.8,4.8,3
+openai,deepseek,standard,Best Night - Justice Crew (2012),5.0,4.0,5
+openai,openai,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),5.0,4.0,1
+openai,deepseek,standard,Sing to Me Mr. C - Perry Como (1962),3.0,3.0,3
+openai,openai,standard,"My Life - Nat ""King"" Cole (1960)",4.6,2.8,1
+openai,openai,standard,Streets of Fear - Hawkwind (1981),5.0,4.0,3
+openai,deepseek,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),3.0,3.0,3
+openai,llama,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),5.0,3.2,4
+openai,deepseek,standard,Uns geht's gut - And One (1997),1.0,2.0,2
+openai,deepseek,standard,When You Give It Away - Bruce Cockburn (1999),5.0,2.6,1
+openai,llama,standard,Dance Dance Dance - Arabesque (1983),5.0,4.0,3
+openai,llama,standard,Funny How Time Slips Away - Wanda Jackson (1963),1.0,2.0,Keine – alle Interpretationen weisen dieselbe (niedrige) Qualität auf.
+openai,openai,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),4.4,3.6,3
+openai,openai,standard,Eye Of The Storm - Pseudo Echo (1989),5.0,2.4,1
+openai,deepseek,standard,Got To Give It Up - Marvin Gaye (1977),2.6,2.2,5
+openai,openai,standard,Sternengold und Silbermond - Peter Alexander (1962),1.0,2.0,3
+openai,deepseek,standard,Without Love - Dina Carroll (1999),5.0,4.0,3
+openai,llama,standard,Teach Me Tonight - Neil Diamond (1988),5.0,4.0,3
+openai,openai,standard,It’s Alright - The Osmonds (1973),1.0,2.4,4
+openai,llama,standard,Breakout - Beverley Knight (2009),5.0,3.0,2
+openai,deepseek,standard,Heavens Rain - Uriah Heep (2008),4.6,2.6,1
+openai,deepseek,standard,Assistant's Cry - Yello (1980),5.0,2.0,1
+openai,deepseek,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",5.0,2.0,1
+openai,deepseek,standard,Sleepy Time Gal - Bing Crosby (1953),4.6,3.0,2
+openai,deepseek,standard,Dance Only With Me - Perry Como (1958),4.2,4.0,1
+openai,openai,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),5.0,5.0,3
+openai,openai,standard,Sie - Manfred Mann (1964),3.4,3.0,1
+openai,llama,standard,See Emily Play - Pink Floyd (1967),2.4,2.8,1
+openai,deepseek,standard,Somewhere My Love - Roger Whittaker (1982),5.0,3.6,1
+openai,openai,standard,Home - Birdy (2013),5.0,3.2,1
+openai,deepseek,standard,You Know I Miss You - Fats Domino (1952),4.2,3.0,2
+openai,openai,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),5.0,4.0,3
+openai,openai,standard,"Reise, Reise - Rammstein (2004)",4.8,5.0,1
+openai,openai,standard,Somewhere My Love - Roger Whittaker (1982),5.0,4.2,3
+openai,deepseek,standard,I Can't Stand The Rain - Seal (2008),5.0,4.0,1
+openai,llama,standard,It’s Alright - The Osmonds (1973),2.0,3.0,3
+openai,openai,standard,Argue - Matchbox 20 (1996),5.0,5.0,3
+openai,openai,standard,See Emily Play - Pink Floyd (1967),1.0,2.0,1
+openai,llama,standard,Leg die Knarre weg - Udo Jürgens (1958),4.8,2.2,1
+openai,llama,standard,Welcome to the Big Room - Neil Young (2015),1.0,2.0,1
+openai,openai,standard,Best Night - Justice Crew (2012),4.8,3.4,5
+openai,openai,standard,Number One - Laid Back (2019),5.0,1.2,3
+openai,llama,standard,Ship Of Fools - World Party (1987),4.2,3.0,1
+openai,openai,standard,The Flat Foot Floogee - Louis Armstrong (1954),1.0,2.2,3
+openai,llama,standard,Jekyll And Hyde - Judas Priest (2001),5.0,3.8,3
+openai,deepseek,standard,Funny How Time Slips Away - Wanda Jackson (1963),3.2,3.2,3
+openai,deepseek,standard,"Reise, Reise - Rammstein (2004)",4.8,2.8,1
+openai,openai,standard,Where Do We Go From Here - Charles & Eddie (1992),3.6,3.4,3
+openai,deepseek,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),1.0,2.0,3
+openai,deepseek,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),5.0,3.6,4
+openai,openai,standard,All That Meat and Potatoes - Louis Armstrong (1955),1.0,2.0,3
+openai,deepseek,standard,A Reason - Circ (2004),5.0,4.0,3
+openai,openai,standard,"Stay (Far Away, So Close) - Gregorian (2012)",5.0,3.8,1
+openai,openai,standard,Without Love - Dina Carroll (1999),3.8,2.0,5
+openai,llama,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),5.0,4.0,2
+openai,llama,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.2,4.0,5
+openai,deepseek,standard,Ein Festival der Liebe - Jürgen Marcus (1972),5.0,4.0,1
+openai,deepseek,standard,Eye Of The Storm - Pseudo Echo (1989),1.0,2.0,3
+openai,openai,standard,All I Need - Heather Nova (2003),4.8,4.0,2
+openai,llama,standard,Circus Of Death - Project Pitchfork (1993),5.0,4.0,3
+openai,deepseek,standard,Spirits' Masquerade - Leaves' Eyes (2011),5.0,3.8,1
+openai,deepseek,standard,Smoke Dreams - k.d. lang (1997),2.0,2.4,4
+openai,llama,standard,Sing to Me Mr. C - Perry Como (1962),1.0,2.6,3
+openai,llama,standard,Uns geht's gut - And One (1997),4.2,3.6,3
+openai,llama,standard,Heavens Rain - Uriah Heep (2008),4.8,3.0,1
+openai,llama,standard,Let's Get Together Soon - Dusty Springfield (1970),5.0,4.0,1
+openai,llama,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),5.0,2.0,3
+openai,openai,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),1.2,2.2,1
+openai,llama,standard,Sea Song - Tears For Fears (1985),5.0,3.6,1
+openai,deepseek,standard,Into The Blue - Rooney (2010),1.0,2.0,1
+openai,deepseek,standard,They Only Come Out At Night - Lordi (2006),4.0,4.0,3
+openai,openai,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,3.8,2
+openai,llama,standard,Where Do We Go From Here - Charles & Eddie (1992),5.0,4.0,3
+openai,openai,standard,Worth It All - Jay Sean (2013),5.0,4.2,4
+openai,llama,standard,Yesterday When I Was Young - Charles Aznavour (1969),4.8,3.8,1
+openai,llama,standard,Into The Blue - Rooney (2010),5.0,2.0,Alle Interpretationen erreichen identische Scores; keine übertrifft die anderen signifikant.
+openai,openai,standard,Ale Ale - Capital Bra (2023),1.0,3.2,4
+openai,openai,standard,Es geht mir gut - Westernhagen (1994),5.0,3.4,3
+openai,llama,standard,Arschgesicht - Udo Lindenland (1996),5.0,3.6,3
+openai,deepseek,standard,Time Immemorial - Crowded House (1990),1.0,2.0,3
+openai,llama,standard,Assistant's Cry - Yello (1980),5.0,4.8,3
+openai,deepseek,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",5.0,3.0,3
+openai,llama,standard,They Only Come Out At Night - Lordi (2006),4.6,2.6,1
+openai,openai,standard,Planetarium - Covenant (1997),5.0,5.0,3
+openai,llama,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),5.0,4.0,3
+openai,llama,standard,I Cried for You - Ray Charles (1964),1.0,2.0,
+openai,deepseek,standard,All I Need - Heather Nova (2003),5.0,3.0,"Alle Interpretationen erreichen identische Scores (Halluzination 5, Tiefe 3). Es gibt keinen klaren Favoriten; sie sind gleichwertig."
+openai,deepseek,standard,Jekyll And Hyde - Judas Priest (2001),5.0,4.0,3
+openai,llama,standard,You Are The Reason - Air Supply (2001),5.0,4.0,1
+openai,llama,standard,You Belong To Me - Rick Astley (2005),1.0,2.0,2
+openai,openai,standard,Funny How Time Slips Away - Wanda Jackson (1963),2.8,2.8,5
+openai,openai,standard,Breaking My Heart - Richard Marx (2022),5.0,5.0,3
+openai,openai,standard,Before You Leave - Kurt Nilsen (2004),5.0,4.0,1
+openai,deepseek,standard,Streets of Fear - Hawkwind (1981),5.0,2.4,5
+openai,llama,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),5.0,3.4,5
+openai,deepseek,standard,Before You Leave - Kurt Nilsen (2004),5.0,5.0,3
+openai,deepseek,standard,Hold Me - Brenda Lee (1961),4.0,2.2,3
+openai,openai,standard,Sleepy Time Gal - Bing Crosby (1953),1.6,2.4,1
+openai,llama,standard,Got To Give It Up - Marvin Gaye (1977),5.0,1.2,3
+openai,deepseek,standard,Coffee - Kelly Rowland (2020),4.4,3.0,5
+openai,openai,standard,Fellow Hoodlums - Deacon Blue (1991),4.8,4.0,2
+openai,deepseek,standard,Clues - Godley & Creme (1979),3.2,2.6,3
+openai,deepseek,standard,Heart of Stone - The Platters (1956),5.0,2.0,1
+openai,llama,standard,Best Night - Justice Crew (2012),5.0,1.0,3
+openai,llama,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),5.0,3.2,3
+openai,llama,standard,Home - Birdy (2013),5.0,2.0,4
+openai,llama,standard,Mama Told Me Not To Come - Wilson Pickett (1971),1.8,2.8,1
+openai,openai,standard,Arschgesicht - Udo Lindenberg (1996),4.0,3.6,3
+openai,openai,standard,You Know I Miss You - Fats Domino (1952),1.0,2.0,3
+openai,openai,standard,Assistant's Cry - Yello (1980),5.0,2.2,1
+openai,llama,standard,"My Life - Nat ""King"" Cole (1960)",3.0,3.0,3
+deepseek,llama,standard,Sing to Me Mr. C - Perry Como (1962),3.8,4.2,3
+deepseek,openai,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),4.4,3.6,5
+deepseek,llama,standard,Assistant's Cry - Yello (1980),4.8,2.6,4
+deepseek,deepseek,standard,"Stay (Far Away, So Close) - Gregorian (2012)",4.0,2.8,4
+deepseek,llama,standard,Into The Blue - Rooney (2010),5.0,3.0,1
+deepseek,llama,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),4.2,3.8,5
+deepseek,openai,standard,Pay The Man - The Offspring (1998),3.6,4.4,3
+deepseek,openai,standard,Breaking My Heart - Richard Marx (2022),4.0,3.6,3
+deepseek,openai,standard,Jekyll And Hyde - Judas Priest (2001),4.2,3.6,3
+deepseek,llama,standard,Blessed Assurance - Burl Ives (1950),5.0,3.8,1
+deepseek,openai,standard,Time Immemorial - Crowded House (1990),4.0,3.6,3
+deepseek,deepseek,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),4.6,2.4,1
+deepseek,llama,standard,Fellow Hoodlums - Deacon Blue (1991),3.4,3.6,2
+deepseek,deepseek,standard,Home - Birdy (2013),4.6,3.2,3
+deepseek,openai,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.6,3.4,2
+deepseek,llama,standard,"Stay (Far Away, So Close) - Gregorian (2012)",4.6,3.0,1
+deepseek,deepseek,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,3.4,1
+deepseek,openai,standard,You Belong To Me - Rick Astley (2005),3.6,4.0,5
+deepseek,openai,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),4.2,3.8,1
+deepseek,openai,standard,Mama Told Me Not To Come - Wilson Pickett (1971),4.0,3.8,4
+deepseek,llama,standard,"Get In, Fit In - Ciara (2007)",4.6,3.4,4
+deepseek,openai,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.2,4.0,1
+deepseek,llama,standard,Eye Of The Storm - Pseudo Echo (1989),4.6,3.4,4
+deepseek,openai,standard,Sternengold und Silbermond - Peter Alexander (1962),3.4,4.2,1
+deepseek,llama,standard,"Reise, Reise - Rammstein (2004)",4.2,3.2,4
+deepseek,openai,standard,Ship Of Fools - World Party (1987),3.6,4.2,1
+deepseek,llama,standard,Sauerkrautpolka - Gus Backus (1961),5.0,3.2,5
+deepseek,deepseek,standard,Heart of Stone - The Platters (1956),5.0,4.0,1
+deepseek,llama,standard,Mama Told Me Not To Come - Wilson Pickett (1971),4.4,3.6,3
+deepseek,openai,standard,Eye Of The Storm - Pseudo Echo (1989),4.2,3.8,1
+deepseek,llama,standard,Breaking My Heart - Richard Marx (2022),4.0,3.4,2
+deepseek,deepseek,standard,Sing to Me Mr. C - Perry Como (1962),4.6,4.0,1
+deepseek,openai,standard,Before You Leave - Kurt Nilsen (2004),3.8,3.8,3
+deepseek,openai,standard,Blessed Assurance - Burl Ives (1950),4.6,3.6,1
+deepseek,llama,standard,You Know I Miss You - Fats Domino (1952),5.0,3.2,3
+deepseek,deepseek,standard,Sternengold und Silbermond - Peter Alexander (1962),5.0,3.4,3
+deepseek,openai,standard,Somewhere My Love - Roger Whittaker (1982),4.0,4.2,3
+deepseek,llama,standard,Let's Get Together Soon - Dusty Springfield (1970),3.4,3.2,1
+deepseek,llama,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.8,3.6,4
+deepseek,deepseek,standard,Funny How Time Slips Away - Wanda Jackson (1963),3.2,3.6,3
+deepseek,openai,standard,Dance Only With Me - Perry Como (1958),3.8,4.0,5
+deepseek,openai,standard,They Only Come Out At Night - Lordi (2006),4.2,4.0,5
+deepseek,openai,standard,I Know - Vanilla Ninja (2005),4.4,3.8,5
+deepseek,deepseek,standard,Argue - Matchbox 20 (1996),4.4,3.8,3
+deepseek,deepseek,standard,When You Give It Away - Bruce Cockburn (1999),3.6,3.4,3
+deepseek,openai,standard,I Can't Stand The Rain - Seal (2008),4.0,4.2,1
+deepseek,deepseek,standard,Dance Dance Dance - Arabesque (1983),3.4,2.8,5
+deepseek,openai,standard,You Know I Miss You - Fats Domino (1952),3.8,3.8,3
+deepseek,deepseek,standard,All I Need - Heather Nova (2003),5.0,4.6,"[3, 4, 5]"
+deepseek,llama,standard,Hold Me - Brenda Lee (1961),4.4,3.6,2
+deepseek,llama,standard,It’s Alright - The Osmonds (1973),4.2,3.2,3
+deepseek,llama,standard,Uns geht's gut - And One (1997),4.2,3.6,5
+deepseek,openai,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.2,4.0,1
+deepseek,openai,standard,Breakout - Beverley Knight (2009),3.6,3.4,3
+deepseek,llama,standard,Streets of Fear - Hawkwind (1981),3.8,3.4,5
+deepseek,llama,standard,Wahre Liebe - Westernhagen (2014),4.2,3.6,"[3, 4, 5]"
+deepseek,deepseek,standard,Planetarium - Covenant (1997),4.2,3.6,3
+deepseek,deepseek,standard,All That Meat and Potatoes - Louis Armstrong (1955),5.0,3.0,1
+deepseek,llama,standard,Sie - Manfred Mann (1964),1.6,3.4,4
+deepseek,openai,standard,Fellow Hoodlums - Deacon Blue (1991),3.6,3.6,1
+deepseek,deepseek,standard,A Reason - Circ (2004),5.0,4.0,1
+deepseek,llama,standard,Heavens Rain - Uriah Heep (2008),3.6,3.4,3
+deepseek,deepseek,standard,Streets of Fear - Hawkwind (1981),4.0,3.4,5
+deepseek,deepseek,standard,"My Life - Nat ""King"" Cole (1960)",5.0,4.0,3
+deepseek,openai,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",4.2,4.0,1
+deepseek,deepseek,standard,Somewhere My Love - Roger Whittaker (1982),4.6,3.4,4
+deepseek,llama,standard,Heart of Stone - The Platters (1956),5.0,3.2,5
+deepseek,deepseek,standard,I Can't Stand The Rain - Seal (2008),4.6,3.6,3
+deepseek,llama,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",4.4,3.4,3
+deepseek,deepseek,standard,Sie - Manfred Mann (1964),3.2,3.8,3
+deepseek,openai,standard,Streets of Fear - Hawkwind (1981),3.6,4.0,3
+deepseek,llama,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),4.2,3.2,4
+deepseek,openai,standard,A Reason - Circ (2004),4.4,3.6,3
+deepseek,deepseek,standard,Clues - Godley & Creme (1979),4.4,3.2,3
+deepseek,openai,standard,Leg die Knarre weg - Udo Jürgens (1958),3.6,3.8,1
+deepseek,openai,standard,Spirits' Masquerade - Leaves' Eyes (2011),4.0,3.8,4
+deepseek,llama,standard,Du fehlst - Die Toten Hosen (2012),4.6,3.6,"[3, 4, 5]"
+deepseek,openai,standard,Sea Song - Tears For Fears (1985),4.0,4.4,1
+deepseek,deepseek,standard,You Know I Miss You - Fats Domino (1952),4.4,3.0,4
+deepseek,deepseek,standard,Eye Of The Storm - Pseudo Echo (1989),4.0,3.0,5
+deepseek,openai,standard,Where Do We Go From Here - Charles & Eddie (1992),4.2,3.4,3
+deepseek,deepseek,standard,Number One - Laid Back (2019),5.0,4.0,1
+deepseek,openai,standard,Battles - In Flames (2016),3.6,3.6,1
+deepseek,openai,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),4.2,4.0,3
+deepseek,llama,standard,I Can't Stand The Rain - Seal (2008),3.8,3.6,3
+deepseek,llama,standard,Dick and Jane - Bobby Vinton (1974),5.0,3.0,1
+deepseek,llama,standard,All That Meat and Potatoes - Louis Armstrong (1955),4.0,2.6,2
+deepseek,llama,standard,Somewhere My Love - Roger Whittaker (1982),5.0,3.6,3
+deepseek,deepseek,standard,Es geht mir gut - Westernhagen (1994),2.4,3.8,5
+deepseek,openai,standard,Ale Ale - Capital Bra (2023),3.4,3.8,1
+deepseek,deepseek,standard,Into The Blue - Rooney (2010),2.8,3.0,1
+deepseek,deepseek,standard,Sea Song - Tears For Fears (1985),4.2,2.8,3
+deepseek,deepseek,standard,Uns geht's gut - And One (1997),1.4,3.4,4
+deepseek,openai,standard,Worth It All - Jay Sean (2013),4.2,3.6,3
+deepseek,deepseek,standard,Best Night - Justice Crew (2012),5.0,3.0,5
+deepseek,deepseek,standard,I Cried for You - Ray Charles (1964),3.8,3.4,4
+deepseek,llama,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),5.0,3.6,1
+deepseek,openai,standard,Got To Give It Up - Marvin Gaye (1977),3.2,4.0,3
+deepseek,deepseek,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),4.2,3.2,4
+deepseek,llama,standard,Dance Only With Me - Perry Como (1958),5.0,3.4,3
+deepseek,deepseek,standard,You Belong To Me - Rick Astley (2005),4.6,3.2,5
+deepseek,llama,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),4.2,3.6,5
+deepseek,llama,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),4.4,4.0,3
+deepseek,llama,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.6,2.6,1
+deepseek,openai,standard,"Stay (Far Away, So Close) - Gregorian (2012)",3.6,4.2,4
+deepseek,openai,standard,All That Meat and Potatoes - Louis Armstrong (1955),2.8,3.6,4
+deepseek,deepseek,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),5.0,3.2,5
+deepseek,openai,standard,All I Need - Heather Nova (2003),5.0,3.8,1
+deepseek,llama,standard,See Emily Play - Pink Floyd (1967),4.2,3.4,"[3, 5]"
+deepseek,deepseek,standard,Leg die Knarre weg - Udo Jürgens (1958),3.6,3.4,2
+deepseek,deepseek,standard,Fellow Hoodlums - Deacon Blue (1991),4.6,3.0,4
+deepseek,openai,standard,Heart of Stone - The Platters (1956),4.4,3.6,5
+deepseek,openai,standard,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.2,4.0,1
+deepseek,deepseek,standard,Spirits' Masquerade - Leaves' Eyes (2011),4.6,2.6,5
+deepseek,openai,standard,Light My Fire - Bananafishbones (2002),2.8,4.0,5
+deepseek,llama,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),5.0,3.0,1
+deepseek,deepseek,standard,Dance Only With Me - Perry Como (1958),4.2,3.4,1
+deepseek,llama,standard,Smoke Dreams - k.d. lang (1997),4.6,3.2,4
+deepseek,deepseek,standard,Ein Festival der Liebe - Jürgen Marcus (1972),5.0,2.8,1
+deepseek,llama,standard,Easy (Switch Screens) - Son Lux feat. Lorde (2014),4.4,3.4,5
+deepseek,llama,standard,Jekyll And Hyde - Judas Priest (2001),4.4,3.6,3
+deepseek,openai,standard,Scratch My Back - Slade (1976),4.2,3.6,3
+deepseek,llama,standard,You Are The Reason - Air Supply (2001),4.4,3.4,1
+deepseek,llama,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",5.0,3.2,5
+deepseek,deepseek,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),5.0,3.8,1
+deepseek,llama,standard,All I Need - Heather Nova (2003),5.0,4.0,1
+deepseek,openai,standard,Timeless - Drunken Tiger feat. BTS (2018),2.8,3.6,1
+deepseek,deepseek,standard,Ship Of Fools - World Party (1987),4.6,3.8,4
+deepseek,deepseek,standard,It’s Alright - The Osmonds (1973),4.8,3.4,1
+deepseek,deepseek,standard,Without Love - Dina Carroll (1999),5.0,3.0,1
+deepseek,llama,standard,Planetarium - Covenant (1997),4.2,2.8,1
+deepseek,llama,standard,You Belong To Me - Rick Astley (2005),5.0,3.0,1
+deepseek,openai,standard,It’s Alright - The Osmonds (1973),3.6,4.2,4
+deepseek,deepseek,standard,Coffee - Kelly Rowland (2020),5.0,3.4,3
+deepseek,openai,standard,Es geht mir gut - Westernhagen (1994),4.4,3.6,3
+deepseek,deepseek,standard,Breakout - Beverley Knight (2009),4.0,3.6,4
+deepseek,deepseek,standard,Hold Me - Brenda Lee (1961),5.0,3.4,"[3, 5]"
+deepseek,openai,standard,Coffee - Kelly Rowland (2020),4.0,3.8,4
+deepseek,openai,standard,You Are The Reason - Air Supply (2001),3.6,3.8,1
+deepseek,llama,standard,Breakout - Beverley Knight (2009),5.0,3.6,1
+deepseek,llama,standard,Sea Song - Tears For Fears (1985),4.0,3.6,3
+deepseek,openai,standard,Teach Me Tonight - Neil Diamond (1988),3.6,4.0,1
+deepseek,llama,standard,Here I Go Again - Blue System (1995),4.4,3.6,3
+deepseek,openai,standard,Argue - Matchbox 20 (1996),3.6,3.8,1
+deepseek,openai,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),3.4,4.2,1
+deepseek,deepseek,standard,4:am Forever - Lostprophets (2006),5.0,3.6,5
+deepseek,llama,standard,Wait - Martin Jensen feat. Loote (2017),5.0,3.6,1
+deepseek,openai,standard,Arschgesicht - Udo Lindenberg (1996),3.6,4.0,1
+deepseek,deepseek,standard,Arschgesicht - Udo Lindenberg (1996),4.4,4.0,1
+deepseek,llama,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),4.2,3.6,3
+deepseek,llama,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),5.0,2.2,1
+deepseek,deepseek,standard,One Day Tomorrow - Edgar Winter (1975),4.6,3.4,4
+deepseek,deepseek,standard,Mama Told Me Not To Come - Wilson Pickett (1971),3.2,3.6,3
+deepseek,openai,standard,When You Give It Away - Bruce Cockburn (1999),3.6,3.8,1
+deepseek,llama,standard,They Only Come Out At Night - Lordi (2006),4.4,3.8,3
+deepseek,llama,standard,Light My Fire - Bananafishbones (2002),2.6,3.6,2
+deepseek,deepseek,standard,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),4.6,3.6,1
+deepseek,llama,standard,Scratch My Back - Slade (1976),2.8,3.2,2
+deepseek,openai,standard,Number One - Laid Back (2019),4.2,3.8,1
+deepseek,llama,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),4.0,2.6,1
+deepseek,openai,standard,4:am Forever - Lostprophets (2006),3.6,4.0,1
+deepseek,llama,standard,A Reason - Circ (2004),5.0,2.2,1
+deepseek,deepseek,standard,Teach Me Tonight - Neil Diamond (1988),4.8,3.2,5
+deepseek,llama,standard,Got To Give It Up - Marvin Gaye (1977),4.0,3.6,3
+deepseek,deepseek,standard,Drunk On Love - Basia (1994),5.0,3.2,5
+deepseek,llama,standard,Pay The Man - The Offspring (1998),4.8,2.2,1
+deepseek,deepseek,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),4.4,3.2,3
+deepseek,openai,standard,Circus Of Death - Project Pitchfork (1993),3.6,4.2,1
+deepseek,llama,standard,Spirits' Masquerade - Leaves' Eyes (2011),4.2,3.4,4
+deepseek,llama,standard,Ein Festival der Liebe - Jürgen Marcus (1972),5.0,3.2,4
+deepseek,llama,standard,Leg die Knarre weg - Udo Jürgens (1958),3.8,3.6,2
+deepseek,openai,standard,Wahre Liebe - Westernhagen (2014),4.2,4.0,5
+deepseek,openai,standard,Wait - Martin Jensen feat. Loote (2017),4.2,3.8,1
+deepseek,llama,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),4.8,3.8,1
+deepseek,llama,standard,Ship Of Fools - World Party (1987),4.0,3.6,5
+deepseek,deepseek,standard,Thank Me Now - Drake (2010),3.4,3.6,3
+deepseek,deepseek,standard,Here I Go Again - Blue System (1995),4.2,3.8,5
+deepseek,deepseek,standard,Worth It All - Jay Sean (2013),5.0,3.8,1
+deepseek,deepseek,standard,They Only Come Out At Night - Lordi (2006),5.0,3.4,1
+deepseek,llama,standard,Circus Of Death - Project Pitchfork (1993),5.0,3.0,1
+deepseek,deepseek,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),4.6,2.8,4
+deepseek,llama,standard,Number One - Laid Back (2019),5.0,3.6,1
+deepseek,openai,standard,Smoke Dreams - k.d. lang (1997),4.6,4.0,4
+deepseek,openai,standard,Into The Blue - Rooney (2010),4.0,3.8,1
+deepseek,llama,standard,Sleepy Time Gal - Bing Crosby (1953),4.6,2.4,1
+deepseek,openai,standard,Ein Festival der Liebe - Jürgen Marcus (1972),4.0,3.6,3
+deepseek,deepseek,standard,Pay The Man - The Offspring (1998),4.4,3.2,5
+deepseek,llama,standard,Before You Leave - Kurt Nilsen (2004),3.8,2.8,4
+deepseek,openai,standard,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.2,4.0,5
+deepseek,llama,standard,Thank Me Now - Drake (2010),3.6,2.6,5
+deepseek,deepseek,standard,Battles - In Flames (2016),4.2,3.2,3
+deepseek,openai,standard,One Day Tomorrow - Edgar Winter (1975),3.6,4.2,3
+deepseek,deepseek,standard,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.6,3.4,2
+deepseek,deepseek,standard,Light My Fire - Bananafishbones (2002),2.6,3.2,2
+deepseek,openai,standard,Du fehlst - Die Toten Hosen (2012),4.4,4.0,1
+deepseek,openai,standard,Ride It - Jay Sean (2007),3.2,3.8,1
+deepseek,deepseek,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),4.2,2.8,3
+deepseek,deepseek,standard,Before You Leave - Kurt Nilsen (2004),3.6,2.8,5
+deepseek,deepseek,standard,Dick and Jane - Bobby Vinton (1974),4.0,3.0,1
+deepseek,llama,standard,Ale Ale - Capital Bra (2023),4.0,3.0,3
+deepseek,openai,standard,Here I Go Again - Blue System (1995),3.6,3.6,1
+deepseek,llama,standard,Best Night - Justice Crew (2012),4.6,2.4,1
+deepseek,openai,standard,Sleepy Time Gal - Bing Crosby (1953),2.8,4.0,5
+deepseek,deepseek,standard,Blessed Assurance - Burl Ives (1950),4.8,3.6,1
+deepseek,deepseek,standard,Time Immemorial - Crowded House (1990),5.0,3.6,3
+deepseek,openai,standard,Drunk On Love - Basia (1994),4.2,3.6,3
+deepseek,openai,standard,Sing to Me Mr. C - Perry Como (1962),4.0,4.0,3
+deepseek,deepseek,standard,Wait - Martin Jensen feat. Loote (2017),3.8,3.2,5
+deepseek,deepseek,standard,"Turn, Turn, Turn - The Simon Sisters (1966)",5.0,4.0,1
+deepseek,llama,standard,Es geht mir gut - Westernhagen (1994),4.6,2.6,4
+deepseek,deepseek,standard,Sleepy Time Gal - Bing Crosby (1953),3.4,3.4,2
+deepseek,deepseek,standard,"Reise, Reise - Rammstein (2004)",4.2,2.8,5
+deepseek,openai,standard,"My Life - Nat ""King"" Cole (1960)",3.6,3.8,1
+deepseek,llama,standard,Argue - Matchbox 20 (1996),4.4,3.4,3
+deepseek,deepseek,standard,The Flat Foot Floogee - Louis Armstrong (1954),4.6,3.4,3
+deepseek,deepseek,standard,Let's Get Together Soon - Dusty Springfield (1970),4.2,3.0,5
+deepseek,deepseek,standard,"Get In, Fit In - Ciara (2007)",4.6,3.2,5
+deepseek,deepseek,standard,Breaking My Heart - Richard Marx (2022),4.2,3.2,4
+deepseek,openai,standard,Assistant's Cry - Yello (1980),4.0,4.0,4
+deepseek,deepseek,standard,Ride It - Jay Sean (2007),4.2,2.8,4
+deepseek,deepseek,standard,You Are The Reason - Air Supply (2001),4.6,3.4,4
+deepseek,llama,standard,Worth It All - Jay Sean (2013),5.0,3.4,3
+deepseek,llama,standard,The Flat Foot Floogee - Louis Armstrong (1954),5.0,3.0,1
+deepseek,openai,standard,Planetarium - Covenant (1997),4.0,4.0,3
+deepseek,deepseek,standard,See Emily Play - Pink Floyd (1967),3.4,3.6,1
+deepseek,deepseek,standard,Yesterday When I Was Young - Charles Aznavour (1969),4.4,3.8,1
+deepseek,openai,standard,The Flat Foot Floogee - Louis Armstrong (1954),3.6,4.0,2
+deepseek,deepseek,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.0,3.6,5
+deepseek,deepseek,standard,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),3.8,3.8,5
+deepseek,llama,standard,Home - Birdy (2013),5.0,3.2,4
+deepseek,llama,standard,Battles - In Flames (2016),4.2,3.4,5
+deepseek,llama,standard,I Cried for You - Ray Charles (1964),4.6,3.8,1
+deepseek,deepseek,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",4.8,3.4,1
+deepseek,openai,standard,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),3.6,3.6,1
+deepseek,openai,standard,Welcome to the Big Room - Neil Young (2015),3.6,3.6,3
+deepseek,deepseek,standard,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.4,3.6,1
+deepseek,llama,standard,Sternengold und Silbermond - Peter Alexander (1962),4.2,3.4,4
+deepseek,llama,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),4.6,3.4,2
+deepseek,openai,standard,"Reise, Reise - Rammstein (2004)",2.8,3.6,1
+deepseek,llama,standard,Ride It - Jay Sean (2007),4.2,3.2,5
+deepseek,deepseek,standard,Ale Ale - Capital Bra (2023),1.6,3.4,4
+deepseek,openai,standard,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.6,4.4,3
+deepseek,llama,standard,Without Love - Dina Carroll (1999),5.0,3.0,1
+deepseek,openai,standard,Uns geht's gut - And One (1997),3.2,4.0,5
+deepseek,deepseek,standard,Where Do We Go From Here - Charles & Eddie (1992),5.0,3.2,4
+deepseek,deepseek,standard,Smoke Dreams - k.d. lang (1997),5.0,4.0,5
+deepseek,deepseek,standard,Wahre Liebe - Westernhagen (2014),3.8,3.2,5
+deepseek,llama,standard,Clues - Godley & Creme (1979),3.4,3.8,1
+deepseek,llama,standard,Dance Dance Dance - Arabesque (1983),4.4,3.6,3
+deepseek,openai,standard,Clues - Godley & Creme (1979),3.6,3.6,1
+deepseek,llama,standard,4:am Forever - Lostprophets (2006),4.8,3.2,5
+deepseek,llama,standard,Where Do We Go From Here - Charles & Eddie (1992),4.2,3.2,5
+deepseek,openai,standard,Let's Get Together Soon - Dusty Springfield (1970),3.2,3.8,4
+deepseek,openai,standard,Thank Me Now - Drake (2010),3.2,3.8,1
+deepseek,deepseek,standard,I Know - Vanilla Ninja (2005),4.4,3.2,2
+deepseek,openai,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),2.6,3.6,2
+deepseek,deepseek,standard,Jekyll And Hyde - Judas Priest (2001),4.8,2.2,1
+deepseek,llama,standard,Arschgesicht - Udo Lindenberg (1996),4.4,3.8,4
+deepseek,openai,standard,Dance Dance Dance - Arabesque (1983),3.4,3.6,4
+deepseek,llama,standard,Drunk On Love - Basia (1994),4.2,3.0,5
+deepseek,openai,standard,Dick and Jane - Bobby Vinton (1974),4.2,4.2,4
+deepseek,openai,standard,Heavens Rain - Uriah Heep (2008),4.2,3.4,3
+deepseek,deepseek,standard,Got To Give It Up - Marvin Gaye (1977),3.8,2.8,5
+deepseek,llama,standard,"My Life - Nat ""King"" Cole (1960)",5.0,3.6,4
+deepseek,openai,standard,Hold Me - Brenda Lee (1961),3.6,3.8,4
+deepseek,deepseek,standard,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),4.8,3.4,1
+deepseek,llama,standard,Coffee - Kelly Rowland (2020),3.8,3.4,5
+deepseek,deepseek,standard,'Til My Back Ain't Got No Bone - Tom Jones (2015),4.6,3.8,5
+deepseek,llama,standard,Timeless - Drunken Tiger feat. BTS (2018),2.6,3.8,5
+deepseek,deepseek,standard,Du fehlst - Die Toten Hosen (2012),3.6,3.0,3
+deepseek,llama,standard,When You Give It Away - Bruce Cockburn (1999),4.2,3.4,5
+deepseek,openai,standard,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.6,3.8,1
+deepseek,llama,standard,Yesterday When I Was Young - Charles Aznavour (1969),5.0,3.8,5
+deepseek,llama,standard,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.4,3.8,5
+deepseek,deepseek,standard,Circus Of Death - Project Pitchfork (1993),3.8,3.6,4
+deepseek,deepseek,standard,Welcome to the Big Room - Neil Young (2015),5.0,2.8,1
+deepseek,llama,standard,Teach Me Tonight - Neil Diamond (1988),4.4,4.2,3
+deepseek,deepseek,standard,Scratch My Back - Slade (1976),3.6,3.4,5
+deepseek,llama,standard,I Know - Vanilla Ninja (2005),4.4,3.6,3
+deepseek,llama,standard,One Day Tomorrow - Edgar Winter (1975),4.6,2.8,4
+deepseek,openai,standard,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),4.4,3.6,3
+deepseek,openai,standard,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",3.4,3.8,1
+deepseek,openai,standard,I Cried for You - Ray Charles (1964),4.4,3.6,3
+deepseek,openai,standard,Best Night - Justice Crew (2012),3.6,4.0,3
+deepseek,openai,standard,See Emily Play - Pink Floyd (1967),3.6,4.0,3
+deepseek,openai,standard,Yesterday When I Was Young - Charles Aznavour (1969),3.6,3.8,1
+deepseek,deepseek,standard,Timeless - Drunken Tiger feat. BTS (2018),1.6,3.6,5
+deepseek,deepseek,standard,Heavens Rain - Uriah Heep (2008),4.2,3.2,3
+deepseek,openai,standard,"Get In, Fit In - Ciara (2007)",4.2,4.0,1
+deepseek,llama,standard,Time Immemorial - Crowded House (1990),5.0,3.6,1
+deepseek,openai,standard,Sauerkrautpolka - Gus Backus (1961),4.2,3.8,3
+deepseek,openai,standard,Funny How Time Slips Away - Wanda Jackson (1963),3.8,4.4,4
+deepseek,llama,standard,Welcome to the Big Room - Neil Young (2015),5.0,3.0,1
+deepseek,deepseek,standard,Sauerkrautpolka - Gus Backus (1961),4.4,2.8,5
+deepseek,llama,standard,Funny How Time Slips Away - Wanda Jackson (1963),5.0,3.6,1
+deepseek,openai,standard,Without Love - Dina Carroll (1999),3.6,3.6,1
+deepseek,openai,standard,That Old Black Magic - Sam The Sham & The Pharaohs (1965),4.0,3.8,3
+deepseek,openai,standard,Home - Birdy (2013),4.2,3.8,3
+deepseek,openai,standard,Sie - Manfred Mann (1964),3.2,3.6,1
+llama,deepseek,prompt_engineering,Dick and Jane - Bobby Vinton (1974),3.8,3.6,5
+llama,openai,prompt_engineering,Streets of Fear - Hawkwind (1981),3.6,3.6,1
+llama,openai,prompt_engineering,Dance Dance Dance - Arabesque (1983),3.6,4.6,1
+llama,openai,prompt_engineering,They Only Come Out At Night - Lordi (2006),3.6,4.0,1
+llama,deepseek,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),3.6,3.6,1
+llama,deepseek,prompt_engineering,Thank Me Now - Drake (2010),3.8,3.8,5
+llama,llama,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),3.6,3.6,1
+llama,openai,prompt_engineering,Welcome to the Big Room - Neil Young (2015),3.8,4.0,1
+llama,llama,prompt_engineering,Number One - Laid Back (2019),3.0,3.0,1
+llama,deepseek,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),4.0,3.0,1
+llama,llama,prompt_engineering,Ride It - Jay Sean (2007),3.8,3.8,1
+llama,deepseek,prompt_engineering,You Belong To Me - Rick Astley (2005),3.6,3.6,1
+llama,llama,prompt_engineering,Clues - Godley & Creme (1979),4.0,4.0,1
+llama,deepseek,prompt_engineering,Clues - Godley & Creme (1979),3.8,3.8,1
+llama,deepseek,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),3.6,3.6,3
+llama,openai,prompt_engineering,Thank Me Now - Drake (2010),3.6,4.0,1
+llama,openai,prompt_engineering,Heart of Stone - The Platters (1956),3.6,3.8,1
+llama,openai,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.6,3.6,1
+llama,llama,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),4.0,3.0,1
+llama,deepseek,prompt_engineering,Light My Fire - Bananafishbones (2002),3.4,3.4,1
+llama,deepseek,prompt_engineering,4:am Forever - Lostprophets (2006),3.8,3.8,1
+llama,openai,prompt_engineering,All I Need - Heather Nova (2003),3.6,4.0,1
+llama,deepseek,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),3.6,3.6,1
+llama,llama,prompt_engineering,Into The Blue - Rooney (2010),3.6,3.6,1
+llama,openai,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),3.6,3.6,1
+llama,deepseek,prompt_engineering,Planetarium - Covenant (1997),3.6,3.6,4
+llama,deepseek,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",3.6,3.6,1
+llama,llama,prompt_engineering,Du fehlst - Die Toten Hosen (2012),4.2,3.6,5
+llama,openai,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),3.6,3.8,1
+llama,llama,prompt_engineering,Time Immemorial - Crowded House (1990),3.8,3.8,1
+llama,llama,prompt_engineering,Dick and Jane - Bobby Vinton (1974),4.0,4.0,1
+llama,llama,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),4.4,3.8,5
+llama,llama,prompt_engineering,Best Night - Justice Crew (2012),3.6,3.6,4
+llama,openai,prompt_engineering,I Know - Vanilla Ninja (2005),3.6,3.8,1
+llama,openai,prompt_engineering,Coffee - Kelly Rowland (2020),3.8,4.2,5
+llama,llama,prompt_engineering,Battles - In Flames (2016),3.6,3.6,1
+llama,deepseek,prompt_engineering,They Only Come Out At Night - Lordi (2006),3.6,3.2,5
+llama,deepseek,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),3.2,3.2,1
+llama,deepseek,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.8,3.2,5
+llama,deepseek,prompt_engineering,You Know I Miss You - Fats Domino (1952),3.8,3.2,5
+llama,llama,prompt_engineering,Drunk On Love - Basia (1994),3.4,3.6,1
+llama,llama,prompt_engineering,Coffee - Kelly Rowland (2020),3.6,3.6,1
+llama,deepseek,prompt_engineering,I Can't Stand The Rain - Seal (2008),4.4,3.9,3
+llama,deepseek,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),2.4,2.6,1
+llama,openai,prompt_engineering,Time Immemorial - Crowded House (1990),3.6,4.0,1
+llama,openai,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),3.2,3.6,1
+llama,openai,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.6,3.8,5
+llama,llama,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),3.8,3.8,1
+llama,openai,prompt_engineering,Ale Ale - Capital Bra (2023),3.6,4.6,1
+llama,deepseek,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),3.2,3.2,5
+llama,openai,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),3.6,4.2,1
+llama,llama,prompt_engineering,Heavens Rain - Uriah Heep (2008),3.4,2.6,1
+llama,llama,prompt_engineering,Assistant's Cry - Yello (1980),3.2,2.4,4
+llama,llama,prompt_engineering,Blessed Assurance - Burl Ives (1950),3.4,3.2,1
+llama,deepseek,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),3.4,3.6,1
+llama,openai,prompt_engineering,I Can't Stand The Rain - Seal (2008),3.8,3.8,1
+llama,openai,prompt_engineering,It’s Alright - The Osmonds (1973),3.6,3.6,1
+llama,llama,prompt_engineering,A Reason - Circ (2004),3.0,3.0,Keine der Interpretationen ragt deutlich hervor
+llama,openai,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),3.6,3.6,1
+llama,openai,prompt_engineering,Worth It All - Jay Sean (2013),3.6,3.8,1
+llama,deepseek,prompt_engineering,Without Love - Dina Carroll (1999),4.2,3.8,4
+llama,llama,prompt_engineering,Es geht mir gut - Westernhagen (1994),3.2,3.8,1
+llama,llama,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),4.0,3.7,1
+llama,openai,prompt_engineering,Breakout - Beverley Knight (2009),3.6,3.6,1
+llama,llama,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),3.6,3.6,1
+llama,deepseek,prompt_engineering,I Know - Vanilla Ninja (2005),3.0,3.0,1
+llama,deepseek,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),3.2,3.2,5
+llama,llama,prompt_engineering,"Reise, Reise - Rammstein (2004)",3.8,3.8,1
+llama,llama,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),3.4,3.4,1
+llama,llama,prompt_engineering,Here I Go Again - Blue System (1995),3.6,3.6,1
+llama,openai,prompt_engineering,Ship Of Fools - World Party (1987),3.6,3.6,1
+llama,openai,prompt_engineering,Dick and Jane - Bobby Vinton (1974),3.8,4.2,5
+llama,llama,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),3.0,3.8,3
+llama,deepseek,prompt_engineering,It’s Alright - The Osmonds (1973),3.4,3.4,1
+llama,llama,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),3.8,3.8,1
+llama,openai,prompt_engineering,Ride It - Jay Sean (2007),3.6,3.6,1
+llama,llama,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.6,3.6,1
+llama,openai,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),3.6,4.0,1
+llama,openai,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),3.6,3.6,1
+llama,deepseek,prompt_engineering,Sea Song - Tears For Fears (1985),3.8,3.8,5
+llama,deepseek,prompt_engineering,Number One - Laid Back (2019),3.6,3.8,1
+llama,deepseek,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),4.2,3.6,4
+llama,openai,prompt_engineering,Uns geht's gut - And One (1997),4.0,4.2,3
+llama,deepseek,prompt_engineering,You Are The Reason - Air Supply (2001),4.0,3.4,1
+llama,openai,prompt_engineering,You Belong To Me - Rick Astley (2005),3.6,4.0,1
+llama,llama,prompt_engineering,It’s Alright - The Osmonds (1973),3.4,3.6,"Keine Interpretation ragt deutlich heraus, da alle eine ähnliche Balance zwischen Halluzination und Tiefe aufweisen."
+llama,openai,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.6,3.8,1
+llama,deepseek,prompt_engineering,Drunk On Love - Basia (1994),2.4,2.4,1
+llama,llama,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),3.8,3.8,1
+llama,deepseek,prompt_engineering,Time Immemorial - Crowded House (1990),3.6,3.6,1
+llama,openai,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),3.6,3.6,1
+llama,deepseek,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),3.6,3.6,1
+llama,deepseek,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),4.0,3.6,1
+llama,deepseek,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),4.2,3.4,5
+llama,llama,prompt_engineering,Planetarium - Covenant (1997),3.0,2.0,Keine
+llama,openai,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.6,4.0,3
+llama,openai,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),3.6,4.2,3
+llama,openai,prompt_engineering,"Reise, Reise - Rammstein (2004)",3.6,4.6,1
+llama,openai,prompt_engineering,Battles - In Flames (2016),3.6,4.0,1
+llama,deepseek,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),4.0,3.0,1
+llama,deepseek,prompt_engineering,Best Night - Justice Crew (2012),3.6,4.0,1
+llama,openai,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",3.6,3.6,1
+llama,deepseek,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),3.6,4.2,1
+llama,deepseek,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.6,3.6,1
+llama,deepseek,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),3.8,3.8,1
+llama,deepseek,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),3.8,3.8,1
+llama,deepseek,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.8,3.8,5
+llama,llama,prompt_engineering,Worth It All - Jay Sean (2013),3.6,3.6,5
+llama,deepseek,prompt_engineering,Ride It - Jay Sean (2007),4.0,4.0,1
+llama,llama,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),4.2,3.9,3
+llama,openai,prompt_engineering,Breaking My Heart - Richard Marx (2022),3.6,4.0,5
+llama,llama,prompt_engineering,Dance Dance Dance - Arabesque (1983),3.2,3.6,3
+llama,deepseek,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),3.8,3.8,5
+llama,deepseek,prompt_engineering,"Reise, Reise - Rammstein (2004)",3.4,3.4,1
+llama,deepseek,prompt_engineering,Breaking My Heart - Richard Marx (2022),3.8,3.8,5
+llama,llama,prompt_engineering,I Cried for You - Ray Charles (1964),3.6,3.6,1
+llama,llama,prompt_engineering,Argue - Matchbox 20 (1996),3.4,3.6,4
+llama,llama,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),4.0,3.6,1
+llama,llama,prompt_engineering,Without Love - Dina Carroll (1999),3.6,3.6,1
+llama,openai,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),3.6,3.6,1
+llama,openai,prompt_engineering,Without Love - Dina Carroll (1999),3.6,3.8,5
+llama,deepseek,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),3.6,3.8,1
+llama,llama,prompt_engineering,They Only Come Out At Night - Lordi (2006),3.0,2.0,Keine der Interpretationen ragt deutlich hervor
+llama,openai,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,4.2,1
+llama,deepseek,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.6,3.6,1
+llama,llama,prompt_engineering,I Know - Vanilla Ninja (2005),4.4,3.9,3
+llama,deepseek,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",4.0,4.0,5
+llama,deepseek,prompt_engineering,Ale Ale - Capital Bra (2023),3.4,3.4,1
+llama,openai,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",3.6,4.2,1
+llama,llama,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),3.8,3.8,5
+llama,llama,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),3.6,3.4,3
+llama,llama,prompt_engineering,Hold Me - Brenda Lee (1961),3.4,3.4,1
+llama,openai,prompt_engineering,Home - Birdy (2013),3.6,4.0,1
+llama,llama,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.6,3.6,1
+llama,openai,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),3.6,3.6,1
+llama,llama,prompt_engineering,Home - Birdy (2013),3.6,3.6,1
+llama,openai,prompt_engineering,Light My Fire - Bananafishbones (2002),3.6,3.6,1
+llama,llama,prompt_engineering,You Are The Reason - Air Supply (2001),3.4,3.4,1
+llama,openai,prompt_engineering,Planetarium - Covenant (1997),3.6,3.8,1
+llama,deepseek,prompt_engineering,Welcome to the Big Room - Neil Young (2015),3.8,3.4,5
+llama,llama,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),4.2,3.6,3
+llama,openai,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),3.6,4.0,1
+llama,llama,prompt_engineering,All I Need - Heather Nova (2003),3.2,2.4,5
+llama,llama,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),3.8,3.8,5
+llama,openai,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",3.6,4.2,1
+llama,openai,prompt_engineering,Hold Me - Brenda Lee (1961),3.6,3.6,1
+llama,llama,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.2,4.0,3
+llama,llama,prompt_engineering,You Know I Miss You - Fats Domino (1952),4.0,3.0,3
+llama,openai,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),3.6,3.6,1
+llama,openai,prompt_engineering,Scratch My Back - Slade (1976),3.6,3.6,1
+llama,openai,prompt_engineering,Heavens Rain - Uriah Heep (2008),3.6,3.6,1
+llama,llama,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),2.8,2.4,1
+llama,deepseek,prompt_engineering,A Reason - Circ (2004),4.4,3.9,3
+llama,deepseek,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),3.6,3.6,1
+llama,openai,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),3.6,3.8,1
+llama,deepseek,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",3.8,3.8,5
+llama,deepseek,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),3.6,3.6,3
+llama,llama,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.6,3.6,1
+llama,llama,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",3.6,3.6,1
+llama,openai,prompt_engineering,Smoke Dreams - k.d. lang (1997),3.6,3.6,1
+llama,llama,prompt_engineering,Thank Me Now - Drake (2010),3.8,3.8,5
+llama,deepseek,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),3.6,3.6,1
+llama,openai,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),3.6,3.6,1
+llama,llama,prompt_engineering,I Can't Stand The Rain - Seal (2008),3.4,3.2,3
+llama,openai,prompt_engineering,Blessed Assurance - Burl Ives (1950),3.6,3.6,1
+llama,openai,prompt_engineering,Assistant's Cry - Yello (1980),3.6,3.6,1
+llama,openai,prompt_engineering,Es geht mir gut - Westernhagen (1994),3.6,3.6,1
+llama,openai,prompt_engineering,Clues - Godley & Creme (1979),3.6,4.0,1
+llama,llama,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.0,3.8,1
+llama,llama,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",3.8,3.8,5
+llama,llama,prompt_engineering,Before You Leave - Kurt Nilsen (2004),4.0,3.8,1
+llama,llama,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),3.6,2.8,1
+llama,openai,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.6,4.2,1
+llama,deepseek,prompt_engineering,I Cried for You - Ray Charles (1964),4.0,3.6,1
+llama,llama,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.8,3.8,5
+llama,llama,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",3.2,3.2,1
+llama,deepseek,prompt_engineering,Battles - In Flames (2016),3.8,3.4,1
+llama,deepseek,prompt_engineering,Sie - Manfred Mann (1964),3.8,4.6,5
+llama,openai,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.6,3.6,1
+llama,deepseek,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.6,3.8,2
+llama,llama,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),3.2,4.0,3
+llama,openai,prompt_engineering,A Reason - Circ (2004),3.6,3.8,1
+llama,deepseek,prompt_engineering,Du fehlst - Die Toten Hosen (2012),4.0,3.6,1
+llama,openai,prompt_engineering,Drunk On Love - Basia (1994),3.2,3.6,1
+llama,deepseek,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.4,4.2,5
+llama,llama,prompt_engineering,Pay The Man - The Offspring (1998),3.6,3.6,1
+llama,llama,prompt_engineering,Ale Ale - Capital Bra (2023),2.8,3.8,3
+llama,llama,prompt_engineering,Smoke Dreams - k.d. lang (1997),3.8,3.4,5
+llama,openai,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),3.6,4.0,1
+llama,deepseek,prompt_engineering,Circus Of Death - Project Pitchfork (1993),2.8,2.6,1
+llama,llama,prompt_engineering,Sea Song - Tears For Fears (1985),3.6,3.6,1
+llama,openai,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),3.6,4.2,3
+llama,deepseek,prompt_engineering,Hold Me - Brenda Lee (1961),3.6,3.6,1
+llama,openai,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.6,3.6,1
+llama,llama,prompt_engineering,4:am Forever - Lostprophets (2006),3.8,3.6,1
+llama,deepseek,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),3.4,3.4,1
+llama,openai,prompt_engineering,Dance Only With Me - Perry Como (1958),3.6,4.2,1
+llama,openai,prompt_engineering,Number One - Laid Back (2019),3.6,3.2,1
+llama,deepseek,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),3.6,3.6,1
+llama,deepseek,prompt_engineering,Streets of Fear - Hawkwind (1981),3.6,3.6,1
+llama,deepseek,prompt_engineering,Scratch My Back - Slade (1976),4.0,3.2,5
+llama,llama,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),3.8,3.8,1
+llama,deepseek,prompt_engineering,Argue - Matchbox 20 (1996),2.8,2.8,1
+llama,openai,prompt_engineering,Best Night - Justice Crew (2012),3.6,3.8,1
+llama,openai,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",3.6,3.6,1
+llama,llama,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),3.4,3.6,1
+llama,deepseek,prompt_engineering,Smoke Dreams - k.d. lang (1997),3.2,3.2,1
+llama,openai,prompt_engineering,See Emily Play - Pink Floyd (1967),3.6,3.6,1
+llama,llama,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),4.0,3.0,Alle Interpretationen haben ähnliche Stärken und Schwächen
+llama,deepseek,prompt_engineering,Before You Leave - Kurt Nilsen (2004),3.6,3.6,1
+llama,llama,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),3.0,3.0,1
+llama,openai,prompt_engineering,Sea Song - Tears For Fears (1985),3.6,4.2,1
+llama,llama,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),4.0,3.2,3
+llama,deepseek,prompt_engineering,Heart of Stone - The Platters (1956),3.2,3.2,1
+llama,deepseek,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.2,3.2,5
+llama,openai,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),3.6,3.6,1
+llama,openai,prompt_engineering,Here I Go Again - Blue System (1995),3.6,4.0,1
+llama,deepseek,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),3.6,3.6,1
+llama,openai,prompt_engineering,Argue - Matchbox 20 (1996),3.6,4.6,1
+llama,llama,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),3.4,3.4,1
+llama,llama,prompt_engineering,Ship Of Fools - World Party (1987),3.0,3.0,"Keine der Interpretationen ragt deutlich hervor, da sie alle ähnliche Stärken und Schwächen aufweisen."
+llama,deepseek,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),3.2,3.6,1
+llama,deepseek,prompt_engineering,Coffee - Kelly Rowland (2020),3.2,3.2,1
+llama,deepseek,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),3.8,3.8,5
+llama,openai,prompt_engineering,You Are The Reason - Air Supply (2001),3.6,4.0,5
+llama,llama,prompt_engineering,Uns geht's gut - And One (1997),3.6,3.6,1
+llama,deepseek,prompt_engineering,Breakout - Beverley Knight (2009),3.6,3.6,1
+llama,deepseek,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),3.6,3.6,1
+llama,openai,prompt_engineering,"Get In, Fit In - Ciara (2007)",3.6,3.6,2
+llama,deepseek,prompt_engineering,Here I Go Again - Blue System (1995),3.6,3.2,4
+llama,llama,prompt_engineering,Welcome to the Big Room - Neil Young (2015),3.8,3.8,1
+llama,llama,prompt_engineering,Heart of Stone - The Platters (1956),3.2,3.2,4
+llama,openai,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),3.6,3.8,1
+llama,deepseek,prompt_engineering,Home - Birdy (2013),3.6,3.6,1
+llama,llama,prompt_engineering,Breaking My Heart - Richard Marx (2022),4.0,3.6,1
+llama,openai,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),3.6,4.0,1
+llama,llama,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.4,3.4,1
+llama,deepseek,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),4.2,3.7,5
+llama,openai,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),3.6,3.6,1
+llama,deepseek,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,3.6,1
+llama,deepseek,prompt_engineering,Heavens Rain - Uriah Heep (2008),3.4,3.4,1
+llama,llama,prompt_engineering,You Belong To Me - Rick Astley (2005),3.2,3.4,5
+llama,deepseek,prompt_engineering,Wahre Liebe - Westernhagen (2014),4.0,3.8,1
+llama,openai,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),3.6,3.6,1
+llama,openai,prompt_engineering,I Cried for You - Ray Charles (1964),3.6,3.6,1
+llama,deepseek,prompt_engineering,Pay The Man - The Offspring (1998),3.6,3.6,1
+llama,llama,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),3.8,3.8,1
+llama,llama,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),3.4,3.4,1
+llama,llama,prompt_engineering,Scratch My Back - Slade (1976),3.2,3.8,4
+llama,llama,prompt_engineering,Streets of Fear - Hawkwind (1981),3.0,2.0,Keine der Interpretationen zeichnet sich durch eine besondere Tiefe oder Originalität aus.
+llama,openai,prompt_engineering,You Know I Miss You - Fats Domino (1952),3.6,3.6,1
+llama,openai,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),3.8,4.2,5
+llama,deepseek,prompt_engineering,"Get In, Fit In - Ciara (2007)",3.8,3.8,5
+llama,llama,prompt_engineering,Circus Of Death - Project Pitchfork (1993),3.0,3.0,Keine der Interpretationen ragt deutlich hervor
+llama,llama,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),3.4,3.4,1
+llama,deepseek,prompt_engineering,Dance Only With Me - Perry Como (1958),4.4,3.9,5
+llama,openai,prompt_engineering,Circus Of Death - Project Pitchfork (1993),3.6,4.2,1
+llama,openai,prompt_engineering,4:am Forever - Lostprophets (2006),3.8,4.2,5
+llama,deepseek,prompt_engineering,Dance Dance Dance - Arabesque (1983),3.4,4.2,5
+llama,deepseek,prompt_engineering,Assistant's Cry - Yello (1980),3.8,4.0,5
+llama,deepseek,prompt_engineering,See Emily Play - Pink Floyd (1967),3.6,3.6,1
+llama,deepseek,prompt_engineering,Uns geht's gut - And One (1997),3.6,3.6,1
+llama,llama,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),3.6,3.6,1
+llama,llama,prompt_engineering,"Get In, Fit In - Ciara (2007)",4.0,2.8,1
+llama,llama,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),3.6,3.6,1
+llama,openai,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),3.8,4.4,1
+llama,llama,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),3.6,3.6,1
+llama,openai,prompt_engineering,Sie - Manfred Mann (1964),3.6,4.0,1
+llama,openai,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),3.6,3.6,1
+llama,openai,prompt_engineering,Du fehlst - Die Toten Hosen (2012),3.6,4.0,1
+llama,openai,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),3.6,4.0,1
+llama,llama,prompt_engineering,Light My Fire - Bananafishbones (2002),3.8,4.2,5
+llama,openai,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),3.6,4.2,1
+llama,openai,prompt_engineering,Into The Blue - Rooney (2010),3.6,4.2,1
+llama,deepseek,prompt_engineering,Ship Of Fools - World Party (1987),3.4,3.4,1
+llama,deepseek,prompt_engineering,Es geht mir gut - Westernhagen (1994),3.2,3.2,1
+llama,deepseek,prompt_engineering,All I Need - Heather Nova (2003),3.6,3.6,5
+llama,deepseek,prompt_engineering,Into The Blue - Rooney (2010),4.0,3.4,4
+llama,openai,prompt_engineering,Pay The Man - The Offspring (1998),3.6,3.6,1
+llama,openai,prompt_engineering,Wahre Liebe - Westernhagen (2014),3.8,4.0,1
+llama,llama,prompt_engineering,Breakout - Beverley Knight (2009),3.4,4.0,5
+llama,llama,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.8,3.8,1
+llama,deepseek,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),4.0,3.2,4
+llama,deepseek,prompt_engineering,Blessed Assurance - Burl Ives (1950),4.0,3.6,3
+llama,deepseek,prompt_engineering,Worth It All - Jay Sean (2013),3.6,3.6,1
+llama,llama,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),3.8,3.6,1
+llama,openai,prompt_engineering,Before You Leave - Kurt Nilsen (2004),3.6,3.6,1
+llama,openai,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.6,3.6,1
+llama,openai,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),3.6,4.0,1
+llama,llama,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",3.6,3.6,1
+llama,llama,prompt_engineering,Dance Only With Me - Perry Como (1958),3.8,3.8,1
+llama,openai,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),3.6,4.0,1
+llama,llama,prompt_engineering,Wahre Liebe - Westernhagen (2014),3.8,3.8,5
+llama,deepseek,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",3.6,3.8,1
+llama,llama,prompt_engineering,See Emily Play - Pink Floyd (1967),3.6,3.6,1
+llama,deepseek,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),3.6,3.6,1
+llama,llama,prompt_engineering,Sie - Manfred Mann (1964),3.4,2.6,4
+llama,openai,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),3.6,4.2,1
+llama,deepseek,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),3.4,3.4,1
+deepseek,deepseek,prompt_engineering,They Only Come Out At Night - Lordi (2006),3.0,1.8,3
+deepseek,deepseek,prompt_engineering,Best Night - Justice Crew (2012),2.2,1.6,3
+deepseek,llama,prompt_engineering,Without Love - Dina Carroll (1999),3.0,3.0,3
+deepseek,deepseek,prompt_engineering,Time Immemorial - Crowded House (1990),2.6,2.8,5
+deepseek,openai,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),2.2,3.8,3
+deepseek,deepseek,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),2.2,2.8,5
+deepseek,deepseek,prompt_engineering,Here I Go Again - Blue System (1995),2.4,2.4,5
+deepseek,llama,prompt_engineering,Light My Fire - Bananafishbones (2002),2.6,2.8,5
+deepseek,deepseek,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),3.2,2.0,2
+deepseek,deepseek,prompt_engineering,"Reise, Reise - Rammstein (2004)",2.2,2.0,4
+deepseek,llama,prompt_engineering,Scratch My Back - Slade (1976),2.6,3.2,5
+deepseek,llama,prompt_engineering,Ship Of Fools - World Party (1987),2.2,3.0,3
+deepseek,deepseek,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),1.8,2.6,4
+deepseek,llama,prompt_engineering,See Emily Play - Pink Floyd (1967),2.4,3.6,5
+deepseek,llama,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),2.6,2.8,3
+deepseek,openai,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),2.6,3.6,1
+deepseek,openai,prompt_engineering,Heavens Rain - Uriah Heep (2008),2.4,3.6,4
+deepseek,openai,prompt_engineering,It’s Alright - The Osmonds (1973),2.0,3.8,2
+deepseek,openai,prompt_engineering,Circus Of Death - Project Pitchfork (1993),2.4,3.4,1
+deepseek,llama,prompt_engineering,All I Need - Heather Nova (2003),2.8,3.6,2
+deepseek,deepseek,prompt_engineering,Light My Fire - Bananafishbones (2002),1.2,2.2,2
+deepseek,deepseek,prompt_engineering,4:am Forever - Lostprophets (2006),2.2,2.4,1
+deepseek,openai,prompt_engineering,"Reise, Reise - Rammstein (2004)",2.2,3.8,1
+deepseek,deepseek,prompt_engineering,It’s Alright - The Osmonds (1973),1.8,2.2,3
+deepseek,openai,prompt_engineering,Uns geht's gut - And One (1997),2.2,3.8,5
+deepseek,deepseek,prompt_engineering,You Know I Miss You - Fats Domino (1952),2.6,2.2,3
+deepseek,llama,prompt_engineering,Argue - Matchbox 20 (1996),2.8,3.4,5
+deepseek,llama,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.0,3.0,5
+deepseek,deepseek,prompt_engineering,Scratch My Back - Slade (1976),2.4,2.4,5
+deepseek,openai,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),2.0,3.6,3
+deepseek,llama,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),2.2,2.6,3
+deepseek,llama,prompt_engineering,Wahre Liebe - Westernhagen (2014),3.6,3.8,3
+deepseek,openai,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),2.4,3.4,3
+deepseek,deepseek,prompt_engineering,I Cried for You - Ray Charles (1964),2.2,2.6,1
+deepseek,openai,prompt_engineering,Number One - Laid Back (2019),2.6,3.4,1
+deepseek,llama,prompt_engineering,Assistant's Cry - Yello (1980),2.6,3.4,3
+deepseek,openai,prompt_engineering,"Get In, Fit In - Ciara (2007)",2.8,3.8,2
+deepseek,openai,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.8,3.6,4
+deepseek,llama,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),2.8,3.6,5
+deepseek,openai,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),1.8,3.8,1
+deepseek,llama,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),3.4,3.4,1
+deepseek,openai,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),2.6,3.6,3
+deepseek,openai,prompt_engineering,Es geht mir gut - Westernhagen (1994),2.6,3.6,1
+deepseek,openai,prompt_engineering,Assistant's Cry - Yello (1980),2.6,3.2,1
+deepseek,deepseek,prompt_engineering,Thank Me Now - Drake (2010),2.4,2.2,2
+deepseek,deepseek,prompt_engineering,Before You Leave - Kurt Nilsen (2004),2.0,2.2,3
+deepseek,llama,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",3.8,3.4,"[2, 5]"
+deepseek,llama,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),2.8,3.0,5
+deepseek,deepseek,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),2.0,3.0,5
+deepseek,deepseek,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),1.6,2.8,4
+deepseek,llama,prompt_engineering,Worth It All - Jay Sean (2013),3.4,3.4,4
+deepseek,llama,prompt_engineering,You Know I Miss You - Fats Domino (1952),1.6,3.4,3
+deepseek,llama,prompt_engineering,Dance Dance Dance - Arabesque (1983),3.2,3.0,5
+deepseek,llama,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),2.4,3.0,4
+deepseek,llama,prompt_engineering,I Can't Stand The Rain - Seal (2008),3.2,2.8,3
+deepseek,openai,prompt_engineering,Without Love - Dina Carroll (1999),2.4,3.8,2
+deepseek,llama,prompt_engineering,Pay The Man - The Offspring (1998),2.8,3.6,5
+deepseek,openai,prompt_engineering,Ride It - Jay Sean (2007),2.0,3.6,5
+deepseek,deepseek,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),2.0,2.4,4
+deepseek,openai,prompt_engineering,Dick and Jane - Bobby Vinton (1974),2.0,3.6,2
+deepseek,openai,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),2.6,3.4,4
+deepseek,openai,prompt_engineering,You Know I Miss You - Fats Domino (1952),2.4,3.4,3
+deepseek,deepseek,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),1.8,3.0,4
+deepseek,llama,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),3.2,4.0,5
+deepseek,llama,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),2.8,3.4,2
+deepseek,llama,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),3.0,3.6,"[3, 5]"
+deepseek,openai,prompt_engineering,Argue - Matchbox 20 (1996),2.4,3.8,4
+deepseek,llama,prompt_engineering,Time Immemorial - Crowded House (1990),3.2,3.2,3
+deepseek,deepseek,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),2.2,2.2,4
+deepseek,deepseek,prompt_engineering,Uns geht's gut - And One (1997),3.0,2.6,4
+deepseek,deepseek,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),2.4,2.2,5
+deepseek,llama,prompt_engineering,Welcome to the Big Room - Neil Young (2015),3.2,3.2,5
+deepseek,deepseek,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),3.0,2.4,3
+deepseek,llama,prompt_engineering,Here I Go Again - Blue System (1995),2.6,3.4,4
+deepseek,deepseek,prompt_engineering,Home - Birdy (2013),2.6,3.0,3
+deepseek,deepseek,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),1.4,2.2,5
+deepseek,llama,prompt_engineering,Blessed Assurance - Burl Ives (1950),3.6,3.0,3
+deepseek,llama,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),2.8,3.6,3
+deepseek,openai,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),2.0,3.8,1
+deepseek,openai,prompt_engineering,I Cried for You - Ray Charles (1964),2.4,3.6,3
+deepseek,openai,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),1.8,3.8,2
+deepseek,llama,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),3.0,3.2,3
+deepseek,llama,prompt_engineering,Uns geht's gut - And One (1997),2.8,3.0,4
+deepseek,openai,prompt_engineering,They Only Come Out At Night - Lordi (2006),2.2,3.4,1
+deepseek,openai,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),2.2,3.6,4
+deepseek,deepseek,prompt_engineering,Assistant's Cry - Yello (1980),2.6,2.4,4
+deepseek,openai,prompt_engineering,Drunk On Love - Basia (1994),2.6,3.6,4
+deepseek,deepseek,prompt_engineering,Es geht mir gut - Westernhagen (1994),1.8,2.2,5
+deepseek,llama,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),2.4,3.4,4
+deepseek,openai,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),3.0,3.8,5
+deepseek,llama,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),3.0,3.2,3
+deepseek,llama,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),2.8,3.0,4
+deepseek,deepseek,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),2.4,2.4,5
+deepseek,openai,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),2.0,3.5,3
+deepseek,deepseek,prompt_engineering,Heart of Stone - The Platters (1956),2.2,1.8,4
+deepseek,openai,prompt_engineering,Light My Fire - Bananafishbones (2002),2.6,3.8,"[1, 3, 4]"
+deepseek,openai,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),2.2,4.0,3
+deepseek,deepseek,prompt_engineering,Hold Me - Brenda Lee (1961),2.4,2.4,3
+deepseek,deepseek,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),2.2,2.4,3
+deepseek,openai,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),2.8,3.8,3
+deepseek,deepseek,prompt_engineering,Heavens Rain - Uriah Heep (2008),2.4,2.8,5
+deepseek,llama,prompt_engineering,Clues - Godley & Creme (1979),2.4,2.8,5
+deepseek,deepseek,prompt_engineering,Smoke Dreams - k.d. lang (1997),2.0,2.2,3
+deepseek,llama,prompt_engineering,You Are The Reason - Air Supply (2001),3.6,3.6,"[4, 5]"
+deepseek,llama,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),2.8,2.8,1
+deepseek,deepseek,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),1.4,1.6,1
+deepseek,llama,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",2.6,2.8,4
+deepseek,deepseek,prompt_engineering,Planetarium - Covenant (1997),2.4,2.4,4
+deepseek,llama,prompt_engineering,I Know - Vanilla Ninja (2005),2.6,3.2,3
+deepseek,openai,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),2.0,3.4,5
+deepseek,openai,prompt_engineering,Ship Of Fools - World Party (1987),2.4,3.6,2
+deepseek,deepseek,prompt_engineering,See Emily Play - Pink Floyd (1967),2.2,2.6,2
+deepseek,openai,prompt_engineering,Scratch My Back - Slade (1976),1.8,3.4,3
+deepseek,deepseek,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),2.2,2.4,3
+deepseek,llama,prompt_engineering,Battles - In Flames (2016),2.6,2.8,5
+deepseek,llama,prompt_engineering,Dance Only With Me - Perry Como (1958),2.6,3.0,1
+deepseek,deepseek,prompt_engineering,Into The Blue - Rooney (2010),2.0,2.0,1
+deepseek,llama,prompt_engineering,Best Night - Justice Crew (2012),3.0,3.2,2
+deepseek,llama,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),2.8,3.0,2
+deepseek,deepseek,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),2.8,2.2,3
+deepseek,openai,prompt_engineering,Heart of Stone - The Platters (1956),2.8,3.6,"[1, 2, 3]"
+deepseek,openai,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),2.2,3.8,4
+deepseek,llama,prompt_engineering,Home - Birdy (2013),3.0,3.0,5
+deepseek,deepseek,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),2.8,2.8,5
+deepseek,deepseek,prompt_engineering,Streets of Fear - Hawkwind (1981),2.4,2.6,4
+deepseek,openai,prompt_engineering,Dance Dance Dance - Arabesque (1983),2.4,3.6,3
+deepseek,llama,prompt_engineering,Number One - Laid Back (2019),2.6,2.8,5
+deepseek,openai,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),2.6,3.8,1
+deepseek,llama,prompt_engineering,Du fehlst - Die Toten Hosen (2012),3.6,3.2,1
+deepseek,openai,prompt_engineering,4:am Forever - Lostprophets (2006),1.8,3.4,3
+deepseek,llama,prompt_engineering,"Get In, Fit In - Ciara (2007)",2.8,3.4,5
+deepseek,deepseek,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),2.4,3.2,4
+deepseek,llama,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),2.8,2.8,5
+deepseek,deepseek,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),1.8,2.6,5
+deepseek,deepseek,prompt_engineering,I Know - Vanilla Ninja (2005),2.0,2.6,4
+deepseek,llama,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.0,3.2,2
+deepseek,openai,prompt_engineering,Into The Blue - Rooney (2010),1.6,3.6,4
+deepseek,openai,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),2.0,3.6,3
+deepseek,openai,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),2.0,3.4,3
+deepseek,openai,prompt_engineering,You Are The Reason - Air Supply (2001),2.4,3.6,4
+deepseek,openai,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),2.4,3.6,1
+deepseek,openai,prompt_engineering,Time Immemorial - Crowded House (1990),2.4,3.6,2
+deepseek,openai,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),2.4,4.0,3
+deepseek,openai,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),2.2,3.6,3
+deepseek,deepseek,prompt_engineering,Coffee - Kelly Rowland (2020),2.4,2.2,4
+deepseek,deepseek,prompt_engineering,I Can't Stand The Rain - Seal (2008),2.0,2.2,2
+deepseek,openai,prompt_engineering,You Belong To Me - Rick Astley (2005),2.0,3.4,5
+deepseek,llama,prompt_engineering,Before You Leave - Kurt Nilsen (2004),3.8,3.4,3
+deepseek,openai,prompt_engineering,Worth It All - Jay Sean (2013),2.4,3.6,4
+deepseek,deepseek,prompt_engineering,Clues - Godley & Creme (1979),2.6,2.6,3
+deepseek,deepseek,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),2.2,2.2,4
+deepseek,openai,prompt_engineering,Home - Birdy (2013),2.4,3.8,3
+deepseek,openai,prompt_engineering,Battles - In Flames (2016),3.0,4.0,1
+deepseek,deepseek,prompt_engineering,Drunk On Love - Basia (1994),1.6,2.2,3
+deepseek,llama,prompt_engineering,I Cried for You - Ray Charles (1964),2.8,3.0,5
+deepseek,openai,prompt_engineering,Thank Me Now - Drake (2010),2.4,3.6,4
+deepseek,openai,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",3.2,3.6,"[2, 3, 4]"
+deepseek,deepseek,prompt_engineering,Circus Of Death - Project Pitchfork (1993),1.8,2.4,3
+deepseek,llama,prompt_engineering,Smoke Dreams - k.d. lang (1997),3.2,3.2,3
+deepseek,llama,prompt_engineering,Sie - Manfred Mann (1964),2.8,3.4,5
+deepseek,openai,prompt_engineering,Welcome to the Big Room - Neil Young (2015),2.0,3.4,"[1, 2]"
+deepseek,llama,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),2.8,3.6,5
+deepseek,openai,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),3.0,3.4,5
+deepseek,openai,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",2.2,3.6,1
+deepseek,openai,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),2.6,3.6,5
+deepseek,llama,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",2.0,3.4,4
+deepseek,llama,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),2.0,3.2,2
+deepseek,deepseek,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),2.4,3.0,3
+deepseek,llama,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),2.8,3.2,5
+deepseek,deepseek,prompt_engineering,Without Love - Dina Carroll (1999),2.0,2.4,4
+deepseek,openai,prompt_engineering,Clues - Godley & Creme (1979),2.4,3.4,2
+deepseek,deepseek,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),3.0,2.6,4
+deepseek,llama,prompt_engineering,Planetarium - Covenant (1997),3.6,3.2,2
+deepseek,openai,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),2.4,3.4,3
+deepseek,deepseek,prompt_engineering,Pay The Man - The Offspring (1998),2.2,2.4,2
+deepseek,openai,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),2.0,3.6,2
+deepseek,openai,prompt_engineering,I Can't Stand The Rain - Seal (2008),2.2,3.6,2
+deepseek,llama,prompt_engineering,Breakout - Beverley Knight (2009),2.8,3.6,5
+deepseek,deepseek,prompt_engineering,Blessed Assurance - Burl Ives (1950),2.6,3.2,4
+deepseek,deepseek,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),2.2,3.0,2
+deepseek,llama,prompt_engineering,Hold Me - Brenda Lee (1961),2.6,3.4,4
+deepseek,deepseek,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),2.4,2.0,5
+deepseek,deepseek,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),1.8,2.2,5
+deepseek,llama,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),2.8,3.4,5
+deepseek,openai,prompt_engineering,Du fehlst - Die Toten Hosen (2012),3.0,4.0,3
+deepseek,deepseek,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),2.2,2.4,2
+deepseek,llama,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),2.4,3.2,3
+deepseek,deepseek,prompt_engineering,A Reason - Circ (2004),1.6,2.4,3
+deepseek,deepseek,prompt_engineering,Ride It - Jay Sean (2007),2.2,2.8,4
+deepseek,openai,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),2.2,3.6,1
+deepseek,openai,prompt_engineering,A Reason - Circ (2004),3.2,4.0,2
+deepseek,deepseek,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.8,2.0,3
+deepseek,deepseek,prompt_engineering,Sie - Manfred Mann (1964),1.6,2.0,4
+deepseek,openai,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),3.2,3.8,4
+deepseek,openai,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),2.6,3.8,4
+deepseek,llama,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),3.8,3.8,3
+deepseek,deepseek,prompt_engineering,Sea Song - Tears For Fears (1985),2.0,2.8,3
+deepseek,deepseek,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),2.6,2.0,4
+deepseek,openai,prompt_engineering,Best Night - Justice Crew (2012),2.8,3.6,4
+deepseek,deepseek,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),2.6,2.8,5
+deepseek,deepseek,prompt_engineering,Dance Only With Me - Perry Como (1958),2.0,2.4,4
+deepseek,deepseek,prompt_engineering,Dance Dance Dance - Arabesque (1983),3.2,2.2,3
+deepseek,openai,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),2.2,3.6,3
+deepseek,openai,prompt_engineering,See Emily Play - Pink Floyd (1967),2.8,3.6,4
+deepseek,llama,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),2.6,3.4,3
+deepseek,deepseek,prompt_engineering,You Are The Reason - Air Supply (2001),2.0,2.6,4
+deepseek,llama,prompt_engineering,"Reise, Reise - Rammstein (2004)",2.6,3.2,3
+deepseek,deepseek,prompt_engineering,Argue - Matchbox 20 (1996),2.0,2.8,2
+deepseek,llama,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.0,3.4,4
+deepseek,deepseek,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),1.6,2.6,4
+deepseek,llama,prompt_engineering,Thank Me Now - Drake (2010),2.4,3.4,3
+deepseek,openai,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),2.4,3.8,3
+deepseek,openai,prompt_engineering,Smoke Dreams - k.d. lang (1997),2.4,3.8,3
+deepseek,openai,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),2.2,3.8,4
+deepseek,llama,prompt_engineering,You Belong To Me - Rick Astley (2005),2.4,3.2,5
+deepseek,llama,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),4.2,3.8,"[4, 5]"
+deepseek,openai,prompt_engineering,Ale Ale - Capital Bra (2023),2.8,3.8,5
+deepseek,openai,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.0,3.8,4
+deepseek,openai,prompt_engineering,Wahre Liebe - Westernhagen (2014),2.4,3.4,1
+deepseek,deepseek,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),2.0,2.4,3
+deepseek,openai,prompt_engineering,Planetarium - Covenant (1997),2.4,4.0,5
+deepseek,llama,prompt_engineering,Heart of Stone - The Platters (1956),2.8,3.4,5
+deepseek,deepseek,prompt_engineering,Battles - In Flames (2016),2.2,2.4,3
+deepseek,deepseek,prompt_engineering,You Belong To Me - Rick Astley (2005),1.2,2.0,1
+deepseek,llama,prompt_engineering,Ale Ale - Capital Bra (2023),2.6,3.6,2
+deepseek,deepseek,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",2.6,2.8,4
+deepseek,openai,prompt_engineering,I Know - Vanilla Ninja (2005),2.4,3.6,5
+deepseek,llama,prompt_engineering,Coffee - Kelly Rowland (2020),2.8,3.4,4
+deepseek,llama,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),3.2,3.0,3
+deepseek,llama,prompt_engineering,Sea Song - Tears For Fears (1985),3.2,3.2,3
+deepseek,deepseek,prompt_engineering,All I Need - Heather Nova (2003),2.8,2.4,5
+deepseek,openai,prompt_engineering,Breakout - Beverley Knight (2009),2.4,3.8,2
+deepseek,llama,prompt_engineering,Ride It - Jay Sean (2007),3.6,3.5,5
+deepseek,llama,prompt_engineering,Heavens Rain - Uriah Heep (2008),3.0,3.4,3
+deepseek,llama,prompt_engineering,Breaking My Heart - Richard Marx (2022),2.8,3.0,4
+deepseek,openai,prompt_engineering,Blessed Assurance - Burl Ives (1950),2.2,3.6,2
+deepseek,llama,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),2.4,3.4,5
+deepseek,llama,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),3.0,3.8,2
+deepseek,llama,prompt_engineering,Es geht mir gut - Westernhagen (1994),2.4,3.4,5
+deepseek,llama,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),2.8,3.2,5
+deepseek,deepseek,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),1.6,2.0,1
+deepseek,openai,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),2.0,3.8,1
+deepseek,deepseek,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",1.8,2.2,3
+deepseek,deepseek,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),2.2,2.4,4
+deepseek,deepseek,prompt_engineering,Wahre Liebe - Westernhagen (2014),2.0,3.8,2
+deepseek,llama,prompt_engineering,Into The Blue - Rooney (2010),2.6,3.6,4
+deepseek,openai,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),2.4,4.0,2
+deepseek,openai,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),2.2,3.8,3
+deepseek,llama,prompt_engineering,Circus Of Death - Project Pitchfork (1993),2.6,3.4,4
+deepseek,deepseek,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),2.4,2.8,3
+deepseek,llama,prompt_engineering,It’s Alright - The Osmonds (1973),2.0,2.8,5
+deepseek,llama,prompt_engineering,Dick and Jane - Bobby Vinton (1974),3.2,3.4,1
+deepseek,openai,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),2.6,3.8,1
+deepseek,llama,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),2.8,3.4,2
+deepseek,llama,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",2.4,2.8,1
+deepseek,deepseek,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),1.4,2.4,1
+deepseek,llama,prompt_engineering,Streets of Fear - Hawkwind (1981),3.2,3.0,5
+deepseek,llama,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),3.0,3.6,3
+deepseek,deepseek,prompt_engineering,Ship Of Fools - World Party (1987),3.2,2.0,5
+deepseek,openai,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",3.2,3.6,1
+deepseek,openai,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),2.4,4.0,4
+deepseek,llama,prompt_engineering,4:am Forever - Lostprophets (2006),3.2,3.8,"[1, 4]"
+deepseek,openai,prompt_engineering,Here I Go Again - Blue System (1995),2.6,4.2,5
+deepseek,openai,prompt_engineering,Sie - Manfred Mann (1964),2.4,3.4,1
+deepseek,deepseek,prompt_engineering,Ale Ale - Capital Bra (2023),2.2,2.0,5
+deepseek,deepseek,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",1.8,2.2,3
+deepseek,deepseek,prompt_engineering,Number One - Laid Back (2019),2.4,2.6,4
+deepseek,llama,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),3.2,3.4,3
+deepseek,deepseek,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),2.2,2.4,4
+deepseek,openai,prompt_engineering,Streets of Fear - Hawkwind (1981),3.2,3.6,1
+deepseek,llama,prompt_engineering,A Reason - Circ (2004),3.2,2.8,5
+deepseek,deepseek,prompt_engineering,"Get In, Fit In - Ciara (2007)",1.8,1.8,3
+deepseek,openai,prompt_engineering,Coffee - Kelly Rowland (2020),2.2,4.0,4
+deepseek,openai,prompt_engineering,Sea Song - Tears For Fears (1985),2.8,3.8,1
+deepseek,deepseek,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),2.8,1.8,5
+deepseek,llama,prompt_engineering,They Only Come Out At Night - Lordi (2006),2.8,3.2,3
+deepseek,llama,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),3.4,3.6,"[1, 5]"
+deepseek,deepseek,prompt_engineering,Breakout - Beverley Knight (2009),2.6,2.4,2
+deepseek,openai,prompt_engineering,Breaking My Heart - Richard Marx (2022),2.4,3.6,2
+deepseek,openai,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),2.0,4.0,1
+deepseek,openai,prompt_engineering,Before You Leave - Kurt Nilsen (2004),2.2,3.8,3
+deepseek,llama,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),2.8,3.4,3
+deepseek,llama,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),3.4,3.8,5
+deepseek,deepseek,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),2.2,1.4,2
+deepseek,deepseek,prompt_engineering,Breaking My Heart - Richard Marx (2022),2.0,2.2,4
+deepseek,deepseek,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",2.0,2.6,4
+deepseek,deepseek,prompt_engineering,Dick and Jane - Bobby Vinton (1974),2.2,2.8,3
+deepseek,deepseek,prompt_engineering,Worth It All - Jay Sean (2013),2.8,2.6,3
+deepseek,deepseek,prompt_engineering,Du fehlst - Die Toten Hosen (2012),1.8,2.6,4
+deepseek,openai,prompt_engineering,Dance Only With Me - Perry Como (1958),1.8,3.2,5
+deepseek,openai,prompt_engineering,Hold Me - Brenda Lee (1961),2.0,4.0,1
+deepseek,llama,prompt_engineering,Drunk On Love - Basia (1994),2.8,3.0,3
+openai,deepseek,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),4.2,2.6,4
+openai,llama,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),2.8,3.0,3
+openai,llama,prompt_engineering,Worth It All - Jay Sean (2013),5.0,3.0,1
+openai,openai,prompt_engineering,Heavens Rain - Uriah Heep (2008),3.4,4.0,2
+openai,llama,prompt_engineering,Thank Me Now - Drake (2010),5.0,2.0,"Alle Interpretationen erreichen das gleiche Gesamtergebnis (Halluzination 5, Tiefe 2). Es gibt keinen klaren Sieger; sie sind in ihrer Qualität gleichwertig."
+openai,llama,prompt_engineering,A Reason - Circ (2004),4.0,3.0,1
+openai,openai,prompt_engineering,Hold Me - Brenda Lee (1961),3.0,3.6,1
+openai,openai,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),4.4,3.6,3
+openai,openai,prompt_engineering,They Only Come Out At Night - Lordi (2006),4.0,4.0,1
+openai,deepseek,prompt_engineering,I Know - Vanilla Ninja (2005),2.0,2.0,1
+openai,llama,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),5.0,4.0,1
+openai,llama,prompt_engineering,Ride It - Jay Sean (2007),5.0,3.8,2
+openai,openai,prompt_engineering,Dance Only With Me - Perry Como (1958),3.2,4.2,3
+openai,deepseek,prompt_engineering,Home - Birdy (2013),3.0,2.0,3
+openai,deepseek,prompt_engineering,Ride It - Jay Sean (2007),3.2,4.0,3
+openai,llama,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",2.0,3.2,2
+openai,deepseek,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),4.2,3.6,2
+openai,llama,prompt_engineering,Planetarium - Covenant (1997),1.0,2.0,"Alle Interpretationen erzielen identische Scores (Halluzination 1, Tiefe 2). Es gibt keinen klaren Sieger."
+openai,llama,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),3.0,3.0,3
+openai,llama,prompt_engineering,I Can't Stand The Rain - Seal (2008),5.0,3.6,1
+openai,openai,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",3.6,3.8,3
+openai,openai,prompt_engineering,Du fehlst - Die Toten Hosen (2012),3.2,3.8,3
+openai,deepseek,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),2.6,3.0,1
+openai,openai,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),3.8,4.2,5
+openai,openai,prompt_engineering,Ship Of Fools - World Party (1987),3.2,3.8,3
+openai,deepseek,prompt_engineering,Battles - In Flames (2016),4.0,3.4,2
+openai,llama,prompt_engineering,Pay The Man - The Offspring (1998),3.8,3.6,2
+openai,openai,prompt_engineering,Wahre Liebe - Westernhagen (2014),3.8,4.2,3
+openai,deepseek,prompt_engineering,Wahre Liebe - Westernhagen (2014),4.8,2.8,1
+openai,openai,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),3.2,3.8,4
+openai,openai,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),4.0,4.0,1
+openai,openai,prompt_engineering,Thank Me Now - Drake (2010),3.4,4.0,1
+openai,deepseek,prompt_engineering,Welcome to the Big Room - Neil Young (2015),1.0,2.2,4
+openai,openai,prompt_engineering,Battles - In Flames (2016),3.0,4.0,5
+openai,deepseek,prompt_engineering,Du fehlst - Die Toten Hosen (2012),4.0,4.0,3
+openai,openai,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.8,3.0,1
+openai,llama,prompt_engineering,Es geht mir gut - Westernhagen (1994),3.2,2.8,2
+openai,openai,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),4.0,4.0,3
+openai,deepseek,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),4.0,3.0,2
+openai,deepseek,prompt_engineering,See Emily Play - Pink Floyd (1967),1.6,2.6,1
+openai,deepseek,prompt_engineering,I Cried for You - Ray Charles (1964),3.0,3.0,2
+openai,openai,prompt_engineering,Pay The Man - The Offspring (1998),4.2,2.4,4
+openai,deepseek,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),1.0,2.0,4
+openai,llama,prompt_engineering,Without Love - Dina Carroll (1999),3.2,3.2,2
+openai,deepseek,prompt_engineering,Worth It All - Jay Sean (2013),4.4,3.4,3
+openai,llama,prompt_engineering,Heart of Stone - The Platters (1956),2.0,3.2,4
+openai,deepseek,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),4.2,2.0,1
+openai,openai,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),3.8,4.6,4
+openai,deepseek,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),5.0,3.6,3
+openai,llama,prompt_engineering,Sie - Manfred Mann (1964),4.0,2.0,4
+openai,deepseek,prompt_engineering,Sea Song - Tears For Fears (1985),3.0,4.0,3
+openai,llama,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),3.0,3.8,1
+openai,deepseek,prompt_engineering,Pay The Man - The Offspring (1998),2.0,2.0,3
+openai,llama,prompt_engineering,Scratch My Back - Slade (1976),5.0,3.8,1
+openai,openai,prompt_engineering,Coffee - Kelly Rowland (2020),3.0,4.0,3
+openai,llama,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),3.8,3.8,3
+openai,llama,prompt_engineering,Smoke Dreams - k.d. lang (1997),5.0,3.8,1
+openai,openai,prompt_engineering,Smoke Dreams - k.d. lang (1997),2.8,4.0,1
+openai,llama,prompt_engineering,Dick and Jane - Bobby Vinton (1974),3.0,2.0,2
+openai,llama,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),5.0,4.0,2
+openai,openai,prompt_engineering,I Know - Vanilla Ninja (2005),5.0,2.4,1
+openai,openai,prompt_engineering,Blessed Assurance - Burl Ives (1950),3.0,3.8,3
+openai,openai,prompt_engineering,Light My Fire - Bananafishbones (2002),3.4,3.8,1
+openai,llama,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),2.4,2.6,4
+openai,llama,prompt_engineering,Dance Only With Me - Perry Como (1958),3.8,3.8,3
+openai,openai,prompt_engineering,Here I Go Again - Blue System (1995),3.2,3.8,"[1, 5]"
+openai,deepseek,prompt_engineering,Breaking My Heart - Richard Marx (2022),4.2,4.0,5
+openai,llama,prompt_engineering,Breaking My Heart - Richard Marx (2022),5.0,4.0,1
+openai,llama,prompt_engineering,Here I Go Again - Blue System (1995),3.6,3.6,5
+openai,llama,prompt_engineering,Time Immemorial - Crowded House (1990),4.8,2.8,1
+openai,openai,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),4.4,4.2,3
+openai,deepseek,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),4.2,4.0,3
+openai,llama,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),2.0,2.0,3
+openai,deepseek,prompt_engineering,Here I Go Again - Blue System (1995),3.6,3.2,3
+openai,deepseek,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),4.6,2.2,2
+openai,deepseek,prompt_engineering,It’s Alright - The Osmonds (1973),4.0,2.0,3
+openai,llama,prompt_engineering,Du fehlst - Die Toten Hosen (2012),5.0,3.8,3
+openai,llama,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.8,3.4,1
+openai,deepseek,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),4.0,3.8,3
+openai,deepseek,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),5.0,4.0,Alle Interpretationen erreichen identische Höchstwerte bei Halluzination (5) und hohe Tiefe (4). Damit gibt es keinen eindeutigen Spitzenreiter – sie sind gleichwertig.
+openai,llama,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),5.0,4.0,1
+openai,openai,prompt_engineering,Dance Dance Dance - Arabesque (1983),2.6,3.8,5
+openai,openai,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.4,2.6,3
+openai,deepseek,prompt_engineering,"Get In, Fit In - Ciara (2007)",5.0,2.6,5
+openai,llama,prompt_engineering,Before You Leave - Kurt Nilsen (2004),5.0,3.8,1
+openai,deepseek,prompt_engineering,Es geht mir gut - Westernhagen (1994),4.4,3.2,2
+openai,llama,prompt_engineering,Argue - Matchbox 20 (1996),3.0,3.0,4
+openai,openai,prompt_engineering,Welcome to the Big Room - Neil Young (2015),1.0,2.0,3
+openai,deepseek,prompt_engineering,Ship Of Fools - World Party (1987),4.6,4.0,2
+openai,deepseek,prompt_engineering,Light My Fire - Bananafishbones (2002),3.6,2.8,3
+openai,openai,prompt_engineering,You Are The Reason - Air Supply (2001),3.6,2.8,1
+openai,deepseek,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),2.8,2.8,1
+openai,openai,prompt_engineering,Time Immemorial - Crowded House (1990),3.8,3.2,3
+openai,deepseek,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),2.0,3.0,1
+openai,deepseek,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),1.6,2.0,1
+openai,openai,prompt_engineering,Dick and Jane - Bobby Vinton (1974),5.0,4.8,1
+openai,deepseek,prompt_engineering,Drunk On Love - Basia (1994),4.8,4.0,2
+openai,llama,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),2.2,3.2,1
+openai,deepseek,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),1.0,3.2,4
+openai,deepseek,prompt_engineering,Planetarium - Covenant (1997),3.8,3.4,3
+openai,openai,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),3.4,4.0,2
+openai,openai,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),3.0,4.2,3
+openai,deepseek,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",5.0,2.0,2
+openai,llama,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),4.0,2.8,4
+openai,openai,prompt_engineering,Ride It - Jay Sean (2007),4.8,3.2,3
+openai,deepseek,prompt_engineering,Scratch My Back - Slade (1976),3.2,2.8,1
+openai,openai,prompt_engineering,I Cried for You - Ray Charles (1964),2.4,3.0,1
+openai,deepseek,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),4.6,3.0,1
+openai,llama,prompt_engineering,4:am Forever - Lostprophets (2006),4.0,4.2,3
+openai,deepseek,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),3.0,2.2,1
+openai,llama,prompt_engineering,Number One - Laid Back (2019),1.0,2.0,3
+openai,deepseek,prompt_engineering,Number One - Laid Back (2019),3.0,3.2,5
+openai,llama,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),4.0,4.0,5
+openai,deepseek,prompt_engineering,Circus Of Death - Project Pitchfork (1993),1.0,2.0,
+openai,llama,prompt_engineering,Ale Ale - Capital Bra (2023),4.4,4.2,4
+openai,openai,prompt_engineering,Breakout - Beverley Knight (2009),5.0,4.0,3
+openai,llama,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.4,3.4,3
+openai,llama,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",3.8,3.8,5
+openai,openai,prompt_engineering,Scratch My Back - Slade (1976),3.2,4.0,4
+openai,openai,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),4.0,4.0,1
+openai,deepseek,prompt_engineering,Blessed Assurance - Burl Ives (1950),3.8,3.0,1
+openai,deepseek,prompt_engineering,Thank Me Now - Drake (2010),4.0,3.6,3
+openai,deepseek,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),3.6,2.6,5
+openai,deepseek,prompt_engineering,Dick and Jane - Bobby Vinton (1974),3.2,3.4,2
+openai,openai,prompt_engineering,Circus Of Death - Project Pitchfork (1993),3.4,3.8,1
+openai,deepseek,prompt_engineering,Argue - Matchbox 20 (1996),3.2,3.2,1
+openai,llama,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),5.0,3.8,5
+openai,openai,prompt_engineering,Uns geht's gut - And One (1997),3.6,3.8,5
+openai,openai,prompt_engineering,"Get In, Fit In - Ciara (2007)",3.0,4.0,5
+openai,openai,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),2.0,3.6,3
+openai,openai,prompt_engineering,You Belong To Me - Rick Astley (2005),1.0,3.2,3
+openai,deepseek,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),4.8,4.0,5
+openai,llama,prompt_engineering,Battles - In Flames (2016),5.0,3.6,1
+openai,openai,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),4.0,3.4,3
+openai,openai,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),3.2,4.2,3
+openai,llama,prompt_engineering,Streets of Fear - Hawkwind (1981),5.0,4.0,3
+openai,deepseek,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),1.6,2.6,2
+openai,openai,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),1.2,2.8,4
+openai,deepseek,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),5.0,4.4,2
+openai,llama,prompt_engineering,Drunk On Love - Basia (1994),3.8,3.6,3
+openai,openai,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),3.8,3.8,1
+openai,openai,prompt_engineering,A Reason - Circ (2004),3.0,4.0,4
+openai,llama,prompt_engineering,"Reise, Reise - Rammstein (2004)",3.0,3.2,5
+openai,deepseek,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),3.0,3.0,4
+openai,deepseek,prompt_engineering,Breakout - Beverley Knight (2009),3.0,3.2,4
+openai,llama,prompt_engineering,Light My Fire - Bananafishbones (2002),4.0,3.8,5
+openai,openai,prompt_engineering,4:am Forever - Lostprophets (2006),2.8,3.0,5
+openai,deepseek,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),2.0,3.8,2
+openai,openai,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),3.2,4.0,3
+openai,deepseek,prompt_engineering,You Are The Reason - Air Supply (2001),4.0,3.0,3
+openai,llama,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",4.8,2.4,3
+openai,deepseek,prompt_engineering,You Belong To Me - Rick Astley (2005),4.0,3.6,3
+openai,llama,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),1.0,2.0,3
+openai,llama,prompt_engineering,"Get In, Fit In - Ciara (2007)",3.0,3.0,1
+openai,llama,prompt_engineering,Wahre Liebe - Westernhagen (2014),5.0,3.4,1
+openai,llama,prompt_engineering,Blessed Assurance - Burl Ives (1950),4.0,3.0,3
+openai,deepseek,prompt_engineering,Sie - Manfred Mann (1964),2.0,3.4,3
+openai,llama,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),4.2,3.2,1
+openai,openai,prompt_engineering,Heart of Stone - The Platters (1956),3.2,3.8,1
+openai,llama,prompt_engineering,You Know I Miss You - Fats Domino (1952),2.8,2.0,3
+openai,deepseek,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),4.2,3.8,2
+openai,llama,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),5.0,3.4,1
+openai,openai,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),4.0,3.8,5
+openai,openai,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),3.4,3.8,1
+openai,openai,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),5.0,5.0,3
+openai,openai,prompt_engineering,Clues - Godley & Creme (1979),1.0,3.6,1
+openai,llama,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),1.2,2.2,1
+openai,deepseek,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),3.0,2.0,"Alle Interpretationen erreichen identische Scores (Halluzination 3, Tiefe 2); es gibt keinen klaren Sieger."
+openai,deepseek,prompt_engineering,4:am Forever - Lostprophets (2006),3.0,2.6,5
+openai,openai,prompt_engineering,Drunk On Love - Basia (1994),3.8,4.0,2
+openai,deepseek,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),4.8,3.8,1
+openai,llama,prompt_engineering,Hold Me - Brenda Lee (1961),5.0,4.8,3
+openai,deepseek,prompt_engineering,Ale Ale - Capital Bra (2023),4.2,3.2,1
+openai,openai,prompt_engineering,I Can't Stand The Rain - Seal (2008),3.4,3.8,3
+openai,llama,prompt_engineering,Coffee - Kelly Rowland (2020),4.6,3.4,1
+openai,openai,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),4.0,4.0,3
+openai,deepseek,prompt_engineering,Best Night - Justice Crew (2012),3.6,2.4,2
+openai,openai,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),2.6,2.4,4
+openai,deepseek,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),4.0,2.0,
+openai,openai,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",3.0,4.0,1
+openai,openai,prompt_engineering,Streets of Fear - Hawkwind (1981),3.8,4.0,2
+openai,deepseek,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),1.0,2.0,2
+openai,llama,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),2.0,2.0,3
+openai,deepseek,prompt_engineering,Uns geht's gut - And One (1997),4.0,3.0,2
+openai,deepseek,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),5.0,2.0,1
+openai,llama,prompt_engineering,Dance Dance Dance - Arabesque (1983),1.0,2.2,3
+openai,llama,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),2.0,3.0,1
+openai,openai,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),4.0,4.0,5
+openai,openai,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),5.0,3.6,3
+openai,deepseek,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),4.4,3.0,1
+openai,openai,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),2.8,3.8,2
+openai,deepseek,prompt_engineering,Without Love - Dina Carroll (1999),3.6,3.2,3
+openai,llama,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),4.8,2.4,5
+openai,openai,prompt_engineering,It’s Alright - The Osmonds (1973),2.4,3.6,2
+openai,llama,prompt_engineering,Breakout - Beverley Knight (2009),4.8,4.0,4
+openai,deepseek,prompt_engineering,Heavens Rain - Uriah Heep (2008),4.0,3.8,3
+openai,deepseek,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",4.4,2.8,1
+openai,deepseek,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),4.0,4.0,3
+openai,deepseek,prompt_engineering,Dance Only With Me - Perry Como (1958),4.8,4.0,5
+openai,openai,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.8,3.8,5
+openai,openai,prompt_engineering,Sie - Manfred Mann (1964),3.4,3.4,1
+openai,llama,prompt_engineering,See Emily Play - Pink Floyd (1967),1.0,2.0,3
+openai,deepseek,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),4.2,4.0,3
+openai,openai,prompt_engineering,Home - Birdy (2013),3.8,2.6,4
+openai,deepseek,prompt_engineering,You Know I Miss You - Fats Domino (1952),3.0,3.0,5
+openai,openai,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),3.6,4.2,5
+openai,llama,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),4.0,4.2,3
+openai,openai,prompt_engineering,"Reise, Reise - Rammstein (2004)",2.6,3.4,1
+openai,openai,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),4.0,3.6,1
+openai,deepseek,prompt_engineering,I Can't Stand The Rain - Seal (2008),5.0,2.0,1
+openai,llama,prompt_engineering,It’s Alright - The Osmonds (1973),3.0,4.0,2
+openai,openai,prompt_engineering,Argue - Matchbox 20 (1996),4.8,3.6,1
+openai,openai,prompt_engineering,See Emily Play - Pink Floyd (1967),2.0,2.8,4
+openai,llama,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),4.0,2.0,3
+openai,llama,prompt_engineering,Welcome to the Big Room - Neil Young (2015),4.4,3.8,3
+openai,openai,prompt_engineering,Best Night - Justice Crew (2012),4.6,4.2,5
+openai,openai,prompt_engineering,Number One - Laid Back (2019),2.8,4.0,5
+openai,llama,prompt_engineering,Ship Of Fools - World Party (1987),5.0,4.0,1
+openai,openai,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),5.0,4.2,3
+openai,llama,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),3.8,3.6,3
+openai,deepseek,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),4.8,3.0,2
+openai,deepseek,prompt_engineering,"Reise, Reise - Rammstein (2004)",4.8,2.4,1
+openai,deepseek,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.0,2.0,3
+openai,deepseek,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),2.0,2.0,4
+openai,openai,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),4.4,4.2,1
+openai,deepseek,prompt_engineering,A Reason - Circ (2004),5.0,3.6,3
+openai,openai,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",3.2,4.0,5
+openai,llama,prompt_engineering,I Know - Vanilla Ninja (2005),5.0,3.2,2
+openai,llama,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),5.0,3.0,1
+openai,deepseek,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),3.4,3.2,1
+openai,deepseek,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),5.0,4.2,4
+openai,openai,prompt_engineering,All I Need - Heather Nova (2003),2.8,2.0,4
+openai,llama,prompt_engineering,Circus Of Death - Project Pitchfork (1993),4.0,2.0,3
+openai,deepseek,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),1.2,2.2,1
+openai,deepseek,prompt_engineering,Smoke Dreams - k.d. lang (1997),4.2,4.0,1
+openai,llama,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),2.0,3.0,3
+openai,llama,prompt_engineering,Uns geht's gut - And One (1997),1.0,2.0,1
+openai,llama,prompt_engineering,Heavens Rain - Uriah Heep (2008),3.0,3.0,1
+openai,llama,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),3.2,3.2,3
+openai,llama,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),2.0,3.0,3
+openai,openai,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),2.6,4.8,3
+openai,llama,prompt_engineering,Sea Song - Tears For Fears (1985),2.4,2.0,1
+openai,deepseek,prompt_engineering,Into The Blue - Rooney (2010),4.0,4.0,4
+openai,deepseek,prompt_engineering,They Only Come Out At Night - Lordi (2006),4.6,2.8,1
+openai,openai,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),2.0,3.4,1
+openai,llama,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),4.0,3.8,1
+openai,openai,prompt_engineering,Worth It All - Jay Sean (2013),4.2,3.8,1
+openai,llama,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),3.6,3.4,1
+openai,openai,prompt_engineering,Ale Ale - Capital Bra (2023),5.0,3.8,1
+openai,openai,prompt_engineering,Es geht mir gut - Westernhagen (1994),3.8,3.8,2
+openai,llama,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),4.0,3.0,1
+openai,deepseek,prompt_engineering,Time Immemorial - Crowded House (1990),1.2,3.2,3
+openai,llama,prompt_engineering,Assistant's Cry - Yello (1980),1.0,2.0,
+openai,llama,prompt_engineering,They Only Come Out At Night - Lordi (2006),4.0,4.0,3
+openai,openai,prompt_engineering,Planetarium - Covenant (1997),3.6,4.0,5
+openai,llama,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),5.0,4.0,1
+openai,llama,prompt_engineering,I Cried for You - Ray Charles (1964),1.0,2.0,2
+openai,deepseek,prompt_engineering,All I Need - Heather Nova (2003),3.2,3.4,1
+openai,deepseek,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),4.0,4.0,1
+openai,llama,prompt_engineering,You Are The Reason - Air Supply (2001),5.0,3.6,4
+openai,llama,prompt_engineering,You Belong To Me - Rick Astley (2005),4.0,3.2,5
+openai,openai,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),3.0,3.0,3
+openai,openai,prompt_engineering,Breaking My Heart - Richard Marx (2022),3.6,3.8,5
+openai,openai,prompt_engineering,Before You Leave - Kurt Nilsen (2004),3.6,3.8,"[2, 3, 4]"
+openai,deepseek,prompt_engineering,Streets of Fear - Hawkwind (1981),3.4,3.0,2
+openai,llama,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.6,4.4,2
+openai,deepseek,prompt_engineering,Before You Leave - Kurt Nilsen (2004),4.8,3.2,1
+openai,deepseek,prompt_engineering,Hold Me - Brenda Lee (1961),3.4,2.8,1
+openai,openai,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),5.0,5.0,3
+openai,llama,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),4.8,4.4,2
+openai,deepseek,prompt_engineering,Coffee - Kelly Rowland (2020),2.8,3.6,5
+openai,openai,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),5.0,4.2,3
+openai,deepseek,prompt_engineering,Clues - Godley & Creme (1979),3.6,2.4,5
+openai,deepseek,prompt_engineering,Heart of Stone - The Platters (1956),3.4,1.8,1
+openai,llama,prompt_engineering,Best Night - Justice Crew (2012),2.8,3.8,1
+openai,llama,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),3.8,3.6,2
+openai,llama,prompt_engineering,Home - Birdy (2013),5.0,2.6,3
+openai,llama,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),4.0,3.0,3
+openai,openai,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",2.6,3.8,5
+openai,openai,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),3.2,3.6,1
+openai,deepseek,prompt_engineering,Dance Dance Dance - Arabesque (1983),1.0,1.8,1
+openai,openai,prompt_engineering,You Know I Miss You - Fats Domino (1952),1.0,4.0,3
+openai,openai,prompt_engineering,Assistant's Cry - Yello (1980),3.6,2.0,3
+openai,llama,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",3.6,3.0,3
+deepseek,llama,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),3.6,3.4,1
+deepseek,openai,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),3.2,4.0,3
+deepseek,llama,prompt_engineering,Assistant's Cry - Yello (1980),1.6,3.4,4
+deepseek,deepseek,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",3.8,3.6,5
+deepseek,llama,prompt_engineering,Into The Blue - Rooney (2010),4.2,3.8,3
+deepseek,llama,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),2.6,4.0,5
+deepseek,openai,prompt_engineering,Pay The Man - The Offspring (1998),3.2,3.8,1
+deepseek,openai,prompt_engineering,Breaking My Heart - Richard Marx (2022),3.6,3.6,2
+deepseek,openai,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),3.2,3.6,1
+deepseek,llama,prompt_engineering,Blessed Assurance - Burl Ives (1950),4.0,3.2,1
+deepseek,openai,prompt_engineering,Time Immemorial - Crowded House (1990),3.6,4.2,1
+deepseek,deepseek,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),3.6,3.4,2
+deepseek,llama,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),3.6,3.8,3
+deepseek,deepseek,prompt_engineering,Home - Birdy (2013),5.0,3.8,1
+deepseek,openai,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),3.6,3.6,1
+deepseek,llama,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",4.2,3.8,3
+deepseek,deepseek,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,3.4,1
+deepseek,openai,prompt_engineering,You Belong To Me - Rick Astley (2005),2.4,3.6,1
+deepseek,openai,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),3.2,3.6,1
+deepseek,openai,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),3.6,3.6,2
+deepseek,llama,prompt_engineering,"Get In, Fit In - Ciara (2007)",4.4,3.8,1
+deepseek,openai,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),2.8,3.4,1
+deepseek,llama,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),3.8,3.6,4
+deepseek,openai,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),3.0,3.6,1
+deepseek,llama,prompt_engineering,"Reise, Reise - Rammstein (2004)",4.2,3.4,4
+deepseek,openai,prompt_engineering,Ship Of Fools - World Party (1987),3.6,4.0,1
+deepseek,llama,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),3.8,3.2,1
+deepseek,deepseek,prompt_engineering,Heart of Stone - The Platters (1956),3.2,3.4,1
+deepseek,llama,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),3.8,3.4,3
+deepseek,openai,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),3.6,4.0,3
+deepseek,llama,prompt_engineering,Breaking My Heart - Richard Marx (2022),4.2,3.2,4
+deepseek,deepseek,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),3.0,4.0,5
+deepseek,openai,prompt_engineering,Before You Leave - Kurt Nilsen (2004),3.8,3.8,1
+deepseek,openai,prompt_engineering,Blessed Assurance - Burl Ives (1950),2.8,3.8,3
+deepseek,llama,prompt_engineering,You Know I Miss You - Fats Domino (1952),5.0,4.0,3
+deepseek,deepseek,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),5.0,3.2,5
+deepseek,openai,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),3.2,3.8,3
+deepseek,llama,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),3.2,4.2,3
+deepseek,llama,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.8,3.6,3
+deepseek,deepseek,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),4.0,3.8,3
+deepseek,openai,prompt_engineering,Dance Only With Me - Perry Como (1958),3.6,3.8,4
+deepseek,openai,prompt_engineering,They Only Come Out At Night - Lordi (2006),2.6,3.8,4
+deepseek,openai,prompt_engineering,I Know - Vanilla Ninja (2005),2.6,3.6,1
+deepseek,deepseek,prompt_engineering,Argue - Matchbox 20 (1996),4.8,4.2,1
+deepseek,deepseek,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),4.2,3.4,"[3, 5]"
+deepseek,openai,prompt_engineering,I Can't Stand The Rain - Seal (2008),2.2,4.0,5
+deepseek,deepseek,prompt_engineering,Dance Dance Dance - Arabesque (1983),4.8,4.2,5
+deepseek,openai,prompt_engineering,You Know I Miss You - Fats Domino (1952),2.8,3.6,1
+deepseek,deepseek,prompt_engineering,All I Need - Heather Nova (2003),3.6,3.6,5
+deepseek,llama,prompt_engineering,Hold Me - Brenda Lee (1961),4.2,3.4,4
+deepseek,llama,prompt_engineering,It’s Alright - The Osmonds (1973),2.8,3.8,5
+deepseek,llama,prompt_engineering,Uns geht's gut - And One (1997),3.2,3.8,4
+deepseek,openai,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.6,4.0,3
+deepseek,openai,prompt_engineering,Breakout - Beverley Knight (2009),2.6,3.6,1
+deepseek,llama,prompt_engineering,Streets of Fear - Hawkwind (1981),5.0,3.0,1
+deepseek,llama,prompt_engineering,Wahre Liebe - Westernhagen (2014),3.2,4.0,5
+deepseek,deepseek,prompt_engineering,Planetarium - Covenant (1997),4.2,3.6,3
+deepseek,deepseek,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),3.6,3.8,5
+deepseek,llama,prompt_engineering,Sie - Manfred Mann (1964),1.6,3.4,4
+deepseek,openai,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),3.6,4.2,3
+deepseek,deepseek,prompt_engineering,A Reason - Circ (2004),4.2,3.6,3
+deepseek,llama,prompt_engineering,Heavens Rain - Uriah Heep (2008),4.4,3.4,1
+deepseek,deepseek,prompt_engineering,Streets of Fear - Hawkwind (1981),4.0,4.0,5
+deepseek,deepseek,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",3.2,4.0,5
+deepseek,openai,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",4.0,3.8,4
+deepseek,deepseek,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),1.4,3.4,4
+deepseek,llama,prompt_engineering,Heart of Stone - The Platters (1956),3.4,4.2,4
+deepseek,deepseek,prompt_engineering,I Can't Stand The Rain - Seal (2008),4.4,2.6,1
+deepseek,llama,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",2.6,3.4,5
+deepseek,deepseek,prompt_engineering,Sie - Manfred Mann (1964),3.8,3.2,3
+deepseek,openai,prompt_engineering,Streets of Fear - Hawkwind (1981),3.6,4.2,3
+deepseek,llama,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.6,3.4,4
+deepseek,openai,prompt_engineering,A Reason - Circ (2004),4.0,3.8,5
+deepseek,deepseek,prompt_engineering,Clues - Godley & Creme (1979),4.0,4.0,4
+deepseek,openai,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),4.0,3.6,4
+deepseek,openai,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),3.6,3.8,1
+deepseek,llama,prompt_engineering,Du fehlst - Die Toten Hosen (2012),3.8,3.4,2
+deepseek,openai,prompt_engineering,Sea Song - Tears For Fears (1985),3.6,3.6,2
+deepseek,deepseek,prompt_engineering,You Know I Miss You - Fats Domino (1952),1.4,3.4,3
+deepseek,deepseek,prompt_engineering,Eye Of The Storm - Pseudo Echo (1989),4.2,4.2,3
+deepseek,openai,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),3.8,3.6,3
+deepseek,deepseek,prompt_engineering,Number One - Laid Back (2019),4.0,4.0,5
+deepseek,openai,prompt_engineering,Battles - In Flames (2016),3.6,3.8,1
+deepseek,openai,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.2,4.0,2
+deepseek,llama,prompt_engineering,I Can't Stand The Rain - Seal (2008),4.4,3.8,5
+deepseek,llama,prompt_engineering,Dick and Jane - Bobby Vinton (1974),3.4,3.6,1
+deepseek,llama,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),3.4,2.8,5
+deepseek,llama,prompt_engineering,Somewhere My Love - Roger Whittaker (1982),3.2,3.8,1
+deepseek,deepseek,prompt_engineering,Es geht mir gut - Westernhagen (1994),2.6,3.6,2
+deepseek,openai,prompt_engineering,Ale Ale - Capital Bra (2023),3.6,4.0,1
+deepseek,deepseek,prompt_engineering,Into The Blue - Rooney (2010),4.6,4.4,"[4, 5]"
+deepseek,deepseek,prompt_engineering,Sea Song - Tears For Fears (1985),3.8,3.8,5
+deepseek,deepseek,prompt_engineering,Uns geht's gut - And One (1997),4.4,3.6,3
+deepseek,openai,prompt_engineering,Worth It All - Jay Sean (2013),4.0,3.8,4
+deepseek,deepseek,prompt_engineering,Best Night - Justice Crew (2012),4.2,3.2,4
+deepseek,deepseek,prompt_engineering,I Cried for You - Ray Charles (1964),3.8,3.6,4
+deepseek,llama,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),4.2,3.0,5
+deepseek,openai,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),3.2,3.6,1
+deepseek,deepseek,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),4.2,3.6,3
+deepseek,llama,prompt_engineering,Dance Only With Me - Perry Como (1958),3.4,3.8,3
+deepseek,deepseek,prompt_engineering,You Belong To Me - Rick Astley (2005),3.8,3.8,3
+deepseek,llama,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.2,3.6,1
+deepseek,llama,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),2.8,3.4,1
+deepseek,llama,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),2.6,3.2,1
+deepseek,openai,prompt_engineering,"Stay (Far Away, So Close) - Gregorian (2012)",2.6,4.2,3
+deepseek,openai,prompt_engineering,All That Meat and Potatoes - Louis Armstrong (1955),3.6,4.0,3
+deepseek,deepseek,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),4.2,3.8,3
+deepseek,openai,prompt_engineering,All I Need - Heather Nova (2003),3.0,4.0,3
+deepseek,llama,prompt_engineering,See Emily Play - Pink Floyd (1967),3.0,3.6,1
+deepseek,deepseek,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),4.4,3.8,3
+deepseek,deepseek,prompt_engineering,Fellow Hoodlums - Deacon Blue (1991),3.0,3.8,1
+deepseek,openai,prompt_engineering,Heart of Stone - The Platters (1956),3.6,3.6,1
+deepseek,openai,prompt_engineering,Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009),2.6,3.4,4
+deepseek,deepseek,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),3.8,3.6,4
+deepseek,openai,prompt_engineering,Light My Fire - Bananafishbones (2002),2.0,4.0,5
+deepseek,llama,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),5.0,3.0,1
+deepseek,deepseek,prompt_engineering,Dance Only With Me - Perry Como (1958),3.0,3.8,5
+deepseek,llama,prompt_engineering,Smoke Dreams - k.d. lang (1997),4.0,3.4,5
+deepseek,deepseek,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),3.6,3.6,4
+deepseek,llama,prompt_engineering,Easy (Switch Screens) - Son Lux feat. Lorde (2014),3.6,3.8,1
+deepseek,llama,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),4.2,3.8,3
+deepseek,openai,prompt_engineering,Scratch My Back - Slade (1976),4.0,4.0,4
+deepseek,llama,prompt_engineering,You Are The Reason - Air Supply (2001),2.8,3.4,3
+deepseek,llama,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",4.4,4.0,5
+deepseek,deepseek,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.2,3.2,3
+deepseek,llama,prompt_engineering,All I Need - Heather Nova (2003),5.0,3.2,5
+deepseek,openai,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),2.8,3.8,5
+deepseek,deepseek,prompt_engineering,Ship Of Fools - World Party (1987),4.0,4.0,3
+deepseek,deepseek,prompt_engineering,It’s Alright - The Osmonds (1973),3.2,3.8,1
+deepseek,deepseek,prompt_engineering,Without Love - Dina Carroll (1999),2.6,3.6,1
+deepseek,llama,prompt_engineering,Planetarium - Covenant (1997),1.6,3.2,4
+deepseek,llama,prompt_engineering,You Belong To Me - Rick Astley (2005),3.4,3.6,5
+deepseek,openai,prompt_engineering,It’s Alright - The Osmonds (1973),2.8,3.6,1
+deepseek,deepseek,prompt_engineering,Coffee - Kelly Rowland (2020),3.8,3.8,4
+deepseek,openai,prompt_engineering,Es geht mir gut - Westernhagen (1994),2.8,3.8,1
+deepseek,deepseek,prompt_engineering,Breakout - Beverley Knight (2009),3.2,3.8,1
+deepseek,deepseek,prompt_engineering,Hold Me - Brenda Lee (1961),3.2,3.8,5
+deepseek,openai,prompt_engineering,Coffee - Kelly Rowland (2020),3.6,3.6,1
+deepseek,openai,prompt_engineering,You Are The Reason - Air Supply (2001),2.8,3.8,5
+deepseek,llama,prompt_engineering,Breakout - Beverley Knight (2009),4.4,3.4,"[3, 5]"
+deepseek,llama,prompt_engineering,Sea Song - Tears For Fears (1985),3.4,3.6,4
+deepseek,openai,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),2.2,3.8,1
+deepseek,llama,prompt_engineering,Here I Go Again - Blue System (1995),3.2,3.8,5
+deepseek,openai,prompt_engineering,Argue - Matchbox 20 (1996),2.8,3.8,3
+deepseek,openai,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),3.8,3.6,4
+deepseek,deepseek,prompt_engineering,4:am Forever - Lostprophets (2006),3.2,3.8,5
+deepseek,llama,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),2.6,4.2,4
+deepseek,openai,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),3.6,3.8,1
+deepseek,deepseek,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),3.4,3.4,1
+deepseek,llama,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),3.4,3.2,3
+deepseek,llama,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.6,3.4,1
+deepseek,deepseek,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),3.0,3.2,1
+deepseek,deepseek,prompt_engineering,Mama Told Me Not To Come - Wilson Pickett (1971),4.6,3.8,4
+deepseek,openai,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),3.2,3.8,3
+deepseek,llama,prompt_engineering,They Only Come Out At Night - Lordi (2006),5.0,4.0,1
+deepseek,llama,prompt_engineering,Light My Fire - Bananafishbones (2002),1.4,3.8,5
+deepseek,deepseek,prompt_engineering,Skipping Like A Stone - The Chemical Brothers feat. Beck (2023),4.2,3.0,1
+deepseek,llama,prompt_engineering,Scratch My Back - Slade (1976),4.2,4.2,4
+deepseek,openai,prompt_engineering,Number One - Laid Back (2019),3.6,3.6,2
+deepseek,llama,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),1.6,3.4,4
+deepseek,openai,prompt_engineering,4:am Forever - Lostprophets (2006),4.2,4.2,"[3, 5]"
+deepseek,llama,prompt_engineering,A Reason - Circ (2004),5.0,4.0,1
+deepseek,deepseek,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),2.6,3.8,5
+deepseek,llama,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),3.8,3.4,4
+deepseek,deepseek,prompt_engineering,Drunk On Love - Basia (1994),3.0,3.6,1
+deepseek,llama,prompt_engineering,Pay The Man - The Offspring (1998),4.0,3.8,3
+deepseek,deepseek,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),4.2,3.2,5
+deepseek,openai,prompt_engineering,Circus Of Death - Project Pitchfork (1993),3.2,4.0,1
+deepseek,llama,prompt_engineering,Spirits' Masquerade - Leaves' Eyes (2011),1.8,4.2,4
+deepseek,llama,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),4.6,2.6,3
+deepseek,llama,prompt_engineering,Leg die Knarre weg - Udo Jürgens (1958),5.0,4.0,1
+deepseek,openai,prompt_engineering,Wahre Liebe - Westernhagen (2014),2.8,3.6,1
+deepseek,openai,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),1.8,3.6,1
+deepseek,llama,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),4.2,3.4,3
+deepseek,llama,prompt_engineering,Ship Of Fools - World Party (1987),4.2,3.8,1
+deepseek,deepseek,prompt_engineering,Thank Me Now - Drake (2010),4.0,3.6,5
+deepseek,deepseek,prompt_engineering,Here I Go Again - Blue System (1995),2.8,3.4,4
+deepseek,deepseek,prompt_engineering,Worth It All - Jay Sean (2013),4.0,3.4,3
+deepseek,deepseek,prompt_engineering,They Only Come Out At Night - Lordi (2006),4.4,3.2,5
+deepseek,llama,prompt_engineering,Circus Of Death - Project Pitchfork (1993),4.2,3.2,3
+deepseek,deepseek,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),5.0,4.0,1
+deepseek,llama,prompt_engineering,Number One - Laid Back (2019),4.0,3.0,1
+deepseek,openai,prompt_engineering,Smoke Dreams - k.d. lang (1997),3.2,4.2,3
+deepseek,openai,prompt_engineering,Into The Blue - Rooney (2010),3.6,4.2,1
+deepseek,llama,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),4.0,3.2,1
+deepseek,openai,prompt_engineering,Ein Festival der Liebe - Jürgen Marcus (1972),3.2,3.6,1
+deepseek,deepseek,prompt_engineering,Pay The Man - The Offspring (1998),3.2,3.6,3
+deepseek,llama,prompt_engineering,Before You Leave - Kurt Nilsen (2004),3.4,3.6,1
+deepseek,openai,prompt_engineering,Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968),3.6,3.8,1
+deepseek,llama,prompt_engineering,Thank Me Now - Drake (2010),3.2,3.8,5
+deepseek,deepseek,prompt_engineering,Battles - In Flames (2016),3.6,3.8,4
+deepseek,openai,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),3.2,3.6,1
+deepseek,deepseek,prompt_engineering,On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957),3.4,3.6,1
+deepseek,deepseek,prompt_engineering,Light My Fire - Bananafishbones (2002),3.0,3.4,3
+deepseek,openai,prompt_engineering,Du fehlst - Die Toten Hosen (2012),3.4,3.0,2
+deepseek,openai,prompt_engineering,Ride It - Jay Sean (2007),3.2,4.0,4
+deepseek,deepseek,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),4.6,3.2,4
+deepseek,deepseek,prompt_engineering,Before You Leave - Kurt Nilsen (2004),2.8,3.8,3
+deepseek,deepseek,prompt_engineering,Dick and Jane - Bobby Vinton (1974),2.8,3.8,5
+deepseek,llama,prompt_engineering,Ale Ale - Capital Bra (2023),2.8,4.0,5
+deepseek,openai,prompt_engineering,Here I Go Again - Blue System (1995),3.8,3.8,4
+deepseek,llama,prompt_engineering,Best Night - Justice Crew (2012),1.6,3.2,5
+deepseek,openai,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),3.8,3.8,4
+deepseek,deepseek,prompt_engineering,Blessed Assurance - Burl Ives (1950),4.2,4.2,3
+deepseek,deepseek,prompt_engineering,Time Immemorial - Crowded House (1990),3.6,3.8,3
+deepseek,openai,prompt_engineering,Drunk On Love - Basia (1994),2.8,3.4,1
+deepseek,openai,prompt_engineering,Sing to Me Mr. C - Perry Como (1962),2.6,4.0,3
+deepseek,deepseek,prompt_engineering,Wait - Martin Jensen feat. Loote (2017),4.2,3.8,5
+deepseek,deepseek,prompt_engineering,"Turn, Turn, Turn - The Simon Sisters (1966)",4.4,3.8,1
+deepseek,llama,prompt_engineering,Es geht mir gut - Westernhagen (1994),3.2,3.8,1
+deepseek,deepseek,prompt_engineering,Sleepy Time Gal - Bing Crosby (1953),3.6,4.2,3
+deepseek,deepseek,prompt_engineering,"Reise, Reise - Rammstein (2004)",3.2,3.4,4
+deepseek,openai,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",2.2,3.8,1
+deepseek,llama,prompt_engineering,Argue - Matchbox 20 (1996),2.6,3.6,4
+deepseek,deepseek,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),4.2,3.8,5
+deepseek,deepseek,prompt_engineering,Assistant's Cry - Yello (1980),3.2,4.2,3
+deepseek,deepseek,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),4.2,3.4,4
+deepseek,deepseek,prompt_engineering,"Get In, Fit In - Ciara (2007)",3.6,3.6,1
+deepseek,deepseek,prompt_engineering,Breaking My Heart - Richard Marx (2022),3.8,3.8,5
+deepseek,openai,prompt_engineering,Assistant's Cry - Yello (1980),3.6,3.6,2
+deepseek,deepseek,prompt_engineering,Ride It - Jay Sean (2007),4.2,3.2,3
+deepseek,deepseek,prompt_engineering,You Are The Reason - Air Supply (2001),5.0,3.4,1
+deepseek,llama,prompt_engineering,Worth It All - Jay Sean (2013),4.2,4.0,5
+deepseek,llama,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),3.8,2.2,1
+deepseek,openai,prompt_engineering,Planetarium - Covenant (1997),3.6,4.0,3
+deepseek,deepseek,prompt_engineering,See Emily Play - Pink Floyd (1967),3.4,3.6,1
+deepseek,deepseek,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),3.4,3.6,4
+deepseek,openai,prompt_engineering,The Flat Foot Floogee - Louis Armstrong (1954),2.8,3.6,1
+deepseek,deepseek,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),2.0,3.2,5
+deepseek,deepseek,prompt_engineering,From Small Things (Big Things One Day Come) - Bruce Springsteen (2003),4.2,3.0,5
+deepseek,llama,prompt_engineering,Home - Birdy (2013),3.0,4.0,3
+deepseek,llama,prompt_engineering,Battles - In Flames (2016),4.0,3.8,3
+deepseek,llama,prompt_engineering,I Cried for You - Ray Charles (1964),3.2,3.8,4
+deepseek,deepseek,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",2.8,3.8,5
+deepseek,openai,prompt_engineering,I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014),3.2,3.6,3
+deepseek,openai,prompt_engineering,Welcome to the Big Room - Neil Young (2015),3.8,4.0,1
+deepseek,deepseek,prompt_engineering,Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021),2.8,3.8,5
+deepseek,llama,prompt_engineering,Sternengold und Silbermond - Peter Alexander (1962),3.6,3.6,4
+deepseek,llama,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),3.2,4.2,5
+deepseek,openai,prompt_engineering,"Reise, Reise - Rammstein (2004)",3.2,4.0,5
+deepseek,llama,prompt_engineering,Ride It - Jay Sean (2007),4.2,3.6,1
+deepseek,deepseek,prompt_engineering,Ale Ale - Capital Bra (2023),1.8,3.2,5
+deepseek,openai,prompt_engineering,Peggy's Kitchen Wall - Bruce Cockburn (1984),3.2,4.0,3
+deepseek,llama,prompt_engineering,Without Love - Dina Carroll (1999),4.0,3.4,5
+deepseek,openai,prompt_engineering,Uns geht's gut - And One (1997),2.8,3.8,1
+deepseek,deepseek,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),5.0,3.6,5
+deepseek,deepseek,prompt_engineering,Smoke Dreams - k.d. lang (1997),4.2,2.8,1
+deepseek,deepseek,prompt_engineering,Wahre Liebe - Westernhagen (2014),4.0,3.4,5
+deepseek,llama,prompt_engineering,Clues - Godley & Creme (1979),4.2,3.8,4
+deepseek,llama,prompt_engineering,Dance Dance Dance - Arabesque (1983),2.8,3.8,3
+deepseek,openai,prompt_engineering,Clues - Godley & Creme (1979),2.8,3.8,1
+deepseek,llama,prompt_engineering,4:am Forever - Lostprophets (2006),2.8,3.6,1
+deepseek,llama,prompt_engineering,Where Do We Go From Here - Charles & Eddie (1992),4.6,4.2,3
+deepseek,openai,prompt_engineering,Let's Get Together Soon - Dusty Springfield (1970),2.4,3.8,5
+deepseek,openai,prompt_engineering,Thank Me Now - Drake (2010),2.0,3.2,5
+deepseek,deepseek,prompt_engineering,I Know - Vanilla Ninja (2005),5.0,4.2,5
+deepseek,openai,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),3.2,3.6,1
+deepseek,deepseek,prompt_engineering,Jekyll And Hyde - Judas Priest (2001),5.0,4.0,1
+deepseek,llama,prompt_engineering,Arschgesicht - Udo Lindenberg (1996),5.0,4.0,1
+deepseek,openai,prompt_engineering,Dance Dance Dance - Arabesque (1983),3.6,3.6,1
+deepseek,llama,prompt_engineering,Drunk On Love - Basia (1994),4.2,3.2,3
+deepseek,openai,prompt_engineering,Dick and Jane - Bobby Vinton (1974),3.6,4.0,1
+deepseek,openai,prompt_engineering,Heavens Rain - Uriah Heep (2008),2.8,3.6,1
+deepseek,deepseek,prompt_engineering,Got To Give It Up - Marvin Gaye (1977),3.2,3.6,1
+deepseek,llama,prompt_engineering,"My Life - Nat ""King"" Cole (1960)",3.4,3.6,1
+deepseek,openai,prompt_engineering,Hold Me - Brenda Lee (1961),2.6,3.6,1
+deepseek,deepseek,prompt_engineering,The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951),2.6,3.8,3
+deepseek,llama,prompt_engineering,Coffee - Kelly Rowland (2020),4.0,3.4,5
+deepseek,deepseek,prompt_engineering,'Til My Back Ain't Got No Bone - Tom Jones (2015),4.2,3.8,1
+deepseek,llama,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),2.8,4.0,5
+deepseek,deepseek,prompt_engineering,Du fehlst - Die Toten Hosen (2012),4.2,3.4,4
+deepseek,llama,prompt_engineering,When You Give It Away - Bruce Cockburn (1999),1.6,3.4,4
+deepseek,openai,prompt_engineering,Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984),3.6,4.2,3
+deepseek,llama,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),3.0,3.8,2
+deepseek,llama,prompt_engineering,The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000),4.2,3.4,4
+deepseek,deepseek,prompt_engineering,Circus Of Death - Project Pitchfork (1993),3.0,3.6,1
+deepseek,deepseek,prompt_engineering,Welcome to the Big Room - Neil Young (2015),3.6,3.4,4
+deepseek,llama,prompt_engineering,Teach Me Tonight - Neil Diamond (1988),3.4,3.4,3
+deepseek,deepseek,prompt_engineering,Scratch My Back - Slade (1976),4.2,4.2,5
+deepseek,llama,prompt_engineering,I Know - Vanilla Ninja (2005),4.4,4.4,"[3, 4, 5]"
+deepseek,llama,prompt_engineering,One Day Tomorrow - Edgar Winter (1975),3.4,3.8,4
+deepseek,openai,prompt_engineering,One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021),2.6,3.4,1
+deepseek,openai,prompt_engineering,"Ich will – ich kann, I can – I will - Udo Jürgens (1986)",3.0,3.6,1
+deepseek,openai,prompt_engineering,I Cried for You - Ray Charles (1964),3.0,4.0,3
+deepseek,openai,prompt_engineering,Best Night - Justice Crew (2012),2.8,4.0,5
+deepseek,openai,prompt_engineering,See Emily Play - Pink Floyd (1967),3.6,3.6,2
+deepseek,openai,prompt_engineering,Yesterday When I Was Young - Charles Aznavour (1969),3.4,3.8,1
+deepseek,deepseek,prompt_engineering,Timeless - Drunken Tiger feat. BTS (2018),3.0,3.6,1
+deepseek,deepseek,prompt_engineering,Heavens Rain - Uriah Heep (2008),4.2,3.6,4
+deepseek,openai,prompt_engineering,"Get In, Fit In - Ciara (2007)",2.4,3.6,2
+deepseek,llama,prompt_engineering,Time Immemorial - Crowded House (1990),3.8,3.6,2
+deepseek,openai,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),2.8,3.4,1
+deepseek,openai,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),3.6,4.0,1
+deepseek,llama,prompt_engineering,Welcome to the Big Room - Neil Young (2015),4.0,4.0,3
+deepseek,deepseek,prompt_engineering,Sauerkrautpolka - Gus Backus (1961),4.8,3.0,1
+deepseek,llama,prompt_engineering,Funny How Time Slips Away - Wanda Jackson (1963),4.0,3.4,4
+deepseek,openai,prompt_engineering,Without Love - Dina Carroll (1999),3.8,4.0,4
+deepseek,openai,prompt_engineering,That Old Black Magic - Sam The Sham & The Pharaohs (1965),3.6,3.6,4
+deepseek,openai,prompt_engineering,Home - Birdy (2013),2.8,3.6,1
+deepseek,openai,prompt_engineering,Sie - Manfred Mann (1964),2.2,3.8,1

@@ -1,0 +1,7 @@
+experiment,embedding_model,llm_model,mean_similarity_mean,mean_similarity_std,mean_similarity_min,mean_similarity_max,mean_similarity_median,n_songs
+prompt_engineering,baai-bge-m3,deepseek,0.9664,0.021,0.9026,0.9991,0.9692,100
+prompt_engineering,baai-bge-m3,llama,0.976,0.0156,0.9252,0.9987,0.9779,100
+prompt_engineering,baai-bge-m3,openai,0.9037,0.019,0.8413,0.9432,0.9041,100
+standard,baai-bge-m3,deepseek,0.9679,0.0212,0.8766,1.0,0.9698,100
+standard,baai-bge-m3,llama,0.9712,0.0205,0.9086,1.0,0.9737,100
+standard,baai-bge-m3,openai,0.9081,0.023,0.8478,0.9609,0.9116,100

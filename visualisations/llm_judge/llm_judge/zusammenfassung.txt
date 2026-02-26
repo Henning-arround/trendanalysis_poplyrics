@@ -1,0 +1,69 @@
+================================================================================
+ZUSAMMENFASSUNG DER LLM-AS-A-JUDGE EVALUATION
+================================================================================
+
+Gesamtanzahl der bewerteten Songs: 2347
+Anzahl der verschiedenen Songs: 101
+Bewertende Modelle: deepseek, llama, openai
+Bewertete Modelle: deepseek, llama, openai
+
+--------------------------------------------------------------------------------
+DURCHSCHNITTLICHE SCORES NACH METHODE:
+--------------------------------------------------------------------------------
+
+STANDARD:
+  Anzahl Songs: 1172
+  Halluzinationsrate: 3.805 (±0.944)
+  Interpretationstiefe: 3.435 (±0.590)
+
+PROMPT_ENGINEERING:
+  Anzahl Songs: 1175
+  Halluzinationsrate: 3.284 (±0.864)
+  Interpretationstiefe: 3.434 (±0.588)
+
+--------------------------------------------------------------------------------
+DURCHSCHNITTLICHE SCORES NACH MODELL:
+--------------------------------------------------------------------------------
+
+DEEPSEEK:
+  standard:
+    Anzahl: 392
+    Halluzinationsrate: 3.844 (±0.948)
+    Interpretationstiefe: 3.271 (±0.537)
+  prompt_engineering:
+    Anzahl: 393
+    Halluzinationsrate: 3.277 (±0.966)
+    Interpretationstiefe: 3.160 (±0.677)
+
+LLAMA:
+  standard:
+    Anzahl: 395
+    Halluzinationsrate: 3.913 (±0.939)
+    Interpretationstiefe: 3.317 (±0.556)
+  prompt_engineering:
+    Anzahl: 392
+    Halluzinationsrate: 3.417 (±0.863)
+    Interpretationstiefe: 3.390 (±0.512)
+
+OPENAI:
+  standard:
+    Anzahl: 385
+    Halluzinationsrate: 3.653 (±0.928)
+    Interpretationstiefe: 3.724 (±0.571)
+  prompt_engineering:
+    Anzahl: 390
+    Halluzinationsrate: 3.158 (±0.727)
+    Interpretationstiefe: 3.756 (±0.370)
+
+================================================================================
+
+================================================================================
+Modell          | Methode              | Halluzinationsrate   | Interpretationstiefe
+--------------------------------------------------------------------------------
+deepseek        | standard             | 3.844                | 3.271               
+deepseek        | prompt_engineering   | 3.277                | 3.16                
+llama           | standard             | 3.913                | 3.317               
+llama           | prompt_engineering   | 3.417                | 3.39                
+openai          | standard             | 3.653                | 3.724               
+openai          | prompt_engineering   | 3.158                | 3.756               
+================================================================================
