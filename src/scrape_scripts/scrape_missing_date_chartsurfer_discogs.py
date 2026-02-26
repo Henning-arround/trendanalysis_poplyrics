@@ -18,9 +18,9 @@ DISCOGS_TOKEN = "#####################"
 musicbrainzngs.set_useragent(
     "ChartsurferDataset",
     "1.0",
-    "Henning101@gmx.de"
+    "############"
 )
-musicbrainzngs.auth("Kaboom1998", "J8s%;]cMc:Rce*F")
+musicbrainzngs.auth("##########", "###########")
 
 # Progress- und Log-Dateien
 PROGRESS_FILE = "../../data/chartsurfer_missing_dates_progress.json"
