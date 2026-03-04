@@ -1,4 +1,4 @@
-# Table Manipulations
+# Tabellenmanipulation
 
 Dieses Verzeichnis enthält verschiedene Skripte zur Verarbeitung, Reinigung und Transformation der gesammelten Datensätze (CSVs und JSONs). Die Skripte sind oft Teil einer sukzessiven Daten-Pipeline.
 

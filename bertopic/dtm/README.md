@@ -1,4 +1,4 @@
-# README: BERTopic - Dynamic Topic Modeling (Ordner "dtm")
+# BERTopic - Dynamic Topic Modeling 
 
 Dieser Ordner enthält alle Zwischenergebnisse, Modelle, Evaluationen und Visualisierungen, die im Rahmen des Topic Modelings mittels **BERTopic** und dem Cluster-Algorithmus **HDBSCAN** entstanden sind. 
 

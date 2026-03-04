@@ -1,6 +1,6 @@
-# README: Datenpräprozessierung (Ordner "src/preprocessing")
+# Datenbereinigung
 
-Dieser Ordner enthält alle Python-Skripte, die für das Preprocessing der gesammelten Rohdaten verwendet wurden. 
+Dieser Ordner enthält alle Skripte, die für das Preprocessing der gesammelten Rohdaten verwendet wurden. 
 
 ## Enthaltene Skripte
 

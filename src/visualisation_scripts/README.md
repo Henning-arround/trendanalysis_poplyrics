@@ -1,4 +1,4 @@
-# README: Visualisierungsskripte (Ordner "src/visualisation_scripts")
+# Visualisierungsskripte
 
 Dieser Ordner enthält alle Skripte, die zur Erstellung der Abbildungen, Plots und Diagramme für die schriftliche Ausarbeitung der Masterarbeit verwendet wurden. Zur besseren Übersicht sind die Skripte thematisch in drei Unterordner gegliedert.
 

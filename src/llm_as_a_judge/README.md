@@ -1,4 +1,4 @@
-# README: Quellcode der LLM-as-a-Judge Evaluation (Ordner "src/llm_as_a_judge")
+# Quellcode der LLM-as-a-Judge Evaluation
 
 Dieser Ordner enthält die Python-Skripte, welche die Methodik der "LLM-as-a-Judge"-Evaluation abbilden. Dazu gehören die Ziehung der Stichprobe, das Generieren der Songtext-Interpretationen, der Evaluierungsprozess durch die Judge-LLMs, sowie die Berechnung verschiedener Ähnlichkeitsmetriken.
 

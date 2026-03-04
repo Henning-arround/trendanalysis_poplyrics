@@ -1,4 +1,4 @@
-# README: Topic Modelling mit HDBSCAN (Ordner "src/topic_modelling/hdbscan")
+# Topic Modelling mit HDBSCAN
 
 Dieser Ordner enthält die zentralen Skripte für die Implementierung des Topic Modeling im Rahmen der Masterarbeit. Hier wird BERTopic mit seinem Standard-Clusteralgorithmus HDBSCAN genutzt, um ein Dynamic Topic Model (DTM) für die Songtexte zu trainieren, zu evaluieren und visuell aufzubereiten.
 

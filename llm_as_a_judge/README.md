@@ -1,4 +1,4 @@
-# README: LLM-as-a-Judge Evaluation (Ordner "llm_as_a_judge")
+# LLM-as-a-Judge Evaluation
 
 Dieser Ordner beinhaltet die Daten, Prompts und Ergebnisse zur Evaluation der LLM-generierten Songtext-Interpretationen mittels LLM-as-a-Judge.
 
@@ -7,7 +7,7 @@ Dieser Ordner beinhaltet die Daten, Prompts und Ergebnisse zur Evaluation der LL
 ### `evaluations_two_dimensions/`
 Hier liegen die Ergebnisse der "standard" Methode (ohne spezielles Prompt Engineering) anhand von zwei Bewertungsdimensionen (Halluzinationsrate, Interpretationstiefe). 
 Die Ergebnisse sind in Unterordnern für die jeweiligen "Judge"-Modelle strukturiert:
-- `deepseek_r1/`
+
 - `deepseek_v3.2_exp/`
 - `gpt_oss_120b/`
 - `llama_3.3_70b_instruct/`
