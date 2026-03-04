@@ -9,7 +9,7 @@ from requests.exceptions import RequestException, ConnectionError, Timeout
 from langchain_openai import ChatOpenAI
 
 # API-Konfiguration
-my_api_key = "sk-JbSIfkSGPUcXx7OONQMZyw"
+my_api_key = "########################"
 client = OpenAI(base_url="https://llm.scads.ai/v1", api_key=my_api_key)
 model_name = "openai/gpt-oss-120b"
 

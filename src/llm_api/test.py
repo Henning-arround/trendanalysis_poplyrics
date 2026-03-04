@@ -8,7 +8,7 @@ from requests.exceptions import RequestException, ConnectionError, Timeout
 from umap import UMAP
 from bertopic import BERTopic
 
-my_api_key = "sk-JbSIfkSGPUcXx7OONQMZyw"
+my_api_key = "########################"
 
 client = OpenAI(base_url="https://llm.scads.ai/v1", api_key=my_api_key)
 
