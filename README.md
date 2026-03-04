@@ -7,8 +7,8 @@ Dieses Repository enthält den Code und die Ergebnisse für die Masterarbeit zur
 Hier ist eine kurze Übersicht über die wichtigsten Ordner in diesem Projekt (ausgenommen Datensätze):
 
 ### `bertopic/`
-Dieser Ordner enthält Artefakte und Ergebnisse im Zusammenhang mit der Themenmodellierung mittels BERTopic.
-- Enthält Unterordner `dtm` (Dynamic Topic Modeling) und `dtm_k_means`, welche die zwei Clusteralgorithmen HDBSCAN und K-Means darstellen
+Dieser Ordner enthält Ergebnisse des Topic Models mittels BERTopic.
+- Enthält den Unterordner `dtm` (Dynamic Topic Modeling), bei dem sich auf den Clusteralgorithmus HDBSCAN konzentriert wurde und einen archivierten Ordner der Experimente mit der Methode K-Means beinhaltetn. 
 
 ### `llm_as_a_judge/`
 Hier befinden sich Dateien für die Evaluation mittels "LLM-as-a-Judge".
@@ -19,14 +19,17 @@ Hier befinden sich Dateien für die Evaluation mittels "LLM-as-a-Judge".
 
 ### `src/`
 Der Quellcode des Projekts, unterteilt in verschiedene Module:
-- **analyze_data/**: Skripte zur Ergänzung des Datensatzes (wenig relevant).
+
+#### Datenakquise und Aufbereitung
 - **detect_language/**: Spracherkennung der Songtexte.
 - **llm_api/**: Zugriff auf LLM-APIs für die Interpretationen er 255k Songs.
-- **llm_as_a_judge/**: Logik für den LLM-Evaluierungsprozess.
 - **preprocessing/**: Skripte zur Bereinigung des Korpus.
 - **scrape_scripts/**: Web-Scraper zum Sammeln von den Daten (z.B. offiziellecharts, chartsurfer, genius, discogs, etc.).
 - **table_manipulations/**: Wieder Skripte zum Erstellen des Korpuses (aufräumen), sowie Pre- und Postprocessing des Korpus.
-- **topic_modelling/**: Implementierungen und Skripte spezifisch für BERTopic (einmal Implementierungne mit HDBSCAN und einmal mit K-Means. Mit K-Means wurde nur experimentiert.).
+
+#### Methoden und Analyse
+- **llm_as_a_judge/**: Logik für den LLM-Evaluierungsprozess.
+- **topic_modelling/**: Implementierungen und Skripte spezifisch für BERTopic und Dynamic Topic Modeling (DTM). Zudem ein archivierte Ordner der Experimente zu K-Means enthält.
 - **visualisation_scripts/**: Code zur Erstellung der Visualisierungen.
 
 ### `visualisations/`
