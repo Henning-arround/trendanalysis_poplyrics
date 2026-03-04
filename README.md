@@ -8,7 +8,7 @@ Hier ist eine kurze Übersicht über die wichtigsten Ordner in diesem Projekt (a
 
 ### `bertopic/`
 Dieser Ordner enthält Ergebnisse des Topic Models mittels BERTopic.
-- Enthält den Unterordner `dtm` (Dynamic Topic Modeling), bei dem sich auf den Clusteralgorithmus HDBSCAN konzentriert wurde und einen archivierten Ordner der Experimente mit der Methode K-Means beinhaltetn. 
+- Enthält den Unterordner `dtm` (Dynamic Topic Modeling), in dem der Fokus auf den Clusteralgorithmus HDBSCAN liegt, sowie einen archivierten Ordner mit Experimenten, die mit der Methode K-Means durchgeführt wurden. 
 
 ### `llm_as_a_judge/`
 Hier befinden sich Dateien für die Evaluation mittels "LLM-as-a-Judge".
