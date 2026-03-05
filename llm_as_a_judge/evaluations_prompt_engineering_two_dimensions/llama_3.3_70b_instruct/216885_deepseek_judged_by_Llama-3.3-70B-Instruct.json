@@ -1,0 +1,98 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Themen von Beziehungskomplikationen, emotionaler Abhängigkeit und Loyalität sind in der Popkultur weit verbreitet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der wiederholten Zeile 'Every day I'll wait' zusammenfassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel im Song und ihre Bedeutung für die emotionale Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No one's gonna know you better / 'Cause I was your first one' kann als eine Art von emotionaler Besitzanspruch interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Beziehungskomplikationen, emotionaler Abhängigkeit und Loyalität sind universell und können in verschiedenen Kontexten interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Ambivalenz der Beziehung und die emotionale Bindung zwischen den Partnern."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'leere Sitz' kann als Symbol für die emotionale Leere in der Beziehung verwendet werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der wiederholten Zeile 'Every day I'll wait' zusammenfassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel im Song und ihre Bedeutung für die emotionale Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No one's gonna know you better / 'Cause I was your first one' kann als eine Art von Besitzanspruch interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Beziehungskomplikationen, emotionaler Abhängigkeit und Loyalität sind in der Popkultur weit verbreitet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Ambivalenz der Beziehung und die emotionale Bindung zwischen den Partnern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der wiederholten Zeile 'Every day I'll wait' zusammenfassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel im Song und ihre Bedeutung für die emotionale Wirkung.",
+          "Die Interpretation diskutiert die Ambivalenz der Beziehung und die emotionale Bindung zwischen den Partnern."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die beste Interpretation (Nummer 5) zeigt eine hohe Textreue und analytische Tiefe.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine Balance zwischen Textreue und analytischer Tiefe findet, wie in Interpretation 5."
+  }
+}

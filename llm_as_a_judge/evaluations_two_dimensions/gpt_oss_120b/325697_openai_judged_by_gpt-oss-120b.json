@@ -1,0 +1,112 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „My Life“ ist ein zärtliches Bekenntnis an Sehnsucht… (allgemeine, nicht belegte Formulierung)",
+          "Die Wiederholung des Wortes „miracle“ betont, dass ein solches Glück als außergewöhnlich und fast übernatürlich empfunden wird… (Interpretation ohne Textbeleg)",
+          "Diese Zeile verknüpft Besitz und Zugehörigkeit mit einer tiefen emotionalen Erfüllung, die das gesamte Leben transzendiert… (vage Aussage)",
+          "Insgesamt schildert das Lied den Übergang von einer enttäuschenden, oberflächlichen Beziehung zu einer ersehnten, tief verwurzelten Bindung… (allgemeines Fazit ohne konkrete Textanalyse)"
+        ],
+        "positive_aspekte": [
+          "Identifiziert exakt die zentralen Textpassagen (Kindheitstraum, „viel mehr als mein Leben“, fehlende Gefühle trotz Küsse, Wunsch nach „good and true“ Liebe, Refrain‑Wiederholung).",
+          "Verknüpft Textzitate mit einer nachvollziehbaren, wenn auch teilweise generischen, Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Diskrepanz verdeutlicht, dass wahre Nähe nicht durch Gesten, sondern durch ein authentisches, tiefes Band entsteht… (allgemeine Aussage)",
+          "Die Vorstellung, dass ein einziger, unverwechselbarer Moment … Identität und Erfüllung im Besitz einer exklusiven, gegenseitigen Bindung liegen… (vage Interpretation)",
+          "Der Refrain fungiert als Mantra, das die Hoffnung auf ein endgültiges, unverrückbares Glück verankert… (Spekulation)",
+          "So wird das Lied zu einem Spiegel der menschlichen Angst vor Einsamkeit … (generisches Fazit)"
+        ],
+        "positive_aspekte": [
+          "Alle Kernaussagen des Textes werden korrekt wiedergegeben (Traum, Opferbereitschaft, fehlende Gefühle, Wunsch nach „good and true“ Liebe, Refrain).",
+          "Zeigt ein strukturiertes Verständnis des Aufbaus (Einleitung → Konflikt → Wunsch → Refrain)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text offenbart ein zärtliches, aber zugleich von Unsicherheit durchdrungenes Bild … (zu allgemein)",
+          "Die Diskrepanz zwischen äußeren Gesten und innerem Leeren verdeutlicht die Angst … (vage, nicht im Text verankert)",
+          "Dieses Bild verknüpft Besitz, Zugehörigkeit und das endgültige Erreichen einer erfüllten Existenz … (allgemeine Schlussfolgerung)"
+        ],
+        "positive_aspekte": [
+          "Genaue Wiedergabe der wichtigsten Textstellen (Traum, „viel mehr als mein Leben“, fehlende Gefühle, Wunsch nach „good and true“ Liebe, Refrain‑Wiederholung).",
+          "Erkennt die innere Spannung zwischen äußeren Gesten und innerer Leere, was dem Text entspricht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe ist ein moralisches Fundament, das sein Handeln legitimiert (nicht aus dem Text ableitbar)."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile lässt erkennen, dass bisherige Beziehungen oberflächlich blieben… (Interpretation ohne Beleg)",
+          "Damit wird die Liebe nicht nur als emotionale Erfahrung, sondern als transzendentes Ereignis dargestellt… (allgemeine Aussage)"
+        ],
+        "positive_aspekte": [
+          "Alle textlichen Kernpunkte werden korrekt wiedergegeben.",
+          "Bietet eine etwas differenziertere Sichtweise (moralisches Fundament) – obwohl spekulativ, zeigt kreatives Denken."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe ist ein moralisches und existenzielles Prinzip, das sein Handeln bestimmt (nicht im Text erwähnt)."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text offenbart tiefe Sehnsucht … (zu allgemein)",
+          "Die Gegenüberstellung stellt die Erfahrung einer oberflächlichen Beziehung gegen das Ideal … (vage)",
+          "Das Bild des Kusses … (allgemeine Metapher)",
+          "Der Refrain erhebt die Liebe zu einer Art Wunder … (Spekulation)",
+          "Damit wird die Liebe nicht nur als emotionaler Höhepunkt … (generisches Bild)",
+          "Die wiederholte Betonung dieses Moments verstärkt die Idee … (allgemeine Schlussfolgerung)"
+        ],
+        "positive_aspekte": [
+          "Erfasst exakt die wichtigsten Textzitate (Traum, Opferbereitschaft, fehlende Gefühle, Wunsch nach „good and true“, Refrain).",
+          "Strukturiert die Analyse klar in Einleitung, Konflikt, Wunsch und Refrain."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im Anteil spekulativer bzw. oberflächlicher Aussagen. Interpretation 1, 3 und 5 zeigen die höchste Texttreue bei moderater Tiefe.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus stärker auf textbasierte, differenzierte Argumentation gelegt werden, ohne zu viele generische Schlussfolgerungen. Interpretation 1 bietet das beste Gleichgewicht zwischen Faktentreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung von körperlicher und emotionaler Intimität als Ausdruck der Moderne"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung von Nähe und die Aufforderung zum Bleiben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verbindung von körperlicher und emotionaler Befriedigung",
+          "Die Diskussion der thematischen Komplexität des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Darstellung von weiblicher Sexualität und Intimität als Ausdruck einer veränderten Wahrnehmung von Beziehungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung von Nähe und die Aufforderung zum Bleiben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verbindung von körperlicher und emotionaler Befriedigung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Selbstwahrnehmung der Protagonistin als eine einzigartige und besondere Person"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Darstellung von weiblicher Sexualität und die Aufforderung zur Befriedigung von körperlichen Bedürfnissen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verbindung von körperlichen Genüssen und emotionaler Befriedigung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postfeministische Perspektive auf Beziehungen und Sexualität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung von Nähe und die Aufforderung zum Bleiben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verbindung von körperlicher und emotionaler Befriedigung",
+          "Die Diskussion der thematischen Komplexität des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Darstellung von weiblicher Sexualität und die Aufforderung zur Befriedigung von körperlichen Bedürfnissen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung von Nähe und die Aufforderung zum Bleiben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verbindung von körperlichen Genüssen und emotionaler Befriedigung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der thematischen Komplexität des Songs",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Konsistenz in Bezug auf die Analyse der thematischen Komplexität des Songs"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin fleht ihren Partner an, nicht wegzugehen und die Liebe nicht aufzugeben"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Don't walk away from love' wird zu einem flehentlichen Mantra"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin fleht ihren Partner an, nicht wegzugehen und die Liebe nicht aufzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Verzweiflung und der Schmerz werden durch die Zeilen 'Look at these tears that I cry' und 'Don't you see that I'm hurt deep inside' deutlich"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin fleht ihren Partner an, nicht wegzugehen und die Liebe nicht aufzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Sängerin betont, dass sie ihn dringend benötigt und ohne ihn nicht überleben kann"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin fleht ihren Partner an, nicht wegzugehen und die Liebe nicht aufzugeben"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Don't walk away from love' wird zu einem flehentlichen Mantra"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin fleht ihren Partner an, nicht wegzugehen und die Liebe nicht aufzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Sängerin ist bereit, alles zu tun, um die Beziehung zu retten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen eine hohe Konsistenz in ihrer Analyse",
+    "empfehlung": "Es wäre ratsam, die Interpretationen um spezifischere Analysen und tiefere Einblicke in den Songtext zu erweitern"
+  }
+}

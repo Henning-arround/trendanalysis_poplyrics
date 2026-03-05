@@ -1,0 +1,97 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von der authentischen und verletzlichen Stimme von Brenda Lee"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck von Sehnsucht und Verlangen nach Nähe und Geborgenheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik stark von der Rock-and-Roll-Bewegung geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die frühe Rockmusik, die oft Themen wie Liebe, Verlangen und emotionale Intensität behandelte"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbolen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik stark von der Rock-and-Roll-Bewegung geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die frühe Rockmusik, die oft Themen wie Liebe, Verlangen und emotionale Intensität behandelte"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbolen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und direkt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck von Sehnsucht und Verlangen nach Nähe und Geborgenheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext der frühen 1960er Jahre"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwartung von sexueller und emotionaler Erfüllung"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine durchgehend spezifische und textanalytische Betrachtung des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die fünfte Interpretation bietet die tiefste und textbezogenste Analyse des Songs"
+  }
+}

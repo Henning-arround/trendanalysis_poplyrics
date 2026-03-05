@@ -1,0 +1,104 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Disco-Ära als Raum für soziale und sexuelle Emanzipation"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Tanzen als Akt der Selbstbestimmung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der körperlichen Dimension des Ausdrucks",
+          "Die Betonung der sexuellen Komponente"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Disco-Kultur und sexuelle Emanzipation als eng verwoben"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Tanzen als Manifest der Selbstbefreiung"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der körperlichen Ausdruckskraft",
+          "Die Analyse der sexuellen Unterströmung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle Wende der späten Siebziger-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Tanzen als Akt der Selbstakzeptanz"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kollektiven Ekstase",
+          "Die Betonung der körperlichen Freiheit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Disco-Szene als Raum für körperliche und emotionale Entfaltung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Tanzen als befreiender Akt der Selbstbestimmung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der sexuellen Spannung",
+          "Die Betonung der Gemeinschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sexuelle Befreiungs- und Disco-Ära"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Tanzen als Akt der Selbstentfaltung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der körperlichen Bewegung",
+          "Die Betonung der Intimität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der körperlichen Ausdruckskraft und der sexuellen Komponente",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

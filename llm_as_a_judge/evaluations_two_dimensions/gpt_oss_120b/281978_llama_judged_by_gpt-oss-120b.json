@@ -1,0 +1,109 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She says I need your loving and I need it very bad\" deutet darauf hin, dass die geliebte Person dem Sänger gegenüber ihre Bedürfnisse und Wünsche ausgedrückt hat, was seine Sehnsucht noch verstärkt.",
+          "Die klare Atmosphäre metaphorisch für die Klarheit und Sicherheit steht, die ihre Anwesenheit mit sich bringt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von \"You know I miss you, don't you know I want to kiss you\" unterstreicht die Tiefe seiner emotionalen Verbindung und das physische Verlangen nach dieser Person.",
+          "Durch diese lyrischen Elemente vermittelt der Song eine universelle Botschaft der Liebe, Sehnsucht und des Wartens auf die Wiedervereinigung mit dem geliebten Menschen."
+        ],
+        "positive_aspekte": [
+          "Verwendet konkrete Textstellen (Lordy, Sky, Hold her tight) und verbindet sie mit einer etwas detaillierteren metaphorischen Deutung, was die Analyse substantieller macht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She says I need your loving and I need it very bad\" deutet darauf hin, dass die geliebte Person dem Sänger gegenüber ihre Bedürfnisse und Wünsche ausgedrückt hat, was seine Sehnsucht noch verstärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von \"You know I miss you, don't you know I want to kiss you\" unterstreicht die Tiefe seiner emotionalen Verbindung und das physische Verlangen nach dieser Person.",
+          "Die Erwähnung, dass \"The sky is getting clearer, I know she's getting nearer\" symbolisiert die Hoffnung und das Warten auf die Rückkehr der Geliebten, was die Sehnsucht noch intensiviert.",
+          "Durch diese Textpassagen wird die allumfassende Sehnsucht und das Verlangen des Sängers nach der geliebten Person deutlich, die sein ganzes Sein und Fühlen bestimmt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die wiederholten Elemente (Lordy, Sky, Hold her tight) und verbindet sie mit den Grundgefühlen von Sehnsucht und Vorfreude."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She says I need your loving and I need it very bad\" deutet darauf hin, dass die geliebte Person dem Sänger gegenüber ihre Bedürfnisse und Wünsche ausgedrückt hat, was seine Sehnsucht noch verstärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von \"You know I miss you, don't you know I want to kiss you\" unterstreicht die Tiefe seiner emotionalen Verbindung und das physische Verlangen nach dieser Person.",
+          "Die Erwähnung, dass \"The sky is getting clearer, I know she's getting nearer\" symbolisiert die Hoffnung und das Warten auf die Rückkehr der Geliebten, was die Sehnsucht noch intensiviert.",
+          "Durch diese Textpassagen wird die allumfassende Sehnsucht und das Verlangen des Sängers nach der geliebten Person deutlich, die sein ganzes Sein und Fühlen bestimmt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Bezugnahme auf die Kernlyrik und klare Darstellung der emotionalen Grundstimmung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She says I need your loving and I need it very bad\" deutet darauf hin, dass die geliebte Person dem Sänger gegenüber ihre Bedürfnisse und Wünsche ausgedrückt hat, was seine Sehnsucht noch verstärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von \"You know I miss you, don't you know I want to kiss you\" unterstreicht die Tiefe seiner emotionalen Verbindung und das physische Verlangen nach dieser Person.",
+          "Die Erwähnung, dass \"The sky is getting clearer, I know she's getting nearer\" symbolisiert die Hoffnung und das Warten auf die Rückkehr der Geliebten, was die Sehnsucht noch intensiviert.",
+          "Durch diese Textpassagen wird die allumfassende Sehnsucht und das Verlangen des Sängers nach der geliebten Person deutlich, die sein ganzes Sein und Fühlen bestimmt."
+        ],
+        "positive_aspekte": [
+          "Gute Struktur: Einleitung, Analyse einzelner Zeilen, Schlussfolgerung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She says I need your loving and I need it very bad\" deutet darauf hin, dass die geliebte Person dem Sänger gegenüber ihre Bedürfnisse und Wünsche ausgedrückt hat, was seine Sehnsucht noch verstärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von \"You know I miss you, don't you know I want to kiss you\" unterstreicht die Tiefe seiner emotionalen Verbindung und das physische Verlangen nach dieser Person.",
+          "Die Erwähnung, dass \"The sky is getting clearer, I know she's getting nearer\" symbolisiert die Hoffnung und das Warten auf die Rückkehr der Geliebten, was die Sehnsucht noch intensiviert.",
+          "Durch diese Textpassagen wird die allumfassende Sehnsucht und das Verlangen des Sängers nach der geliebten Person deutlich, die sein ganzes Sein und Fühlen bestimmt."
+        ],
+        "positive_aspekte": [
+          "Klarer Fokus auf wiederholte Motive (Lordy, Sky, Umarmung) und deren emotionale Wirkung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen sind inhaltlich fast identisch, was zu einer sehr geringen Varianz in den Scores führt (Standardabweichung < 0.5).",
+    "empfehlung": "Eine Interpretation, die zusätzliche, textbasierte Metaphern (wie in Interpretation 3) einbringt, erhöht die analytische Tiefe, solange sie nicht spekulativ wird. Vermeiden Sie unbegründete biografische oder kontextuelle Aussagen, um den Halluzinations‑Score niedrig zu halten."
+  }
+}

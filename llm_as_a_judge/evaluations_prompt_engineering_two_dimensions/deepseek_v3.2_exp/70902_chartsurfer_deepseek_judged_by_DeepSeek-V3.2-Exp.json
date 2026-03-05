@@ -1,0 +1,99 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im Kontext der kulturellen und historischen Situation der 1970er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann 'One Day Tomorrow' als ein vielschichtiger Song interpretiert werden, der sowohl Hoffnung als auch Ambivalenz und Leere thematisiert."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden und die Träume von gestern zu Erinnerungen werden, die langsam verblassen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im Kontext der kulturellen und historischen Situation der 1970er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song 'One Day Tomorrow' eine komplexe und vielschichtige Botschaft, die sowohl optimistisch als auch ambivalent ist."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden und die Träume von gestern zu Erinnerungen werden, die langsam verblassen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im Kontext der kulturellen und historischen Situation der 1970er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song 'One Day Tomorrow' eine komplexe und vielschichtige Botschaft, die sowohl optimistisch als auch ambivalent ist."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden und die Träume von gestern zu Erinnerungen werden, die langsam verblassen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im Kontext der kulturellen und historischen Situation der 1970er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song 'One Day Tomorrow' eine komplexe und vielschichtige Botschaft, die sowohl optimistisch als auch ambivalent ist."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden und die Träume von gestern zu Erinnerungen werden, die langsam verblassen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im Kontext der kulturellen und historischen Situation der 1970er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song 'One Day Tomorrow' eine komplexe und vielschichtige Botschaft, die sowohl optimistisch als auch ambivalent ist."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden und die Träume von gestern zu Erinnerungen werden, die langsam verblassen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in ihrer Struktur und ihren Aussagen, aber auch eine gewisse Redundanz.",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und könnte als Vorbild für weitere Interpretationen dienen."
+  }
+}

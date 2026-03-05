@@ -1,0 +1,97 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I Lose My Liver In The Liverpool' könnte auf eine Art von Exzess oder Verlust hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit menschlichen Emotionen, Beziehungen und der Suche nach Authentizität und Erfahrung liegen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität zwischen Langeweile und Erwartung ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Kissing Snowflakes For Desert' könnte eine sehnsüchtige und unerreichbare Liebe symbolisieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kombination von sinnlichen Bildern und emotionalen Appellen erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der metaphorischen Ausdrücke ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Alison May Queen Of The Day' deutet auf eine bestimmte Art von Begegnung oder Erlebnis hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach authentischen Erfahrungen und die Auseinandersetzung mit den Ambiguitäten modernen Lebens"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der symbolischen Ordnungen und Metaphern ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I Lose My Liver In The Liverpool' kann als metaphorische Darstellung einer Exzessivität und eines Verlusts interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kombination von sinnlichen Bildern und einer gewissen Unbestimmtheit in den Beziehungen und Ereignissen erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Ambiguitäten und Widersprüche im Text ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Einbettung des Songs ist ebenfalls von Bedeutung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbolen ist sehr gut und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und Symbolen, aber variieren in der Tiefe der Analyse",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine gute Balance zwischen Textreue und analytischer Tiefe findet, wie Interpretation 5"
+  }
+}

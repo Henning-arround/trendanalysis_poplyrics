@@ -1,0 +1,120 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"Reise, Reise, Seemann, Reise\" kann als Anspielung auf die maritime Geschichte und die Seefahrt interpretiert werden, die in Deutschland eine lange Tradition hat.",
+          "Die Wiederholung von \"Hol weg, hol weg\" am Anfang und Ende des Songs kann als ritueller Akt verstanden werden, der die Zuhörer in eine andere Welt entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Darstellung der menschlichen Natur, die zwischen Gewalt und Schönheit, zwischen Zerstörung und Erhaltung schwankt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konsequent die zentralen Bildmotive (Wellen, Speer, Blut) und verknüpft sie mit dem Thema Gewalt.",
+          "Verwendet Textzitate, um die Analyse zu stützen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"Reise, Reise, Seemann, Reise\" kann als Anspielung auf die maritime Geschichte und die Seefahrt interpretiert werden, die in Deutschland eine lange Tradition hat.",
+          "Die Wiederholung dieser Zeile kann auch als Kommentar zur menschlichen Existenz und der ständigen Bewegung und Reise durch das Leben gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Darstellung der menschlichen Natur und ihrer Fähigkeit, Gewalt und Zerstörung zu verursachen, aber auch in der Fähigkeit, Trauer und Schmerz zu empfinden."
+        ],
+        "positive_aspekte": [
+          "Stellt klare Bezüge zu den im Text vorkommenden Metaphern her (z. B. „Wellen weinen leise“).",
+          "Erkennt die Ambiguitäten im Text und weist darauf hin, dass sie Interpretationsspielraum lassen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"Reise, Reise, Seemann, Reise\" kann als Anspielung auf die maritime Geschichte und die Seefahrt interpretiert werden, die in Deutschland eine lange Tradition hat.",
+          "Die Wiederholung dieser Zeile kann auch als Kommentar zur menschlichen Existenz und der ständigen Bewegung und Reise durch das Leben gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die kulturelle, historische und gesellschaftliche Dimension des Songs ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Enthält die meisten textnahen Analysen (6 von 12 Aussagen sind klar aus dem Text ableitbar).",
+          "Verknüpft die Bildsprache des Songs mit einer tieferen Reflexion über Gewalt gegen sich selbst und die Natur."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"Reise, Reise, Seemann, Reise\" kann als Anspielung auf die maritime Geschichte und die Seefahrt interpretiert werden, die in Deutschland eine lange Tradition hat.",
+          "Die Wiederholung von \"Hol weg, hol weg\" am Anfang und Ende des Songs kann als ritueller Akt verstanden werden, der die Zuhörer in eine andere Welt entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Darstellung der menschlichen Natur, die zwischen Gewalt und Schönheit, zwischen Zerstörung und Erhaltung schwankt."
+        ],
+        "positive_aspekte": [
+          "Gute Verbindung von Textzitaten zu den analysierten Metaphern.",
+          "Erkennt die wiederholende Struktur des Songs und versucht, ihr eine rituelle Bedeutung zuzuordnen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeile \"Reise, Reise, Seemann, Reise\" und die Anweisung \"Hol weg, hol weg\" am Anfang und Ende des Songs schaffen eine Atmosphäre der Unausweichlichkeit und der Notwendigkeit, sich mit der Gewalt und dem Konflikt auseinanderzusetzen.",
+          "Der kulturelle und historische Kontext des Songs ist komplex und vielschichtig, da er sich auf verschiedene Ebenen beziehen lässt, wie zum Beispiel auf die Geschichte der Seefahrt und der Kriegsführung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv, da er die Hörer mit den Bildern von Gewalt und Tod konfrontiert.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung, die die Verbindung zwischen der Natur, der Gewalt und dem Menschen darstellt."
+        ],
+        "positive_aspekte": [
+          "Betont die emotionale Intensität des Songs und verknüpft sie mit den wiederholten Motiven.",
+          "Stellt klare Textbezüge zu den zentralen Bildern (Speer, Blut, Wellen) her."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen behandeln dieselben Kernbilder (Gewalt, Meer, Speer) und zeigen ähnliche Halluzinationsraten (ca. 16‑20%). Die Varianz ist gering, was auf ein starkes Muster in den LLM‑Ausgaben hinweist.",
+    "empfehlung": "Interpretation 5 liefert die tiefste textbasierte Analyse bei gleichzeitig niedriger Halluzinationsrate. Für zukünftige Bewertungen sollte man LLM‑Ausgaben ermutigen, mehr direkte Textbelege zu nutzen und spekulative kulturelle Kontextualisierungen zu reduzieren."
+  }
+}

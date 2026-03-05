@@ -1,0 +1,110 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen Angst, Unsicherheit und die Bedrohung durch das Unbekannte sind universell und können in verschiedenen Kontexten interpretiert werden.",
+          "Eine tiefere Bedeutungsebene des Songs könnte die Angst vor der eigenen dunklen Seite oder die Angst vor dem Verlust der Kontrolle sein.",
+          "Die symbolische Ordnung des Songs ist geprägt von einer klaren Trennung zwischen Licht und Dunkelheit, Gut und Böse.",
+          "Die Ambiguität und Spannung im Song entstehen durch die Frage, ob die Bedrohung real ist oder nur eine Einbildung."
+        ],
+        "positive_aspekte": [
+          "Alle Analyse‑Punkte lassen sich klar aus dem Text ableiten (Metaphern, Symbolik, Wiederholungen).",
+          "Wenig bis keine spekulativen Aussagen, daher sehr faktentreu."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen Angst, Unsicherheit und die Bedrohung durch das Unbekannte sind universell und können in verschiedenen Kontexten interpretiert werden.",
+          "Eine tiefere Bedeutungsebene des Songs könnte die Angst vor der eigenen dunklen Seite oder die Angst vor dem Verlust der Kontrolle sein.",
+          "Die symbolische Ordnung des Songs ist geprägt von einer klaren Trennung zwischen Licht und Dunkelheit, Gut und Böse.",
+          "Die Ambiguität und Spannung im Song entstehen durch die Frage, ob die Bedrohung real ist oder nur eine Einbildung."
+        ],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Interpretation ohne unbelegte Fakten.",
+          "Gute Balance zwischen konkreten Textbezügen und offenen, mehrdeutigen Lesarten."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2006 veröffentlicht, einer Zeit, in der die globale Sicherheitslage angespannt war und die Angst vor Terrorismus und Gewalt in vielen Ländern präsent war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs kann auch eine Rolle bei der Interpretation spielen.",
+          "Insgesamt zeigt der Song eine komplexe und vielschichtige Bedeutung, die verschiedene Deutungen zulässt.",
+          "Die Ambiguität und die Spannung zwischen Licht und Dunkelheit, Ordnung und Chaos, werden im Song durch die Verwendung von Metaphern und Symbolen aufrechterhalten."
+        ],
+        "positive_aspekte": [
+          "Enthält einige konkrete Textanalysen (Metaphern, Symbolik, Wiederholungen).",
+          "Versucht, den historischen Kontext zu verknüpfen, was bei korrekter Evidenz wertvoll wäre."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2006 veröffentlicht, einer Zeit, in der die globale Sicherheitslage angespannt war und die Angst vor Terrorismus und Gewalt in vielen Ländern präsent war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen Angst, Unsicherheit und die Bedrohung durch das Unbekannte sind universell und können in verschiedenen Kontexten interpretiert werden.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Wirkung und eine tiefe Bedeutungsebene, die über die Oberfläche hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge und klare Identifikation von Stilmitteln.",
+          "Ergänzt den historischen Kontext, was bei korrekter Untermauerung die Interpretation vertiefen kann."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen Angst, Unsicherheit und die Bedrohung durch das Unbekannte sind universell und können in verschiedenen Kontexten interpretiert werden.",
+          "Eine tiefere Bedeutungsebene des Songs könnte die Angst vor der eigenen dunklen Seite oder die Angst vor dem Verlust der Kontrolle sein.",
+          "Die symbolische Ordnung des Songs ist geprägt von einer klaren Trennung zwischen Licht und Dunkelheit, Gut und Böse.",
+          "Die Ambiguität und Spannung im Song entstehen durch die Frage, ob die Bedrohung real ist oder nur eine Einbildung."
+        ],
+        "positive_aspekte": [
+          "Vollständig textbasierte Analyse, keine spekulativen Fakten.",
+          "Starke Fokussierung auf wiederkehrende Motive und deren mögliche Bedeutungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im zusätzlichen (teils erfundenen) historischen Kontext. Die meisten Aussagen sind textbasiert, jedoch führen die spekulativen Kontextualisierungen zu höheren Halluzinationsraten.",
+    "empfehlung": "Eine Interpretation, die strikt beim Text bleibt und gleichzeitig differenzierte, aber belegbare Analysen liefert (z. B. Interpretation 1, 3 oder 4), ist am ausgewogensten. Zukunftige Modelle sollten darauf achten, spekulative historische oder biografische Details nur dann einzubringen, wenn sie durch den Text oder verlässliche Quellen gestützt werden."
+  }
+}

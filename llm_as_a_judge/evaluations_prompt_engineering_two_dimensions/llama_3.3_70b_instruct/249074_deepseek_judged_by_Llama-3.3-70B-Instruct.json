@@ -1,0 +1,99 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rolle der Frau in den 1950er Jahren war noch stark traditionell geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint komplexer zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rolle der Frau in den 1950er Jahren war noch stark traditionell geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint komplexer zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung einer Frau, die tanzt und unabhängig ist, kann als subversiv interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist vor allem von einer gewissen Melancholie und Sehnsucht geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Freiheit und Häuslichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung einer Frau, die tanzt und unabhängig ist, kann als subversiv interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist vor allem von einer gewissen Melancholie und Sehnsucht geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Freiheit und Häuslichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung einer Frau, die tanzt und unabhängig ist, kann als subversiv interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist vor allem von einer gewissen Melancholie und Sehnsucht geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Freiheit und Häuslichkeit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine höhere Konsistenz in Bezug auf die Analyse der Spannung zwischen Freiheit und Häuslichkeit",
+    "empfehlung": "Die Interpretationen 3, 4 und 5 bieten eine bessere Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

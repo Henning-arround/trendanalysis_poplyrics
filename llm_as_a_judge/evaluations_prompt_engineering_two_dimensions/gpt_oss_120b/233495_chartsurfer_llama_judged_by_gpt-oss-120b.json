@@ -1,0 +1,122 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Symbolen wie dem \"Elevator\", der \"down and down\" fährt, deutet auf eine Art von Verfall oder Hingabe hin, die mit der Liebe verbunden ist.",
+          "Die 1960er Jahre waren eine Zeit der sozialen und kulturellen Veränderungen, und die Darstellung der Liebe als eine Art \"alte schwarze Magie\" könnte als eine Art Rebellion gegen die traditionellen Werte und Normen gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die narrative Struktur des Songs, die den Sänger in einen Zustand der Hingabe und Verzückung versetzt, unterstreicht die emotionale Wirkung der Liebe.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls wichtig für die Interpretation.",
+          "Diese tiefere Bedeutungsebene des Songs liegt vielleicht in der Darstellung der Liebe als einer Kraft, die über die Kontrolle des Individuums hinausgeht und es in einen Zustand der Hingabe und Verzückung versetzt."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (Metaphern, \"icy fingers\", \"spell\", \"fate\") werden korrekt wiedergegeben.",
+          "Es wird versucht, symbolische Elemente (Elevator) zu interpretieren, was über reine Wiederholung hinausgeht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Symbolen wie dem \"Elevator\", der \"down and down\" fährt, deutet auf eine Art von Verfall oder Hingabe hin, die mit der Liebe verbunden ist.",
+          "Die narrative Struktur des Songs, die den Sänger in einen Zustand der Hingabe und Verzückung versetzt, unterstreicht die kulturelle und historische Bedeutung der Liebe als eine Art von transzendenter Erfahrung.",
+          "Der Song spiegelt diese Veränderungen wider, indem er die Liebe als eine Art von Befreiung und Selbstentdeckung darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die kulturelle und historische Bedeutung des Songs kann im Kontext der 1960er Jahre gesehen werden, einer Zeit, in der die Liebe und die Beziehungen zwischen Männern und Frauen sich wandelten.",
+          "Die tieferen Bedeutungsebenen und symbolischen Ordnungen des Songs bleiben jedoch ambivalent und offen für Interpretation, was den Song zu einem faszinierenden Beispiel für die Komplexität und Vielschichtigkeit der Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Wiederum werden zentrale Textstellen korrekt zitiert und analysiert.",
+          "Es wird ein historischer Kontext genannt, der zumindest thematisch zum Text passt."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Symbolen wie dem \"Elevator\", der \"down and down\" fährt, deutet auf eine Art von Verfall oder Hingabe hin, die mit der Liebe verbunden ist.",
+          "Die narrative Struktur des Songs, die den Sänger in einen Zustand der Hingabe und Verzückung versetzt, unterstreicht die kulturelle und historische Bedeutung der Liebe als eine Art von transzendenter Erfahrung.",
+          "Der Song spiegelt diese Veränderungen wider, indem er die Liebe als eine Art von Befreiung und Selbstentdeckung darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die kulturelle und historische Bedeutung des Songs kann im Kontext der 1960er Jahre gesehen werden, einer Zeit, in der die Liebe und die Beziehungen zwischen Männern und Frauen sich wandelten.",
+          "Die tieferen Bedeutungsebenen und symbolischen Ordnungen des Songs bleiben jedoch ambivalent und offen für Interpretation, was den Song zu einem faszinierenden Beispiel für die Komplexität und Vielschichtigkeit der Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Identische Stärken wie bei Interpretation 2 – solide Textbezüge, Versuch einer historischen Einordnung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Symbolen wie dem \"Elevator\", der \"down and down\" fährt, deutet auf eine Art von Verfall oder Hingabe hin, die mit der Liebe verbunden ist.",
+          "Die narrative Struktur des Songs, die den Sänger in einen Zustand der Hingabe und Verzückung versetzt, unterstreicht die kulturelle und historische Bedeutung der Liebe als eine Art von transzendenter Erfahrung.",
+          "Der Song spiegelt diese Veränderungen wider, indem er die Liebe als eine Art von Befreiung und Selbstentdeckung darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die kulturelle und historische Bedeutung des Songs kann im Kontext der 1960er Jahre gesehen werden, einer Zeit, in der die Liebe und die Beziehungen zwischen Männern und Frauen sich wandelten.",
+          "Die tieferen Bedeutungsebenen und symbolischen Ordnungen des Songs bleiben jedoch ambivalent und offen für Interpretation, was den Song zu einem faszinierenden Beispiel für die Komplexität und Vielschichtigkeit der Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Wie bei den vorherigen Versionen: korrekte Zitierung zentraler Zeilen, Ansatz einer Kontextualisierung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Symbolen wie dem \"Elevator\", der \"down and down\" fährt, deutet auf eine Art von Verfall oder Hingabe hin, die mit der Liebe verbunden ist.",
+          "Die 1960er Jahre waren eine Zeit der sozialen und kulturellen Veränderungen, und die Darstellung der Liebe als eine Art \"alte schwarze Magie\" könnte als eine Art Rebellion gegen die traditionellen Werte und Normen gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die narrative Struktur des Songs, die den Sänger in einen Zustand der Hingabe und Verzückung versetzt, unterstreicht die emotionale Wirkung der Liebe.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls wichtig für die Interpretation.",
+          "Diese Ambiguitäten und Spannungen im Songtext lassen darauf schließen, dass die Liebe als eine komplexe und perhaps unkontrollierbare Kraft verstanden wird."
+        ],
+        "positive_aspekte": [
+          "Klare Bezugnahme auf die Bildsprache des Textes (\"icy fingers\", \"spell\", \"fate\").",
+          "Versucht, die Ambivalenz des Textes zu betonen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind in Struktur und Inhalt stark homogen; die Varianz ist gering, was auf ein hohes Maß an Wiederholung, aber wenig kreative Differenzierung hinweist.",
+    "empfehlung": "Die Modelle liefern konsistent moderate Qualität: sie erfassen die offensichtlichen Bildungen des Textes, neigen jedoch zu vagen oder spekulativen Aussagen ohne Textbeleg. Für eine bessere Bewertung sollte das Modell stärker zwischen belegten Textinterpretationen und spekulativen Kontextualisierungen unterscheiden und Oberflächlichkeit reduzieren."
+  }
+}

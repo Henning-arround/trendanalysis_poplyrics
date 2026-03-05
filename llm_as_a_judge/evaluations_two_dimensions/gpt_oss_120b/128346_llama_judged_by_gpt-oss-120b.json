@@ -1,0 +1,100 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile \"I had this thing to call my own\" unterstreicht die Sehnsucht nach etwas, das ihm einst gehörte und was er nun verloren hat.",
+          "Der Song endet mit einer fast hypnotischen Wiederholung der Zeile \"I never meant to let you go\", die die Intensität seiner Emotionen und die Unfähigkeit, loszulassen, noch einmal unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Fünf von sieben Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. Verlust, Schuld, Unwissenheit über das eigene Fehlverhalten, Wunsch nach einem sicheren Ort, Bitte um zweite Chance).",
+          "Keine erfundenen Fakten oder biografischen Details, daher Halluzinations‑Score maximal.",
+          "Die Analyse bleibt textnah und liefert konkrete Bezüge, was zu einem hohen Tiefen‑Score führt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile \"I had this thing to call my own\" unterstreicht die Sehnsucht nach etwas, das ihm einst gehörte und was er nun verloren hat.",
+          "Der Song endet mit einer fast hypnotischen Wiederholung der Zeile \"I never meant to let you go\", die die Intensität seiner Emotionen und die Unfähigkeit, loszulassen, noch einmal unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Alle inhaltlichen Behauptungen basieren auf Textpassagen (z. B. \"I don't know just what I've done\", \"I'd give it all for a second chance\").",
+          "Keine spekulativen biografischen oder stilistischen Angaben, daher perfekte Faktentreue."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile \"I had this thing to call my own\" unterstreicht die Sehnsucht nach etwas, das ihm einst gehörte und was er nun verloren hat.",
+          "Der Song endet mit einer fast hypnotischen Wiederholung der Zeile \"I never meant to let you go\", die die Intensität seiner Emotionen und die Unfähigkeit, loszulassen, noch einmal unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung: fünf klare, belegbare Aussagen zu Verlust, Schuld, Unwissenheit und dem Wunsch nach einer zweiten Chance.",
+          "Keine erfundenen Kontextualisierungen (z. B. keine Genre‑ oder Historienangaben)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile \"I had this thing to call my own\" unterstreicht die Sehnsucht nach etwas, das ihm einst gehörte und was er nun verloren hat.",
+          "Der Song endet mit einer fast hypnotischen Wiederholung der Zeile \"I never meant to let you go\", die die Intensität seiner Emotionen und die Unfähigkeit, loszulassen, noch einmal unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Alle Kernaussagen lassen sich eindeutig aus den Lyrics ableiten (z. B. Schuldgefühle, Verlust, Wunsch nach einem sicheren Ort).",
+          "Keine spekulativen biografischen oder stilistischen Details, was den Halluzinations‑Score maximiert."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile \"I had this thing to call my own\" unterstreicht die Sehnsucht nach etwas, das ihm einst gehörte und was er nun verloren hat.",
+          "Der Song endet mit einer fast hypnotischen Wiederholung der Zeile \"I never meant to let you go\", die die Intensität seiner Emotionen und die Unfähigkeit, loszulassen, noch einmal unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Fünf von sieben Aussagen sind klar textbasiert und belegen Verlust, Schuld, Unwissenheit und den Wunsch nach einer zweiten Chance.",
+          "Keine erfundenen Fakten, daher Halluzinations‑Score 5."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich identisch, wodurch die Varianz praktisch null ist. Die Bewertung ist damit sehr konsistent.",
+    "empfehlung": "Die vorliegenden Analysen sind faktentreu und relativ tiefgehend. Für zukünftige Aufgaben sollte darauf geachtet werden, die oberflächlichen Kommentare zu Wiederholungen zu reduzieren oder stärker mit Textbelegen zu untermauern, um den Tiefen‑Score weiter zu erhöhen."
+  }
+}

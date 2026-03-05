@@ -1,0 +1,89 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine positive, lebensbejahende Kraft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und analysiert die Metapher 'Love is like the sun'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine positive, lebensbejahende Kraft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und analysiert die Metapher 'Love is like the sun'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine positive, lebensbejahende Kraft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und analysiert die Metapher 'Love is like the sun'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine positive, lebensbejahende Kraft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und analysiert die Metapher 'Love is like the sun'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine positive, lebensbejahende Kraft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und analysiert die Metapher 'Love is like the sun'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und zeigen keine großen Unterschiede",
+    "empfehlung": "Die Interpretationen sind textgetreu, aber könnten durch eine tiefere Analyse der Metaphern und Symboliken verbessert werden"
+  }
+}

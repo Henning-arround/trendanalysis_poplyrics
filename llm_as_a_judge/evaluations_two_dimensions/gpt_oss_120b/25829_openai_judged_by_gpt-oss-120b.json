@@ -1,0 +1,125 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt auf den ersten Blick wie ein resigniertes Mantra, das jedoch unter einer scheinbaren Oberflächlichkeit ein tiefes Spannungsfeld … offenbart.",
+          "Die wiederholte Zeile „Es geht mir gut“ fungiert dabei als ironischer Selbstversuch …",
+          "Die Zeile „Schreib mir mal ’ne Karte, wenn Du da drüben bist“ suggeriert ein Gespräch mit einer nicht mehr greifbaren Gegenwart …",
+          "Die wiederholten Verweise auf Popkultur‑Ikonen … wirken wie surreale Anker …",
+          "Diese Leere wird durch das Bild des „über’s Wasser gehens“ zu einer fast mythischen Selbstüberschätzung verknüpft …",
+          "Der Song bleibt damit in einem Zustand zwischen passiver Akzeptanz und stiller Rebellion …"
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textzeilen (z. B. „Es geht mir gut“, „Schreib mir mal ’ne Karte …“, „Keine Ahnung, keine Meinung, kein Konzept“).",
+          "Erkennt und erklärt die Gegenüberstellung von Pop‑Kultur‑Referenzen und den resignierten Zeilen.",
+          "Zeigt ein gutes Gespür für die Ambivalenz zwischen Fassade und innerer Leere."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt auf den ersten Blick wie ein ironischer Selbstversuch, das Wohlbefinden zu proklamieren …",
+          "Die wiederholte Phrase „Es geht mir gut“ fungiert dabei als sarkastischer Mantra …",
+          "In den ersten Zeilen wird ein Aufruf zur Gelassenheit … mit einer resignierten Akzeptanz des Alterns … verknüpft …",
+          "Die Bitte um eine Karte aus einer fernen Welt … suggeriert ein Verlangen nach Distanz und Flucht …",
+          "Die wiederholte Zeile … verdeutlicht eine lähmende Apathie, die durch popkulturelle Referenzen … kontrastiert wird …",
+          "Der Song bleibt damit ein Spiegelbild einer Generation …"
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig aus dem vorliegenden Text ableiten, ohne spekulative Biografien oder externe Kontexte.",
+          "Die Analyse ist konsistent und wiederholt keine widersprüchlichen Interpretationen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt auf den ersten Blick wie ein resigniertes Mantra, das jedoch unter einer scheinbaren Oberflächlichkeit ein tiefes Spannungsfeld … offenbart.",
+          "Die wiederholte Zeile „Es geht mir gut“ fungiert dabei als ironischer Selbstschutz …",
+          "Die Zeilen … suggerieren ein flüchtiges Festhalten an Illusionen von Jugend und Kontinuität …",
+          "Die Referenzen zu Popkultur‑Ikonen … wirken wie verzerrte Ankerpunkte …",
+          "Die Zeile … spielt mit dem Bild des vergänglichen Ruhms …",
+          "Die wiederholte Aussage … verdeutlicht eine lähmende Apathie …",
+          "Das Aufrufen einer Karte aus einer fernen Welt … ist ein Hinweis auf Entfremdung …",
+          "Insgesamt zeichnet der Text ein Bild von jemandem, der sich hinter einer hohlen Floskel versteckt …"
+        ],
+        "positive_aspekte": [
+          "Systematischer Durchlauf aller Textpassagen (Wiederholungen, Pop‑Referenzen, Bildsprache).",
+          "Keine unbelegten biografischen oder historischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt auf den ersten Blick wie ein resigniertes Mantra, das jedoch unter einer Schicht aus ironischer Selbstironie und gesellschaftlicher Kritik verborgen liegt.",
+          "Die wiederholte Aussage „Es geht mir gut“ fungiert dabei weniger als beruhigende Selbstbestätigung …",
+          "Zeilen wie … suggerieren ein endloses Aufschieben von Verantwortung …",
+          "Die Referenzen zu Ginger Rogers, Fred Astaire und Michael Jackson verweisen auf ikonische Popkulturen …",
+          "Das Bild, über das Wasser zu gehen, ist ein klassisches Symbol …",
+          "Die Zeile „und ob man als Leiche von goldnen Tellern isst“ spielt auf die Verlockung von Reichtum und Ruhm an …",
+          "Das wiederholte Bitten um eine Karte aus der Ferne verdeutlicht das Verlangen nach Verbindung …",
+          "Insgesamt zeichnet Westernhagen ein Bild von innerer Leere …"
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogen, ohne externe Fakten zu erfinden.",
+          "Erkennt wiederkehrende Motive (Wiederholung, Pop‑Referenzen, Wasser‑Metapher)."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt auf den ersten Blick wie ein resigniertes Mantra, das jedoch unter einer Schicht aus ironischer Leichtigkeit …",
+          "Die wiederholte Aussage „Es geht mir gut“ fungiert dabei als ein verzweifeltes Mantra …",
+          "Die Zeilen … und das Bild einer „Leiche von goldnen Tellern“ deuten auf ein Gefühl von verpassten Chancen …",
+          "Die wiederholte Aufzählung popkultureller Referenzen … wirkt wie ein Collage‑Stichwort …",
+          "Die Zeile „Keine Ahnung, keine Meinung, kein Konzept“ verdeutlicht eine innere Lähmung …",
+          "Der Aufruf, eine Karte zu schreiben … klingt nach einem verzweifelten Versuch …",
+          "Insgesamt schildert Westernhagen ein Bild von jemandem, der sich hinter einer Fassade aus scheinbarer Zufriedenheit versteckt …"
+        ],
+        "positive_aspekte": [
+          "Verknüpft einzelne Textzeilen mit konkreten Bedeutungsansätzen (z. B. „Leiche von goldnen Tellern“ → Materialismus).",
+          "Erkennt die Spannung zwischen Selbst‑Mantra und existenzieller Leere."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben eng am Text, wiederholen ähnliche Kernthesen (Mantra, Pop‑Referenzen, Wasser‑Metapher). Die Varianz liegt hauptsächlich im Detailgrad der Analyse.",
+    "empfehlung": "Interpretationen 3 und 4 bieten die tiefste textbezogene Analyse, wobei Interpretation 3 besonders gut einzelne Bildungen des Textes verknüpft. Für zukünftige Bewertungen sollte man darauf achten, dass tiefere Analysen konkrete Textbelege nutzen, ohne in vage Allgemeinplätze abzurutschen."
+  }
+}

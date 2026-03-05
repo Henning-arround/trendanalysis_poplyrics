@@ -1,0 +1,116 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... muss im kulturellen, historischen und gesellschaftlichen Kontext der 1990er Jahre betrachtet werden, in dem die Themen Beziehungen, Konflikte und emotionale Verwirrung in der Popkultur stark präsent waren.",
+          "Diese Zeilen zeigen, dass die Protagonisten sich der Probleme ... bewusst sind, aber gleichzeitig nach Wegen suchen, sie zu ignorieren oder zu verdrängen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene ... liegt in der Darstellung der Ambiguitäten und Widersprüche ...",
+          "Dies unterstreicht die Komplexität und die Vielschichtigkeit von Beziehungen, die im Song thematisiert werden."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Aussagen lassen sich klar aus dem Songtext ableiten (z. B. die Analyse von Metaphern, Wiederholungen und der emotionalen Wirkung).",
+          "Die Interpretation bleibt insgesamt textnah und vermeidet übermäßige Spekulation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist auch im kulturellen, historischen und gesellschaftlichen Kontext des späten 20. Jahrhunderts zu sehen, in dem die traditionellen Rollenbilder in Beziehungen in Frage gestellt wurden.",
+          "Die Textzeilen ... können als Hinweis auf die patriarchalischen Strukturen ... interpretiert werden, die jedoch durch ... relativiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei.",
+          "Diese Ambiguität und der Widerspruch ... machen den Song ... zu einem komplexen und vielschichtigen Werk, das tiefere Bedeutungsebenen und symbolische Ordnungen aufweist."
+        ],
+        "positive_aspekte": [
+          "Gute Detailtiefe bei der Analyse einzelner Textstellen (Metaphern, Wiederholungen, emotionale Wirkung).",
+          "Erkennt die Mehrdeutigkeit des Textes und weist auf mögliche gesellschaftliche Implikationen hin."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... muss im kulturellen, historischen und gesellschaftlichen Kontext der 1990er Jahre betrachtet werden, in dem die Themen Beziehungen, Konflikte und emotionale Verwirrung in der Popkultur prominent waren.",
+          "Diese Zeilen zeigen, dass die Beziehung von einer Mischung aus Abhängigkeit, Verletzlichkeit und Verteidigungsmechanismen geprägt ist, die die Komplexität und die Spannungen in der Beziehung verdeutlichen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene ... liegt in der Darstellung der Ambiguitäten und Widersprüche ..."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf weitere Textzeilen („I know, but I still …“, „So go on, wreck me“) und verknüpft sie mit einer inhaltlichen Deutung.",
+          "Erkennt die Ambivalenz zwischen Wunsch nach Harmonie und innerer Unsicherheit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... muss im kulturellen, historischen und gesellschaftlichen Kontext der 1990er Jahre betrachtet werden, in dem die Themen Beziehungen, Konflikte und emotionale Verwirrung in der Popkultur stark präsent waren.",
+          "Diese Zeilen zeigen, dass die Protagonisten sich der Probleme ... bewusst sind, aber gleichzeitig nach Wegen suchen, sie zu ignorieren oder zu verdrängen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene ... liegt in der Darstellung der Ambiguitäten und Widersprüche ...",
+          "Dies unterstreicht die Komplexität und die Vielschichtigkeit von Beziehungen, die im Song thematisiert werden."
+        ],
+        "positive_aspekte": [
+          "Klare Strukturierung der Analyse (Botschaft, Stilmittel, Kontext).",
+          "Verknüpft Textstellen mit einer übergeordneten Aussage über Unsicherheit und Verwirrung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... muss im kulturellen, historischen und gesellschaftlichen Kontext der 1990er Jahre betrachtet werden, in dem die Themen Beziehungen, Konflikte und emotionale Verwirrung in der Popkultur prominent waren.",
+          "Diese Zeilen zeigen, dass die Beziehung von einer Mischung aus Abhängigkeit, Verletzlichkeit und Verteidigungsmechanismen geprägt ist, die die Komplexität und die Spannungen in der Beziehung verdeutlichen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene ... liegt in der Darstellung der Ambiguitäten und Widersprüche ..."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die konkreten Zeilen „I know, but I still …“ und „So go on, wreck me“.",
+          "Betont die Ambivalenz zwischen Abhängigkeit und Selbstbehauptung, was gut im Text verankert ist."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen folgen nahezu identischem Muster; die Varianz ist gering. Kleine Unterschiede in den Kontext‑ und Detailangaben führen zu leicht unterschiedlichen Halluzinations‑ und Tiefen‑Scores, aber insgesamt bleibt die Qualität homogen.",
+    "empfehlung": "Ein Ansatz, der die Textanalyse mit konkreten Zeilen verbindet und gleichzeitig spekulative Kontextualisierungen minimiert, liefert die ausgewogenste Interpretation. Interpretation 4 erreicht dies am besten, weil sie die wenigsten unbelegten Aussagen enthält, während sie dennoch die Mehrdeutigkeit des Songs hervorhebt."
+  }
+}

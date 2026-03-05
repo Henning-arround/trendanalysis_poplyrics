@@ -1,0 +1,139 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 2000‑er‑Britpop‑Rock, in dem Lostprophets aktiv waren, spiegelt das Lied die post‑moderne Angst vor Entfremdung in einer zunehmend vernetzten, aber emotional distanzierten Gesellschaft wider.",
+          "Die nächtliche Stunde wird dabei zum Ort der „authentischen“ Selbsterfahrung, während das Fehlen einer konkreten Adresse („you never know“) die Unsicherheit moderner Beziehungen thematisiert.",
+          "Die wiederholte Unschärfe zwischen „friend“ und „lover“, zwischen „pretend“ und „real“, lässt den Hörer in einem Zustand der interpretativen Offenheit zurück, ohne dass das lyrische Ich seine Position eindeutig festlegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Motiv des Verlusts als ein zeitlich entgrenztes, fast metaphysisches Ereignis.",
+          "Die zentrale Botschaft – das Unvermögen, den Freund zu erreichen und gleichzeitig das Festhalten an einer nie endenden Trauer – wird durch die Gegenüberstellung von ... ausgedrückt.",
+          "Stilistisch nutzt der Text wiederholte Metaphern des Entgleisens … und des Festhaltens … die ein Spannungsfeld zwischen Passivität und dem Wunsch nach Kontrolle erzeugen.",
+          "Das Bild des Sonnenaufgangs … kontrastiert mit der nächtlichen Stille, was die Ambivalenz zwischen Hoffnung auf Erneuerung und dem Wunsch nach Dauerhaftigkeit des Schmerzes offenlegt.",
+          "Die narrative Struktur bleibt fragmentarisch: Es gibt keinen klaren Anfang oder Abschluss, sondern ein zyklisches Wiederholen von Fragen und Abschieden, das die Unauflöslichkeit des Konflikts betont."
+        ],
+        "positive_aspekte": [
+          "Gute Textbelege für die wiederholten Metaphern (z. B. „slip away“, „Hold a little tighter“).",
+          "Erkennt die fragmentarische, zyklische Struktur des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext von 2006, einer Phase intensiver Digitalisierung und vernetzter Jugendkulturen, reflektiert das Lied die Angst vor Entfremdung trotz technischer Erreichbarkeit.",
+          "Die nächtliche Szenerie erinnert an das post‑9/11‑Gefühl der Unsicherheit.",
+          "Die wiederholte Bitte um „hold a little tighter“ drückt eine Sehnsucht nach physischer Nähe in einer zunehmend virtuellen Welt aus."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Motiv des Verlusts und der nächtlichen Verzweiflung, wobei die zentrale Botschaft … als Symbol für einen festgefahrenen, traumähnlichen Zustand fungiert.",
+          "Die wiederholte Frage erzeugt ein Spannungsfeld zwischen dem Wunsch nach Kommunikation und der Erfahrung von Ignoranz.",
+          "Die Uhrzeit 4 Uhr morgens steht für die Schwelle zwischen Nacht und Tag, ein Moment der Unsicherheit.",
+          "Das Bild des nie aufkommenden Sonnenaufgangs invertiert das übliche Symbol für Hoffnung.",
+          "Das wiederholte „slip away“ fungiert als Bild für das Entgleiten von Beziehungen und Worten zugleich.",
+          "Die Wiederholungen erzeugen eine narrative Schleife, die Ambiguitäten betont.",
+          "Der Text lässt bewusst offen, ob das Abschiednehmen endgültig ist, wodurch ein Widerspruch entsteht."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche direkte Zitate aus dem Songtext (z. B. „Yesterday I lost my closest friend“, „All these words that I could never say“).",
+          "Erkennt die wiederholende Struktur („4 AM forever“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 2000‑er‑Britpop‑Rock, das häufig persönliche Krise in nächtliche Metaphern kleidete, reflektiert das Stück die post‑moderne Angst vor permanenter Entfremdung in einer digital vernetzten, aber emotional fragmentierten Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Motiv des Verlusts als ein zeitlich entgrenztes, fast übernatürliches Ereignis.",
+          "Die wiederholte Verankerung der Uhrzeit schafft einen symbolischen Raum, in dem das „Gestern“ und das „Für‑immer‑Jetzt“ kollidieren.",
+          "Diese Spannung zwischen Vergangenheit und einer endlosen Gegenwart eröffnet eine mehrschichtige Botschaft.",
+          "Die Ambivalenz des „Vielleicht“ lässt das Ende offen und erzeugt ein dialektisches Spiel von Hoffnung und Resignation.",
+          "Das Bild des Sonnenaufgangs fungiert als Symbol für das unvermeidliche Eindringen der Realität in die nächtliche Traumwelt, während das wiederholte „Goodbye“ sowohl Abschied als auch ein unfertiges „Vielleicht“ impliziert.",
+          "Die Wiederholung von „Hold a little tighter“ erzeugt ein paradoxes Verlangen nach Nähe, das gleichzeitig als Forderung und als resignierte Akzeptanz erscheint.",
+          "Die nächtliche Stunde wird zum Ort der „Silent Communication“, wo das Unausgesprochene zugleich Macht und Ohnmacht birgt.",
+          "Die offenen Fragen – ob das „4 AM“ tatsächlich ein endloser Zustand ist oder nur ein subjektives Zeitgefühl – bleiben bewusst ungelöst."
+        ],
+        "positive_aspekte": [
+          "Sehr viele direkte Textbelege (z. B. Zeilenangaben zu „4 AM forever“, „Yesterday I lost my closest friend“, „I wanted time to end“, „I wonder if my heart will ever mend“).",
+          "Detaillierte Analyse von wiederkehrenden Metaphern („slip away“, „Hold a little tighter“, „Goodbye“).",
+          "Erkennt die strukturelle Wiederholung und deren Bedeutung für die thematische Ambivalenz."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des mittleren 2000‑er‑Jahre spiegelt das Stück die post‑Britpop‑Ära wider, in der britische Rockbands vermehrt introspektive, melancholische Themen behandelten.",
+          "Die nächtliche Szenerie lässt sich als Metapher für das „late‑night“‑Internet‑Scrolling interpretieren, bei dem man „alone“ bleibt, obwohl Kommunikation technisch möglich ist.",
+          "Die wiederholte Bitte, „Hold a little tighter“, bleibt unbeantwortet, was die Spannung zwischen dem Wunsch nach Nähe und der strukturellen Unzugänglichkeit moderner Beziehungen betont."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Motiv des Verlusts und der nächtlichen Verzweiflung, wobei die zentrale Botschaft … als Symbol für einen festgefahrenen, traumähnlichen Zustand fungiert.",
+          "Die wiederholte Frage erzeugt ein Spannungsfeld zwischen dem Wunsch nach Kommunikation und der Erfahrung von Ignoranz.",
+          "Literarisch arbeitet der Text mit Metaphern und Symbolen: Die Uhrzeit 4 Uhr morgens steht für die Schwelle zwischen Nacht und Tag, ein Moment der Unsicherheit.",
+          "Das wiederholte „slip away“ suggeriert sowohl das Entgleiten von Personen als auch von unausgesprochenen Gefühlen.",
+          "Die Wiederholungen erzeugen ein narrativ offenes Ende, das Ambiguitäten über mögliche Versöhnung oder endgültige Trennung offenhält."
+        ],
+        "positive_aspekte": [
+          "Korrekte Zitierung von Songzeilen (z. B. „Yesterday I lost my closest friend“, „All these words that I could never say“).",
+          "Erkennt die wiederholende Struktur des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell ist das Stück 2006 in einer Phase des Indie‑Rock‑Durchbruchs zu verorten, in der Themen wie emotionale Entfremdung und nächtliche Selbstreflexion häufig in der Pop‑Musik thematisiert wurden.",
+          "Die nächtliche Stunde kann als Hinweis auf digitale Kommunikationskulturen verstanden werden, in denen „calling out“ und „listening“ über Medien stattfinden, jedoch hier scheitern."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine zentrale Botschaft von Verlust und unerreichbarer Nähe, die sich in der wiederholten Referenz „4 AM forever“ als zeitlicher Fixpunkt manifestiert.",
+          "Der Sprecher schildert den Bruch einer Freundschaft und die Unfähigkeit, das Geschehene zu verarbeiten.",
+          "Gleichzeitig bleibt die Beziehung ambivalent … lässt Zweifel an der Authentizität beider Seiten aufkommen, während das wiederholte „Why don't you hear me …“ die einseitige Kommunikationsschwierigkeit betont.",
+          "Literarisch nutzt der Text Metaphern und Symbolik, um innere Zustände zu externalisieren.",
+          "Die Uhrzeit 4 Uhr morgens fungiert als Symbol für das „Zwischen‑“ – weder Tag noch Nacht, ein Moment der Verletzlichkeit, in dem „the sun would never come“ gewünscht wird, um das Leiden zu verlängern.",
+          "Das Bild des „slipping away“ wiederholt sich als Metapher für das Entgleiten von Worten und Gefühlen, während das wiederholte „Hold a little tighter“ als Gegenpol wirkt, jedoch ohne Auflösung, was die innere Spannung verstärkt.",
+          "Die Ambiguität zwischen Wunsch nach Nähe und dem unvermeidlichen Abschied bleibt offen, was den Song zu einem Spiegel innerer Konflikte macht, ohne eine klare Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Klare Nennung von Textstellen (z. B. „Yesterday I lost my closest friend“, „I wonder if my heart will ever mend“, „Maybe you thought that it was all pretend“).",
+          "Erkennt die Symbolik der Uhrzeit und des wiederholten Refrains."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen moderate Varianz: Halluzinations‑Scores liegen zwischen 2 und 4, Tiefe‑Scores zwischen 2 und 4. Die Interpretationen unterscheiden sich vor allem im Umfang spekulativer kultureller Kontextualisierungen.",
+    "empfehlung": "Interpretation 5 liefert die ausgewogenste Analyse: sie bleibt weitgehend texttreu, nutzt zahlreiche konkrete Textbelege und bietet eine tiefgehende, aber nachvollziehbare Metaphern‑ und Struktur‑Analyse, während erfundene Kontextualisierungen minimal bleiben."
+  }
+}

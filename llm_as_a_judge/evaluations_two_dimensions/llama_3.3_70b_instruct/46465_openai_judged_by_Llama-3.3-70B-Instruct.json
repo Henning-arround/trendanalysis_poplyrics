@@ -1,0 +1,99 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen suggerieren, dass jede Interaktion Potenzial für Freude birgt, gleichzeitig aber ein ständiges Streben nach dem Besseren impliziert"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wird zu einer ironischen Reflexion über die Oberflächlichkeit von Gefälligkeiten"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dynamik von Geben und Nehmen in zwischenmenschlichen Beziehungen ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Prinzip des wechselseitigen Ausgleichs in den Vordergrund rückt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert einen Zyklus aus Erwartung, Austausch und Vergessen"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Notwendigkeit von Kontinuität im Austausch ist ein wichtiger Aspekt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen suggerieren, dass jede Interaktion Potenzial für Freude birgt, gleichzeitig aber ein ständiges Streben nach dem Besseren impliziert"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied endet in einer spielerischen, fast kindlichen Tonlage"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zerbrechlichkeit von Verpflichtungen ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen suggerieren, dass jede Interaktion ein Potenzial für Freude birgt, gleichzeitig aber ein ständiges Streben nach dem nächsten, noch besseren Moment impliziert"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied klingt in einem fast kindlichen, aber zugleich schmerzhaften 'Ow ow ow' aus"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der fragile Balance zwischen Selbstaufopferung, Erwartung und dem unaufhörlichen Wunsch nach Bestätigung ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen suggerieren, dass jede Interaktion ein Potenzial für Freude birgt, gleichzeitig aber ein ständiges Streben nach dem nächsten, noch besseren Moment impliziert"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wird zu einer ironischen Reflexion über die Oberflächlichkeit von Gefälligkeiten"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zirkularität des Austauschs ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der Dynamik von Geben und Nehmen in zwischenmenschlichen Beziehungen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine hohe Konsistenz in Bezug auf die Analyse der Dynamik von Geben und Nehmen in zwischenmenschlichen Beziehungen"
+  }
+}

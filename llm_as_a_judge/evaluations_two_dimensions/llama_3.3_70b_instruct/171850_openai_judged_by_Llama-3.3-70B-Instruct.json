@@ -1,0 +1,99 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'flüchtigem Fluchtverhalten' ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Oberflächlichkeit der Musikindustrie'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegenüberstellung von 'good girls' und 'bad ones' als innere Zerrissenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unterstellung, dass Drake sich 'als Vorbild und Belastung' empfindet, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'Schnelllebigkeit der Hip-Hop-Kultur' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der Rolle des Mentors und der Erwartungen jüngerer Künstler"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'drinking like there's a message in a bottle' als 'Fluchtverhalten' ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Leere' hinter dem äußeren Glanz"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'shallow nigga but deep enough to have gone swimming'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unterstellung, dass Drake 'seine Herkunft ehren' will, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über das 'Streben nach Anerkennung' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der Beziehungen und des Verlusts echter Bindungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'thank me now' als 'Appell um sofortige Wertschätzung' ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'schnelle Konsumkultur'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'missing key' und der Suche nach Sinn"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber tendieren insgesamt zu einer ausgewogenen Analyse.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf textbasierten Analysen liegen, wobei Ambivalenzen und Mehrdeutigkeiten berücksichtigt werden sollten, um eine tiefergehende und konsistentere Interpretation zu erreichen."
+  }
+}

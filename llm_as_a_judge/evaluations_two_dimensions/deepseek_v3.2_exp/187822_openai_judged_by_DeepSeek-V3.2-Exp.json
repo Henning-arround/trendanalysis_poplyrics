@@ -1,0 +1,89 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert den schmerzlichen Prozess, das eigene Selbstbild zu hinterfragen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song schildert einen Prozess des Erwachens"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Machtverhältnisse in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -inhalte, insbesondere der wiederkehrenden Fragen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text offenbart ein inneres Ringen zwischen Erinnerung und Erkenntnis"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Selbstreflexion und des emotionalen Dilemmas"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Metapher des 'unter dem Zauber fallen'"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song schildert ein inneres Ringen zwischen Sehnsucht und bitterer Erkenntnis"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Diskrepanz zwischen eigenem Wunsch nach Nähe und offensichtlicher Distanz des Partners"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songtextes",
+    "empfehlung": "Die dritte Interpretation ist die beste, da sie eine sehr gute Analyse der Textstruktur und -inhalte liefert und gleichzeitig offen für Ambivalenzen in der Interpretation ist"
+  }
+}

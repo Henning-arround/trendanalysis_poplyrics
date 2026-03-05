@@ -1,0 +1,123 @@
+{
+  "song": "The Flat Foot Floogee - Louis Armstrong (1954)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein lebendiger und tanzbarer Jazz‑Song …",
+          "Der Text scheint auf den ersten Blick nicht viel Tiefe zu haben …",
+          "Der Refrain ist ein Aufruf zum Tanzen und zur Freude …",
+          "Der Song empfiehlt, wenn man Probleme hat, … die Welt zu ignorieren …",
+          "Der Songtext hat auch eine gewisse Art von Resignation und Fatalismus …",
+          "Insgesamt ist \"The Flat Foot Floogie\" ein unterhaltsamer und tanzbarer Song …",
+          "Durch seine einfache Melodie … wird der Song zu einem klassischen Beispiel für die Jazz‑Musik der 1950er Jahre."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Verwendung von Ausrufen … unterstreichen die sorglose und fröhliche Atmosphäre des Songs."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen sind klar formuliert und beziehen sich konsequent auf den vorliegenden Text, wenn auch spekulativ."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein lebendiger und tanzbarer Jazz‑Song …",
+          "Der Text scheint … eine Botschaft der Freude und des Sorgenv quênsens zu offenbaren.",
+          "Der Refrain ist ein Aufruf zum Tanzen und zur Freude …",
+          "Der Song empfiehlt, sich von den Problemen des Alltags zu lösen …",
+          "Die Zeile unterstreicht die therapeutische Wirkung von Musik und Tanz …",
+          "Insgesamt kann der Song als Aufforderung verstanden werden, Sorgen zu vergessen …",
+          "Der Song ist ein Ausdruck der jazzigen Lebensfreude …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Argumentationskette, die den gesamten Text durchzieht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein lebendiger und tanzbarer Jazz‑Song …",
+          "Der Text scheint … eine Botschaft der Freude und des Sorgenv quênsens zu offenbaren.",
+          "Der Refrain ist ein Aufruf zum Tanzen und zur Freude …",
+          "Der Song empfiehlt, wenn man Probleme hat, die Welt zu ignorieren …",
+          "Der Songtext hat eine spielerische und improvisatorische Qualität, die typisch für den Jazz ist.",
+          "Die Wiederholung von Phrasen … erzeugt eine Atmosphäre der Spontanität und des Moments.",
+          "Insgesamt kann der Song als Aufforderung verstanden werden, Sorgen zu vergessen …",
+          "Der Song ist ein Ausdruck der jazzigen Lebensphilosophie …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Struktur, jede Aussage baut auf der vorherigen auf."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein lebendiger und tanzbarer Jazz‑Song …",
+          "Der Text scheint … eine Botschaft der Freude und des Sorgenv quênsens zu offenbaren.",
+          "Der Refrain ist ein Aufruf zum Tanzen und zur Freude …",
+          "Der Song empfiehlt, sich von den Problemen des Alltags zu lösen …",
+          "Die Zeile unterstreicht die therapeutische Wirkung von Musik und Tanz …",
+          "Insgesamt kann der Song als Aufforderung verstanden werden, Sorgen zu vergessen …",
+          "Der Song ist ein Ausdruck der jazzigen Lebensfreude …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klarer roter Faden, keine redundanten Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein lebendiger und tanzbarer Jazz‑Song …",
+          "Der Text scheint … eine Botschaft der Freude und des Sorgenv quêngens zu offenbaren.",
+          "Der Refrain ist ein Aufruf zum Tanzen und zur Freude …",
+          "Die Lösung für chronische Sorgen ist laut dem Song, sich der Gruppe anzuschließen …",
+          "Der Song kann als Statement zur Freiheit und Spontaneität interpretiert werden.",
+          "Louis Armstrongs Stimme und sein Gesangstil … sowie seine Trompeter‑Solos …",
+          "Insgesamt ist der Song ein Aufruf, Sorgen zu vergessen …",
+          "Durch seine einprägsame Melodie wird der Song zu einem klassischen Beispiel für die jazzige Lebensfreude."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erweitert die Interpretation um stilistische Beobachtungen (auch wenn sie erfunden sind)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich kaum in Inhalt und Struktur; die Varianz ist daher sehr gering.",
+    "empfehlung": "Alle Modelle neigen zu stark erfundenen, aber konsistenten Interpretationen. Für eine ausgewogenere Bewertung sollte das Modell stärker darauf achten, Aussagen nur zu machen, wenn sie klar aus dem Text ableitbar sind, und vage Allgemeinplätze zu vermeiden."
+  }
+}

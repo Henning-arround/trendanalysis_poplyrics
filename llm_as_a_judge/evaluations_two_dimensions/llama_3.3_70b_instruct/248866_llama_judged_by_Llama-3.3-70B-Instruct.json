@@ -1,0 +1,99 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung, dass die Nacht eine Zeit der Gefahr und des Schreckens ist, könnte auch metaphorisch für die inneren Ängste und Unsicherheiten des Protagonisten stehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre der Angst und des Unheimlichen"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textzeilen und die Betonung der hypnotischen Wirkung des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'tricking trolls' symbolisieren möglicherweise die dunklen Seiten der menschlichen Natur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre der Angst und des Unheils"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Metapher für die Ängste und Unsicherheiten des Lebens"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung des 'bell that tolls' und das 'Flash at the edge of my sight' suggerieren eine Art von Warnsignal oder Vorzeichen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vorstellung, dass die Nacht eine Zeit der Gefahr und des Schreckens ist"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textzeilen und die Betonung der hypnotischen Wirkung des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'tricking trolls' symbolisieren möglicherweise die dunklen Seiten der menschlichen Natur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre der Angst und des Unheils"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Metapher für die Ängste und Unsicherheiten des Lebens"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'tricking trolls' symbolisieren möglicherweise die dunklen Seiten der menschlichen Natur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre der Angst und des Unheils"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Metapher für die Ängste und Unsicherheiten des Lebens"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Analyse der Textzeilen und der Betonung der Atmosphäre der Angst und des Unheimlichen. Allerdings gibt es auch einige Wiederholungen und oberflächliche Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist wichtig, die Textzeilen detailliert zu analysieren und die metaphorischen Bedeutungen zu berücksichtigen, ohne in Spekulationen oder allgemeine Aussagen zu verfallen."
+  }
+}

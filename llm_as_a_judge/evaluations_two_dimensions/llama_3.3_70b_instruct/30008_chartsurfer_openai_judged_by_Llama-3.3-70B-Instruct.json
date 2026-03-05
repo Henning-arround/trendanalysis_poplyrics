@@ -1,0 +1,99 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kindliche Sehnsucht wird durch das wiederholte 'Look, Dick look, see pretty Jane' zu einem Mantra"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Geschichte zu einem tragischen Höhepunkt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kindlichen Verliebtheit und der unerwiderten Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Selbstkritik des Sängers offenbart und zugleich die Tragik seiner einseitigen Verliebtheit unterstreicht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Unfähigkeit des Erzählers, die Vergangenheit zu überwinden und loszulassen"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der unerwiderten Liebe und der Erinnerung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die frühe Verklärung wird durch das wiederholte 'Look, Dick look' verstärkt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe zu einer Art ritueller Geste"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kindlichen Verliebtheit und der unerwiderten Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrede an Dick fungiert als innerer Dialog"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Übergang von kindlicher Verliebtheit über unerfüllte Sehnsucht zu einem nachträglichen, aber friedlichen Abschied"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der unerwiderten Liebe und der Erinnerung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung 'Look, Dick, look' fungiert dabei als ein ironischer Appell"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Unveränderlichkeit des Schicksals betont"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kindlichen Verliebtheit und der unerwiderten Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Analyse der unerwiderten Liebe und der Erinnerung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und Ambivalenzen"
+  }
+}

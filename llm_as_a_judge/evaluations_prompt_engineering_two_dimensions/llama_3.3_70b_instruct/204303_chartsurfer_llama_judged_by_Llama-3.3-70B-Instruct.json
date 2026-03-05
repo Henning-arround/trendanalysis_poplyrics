@@ -1,0 +1,99 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die frühen 1960er Jahre waren eine Zeit des gesellschaftlichen Umbruchs und der kulturellen Veränderung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie die Anrede 'Mr. C'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität der Figur 'Mr. C' und die Spannung zwischen der Sehnsucht nach Exklusivität und der Unmöglichkeit, eine solche Welt zu erreichen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der emotionalen Wirkung und affektiven Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die frühen 1960er Jahre waren eine Zeit des sozialen und kulturellen Wandels"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie die Anrede 'Mr. C'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität der Figur 'Mr. C' und die Spannung zwischen der Sehnsucht nach Exklusivität und der Unmöglichkeit, eine solche Welt zu erreichen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der emotionalen Wirkung und affektiven Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs könnte in der Suche nach Authentizität und persönlicher Verbindung in einer zunehmend kommerzialisierten und anonymen Welt liegen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie die Anrede 'Mr. C'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die Betonung der emotionalen Wirkung und affektiven Dimension des Songs.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate. Es ist ratsam, die Analyse der literarischen Stilmittel und die Betonung der emotionalen Wirkung und affektiven Dimension des Songs zu vertiefen."
+  }
+}

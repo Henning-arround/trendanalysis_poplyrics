@@ -1,0 +1,113 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Kulturell verortet sich das Werk im Deutschland der 1980er, einer Zeit des Wiederaufbruchs nach der Nachkriegs‑ und Teilungsgeschichte…“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Die zentrale Botschaft bleibt offen – ist es ein Kommentar zur Vergänglichkeit von Glamour, ein Spiel mit Konsum‑Wünschen oder ein Ausdruck von Identitätskrise?“",
+          "„Die Ambiguität des „Knochen‑Hauses“ bleibt ungelöst: … ein bewusst offener, mehrdeutiger Raum, der die affektive Wirkung zwischen Faszination und Unbehagen balanciert.“"
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Textbezüge (z. B. Kuckucksuhrengeschäft, Geflüster des Orients, Sonne trägt Jugendstilkleider).",
+          "Klare Analyse von Symbolik (Haus aus Knochen, Brief an den Spiegel).",
+          "Gute Balance zwischen konkreter Beobachtung und Offenlassen von Mehrdeutigkeiten."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Kulturell verortet sich das Werk im Kontext der deutschen Neuen Deutschen Welle, die häufig mit ironischen Wortspielen und postmodernen Collagen arbeitete.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Die zentrale Botschaft bleibt offen – ist es ein Aufruf zur Konstruktion einer Identität aus fremden, ikonischen Fragmenten, oder ein ironischer Kommentar zur Konsum‑ und Bildkultur der 80er‑Jahre?“",
+          "„Die Ambiguität des Briefes an den Spiegel … spiegelt damit die fragmentierte, widersprüchliche Moderne der 1980er‑Jahre wider.“"
+        ],
+        "positive_aspekte": [
+          "Umfangreiche Bildanalyse (Haferschiff, Stulle am Rhein, Jugendstilkleider).",
+          "Erkenntnisreiche Verknüpfung von lokalen (Rhein, Schwaben) und globalen (Cary Grant) Referenzen.",
+          "Stilistische Beobachtungen zu Wiederholungen und musikalischer Zirkularität."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Historisch lässt sich das Werk in das deutsche Neuen Deutschen Welle‑Milieu einordnen, das häufig mit ironischer Selbstreflexion und postmodernen Collagen arbeitete.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Die offene Form des Textes lässt mehrere Deutungen zu: ein Wunsch nach einem unsterblichen, aber zugleich sterblichen Zuhause, ein Spiel mit Nostalgie und Entfremdung, oder ein kritischer Kommentar zur Konstruktion von Heldenbildern.“",
+          "„Die anhaltenden Widersprüche … bleiben bewusst ungelöst und fordern den Hörer auf, die eigene Position … zu reflektieren.“"
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Aufschlüsselung der Metaphern (Geflüster des Orients, Sonne trägt Jugendstilkleider).",
+          "Klare Herausarbeitung der Spannung zwischen Alltag (Kuckucksuhrengeschäft) und surrealen Wunschvorstellungen.",
+          "Gute Erläuterung der Funktion des Refrains als hypnotisches Mantra."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Historisch lässt sich das Werk in das deutsche Neue Deutsche Welle‑Milieu der frühen 80er‑Jahre einordnen, das oft mit ironischer Distanz und postmodernen Collagen arbeitete.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Stilistisch dominieren fragmentarische Narrative und wiederholte Metaphern.“",
+          "„Die zentrale Botschaft bleibt offen, weil das „Haus“ gleichzeitig als Symbol für Sicherheit, Identität und als Zeichen von Zerfall (Knochen) fungiert, was die Ambivalenz zwischen Wunsch und Verfall betont.“"
+        ],
+        "positive_aspekte": [
+          "Präzise Textbezüge (z. B. „Geflüster des Orients“, „Sonne trägt Jugendstilkleider“).",
+          "Gute Analyse der Mehrschichtigkeit von Symbolen (Haus, Knochen, Cary Grant).",
+          "Ausgewogene Darstellung von Ambiguität ohne eindeutige Wertung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Historisch lässt sich das Werk in das deutsche Neue Deutsche Welle‑Milieu einordnen, das häufig mit ironischer Pop‑Kultur und postmodernen Referenzen spielte.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Die Ambiguität des Briefes an den Spiegel … bleibt jedoch ungelöst: Wer spricht, wer hört zu, und welche Funktion hat das „Haus“ im Spannungsfeld zwischen persönlicher Sehnsucht, gesellschaftlicher Kritik und ästhetischer Spielerei?“"
+        ],
+        "positive_aspekte": [
+          "Sehr gründliche Analyse der sprachlichen Bildhaftigkeit (z. B. „Sonne trägt Jugendstilkleider“, „verzehrt eine Stulle am Rhein“).",
+          "Erkenntnisvolle Diskussion von strukturellen „Fehlern“ im Text und deren Bedeutung für Sinn‑Unsinn‑Spannungen.",
+          "Klare Herausarbeitung der Symbolik von Cary Grant als kulturellem Fremdkörper."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein ähnliches Niveau: moderate Halluzination (ein einziger unbelegter Fakt pro Text) und solide Tiefe. Die Varianz ist gering; keine Interpretation sticht stark heraus, jedoch bietet Interpretation 3 die geringste Anzahl an oberflächlichen Aussagen und damit die höchste relative Substanz.",
+    "empfehlung": "Für zukünftige Bewertungen sollte der Fokus darauf liegen, unbelegte historische oder genre‑bezogene Behauptungen zu vermeiden und stattdessen mehr textbasierte, differenzierte Analysen zu liefern. Interpretation 3 ist ein gutes Vorbild, weil sie fast ausschließlich aus dem Songtext abgeleitete Beobachtungen liefert und nur minimale spekulative Elemente enthält."
+  }
+}

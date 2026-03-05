@@ -1,0 +1,89 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Phrasen wie 'kulturelles Artefakt seiner Zeit' ohne Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Konkrete Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Vage Aussagen über 'Emotionen' oder 'Gefühle' ohne Spezifizierung"
+        ],
+        "positive_aspekte": [
+          "Richtige Interpretation des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textbezogen",
+          "Gute Analyse der Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein paar Allgemeinplätze"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Songstruktur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einige vage Aussagen"
+        ],
+        "positive_aspekte": [
+          "Richtige Interpretation der wiederkehrenden Szenen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songs.",
+    "empfehlung": "Die dritte Interpretation ist die beste, da sie sehr textbezogen ist und eine gute Analyse der Metaphern liefert."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'silky skin' kann als Symbol für die Verletzlichkeit und Intimität der Beziehung interpretiert werden.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs kann als Auseinandersetzung mit Themen wie Verlust, Trennung und der Suche nach menschlicher Verbindung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einer nahenden Person zu sein, die möglicherweise bald das Leben des Sängers verlassen wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und bietet eine gute Analyse der Symbolik und der emotionalen Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'seidene Haut' (engl. 'silky skin') der angesprochenen Person wird wiederholt als Symbol für ihre Attraktivität und Verletzlichkeit genannt.",
+          "Der Song entstand in einer Zeit des emotionalen und individuellen Ausdrucks."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einer nahenden Person zu sein, die möglicherweise bald das Leben des Sängers verlassen wird.",
+          "Der Song zeigt eine komplexe und vielschichtige emotionale Landschaft."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Symbolik und der emotionalen Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'That is just a smile' kann als Hinweis auf die fragile Natur der Beziehung interpretiert werden, die durch ein simples Lächeln aufrechterhalten werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einer nahenden Person zu sein, die möglicherweise bald das Leben des Sängers verlassen wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und bietet eine gute Analyse der Symbolik und der emotionalen Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'seidene Haut' (engl. 'silky skin') der angesprochenen Person wird wiederholt als Symbol für ihre Attraktivität und Anziehungskraft verwendet.",
+          "Der Refrain 'Well I'll take what I can before you leave / That is just a smile' zeigt die Ambivalenz zwischen der Akzeptanz des bevorstehenden Abschieds und dem Versuch, die verbleibende Zeit zu nutzen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeigt eine tiefe emotionale Verletzlichkeit und eine Sehnsucht nach menschlicher Nähe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Symbolik und der emotionalen Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'seidene Haut' (engl. 'silky skin') der Person, die den Sänger bald verlassen wird, wird wiederholt als Symbol für die Anziehungskraft und Schönheit dieser Person verwendet.",
+          "Die Bitte, 'mir einen Rettungsring zuzuwerfen' (Verse 2: 'Throw, throw me a lifeline'), verdeutlicht die Abhängigkeit des Sängers von dieser Person und unterstreicht die emotionale Verletzlichkeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einer nahenden Person zu sein, die möglicherweise bald das Leben des Sängers verlassen wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und bietet eine gute Analyse der Symbolik und der emotionalen Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Symbolik und der emotionalen Wirkung des Songs.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine gute Analyse der Symbolik und der emotionalen Wirkung des Songs."
+  }
+}

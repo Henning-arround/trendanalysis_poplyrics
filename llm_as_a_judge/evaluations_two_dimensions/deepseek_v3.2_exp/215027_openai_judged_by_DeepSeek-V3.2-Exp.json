@@ -1,0 +1,89 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine Hymne auf die transformative Kraft der Liebe"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Festival fungiert als Metapher für die persönliche Glückseligkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der sozialen Resonanz des Glücks"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der utopischen Vision und der transformativen Kraft der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied spiegelt die Sehnsucht der frühen 70er-Jahre nach Gemeinschaft, Frieden und einer emotionalen Revolution wider"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 70er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied vermittelt ein Bild von Liebe als lebensspendendes Fest"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der sozialen Verbundenheit und des Wunsches nach gegenseitiger Anerkennung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsscore, aber insgesamt liefern sie eine gute Analyse des Textes",
+    "empfehlung": "Die beste Interpretation ist die Nummer 3, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

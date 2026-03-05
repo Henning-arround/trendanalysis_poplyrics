@@ -1,0 +1,101 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt das Lied ein melancholisches Porträt einer Stadt, in der Freundschaft, Gewalt, Humor und Resignation nebeneinander existieren und die Protagonisten trotz aller Widrigkeiten immer wieder nach Gemeinschaft und Sinn suchen."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analysen (z. B. Bezug zu Maxton, Clyde, Ann Kelly, Billy).",
+          "Klare Bildhaftigkeit und konkrete Verknüpfungen (Buchanan Street, Tizer, bike boys).",
+          "Erkenntnisreiche Metaphern, die aus dem Text ableitbar sind, ohne unnötige Spekulation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Publikum aus Hampden symbolisiert die kollektive Erinnerung an sportliche Triumphe und lokale Rituale."
+        ],
+        "oberflächliche_aussagen": [
+          "Der abschließende Hinweis auf die Route von Partick nach Cowcaddens verankert das Bild in einem konkreten Stadtraum, in dem Arbeit, Freundschaft und Überleben untrennbar miteinander verwoben sind."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Aufschlüsselung fast jedes Bildes aus dem Songtext.",
+          "Gute Balance zwischen konkreten Beobachtungen und interpretativen Deutungen.",
+          "Wenig spekulative Ausschmückungen, nur ein einziger Halluzinationspunkt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt das Lied ein melancholisches Porträt einer Gemeinschaft, die zwischen rauer Realität und flüchtigen Momenten von Zusammenhalt und Feierlichkeit schwankt."
+        ],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Interpretation aller genannten Elemente.",
+          "Klare Struktur, die den Songverlauf nachvollziehbar nachzeichnet.",
+          "Keine unbelegten biografischen oder historischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied ein Bild von Gemeinschaft, die im Zwielicht zwischen Verlust, Arbeit und ausgelassenem Feiern existiert, und lässt den Hörer die widersprüchliche Schönheit einer Stadt spüren, die gleichzeitig zerbrechlich und unnachgiebig ist."
+        ],
+        "positive_aspekte": [
+          "Umfassende, aber textnahe Analyse, die fast jedes Bild erklärt.",
+          "Gute Verwendung von Metaphern, die aus dem Text ableitbar sind.",
+          "Keine spekulativen historischen oder biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied ein Bild von Glasgow als ein Geflecht aus Verlust, Gemeinschaft, rauer Arbeit und kleinen Akten des Widerstands, das in einer poetisch‑sprunghaften, fast filmischen Erzählweise festgehalten wird."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Ortsbezügen (Partick, Cowcaddens, Buchanan Street) mit den Songbildern.",
+          "Durchgehend nachvollziehbare Interpretationsschritte, keine unbelegten Fakten.",
+          "Gute Balance zwischen konkreter Analyse und Offenheit für Mehrdeutigkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben eng am Text; die Unterschiede liegen hauptsächlich im Umfang der Schlussbemerkungen. Die Varianz ist gering, was auf konsistente Texttreue hinweist.",
+    "empfehlung": "Interpretation 2 (Nummer 2) liefert die beste Balance aus faktentreuer Analyse und tiefgehender, aber nicht übertrieben spekulativer Interpretation. Sie vermeidet Halluzinationen, bietet viele konkrete Textbezüge und bleibt gleichzeitig analytisch anspruchsvoll."
+  }
+}

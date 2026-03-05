@@ -1,0 +1,117 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "findet kein Versteck, das ihm Sicherheit bietet"
+        ],
+        "oberflächliche_aussagen": [
+          "Er befindet sich in einem Zustand der Lethargie, kann keine Ruhe finden",
+          "Die Abwesenheit der Person hat nicht nur sein Leben, sondern auch sein Selbstbild beeinträchtigt",
+          "Der Sänger muss lernen, mit dieser Leere zu leben und zu akzeptieren",
+          "Der Song ist ein eindringlicher Ausdruck der Trauer und des Verlusts, der die Zuhörer berührt und zum Nachdenken anregt"
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (Zeit steht still, Wunsch zurückzudrehen, „ausgestorben“, „halb“, „auf der Stelle\", „Nichts ist besser als gar nichts\", „ich gebe zu, dass du mir fehlst\").",
+          "Analyse bleibt textnah und vermeidet spekulative Biografien."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "lassen darauf schließen, dass der Prozess der Verarbeitung und des Loslassens noch lange nicht abgeschlossen ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains betont die Intensität des Verlustgefühls und die Erkenntnis, dass der andere nicht nur dem eigenen Leben, sondern auch der eigenen Identität fehlt",
+          "Die Aussage ... zeigt, wie sehr die eigene Selbstwahrnehmung ... von der Anwesenheit des anderen abhängt",
+          "Der Song endet mit der resignativen Erkenntnis, dass das „Nichts“ ... die Verzweiflung und die Suche nach einem Weg, mit dem Verlust umzugehen, unterstreicht"
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge (Zeit steht still, Starre/Hilflosigkeit, „Ohne dich bin ich ohne mich“, „Nichts ist besser als gar nichts\").",
+          "Erkennt die wiederholte Betonung des Fehlens und verbindet sie mit einem möglichen Verarbeitungsprozess."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "findet kein Versteck, das ihm Sicherheit bietet"
+        ],
+        "oberflächliche_aussagen": [
+          "Er befindet sich in einem Zustand der Lethargie, kann keine Ruhe finden",
+          "Die Abwesenheit der Person hat nicht nur sein Leben, sondern auch sein Selbstbild beeinträchtigt",
+          "Der Sänger muss lernen, mit dieser Leere zu leben und zu akzeptieren",
+          "Der Song ist ein eindringlicher Ausdruck der Trauer und des Verlusts, der die Zuhörer berührt und zum Nachdenken anregt",
+          "Die Wiederholung des Refrains unterstreicht die Intensität seiner Sehnsucht und die Unfähigkeit, die verlorene Person zu ersetzen"
+        ],
+        "positive_aspekte": [
+          "Umfassende Verknüpfung von vielen Textstellen (Zeit, Rückwärtsgehen, „ausgestorben“, „halb\", „auf der Stelle\", „Nichts ist besser als gar nichts\", „ich gebe zu, dass du mir fehlst\").",
+          "Zusätzliche Reflexion über die Wirkung des Refrains erweitert die Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains betont die Intensität des Verlustgefühls und die Erkenntnis, dass der andere nicht nur dem eigenen Leben, sondern auch der eigenen Identität fehlt",
+          "was darauf hindeutet, dass sie ohne den anderen unvollständig ist",
+          "zeigt den Versuch, mit dem Verlust umzugehen und einen Weg aus der Trauer zu finden",
+          "unterstreichen die Tiefe der emotionalen Verbindung und die Schwierigkeit, ohne den anderen weiterzuleben"
+        ],
+        "positive_aspekte": [
+          "Fast ausschließlich textbasierte Aussagen – keine erfundenen Fakten.",
+          "Gute Balance zwischen wörtlicher Analyse (Zeit, „ausgestorben“, „halb\", „Nichts ist besser als gar nichts\") und interpretativer Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "findet kein Versteck, das ihm Sicherheit bietet"
+        ],
+        "oberflächliche_aussagen": [
+          "Er befindet sich in einem Zustand der Lethargie, kann keine Ruhe finden",
+          "Die Abwesenheit der Person hat nicht nur sein Leben, sondern auch sein Selbstbild beeinträchtigt",
+          "Der Sänger muss lernen, mit dieser Leere zu leben und zu akzeptieren",
+          "Der Song ist ein eindringlicher Ausdruck der Trauer und des Verlusts, der die Zuhörer berührt und zum Nachdenken anregt"
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung (Zeit, Rückwärtsgehen, „ausgestorben“, „halb\", „auf der Stelle\", „Nichts ist besser als gar nichts\", „ich gebe zu, dass du mir fehlst\").",
+          "Konsistente Analyse, die sowohl wörtliche als auch implizite Bedeutungen berücksichtigt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch im Detailgrad. Die Varianz ist gering – hauptsächlich in der Menge an oberflächlichen bzw. erfundenen Zusatzinformationen.",
+    "empfehlung": "Interpretation 2 liefert die höchste Faktentreue (keine erfundenen Aussagen) bei gleichzeitig guter analytischer Tiefe. Für zukünftige Bewertungen sollte man darauf achten, spekulative Ergänzungen (z. B. „Versteck“, „Lethargie“) zu vermeiden und stattdessen mehr textbasierte, aber differenzierte Analysen zu bieten."
+  }
+}

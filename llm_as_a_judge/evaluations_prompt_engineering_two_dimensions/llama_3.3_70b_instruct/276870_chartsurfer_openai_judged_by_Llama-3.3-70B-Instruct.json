@@ -1,0 +1,99 @@
+{
+  "song": "It’s Alright - The Osmonds (1973)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Osmonds als Teil einer konservativen Familienband"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains verstärkt die affektive Wirkung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'lightning and thunder' ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-1960er-Wandels-Zeit als direkter Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Bestätigung 'it’s alright' kann als Trost oder Verdrängungsmechanismus gelesen werden"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der Ambivalenz zwischen Erkenntnis und Unklarheit ist ansprechend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verortung in der Nach- und Gegenkultur der USA"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Struktur des Textes ist fragmentarisch"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache ist umfassend und textnah"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-Hippie-Ära als direkter Einfluss"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'some find, some will never see or just throw it away' eröffnet ein dichotomes Bild"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion über die Spannung zwischen Erkenntnis und Unsicherheit ist detailliert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Suche nach Sinn jenseits materieller Sicherheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die vage, fast mystische Sprache spiegelt die damalige Suche nach Sinn wider"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambiguität und der offenen Struktur des Songs ist positiv"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber alle bieten wertvolle Einblicke in den Songtext.",
+    "empfehlung": "Für eine umfassende Analyse sollten Interpretationen 1 und 3 kombiniert werden, da sie eine gute Balance zwischen Texttreue und analytischer Tiefe bieten."
+  }
+}

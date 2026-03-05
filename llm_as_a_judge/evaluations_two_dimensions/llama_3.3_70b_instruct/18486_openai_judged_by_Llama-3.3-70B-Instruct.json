@@ -1,0 +1,100 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Demut des Individuums vor einer höheren Ordnung"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Gegensätze",
+          "Erfolgreiche Verbindung von Text und philosophischer Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Zeitgenössische Reflexion der 60er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine zeitgenössische Reflexion"
+        ],
+        "positive_aspekte": [
+          "Gute Struktur und Aufbau der Interpretation",
+          "Versuch, den historischen Kontext zu berücksichtigen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Idee vermittelt, dass jede Phase unvermeidlich und zugleich notwendig ist"
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte und textgetreue Analyse",
+          "Gute Verbindung von Text und philosophischer Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verantwortung des Individuums, im jeweiligen Moment bewusst zu wählen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine Mahnung, das Leben als Reihe von saisonalen Phasen zu akzeptieren"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Dualität",
+          "Versuch, die Verantwortung des Individuums zu betonen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song interpretiert das Leben als ein immerwährendes Wechselspiel von Gegensätzen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein kulturelles Artefakt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Gute Struktur und Aufbau der Interpretation",
+          "Versuch, den Text zu analysieren"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten bieten eine gute Mischung aus Texttreue und analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte und textgetreue Analyse bietet und erfolgreich die Gegensätze im Text verbindet."
+  }
+}

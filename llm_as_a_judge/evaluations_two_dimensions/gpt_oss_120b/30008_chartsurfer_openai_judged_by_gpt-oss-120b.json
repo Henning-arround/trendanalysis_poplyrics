@@ -1,0 +1,117 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese frühe Verklärung wird durch das wiederholte „Look, Dick look“ verstärkt, das fast wie ein kindlicher Aufruf wirkt, die Aufmerksamkeit auf das Objekt der Begierde zu lenken, während gleichzeitig ein innerer Dialog entsteht, in dem er sich selbst als „Narr“ bezeichnet – ein Hinweis auf das Bewusstsein seiner eigenen Unzulänglichkeit und der unerwiderten Gefühle.",
+          "Der Wendepunkt, das vergebliche Küssen bei einer Feier, verdeutlicht die Diskrepanz zwischen Wunsch und Realität: er ist nicht der Liebende, sondern ein Beobachter, der an einem Fest teilnimmt, das die Beziehung zwischen Dick und Jane feiert.",
+          "Damit wird die Liebe zu einer Art ritueller Geste, die über den physischen Tod hinausreicht.",
+          "Der Refrain, der immer wieder die verheißungsvolle Zukunft ankündigt („Ich werde sie eines Tages heiraten“), wird durch die tragische Auflösung zu einem ironischen Echo, das die Unmöglichkeit des Erreichens dieses Traums betont und die Vergänglichkeit menschlicher Hoffnungen offenbart."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Ableitung der Fakten aus dem Text (Kindheit, „Fool“, Kuss bei der Hochzeit, Brief über den Tod, letzter Kuss am Grab).",
+          "Klare Strukturierung von Fakten und Interpretation, wenig spekulative Ausschmückung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese kindliche Sehnsucht wird durch das wiederholte „Look, Dick look, see pretty Jane“ zu einem Mantra, das die Unfähigkeit des Sängers, seine Gefühle zu artikulieren, und zugleich seine obsessive Beobachtung ihrer Lebensfreude betont.",
+          "Das Bild verdeutlicht, dass seine Liebe stets im Hintergrund bleibt, während das eigentliche Paar im Mittelpunkt steht.",
+          "Die Zeilen über das „Umblättern von Seiten“ und das Wegziehen der beiden spiegeln den unvermeidlichen Lauf der Zeit wider, während der Erzähler in nostalgischer Verklärung zurückblickt.",
+          "Doch diese Geste bleibt ein einsamer Akt der Erinnerung.",
+          "Der Refrain, der immer wieder von einer zukünftigen Heirat spricht, wird dadurch zu einer bitteren Ironie, weil das verheißungsvolle „eines Tages“ nie eintrifft und die unerfüllte Liebe letztlich nur in der Erinnerung weiterlebt."
+        ],
+        "positive_aspekte": [
+          "Umfassende, textnahe Analyse aller Songabschnitte (Kindheit, Kuss, Brief, Tod).",
+          "Gute Balance zwischen faktischer Wiedergabe und interpretativer Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song entfaltet sich als melancholische Reflexion über unerwiderte Liebe, Erinnerung und den unvermeidlichen Lauf der Zeit.",
+          "Offensichtliche Bindung zu Dick … (Interpretation der Beziehung zwischen Dick und Jane).",
+          "Die wiederholte Aufforderung … ironischer Appell an den Rivalen … (Interpretation des Motivs).",
+          "Ohnmacht des Erzählers, der stets am Rande des Glücks steht.",
+          "Bild des lachenden Mädchens als Symbol für verlorene Unbeschwertheit dient.",
+          "Motiv der unerfüllten Liebe in eine endgültige Tragödie verwandelt.",
+          "Symbolischer Abschluss, der die Sehnsucht in stille Akzeptanz umwandelt.",
+          "Durch die wiederholte Refrainstruktur entsteht ein Kreis, der die Unveränderlichkeit des Schicksals betont …"
+        ],
+        "positive_aspekte": [
+          "Alle Kernelemente des Textes werden korrekt wiedergegeben (Kindheit, Kuss, Brief, Tod, letzter Kuss).",
+          "Klare, nachvollziehbare Argumentationslinie."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song entfaltet sich als melancholische Reflexion über unerwiderte Liebe, Erinnerung und den unvermeidlichen Lauf der Zeit.",
+          "Bild für das Scheitern seiner romantischen Absichten … (Interpretation).",
+          "Versuch, die verlorene Nähe wiederherzustellen … (Interpretation).",
+          "Die wiederholte Zeile … gewinnt hier eine tragische Ironie … (Interpretation).",
+          "Durch die wiederholte Struktur des Refrains entsteht ein Kreislauf, der die Unfähigkeit des Erzählers widerspiegelt, die Vergangenheit zu überwinden und loszulassen … (Interpretation).",
+          "Der Song bleibt somit ein eindringliches Porträt von unerfüllter Sehnsucht, das die Zerbrechlichkeit menschlicher Träume im Angesicht des unvermeidlichen Endes thematisiert … (Allgemeinplatz)."
+        ],
+        "positive_aspekte": [
+          "Präzise Zuordnung von Textstellen zu den jeweiligen Analysepunkten (Kindheit, „Fool“, Kuss, Brief, Tod).",
+          "Erkenntnis der ironischen Wirkung des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song entfaltet sich als melancholische Reflexion über unerfüllte Liebe, Erinnerung und den unvermeidlichen Lauf der Zeit.",
+          "Die wiederholte Anrede an Dick fungiert als innerer Dialog … (Interpretation).",
+          "Hier wird die Ironie des Schicksals deutlich … (Interpretation).",
+          "Dieser Akt verbindet Abschied und Versöhnung, indem er die Erinnerung an Janes Lachen und Spiel in einen stillen, fast rituellen Kuss verwandelt … (Interpretation).",
+          "Insgesamt schildert das Lied den Übergang von kindlicher Verliebtheit über unerfüllte Sehnsucht zu einem nachträglichen, aber friedlichen Abschied, wobei die wiederholten Refrains die Unveränderlichkeit der Erinnerung und die Beständigkeit des inneren Bildes von Jane betonen … (Allgemeinplatz)."
+        ],
+        "positive_aspekte": [
+          "Vollständige Wiedergabe aller Textabschnitte (Refrain, Kuss, Brief, Tod).",
+          "Erkenntnis der strukturellen Wiederholungen im Song."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben faktentreu (keine erfundenen Fakten). Die Tiefenwerte schwanken zwischen 3 und 4, wobei Interpretation 1 und 3 die detaillierteste, textnahe Analyse bieten.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance aus texttreuer Wiedergabe und analytischer Tiefe. Für zukünftige Bewertungen sollte man darauf achten, vage, allgemeine Formulierungen zu reduzieren und mehr konkrete Textbelege zu nutzen, um die Tiefe zu erhöhen, ohne die Faktentreue zu gefährden."
+  }
+}

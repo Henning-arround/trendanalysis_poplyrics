@@ -1,0 +1,93 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1980er Jahre als Kontext für eine sich verändernde Sexualmoral"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine komplexe Verflechtung von Liebe, Lernen und Intimität"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach emotionaler Authentizität und Nähe in den späten 1980er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine romantische Einladung zum Lernen und zur emotionalen Nähe"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach emotionaler Authentizität und Nähe in den späten 1980er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine romantische Einladung zum Lernen und zur emotionalen Nähe"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Eine Atmosphäre der Intimität und Verletzlichkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der ambigen Beziehung zwischen Lehrer und Schüler"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Metaphern und Symbole, sowie der ambigen Beziehung zwischen Lehrer und Schüler"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

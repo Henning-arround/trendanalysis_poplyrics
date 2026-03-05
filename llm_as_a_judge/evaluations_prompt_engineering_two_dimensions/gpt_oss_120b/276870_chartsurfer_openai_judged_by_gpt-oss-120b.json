@@ -1,0 +1,108 @@
+{
+  "song": "It’s Alright - The Osmonds (1973)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Gegenüberstellung erzeugt eine Ambiguität, die das 1970er‑Jahre‑Gefühl ... widerspiegelt – ein Zeitalter ...",
+          "Historisch lässt sich das Stück in den Kontext der Post‑Hippie‑Ära einordnen, ...",
+          "Die wiederholte Bildsprache ... verweist auf die damals populäre Esoterik, ..."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Textbezüge (Metaphern, Wiederholungen, Fragen nach dem Unbekannten).",
+          "Klare Analyse der Ambivalenz zwischen Trost und Unbestimmtheit.",
+          "Stilistische Beobachtungen sind konkret und textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1973 im Kontext des post‑1960er‑Wandels zu verorten, einer Zeit, in der Popmusik vermehrt introspektive und spirituelle Themen aufgriff.",
+          "Die Osmonds, als Teil einer konservativen Familienband, nutzen hier eine scheinbar leichte Form ..."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. die wiederholte Zeile, die Blitz‑Metapher).",
+          "Verknüpfung von Textanalyse mit einem gut begründeten, wenn auch spekulativen, historischen Kontext.",
+          "Durchgehend konsistente Argumentationslinie."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song vermittelt eine mehrschichtige Botschaft ... (allgemeine Behauptung ohne Textbeleg).",
+          "Historisch ist das Stück 1973 im Kontext der Nach‑ und Gegenkultur der USA zu verorten ..."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Bildsprache (Blitz, Donner, „throw it away“).",
+          "Klare Unterscheidung zwischen dem, was im Text steht, und dem, was spekulativ ist.",
+          "Starke Verknüpfung von Textstelle zu möglicher kultureller Stimmung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song vermittelt eine mehrschichtige Botschaft, die zwischen persönlicher Erleichterung und einer undefinierten, fast mystischen Erfahrung oszilliert.",
+          "Die wiederholte Zeile fungiert als mantraartiger Anker, während die Erzählung von einer überraschenden Begegnung ... eine plötzliche, möglicherweise transzendente Erkenntnis suggeriert.",
+          "Das Bild des „throw it away“ eröffnet ein narratives Gegenstück ... soziale Differenzierung ...",
+          "Die Wiederholung des Refrains verstärkt die affektive Wirkung ... das Wort „alright“ wird zum beruhigenden Mantra, das jedoch durch die offenen Fragen im Text kontraproduktiv wirkt.",
+          "Historisch ist das Stück 1973 in einer Phase kultureller Umbrüche verortet, in der Popmusik vermehrt spirituelle und introspektive Themen aufgriff.",
+          "Die Unschärfe des zentralen Symbols lässt Raum für verschiedene Deutungen – von einer persönlichen Befreiung bis zu einer kollektiven Sehnsucht nach Sinn in einer fragmentierten Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt die wiederholende Struktur des Refrains.",
+          "Identifiziert die zentrale Metapher von Blitz und Donner."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song vermittelt eine mehrdeutige Botschaft ... (allgemeine Aussage ohne Textbeleg).",
+          "Historisch ist das Stück 1973 im Kontext des Übergangs von der optimistischen Gegenkultur der 60er‑Jahre zu einer stärker individualisierten Selbstfindung der 70er‑Jahre zu verorten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr genaue Aufschlüsselung einzelner Zeilen (z. B. „Someday just by chance you see what I'm trying to say“).",
+          "Analyse der fragmentarischen Struktur des Textes.",
+          "Gute Balance zwischen Textbezug und Kontextualisierung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass Interpretationen mit wenig erfundenen Kontextangaben (z. B. #2) gleichzeitig eine höhere inhaltliche Tiefe erreichen. Modelle, die stark auf spekulative Historie setzen, erhalten niedrigere Halluzinations‑Scores.",
+    "empfehlung": "Ein Ansatz, der primär Textbelege nutzt und nur vorsichtig, gut begründete, minimalistische Kontextinformationen hinzufügt (wie Interpretation 2), liefert die ausgewogenste Mischung aus Faktentreue und analytischer Tiefe."
+  }
+}

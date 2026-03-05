@@ -1,0 +1,99 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielung auf 'Mutter Erde' und das Fehlen von Sehnsucht reflektiert eine Generation, die sich von traditionellen Naturverbundenheiten löst"
+        ],
+        "oberflächliche_aussagen": [
+          "Emotional erzeugt das Stück eine Mischung aus nüchterner Resignation und unterschwelliger Euphorie"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die fragmentarische Metaphern und Bildsprache des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die ironisch-optimistische Wiederholung 'Uns geht's gut' kann als Reaktion auf das gesellschaftliche Narrativ des Wohlstands gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textfragmente lassen bewusst offene Fragen nach der Authentizität des Glücks und der Beziehung zwischen Mensch, Maschine und Erde"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz zwischen Freiheit und technischer Ohnmacht"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Nach Mutter Erde' als Gegenpol zu den interstellaren Bildern die Spannung zwischen technologischem Fortschritt und Rückkehr zur Natur hervorhebt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Oberflächlichkeit kontrastiert mit der impliziten Kritik an einer Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die paradoxe Metapher des 'Verglühens'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielung auf Befehle und das Bild des 'hochgeschickten' Subjekts reflektiert das wachsende Gefühl von Kontrolle durch digitale Systeme"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Offenheit lässt mehrere Deutungen zu"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Ambivalenz zwischen funktionaler Dysfunktion und einer unterschwelligen Energie"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Behind the moon / Verglühen wir gerne' verweist auf eine Flucht aus der Erde in virtuelle Räume"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Behauptung 'Uns geht's gut' bleibt dabei offen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metaphern und Bildsprache des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Eine ausgewogene Interpretation sollte textbezogen, analytisch tief und ambivalent sein"
+  }
+}

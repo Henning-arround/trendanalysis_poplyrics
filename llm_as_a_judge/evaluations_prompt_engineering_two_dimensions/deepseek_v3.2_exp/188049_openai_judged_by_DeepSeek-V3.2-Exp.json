@@ -1,0 +1,102 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späte 80er/ frühe 90er-Jahre als Phase von Medienkritik, Globalisierung und neoliberalen Ideologien"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -symbolik",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die frühe 1990er-Jahre als Phase intensiver Medienkritik und post-kalter-Krieg-Entfremdung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'And all the pretenders to somebody's throne / Are fighting it out on their own' reflektiert den Zerfall traditioneller Autoritäten"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -symbolik",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späte 80er/ frühe 90er-Jahre als Phase intensiver Medienkritik und postmodernen Skepsis gegenüber Autorität"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild der Kameras symbolisiert Überwachung und mediale Kontrolle"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -symbolik",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späte 80er/ frühe 90er-Jahre als Phase intensiver Medienkritik und neoliberaler Deregulierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das zerfallende Haus symbolisiert gesellschaftlichen Verfall"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -symbolik",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späte 80er/ frühe 90er-Jahre als Phase, in der neoliberale Marktlogiken und die Ausweitung von Medienüberwachung stark diskutiert wurden"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild der Kameras symbolisiert Überwachung und mediale Kontrolle"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -symbolik",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textstruktur und -symbolik",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

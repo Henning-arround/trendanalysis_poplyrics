@@ -1,0 +1,103 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musikalität des Songs wird als 'treibender Beat' beschrieben, ohne dass dies im Text erwähnt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Liebe 'nicht nur als romantische Bindung, sondern als lebensspendende Kraft verstanden wird', ist allgemein und könnte tiefer ausgeführt werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief auf die emotionale Abhängigkeit der Sprecherin ein und analysiert die Wiederholung von 'without love' und 'without you' als Verdeutlichung ihrer inneren Zerrissenheit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Es wird behauptet, dass die Liebe und die Person für die Sprecherin 'untrennbar verbunden' sind, was im Text nicht explizit gesagt wird.",
+          "Die Beschreibung der 'obsessiven Qualität' des Textes ist subjektiv und nicht direkt aus dem Text ableitbar."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song 'die Angst vor Einsamkeit und das Bedürfnis nach emotionaler Bestätigung in einer einzigen, wiederholenden Bitte zusammenfasst', ist etwas allgemein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Refrains und der steigenden Intensität der Stimme als Ausdruck der Verzweiflung ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass die Sprecherin 'die Beziehung als einzigen Anker ihrer Existenz' sieht, ist eine Interpretation, die nicht direkt aus dem Text hervorgeht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der Sprache als 'simpel, aber emotional geladen' ist allgemein und könnte spezifischer sein.",
+          "Die Aussage, dass der Song 'das Bedürfnis nach emotionaler Bestätigung in den Mittelpunkt stellt', ist etwas oberflächlich."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung von Fragen als Selbstreflexion und die Einbindung des Hörers in die Unsicherheit ist gut."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung der 'monotonen Wiederholung der Refrains' als 'Beklemmung' ist subjektiv und nicht direkt aus dem Text ableitbar.",
+          "Die Aussage, dass die Textstruktur 'das Festhalten an einer Hoffnung symbolisiert, die kaum noch rational begründet ist', ist eine Interpretation, die über den Text hinausgeht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song 'die Angst vor dem Alleinsein in den Mittelpunkt stellt', ist allgemein und könnte tiefer ausgeführt werden."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Bildsprache der Tränen und des 'Herzens auf der Linie' als Ausdruck der Verletzlichkeit ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass die Sprecherin 'ihre Existenz ausschließlich im Gegenüber verankert', ist eine starke Interpretation, die nicht direkt aus dem Text hervorgeht.",
+          "Die Beschreibung der 'fast panischen Wiederholung des Motivs' ist subjektiv."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song 'die Unfähigkeit der Sprecherin, loszulassen, symbolisiert', ist etwas allgemein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse des Machtkampfs durch das Betonen von 'Ich kann nicht überleben' als Versuch, den Partner zu Schuldgefühlen zu bewegen, ist interessant und tief."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber alle bieten wertvolle Einblicke in den Songtext.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf einer Balance zwischen texttreuer Interpretation und tiefer Analyse liegen, wobei spekulative Aussagen minimiert und die Ambivalenzen im Text berücksichtigt werden sollten."
+  }
+}

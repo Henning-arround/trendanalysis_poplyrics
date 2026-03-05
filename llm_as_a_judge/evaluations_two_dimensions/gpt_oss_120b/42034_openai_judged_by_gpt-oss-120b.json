@@ -1,0 +1,134 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emily wird als jemand beschrieben, der zwar versucht, doch ständig missversteht, was auf die Zerbrechlichkeit ihrer Wahrnehmung und die Unfähigkeit, klare Grenzen zu ziehen, hindeutet.",
+          "Dieser Akt des Träumens als Leihgabe suggeriert, dass sie nicht aus eigenem Inneren schöpft, sondern fremde Sehnsüchte absorbiert, um ihre eigene Leere zu füllen.",
+          "Die wiederkehrende Zeile ... betont die Endgültigkeit des gegenwärtigen Moments.",
+          "Das Angebot, „es auf eine andere Weise zu versuchen“, den Versuch einer Flucht aus der festgefahrenen Realität impliziert.",
+          "Das Versprechen, den Verstand zu verlieren und zu spielen, wirkt wie ein verführerischer Aufruf zu psychedelischer Ekstase.",
+          "Im späteren Teil des Liedes wird Emily in ein bodenberührendes Kleid gehüllt und lässt sich auf einem Fluss treiben, ein Bild von Transzendenz, das zugleich Geborgenheit und Auflösung des Selbst suggeriert.",
+          "Das nächtliche Weinen und das stille Beobachten der Bäume verstärken das Gefühl von Isolation und melancholischer Sehnsucht.",
+          "Die wiederholte Aufforderung, Emily beim Spielen zu sehen, wird zu einem Mantra, das den Hörer einlädt, die Grenze zwischen Beobachter und Teil des Traums zu verwischen.",
+          "So wird das Stück zu einer Meditation über das Verlorensein, das Suchen nach Identität und das verführerische Versprechen, im Spiel des Geistes alles zu verlieren und zugleich zu finden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert konsequent die wiederholten Textpassagen (z. B. „Emily tries…“, „There is no other day“, „Free games for May“).",
+          "Verknüpft einzelne Textzeilen mit konkreten Bildmotiven (Gown, River)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text zeichnet ein Bild von Emily als einer Figur, die zwischen kindlicher Naivität und einer tiefen, fast traumhaften Verlorenheit schwebt.",
+          "Ihr „Versuchen“ und das gleichzeitige „Missverstehen“ deuten darauf hin, dass sie nach einem Ausweg aus einer inneren Verwirrung sucht.",
+          "Während die Zeile „Es gibt keinen anderen Tag“ die Endgültigkeit dieses Fluchtversuchs betont – es gibt keinen Rückzugsort, nur das Hier und Jetzt, das sich in einem endlosen Kreislauf wiederholt.",
+          "Die Aufforderung, „es auf eine andere Weise zu versuchen“, wirkt wie ein verzweifelter Versuch, die geistige Blockade zu durchbrechen.",
+          "Das Risiko, den Verstand zu verlieren, wird als Preis für das Spiel mit dem Unbekannten dargestellt.",
+          "Die wiederholte Phrase „Free games for May“ verbindet das Bild von unbeschwerten, saisonalen Spielen mit einer gewissen Leere, die hinter dem fröhlichen Schein lauert.",
+          "Das Bild eines bodenberührenden Kleides und das Schweben auf einem Fluss suggerieren eine surreale, fast transzendente Befreiung."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird Emily zu einer Metapher für das menschliche Streben nach Flucht aus der Realität, das gleichzeitig von Sehnsucht, Verwirrung und dem unausweichlichen Verlust der eigenen Identität durchdrungen ist."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Wiederholung von „Free games for May“ und „There is no other day“.",
+          "Bezieht sich konkret auf die Bildsprache des Textes (Gown, River, Bäume)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emily wird als jemand beschrieben, der zwar versucht, doch ständig missversteht, was auf die Zerbrechlichkeit ihrer Wahrnehmung und die Unfähigkeit, klare Grenzen zu ziehen, hindeutet.",
+          "Die Wiederholung von „There is no other day“ betont die Endlosigkeit einer inneren Schleife, in der jede neue Chance bereits vorherbestimmt ist.",
+          "Der wiederkehrende Aufruf, „versuchen wir es auf andere Weise“, wirkt wie ein verzweifelter Versuch, aus diesem Kreislauf auszubrechen.",
+          "Das Versprechen, den Verstand zu verlieren, weist auf die Gefahr hin, dass das Spiel mit der Realität zu einem geistigen Zusammenbruch führen kann.",
+          "Die „freien Spiele für Mai“ verbinden das Bild von unbeschwerten, saisonalen Freuden mit einer flüchtigen, fast vergänglichen Leichtigkeit, die jedoch von einer dunklen Vorahnung überschattet wird.",
+          "Das Bild einer bodenberührenden Robe, die im Fluss zu schweben scheint, symbolisiert zugleich die Sehnsucht nach Auflösung und das Streben nach einer ewigen, schwerelosen Existenz."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt der Text eine psychedelische Reflexion über das Spannungsfeld zwischen kindlicher Unbeschwertheit, dem Drang nach Flucht aus der Realität und der Gefahr, dabei die eigene Identität zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Nutzt konkrete Textstellen (z. B. „Emily cries“, „gazing through trees in sorrow“, „put on a gown that touches the ground\").",
+          "Erklärt wiederkehrende Phrasen und verknüpft sie mit möglichen Bedeutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Emily tries, but misunderstands“ deutet darauf hin, dass ihr Versuch, die Realität zu begreifen, von Missverständnissen und Fehlinterpretationen geprägt ist.",
+          "Sie leiht sich die Träume anderer, um die Leere ihres eigenen Tages zu füllen.",
+          "Das wiederkehrende Motiv betont die Endlosschleife einer einzigen, unveränderlichen Erfahrung.",
+          "Die Aufforderung „Let's try it another way“ drückt sowohl Verzweiflung als auch Hoffnung auf einen alternativen Ausweg aus.",
+          "Die Zeile „You'll lose your mind and play“ verbindet Wahnsinn mit Spiel und betont die Zerbrechlichkeit des Geistes in einer Welt aus Illusionen.",
+          "Das Bild von „Free games for May“ verknüpft die Leichtigkeit des Frühlings mit einer scheinbaren Gratis‑Verfügbarkeit von Ablenkungen, die jedoch nur temporär sind.",
+          "Die wiederholte Anrufung von Emily, die „gazing through trees in sorrow“ und „put on a gown that touches the ground“, verleiht ihr eine fast rituelle, fast mythologische Gestalt.",
+          "Das „float on a river forever and ever“ symbolisiert ein endloses Dahintreiben, ein Verweilen im Fluss des Unbewussten, das weder Ziel noch Ankunft kennt."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt der Text eine melancholische Reflexion über das Verlorensein in fremden Träumen, die Suche nach einem anderen Pfad und die Gefahr, dabei den Verstand zu verlieren, während das Spiel – das ewige „See Emily play“ – zum einzigen Anker in einer zeitlosen, aber trostlosen Existenz wird."
+        ],
+        "positive_aspekte": [
+          "Erfasst die wiederholte Struktur des Songs (Verse‑Refrain‑Verse).",
+          "Bezieht sich auf fast alle Bildmotive des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emily wird als jemand beschrieben, der zwar versucht, doch ständig missversteht – ein Hinweis auf die Unfähigkeit, die eigene innere Welt klar zu fassen.",
+          "Diese Leihgabe suggeriert ein kollektives Bewusstsein, in dem persönliche Sehnsüchte und Ängste miteinander verwoben sind.",
+          "„There is no other day“ verdeutlicht, dass jede Erfahrung einmalig und unwiederbringlich ist.",
+          "Der wiederholte Aufruf, „another way“ zu versuchen, wirkt wie ein verzweifelter Versuch, aus einem mentalen Labyrinth zu entkommen.",
+          "Das Risiko, den Verstand zu verlieren, wird als Spiel dargestellt – ein paradoxes Spiel, das zugleich befreiend und gefährlich ist.",
+          "Die „free games for May“ könnten für die flüchtigen Freuden des Frühlings stehen, die in ihrer Leichtigkeit zugleich eine Illusion von Freiheit bieten.",
+          "Das Bild des bodenberührenden Kleides und das Schweben auf einem Fluss symbolisieren ein Streben nach Transzendenz, ein Wunsch, die Schwere des irdischen Daseins zu überwinden und in einem endlosen Fluss der Zeit zu verweilen."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird Emily zum Sinnbild einer Generation, die zwischen psychedelischer Ekstase und existenzieller Verunsicherung hin- und hergerissen ist, deren Spiel zugleich Flucht und Konfrontation mit dem eigenen Selbst bedeutet."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzeilen mit möglichen kulturellen Kontexten (z. B. „Generation“, „psychedelische Ekstase“).",
+          "Erklärt die Wiederholungen und gibt ihnen eine kohärente Lesart."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein sehr hohes Maß an erfundenen (halluzinierten) Aussagen (>60 %); die Tiefe bleibt durchweg niedrig bis moderat. Die Varianz zwischen den Interpretationen ist gering – sie wiederholen dieselben Grundmuster und unterscheiden sich kaum in Substanz.",
+    "empfehlung": "Ein besserer Ansatz wäre, sich stärker an den konkreten Textzeilen zu orientieren, spekulative Biografien oder kulturhistorische Kontextualisierungen zu vermeiden und stattdessen mehr differenzierte, textbasierte Analysen zu liefern. Dabei sollten mehr direkte Belege aus dem Songtext genutzt und vage Generalisierungen reduziert werden."
+  }
+}

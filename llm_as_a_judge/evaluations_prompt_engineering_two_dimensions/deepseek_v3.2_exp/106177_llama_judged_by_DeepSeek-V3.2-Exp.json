@@ -1,0 +1,97 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Metaphern wie 'Reflections of eyes shine bright' und 'Memories fade to dust' unterstreicht die thematische Komplexität des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Bedeutung von zwischenmenschlichen Beziehungen und die Vergänglichkeit von Erinnerungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Is it wrong to miss the time that we had? / Now it's gone' zeigen die Ambiguität und den Schmerz, der mit der Erinnerung an verlorene Zeiten und Beziehungen einhergeht"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung von Beziehungen und Erinnerungen in unserem Leben"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Bildern wie 'Walls around me' und 'Film that clouds it' unterstreicht die Gefühlslage der Sängerin"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der menschlichen Erfahrung und der Bedeutung von Zuhause und Identität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I'm grateful for the chance that it's mine / So I'll cherish every second of time' zeigen die Wertschätzung der Sängerin für die Zeit und die Erfahrungen, die sie gemacht hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung von Selbstreflexion und Selbstakzeptanz"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Metaphern wie 'Reflections of eyes shine bright' und 'Memories fade to dust' unterstreicht die thematische Komplexität des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Bedeutung von Beziehungen und Erinnerungen in unserem Leben"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf die textbasierte Analyse konzentrieren und weniger auf allgemeine Aussagen"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Phrasen wie 'das ständige Pendeln zwischen zwei Extremen'"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Allgemeinplätze wie 'die Angst vor dem Unbekannten'"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Dualität im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Phrasen wie 'das Aufdecken der wahren Gesichter'"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der psychologischen Aspekte im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Allgemeinplätze wie 'der psychologische Kampf'"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Beziehung zwischen den Charakteren"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textstruktur und -inhalte",
+    "empfehlung": "Die dritte Interpretation zeigt eine sehr gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

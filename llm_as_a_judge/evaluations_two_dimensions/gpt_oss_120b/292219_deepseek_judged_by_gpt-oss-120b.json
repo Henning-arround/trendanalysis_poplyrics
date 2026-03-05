@@ -1,0 +1,117 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Art Selbstgespräch interpretiert werden, in dem der Sänger versucht, mit seinem Schmerz umzugehen und sich von der Vergangenheit zu lösen.",
+          "Die Wiederholung der Zeile \"Hold a little tighter\" kann als Aufruf zur Selbstreflexion und zur Wertschätzung von Beziehungen gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"4 AM forever\" wird zu einem wiederkehrenden Motiv, das die Einsamkeit und Leere symbolisiert, die der Sänger in den frühen Morgenstunden empfindet.",
+          "Die Zeilen ... unterstreichen die Hilflosigkeit und Verzweiflung des Sängers.",
+          "Insgesamt beschreibt ... die tiefe emotionale Verletzung und die Sehnsucht nach einer verlorenen Verbindung."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. Verlust des Freundes, Wunsch, die Zeit stillzustehen, das Herz, das nicht heilt).",
+          "Die Interpretation bleibt im Wesentlichen textnah und wiederholt keine völlig fremden Themen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song endet mit der Hoffnung, dass die andere Person eines Tages den Song hören und verstehen wird, was sie verpasst hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"4 AM forever\" symbolisiert die Einsamkeit und Leere, die in den frühen Morgenstunden besonders intensiv empfunden wird.",
+          "Der Song thematisiert auch die Kommunikationsprobleme in der Beziehung und die Frage, warum die andere Person nicht hört, wenn er versucht, zu ihr durchzudringen.",
+          "Der Abschied ist endgültig, und der Sänger bleibt mit dem Schmerz und der Einsamkeit zurück.",
+          "Die Wiederholung des Refrains unterstreicht die Tiefe der Trauer und die Unfähigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Der Großteil der Aussagen (5 von 10) ist klar aus dem Text ableitbar, z. B. die Angst, das Lächeln nie wieder zu sehen, das Nicht‑Aussagen von Worten.",
+          "Es werden konkrete Textstellen (z. B. \"All these words that I could never say\") aufgegriffen und sinnvoll interpretiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Art Selbstgespräch interpretiert werden, in dem der Sänger versucht, mit seinem Schmerz umzugehen und sich von der Vergangenheit zu lösen.",
+          "Die Wiederholung der Zeile \"Hold a little tighter\" kann als Aufruf zur Selbstreflexion und zur Wertschätzung von Beziehungen gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"4 AM forever\" wird zu einem wiederkehrenden Motiv, das die Einsamkeit und Leere symbolisiert, die der Sänger in den frühen Morgenstunden empfindet.",
+          "Die Zeilen ... unterstreichen die Hilflosigkeit und Verzweiflung des Sängers.",
+          "Insgesamt beschreibt ... die tiefe emotionale Verletzung und die Sehnsucht nach einer verlorenen Verbindung."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge zu den zentralen Motiven (Verlust, Herz, unausgesprochene Worte).",
+          "Keine falschen biografischen Angaben oder Genre‑Einordnungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Art Selbstgespräch interpretiert werden, in dem der Sänger versucht, mit seinem Schmerz umzugehen und sich von der Vergangenheit zu lösen.",
+          "Die Wiederholung der Zeile \"Hold a little tighter\" kann als Aufruf zur Selbstreflexion und zur Wertschätzung von Beziehungen gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"4 AM forever\" wird zu einem wiederkehrenden Motiv, das die Einsamkeit und Leere symbolisiert, die der Sänger in den frühen Morgenstunden empfindet.",
+          "Die Zeilen ... unterstreichen die Hilflosigkeit und Verzweiflung des Sängers.",
+          "Insgesamt beschreibt ... die tiefe emotionale Verletzung und die Sehnsucht nach einer verlorenen Verbindung."
+        ],
+        "positive_aspekte": [
+          "Konsistente Ableitung aus dem Songtext, keine erfundenen biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Art Selbstgespräch interpretiert werden, in dem der Sänger versucht, mit seinem Schmerz umzugehen und sich von der Vergangenheit zu lösen.",
+          "Die Wiederholung ... kann als ein Appell an sich selbst oder an die verlorene Person gesehen werden, die Beziehung noch einmal zu überdenken und nicht loszulassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"4 AM forever\" wird zu einem wiederkehrenden Motiv, das die Einsamkeit und Leere symbolisiert, die der Sänger in den frühen Morgenstunden empfindet.",
+          "Die Zeilen ... unterstreichen die Hilflosigkeit und Verzweiflung des Sängers.",
+          "Insgesamt beschreibt ... die tiefe emotionale Verletzung und die Sehnsucht nach einer verlorenen Verbindung."
+        ],
+        "positive_aspekte": [
+          "Alle Kernaussagen (Verlust, Herz, unausgesprochene Worte) sind textnah."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt fast ausschließlich im Umfang der spekulativen Zusatzbehauptungen. Die meisten Aussagen sind textnah, jedoch fehlt es an differenzierten Analysen.",
+    "empfehlung": "Eine gute Interpretation sollte die klaren Textbezüge beibehalten (wie Interpretation 5) und gleichzeitig weniger vage oder erfundene Erweiterungen einbauen. Fokus auf konkrete Textstellen und offene, mehrdeutige Lesarten erhöht die analytische Tiefe, während unnötige Spekulationen die Halluzinations‑Score senken."
+  }
+}

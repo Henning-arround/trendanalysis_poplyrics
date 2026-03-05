@@ -1,0 +1,99 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Verortung in einer Übergangsphase zwischen der Nachkriegs-Konservativität und dem aufkommenden Jugendkult"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wortwahl bleibt dabei stark reduziert"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und der Wiederholungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück in den frühen 1960er-Jahren, einer Phase, in der jugendliche Romantik in der Popkultur stark idealisiert wurde"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft einer fast kindlichen Sehnsucht nach Sicherheit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der stilistischen Dominanz von Wiederholungen und imperativischen Formulierungen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die junge, weibliche Stimme in einer Zeit, in der das Ideal der romantischen, aber zugleich unabhängigen Frau erst im Entstehen begriffen war"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einer zärtlichen, aber zugleich kontrollierenden Umarmung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textambiguitäten und der Wiederholungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Forderung nach 'never let me go' kann als Spiegel der damaligen Erwartung an männliche Fürsorge gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein einfaches, aber zugleich mehrschichtiges Begehren nach Beständigkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der stilistischen Dominanz von Imperativformen und direkter Anrede"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die widersprüchlichen Erwartungen an weibliche Sexualität"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein verzweifeltes Verlangen nach körperlicher und emotionaler Nähe"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und der Wiederholungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

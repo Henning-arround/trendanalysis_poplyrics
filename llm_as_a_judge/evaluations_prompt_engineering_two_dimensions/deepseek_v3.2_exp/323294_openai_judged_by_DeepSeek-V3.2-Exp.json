@@ -1,0 +1,109 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Kontextualisierung des Nachkriegs-USA",
+          "Kulturelle Bedeutung von evangelikalen Hymnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine persönliche Bekenntnismusik",
+          "Das Lied ist ein kollektives Manifest einer religiösen Utopie"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -symbolik",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Folk-Ästhetik von Burl Ives",
+          "Verbindung zu traditionellen Kirchenliedern"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine persönliche Erlösungsgeschichte",
+          "Das Lied ist ein eschatologisches Erwartungslied"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textsymbolik und -metaphern",
+          "Berücksichtigung von Spannungen und Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Popularisierung von 'gospel-pop'",
+          "Verbreitung von Heilsversprechen als kulturelles Kapital"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -symbolik",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten",
+          "Gute historische Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Kontextualisierung des Nachkriegsoptimismus und des Kalten Krieges"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine persönliche Glaubensbekundung",
+          "Das Lied ist ein kollektives Ritual der Nachkriegsgemeinschaft"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textsymbolik und -metaphern",
+          "Berücksichtigung von Spannungen und Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturelle Durchdringung religiöser Sprache in populärer Musik"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine Spiegelung individueller Glaubenserfahrungen und kollektiver kultureller Ängste"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -symbolik",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung von Halluzinationen und Tiefe.",
+    "empfehlung": "Die Interpretation 3 bietet die beste Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz für weitere Analysen dienen."
+  }
+}

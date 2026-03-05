@@ -1,0 +1,147 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein emotionaler und introspektiver Beitrag zur Pop‑Rock‑Musik.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der frühen 2000er Jahre verortet werden.",
+          "Die Musik von Lostprophets ist typisch für die Post‑Hardcore‑ und Emo‑Bewegung dieser Zeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Erfahrung von Verlust und Trennung zu sein, insbesondere im Kontext einer gescheiterten Beziehung.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die Metapher der „4 AM forever“ kann als Symbol für die Einsamkeit und Isolation interpretiert werden.",
+          "Die Wiederholung dieser Phrase im Refrain unterstreicht die Bedeutung dieses Moments und die Unfähigkeit, loszulassen.",
+          "Die Zeile „Why don’t you hear me when I’m calling out to you“ zeigt die Kommunikationsstörung …",
+          "Die Verwendung von Imperativen wie „Hold a little tighter“ erzeugt eine Spannung …",
+          "Der Song thematisiert auch die Erfahrung von Verlust und Trennung, die in der Adoleszenz … häufig ist.",
+          "Die tiefere Bedeutungsebene des Songs kann als Auseinandersetzung mit der Vergänglichkeit von Beziehungen … interpretiert werden.",
+          "Die symbolische Ordnung des Songs ist geprägt von der Spannung zwischen Nähe und Distanz, Verbindung und Isolation."
+        ],
+        "positive_aspekte": [
+          "Enthält konkrete Zitate aus dem Songtext (z. B. die ersten Zeilen).",
+          "Versucht, stilistische Mittel zu benennen, wenn auch meist vage."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext … kann als Jugendkultur der frühen 2000er Jahre interpretiert werden, die von Themen wie Identitätssuche, emotionaler Verletzlichkeit und sozialer Isolation geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotional intensives und thematisch komplexes Werk, das sich mit den Themen Verlust, Sehnsucht und Isolation auseinandersetzt.",
+          "Die Lyrics … unterstreichen die Tiefe des emotionalen Schmerzes und die Angst vor einer nicht mehr möglichen Versöhnung.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die Metapher der „4 am forever“ kann als Symbol für die Einsamkeit und Isolation interpretiert werden.",
+          "Die Zeile „And I'd wish the sun would never come“ verdeutlicht die Sehnsucht nach einer Rückkehr in eine vergangene Zeit, während „Hold a little tighter“ als Aufruf zur emotionalen Verbindung interpretiert werden kann.",
+          "Die Wiederholung der Zeile … erzeugt eine Atmosphäre der Verzweiflung und des emotionalen Schmerzes.",
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung der emotionalen Erfahrung gesehen werden, die durch den Verlust einer nahestehenden Person ausgelöst wird.",
+          "Die Ambiguität zwischen der Sehnsucht nach Verbindung und der Erfahrung von Isolation bleibt im Song unaufgelöst, was seine emotionale Wirkung und affektive Dimension unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Nur ein einziger unbelegter Kontext‑Satz, wodurch die Halluzinationsrate sehr niedrig bleibt.",
+          "Bezieht sich konsequent auf Textzitate (z. B. „Yesterday I lost my closest friend“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, kann als Jugendkultur der frühen 2000er Jahre interpretiert werden, die von Themen wie Freundschaft, Liebe und Verlust geprägt war.",
+          "Die Musik von Lostprophets ist in diesem Kontext zu sehen und reflektiert die emotionalen Erfahrungen und Unsicherheiten dieser Altersgruppe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotional intensives und thematisch komplexes Werk, das sich mit den Themen Verlust, Sehnsucht und Isolation auseinandersetzt.",
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile … zusammenfassen, die den Verlust einer nahestehenden Person beklagt.",
+          "Die Lyrics … unterstreichen die Tiefe des emotionalen Schmerzes und die Angst vor einer nicht mehr möglichen Versöhnung.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die Metapher der „4:am forever“ kann als Symbol für die Einsamkeit und Isolation interpretiert werden.",
+          "Die Zeile „And I'd wish the sun would never come“ verdeutlicht die Sehnsucht nach einer Rückkehr in die Vergangenheit und die Unfähigkeit, den Verlust zu akzeptieren.",
+          "Die Wiederholung der Zeile … erzeugt eine Atmosphäre der Verzweiflung und des emotionalen Schmerzes.",
+          "Die tiefere Bedeutungsebene des Songs kann als Auseinandersetzung mit der menschlichen Erfahrung des Verlusts und der Sehnsucht nach Verbindung interpretiert werden.",
+          "Die symbolische Ordnung des Songs ist von einer Spannung zwischen Verlust und Sehnsucht geprägt, die in der Zeile „Hold a little tighter“ kulminiert, die als Aufruf zur emotionalen Verbindung interpretiert werden kann."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textzeilen und wiederholt sie als Anker für die Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2006 veröffentlicht, einer Zeit, in der die Popmusik von einer zunehmenden Emotionalität und Intimität geprägt war.",
+          "Der Song kann als Ausdruck einer Generation interpretiert werden, die sich mit den Herausforderungen der Moderne auseinandersetzt und nach emotionaler Verbindung und Verständnis sucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotional intensives und thematisch komplexes Werk, das sich mit den Themen Verlust, Sehnsucht und Isolation auseinandersetzt.",
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile … zusammenfassen, die den Verlust einer nahestehenden Person beklagt.",
+          "Die Lyrics … unterstreichen die Tiefe des emotionalen Schmerzes und die Angst vor einer nicht heilenden Wunde.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die Metapher der „4:am forever“ kann als Symbol für die Einsamkeit und Isolation interpretiert werden.",
+          "Die Zeile „And I'd wish the sun would never come“ verdeutlicht die Sehnsucht nach einer Rückkehr in eine vergangene Zeit, in der der Schmerz noch nicht existierte.",
+          "Die Wiederholung der Phrase … erzeugt eine Atmosphäre der Verzweiflung und des Nicht‑Verstanden‑Werdens.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls von Bedeutung.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Erfahrung des Verlusts und der Sehnsucht, die universell und zeitlos ist.",
+          "Die symbolische Ordnung des Songs kann als eine Art emotionaler Topographie interpretiert werden, die die Komplexität menschlicher Emotionen und Erfahrungen abbildet."
+        ],
+        "positive_aspekte": [
+          "Nutzt das zentrale Zitat („Yesterday I lost my closest friend“) als Ausgangspunkt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein emotionaler und introspektiver Beitrag zur Pop‑Rock‑Musik.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der frühen 2000er Jahre interpretiert werden.",
+          "Die Musik von Lostprophets ist typisch für die Post‑Hardcore‑ und Emo‑Bewegung dieser Zeit, die sich durch ihre expressive und emotionale Art auszeichnet.",
+          "Der Song „4:am Forever“ kann als ein Beispiel für die Auseinandersetzung mit Themen wie Verlust, Identität und emotionaler Verletzlichkeit in dieser Musikszene gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Erfahrung von Verlust und Trennung zu sein, insbesondere im Kontext einer gescheiterten Beziehung.",
+          "Diese Zeilen deuten darauf hin, dass der Sänger die Trennung als einen existenziellen Verlust erlebt, der seine ganze Welt erschüttert.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die Metapher der „4:am forever“ (ebd.) kann als Symbol für die Einsamkeit und Isolation interpretiert werden.",
+          "Die Wiederholung dieser Phrase … unterstreicht die Bedeutung dieses Moments als eine Art zeitloser Zustand der Verzweiflung.",
+          "Diese Zeilen deuten auf eine tiefe emotionale Blockade hin, die den Sänger daran hindert, seine wahren Gefühle zu äußern.",
+          "Die tiefe Bedeutungsebene des Songs liegt in seiner Darstellung der menschlichen Erfahrung von Schmerz, Verlust und Sehnsucht, die universell und zeitlos ist."
+        ],
+        "positive_aspekte": [
+          "Zitiert mehrere Textstellen (z. B. „All these words that I could never say“).",
+          "Verbindet Textanalyse mit einem kurzen Überblick über das mögliche Genre‑Umfeld."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen wiederholen viele generische Phrasen (z. B. „emotional intensives Werk“, „Metapher … Symbol für Einsamkeit“). Die Varianz in Halluzinationsraten ist moderat (10 %–31 %).",
+    "empfehlung": "Interpretation 5 liefert die geringste Halluzinationsrate bei gleichzeitig moderater analytischer Tiefe. Für zukünftige Analysen sollte man stärker auf direkte Textbelege setzen und spekulative Kontextualisierungen vermeiden, um sowohl Halluzinationen zu minimieren als auch die interpretative Tiefe zu erhöhen."
+  }
+}

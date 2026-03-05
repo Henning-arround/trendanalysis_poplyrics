@@ -1,0 +1,104 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Erfahrung von Beziehungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Tanzen fungiert als Bild für das Überschreiten von Grenzen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Finalität und Unendlichkeit",
+          "Die Betonung der Dualität zwischen körperlicher Verletzlichkeit und unzerstörbarer innerer Kraft"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "die Idee einer endlosen Wiederholung von Abschiedsszenen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Motiv des wiederholten Abschieds als zugleich Akt der Resilienz und des Festhaltens"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der thematischen Komplexität",
+          "Die Betonung der Spannung zwischen Endlichkeit und Unendlichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "die zentrale Botschaft lässt sich in den Zeilen verorten"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des Tanzes symbolisiert eine transgressive Bewegung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität zwischen Unzerstörbarkeit und Abschied",
+          "Die Betonung der thematischen Komplexität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "die Trennung von körperlicher Verletzlichkeit und innerer Unbeugsamkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen Unzerstörbarkeit und Abschied erzeugt eine thematische Ambivalenz"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern",
+          "Die Betonung der elektronischen Tanzmusik-Ästhetik"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "die Zeile stellt das Herz als verletzliche, das 'spirit' als unzerstörbare Kernessenz gegenüber"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des Tanzes fungiert als Symbol für transzendente Selbstbehauptung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität zwischen endgültigem Loslassen und dem Wunsch nach immer wiederem Neubeginn",
+          "Die Betonung der thematischen Komplexität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der thematischen Komplexität und der Betonung der Dualitäten im Songtext",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Fähigkeit, die Ambivalenzen und Mehrdeutigkeiten im Songtext zu analysieren"
+  }
+}

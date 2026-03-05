@@ -1,0 +1,109 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit waren die traditionellen Rollen von Männern und Frauen noch stark verankert, und die Vorstellung einer Frau, die tanzt und unabhängig ist, kann als subversiv interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … kann auf den ersten Blick als eine romantische und harmlose Abendstimmung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint jedoch komplexer zu sein, wenn man die Textebene genauer analysiert."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Songtext ab (z. B. die Analyse von Metaphern, Symbolen und der wiederkehrenden Aufforderung zum Schlafengehen).",
+          "Die Interpretation erkennt und diskutiert die Ambivalenz zwischen Freiheit und häuslicher Erwartung, was eine tiefere, textbasierte Analyse zeigt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1950er Jahren war die Rolle der Frau in der Gesellschaft noch stark traditionell geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … kann auf den ersten Blick als eine romantische und harmlose Abendstimmung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint jedoch komplexer zu sein, wenn man die Textebene genauer analysiert."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge: Metaphern, Symbolik und die wiederholten Motive werden klar herausgearbeitet.",
+          "Die Analyse balanciert zwischen einer positiven Lesart (Freiheit) und einer kritischen Lesart (Domestikation)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit waren die traditionellen Rollen von Männern und Frauen noch stark verankert, und die Vorstellung einer Frau, die tanzt und unabhängig ist, kann als subversiv interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … kann auf den ersten Blick als eine romantische und harmlose Abendstimmung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint jedoch komplexer zu sein, wenn man die Textebene genauer analysiert."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der stilistischen Mittel (Metaphern, Symbolik) und ihrer Bedeutung im Text.",
+          "Erkennt die Spannung zwischen romantischer Atmosphäre und häuslicher Erwartung, was die Interpretation tiefgründig macht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1950er Jahren war die Rolle der Frau in der Gesellschaft noch stark traditionell geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … kann auf den ersten Blick als eine romantische und harmlose Abendstimmung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint jedoch komplexer zu sein, wenn man die Textebene genauer analysiert."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Symbolen und Metaphern aus dem Text.",
+          "Diskutiert die Ambivalenz zwischen Unabhängigkeit und Domestikation, was eine differenzierte Sichtweise liefert."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit waren die traditionellen Rollen von Männern und Frauen noch stark verankert, und die Vorstellung einer Frau, die tanzt und unabhängig ist, kann als subversiv interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … kann auf den ersten Blick als eine romantische und harmlose Abendstimmung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint jedoch komplexer zu sein, wenn man die Textebene genauer analysiert."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, insbesondere die Analyse der wiederholten Aufforderungen zum Schlafengehen und der häuslichen Zukunftsvision.",
+          "Erkennt und erklärt die Mehrdeutigkeit des Songs (Freiheit vs. Häuslichkeit) auf einer fundierten Basis."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen ein sehr ähnliches Muster: sie wiederholen dieselben Kernpunkte, unterscheiden sich kaum in Inhalt und Struktur. Die Varianz ist gering, was auf eine starke Redundanz der Modelle hinweist.",
+    "empfehlung": "Obwohl alle Interpretationen vergleichbare Scores erreichen, ist Interpretation 3 am überzeugendsten, weil sie die meisten textbasierten Analysen liefert und gleichzeitig die historischen Kontextualisierungen klar als spekulativ kennzeichnet. Für zukünftige Bewertungen sollte das Modell stärker darauf achten, historische Aussagen zu kennzeichnen oder zu vermeiden, um die Halluzinationsrate weiter zu senken."
+  }
+}

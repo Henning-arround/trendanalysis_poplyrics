@@ -1,0 +1,110 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist stark und affektiv, da er die Erfahrung der Einsamkeit und des Verlusts in einer sehr persönlichen und emotionalen Weise ausdrückt.",
+          "Der Song bleibt jedoch auch offen für verschiedene Interpretationen und lässt Raum für die eigene Erfahrung und Emotion des Hörers.",
+          "Die kulturelle und historische Einordnung des Songs ist schwierig, da er keine direkten Bezüge zu bestimmten Ereignissen oder Bewegungen enthält, aber die thematische Auseinandersetzung mit Einsamkeit, Verlust und der Suche nach Verbindung ist zeitlos und universell."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Metapher des Steins, Wiederholungen, Zeilen zu Einsamkeit).",
+          "Die Analyse geht über reine Oberflächlichkeit hinaus und erklärt, wie die Metaphern im Kontext des Songs funktionieren."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Erfahrung der Einsamkeit und des Verlusts in der modernen Gesellschaft.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Metaphern und Bilder, die die Suche nach Sinn und Verbindung in einer oft sinnlosen und isolierten Welt thematisieren."
+        ],
+        "positive_aspekte": [
+          "Sehr gute Verknüpfung von Textstellen mit interpretativen Aussagen (z. B. „Skipping like a stone“ als Flucht‑Metapher).",
+          "Erkennt und benennt Ambiguitäten im Text, was die Analyse tiefgründiger macht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist stark und affektiv, da er die Hörerinnen und Hörer auffordert, sich mit ihren eigenen Gefühlen der Einsamkeit und des Verlusts auseinanderzusetzen.",
+          "Der Song bleibt jedoch ambivalent und offen, was die Frage aufwirft, ob diese Veränderung positiv oder negativ ist.",
+          "Diese Ambiguität und die Spannungen, die im Song entstehen, machen … zu einem faszinierenden und tiefgründigen Werk, das zu weiterer Interpretation und Reflexion einlädt."
+        ],
+        "positive_aspekte": [
+          "Zieht konsequent Textbelege heran (z. B. Wiederholungen, „she changes people now“).",
+          "Erkennt die Spannung zwischen Tanz‑ und Einsamkeitsmotiven."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist stark und affektiv, da er die Hörerinnen und Hörer auffordert, sich mit ihren eigenen Gefühlen der Einsamkeit und des Verlusts auseinanderzusetzen.",
+          "Der kulturelle und historische Kontext, in dem der Song entstanden ist, spielt ebenfalls eine Rolle, da er sich auf die Erfahrungen und Ängste der Menschen in der heutigen Gesellschaft bezieht.",
+          "Insgesamt bietet der Song eine komplexe und mehrschichtige Botschaft … die Hörerinnen und Hörer auffordert, sich mit ihren eigenen Emotionen und Erfahrungen auseinanderzusetzen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textstellen mit möglichen Bedeutungen (z. B. „Na‑na“ als Katharsis).",
+          "Erwähnt die Idee von sozialem Wandel durch die Zeile „she changes people now“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist stark und affektiv, da er die Hörerinnen und Hörer auffordert, sich mit ihren eigenen Gefühlen der Einsamkeit und des Verlusts auseinanderzusetzen.",
+          "Der Song bleibt jedoch ambivalent und offen, was die Frage aufwirft, ob diese Veränderung positiv oder negativ ist.",
+          "Diese Ambiguität und die Spannungen, die im Song entstehen, machen … zu einem faszinierenden und tiefgründigen Werk, das zu weiterer Interpretation und Reflexion einlädt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge (z. B. Wiederholungen, Metapher des Steins).",
+          "Erkennt die zentrale Spannung zwischen Tanz‑ und Einsamkeitsmotiven."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthemen (Einsamkeit, Trost, Metapher des Steins). Die Varianz liegt vor allem im Anteil an oberflächlichen Formulierungen; Interpretation 1 und 3 zeigen die geringste Oberflächlichkeit und damit die höchste analytische Tiefe.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe. Für zukünftige Modelle sollte der Fokus darauf liegen, vage, allgemeine Aussagen zu reduzieren und stattdessen mehr textbasierte, differenzierte Analysen zu liefern, ohne dabei spekulative biografische oder kontextuelle Details einzuführen."
+  }
+}

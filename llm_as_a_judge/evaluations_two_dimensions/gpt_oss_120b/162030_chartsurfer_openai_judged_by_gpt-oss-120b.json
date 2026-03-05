@@ -1,0 +1,130 @@
+{
+  "song": "The Flat Foot Floogee - Louis Armstrong (1954)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt wie ein spielerisches Nonsens‑Lied, doch seine scheinbare Leichtfertigkeit verbirgt eine tiefere, fast subversive Botschaft, die in den 1950er‑Jahren besonders resonierte.",
+          "Der wiederholte Refrain fungiert als rhythmisches Mantra, das den Hörer in einen tranceartigen Swing‑Zustand versetzt und damit das konventionelle Songwriting sprengt.",
+          "Durch die lautmalerischen Silben wird das Wortspiel zu einem Symbol für das Loslassen von sprachlichen Zwängen und das Feiern des reinen Klanges, ein Prinzip, das im Jazz als Befreiung von festgelegten Harmonien gilt.",
+          "Die Zeilen suggerieren eine Haltung der Resignation gegenüber gesellschaftlichen Belastungen, die jedoch nicht in Passivität, sondern in aktives „Swingen mit der Gang“ umschlägt.",
+          "Indem das Individuum die Lasten abstreift und sich dem kollektiven Groove anschließt, wird das persönliche Wohlbefinden zu einem gemeinsamen Ritual.",
+          "Der wiederholte „yeah, yeah, baby“ verstärkt die intime Verbindung zwischen Sänger und Publikum, während das „hey, hey, yes, yes“ am Schluss die Zustimmung zum gemeinsamen Ausbruch aus dem Alltag besiegelt.",
+          "So wird das Lied zu einem Aufruf, die Sorgen zu ignorieren, den Moment zu umarmen und im kollektiven Swing eine neue, befreiende Identität zu finden."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Wort „tonic“ spielt doppelt: einerseits als musikalischer Grundton, andererseits als Heilmittel für das emotionale Befinden."
+        ],
+        "positive_aspekte": [
+          "Verwendet konkrete Textstellen (z. B. „Whenever your cares are chronic…\") als Ansatzpunkt für die Analyse.",
+          "Erkennt die doppelte Bedeutung von Begriffen wie „tonic“ und versucht, diese textnah zu interpretieren.",
+          "Zeigt ein gewisses Maß an analytischer Tiefe, indem sie über reine Oberflächlichkeit hinausgeht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt wie ein spielerisches Nonsens‑Lied, doch seine scheinbare Leichtfertigkeit verbirgt eine tiefere, fast philosophische Botschaft, die im Kontext der Nachkriegszeit und der aufkommenden Swing‑Kultur besonders resoniert.",
+          "Der wiederholte Refrain fungiert als rhythmisches Mantra, das den Hörer in einen tranceartigen Zustand versetzt, in dem das rationale Denken kurzzeitig aussetzt und Platz für pure körperliche Bewegung und Freude schafft.",
+          "Die Wortwahl ist bewusst unsinnig, was die Grenzen der Sprache auflockert und den Fokus auf den Klang und das Groove‑Gefühl lenkt – ein typisches Merkmal des Jazz, der mehr über das „Fühlen“ als über das „Verstehen“ kommuniziert.",
+          "Die Zeilen bieten einen klaren Gegenpol: Statt sich von Sorgen erdrücken zu lassen, wird ein Aufruf zur Ablehnung der Lasten ausgesprochen, indem man die Welt im übertragenen Sinne „abweist“.",
+          "Das Bild des „greater tonic“ suggeriert, dass das Schwung‑Gefühl, das gemeinsame „swingin’ with the gang“, eine heilende Substanz darstellt, die das Individuum von innerer Schwere befreit.",
+          "Der wiederholte Aufruf, mit der Gruppe zu stolpern und zu tanzen, betont die kollektive Erfahrung des Jazz als soziale Therapie, in der das gemeinsame Fehltritte‑Machen nicht als Versagen, sondern als Teil des kreativen Prozesses gilt.",
+          "So wird das Lied zu einem Aufruf, das Leben leicht zu nehmen, im Rhythmus zu schwingen und durch gemeinschaftliche Improvisation eine neue, befreiende Identität zu finden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert wiederkehrende Motive im Text (z. B. das Wort „tonic“).",
+          "Stellt einen Zusammenhang zwischen Text und möglicher emotionaler Wirkung her."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt wie ein spielerisches Nonsens‑Lied, doch seine scheinbare Leichtfertigkeit verbirgt eine tiefere, fast philosophische Botschaft, die im Kontext der Nachkriegszeit und der aufkommenden Swing‑Kultur besonders resoniert.",
+          "Die wiederholten Silben und das rhythmische „flat foot floogie“ fungieren als lautmalerische Metaphern für das unbeschwerte, improvisierte Tanzen, das in den 1950er‑Jahren als Gegenpol zu den schweren Belastungen des Alltags diente.",
+          "Durch die ständige Wiederholung entsteht ein hypnotischer Groove, der den Hörer in einen Zustand der Entspannung versetzt und gleichzeitig das Gefühl von Gemeinschaft vermittelt – das „Gang“ zu swing‑en, das im Refrain als kollektives Ritual erscheint.",
+          "Die Zeilen suggerieren, dass das Aufgeben von Sorgen und das bewusste Ignorieren gesellschaftlicher Erwartungen ein befreiender Akt ist.",
+          "Der Ausdruck „go hang“ kann als ironische Aufforderung gelesen werden, die Lasten abzuschütteln und sich dem Moment hinzugeben.",
+          "Das Bild des „greater tonic“ verweist auf die heilende Kraft der Musik und des Tanzes, die als Gegenmittel zu den chronischen Belastungen des Lebens fungieren.",
+          "Indem Armstrong das Wortspiel mit „stumbling“ einführt, wird das Unperfekte gefeiert: Das Stolpern im Takt ist kein Versagen, sondern ein integraler Teil des gemeinsamen Schwungs.",
+          "So wird das Lied zu einem Manifest der resilienten Freude, das die Hörer ermutigt, im Rhythmus der Gemeinschaft zu schwingen, anstatt sich von individuellen Sorgen erdrücken zu lassen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die Wiederholung im Text mit einer möglichen hypnotischen Wirkung.",
+          "Erkennt das Motiv des „greater tonic“ und versucht, dessen symbolische Bedeutung zu erklären."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt wie ein spielerisches Nonsens‑Lied, doch seine scheinbare Leichtfertigkeit verbirgt eine tiefere, fast subversive Botschaft, die in den 1950er‑Jahren besonders resonant war.",
+          "Der wiederholte Refrain fungiert als rhythmisches Mantra, das den Hörer in einen tranceartigen Swing‑Zustand versetzt und damit das konventionelle Songwriting sprengt.",
+          "Durch die absurde Wortschöpfung wird die Sprache selbst zu einem Instrument des Befreiungsakts: Statt klare Bedeutungen zu vermitteln, fordert das Lied dazu auf, die Bedeutungslosigkeit des Alltags zu umarmen und sich dem Moment hinzugeben.",
+          "Die Zeilen suggerieren eine bewusste Ablehnung von Sorgen und gesellschaftlichen Pflichten.",
+          "Das Wort „hang“ kann als Aufforderung zum Loslassen, zum Aufhängen der Lasten, verstanden werden, während das Wortspiel mit „tonic“ – sowohl als Heilmittel als auch als musikalischer Grundton – die Idee vermittelt, dass das Schwimmen im Swing‑Rhythmus selbst die heilende Kraft besitzt.",
+          "Das Bild des „gang“ impliziert Gemeinschaft, ein Kollektiv, das gemeinsam stolpert und tanzt, was den sozialen Zusammenhalt in einer Zeit des Kalten Krieges und der beginnenden Bürgerrechtsbewegung symbolisiert.",
+          "Durch die ständige Wiederholung von „yeah, yeah, yeah“ und das fast kindliche „floy, floy“ entsteht ein Gefühl von Unbeschwertheit, das zugleich als Gegenmittel zu den drückenden politischen und kulturellen Spannungen dient.",
+          "Armstrongs unverwechselbare Stimme verleiht dem Nonsens eine Authentizität, die den Hörer einlädt, die Oberflächlichkeit zu durchdringen und im Klang selbst eine Form von Widerstand und Selbstbestimmung zu finden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf wiederkehrende Textteile (z. B. „yeah, yeah, yeah\").",
+          "Versucht, den historischen Kontext (Kalter Krieg, Bürgerrechtsbewegung) zu verknüpfen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt wie ein spielerisches Nonsens‑Lied, doch seine scheinbare Leichtfertigkeit verbirgt eine tiefere, fast philosophische Botschaft, die im Kontext der Nachkriegszeit und der aufkommenden Jugendkultur der 1950er‑Jahre besonders resoniert.",
+          "Der wiederholte Refrain fungiert als rhythmisches Mantra, das den Hörer in einen tranceartigen Zustand versetzt und gleichzeitig die Freiheit des Tanzes und des unbeschwerten Lebens feiert.",
+          "Die Wortwahl ist bewusst absurd; sie löst die Erwartung nach Sinn und Bedeutung auf und eröffnet damit einen Raum für improvisierte Interpretation – ein Prinzip, das Armstrongs Jazz‑Improvisation widerspiegelt.",
+          "Die Zeilen suggerieren eine Haltung der Resignation gegenüber Alltagsdruck, die jedoch nicht in Passivität, sondern in aktives Aussteigen aus dem Ernst des Lebens mündet.",
+          "Das „go hang“ ist ein Aufruf, die Sorgen abzuschütteln und sich dem kollektiven Swing anzuschließen, was durch das Bild des „gang“ verstärkt wird.",
+          "Der „greater tonic“ ist dabei nicht nur ein medizinischer Begriff, sondern ein metaphorisches Gegenmittel gegen die Tristesse, das im gemeinsamen Tanzen und im rhythmischen Fließen der Musik gefunden wird.",
+          "Durch die ständige Wiederholung und die leichte Variation von „stumbling“ zu „swingin’“ entsteht ein Spannungsbogen zwischen Unsicherheit und Selbstvertrauen, der den Hörer ermutigt, das Unvollkommene zu umarmen.",
+          "In dieser Weise wird das Lied zu einem Aufruf, das Leben mit Leichtigkeit zu tanzen, die eigenen Sorgen zu entkräften und im kollektiven Groove eine neue, befreiende Identität zu finden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt die Variation zwischen den Worten „stumbling“ und „swingin’“ im Text.",
+          "Verbindet die wiederholten Refrains mit einer möglichen tranceartigen Wirkung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben generischen Interpretationsmuster (Nonsens‑Lied → tiefere Botschaft → Gemeinschaft/Heilung). Die inhaltliche Varianz ist gering, was die Scores homogen macht.",
+    "empfehlung": "Ein Ansatz, der stärker textnah bleibt (z. B. direkte Analyse von Wortbedeutungen, Rhythmus und formalen Wiederholungen) und weniger spekulative historische Kontextualisierungen bietet, würde die Halluzinationsrate senken und gleichzeitig die analytische Tiefe erhöhen."
+  }
+}

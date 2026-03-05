@@ -1,0 +1,100 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Hymne an die Selbstakzeptanz und die Liebe jenseits von Schönheitsidealen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine gewisse Nonchalance und Akzeptanz gegenüber den Unzulänglichkeiten der Partnerin aus."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die ironische Liebeserklärung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger stellt klar, dass Schönheit vergänglich ist und ein 'Arschgesicht' wie das seiner Partnerin beständig bleibt.",
+          "Der Song kann als eine Kritik an der Oberflächlichkeit der Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Provokation der gängigen Schönheitsideale und ein Plädoyer für die Akzeptanz von Individualität."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Botschaft des Songs zu erfassen, aber bleibt teilweise oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Hymne an die Selbstakzeptanz und die Liebe jenseits von Schönheitsidealen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine gewisse Nonchalance und Akzeptanz gegenüber den Unzulänglichkeiten der Partnerin aus."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die ironische Liebeserklärung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Kritik an den Schönheitsidealen der Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind geprägt von einer Mischung aus Spott und Zuneigung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Botschaft des Songs zu erfassen, aber bleibt teilweise oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Provokation gegen die gängigen Schönheitsideale und die damit verbundene Erwartungshaltung an Frauen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Plädoyer für die Akzeptanz von Unterschieden und die Liebe zu jemandem, der nicht den gängigen Normen entspricht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Botschaft des Songs zu erfassen, aber bleibt teilweise oberflächlich."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1 und 3 zeigen eine hohe Konsistenz in ihrer Analyse und bleiben textgetreu.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch zu beachten, dass alle Interpretationen ihre Stärken und Schwächen haben und eine Kombination aus verschiedenen Ansätzen zu einer umfassenderen Analyse führen kann."
+  }
+}

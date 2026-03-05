@@ -1,0 +1,112 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine melancholische Ballade, die die Sehnsucht und die Verbundenheit zwischen zwei Menschen thematisiert.",
+          "Der Songtext hat eine nostalgische und romantische Atmosphäre, die durch die Beschreibung von fernen Orten und Erinnerungen an gemeinsame Erlebnisse verstärkt wird.",
+          "Insgesamt ist ... ein emotionaler und sentimentaler Song, der die tiefe Verbundenheit zwischen zwei Menschen und die Sehnsucht nach ihrer Wiedervereinigung thematisiert.",
+          "Der Songtext hat eine zeitlose Qualität und spricht von universellen menschlichen Emotionen, die unabhängig von Ort und Zeit sind."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Beobachtungen (z. B. die wiederholte Zeile, die Imperative, die konkreten Ortsbeschreibungen).",
+          "Wiederholte Bezugnahme auf konkrete Textstellen stärkt die Faktentreue."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine melancholische Ballade, die die Sehnsucht und die Verbundenheit zwischen zwei Menschen thematisiert.",
+          "Der Songtext hat eine nostalgische und romantische Atmosphäre, die durch die Beschreibung von fernen Orten und Erinnerungen an gemeinsame Erlebnisse verstärkt wird.",
+          "Insgesamt ist ... ein emotionaler und sentimentaler Song, der die tiefe Verbundenheit zwischen zwei Menschen und die Sehnsucht nach ihrer Wiedervereinigung thematisiert.",
+          "Der Songtext hat eine zeitlose Qualität und spricht von universellen menschlichen Emotionen, die unabhängig von Ort und Zeit sind."
+        ],
+        "positive_aspekte": [
+          "Gute Textbelege für die wiederholte Zeile und die Imperative.",
+          "Stimmige Zusammenfassung der Grundthematik des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile \"You belong to me\" ist ein Ausdruck der Besitzergreifung und der emotionalen Abhängigkeit.",
+          "Der Sänger kann sich nicht vorstellen, ohne seine Geliebte zu sein, und hofft, dass sie ähnliche Gefühle hegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine melancholische Ballade, die die Sehnsucht und die Verbundenheit zwischen zwei Menschen thematisiert.",
+          "Die Erwähnung von Pyramiden, Sonnenaufgängen und Märkten in fernen Ländern dient als Kontrast zu der Einsamkeit, die der Sänger ohne seine Geliebte empfindet.",
+          "Der Song kann auch als eine Art Liebesbrief interpretiert werden, in dem der Sänger seine Geliebte auffordert, an ihn zu denken, wenn sie an fernen Orten ist.",
+          "Insgesamt ist ... ein sentimentaler Song, der die Komplexität von Liebe und Sehnsucht thematisiert."
+        ],
+        "positive_aspekte": [
+          "Mehrere konkrete Textbelege (z. B. Imperative, Zeilen über Einsamkeit).",
+          "Versucht, tiefere Bedeutungen wie Besitzergreifung und Liebesbrief zu extrahieren, was die analytische Tiefe erhöht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine melancholische Ballade, die die Sehnsucht und die Verbundenheit zwischen zwei Menschen thematisiert.",
+          "Der Songtext hat eine nostalgische und romantische Atmosphäre, die durch die Beschreibung von fernen Orten und Erinnerungen an gemeinsame Erlebnisse verstärkt wird.",
+          "Insgesamt ist ... ein emotionaler und sentimentaler Song, der die tiefe Verbundenheit zwischen zwei Menschen und die Sehnsucht nach ihrer Wiedervereinigung thematisiert.",
+          "Der Songtext hat eine zeitlose Qualität und spricht von universellen menschlichen Emotionen, die unabhängig von Ort und Zeit sind."
+        ],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Analyse.",
+          "Klare Identifikation von wiederholten Motiven und Imperativen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine melancholische Ballade, die die Sehnsucht und die Verbundenheit zwischen zwei Menschen thematisiert.",
+          "Der Songtext hat eine nostalgische und romantische Atmosphäre, die durch die Beschreibung von fernen Orten und Erinnerungen an gemeinsame Erlebnisse verstärkt wird.",
+          "Insgesamt ist ... ein emotionaler und sentimentaler Song, der die tiefe Verbundenheit zwischen zwei Menschen und die Sehnsucht nach ihrer Wiedervereinigung thematisiert.",
+          "Der Songtext hat eine zeitlose Qualität und spricht von universellen menschlichen Emotionen, die unabhängig von Ort und Zeit sind."
+        ],
+        "positive_aspekte": [
+          "Starke Textbelege für die wiederholte Zeile und die Imperative.",
+          "Gute Zusammenfassung der Grundthematik."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Vier Interpretationen sind nahezu identisch und zeigen sehr geringe Varianz; die fünfte Interpretation weicht deutlich ab, was die durchschnittliche Konsistenz senkt.",
+    "empfehlung": "Die fast identischen Interpretationen (1,2,3,4) erreichen höchste Faktentreue, jedoch nur mittlere analytische Tiefe. Die fünfte Interpretation liefert mehr textbasierte Tiefe, leidet jedoch unter einigen erfundenen Aussagen. Ein optimaler Ansatz kombiniert die faktentreuen Grundlagen der ersten vier mit den tiefergehenden, aber sorgfältig begründeten Analysen der fünften, um sowohl Halluzinationsrate niedrig als auch die Interpretations‑Tiefe zu erhöhen."
+  }
+}

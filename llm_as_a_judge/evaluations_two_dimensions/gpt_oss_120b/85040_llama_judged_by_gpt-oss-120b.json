@@ -1,0 +1,97 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Unberechenbarkeit und die ständige Veränderung des Menschen machen es dem Protagonisten unmöglich, ihn zu durchschauen, und führen zu einer emotionalen Belastung, die \"ihn umbringt\"."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus einer Zeile des Liedes ableiten.",
+          "Klare Struktur: jede Metapher (Maske, Barrikaden, Monster) wird erklärt und mit dem Jekyll‑und‑Hyde‑Motiv verknüpft.",
+          "Wenig vage Allgemeinplätze, dafür konkrete Bezüge zu den wiederholten Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile \"Oh it's killing me your unpredictability\" betont die emotionalen Folgen, die diese Doppelheit für den Betroffenen hat, der sich in einem Teufelskreis aus Vertrauen und Misstrauen befindet.",
+          "Durch die Verwendung des Konzepts von Jekyll und Hyde als Metapher für die Doppelheit der menschlichen Natur gelingt es dem Song, die Komplexität und Gefährlichkeit menschlicher Beziehungen zu thematisieren."
+        ],
+        "positive_aspekte": [
+          "Systematischer Abbau der Bildsprache des Textes (Innocence → Veneer → Barrikaden → Monster).",
+          "Verknüpft die wiederholten Refrains mit einer klaren emotionalen Wirkung, ohne zu abstrakt zu werden."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Unberechenbarkeit und die ständige Veränderung des Menschen machen es dem Protagonisten unmöglich, ihn zu durchschauen, und führen zu einer emotionalen Belastung, die \"ihn umbringt\"."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen wörtlicher Analyse (z. B. „Rage consumes you every night“) und interpretativer Reflexion (Ambivalenz des Charakters).",
+          "Vermeidet überflüssige Allgemeinplätze und bleibt beim Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Unberechenbarkeit dieses Menschen, die \"unpredictability\", ist es, die den Sprecher in den Wahnsinn treibt, da er nie weiß, was als Nächstes passieren wird."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die Zeilen „Always changing / Then love hating / Baiting me“ eindeutig mit der Love‑Hate‑Dynamik des Songs.",
+          "Klare, nachvollziehbare Argumentationskette von Bild zu Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeilen ... betont die emotionalen Konflikte und die Verzweiflung, die aus dieser Beziehung resultieren.",
+          "Der Song porträtiert somit eine komplexe, ambivalente Persönlichkeit, die zwischen Gut und Böse, Licht und Dunkelheit schwankt und deren wahres Wesen nur schwer zu durchschauen ist."
+        ],
+        "positive_aspekte": [
+          "Stimmt in allen Punkten mit dem Wortlaut des Liedes überein.",
+          "Gute Zusammenfassung der zentralen Metapher Jekyll‑und‑Hyde."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernbilder (Maske, Barrikaden, Monster, Unberechenbarkeit) auf; Unterschiede liegen nur im Umfang der allgemeinen Aussagen. Die Varianz ist gering, was auf ein hohes Maß an Konsistenz, aber auch auf begrenzte kreative Divergenz hindeutet.",
+    "empfehlung": "Interpretationen 1, 2, 3 und 5 zeigen ein gutes Gleichgewicht zwischen Texttreue und analytischer Tiefe. Besonders Interpretation 3 (Nummer 3) kombiniert präzise Textbezüge mit einer klaren, aber nicht übertriebenen Auslegung, wodurch sie als insgesamt stärkste Analyse gilt."
+  }
+}

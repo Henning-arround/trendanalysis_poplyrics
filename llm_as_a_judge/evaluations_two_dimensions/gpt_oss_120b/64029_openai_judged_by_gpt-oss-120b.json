@@ -1,0 +1,97 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt das Lied die Botschaft, dass wahre Liebe nicht durch das Fehlen von Konflikten definiert wird, sondern durch die Bereitschaft, gemeinsam durch Schmerz und Freude zu gehen, weil das Ergebnis – das gegenseitige „Wertsein“ – jede Anstrengung rechtfertigt."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Textbezüge (Rose‑Metapher, Refrain‑Wiederholungen, „lost in your kiss“).",
+          "Klare Analyse des Zyklus von Kampf‑Fall‑Wiederaufstieg.",
+          "Erkennt die Ambivalenz zwischen Unvollkommenheit und Wertschätzung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text bleibt damit ein Plädoyer für die Akzeptanz von Höhen und Tiefen, das Festhalten an intensiven Momenten und das Vertrauen, dass das gemeinsame Durchstehen die Beziehung letztlich rechtfertigt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Aussagen (z. B. Rose‑Metapher, „People talk too much“).",
+          "Erklärt die Funktion des Refrains als Mantra.",
+          "Verknüpft das Motiv des Kusses mit einem „emotionalen Anker“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt das Lied die Botschaft, dass wahre Bindungen nicht durch Perfektion, sondern durch das fortwährende Bemühen, trotz Fehlern und Missverständnissen zusammenzuhalten, definiert werden."
+        ],
+        "positive_aspekte": [
+          "Systematischer Durchlauf aller Song‑Elemente (Rose, Refrain, äußere Stimmen).",
+          "Betont die Selbstreflexion des Sprechers („I might break sometimes“).",
+          "Verbindet das Motiv des Kusses mit einem „emotionalen Anker“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Abschließend wird die Bereitschaft ausgedrückt, alles zu geben („Girl I would do anything“), was die zentrale Botschaft des Songs zusammenfasst: Trotz aller Hindernisse ist die Beziehung selbst das, was „worth it all“ ist – ein kostbares, wenn auch unperfektes Band, das durch gegenseitige Anstrengung und Verzeihung erhalten bleibt."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textstellen mit ihrer interpretativen Bedeutung.",
+          "Erklärt die rhythmische Wirkung der Wiederholungen im Refrain.",
+          "Bezieht äußere Kritik („People talk too much“) in die Analyse ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, textnahe Analyse aller zentralen Motive (Rose, Film‑Vergleich, Kuss‑Zyklus).",
+          "Erkennt die strukturelle Funktion des „Zurück‑zu‑Start“-Motivs als bewusste Rückkehr zum Kerngefühl.",
+          "Verknüpft die Selbstreflexion („You’re perfectly worth it for sure“, „I might break sometimes“) mit dem Vertrauensaufbau für die Zukunft."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Kernaussagen (Rose‑Metapher, Refrain‑Zyklus, Kuss‑Motiv, äußere Stimmen). Die Varianz liegt hauptsächlich im Grad der Oberflächlichkeit – Interpretation 4 bleibt durchgehend konkret, während 1‑3‑5 gelegentlich in allgemeine Zusammenfassungen abgleiten.",
+    "empfehlung": "Interpretation 4 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe. Für zukünftige Bewertungen sollte darauf geachtet werden, allgemeine Schlussfolgerungen zu vermeiden und stattdessen jede Aussage klar auf den Songtext zu beziehen."
+  }
+}

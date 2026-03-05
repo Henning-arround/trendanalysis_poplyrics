@@ -1,0 +1,99 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Körperästhetik spiegelt den wachsenden Konsumismus und die Selbstoptimierung des Neoliberalismus wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textpassagen lassen jedoch offene Spannungen zurück"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der metaphorischen Bedeutung von 'body'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität bleibt offen und erzeugt ein Spannungsfeld, das den Song als Spiegel der widersprüchlichen Körperkultur seiner Zeit erscheinen lässt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bildsprache bleibt jedoch fragmentarisch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Ambiguität zwischen Freiheit und Kontrolle an"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Körperästhetik spiegelt den wachsenden Konsumismus und die Selbstoptimierung des Neoliberalismus wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textpassagen lassen jedoch offene Spannungen zurück"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der metaphorischen Bedeutung von 'body'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität zwischen Befreiung durch Bewegung und dem Druck, sich ständig zu beweisen, bleibt offen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung von 'your body' lässt das Individuum zum Objekt der Selbstoptimierung werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Ambiguität zwischen Freiheit und Kontrolle an"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität liegt darin, dass das Lied einerseits Gesundheit und Selbstliebe propagiert, andererseits ein implizites Leistungsprinzip etabliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textpassagen lassen jedoch offene Spannungen zurück"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der metaphorischen Bedeutung von 'body'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Textstruktur und der metaphorischen Bedeutung von 'body'",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und erkennt die Ambiguität zwischen Freiheit und Kontrolle an"
+  }
+}

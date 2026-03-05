@@ -1,0 +1,99 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Angst vor Krieg und Gewalt war in dieser Zeit groß"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'The world we live in is a violent place' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Verunsicherung und Frustration geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Ausdruck der Unzufriedenheit mit der bestehenden Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Verwendung des Bildes vom 'Sturm' und der 'Klinge'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Angst vor Krieg und Gewalt war in dieser Zeit groß"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'The world we live in is a violent place' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des Bildes vom 'Sturm' kann als eine Metapher für die Herausforderungen und Schwierigkeiten des Lebens interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Kommentar zu den Herausforderungen und Schwierigkeiten der menschlichen Existenz interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Zeile 'Will we try together for a better life / Or do we live forever on the edge of a knife'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Angst vor Krieg und Gewalt war in dieser Zeit groß"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'The world we live in is a violent place' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Analyse der literarischen Stilmittel und der zentralen Botschaft des Songs",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und diskutiert die Verwendung literarischer Stilmittel wie Metaphern und Symbole"
+  }
+}

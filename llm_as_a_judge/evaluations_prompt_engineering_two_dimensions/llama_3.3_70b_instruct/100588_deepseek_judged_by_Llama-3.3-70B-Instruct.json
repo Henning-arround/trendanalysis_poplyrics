@@ -1,0 +1,95 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Intensität und thematische Komplexität des Songs können als ein Ausdruck der emotionalen Erfahrungen und Sehnsüchte der Jugendlichen in dieser Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein emotional intensiver und thematisch komplexer Text interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Interpretation der Metaphern sind gut durchdacht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Intensität und thematische Komplexität des Songs können als ein Ausdruck der emotionalen Erfahrungen und Sehnsüchte der Jugendlichen und jungen Erwachsenen dieser Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein vielschichtiger Text interpretiert werden, der die Komplexität menschlicher Emotionen und Beziehungen reflektiert."
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung der Aufforderung 'Show me a reason' wird gut analysiert."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein emotional intensiver und thematisch komplexer Text interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und die Interpretation der symbolischen Ordnung des Songs sind sehr gut."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein emotional intensiver und thematisch komplexer Text interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Interpretation der Metaphern sind sehr gut."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Gesellschaft der frühen 2000er Jahre, geprägt von Individualisierung und einer zunehmenden Bedeutung von Beziehungen, kann als Hintergrund für die Thematik des Songs gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein emotional intensiver und thematisch komplexer Text interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der symbolischen Ordnung des Songs und die Interpretation der Ambivalenzen sind gut durchdacht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.9,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der literarischen Stilmittel und der Interpretation der Metaphern.",
+    "empfehlung": "Die Interpretationen 3 und 4 sind die besten, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigen."
+  }
+}

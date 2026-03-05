@@ -1,0 +1,94 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Idee einer resilienten, aber zugleich unsteten Bindung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der Rose",
+          "Die Betonung der Unvollkommenheit der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Idee des zyklischen Musters von Streit und Versöhnung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der Rose",
+          "Die Betonung der Akzeptanz von Unvollkommenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Idee der emotionalen Achterbahn"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der Rose",
+          "Die Betonung der Unvollkommenheit der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Idee des bewussten Rückkehrs zu einem Kerngefühl"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der Rose",
+          "Die Betonung der Authentizität der Gefühle"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Idee der flüchtigen Harmonie"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der Rose",
+          "Die Betonung der Notwendigkeit, sich von fremden Stimmen zu lösen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

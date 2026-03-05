@@ -1,0 +1,99 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die thematische Komplexität des Songs liegt in der Verquickung von Erinnerung, Sehnsucht und Verdrängung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Schwierigkeit, eine verlorene Liebe zu überwinden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'rauchenden Träume' und der Zigarette als Symbol für die vergangene Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein kulturelles Dokument der 1990er Jahre interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Melancholie und Sehnsucht geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Rauch als Symbol für die Vergänglichkeit und die emotionale Wirkung der Erinnerung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Erinnerung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs liegt in der Verquickung von Erinnerung, Sehnsucht und Verdrängung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rauchs und der Zigarette"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert die Erfahrungen von Liebe, Verlust und Erinnerung in einer postmodernen Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Melancholie und Sehnsucht geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Rauch als Symbol für die Vergänglichkeit und die emotionale Wirkung der Erinnerung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität zwischen Verdrängung und Erinnerung wird in der Zeile 'I try to pretend / Our love has ended / But my heart tells me no' deutlich"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Schwierigkeit, eine verlorene Liebe zu überwinden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rauchs und der Zigarette"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

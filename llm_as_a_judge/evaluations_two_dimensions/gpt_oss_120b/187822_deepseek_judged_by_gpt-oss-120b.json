@@ -1,0 +1,115 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text deutet darauf hin, dass die Beziehung von Anfang an zum Scheitern verurteilt war.",
+          "Der Sänger glaubt, dass seine Partnerin bereits von Beginn an wusste, dass sie ihn nicht wirklich lieben konnte und dass er nur eine vorübergehende Episode in ihrem Leben war.",
+          "Der Sänger beschreibt auch, wie er völlig unter ihrer Kontrolle stand und sich von ihr verführen ließ, ohne die Zeichen für das Ende der Beziehung zu erkennen.",
+          "Er kann nicht verstehen, wie seine Partnerin so leicht und skrupellos sein Herz brechen konnte, und er bleibt mit der Frage zurück, ob sie von Anfang an vorhatte, ihn zu verlassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt drückt der Song die tiefe Verletzung und Verwirrung aus, die der Sänger nach dem Ende der Beziehung empfindet."
+        ],
+        "positive_aspekte": [
+          "Mehrere Aussagen sind direkt aus dem Text ableitbar (z. B. die wiederholte Frage nach dem Herzbrechen, das Zitat \"I love you, but I can't be your one and only girl\").",
+          "Die Interpretation greift zentrale Motive des Liedes (Schlaf, Flüstern des Namens, das Bild des Zaubers) auf."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Sie sagte ihm, dass sie ihn liebt, aber nicht als einzigen Partner haben kann, was ihn rückblickend erkennen lässt, dass sie wahrscheinlich von Anfang an nicht vorhatte, die Beziehung langfristig zu führen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck der schmerzhaften Erfahrung einer einseitigen Liebe und des Vertrauensverlusts."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich eindeutig aus dem Songtext ableiten (z. B. das nächtliche Flüstern, das Bild des „unter dem Zauber“ sein, die wiederholte Frage nach dem Herzbrechen).",
+          "Die Interpretation geht über reine Zusammenfassung hinaus, indem sie die Ambivalenz zwischen Verzauberung und Ausnutzung thematisiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Sie sagte ihm, dass sie ihn liebt, aber nicht als einzigen Partner haben kann, was ihn rückblickend erkennen lässt, dass sie wahrscheinlich von Anfang an nicht vorhatte, die Beziehung langfristig zu führen.",
+          "Die Lyrics lassen darauf schließen, dass der Sänger sich fragt, ob seine Partnerin von Anfang an geplant hatte, ihn zu verlassen, und ob sie ihn nur benutzt hat, um ihre eigenen Bedürfnisse zu befriedigen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song die Verletzlichkeit und den Schmerz eines Menschen, der von einer Beziehung enttäuscht wurde und versucht, die Gründe für das Ende zu verstehen.",
+          "Die wiederkehrende Frage, wie seine Partnerin es geschafft hat, sein Herz so leicht zu brechen, ist ein Ausdruck seiner Hilflosigkeit und seines emotionalen Schmerzes."
+        ],
+        "positive_aspekte": [
+          "Verweist konkret auf zentrale Textstellen (z. B. „under your spell“, die Frage nach dem Abschiedskuss).",
+          "Bietet eine nachvollziehbare Interpretation der inneren Zerrissenheit des Erzählers."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text deutet darauf hin, dass die Beziehung von Anfang an zum Scheitern verurteilt war.",
+          "Der Sänger glaubt, dass seine Partnerin bereits von Beginn an wusste, dass sie ihn nicht wirklich lieben konnte und dass er nur eine vorübergehende Episode in ihrem Leben war.",
+          "Der Sänger beschreibt auch, wie er völlig unter ihrer Kontrolle stand und sich von ihr verführen ließ, ohne die Zeichen für das Ende der Beziehung zu erkennen.",
+          "Er kann nicht verstehen, wie seine Partnerin so leicht und skrupellos sein Herz brechen konnte, und er bleibt mit der Frage zurück, ob sie von Anfang an vorhatte, ihn zu verlassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt drückt der Song die tiefe Verletzung und Verwirrung aus, die der Sänger nach dem Ende der Beziehung empfindet."
+        ],
+        "positive_aspekte": [
+          "Zieht mehrere Textzitate heran (z. B. das Zitat \"I love you, but I can't be your one and only girl\").",
+          "Erkennt die wiederkehrende Frage nach dem Herzbrechen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text deutet darauf hin, dass die Beziehung von Anfang an zum Scheitern verurteilt war.",
+          "Der Sänger glaubt, dass seine Partnerin bereits von Beginn an wusste, dass sie ihn nicht wirklich lieben konnte und dass er nur eine vorübergehende Episode in ihrem Leben war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist auch eine Reflexion über die Verblendung in der Liebe.",
+          "Insgesamt ist \"Breaking My Heart\" ein emotionaler und introspektiver Song, der die Schmerz und Verwirrung nach einer gescheiterten Beziehung thematisiert.",
+          "Der Sänger sucht nach Antworten auf die Frage, warum seine Partnerin ihn so leicht verlassen konnte, und reflektiert über die eigene Verblendung in der Liebe."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf mehrere Textstellen (z. B. das Bild des Zaubers, die Frage nach dem Abschiedskuss).",
+          "Bietet eine etwas differenziertere Sichtweise, indem sie die „Verblendung in der Liebe“ als thematisches Element nennt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2 und 3 sind nahezu identisch, was auf geringe Varianz hinweist. Die übrigen Versionen unterscheiden sich leicht in Detailgrad und Spekulation, sodass insgesamt ein moderates Maß an Konsistenz erkennbar ist.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance aus Texttreue und analytischer Tiefe. Künftige Modelle sollten darauf achten, spekulative Aussagen zu kennzeichnen und mehr textbasierte, aber dennoch differenzierte Analysen zu bieten, um sowohl Halluzinationen zu minimieren als auch die interpretative Tiefe zu erhöhen."
+  }
+}

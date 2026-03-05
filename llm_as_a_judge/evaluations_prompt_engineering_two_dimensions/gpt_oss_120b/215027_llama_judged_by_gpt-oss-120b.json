@@ -1,0 +1,121 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden, in dem die Liebe und die Beziehungen zwischen Menschen eine wichtige Rolle in der Jugendkultur und der Gegenkultur spielten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die Bedeutung von Liebe und Beziehungen in der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel, wie die Verwendung von Metaphern und Bildern, tragen zur emotionalen Wirkung des Songs bei.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Liebe als einer Art von universeller Sprache, die Menschen verbindet und eine Art von gemeinsamer Erfahrung ermöglicht.",
+          "Es gibt jedoch auch Ambiguitäten und Spannungen im Song, die im Text nicht vollständig aufgelöst werden."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (z. B. Analyse der Metaphern, der Wiederholungen und der Bildsprache).",
+          "Die Interpretation geht über reine Oberflächlichkeit hinaus und diskutiert narrative Struktur und kollektive Ekstase.",
+          "Nur ein einziger erfundener Fakt (historischer Kontext) wurde eingebracht, was die Halluzinationsrate niedrig hält."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden, einer Zeit, in der die Gesellschaft sich stark veränderte und die Liebe und die Beziehungen neu definiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" ... kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die Bedeutung von Liebe und Beziehungen in der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel ... tragen zur thematischen Komplexität des Songs bei.",
+          "Diese Ambiguitäten und Spannungen bleiben im Song ungelöst und bieten Raum für Interpretationen und Reflexionen."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei den meisten Aussagen (z. B. Analyse von \"Ich geh' wie auf Wolken…\" und \"Wir grüßen die Menschen…\").",
+          "Nur ein einziger erfundener Kontextbezug, wodurch die Halluzinationsrate bei ca. 9 % liegt.",
+          "Die Interpretation liefert eine substanzielle, aber nicht übermäßig ausschweifende Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden, einer Zeit, in der die Gesellschaft sich stark veränderte und die Liebe und die Beziehungen neu definiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" ... kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die Bedeutung von Liebe und Beziehungen in der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel ... tragen zur thematischen Komplexität des Songs bei.",
+          "Diese Ambiguitäten und Spannungen bleiben im Song ungelöst und bieten Raum für Interpretationen und Reflexionen."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung bei den meisten Punkten, ähnlich wie bei Interpretation 1.",
+          "Nur ein einziger historischer Kontext, der nicht im Text verankert ist, was die Halluzinationsrate gering hält.",
+          "Gute Balance zwischen faktischer Analyse und interpretativer Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1970er Jahren, einer Zeit, in der die Gesellschaft sich stark veränderte und die traditionellen Werte und Normen in Frage gestellt wurden.",
+          "Der Song kann als eine Art von Gegenbewegung zu dieser Entwicklung gesehen werden, indem er die Bedeutung von Liebe und Beziehungen betont."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" ... kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die Bedeutung von Liebe und Beziehungen in der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel ... tragen zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Liebe als einem zentralen Element des menschlichen Lebens, das über alle anderen Aspekte des Lebens steht."
+        ],
+        "positive_aspekte": [
+          "Enthält viele textbasierte Beobachtungen (Metaphern, Bildsprache, zentrale Botschaft).",
+          "Erweiterte den historischen Kontext, was zusätzliche Perspektiven eröffnet (wenn auch spekulativ).",
+          "Trotz mehr erfundener Aussagen bleibt die Halluzinationsrate bei etwa 21 %."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden, einer Zeit, in der die Gesellschaft sich stark veränderte und die Liebe und die Beziehungen neu definiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" ... kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die Bedeutung von Liebe und Beziehungen in der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel ... tragen zur thematischen Komplexität des Songs bei.",
+          "Diese Ambiguitäten und Spannungen bleiben im Song ungelöst und bieten Raum für Interpretationen und Reflexionen."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Textstellen (z. B. Metaphern, Wiederholungen).",
+          "Nur ein einziger historischer Kontext, wodurch die Halluzinationsrate niedrig bleibt.",
+          "Gute Tiefe, da neben reinen Beschreibungen auch die Wirkung der Metaphern diskutiert wird."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen sind stark redundant; vier von ihnen wiederholen nahezu identische Argumentationsmuster. Nur Interpretation 3 fügt zusätzliche Analyseebenen (Narrativstruktur, kollektive Ekstase) ein, was zu einer höheren Bewertung führt.",
+    "empfehlung": "Für zukünftige Bewertungen sollte das Modell stärker darauf achten, neue, textbasierte Einsichten zu generieren und spekulative historische oder biografische Angaben zu vermeiden. Eine Interpretation, die sowohl texttreu bleibt als auch zusätzliche, begründete Analyseaspekte (wie Interpretation 3) liefert, erzielt die beste Balance zwischen Halluzinationsfreiheit und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'You got what I'm sayin' / Your whole life was a damn concert' deuten auf eine Art von Resignation und Akzeptanz hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Zeitlosigkeit von Kunst und Musik zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'time travel' und die Symbole des '바다' (Meer) und des '산' (Berg) schaffen eine komplexe narrative Struktur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Zeitlosigkeit von Kunst und Musik zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verschiedenen literarischen Stilmittel im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen '꿈에 한가운데는 폭풍의 눈 아직 괴로운 / 주위를 맴돌지만 닿게 돼있어 나의 aim' deuten auf eine tiefe Sehnsucht und ein Streben nach Selbstverwirklichung hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Zeitlosigkeit von Kunst und Musik zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der emotionalen Wirkung und der thematischen Komplexität des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'time travel' und die Symbole des '바다' (Meer) und des '산' (Berg) schaffen eine komplexe narrative Struktur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Zeitlosigkeit von Kunst und Musik zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verschiedenen literarischen Stilmittel im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Zeitlosigkeit von Kunst und Musik zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr detaillierte und textbasierte Analyse der literarischen Stilmittel, der emotionalen Wirkung und der thematischen Komplexität des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die beste Interpretation (Nummer 5) bietet eine sehr detaillierte und textbasierte Analyse",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine sehr detaillierte und textbasierte Analyse der literarischen Stilmittel, der emotionalen Wirkung und der thematischen Komplexität des Songs"
+  }
+}

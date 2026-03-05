@@ -1,0 +1,102 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Sea Song“ entfaltet ein Bild von Identität und Wandel, das sich zwischen menschlicher Sehnsucht und animalischer Metapher bewegt."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Klare Analyse von Symbolen (Mond, Vollmond, Seestern, „seasonal beast“).",
+          "Verknüpft wiederholte Motive (We smile, drunk) mit deren narrativer Funktion."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "In diesem Zusammenspiel von Wasser, Mond und Alkohol entsteht ein Bild von Liebe, die ebenso flüchtig wie tief ist, und von einer gemeinsamen, fast ekstatischen Verlorenheit, die das lyrische Ich mit dem anderen Wesen teilt."
+        ],
+        "positive_aspekte": [
+          "Systematische Durchdringung des Textes – jede Strophe wird kommentiert.",
+          "Gute Balance zwischen wörtlicher Beschreibung und interpretativer Tiefe.",
+          "Erkennt die zentrale Rolle von Lunacy und Vollmond als strukturelle Anker."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Sea Song“ entfaltet ein Bild von Identität und Wandel, das sich zwischen menschlicher Sehnsucht und animalischer Metapher bewegt.",
+          "Diese Verschmelzung suggeriert ein Wesen, das zugleich verführerisch und ungreifbar ist, ein Spiegel für das eigene innere Chaos des Erzählers."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Bildsprache (Schaum, Sternenfisch) mit emotionalen Zuständen (Rausch, Morgen).",
+          "Erklärt konsequent die wiederholten Motive (We smile, seasonal beast).",
+          "Beibehaltung der Texttreue bei gleichzeitigem Einbringen von Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Sea Song“ entfaltet ein Bild von Identität und Wandel, das sich zwischen menschlicher Sehnsucht und animalischer Metapher bewegt.",
+          "Diese Vielschichtigkeit suggeriert ein Wesen, das zugleich verführerisch und ungreifbar ist, ein Spiegel für die eigene Unbeständigkeit des Erzählers.",
+          "Abschließend suggeriert das abschließende „We’re not alone“ ein Bewusstsein, dass diese flüchtige, aber tief verwurzelte Verbindung Teil eines größeren, kollektiven Ozeans von Sehnsüchten und Wahnsinn ist."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Argumentation.",
+          "Verknüpft lyrische Motive (Vollmond, Blut, Lunacy) zu einem kohärenten Bild.",
+          "Erkennt die strukturelle Wiederholung von „We smile“ als zentrales Leitmotiv."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Sea Song“ entfaltet sich als ein Bild von Identität, die sich ständig wandelt wie das Meer selbst."
+        ],
+        "positive_aspekte": [
+          "Fast ausschließlich Aussagen, die direkt aus dem Text ableitbar sind.",
+          "Sehr feine Analyse von Symbolen (Hybridität, Alkohol, Morgen‑„different you“, Jahreszeiten‑Metapher).",
+          "Erlaubt Ambivalenz und Mehrdeutigkeit, ohne spekulative Ausschmückungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben stark am Text verankert; Unterschiede liegen hauptsächlich im Anteil vager, aber nicht falscher Aussagen. Die Varianz ist gering – Halluzinationsrate ist bei allen 0 %.",
+    "empfehlung": "Interpretationen, die fast ausschließlich textbasierte Beobachtungen mit klarer, aber nicht übertriebenen Deutungen kombinieren (wie Interpretation 3), erzielen die höchste Tiefe bei voller Faktentreue. Modelle sollten darauf trainiert werden, vage Generalisierungen zu vermeiden und stattdessen konkrete Textbelege zu nutzen, während sie gleichzeitig die inhärente Mehrdeutigkeit des Songs zulassen."
+  }
+}

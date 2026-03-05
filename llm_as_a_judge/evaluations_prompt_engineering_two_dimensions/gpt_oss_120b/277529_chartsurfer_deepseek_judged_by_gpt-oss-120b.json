@@ -1,0 +1,127 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Verbindung zwischen der äußeren Schönheit und der inneren Härte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein Beispiel für die Kombination von Musik und Textanalyse, um die komplexe Bedeutung ... zu erkunden.",
+          "Der Text des Liedes ist reich an Metaphern und Symbolen, die auf die komplexe Natur der menschlichen Beziehungen und der menschlichen Natur hinweisen.",
+          "Die Emotionale Wirkung des Liedes ist stark und tief, da die Metaphern ... auf die komplexe Natur ... hinweisen.",
+          "Der Song ... ist ein Beispiel für die Kulturwissenschaft, da er die komplexe Natur ... symbolisiert.",
+          "Die Metaphern und Symbole ... ein Beispiel für die komplexe Natur ... (Wiederholung).",
+          "Die Emotionale Wirkung ... (Wiederholung)."
+        ],
+        "positive_aspekte": [
+          "Zitiert mehrere Textstellen korrekt (z. B. „June roses“, „Satan, your master“, „heart of stone“).",
+          "Stellt klare Verbindungen zwischen den Metaphern und dem Motiv von äußerer Schönheit vs. innerer Härte her."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Songs ist eine Auseinandersetzung mit Verführung und dem Verlust der emotionalen Integrität.",
+          "Der Song kann als Kommentar zu den gesellschaftlichen Konventionen und Erwartungen an Frauen in den 1950ern gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick als Klage über eine gebrochene Liebe interpretiert werden kann.",
+          "Die literarischen Stilmittel tragen wesentlich zu seiner emotionalen Wirkung bei.",
+          "Diese Stilmittel erzeugen eine affektive Dimension, die den Hörer dazu einlädt, über die Natur der emotionalen Verletzungen nachzudenken.",
+          "Der kulturelle, historische und gesellschaftliche Kontext ist ebenfalls von Bedeutung.",
+          "In den 1950er Jahren waren Themen wie Liebe, Verlust und emotionale Verletzungen in der populären Musik weit verbreitet."
+        ],
+        "positive_aspekte": [
+          "Verwendet zahlreiche direkte Zitate aus dem Song, die als Beleg für die Analyse dienen.",
+          "Erkennt und benennt mehrere literarische Mittel (Metaphern, Symbole) und diskutiert deren Gegenüberstellung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Verbindung zwischen der äußeren Schönheit und der inneren Härte.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist der 1950er Jahre, in denen die Musikindustrie eine wichtige Rolle spielte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die Kombination von Musik und Textanalyse, um die komplexe Bedeutung zu erkunden.",
+          "Der Text des Liedes ist reich an Metaphern und Symbolen, die auf die komplexe Natur der menschlichen Beziehungen hinweisen.",
+          "Die Emotionale Wirkung des Liedes ist stark und tief.",
+          "Die Metapher des \"heart of stone\" ... (Wiederholung).",
+          "Insgesamt zeigt das Lied ... (Wiederholung)."
+        ],
+        "positive_aspekte": [
+          "Korrekte Nennung aller Schlüsselmetaphern aus dem Text.",
+          "Ergänzt den historischen Kontext, was die Interpretation in einen breiteren Rahmen stellt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 1,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Verbindung von Schönheit und Schuld."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die Kombination von Musik und Textanalyse, die in der Kulturwissenschaft eine wichtige Rolle spielt.",
+          "Der Text des Liedes ist komplex und bietet eine Vielzahl von Bedeutungsebenen.",
+          "Die thematische Komplexität des Liedes wird durch die Verwendung von Metaphern und Symbolen hervorgehoben.",
+          "Die emotionale Wirkung des Liedes wird durch die Verwendung von Metaphern und Symbolen hervorgehoben.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist durch die Verwendung von Metaphern und Symbolen hervorgehoben.",
+          "Die tiefere Bedeutungsebene des Liedes ist durch die Verwendung von Metaphern und Symbolen hervorgehoben."
+        ],
+        "positive_aspekte": [
+          "Zitiert konsequent Textstellen und verbindet sie mit den genannten Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Verbindung zwischen der äußeren Schönheit und der inneren Härte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die Kombination von Musik und Textanalyse, um die komplexe Bedeutung zu erkunden.",
+          "Der Text des Liedes ist reich an Metaphern und Symbolen, die auf die komplexe Natur der menschlichen Beziehungen hinweisen.",
+          "Die Emotionale Wirkung des Liedes ist stark und tief, da die Metaphern ... auf die komplexe Natur ... hinweisen.",
+          "Der Song ist ein Beispiel für die Kulturwissenschaft, da er die komplexe Natur ... symbolisiert.",
+          "Die Metaphern und Symbole ... ein Beispiel für die komplexe Natur ... (Wiederholung).",
+          "Die Emotionale Wirkung ... (Wiederholung)."
+        ],
+        "positive_aspekte": [
+          "Stellt klare Bezüge zu den Schlüsselmetaphern her und bleibt dabei textnah."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 1.8,
+    "konsistenz_über_wiederholungen": "Die meisten Modelle neigen zu starker Wiederholung derselben Punkte, was die Oberflächlichkeit erhöht. Nur Interpretation 1 liefert ein ausgewogeneres Verhältnis von belegten Analysen zu spekulativen Aussagen.",
+    "empfehlung": "Ein Ansatz, der direkte Textzitate mit differenzierten, aber textbasierten Interpretationen kombiniert (wie Interpretation 1), erzielt die beste Balance zwischen Faktentreue und analytischer Tiefe. Modelle sollten Wiederholungen vermeiden und mehr differenzierte, begründete Schlüsse aus den vorhandenen Metaphern ziehen."
+  }
+}

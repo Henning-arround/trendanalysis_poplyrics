@@ -1,0 +1,126 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch unterstützt das repetitive Refrain die obsessive Fixierung … (keine Angaben zur Musik im Ausgangsmaterial)",
+          "Die Textstruktur … symbolisiert das Festhalten an einer Hoffnung, die kaum noch rational begründet ist (Interpretation ohne Textbeleg)"
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die wiederholte Bitte … entsteht ein Mantra, das die innere Notlage … widerspiegelt (zu allgemein, keine konkrete Textanalyse)",
+          "Die häufige Gegenüberstellung … verdeutlicht, dass Liebe … personifiziert ist (vage Bildhaftigkeit)",
+          "Die Wiederholung von Fragen … fungiert als Selbstbefragung … (allgemeine Aussage ohne Detail)",
+          "Insgesamt lässt sich der Text als ein Bekenntnis zur emotionalen Abhängigkeit lesen (Paarwort‑Klischee)",
+          "Die Sprecherin positioniert sich als verletzliche Figur … (ohne Textbeleg)",
+          "und nutzt das wiederholte Flehen, um die Unausweichlichkeit des Abschieds zu verhindern … (zu allgemein)"
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Wiederholung von „Don’t walk away…“ und die Fragen „What am I gonna do? / How will I make it through?“, die tatsächlich im Text vorkommen.",
+          "Erkennt die Wortwahl (z. B. „empty inside“, „lose my mind“) und verknüpft sie mit dem Motiv der inneren Leere."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch unterstützt die monotone Struktur des Refrains die innere Beklemmung (keine musikalischen Angaben im Ausgangstext)",
+          "Ein unterschwelliger Machtkampf lässt sich erkennen … (Spekulativ, nicht aus dem Text ableitbar)"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sprecherin positioniert sich dabei als hilfloses Subjekt … (zu allgemein)",
+          "Diese Selbstdefinition … spiegelt ein starkes Bindungsbedürfnis wider … (vage, keine Textbelege)",
+          "Die wiederholte Anrufung von „baby“ … erzeugt ein Bild von emotionaler Instabilität, das fast schon an eine klagende Oper erinnert (Metapher ohne Textgrundlage)",
+          "So wird das Liebeslied zu einem Appell, der nicht nur nach Zuneigung, sondern nach Kontrolle … (allgemeine Aussage)"
+        ],
+        "positive_aspekte": [
+          "Erfasst die wiederholte Bitte „don’t walk away“ und die emotionale Dringlichkeit des Sprechers.",
+          "Geht über reine Themenbeschreibung hinaus und spricht ein mögliches Macht‑ bzw. Kontroll‑Motiv an – obwohl spekulativ, zeigt damit analytische Initiative."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch unterstützt ein treibender Beat die panische Wiederholung … (keine Angaben zur Produktion im Ausgangsmaterial)"
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die wiederholte Bitte … entsteht ein Mantra, das die innere Zerrissenheit … widerspiegelt (zu allgemein)",
+          "Die wiederholte Gegenüberstellung … verdeutlicht, dass die Liebe nicht nur als romantische Bindung … (vage Interpretation)",
+          "Die Sprache ist simpel, aber emotional geladen … (allgemeine Feststellung)",
+          "Die wiederholten Fragen … fungieren als Selbstreflexion … (zu allgemein)",
+          "Damit wird das Stück zu einem universellen Ausdruck von Angst … (Klischee)",
+          "Die zentrale Botschaft bleibt, dass Liebe nicht nur ein Wunsch … (allgemeine Aussage)"
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Wiederholung von „Don’t walk away from love“ und die wiederholten Fragen im Text.",
+          "Verknüpft die Wortwahl („empty inside“, „lost“) mit dem Motiv der inneren Leere."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch untermalt die monotone Wiederholung der Refrains die Beklemmung … (keine musikalischen Details im Ausgangstext)"
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die wiederholte Bitte … entsteht ein Mantra, das die innere Notlage … widerspiegelt (zu allgemein)",
+          "Die wiederholte Gegenüberstellung … verdeutlicht, dass die Beziehung nicht nur romantisch … (vage)",
+          "Die Bildsprache der Tränen und des „herzen auf der Linie“ verstärkt das Bild … (allgemein)",
+          "Die Textstruktur … symbolisiert das Festhalten an einer Hoffnung … (zu abstrakt)",
+          "So wird das Lied zu einem Porträt von Angst, Sehnsucht … (Klischee)"
+        ],
+        "positive_aspekte": [
+          "Identifiziert die wiederholten Motive („without love“, „without you“, Tränen) und verknüpft sie mit dem Gefühl von Leere und Orientierungslosigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch untermalt die Wiederholung des Refrains die hypnotische Wirkung … (keine Angaben zur Musik im Ausgangstext)"
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die wiederholte Bitte … entsteht ein Mantra, das die innere Zerrissenheit … (zu allgemein)",
+          "Die wiederholte Gegenüberstellung … verdeutlicht, dass Liebe und Person … (vage)",
+          "Bildlich wird das innere Leeren … (allgemein)",
+          "Die wiederholten Tränen … verleihen dem Text eine fast obsessive Qualität … (zu allgemein)",
+          "Der Song bleibt jedoch nicht bei bloßer Klage … (Interpretation ohne Textbeleg)",
+          "So wird das Stück zu einem dramatischen Bekenntnis … (Klischee)"
+        ],
+        "positive_aspekte": [
+          "Erfasst die zentrale Wiederholung von „Don’t walk away from love“ und die konkreten Textstellen wie „lose my mind\" und \"how will I make it through\"."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Appell, Angst vor Verlust, Wiederholung). Die Varianz liegt hauptsächlich in spekulativen Musikanalysen und zusätzlichen, nicht textbasierten Deutungen, was zu unterschiedlichen Halluzinations‑Scores führt.",
+    "empfehlung": "Eine gute Interpretation sollte sich stärker an den konkreten Textzeilen orientieren und spekulative Aussagen zu Musik, Biografie oder Machtstrukturen vermeiden. Interpretation 5 liefert die geringste Halluzinations‑Rate, bleibt aber in der Tiefe ähnlich zu den anderen. Für zukünftige Analysen wäre es sinnvoll, mehr differenzierte Textbelege (z. B. stilistische Mittel, Wiederholungsstrukturen) zu nutzen und unbegründete Kontextualisierungen zu streichen."
+  }
+}

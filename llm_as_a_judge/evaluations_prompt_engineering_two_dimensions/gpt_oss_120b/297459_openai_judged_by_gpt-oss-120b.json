@@ -1,0 +1,141 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des Jahres 2023, geprägt von post‑pandemischer Unsicherheit und einer verstärkten Suche nach individueller Resilienz, lässt sich das Stück als Ausdruck einer Generation verstehen …"
+        ],
+        "oberflächliche_aussagen": [
+          "Das wiederholte Motiv des Springens fungiert als Metapher für ein unstetes, fast spielerisches Durchdringen von Krisenräumen …",
+          "Die Gegenüberstellung von „shadow of love“ und dem Wunsch, „where no one goes“ erzeugt eine Spannung …",
+          "Stilistisch dominieren Repetition und Klangfragmentierung … die den hypnotischen Charakter elektronischer Tanzmusik verstärken …",
+          "Die Zeile „Ooh, she changes people now“ fungiert als rätselhafte Interjektion …",
+          "Durch die ständige Wiederholung von „I don’t want to let you go / I don’t want to lose your love“ entsteht ein dialektisches Verharren …",
+          "Die Ambiguitäten … bleiben bewusst offen, sodass der Hörer die symbolischen Ordnungen selbst verhandeln muss …"
+        ],
+        "positive_aspekte": [
+          "Identifiziert das zentrale Motiv des springenden Steins und verknüpft es konsequent mit den Themen Isolation und Flucht.",
+          "Erkennt die strukturelle Wiederholung und deren mögliche Wirkung auf den Hörer.",
+          "Bietet eine differenzierte Sicht auf Ambivalenz und lässt Raum für mehrere Interpretationsmöglichkeiten."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑Pandemie‑Ära einordnen, in der Themen wie soziale Entfremdung und das Bedürfnis nach neu definierten Gemeinschaften vermehrt in Pop‑ und Elektronikmusik auftauchen."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Motiv des springenden Steins fungiert als ambivalentes Symbol …",
+          "Die Wiederholung des Refrains verstärkt die Unbestimmtheit …",
+          "Gleichzeitig erzeugt die Gegenüberstellung von „shadows of love“ und dem Wunsch, „Where no one goes“ ein Spannungsfeld …",
+          "Stilistisch dominieren einfache, fast mantraartige Wiederholungen …",
+          "Die Bildsprache bleibt bewusst vage …",
+          "Die instrumentale Brücke … markiert einen abrupten, aber nicht eindeutig erklärten Übergang von Dunkelheit zu Licht …",
+          "Die wiederholte Betonung von „love“ und „shadow“ spiegelt dabei das Spannungsfeld zwischen digitaler Vernetzung und realer Isolation wider.",
+          "Die lyrische Unschärfe lässt den Hörer sowohl als Hilfesuchender als auch als potenzieller Helfer positionieren …"
+        ],
+        "positive_aspekte": [
+          "Stellt klar fest, dass Isolation und Rettungsmetapher im Text vorhanden sind.",
+          "Erkennt die wiederholende Struktur und deren mögliche emotionale Wirkung.",
+          "Verknüpft den Song mit einem breiteren gesellschaftlichen Kontext (Post‑Pandemie‑Stimmung)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die post‑pandemische Kultur einordnen, in der Isolation … zentrale Themen sind.",
+          "Gleichzeitig greift es auf die Tradition elektronischer Tanzmusik zurück, die seit den 1990er‑Jahren als Raum für kollektive Flucht und individuelle Selbstfindung dient."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile … stellt das Liebesgefüge als dunklen, aber zugleich rhythmischen Raum dar …",
+          "Die Gegenüberstellung von … erzeugt eine Spannung zwischen existenzieller Leere und einer fast kindlichen, spielerischen Rettungsfigur …",
+          "Stilistisch dominieren Wiederholungen … und fragmentarische Bildsprache …",
+          "Die Zeile „I, I, I see the sun now“ eröffnet einen möglichen Wendepunkt … bleibt aber ambivalent …",
+          "Die instrumentale Bridge bietet keinen lyrischen Aufschluss …",
+          "Die Kombination aus repetitiver Struktur, unaufgelösten Widersprüchen und dem Bild des springenden Steins eröffnet ein Symbolfeld …"
+        ],
+        "positive_aspekte": [
+          "Erfasst die zentrale Dualität von Flucht und Beständigkeit im Bild des springenden Steins.",
+          "Bezieht die wiederholende Struktur des Songs in die Analyse ein.",
+          "Erkennt die Mehrdeutigkeit des Textes und lässt Interpretationsspielraum."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑Pandemie‑Ära einordnen, ... kollektive Unsicherheit ...",
+          "Die wiederholte Anrufung von „skipping“ als Fluchtmechanismus spiegelt digitale Fluchtformen (Scrolling, Streaming) wider ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Motiv des springenden Steins fungiert als ambivalentes Symbol …",
+          "Die Wiederholung des Refrains verstärkt die Unbestimmtheit …",
+          "Diese Offenheit erzeugt Spannungen zwischen dem Wunsch nach Flucht und dem Bedürfnis nach Bindung …",
+          "Stilistisch nutzt der Song einfache, fast mantraartige Wiederholungen … und fragmentarische Bildsprünge, die an psychedelische Clubkultur erinnern …",
+          "Die Metapher des „shadows of love“ impliziert, dass Liebe zugleich Schutz und Dunkelheit bietet …",
+          "Die instrumentale Brücke lässt Raum für nonverbale Interpretation …",
+          "Die lyrische Mehrdeutigkeit bleibt bewusst offen, sodass Hörer*innen eigene Bedeutungsordnungen konstruieren können."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die Kernmotive Isolation und Rettung.",
+          "Beobachtet die stark repetitive Struktur des Textes.",
+          "Verbindet den Song mit einem breiteren gesellschaftlichen Kontext (Post‑Pandemie‑Stimmung)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑Pandemie‑Ära einordnen, ... Themen von Einsamkeit ...",
+          "Gleichzeitig spielt der Song mit der Tradition des „Stone‑Skipping“ als Kinderspiel, das in der westlichen Kultur für unbeschwerte Freizeit steht ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Motiv des springenden Steins fungiert als ambivalentes Symbol …",
+          "Diese Dualität bleibt ungeklärt, weil die Wiederholung … weder Auflösung noch Erklärung liefert …",
+          "Die Zeile „I don’t want to let you go / I don’t want to lose your love“ verstärkt das Dilemma …",
+          "Stilistisch dominieren Wiederholungen … und fragmentarische Bildsprünge, die an tranceartige Club‑Rituale erinnern …",
+          "Die Wiederholung von „shadow of love“ erzeugt ein Bild von Liebe als dunklem, aber zugleich tanzbarem Raum …",
+          "Die Zeile „I, I, I see the sun now“ bildet einen abrupten Lichtwechsel …",
+          "Diese Gegenüberstellung erzeugt eine kulturelle Ambivalenz … lässt aber offen, ob das Springen … tatsächlich Befreiung …"
+        ],
+        "positive_aspekte": [
+          "Erkennt das zentrale Bild des springenden Steins und dessen mehrdeutige Bedeutung.",
+          "Analysiert die wiederholende Struktur und deren mögliche emotionale Wirkung.",
+          "Verbindet den Song mit kulturellen Referenzen (Stone‑Skipping, Club‑Rituale)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen ähnliche Grundzüge (Isolation, Rettungsmetapher, Wiederholung), jedoch variiert die Tiefe stark; einige bleiben stark oberflächlich, während Interpretation 3 mehr differenzierte Analysen liefert.",
+    "empfehlung": "Für zukünftige Analysen sollte ein stärker textbasierter Ansatz gewählt werden, der konkrete Textstellen mit klaren, begründeten Interpretationen verknüpft und spekulative historische oder biografische Kontextualisierungen auf ein Minimum reduziert."
+  }
+}

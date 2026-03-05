@@ -1,0 +1,99 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I done got myself together, baby / And now I'm havin' a ball' suggerieren eine Transformation von einem nervösen Beobachter zu einem aktiven Teilnehmer auf der Tanzfläche"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Tanzfläche wird als ein Raum der Befreiung und des Ausdrucks dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Befreiung von sozialen Normen und die Entdeckung der eigenen Identität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Tanzes symbolisiert die Überwindung von Hemmungen und die Annahme der eigenen Emotionalität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Move your body, ooo baby, and dance all night / To the groove and feel alright' zeigen, wie der Song die emotionale Wirkung der Musik und die affektive Dimension des Tanzes hervorhebt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Bedeutung der körperlichen Bewegung und der Musik als Mittel zur Erreichung eines Zustands der Ekstase und des Wohlbefindens"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I done got myself together, baby / And now I'm havin' a ball' beschreiben eine Transformation von einem nervösen und zurückhaltenden Individuum zu einem selbstbewussten und freien Menschen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die in dem Song verwendet werden, sind vielfältig und reichhaltig"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Befreiung von sozialen Normen und die Entdeckung der eigenen Identität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Tanzes als Ausdruck von Freiheit und Selbstentdeckung wird durch die Zeilen 'Move your body, ooo baby, and dance all night / To the groove and feel alright' verdeutlicht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Struktur des Songs, die von der Beschreibung eines Partyszenarios zu einer Reflexion über die eigene Identität und Freiheit führt, trägt zur thematischen Komplexität des Songs bei"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Bedeutung der körperlichen Bewegung und der Musik als Mittel zur Erreichung eines Zustands der Ekstase und des Wohlbefindens"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I done got myself together, baby / And now I'm havin' a ball' suggerieren eine Transformation von einem nervösen und zurückhaltenden Individuum zu einem selbstbewussten und freien Menschen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die in dem Song verwendet werden, wie die Metapher des Tanzes und die Symbole der Freiheit und des Ausdrucks, tragen zur thematischen Komplexität des Songs bei"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Befreiung von sozialen Normen und die Entdeckung der eigenen Identität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Befreiung von sozialen Normen und die Entdeckung der eigenen Identität thematisiert und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

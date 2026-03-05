@@ -1,0 +1,99 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Dimension des Songs wird durch die Verbindung von Rauchen und Sehnsucht deutlich, die in den 1990er Jahren noch ein weit verbreitetes Klischee war."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich direkt aus dem Songtext ableiten.",
+          "Der Text wird detailliert analysiert (Metaphern, Symbolik, Ambivalenz).",
+          "Nur ein einziger vager, nicht textbasierter Kommentar, wodurch die Halluzinationsrate 0 % bleibt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Dimension des Songs wird durch die Verbindung von Rauchen und Sehnsucht deutlich, die in der Popkultur oft mit Romantik und Melancholie assoziiert wird."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah, fast jede Aussage ist belegbar.",
+          "Gute Balance zwischen konkreter Analyse und Offenheit für Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Musikszene der 1990er Jahre, in der Themen wie Liebe, Verlust und Sehnsucht häufig behandelt wurden."
+        ],
+        "positive_aspekte": [
+          "Alle inhaltlichen Punkte lassen sich aus dem Text ableiten.",
+          "Ergänzt den Text um einen kurzen, aber sinnvollen historischen Rahmen, ohne zu spekulieren."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die narrative Struktur des Songs ist geprägt von einer inneren Monologie, in der der Protagonist seine Gefühle und Gedanken reflektiert.",
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv, da die Sehnsucht und Trauer des Protagonisten direkt an die Emotionen des Hörers appellieren.",
+          "Die kulturelle und historische Dimension des Songs ist ebenfalls von Bedeutung.",
+          "Die Verwendung von Zigaretten als Symbol für die Liebe und die Sehnsucht ist ein typisches Element der Popkultur der 1990er Jahre."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge bei den meisten Aussagen.",
+          "Erkennt die Ambivalenz und das offene Ende des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Dimension des Songs wird durch die Verbindung von Rauchen und Sehnsucht deutlich, die in den 1990er Jahren noch ein verbreitetes Klischee war."
+        ],
+        "positive_aspekte": [
+          "Fast ausschließlich textbasierte Analyse.",
+          "Gute Detailtiefe bei Symbol- und Metapherninterpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Sehnsucht, Rauch‑Symbolik, Ambivalenz). Die Unterschiede liegen im Anteil vager, nicht textbasierter Kommentare – Interpretation 2 enthält die meisten Oberflächlichkeiten, die anderen nur je einen.",
+    "empfehlung": "Interpretationen, die fast ausschließlich textbasierte Aussagen liefern und nur minimal allgemeine Kontextualisierungen einfließen lassen (z. B. Interpretation 1, 3, 4, 5), erzielen die höchste Bewertung. Ein Ansatz, der zu viele generische, nicht belegbare Kommentare einbaut, verliert an Tiefe (wie bei Interpretation 2)."
+  }
+}

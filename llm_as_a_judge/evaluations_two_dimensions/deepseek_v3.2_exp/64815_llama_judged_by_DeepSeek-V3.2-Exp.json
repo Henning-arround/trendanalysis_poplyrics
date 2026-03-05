@@ -1,0 +1,96 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist eine allgemeine Aufforderung zur Anpassung"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert den Übergang von einer alten Welt zu einer neuen"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist erwacht"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die Vergänglichkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert den Übergang von einer alten Welt zu einer neuen"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Eine Art von Bewusstsein oder eine Kraft"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Textanalyse",
+          "Tiefere Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

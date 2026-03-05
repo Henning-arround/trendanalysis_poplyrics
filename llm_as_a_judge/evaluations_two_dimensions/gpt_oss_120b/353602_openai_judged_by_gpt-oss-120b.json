@@ -1,0 +1,104 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain reduziert die komplexen Gefühle auf ein greifbares Bild",
+          "Insgesamt lässt die Analyse erkennen, dass das lyrische Ich die Beziehung als fragile Konstruktion begreift"
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogen, kaum spekulative Aussagen",
+          "Gute Balance zwischen wörtlicher Analyse und Interpretation von Mehrdeutigkeiten",
+          "Klare Struktur, jede Strophe und der Refrain werden einzeln behandelt"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain reduziert die komplexen Gefühle auf ein greifbares Symbol",
+          "Ein innerer Kampf zwischen Hoffnung, Selbstaufopferung und Erkenntnis wird beschrieben"
+        ],
+        "positive_aspekte": [
+          "Sehr detailreich, jede Textzeile wird konkret aufgegriffen",
+          "Keine biografischen oder genrebezogenen Spekulationen",
+          "Erkennt die Ambivalenz zwischen Wunsch nach Nähe und Angst vor Verlust"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain reduziert das komplexe emotionale Geflecht auf ein einfaches Symbol",
+          "Der Song schildert den Kampf zwischen dem Wunsch zu retten und der Realität des Abschieds"
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, keine erfundenen Kontextualisierungen",
+          "Gute Analyse der wiederkehrenden Motive (Zeit, Körperlichkeit, Illusion)",
+          "Erkennt die resignierende Stimmung im Schluss‑„ahh ahh“"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain reduziert das komplexe Beziehungsgeflecht auf ein greifbares Element",
+          "Das Mantra‑Gefühl des Refrains wird als Hoffnung interpretiert"
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Text und interpretierter Stimmung",
+          "Erwähnt die tranceartige Wirkung des abschließenden „Ahh ahh“",
+          "Keine externen Annahmen über Künstler oder Genre"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text offenbart ein zerrissenes Verlangen nach Nähe",
+          "Der Refrain reduziert das emotionale Geflecht auf ein greifbares Bild"
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse ohne spekulative Biografie",
+          "Betont die Spannung zwischen flüchtiger Sehnsucht und dauerhaftem Bindungswunsch",
+          "Gute Erfassung der Bildsprache (Rettungsleine, „silky skin“, Illusion)"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben stark am Text verankert, zeigen nur geringe Varianz in Oberflächlichkeit und keinerlei Halluzinationen. Die Unterschiede liegen hauptsächlich im Stil der Formulierung, nicht im inhaltlichen Gehalt.",
+    "empfehlung": "Interpretationen, die ausschließlich aus dem Songtext ableitbare Beobachtungen nutzen und gleichzeitig Mehrdeutigkeiten offenlassen, erzielen die höchste Bewertung. Zukunftige Analysen sollten weiterhin auf textbasierte Evidenz setzen und vage Allgemeinplätze vermeiden."
+  }
+}

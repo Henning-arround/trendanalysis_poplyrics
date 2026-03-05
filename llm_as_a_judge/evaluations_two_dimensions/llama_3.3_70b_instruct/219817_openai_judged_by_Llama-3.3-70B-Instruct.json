@@ -1,0 +1,99 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Berlin lebt, Dubai lebt' verbinden das lokale Milieu mit globalen Symbolen des Luxus"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Anrede 'Bra' und das Aufrufen von 'Bruder' entsteht ein kollektives Band"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gewaltmetaphern als stilistische Überzeichnung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'Berlin lebt, Dubai lebt' verknüpft lokale Street-Credibility mit globalem Luxus"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung von Gewalt dient nicht nur als provokante Provokation"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Markenreferenzen als Symbol für materiellen Erfolg"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Berlin lebt, Dubai lebt' verknüpfen lokale Street-Credibility mit globalem Luxus"
+        ],
+        "oberflächliche_aussagen": [
+          "Die häufige Verwendung von Gewaltmetaphern dient nicht nur der Provokation"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Identitätskonstruktion durch Markenreferenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die ständige Referenz zu teuren Marken dient nicht nur der Selbstdarstellung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Phrase 'Ich fick' jeden, den du liebst' wirkt als provokante Verneinung von Bindungen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambivalenz zwischen Wunsch nach Anerkennung und Angst vor Verwundbarkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Berlin lebt, Dubai lebt' verknüpfen lokale Street-Credibility mit globalem Luxus"
+        ],
+        "oberflächliche_aussagen": [
+          "Die häufige Verwendung von Gewaltmetaphern dient nicht nur der Provokation"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Identitätskonstruktion durch Markenreferenzen und Gewaltmetaphern"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Gewaltmetaphern und Markenreferenzen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

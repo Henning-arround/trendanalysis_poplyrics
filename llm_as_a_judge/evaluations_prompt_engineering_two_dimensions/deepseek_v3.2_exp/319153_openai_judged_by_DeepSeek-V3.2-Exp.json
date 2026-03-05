@@ -1,0 +1,105 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Fragmentierung von Identität und Medienlandschaft",
+          "Hinweis auf britische Popkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen Stagnation und dem Drang nach transzendenter Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und Bildsprache",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Kritik an der Freizeitkultur",
+          "Symbol für globale Pop-Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannung zwischen Passivität und absurdem Aktivismus"
+        ],
+        "positive_aspekte": [
+          "Analyse von Sprachstil und Bildsprache",
+          "Berücksichtigung von kulturellen Kontexten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Sinnkrise",
+          "Club-Anweisungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannung zwischen Wunsch nach Feuer und dem Fehlen von Inhalt"
+        ],
+        "positive_aspekte": [
+          "Analyse von Leitmotiven und Surrealismus"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Moderne als ständige Vermischung von Körper und Konsum",
+          "cultural Dekadenz"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen Wunsch nach Orientierung und dem Fehlen einer festen Referenz"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und Symbolen",
+          "Berücksichtigung von kulturellen Kontexten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Spannung zwischen Erwartung und Unbestimmtheit"
+        ],
+        "positive_aspekte": [
+          "Sehr textbezogene Analyse",
+          "Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die fünfte Interpretation zeigt eine sehr textbezogene und tiefgehende Analyse"
+  }
+}

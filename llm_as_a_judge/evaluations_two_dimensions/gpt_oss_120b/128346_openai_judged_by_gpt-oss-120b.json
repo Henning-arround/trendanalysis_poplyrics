@@ -1,0 +1,103 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Had This Thing“ zeichnet ein Bild von Verlust und Selbstverleugnung, das sich wie ein innerer Zerfall anfühlt.",
+          "Das wiederholte Bekenntnis „I never meant to let you go“ wirkt wie ein verzweifelter Versuch, das Verlorene zurückzuholen, doch die endlose Wiederholung lässt die Worte hohl erscheinen, als ob das Gesagte kaum mehr als ein Echo ist, das die Leere füllt."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich klar aus dem Songtext ableiten.",
+          "Analytisch präzise Verknüpfungen von Metaphern (Haus, Feuer, Rasierklinge) mit den jeweiligen emotionalen Zuständen.",
+          "Wenig bis keine spekulativen Biografie‑ oder Kontextinformationen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das wiederholte Bekenntnis „I never meant to let you go“ lässt vermuten, dass das „you“ nicht nur ein anderer Mensch, sondern auch ein Teil des eigenen Selbst ist, das unbeabsichtigt verloren ging."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Had This Thing“ wirkt wie ein innerer Monolog, in dem das lyrische Ich den Verlust einer einstigen Selbstbestimmung beklagt und zugleich nach einem Weg zurück zu einem inneren Gleichgewicht sucht."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen textnaher Analyse und tiefergehender Interpretation von Symbolen (Haus, Feuer, Rasierklinge).",
+          "Klare Strukturierung der einzelnen Bildbereiche."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Bekräftigung „I never meant to let you go“ fungiert als Reuegesang, der das Verlorene – sei es ein Mensch, ein Traum oder ein Teil des Selbst – nicht absichtlich aufgegeben hat, sondern durch Unachtsamkeit und innere Zerrissenheit."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Had This Thing“ wirkt wie ein innerer Monolog, in dem das lyrische Ich zwischen Besitzanspruch und Verlust schwankt und dabei die Zerbrechlichkeit einer selbst geschaffenen Identität offenlegt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Argumentation, kaum externe Annahmen.",
+          "Verknüpfung von Bildsprache (Blut, Feuer, Haus) mit den emotionalen Zuständen des Sprechers."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Beteuerung „I never meant to let you go“ verstärkt das Bedauern über das unbeabsichtigte Loslassen – sei es einer Person, einer Chance oder eines Traums – und lässt das Motiv des unbeabsichtigten Verlustes als zentrales Thema erscheinen.",
+          "Insgesamt zeichnet der Song ein Bild von Selbstverlorenheit, Schuld und dem verzweifelten Wunsch nach einer zweiten Chance, das in einer melancholischen, fast meditativen Klanglandschaft verankert ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Had This Thing“ wirkt wie ein innerer Monolog, in dem das lyrische Ich zwischen Besitzanspruch und Verlust schwankt und dabei die Zerbrechlichkeit einer selbst geschaffenen Identität offenbart."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung der wichtigsten Textpassagen.",
+          "Erkenntnisreiche Verknüpfung von Schuld‑ und Hoffnungselementen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Had This Thing“ wirkt wie ein innerer Monolog, in dem das lyrische Ich zwischen Besitzanspruch und Verlust schwankt und dabei die Zerbrechlichkeit einer selbst geschaffenen Identität offenbart."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte, textbasierte Analyse aller zentralen Metaphern (Haus, Feuer, Rasierklinge, Blut).",
+          "Klare Darstellung von Ambivalenz – Selbstzerstörung vs. Hoffnung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.0,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen hohe inhaltliche Übereinstimmung (ähnliche Metaphern‑Analyse). Unterschiede liegen vor allem im Umfang spekulativer Aussagen – Interpretation 3 und 4 bleiben fast ausschließlich textnah, während 1, 2 und 5 gelegentlich zusätzliche, nicht belegbare Deutungen einfließen.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man den Ansatz von Interpretation 3 (hohe Texttreue, gute Tiefe) mit dem strukturellen Detailreichtum von Interpretation 4 kombinieren. Das liefert sowohl faktentreue als auch tiefgehende, mehrschichtige Deutungen, ohne unnötige Spekulationen."
+  }
+}

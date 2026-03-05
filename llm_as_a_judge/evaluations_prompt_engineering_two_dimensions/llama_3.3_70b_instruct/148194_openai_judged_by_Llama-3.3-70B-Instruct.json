@@ -1,0 +1,99 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle Spannung zwischen individueller Selbstverwirklichung und kollektiven Normen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Unschärfe lässt den Hörer im Zustand der 'disarray' zurück"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'drunk on love' und 'stone cold sober' erzeugt ein paradoxes Bild von Liebe als berauschender, aber zugleich nüchterner Realität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität liegt in der Gleichzeitigkeit von Gefahr und Ekstase"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Refrains und der Gegenüberstellung von 'day dreaming fever' und 'no misdemeanor' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambivalenz zwischen berauschender Freiheit und Gefahr bleibt offen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains verstärkt die zyklische Natur des Erlebens"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache ist okay, aber nicht so detailliert wie bei Interpretation 1"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Spannung zwischen göttlicher Macht und alltäglicher Polizeigewalt bleibt bewusst offen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Formulierung 'drunk on love' spielt auf die damals verbreitete Metapher des Rausches als Befreiung von gesellschaftlichen Normen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Refrains und der Gegenüberstellung von 'day dreaming fever' und 'no misdemeanor' ist okay"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bedeutung bleibt mehrdeutig"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'You’ll never know a better day' kann als optimistische, aber nicht eindeutig begründete Hoffnung gelesen werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache ist detailliert und textbezogen, ähnlich wie bei Interpretation 1"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen (1 und 5) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf die textbezogene Analyse konzentrieren und versuchen, die Ambivalenzen und Mehrdeutigkeiten im Text zu erfassen"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt, wie seine Partnerin ihn manipuliert und Dinge sagt, nur um ihn bei sich zu behalten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler und introspektiver Blick in die Komplexität menschlicher Beziehungen und die Schwierigkeiten, die mit der Kommunikation von Gefühlen einhergehen."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche textbezogene Aussagen (z. B. Refrain, Zeile „All these feelings, cloud up my reasoning“, „I guess something just got lost“).",
+          "Erkennt Nuancen wie den Wendepunkt der Beziehung und die Schwierigkeit, Gefühle zu artikulieren."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt, wie seine Partnerin ihn manipuliert und Dinge sagt, nur um ihn bei sich zu behalten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Kommentar zu den Schwierigkeiten, die in Beziehungen entstehen können, wenn die Partner nicht in der Lage sind, offen und ehrlich miteinander zu kommunizieren."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit Interpretation (z. B. Refrain, „cloud up my reasoning“).",
+          "Gute strukturelle Gliederung in Einleitung, Analyse und Fazit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt, wie seine Partnerin ihn manipuliert und Dinge sagt, nur um ihn bei sich zu behalten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist somit eine Reflexion über die Komplexität von Beziehungen und die Schwierigkeiten, die mit emotionaler Intimität einhergehen."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der Strophen und des Refrains.",
+          "Verwendung konkreter Zitate zur Untermauerung der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt, wie seine Partnerin ihn manipuliert und Dinge sagt, nur um ihn bei sich zu behalten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Kommentar zu den Schwierigkeiten, die in Beziehungen entstehen können, wenn die Partner nicht in der Lage sind, offen und ehrlich miteinander zu kommunizieren."
+        ],
+        "positive_aspekte": [
+          "Stetige Bezugnahme auf den Refrain und zentrale Textzeilen.",
+          "Konsistente Argumentationslinie ohne unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt, wie seine Partnerin ihn manipuliert und Dinge sagt, nur um ihn bei sich zu behalten.",
+          "Insgesamt beschreibt ... eine Beziehung ... von Manipulation ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeigt, wie schwierig es sein kann, Beziehungen aufrechtzuerhalten, wenn die emotionalen Grundlagen nicht stimmen."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die Wirkung von Gefühlen auf Wahrnehmung und Verhalten.",
+          "Bezieht die Zeile „I guess something just got lost“ in die Interpretation des Wendepunkts ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich in zusätzlichen, teils spekulativen Details (z. B. Manipulation).",
+    "empfehlung": "Interpretation 4 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe, obwohl sie eine leicht höhere Zahl an spekulativen Aussagen enthält. Für zukünftige Analysen sollte darauf geachtet werden, spekulative Behauptungen zu minimieren und stattdessen mehr textbasierte Nuancen zu betonen."
+  }
+}

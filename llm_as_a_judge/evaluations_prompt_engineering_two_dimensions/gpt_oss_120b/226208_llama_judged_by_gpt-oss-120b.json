@@ -1,0 +1,112 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist auch im kulturellen und historischen Kontext der späten 1980er Jahre zu sehen, in dem die Welt von Konflikten und sozialen Unruhen geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, die Zuhörer zum Nachdenken über ihre eigene Rolle in der Gesellschaft anzuregen.",
+          "Der Song bietet mehrere Deutungsebenen und symbolische Ordnungen, die eine tiefere Analyse ermöglichen.",
+          "Ambiguität und Spannungen im Text, wie in den Zeilen \"Who's wrong, who's right / Don't want no fight\" zu sehen sind, lassen Raum für Interpretationen und machen den Song zu einem komplexen und vielschichtigen Werk."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (z. B. die Analyse von Metaphern, die Beschreibung der Gewalt‑Thematik).",
+          "Die Interpretation bleibt textnah und vermeidet spekulative Biografien des Künstlers."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1980er Jahre zu sehen, in dem die Angst vor Krieg und Gewalt vorherrschte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen verstärkt, wie in \"Don't want no fight\" und \"Just can't conform\" deutlich wird.",
+          "Die Ambiguität und Spannung zwischen der Gewalt in der Welt und der Sehnsucht nach Frieden werden im Song deutlich, ohne dass eine Lösung oder Auflösung angeboten wird."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse von Metaphern (Auge des Sturms) und von Schlüsselzeilen.",
+          "Erkennt die zentrale Spannung zwischen Gewalt und Friedenssehnsucht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song muss im kulturellen, historischen und gesellschaftlichen Kontext der späten 1980er Jahre betrachtet werden, in dem die Angst vor Krieg und Gewalt vorherrschend war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung wird durch die affektive Dimension der Textzeilen verstärkt, wie in \"Don't want no fight\" deutlich wird, die Ablehnung von Gewalt und Konflikt zum Ausdruck bringt.",
+          "Ambiguität und Spannung zwischen Sehnsucht nach Frieden und Realität der Gewalt werden im Song nicht aufgelöst, sondern bleiben bestehen, um die Komplexität der menschlichen Erfahrung zu unterstreichen."
+        ],
+        "positive_aspekte": [
+          "Sehr konsequente Ableitung von Bedeutungen aus fast jeder Zeile des Textes.",
+          "Wenig oberflächliche Wiederholungen im Vergleich zu den anderen Interpretationen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist im kulturellen und historischen Kontext der späten 1980er Jahre zu sehen, einer Zeit, in der die Welt von Konflikten und sozialen Unruhen geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, die Zuhörer zum Nachdenken anzuregen, wie in den Zeilen \"Do you understand or do you really care\" und \"Will we try together for a better life\" deutlich wird.",
+          "Der Song bietet mehrere Deutungsebenen und symbolische Ordnungen, die eine tiefere Analyse ermöglichen.",
+          "Ambiguität und Spannungen im Text, wie in den Zeilen \"Who's wrong, who's right\" und \"Don't want no fight\", lassen Raum für Interpretationen und machen den Song zu einem komplexen und vielschichtigen Werk."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Metaphern mit den konkreten Textstellen.",
+          "Erkennt die implizite Aufforderung zum kollektiven Handeln."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von den gesellschaftlichen und politischen Umbrüchen der späten 1980er Jahre, die eine Atmosphäre des Wandels und der Unsicherheit schufen."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität und der Wunsch, keine Konflikte zu haben, spiegeln die Komplexität der menschlichen Erfahrung wider.",
+          "Der Song thematisiert auch die Frage nach der emotionalen und affektiven Dimension von Konflikten und Gewalt, indem er die Zuhörer auffordert, sich mit ihren eigenen Emotionen und Werten auseinanderzusetzen.",
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, die Zuhörer zum Nachdenken über ihre eigene Rolle anzuregen."
+        ],
+        "positive_aspekte": [
+          "Explizite Analyse der Zeilen zu Moral („Who's wrong, who's right“).",
+          "Verknüpft Text mit einer konkreten Handlungsaufforderung („Will we try together for a better life\")."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen weitgehend dieselben Kernthesen; die Varianz liegt hauptsächlich in der Menge an oberflächlichen bzw. erfundenen Kontextualisierungen. Die Unterschiede sind gering, sodass die Gesamtbewertung sehr homogen ausfällt.",
+    "empfehlung": "Die fünfte Interpretation ist leicht überlegen, weil sie die wenigsten oberflächlichen Wiederholungen enthält und gleichzeitig fast ausschließlich textbasierte Aussagen liefert. Für zukünftige Analysen sollte der Fokus darauf liegen, spekulative historische oder biografische Kontextualisierungen zu vermeiden und stattdessen mehr differenzierte, textnahe Analysen zu bieten."
+  }
+}

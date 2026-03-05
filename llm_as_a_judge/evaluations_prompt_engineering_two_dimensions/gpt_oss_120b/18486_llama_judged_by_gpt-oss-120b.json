@@ -1,0 +1,116 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert auch den kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre, in dem er eine Botschaft der Hoffnung und des Friedens vermittelt, wie in den Zeilen ... deutlich wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die Analyse des Songs wird deutlich, dass die Botschaft von ... auch heute noch aktuell und relevant ist."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (Metaphern, Aufzählungen, Wiederholungen).",
+          "Die Interpretation erkennt die Ambiguitäten und die symbolische Ordnung des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1960er Jahre waren eine Zeit des sozialen und politischen Umbruchs, und der Song kann als Ausdruck der Sehnsucht nach Frieden und Harmonie in einer von Konflikten und Gegensätzen geprägten Welt verstanden werden.",
+          "Die Zeile \"A time for peace, I swear it's not too late\" kann in diesem Kontext als Appell für eine friedliche Lösung der Konflikte interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist vielschichtig und kann je nach Hörer unterschiedlich sein.",
+          "Während einige die Botschaft des Songs als tröstlich und hoffnungsvoll empfinden, können andere die Konfrontation mit den Gegensätzen des Lebens als herausfordernd oder sogar beunruhigend erleben.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls von Bedeutung.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der \"Seasons\" und \"Times\", die als Spiegelbild der menschlichen Erfahrung und der Suche nach Sinn und Zweck verstanden werden kann."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei den meisten Aussagen (Metaphern, Gegensätze).",
+          "Erkennt die zentrale Botschaft von Zeit und Zweck."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung, da er in den 1960er Jahren, einer Zeit des sozialen und politischen Umbruchs, entstand und somit auch als eine Botschaft der Hoffnung und des Friedens verstanden werden kann."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft den Text mit seiner biblischen Herkunft (Ecclesiastes) – ein faktisch belegbarer Kontext.",
+          "Analysiert die Ambiguitäten und deren bewusste Offenheit im Lied.",
+          "Durchgehend textbezogen, wenig vage Allgemeinplätze."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die zyklische Natur des Lebens und die Bedeutung von Timing und Balance in allen Aspekten des menschlichen Daseins.",
+          "Die zentrale Botschaft des Songs wird in den Zeilen ... deutlich, die die Idee eines universellen Rhythmus und einer göttlichen Ordnung vermitteln.",
+          "Diese Botschaft wird durch die Verwendung von Metaphern ... unterstrichen, die die Verbindung zwischen Leben, Tod und Wachstum symbolisieren.",
+          "Die literarischen Stilmittel im Song, wie die Verwendung von Symbolen und Bildern, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die Zeilen ... zeigen die Ambiguität und die Spannungen, die im menschlichen Leben vorhanden sind.",
+          "Diese Ambiguitäten werden nicht aufgelöst, sondern vielmehr als Teil der menschlichen Erfahrung anerkannt.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung, die durch die Wiederholung des Refrains ... geschaffen wird.",
+          "Diese Symbole verweisen auf die zyklische Natur des Lebens und die Notwendigkeit, sich an diese Zyklus anzupassen.",
+          "Die Zeilen ... zeigen die Komplexität des menschlichen Daseins und die Notwendigkeit, sowohl Gewinn als auch Verlust zu akzeptieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die Analyse des Songs wird deutlich, dass die Botschaft von ... auch heute noch aktuell und relevant ist."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich eindeutig aus dem Text ableiten.",
+          "Erkennt die strukturelle Wiederholung und deren Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung, da er in den 1960er Jahren, einer Zeit des sozialen und politischen Umbruchs, entstand und somit auch als eine Botschaft der Hoffnung und des Friedens verstanden werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Gegensätze erzeugen eine Spannung, die den Zuhörer zum Nachdenken anregt und ihn dazu bringt, die Komplexität des menschlichen Erlebens zu reflektieren.",
+          "Diese Zeilen lassen Raum für Interpretationen und regen den Zuhörer dazu an, über die Bedeutung von Gewinn und Verlust, Frieden und Krieg nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge bei den meisten Aussagen (Metaphern, Gegensätze, Wiederholungen).",
+          "Erkennt die bewusste Nichtauflösung von Widersprüchen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Modelle wiederholen dieselben Grundthesen (zyklische Natur, Gegensätze, biblischer Ursprung). Die Varianz liegt hauptsächlich in der Menge an spekulativem Kontext (Interpretationen 1,4) versus rein textbasierter Analyse (Interpretation 5).",
+    "empfehlung": "Interpretation 5 liefert die ausgewogenste Mischung aus faktentreuer Textbezug und tiefgehender Analyse (biblischer Ursprung, Ambiguitäten, symbolische Ordnung) und vermeidet unnötige spekulative Kontextualisierungen. Für zukünftige LLM‑Bewertungen sollte der Fokus stärker auf belegbare Textbezüge und die explizite Benennung von Mehrdeutigkeiten gelegt werden, während spekulative Geschichtsdarstellungen minimiert werden."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die historische Einordnung in die späte 1990er-Jahre als Phase postmoderner Identitätskrisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass das Lied ein 'zerrissenes Selbst- und Beziehungsbild' verhandelt"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textstruktur und der Verwendung von Metaphern wie 'cloud up my reasoning'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unterstellung, dass das Lied 'persönliche Unsicherheit und postmoderne Identitätskrisen' thematisiert, ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'ein persistentes Spannungsfeld zwischen Selbstbehauptung und Beziehungsunsicherheit' darstellt, ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Erkenntnis, dass die Wiederholung von 'We get along so we shouldn't argue' als 'Mantra' fungiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle Einordnung in die 'Mitte der 1990er Jahre' als Phase post-grungiger Individualisierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass das Lied 'ein zerrissenes Selbst- und Beziehungsbild' verhandelt, ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Verwendung von Metaphern und der Wiederholung von Motiven"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unterstellung, dass das Lied 'die Unsicherheit junger Erwachsener' thematisiert, ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'ein persistentes Spannungsfeld zwischen Selbstbehauptung und Beziehungsunsicherheit' darstellt, ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Erkenntnis, dass die Wiederholung von 'We get along so we shouldn't argue' eine 'paradoxe Affektlage' erzeugt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle Einordnung in die 'Mitte der 1990er Jahre' als Phase post-grunge-Individualismus"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass das Lied 'ein zerrissenes Beziehungs- und Selbstbild' verhandelt, ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Verwendung von Metaphern und der Wiederholung von Motiven, sowie die Erkenntnis, dass das Lied 'die Sehnsucht nach echter Kommunikation' ausdrückt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (1, 3, 5) zeigen eine hohe Konsistenz in ihrer Analyse",
+    "empfehlung": "Für eine tiefergehende Analyse des Songs 'Argue' von Matchbox 20 sollten Interpretationen wie die Nummer 1, 3 und 5 herangezogen werden, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten"
+  }
+}

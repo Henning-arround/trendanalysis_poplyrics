@@ -1,0 +1,99 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'She don't, but she will' kann als eine Art Vorausdeutung interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer ambivalenten Stimmung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'All these feelings, cloud up my reasoning' ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Grunge- und Alternative-Bewegung dieser Zeit thematisierte oft emotionale Verletzlichkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Komplexität von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der 'Ignorance as my best defense' ist ein interessanter Punkt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'All these feelings, cloud up my reasoning' unterstreicht zudem die Überwältigung durch Emotionen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen und historischen Kontext der 1990er Jahre verortet werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Beziehungsdynamik ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Grunge- und Alternative-Bewegung dieser Zeit thematisierte oft emotionale Verletzlichkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Komplexität von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der 'Ignorance as my best defense' ist ein interessanter Punkt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'All these feelings, cloud up my reasoning' unterstreicht zudem die Überwältigung durch Emotionen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen und historischen Kontext der 1990er Jahre verortet werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Beziehungsdynamik ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 sind sehr ähnlich und zeigen eine geringe Varianz",
+    "empfehlung": "Die erste Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

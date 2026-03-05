@@ -1,0 +1,99 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den 1950er Jahren, einer Zeit, in der religiöse Lieder in den USA sehr beliebt waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Blessed assurance, Jesus is mine / O what a foretaste of glory divine' deutlich, wo der Sänger seine Sicherheit und Gewissheit in seinem Glauben ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den Text und liefert eine plausible Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Praising my Savior all the day long' kann als Ausdruck der Dankbarkeit und Hingabe des Sängers interpretiert werden, aber auch als Hinweis auf die soziale und kulturelle Erwartung, religiöse Gefühle öffentlich auszudrücken."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Blessed assurance, Jesus is mine / O what a foretaste of glory divine' deutlich, wo der Sänger seine Sicherheit und Gewissheit in seinem Glauben ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Analyse, aber mit einigen spekulativen Elementen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Praising my Savior all the day long' kann als Ausdruck der Dankbarkeit und Hingabe des Sängers interpretiert werden, aber auch als Hinweis auf die soziale und kulturelle Erwartung, religiöse Gefühle öffentlich auszudrücken."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Blessed assurance, Jesus is mine / O what a foretaste of glory divine' deutlich, wo der Sänger seine Sicherheit und Gewissheit in seinem Glauben ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Analyse, aber mit einigen spekulativen Elementen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Praising my Savior all the day long' kann als Ausdruck der Dankbarkeit und Hingabe des Sängers interpretiert werden, aber auch als Hinweis auf die soziale und kulturelle Erwartung, religiöse Gefühle öffentlich auszudrücken."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Blessed assurance, Jesus is mine / O what a foretaste of glory divine' deutlich, wo der Sänger seine Sicherheit und Gewissheit in seinem Glauben ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Analyse, aber mit einigen spekulativen Elementen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Praising my Savior all the day long' kann als Ausdruck der Dankbarkeit und Hingabe des Sängers interpretiert werden, aber auch als Hinweis auf die soziale und kulturelle Erwartung, religiöse Gefühle öffentlich auszudrücken."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Blessed assurance, Jesus is mine / O what a foretaste of glory divine' deutlich, wo der Sänger seine Sicherheit und Gewissheit in seinem Glauben ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Analyse, aber mit einigen spekulativen Elementen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in ihrer Struktur und Argumentation, aber auch eine hohe Übereinstimmung in ihren Schwächen.",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Vorbild für zukünftige Interpretationen dienen."
+  }
+}

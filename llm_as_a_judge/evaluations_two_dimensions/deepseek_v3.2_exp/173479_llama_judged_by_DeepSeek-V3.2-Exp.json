@@ -1,0 +1,97 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte ist eine Metapher für die Erfahrungen von Soldaten, die nach dem Krieg zurückkehren und sich in einer Welt wiederfinden, die sie nicht mehr verstehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist eine friedliche, die auffordert, die Gewalt und den Krieg hinter sich zu lassen und einen neuen Weg zu suchen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und identifiziert zentrale Themen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song suggeriert, dass der Weg zur Erlösung und zum Frieden nur durch die Ablehnung von Gewalt und die Annahme von Verantwortung für das eigene Leben möglich ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erzählung ist auch eine Reflexion über die menschliche Natur und die Tendenz, sich in Gewalt und Aggression zu verstricken."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der Songtexte und identifiziert zentrale Themen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist ist ein Symbol für den durchschnittlichen Menschen, der sich in einer Welt wiederfindet, die ihn zu überfordern droht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist eine friedliche und humanistische, die den Hörer auffordert, über die Folgen von Gewalt und Krieg nachzudenken und einen anderen Weg zu suchen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und bietet eine tiefere Analyse der Songtexte."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Geschichte des Protagonisten ist eine Geschichte der Desillusionierung und der Suche nach einem neuen Weg, und die Aufforderung 'Leg die Knarre weg' wird zu einem Symbol für die Hoffnung auf eine bessere Zukunft."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und bietet eine gute Analyse der Songtexte."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte ist auch eine Reflexion über die Sinnlosigkeit von Krieg und Gewalt, und die Notwendigkeit, einen anderen Weg zu finden, um Konflikte zu lösen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist eine friedliche und humanistische, die die Notwendigkeit betont, Gewalt und Krieg zu überwinden und einen neuen Weg zu suchen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der Songtexte und identifiziert zentrale Themen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt bieten sie eine gute Analyse der Songtexte.",
+    "empfehlung": "Die Interpretationen sollten weiterhin textbezogen und analytisch bleiben, um eine hohe Tiefe und einen niedrigen Halluzinationsgrad zu erreichen."
+  }
+}

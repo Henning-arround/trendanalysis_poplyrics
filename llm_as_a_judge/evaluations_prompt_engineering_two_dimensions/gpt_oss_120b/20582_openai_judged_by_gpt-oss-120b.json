@@ -1,0 +1,136 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Motiv des Reisens dient zugleich als Metapher für Freiheit und als Rahmen, in dem das Subjekt des Anderen verortet wird.",
+          "Die wiederholte Aufforderung, das „Du“ stets zu erinnern, erzeugt eine Spannung zwischen der scheinbaren Offenheit des Erzählers und einer impliziten Kontrolle, die das Bild einer kolonialen Besitzlogik reflektiert.",
+          "Stilistisch nutzt der Text eine Aneinanderreihung von Bildwelten … die gleichzeitig als „Souvenirs“ reduziert werden.",
+          "Die Wiederholung von „You belong to me“ am Ende jeder Strophe wirkt wie ein Refrain, der die lyrische Stimme in ein narrativ‑imperatives Muster zwingt.",
+          "Die Zeile eröffnet eine affektive Dualität … was die emotionale Abhängigkeit ambivalent erscheinen lässt.",
+          "Historisch lässt sich das Werk in die Post‑9/11‑Ära einordnen, in der Reisen und globale Vernetzung zugleich romantisiert und mit Unsicherheit behaftet waren.",
+          "Die Aufforderung, „Just remember till your home again“ suggeriert ein temporäres Verlassen, das jedoch durch die Besitzansage dauerhaft verankert bleibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Diskrepanz zwischen temporärer Mobilität und permanenter Besitzforderung bleibt ungelöst und offen für weitere Deutungen über Macht, Identität und die kulturelle Ökonomisierung von Reisen."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit Analysepunkten.",
+          "Erkennt die wiederholende Struktur des Refrains.",
+          "Behandelt das Spannungsfeld zwischen Freiheit und Besitz."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung „Just remember…“ fungiert als rhetorisches Mittel, das Erinnerung und Verpflichtung zugleich mobilisiert; sie verankert das lyrische Ich als moralische Referenz.",
+          "Metaphorisch wird das „silver plane“ zum Symbol für moderne Mobilität, das jedoch nicht von der Besitzforderung entbunden wird.",
+          "Emotional erzeugt das Refrain‑Muster ein Gefühl von Sehnsucht und zugleich von Bedrohung.",
+          "Die Bildsprache der exotischen Orte wirkt erstrebenswert, zugleich aber als Kulisse für die Besitzlogik.",
+          "Historisch lässt sich das Werk in die Post‑9/11‑Reise‑ und Globalisierungsdebatte einordnen.",
+          "Die Zeilen „Send me photographs and souvenirs“ verdeutlichen die Praxis des Sammelns von Fremdem als Besitzobjekt.",
+          "Die Ambiguitäten zwischen Liebe, Besitz, Freiheit und Kolonial‑Erinnerungen bleiben bewusst offen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Spiegelbild zeitgenössischer Spannungsfelder."
+        ],
+        "positive_aspekte": [
+          "Nutzt konkrete Textzitate als Ausgangspunkt.",
+          "Bietet eine differenzierte Lesart von Besitz vs. Freiheit.",
+          "Erkennt wiederkehrende Motive und deren mögliche Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählungen erzeugen ein Bild von Weltoffenheit, zugleich aber von einer Besitzlogik, die das „Andere“ in Besitz‑ und Besitz‑Rhetorik subsumiert.",
+          "Die zentrale Botschaft bleibt ambivalent: Einerseits ein liebevoll‑beschützender Appell, andererseits ein impliziter Imperialismus, der fremde Kulturen als Souvenirs reduziert.",
+          "Stilistisch nutzt Astley einfache, fast prosaische Bildsprache, die durch Metaphern … und das Symbol des „silver plane“ als Zeichen moderner Mobilität und technischer Macht verstärkt wird.",
+          "Der Kontrast zwischen romantischer Sehnsucht … und der kühlen Distanz der Reisenden … erzeugt Spannungen, die das lyrische Ich zwischen Nähe und Entfernung zerringen.",
+          "Die Wiederholung des Imperativs „Just remember“ wirkt zugleich als Erinnerung und als Kontrolle, was die affektive Ambivalenz zwischen Zuneigung und Besitz verdeutlicht.",
+          "Historisch lässt sich das Werk in die Post‑9/11‑Ära einordnen, in der Reisen und Globalisierung zugleich als Möglichkeit zur Selbstverwirklichung und als Quelle von Unsicherheit wahrgenommen wurden.",
+          "Die exotischen Schauplätze spiegeln ein westlich‑zentrisches Tourist*innen‑Bild wider, das kulturelle Andere als Kulisse für persönliche Narrative nutzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Wer ist das „darling“? … Diese Mehrdeutigkeit bleibt bewusst ungelöst und eröffnet ein Feld von Spannungen zwischen Liebe, Besitz und kultureller Aneignung."
+        ],
+        "positive_aspekte": [
+          "Identifiziert wiederkehrende Refrain‑Zeile und deren strukturelle Funktion.",
+          "Verknüpft Textinhalte mit möglichen kulturellen Implikationen.",
+          "Erkennt die Ambivalenz im Ton des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die thematische Komplexität entsteht aus der Gegenüberstellung von Freiheit (Reisen, Entdeckungen) und Kontrolle (Besitzanspruch), ohne dass ein eindeutiger moralischer Standpunkt eingenommen wird.",
+          "Stilistisch nutzt der Text Metaphern … als Zeichen für Exotik und kulturelle Vielfalt, die zugleich als Geschenke fungieren.",
+          "Die narrative Struktur ist fragmentarisch: Jede Strophe präsentiert ein neues Reiseziel, doch das verbindende … schafft eine lineare, aber nicht geschlossene Erzählung.",
+          "Die Wiederholung erzeugt ein Mantra‑ähnliches Echo, das die emotionale Bindung zugleich beruhigt und beunruhigt.",
+          "Kulturell spiegelt das Werk die post‑koloniale Faszination des Westens für „exotische“ Orte, die als Kulisse für persönliche Besitzansprüche instrumentalisiert werden.",
+          "Historisch lässt sich die Referenz zu Algiers … als Hinweis auf frühere europäische Handelsnetzwerke lesen, während die moderne Mobilität … den zeitgenössischen Globalisierungs‑Diskurs einbindet.",
+          "Die Spannung zwischen der Sehnsucht nach Nähe … und der Androhung von Einsamkeit … bleibt ambivalent: Der Song lässt offen, ob die Bindung Schutz oder Gefangenschaft bedeutet."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Aufschlüsselung von Bildsprache und Refrain‑Struktur.",
+          "Erkennt die mögliche post‑koloniale Lesart.",
+          "Bietet klare Beispiele aus dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Gleichzeitig entsteht ein Spannungsfeld zwischen der romantischen Ideologie des Besitzes und der Aufwertung des Fremden.",
+          "Die Aufzählung exotischer Orte bleibt unkommentiert, wodurch die Ambiguität entsteht, ob das „Zugehörigsein“ als liebevolle Bindung oder als kolonial‑imperiale Besitzanspruch zu verstehen ist.",
+          "Stilistisch nutzt Astley eine Aneinanderreihung von Bildmotiven … als Metaphern für Freiheit und Entdeckung, während die wiederholte Aufforderung … als narrative Klammer fungiert, die das lyrische Ich als fixierenden Beobachter positioniert.",
+          "Die Gegenüberstellung von … erzeugt ein Spannungsfeld zwischen Sehnsucht nach Nähe und dem Wunsch nach Mobilität, das nicht eindeutig aufgelöst wird.",
+          "Historisch lässt sich das Werk in die Post‑9/11‑Ära einordnen, in der Reisen und globale Bilder zugleich als Flucht und als Mittel zur Selbstbestätigung dienten.",
+          "Die Referenz zu Algiers ruft koloniale Erinnerungen an französische Präsenz hervor, ohne diese explizit zu thematisieren, was die ambivalente Haltung gegenüber kultureller Aneignung offenbart."
+        ],
+        "oberflächliche_aussagen": [
+          "So bleibt der Song ein Spiegel der zeitgenössischen Globalisierung … dessen Widersprüche bewusst im Text erhalten bleiben."
+        ],
+        "positive_aspekte": [
+          "Identifiziert Alliteration („fly the ocean“) und deren klangliche Wirkung.",
+          "Verknüpft Text mit historischen Kontexten (Post‑9/11).",
+          "Bietet eine differenzierte Analyse von Bildmotiven und deren Funktion."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das Grundmuster von Besitzanspruch vs. Reise‑Bildsprache, jedoch variieren stark im Detailgrad. Die Varianz der Halluzinations‑Raten ist gering (alle 1), während die Tiefe‑Scores zwischen 3 und 4 schwanken – Hinweis auf konsistente Grundinterpretation, aber unterschiedliche analytische Tiefe.",
+    "empfehlung": "Interpretation 3 liefert die tiefste, textbezogene Analyse und balanciert gut zwischen konkreten Textbezügen und kritischer Kontextualisierung. Für zukünftige Bewertungen sollte der Fokus auf mehr belegbare Textanalysen gelegt werden, um Halluzinationen zu reduzieren, während gleichzeitig die strukturelle und stilistische Tiefe weiter ausgebaut wird."
+  }
+}

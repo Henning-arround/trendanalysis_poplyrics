@@ -1,0 +1,93 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zentrale Motiv des Textes",
+          "paradoxe Erkenntnis"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analytische Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "klassische Dilemma",
+          "melancholische Reflexion"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analytische Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "verzweifeltes Echo",
+          "Unausgewogene Partnerschaft"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "schmerzhafte Ungewissheit",
+          "inneres Selbst"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Textbezogenheit, aber variieren in der analytischen Tiefe.",
+    "empfehlung": "Die dritte Interpretation zeigt eine ausgewogene Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen."
+  }
+}

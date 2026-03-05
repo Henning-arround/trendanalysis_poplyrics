@@ -1,0 +1,90 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text beschreibt eine Art von Erwachen, bei dem der Protagonist etwas Ungewöhnliches in seinem Alltag wahrnimmt, das sich in den \"most peculiar ways that we behave\" manifestiert.",
+          "Der Protagonist ermutigt den Hörer, innezuhalten und die Veränderungen wahrzunehmen, die sich bereits vollziehen, indem er sagt \"if you stop for a moment you can feel it all slipping away\"."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Textbezüge (z. B. „time of the turning“, „old world’s falling“).",
+          "Erkennt die wiederholte Dringlichkeit und das Motiv des Abschieds."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"Did you see it move? / There's something there\" deutet auf eine Art von Bewusstsein oder eine Kraft hin, die im Verborgenen wirkt und die Veränderung vorantreibt.",
+          "Die Erwähnung des \"cloth that I weave\" symbolisiert möglicherweise die Verflechtung von Schicksalen und Ereignissen, die in einem komplexen Muster zusammenlaufen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf die ersten beiden Zeilen des Songs.",
+          "Analysiert das Bild des Gewebes als Metapher für Verflechtung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Vollständig textbasiert, keine spekulativen Biografien.",
+          "Ergänzt die Analyse um das Motiv des Zögerns der Menschen, was die Interpretation vertieft."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente, textnahe Analyse aller wiederkehrenden Motive.",
+          "Gute Balance zwischen Beschreibung und Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identisch zur Interpretation 1, damit sehr texttreu und strukturiert.",
+          "Stellt die zentrale Botschaft (Akzeptanz & Loslassen) klar heraus."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen (1,2,4) wiederholen fast identische Argumentationsstrukturen, was zu einer geringen Varianz führt. Nur 3 und 5 weichen ab, enthalten jedoch spekulative Elemente.",
+    "empfehlung": "Ein Ansatz wie Interpretation 1 (oder 2/4) ist am besten, weil er vollständig textbasiert ist und gleichzeitig genug analytische Tiefe bietet, ohne unnötige Spekulationen. Zukunftige Modelle sollten darauf achten, neue Einsichten zu liefern, anstatt lediglich vorhandene Aussagen zu wiederholen."
+  }
+}

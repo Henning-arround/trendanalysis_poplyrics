@@ -1,0 +1,104 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die kulturelle, historische und gesellschaftliche Dimension des Liedes kann in der Art und Weise gesehen werden, wie es die Erfahrung von Verlust und Abwesenheit thematisiert.",
+          "Die tiefere Bedeutungsebene des Liedes kann in der symbolischen Ordnung der Abwesenheit und des Verlustes gesehen werden, die die menschliche Erfahrung von Verlust und Trauer widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. Metaphern, Wiederholungen).",
+          "Analyse geht auf konkrete Textstellen ein und erkennt Mehrdeutigkeiten (Ambiguität zwischen Vergangenheit und Zukunft).",
+          "Wenig vage Allgemeinplätze, dafür detaillierte Bildinterpretationen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes kann im Rahmen der deutschen Musikszene der 2010er Jahre gesehen werden, in der Themen wie Verlust, Liebe und Identität häufig behandelt wurden.",
+          "Die tiefere Bedeutungsebene des Liedes kann in der symbolischen Ordnung der Abwesenheit und des Verlusts gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textzitat und Interpretation (z. B. Metapher „Ich bin wie ausgestorben“).",
+          "Erkennt die Wiederholung als stilistisches Mittel und diskutiert deren Wirkung.",
+          "Bezieht sich auf konkrete Zeilen, um die innere Zerrissenheit des Sprechers zu erklären."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes kann im Rahmen der deutschen Musikszene der 2010er Jahre gesehen werden, in der Themen wie Verlust, Liebe und Identität häufig behandelt wurden.",
+          "Die tiefere Bedeutungsebene des Liedes kann in der symbolischen Ordnung der Abwesenheit und des Verlusts gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Gleiche Stärken wie bei Interpretation 1, aber mit leicht anderer Formulierung, was die Konsistenz der Analyse zeigt.",
+          "Klare Textbezüge und nachvollziehbare Schlussfolgerungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Bilder, tragen zur emotionalen Wirkung des Songs bei.",
+          "Die narrative Struktur des Songs, die durch die Wiederholung von Refrain und Strophen geprägt ist, verstärkt die emotionale Wirkung und betont die zentrale Botschaft.",
+          "Die emotionale Wirkung und affektive Dimension des Songs werden durch die Verwendung von Ambiguitäten und Spannungen verstärkt.",
+          "Diese Ambiguitäten und Spannungen tragen zur Tiefe und Komplexität des Songs bei und lassen den Hörer über die Bedeutung und die emotionale Wirkung nachdenken."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt zentrale Metaphern und deren Bedeutung.",
+          "Erkennt die Rolle von Ambiguitäten im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes kann im Rahmen der deutschen Musikszene der 2010er Jahre gesehen werden, in der Themen wie Verlust, Liebe und Identität häufig behandelt wurden.",
+          "Die tiefere Bedeutungsebene des Liedes kann in der symbolischen Ordnung der Abwesenheit und des Verlusts gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Sehr ähnliche Analyse wie bei Interpretation 1, zeigt konsistente Textbezug‑Qualität.",
+          "Gute Balance zwischen Zitaten und interpretativer Reflexion."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Kernpunkte (Verlust, Metaphern, Wiederholung). Unterschiede liegen im Anteil vager, oberflächlicher Aussagen – Interpretation 2 ist am wenigsten tiefgehend, während 1,3,4,5 sehr ähnlich und substantiell sind.",
+    "empfehlung": "Interpretationen, die fast ausschließlich textbasierte Aussagen liefern und gleichzeitig Mehrdeutigkeiten des Textes diskutieren (z. B. Interpretation 3), bieten die beste Balance aus Faktentreue und analytischer Tiefe. Vermeiden Sie zu allgemeine, nicht belegte Kontextualisierungen, da sie die Oberflächlichkeit erhöhen."
+  }
+}

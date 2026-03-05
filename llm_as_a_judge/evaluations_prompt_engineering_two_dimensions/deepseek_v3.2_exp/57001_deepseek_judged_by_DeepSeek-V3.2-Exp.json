@@ -1,0 +1,97 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nacht und der Tag werden als Symbole für verschiedene Zustände der Existenz verwendet"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert Entfremdung, Isolation und die Suche nach Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Diskrepanz zwischen äußerer Erscheinung und innerer Leere"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Digitalisierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an der modernen Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Spannung zwischen Nähe und Distanz in einer Welt der digitalen Kommunikation"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'With satellite television you can go anywhere' reflektiert die Ubiquität von Medien"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Ambivalenz von Verbindung und Isolation"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Paradoxie von Nähe und Distanz in einer Welt der digitalen Kommunikation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Kritik an der modernen Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert Entfremdung, Isolation und die Suche nach Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Metaphern und Symbolen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die menschliche Erfahrung der Einsamkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Diskrepanz zwischen äußerer Erscheinung und innerer Leere und analysiert die Verwendung von Metaphern und Symbolen im Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet unbelegte Aussagen"
+  }
+}

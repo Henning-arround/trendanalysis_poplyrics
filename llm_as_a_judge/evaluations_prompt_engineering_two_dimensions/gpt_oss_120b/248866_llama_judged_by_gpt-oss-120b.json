@@ -1,0 +1,114 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs kann im Rahmen der finnischen Hard‑Rock‑Szene und der europäischen Metal‑Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Verwendung von Alliterationen und Assonanzen schaffen eine hypnotische Atmosphäre, die den Hörer in die Welt des Songs zieht.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Auseinandersetzung mit den Ängsten und Unsicherheiten der modernen Gesellschaft gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. Angst, Dunkelheit, Troll‑Motiv).",
+          "Klare Analyse von Metaphern und Symbolen (Tricking Trolls, Bell that tolls).",
+          "Konsistente Argumentationskette, die den Text Schritt für Schritt interpretiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs kann im Rahmen der finnischen Hard‑Rock‑Szene und der europäischen Metal‑Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Verwendung von Alliterationen und Assonanzen schaffen eine hypnotische Atmosphäre, die den Hörer in die Welt des Songs zieht.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Auseinandersetzung mit den Ängsten und Unsicherheiten der modernen Gesellschaft gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Starke Textbelege für Angst‑ und Nacht‑Motiv.",
+          "Gute Verknüpfung von Symbolen (Trolle, Glocke) mit dem Gesamtthema.",
+          "Ausgewogene Mischung aus konkreten Beobachtungen und interpretativer Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs kann im Rahmen der finnischen Hard‑Rock‑Szene und der europäischen Metal‑Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Verwendung von Alliterationen und Assonanzen schaffen eine hypnotische Atmosphäre, die den Hörer in die Welt des Songs zieht.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Auseinandersetzung mit den Ängsten und Unsicherheiten der modernen Gesellschaft gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Argumentation.",
+          "Erkenntnisreiche Deutung von „tricking trolls“ und der „bell that tolls“ als Symbol für dunkle Kräfte.",
+          "Erklärt, warum der Refrain die zentrale Botschaft verstärkt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs kann im Rahmen der finnischen Hard‑Rock‑Szene und der europäischen Metal‑Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Verwendung von Alliterationen und Assonanzen schaffen eine hypnotische Atmosphäre, die den Hörer in die Welt des Songs zieht.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Auseinandersetzung mit den Ängsten und Unsicherheiten der modernen Gesellschaft gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit den interpretativen Thesen.",
+          "Erkenntnisreiche Analyse der Stimmung (Angst, Bedrohung).",
+          "Bezieht kulturelle Folklore (Trolle) sinnvoll ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs kann im Rahmen der finnischen Hard‑Rock‑Szene und der europäischen Metal‑Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Verwendung von Alliterationen und Assonanzen schaffen eine hypnotische Atmosphäre, die den Hörer in die Welt des Songs zieht.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Auseinandersetzung mit den Ängsten und Unsicherheiten der modernen Gesellschaft gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Stützt fast jede These auf konkrete Textzitate.",
+          "Erklärt Symbolik (Trolle, Glocke) im Kontext von Nacht und Gefahr.",
+          "Bietet eine ausgewogene, nicht einseitige Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch; die Varianz ist praktisch nicht vorhanden, was auf ein hohes Maß an Wiederholung, aber gleichzeitig auf konsistente Bewertung hinweist.",
+    "empfehlung": "Da alle Modelle dieselben Inhalte wiedergeben, wäre ein Ansatz, der stärker zwischen belegten Textbezügen und spekulativen Kontextualisierungen unterscheidet, wünschenswert. Zukunftige Modelle sollten mehr Variation und tiefere, textbasierte Analysen liefern, um Halluzinationen zu minimieren und die interpretative Tiefe zu erhöhen."
+  }
+}

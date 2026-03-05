@@ -1,0 +1,99 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in seiner Fähigkeit, die Zuhörer zu ermutigen, ihre eigenen Grenzen zu überschreiten und sich ihrer eigenen Identität und Freiheit bewusst zu werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Produkt der zeitgenössischen Popkultur gesehen werden, die sich durch ihre Fokussierung auf Individualität und Selbstentfaltung auszeichnet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Metaphern und Symbolen im Songtext und ihre Bedeutung für die emotionale Wirkung und affektive Dimension des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in seiner Fähigkeit, die Zuhörer zu ermutigen, ihre eigenen Grenzen zu überschreiten und sich ihrer eigenen Identität und Selbstentfaltung bewusst zu werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Produkt der zeitgenössischen Popkultur gesehen werden, die sich durch ihre Fokussierung auf die individuelle Freiheit und den Genuss des Lebens auszeichnet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Verwendung von Widersprüchen und Ambiguitäten im Songtext und ihre Bedeutung für die Komplexität und die Spannungen des menschlichen Erlebens."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Standing in the shadows / You've been there all night;' suggeriert, dass der Protagonist sich unsichtbar und unbeachtet fühlt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Metaphern und Symbolen unterstreicht die Bedeutung von Selbstpräsentation und -inszenierung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Diskrepanz zwischen dem Selbstbild und der sozialen Wahrnehmung und ihre Bedeutung für die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You don't have a thing to lose / Time to work you Jimmy Choo's' kann beispielsweise als eine Aufforderung zur Selbstentfaltung und zum Genuss des Lebens interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Idee der Selbstbefreiung und der Ausbreitung von Freiheit und Gleichheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Verbindung zwischen Mode, Musik und Selbstentfaltung und ihre Bedeutung für die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'You've been there all night; / No one's gonna find you / When you're out of sight' schaffen ein Bild der Unsichtbarkeit und Isolation."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Bildern und Narrativen tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Ambiguität zwischen Unsichtbarkeit und Sichtbarkeit, zwischen Isolation und Teilhabe und ihre Bedeutung für die emotionale Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bieten eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine tiefe Analyse des Songtexts bietet und gleichzeitig offen für Ambivalenzen und Mehrdeutigkeiten ist."
+  }
+}

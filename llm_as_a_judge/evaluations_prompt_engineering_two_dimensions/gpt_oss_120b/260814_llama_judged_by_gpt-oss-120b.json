@@ -1,0 +1,124 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft ... scheint in der Betonung der Verbundenheit und Zugehörigkeit zu liegen, wie in den Zeilen ... deutlich wird.",
+          "Die literarischen Stilmittel ... sind vielfältig und reichhaltig. Metaphern ... und Symbole ... die der Sprecher ... trägt zur Schaffung eines dichten und bildreichen Narrativs bei."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und vielschichtige Darstellung von Erinnerungen, Orten und Beziehungen.",
+          "Die emotionale Wirkung des Songs wird durch die Verbindung von persönlichen Erinnerungen und kollektiven Erfahrungen erreicht.",
+          "Der Song bietet somit eine komplexe und mehrschichtige Darstellung von Identität, Gemeinschaft und Erinnerung, die … noch verstärkt wird."
+        ],
+        "positive_aspekte": [
+          "Verweist konsequent auf konkrete Textstellen (z. B. Metaphern, Ortsnamen).",
+          "Erkennt wiederkehrende Motive (Gemeinschaft, Identität).",
+          "Bleibt weitgehend textnah, ohne übermäßige Spekulation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Aussagen unterstreichen die Bedeutung von Gemeinschaft und Solidarität, die im Kontext der schottischen Kultur und Geschichte eine wichtige Rolle spielt.",
+          "Die Figur des Billy … lässt auf eine tiefe soziale und wirtschaftliche Realität schließen, die im Song thematisiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und vielschichtige Darstellung von Erinnerungen, Erfahrungen und Emotionen.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden.",
+          "Die Ambiguitäten und Spannungen … bleiben im Song ungelöst und bieten Raum für weitere Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen konkreten Textbezügen und weiterführender Analyse.",
+          "Erkennt und benennt zentrale Symbolik (Feuerwerk, Tizer, alte Reifen).",
+          "Stellt die soziale Dimension (Billy) in einen plausiblen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Aussagen unterstreichen die Bedeutung von Gemeinschaft und Solidarität, die im Kontext der schottischen Kultur und Geschichte eine wichtige Rolle spielen.",
+          "Die Figur des Billy … lässt auf eine tiefe soziale und wirtschaftliche Realität schließen, die im Song thematisiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und vielschichtige Darstellung von Erinnerungen, Erfahrungen und Emotionen.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden.",
+          "Die Ambiguitäten und Spannungen … bleiben im Song ungelöst und bieten Raum für weitere Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche konkrete Textbelege (Ortsnamen, Metaphern, Symbolik).",
+          "Erklärt strukturelle Merkmale (abruptes Szenenwechsel).",
+          "Verbindet Textanalyse mit kulturellem Hintergrund, ohne zu übertreiben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Aussagen unterstreichen die Bedeutung von Gemeinschaft und Solidarität, die im Kontext der schottischen Kultur und Geschichte eine wichtige Rolle spielt.",
+          "Die Figur des Billy … lässt auf eine tiefe soziale und wirtschaftliche Realität schließen, die im Song thematisiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und vielschichtige Darstellung von Erinnerungen, Erfahrungen und Emotionen.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden.",
+          "Die Ambiguitäten und Spannungen … bleiben im Song ungelöst und bieten Raum für weitere Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Starke Textverankerung (z. B. „old tyres“, „box of fireworks“, „two bottles of Tizer“).",
+          "Erkennt die narrative Fragmentierung als Stilmittel.",
+          "Verknüpft Symbolik mit möglichen emotionalen Bedeutungen (Tod, Vergänglichkeit)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Aussagen unterstreichen die Bedeutung von Gemeinschaft und Solidarität, die im Kontext der schottischen Kultur und Geschichte eine wichtige Rolle spielt.",
+          "Die Figur von Billy … wirft Fragen über die Darstellung von Identität und Beruf auf."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und vielschichtige Darstellung von Erinnerungen, Erfahrungen und Emotionen.",
+          "Die emotionale Wirkung des Songs ist eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden.",
+          "Die Ambiguitäten und Spannungen … lassen den Song zu einer tiefgründigen und vielschichtigen Reflexion über das menschliche Erleben werden."
+        ],
+        "positive_aspekte": [
+          "Konsistente Bezugnahme auf wiederkehrende Motive (Gemeinschaft, Orte).",
+          "Erklärt die narrative Komplexität und die offene Interpretation.",
+          "Verbindet Textstellen mit möglichen Fragen zur Identität (Billy)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im Anteil oberflächlicher bzw. erfundener Aussagen. Die meisten Texte bleiben textnah, jedoch mit wiederholten, leicht variierenden Formulierungen.",
+    "empfehlung": "Interpretationen 1, 4 und 5 bieten die beste Balance aus Texttreue und analytischer Tiefe. Sie nutzen konkrete Textbelege, erkennen strukturelle Besonderheiten und vermeiden übermäßige Spekulation. Für zukünftige Analysen sollte der Fokus auf noch differenziertere, textbasierte Argumentation gelegt werden, um Oberflächlichkeit zu reduzieren."
+  }
+}

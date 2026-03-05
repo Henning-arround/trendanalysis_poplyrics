@@ -1,0 +1,99 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'She's awake now, this chick' am Ende des Songs kann als Hinweis auf die beginnende Emanzipation der Frau und ihre wachsende Selbstständigkeit gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick harmlos zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau hier in eine traditionelle Rolle gedrängt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die 1950er Jahre waren geprägt von traditionellen Rollenbildern"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der 'silbernen Sterne, die aus dem Blickfeld verschwinden' als Symbol für den Übergang von der Nacht zum Tag"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau hier in eine traditionelle Rolle gedrängt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die 1950er Jahre waren geprägt von traditionellen Rollenbildern"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der 'silbernen Sterne, die aus dem Blickfeld verschwinden' als Symbol für den Übergang von der Nacht zum Tag"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau hier in eine traditionelle Rolle gedrängt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die 1950er Jahre waren geprägt von traditionellen Rollenbildern"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der 'silbernen Sterne, die aus dem Blickfeld verschwinden' als Symbol für den Übergang von der Nacht zum Tag"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'She's awake now, this chick' am Ende des Songs deutet auf eine gewisse Ambiguität und Spannung hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick harmlos zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Wirkung des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-4 zeigen eine hohe Ähnlichkeit und Wiederholung von Aussagen, was auf eine mangelnde Tiefe und Kreativität hinweist",
+    "empfehlung": "Die Interpretationen 1 und 5 bieten eine bessere Balance zwischen Textreue und analytischer Tiefe und sollten als Vorbild für zukünftige Interpretationen dienen"
+  }
+}

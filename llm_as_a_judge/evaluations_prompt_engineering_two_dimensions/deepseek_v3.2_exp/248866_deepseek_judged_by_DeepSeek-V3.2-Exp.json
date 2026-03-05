@@ -1,0 +1,91 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Themen Angst, Unsicherheit und die Bedrohung durch das Unbekannte sind universell und können in verschiedenen Kontexten interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und identifiziert die zentralen Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2006 veröffentlicht, einer Zeit, in der die globale Sicherheitslage angespannt war und die Angst vor Terrorismus und Gewalt in vielen Ländern präsent war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die inneren Ängste und Unsicherheiten interpretiert werden, die Menschen in ihrem Alltag erleben."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet einen historischen Kontext und erweitert die Bedeutung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Themen Angst, Unsicherheit und die Bedrohung durch das Unbekannte sind universell und können in verschiedenen Kontexten interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und identifiziert die zentralen Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Themen Angst, Unsicherheit und die Bedrohung durch das Unbekannte sind universell und können in verschiedenen Kontexten interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und identifiziert die zentralen Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2006 veröffentlicht, einer Zeit, in der die globale Sicherheitslage angespannt war und die Angst vor Terrorismus und Gewalt in vielen Ländern präsent war."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der Symbolik und der emotionalen Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der zentralen Motive des Songs, aber variieren in der Tiefe und der Einbeziehung von externen Kontexten.",
+    "empfehlung": "Die fünfte Interpretation bietet die beste Balance zwischen Textreue, analytischer Tiefe und der Einbeziehung von relevanten Kontexten."
+  }
+}

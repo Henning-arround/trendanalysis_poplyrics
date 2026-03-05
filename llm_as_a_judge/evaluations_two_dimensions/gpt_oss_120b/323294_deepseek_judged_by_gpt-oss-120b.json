@@ -1,0 +1,117 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist ein persönliches Zeugnis des Glaubens und der Hingabe an Jesus, der als \"mein Retter\" und \"mein Erlöser\" bezeichnet wird.",
+          "Die erste Strophe stellt die zentrale Botschaft des Liedes vor: Jesus ist die Quelle der Freude und des Trostes, und der Sänger ist durch den Heiligen Geist wiedergeboren und durch das Blut Jesu Christi gereinigt."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied drückt auch eine tiefe innere Ruhe und Frieden aus, die durch die Beziehung zu Jesus erreicht wird.",
+          "Insgesamt ist \"Blessed Assurance\" ein herzliches und aufrichtiges Glaubensbekenntnis, das die transformative Kraft der Liebe und Gnade Jesu Christi widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Wortlaut des Textes ab (z. B. „perfect submission“, „perfect delight“, Engel, Visionen).",
+          "Die Interpretation erkennt die wiederholte Refrain‑Zeile als Hinweis auf die persönliche Erzählung des Sängers."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein traditioneller christlicher Gospel‑Song.",
+          "Der Text ist eine persönliche und innige Erklärung des Glaubens, … dass er seine Identität als Kind Gottes betont."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song drückt auch eine tiefe innere Ruhe und Frieden aus, die aus der vollkommenen Unterwerfung unter Gott resultiert.",
+          "Der Sänger ist glücklich und gesegnet in Christus und erfüllt von dessen Güte, verloren in dessen Liebe.",
+          "Der Song ist somit ein kraftvoller Ausdruck des christlichen Glaubens und der persönlichen Beziehung zu Jesus Christus, die von Freude, Frieden und Hingabe geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textstellen werden korrekt wiedergegeben (z. B. „Born of His Spirit, washed in His blood“, Engel, Visionen).",
+          "Die wiederholte Betonung des Refrains wird als Hinweis auf die persönliche Geschichte des Sängers interpretiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein christliches Gospel‑Lied.",
+          "Die erste Strophe stellt die zentrale Botschaft des Liedes vor: Jesus ist sein Eigentum, und er ist durch den Heiligen Geist wiedergeboren und durch das Blut Christi gereinigt worden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist eine persönliche und innige Erklärung des Sängers, dass er durch seinen Glauben an Jesus Christus erlöst und gesegnet ist.",
+          "Im weiteren Verlauf des Liedes beschreibt der Sänger seine Erfahrung der vollkommenen Unterwerfung und Freude in seinem Glauben.",
+          "Das Lied drückt auch eine tiefe innere Ruhe und Frieden aus, die der Sänger durch seinen Glauben erlangt hat.",
+          "Er ist glücklich und gesegnet in seinem Retter und blickt hoffnungsvoll in die Zukunft, erfüllt von der Güte und Liebe Gottes.",
+          "Insgesamt ist \"Blessed Assurance\" ein herzliches und aufrichtiges Zeugnis des Glaubens, das die transformative Kraft des christlichen Glaubens in das Leben eines Menschen widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Richtige Zitate aus dem Refrain und den Vision‑/Engel‑Passagen werden verwendet."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein traditioneller christlicher Gospel‑Song.",
+          "Der Text ist eine persönliche und innige Erklärung des Glaubens, … dass er seine Identität als Kind Gottes betont."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song drückt auch eine tiefe innere Ruhe und Frieden aus, die aus der vollkommenen Unterwerfung unter Gott resultiert.",
+          "Der Sänger ist glücklich und gesegnet in Christus und erfüllt von dessen Güte, verloren in dessen Liebe.",
+          "Der Song ist somit ein kraftvoller Ausdruck des christlichen Glaubens und der persönlichen Beziehung zu Jesus Christus, die von Freude, Frieden und Hingabe geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Identische inhaltliche Analyse wie bei Interpretation 1, mit korrekter Bezugnahme auf die wiederholten Textpassagen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ist eine persönliche und innige Erklärung des Glaubens, … seine Freude und Dankbarkeit für die Erlösung durch ihn ausdrückt.",
+          "Das Lied beschreibt die Erfahrung der Erlösung und die Freude, die damit einhergeht.",
+          "Der Text ist auch von einer tiefen Sehnsucht nach geistlicher Vollkommenheit und Frieden geprägt.",
+          "Insgesamt ist \"Blessed Assurance\" ein Ausdruck der tiefen Verbindung zwischen dem Sänger und seinem Glauben, … Freude, Dankbarkeit und Hingabe an Jesus Christus ausdrückt.",
+          "Das Lied ist ein Zeugnis der persönlichen Erfahrung der Erlösung und der Bedeutung, die der Glaube im Leben des Sängers hat."
+        ],
+        "positive_aspekte": [
+          "Alle faktischen Aussagen beruhen direkt auf dem vorliegenden Text (z. B. Zitate von „Heir of salvation“, „perfect submission“, Engel‑Passagen).",
+          "Die Interpretation vermeidet unbegründete biografische oder stilistische Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1 und 2 sind nahezu identisch und zeigen wenig Variation; Interpretation 4 sticht durch faktentreue Aussagen ohne Erfindungen hervor, während die anderen moderate Halluzinationen enthalten.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man die faktentreue Herangehensweise von Interpretation 4 mit einer etwas tieferen textanalytischen Ausarbeitung kombinieren – also mehr spezifische Textbelege einbinden, aber weiterhin spekulative oder biografische Angaben vermeiden."
+  }
+}

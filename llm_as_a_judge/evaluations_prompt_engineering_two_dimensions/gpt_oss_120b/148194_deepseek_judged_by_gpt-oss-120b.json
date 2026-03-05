@@ -1,0 +1,109 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur gesellschaftlichen und kulturellen Normierung von Liebe und Beziehungen interpretiert werden.",
+          "Hier wird die Spannung zwischen der individuellen Erfahrung der Liebe und den gesellschaftlichen Erwartungen und Normen deutlich.",
+          "Dieser Satz kann als Kommentar zur gesellschaftlichen Doppelmoral interpretiert werden, die die Liebe als positive Erfahrung ansieht, aber gleichzeitig die Kontrolle über das eigene Leben erwartet."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textbelege werden zitiert (Zeilennummern, direkte Zitate).",
+          "Metaphern und Symbole werden klar benannt und mit dem Text verknüpft.",
+          "Interpretation bleibt eng am Wortlaut und vermeidet unbegründete biografische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert auch die kulturellen und gesellschaftlichen Normen der 1990er Jahre, in denen die Liebe und die Emotionalität eine wichtige Rolle spielten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist eine Mischung aus Ekstase und Desorientierung."
+        ],
+        "positive_aspekte": [
+          "Verknüpft mehrere Textstellen (z. B. „gods of love“, Polizeiszene) mit einer kohärenten Deutung.",
+          "Erklärt die Ambiguität zwischen äußerer Situation und innerer Gefühlslage.",
+          "Bietet sowohl metaphorische als auch narrative Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur gesellschaftlichen und kulturellen Normierung von Liebe und Beziehungen interpretiert werden.",
+          "Hier wird die Spannung zwischen der individuellen Erfahrung der Liebe und den gesellschaftlichen Erwartungen und Normen deutlich.",
+          "Dieser Satz kann als Kommentar zur gesellschaftlichen Doppelmoral interpretiert werden, die die Liebe als positive Erfahrung ansieht, aber gleichzeitig die Kontrolle über das eigene Leben erwartet."
+        ],
+        "positive_aspekte": [
+          "Starke Textverankerung durch wiederholte Zitat‑Referenzen.",
+          "Klare Herausarbeitung von Metaphern (z. B. „crescent moon“, „gods of love“).",
+          "Bleibt bei den im Text vorhandenen Bildern und überinterpretiert nicht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur gesellschaftlichen und kulturellen Normierung von Liebe und Beziehungen interpretiert werden.",
+          "Hier wird die Spannung zwischen der individuellen Erfahrung der Liebe und den gesellschaftlichen Erwartungen und Normen deutlich.",
+          "Dieser Satz kann als Kommentar zur gesellschaftlichen Doppelmoral interpretiert werden, die die Liebe als positive Erfahrung ansieht, aber gleichzeitig die Kontrolle über das eigene Leben erwartet."
+        ],
+        "positive_aspekte": [
+          "Systematischer Aufbau: Aussage → Textbeleg → Interpretation.",
+          "Identifiziert konsequent die zentrale Metapher des Rausches.",
+          "Verknüpft die Polizeiszene mit dem Motiv der Ambivalenz zwischen „drunk“ und „stone‑cold sober“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur gesellschaftlichen und kulturellen Normierung von Liebe und Beziehungen interpretiert werden.",
+          "Hier wird die Spannung zwischen der individuellen Erfahrung der Liebe und den gesellschaftlichen Erwartungen und Normen deutlich.",
+          "Dieser Satz kann als Kommentar zur gesellschaftlichen Doppelmoral interpretiert werden, die die Liebe als positive Erfahrung ansieht, aber gleichzeitig die Kontrolle über das eigene Leben erwartet."
+        ],
+        "positive_aspekte": [
+          "Verwendet durchgehend konkrete Textzitate.",
+          "Erklärt die Symbolik von „gods of love“ und der „crescent moon“ im Kontext des Rausches.",
+          "Bleibt bei den im Song vorhandenen Themen und führt keine externen, unbelegten Kontextualisierungen ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Interpretationen 2‑5 sind nahezu identisch, was zu sehr niedrigen Halluzinationsraten führt, jedoch auch zu wiederholten oberflächlichen Aussagen. Interpretation 1 weicht ab, enthält eine erfundene kulturhistorische Behauptung und damit höhere Halluzinationsrate.",
+    "empfehlung": "Die besten Ergebnisse erzielen Interpretationen, die konsequent Textbelege nutzen, keine externen, unbelegten Kontextualisierungen einbringen und gleichzeitig die Mehrdeutigkeit der Metaphern herausarbeiten. Variante 2 (bzw. 3‑5) erfüllt diese Kriterien am besten."
+  }
+}

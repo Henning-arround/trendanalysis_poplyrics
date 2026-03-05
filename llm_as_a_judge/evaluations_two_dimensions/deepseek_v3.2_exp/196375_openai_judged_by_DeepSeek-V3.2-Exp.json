@@ -1,0 +1,103 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Knochen stehen für das Grundgerüst, das Verblassen des Glanzes"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sonne trägt Jugendstilkleider"
+        ],
+        "positive_aspekte": [
+          "Der Text wirkt wie ein bewusst verworrener Traum",
+          "Der Refrain fordert ein Haus aus den Knochen von Cary Grant"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Körper des Filmstars soll zu einem dauerhaften Fundament werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Verweise auf Schwaben, den Rhein und die Sonne"
+        ],
+        "positive_aspekte": [
+          "Der Text wirkt wie ein bewusst verworrener Traum",
+          "Der Refrain reduziert das komplexe Bild auf ein einfaches Mantra"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Haus wird zum Metapher für ein Selbst, das aus den Überresten vergangener Idole und gesellschaftlicher Rollen gebaut wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Na-Na-Melodie am Schluss löst die sprachliche Schwere"
+        ],
+        "positive_aspekte": [
+          "Der Text thematisiert die Zerbrechlichkeit und den Wunsch nach Konstruktion einer eigenen Identität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sonne symbolisiert den Wandel von ästhetischer Fassade zu roher Existenz"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Verweise auf Schwaben, den Rhein und die Sonne"
+        ],
+        "positive_aspekte": [
+          "Der Text schildert eine surreale Collage",
+          "Das Haus wird zum Metapher für ein Selbst"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Brief, den man an den Spiegel klemt, richtet sich an das eigene Selbstbild"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Verweise auf Schwaben, Land- und Stadtbilder"
+        ],
+        "positive_aspekte": [
+          "Der Text wirkt wie ein bewusst verworrener Traum",
+          "Der Refrain entsteht ein hypnotischer Rhythmus"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Fähigkeit, den Text zu interpretieren"
+  }
+}

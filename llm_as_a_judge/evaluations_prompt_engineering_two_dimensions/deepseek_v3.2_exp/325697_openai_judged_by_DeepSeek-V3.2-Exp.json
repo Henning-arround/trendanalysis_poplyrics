@@ -1,0 +1,99 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung, dass das eigene Glück ausschließlich von einer anderen Person abhängt, spiegelt zugleich traditionelle Geschlechterrollen und die beginnende Kritik an deren Unzulänglichkeit wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ist die Vorstellung, dass das eigene Leben erst durch die Zugehörigkeit zu einem anderen Menschen vollständig und frei von \"sad or blue\" werden kann."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das persönliche Traum- und Sehnsuchtsmotiv mit einer konditionalen Liebesbeziehung und diskutiert die stilistischen und historischen Aspekte des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Nat \"King\" Coles sanfte Baritonstimme, die typischerweise für Wohlklang und Stabilität stand, kontrastiert mit den lyrischen Widersprüchen und lässt das Stück zwischen klassischer Liebesballade und einer unterschwelligen Kritik an idealisierter Partnerschaft oszillieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen dem Wunsch nach einer \"love that's good and true\" und der Erfahrung einer \"failed\" Liebe erzeugt ein Spannungsfeld, das die thematische Komplexität des Textes ausmacht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die stilistischen und historischen Aspekte des Songs und bietet eine tiefere Analyse der lyrischen Widersprüche."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Betonung von \"my life\" reflektiert den wachsenden Individualismus der Nachkriegs-USA, während die unerfüllte Liebesbeziehung die gesellschaftlichen Spannungen zwischen traditionellen Rollenbildern und dem aufkommenden Wunsch nach selbstbestimmter Partnerschaft widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von \"My Life\" verknüpft das persönliche Traum- und Sehnsuchtsmotiv mit einer konditionalen Liebesbeziehung, die zugleich als mögliche Erlösung und als Quelle von Enttäuschung fungiert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der stilistischen und historischen Aspekte des Songs und diskutiert die Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die lyrische Konstruktion spiegelt diese Übergangszeit wider: einerseits die klassische Idealisierung der Frau als \"rettende\" Liebe, andererseits die unterschwellige Kritik an einer Beziehung, die nur durch äußere Gesten (\"kissing\") und nicht durch authentisches Empfinden legitimiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text eröffnet mit einer konditionalen Wunschvorstellung, die das Motiv des selbstaufopfernden Liebenden etabliert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der lyrischen Widersprüche und diskutiert die stilistischen und historischen Aspekte des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung einer \"love that's good and true\" spiegelt das post-war-optimistische Ideal der Ehe als stabilisierendes Element wider, während die wiederholte Betonung von \"no day ... sad or blue\" die Angst vor emotionaler Instabilität in einer Zeit des wachsenden Individualismus offenbart."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von \"My Life\" stellt ein Idealbild romantischer Erfüllung gegenüber einer erlebten Leere dar."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine allgemeine Analyse der stilistischen und historischen Aspekte des Songs, aber fehlt an Tiefe und Spezifität."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung, mit kleinen Abweichungen in der Halluzinations- und Tiefenbewertung.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und die stilistischen und historischen Aspekte des Songs diskutiert."
+  }
+}

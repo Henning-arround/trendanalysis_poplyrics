@@ -1,0 +1,99 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung der Nacht repräsentiert die Unsichtbarkeit und die Unzugänglichkeit des Verlorenen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Dimension des Songs kann im Kontext der Emo- und Rockmusikszene der 2000er Jahre verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher '4 AM forever' ist gut durchdacht und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung der 'ewigen Nacht' gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Dimension des Songs kann im Kontext der emo- und rock-Musikszene der 2000er Jahre verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die emotionale Wirkung des Songs wird durch die wiederholten Fragen gut analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung des Songs, insbesondere die Verwendung der Nacht und der Stille, kann als eine Art 'Tod' der Beziehung interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Dimension des Songs kann im Kontext der emo- und rock-Musikszene der 2000er Jahre verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Maybe I'll never see you smile again' ist gut durchdacht und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Nacht und der Dunkelheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Dimension des Songs ist geprägt von der Emo- und Rockmusikszene der 2000er Jahre"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der affektiven Dimension der Textzeilen ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung der Nacht und der Dunkelheit widerspiegelt die emotionale Verfassung des Sängers"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Dimension des Songs ist geprägt von der Emo- und Rockmusikszene der 2000er Jahre"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'It's 4 AM and you are gone' ist gut durchdacht und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Variationen in der Tiefe und Halluzination",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

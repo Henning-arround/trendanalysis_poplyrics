@@ -1,0 +1,104 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Strophen sind von einer tiefen Emotionalität geprägt, die durch Seals soulige Stimme noch unterstrichen wird.",
+          "Insgesamt ist \"I Can't Stand The Rain\" ein bewegender Song, der die Komplexität menschlicher Emotionen und die Schwierigkeit, mit der Vergangenheit abzuschließen, thematisiert."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (Regen, Fenster, süße Erinnerungen, „He's not here for me“).",
+          "Durchgängige Symbolinterpretation des Regens als Auslöser von Erinnerungen.",
+          "Wenig spekulative Aussagen, die meisten Punkte sind direkt aus dem Text ableitbar."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Sänger sehnt sich nach der körperlichen Nähe seines ehemaligen Partners, die jetzt durch das einsame Kissen ersetzt wurde.",
+          "Insgesamt ist der Song eine herzliche und emotionale Klage über die verlorene Liebe und die Unfähigkeit, mit der Vergangenheit abzuschließen."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Analyse der Bildsprache (Regen → Erinnerungen, Symbolik).",
+          "Verknüpft einzelne Textstellen mit konkreten emotionalen Zuständen des Sängers.",
+          "Keine unbelegten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Strophen sind von einer tiefen Emotionalität geprägt, die durch Seals soulige Stimme noch unterstrichen wird.",
+          "Insgesamt ist \"I Can't Stand The Rain\" ein bewegender Song, der die Komplexität menschlicher Emotionen und die Schwierigkeit, mit der Vergangenheit abzuschließen, thematisiert."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen konkreter Textanalyse und allgemeiner Interpretation.",
+          "Erkennt die wiederholende Mantra‑Struktur des Refrains.",
+          "Bleibt faktentreu – keine erfundenen biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Sänger sehnt sich nach der Vergangenheit und kann nicht akzeptieren, dass die Liebe vorbei ist.",
+          "Der Song endet mit einer resignierten und schmerzerfüllten Klage, in der der Sänger den Regen auffordert, nicht okay zu sein, was seine Unfähigkeit unterstreicht, mit der Situation umzugehen."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textzeilen („He's not here for me“) mit dem Motiv der Einsamkeit.",
+          "Stellt den Regen konsequent als Symbol für die Erinnerung dar.",
+          "Keine spekulativen biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Strophen sind von einer tiefen Emotionalität geprägt, die durch Seals soulige Stimme noch unterstrichen wird.",
+          "Insgesamt ist \"I Can't Stand The Rain\" ein bewegender Song, der die Komplexität menschlicher Emotionen und die Schwierigkeit, mit der Vergangenheit abzuschließen, thematisiert."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse, wenig spekulativ.",
+          "Erkennt die wiederholende Struktur des Refrains als Mantra‑Element.",
+          "Bleibt bei den im Text vorhandenen Symbolen (Regen, Fenster, Erinnerungen)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Melancholie, Regen als Symbol, Erinnerung). Die Variation liegt hauptsächlich im Anteil oberflächlicher Formulierungen; Interpretation 1 enthält die wenigsten vagen Aussagen.",
+    "empfehlung": "Interpretation 1 ist am ausgewogensten: sie bleibt faktentreu, liefert konkrete Textbezüge und vermeidet unnötige Allgemeinplätze. Für zukünftige Analysen sollte man darauf achten, vage Schlussfolgerungen zu reduzieren und stattdessen mehr differenzierte, textbasierte Argumente zu bieten."
+  }
+}

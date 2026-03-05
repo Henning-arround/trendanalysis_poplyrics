@@ -1,0 +1,99 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unsicherheit und Verlorenheit einer Generation"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine beruhigende und optimistische zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage 'Es geht mir gut' möglicherweise nicht der Realität entspricht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von literarischen Stilmitteln wie Metaphern und Symbolen ist im Song auffällig"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung von Ginger Rodgers und Fred Astaire sowie Michael Jackson ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unsicherheit und Verlorenheit einer Generation"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine beruhigende und optimistische zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unsicherheit und Verlorenheit einer Generation"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine beruhigende und optimistische zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unsicherheit und Verlorenheit einer Generation"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine beruhigende und optimistische zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist gut durchdacht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich",
+    "empfehlung": "Es wäre ratsam, die Interpretationen noch einmal zu überarbeiten, um mehr Abwechslung und Tiefe zu erzielen"
+  }
+}

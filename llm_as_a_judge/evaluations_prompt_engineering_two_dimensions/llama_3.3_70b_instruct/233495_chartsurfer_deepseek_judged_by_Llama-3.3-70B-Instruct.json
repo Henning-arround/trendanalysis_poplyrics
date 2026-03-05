@@ -1,0 +1,99 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sexuelle Revolution der 1960er Jahre als direkter Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'alten schwarzen Magie' als übernatürliche Kraft ohne weitere Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sexuelle Revolution der 1960er Jahre als direkter Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'alten schwarzen Magie' als übernatürliche Kraft ohne weitere Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine direkten Erfindungen, aber Interpretationen der 'alten schwarzen Magie'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'alten schwarzen Magie' als übernatürliche Kraft mit einigen Analyseansätzen"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Dimension des Songs, sowie die Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine direkten Erfindungen, aber Interpretationen der 'alten schwarzen Magie'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'alten schwarzen Magie' als übernatürliche Kraft mit einigen Analyseansätzen"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Dimension des Songs, sowie die Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine direkten Erfindungen, aber Interpretationen der 'alten schwarzen Magie'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'alten schwarzen Magie' als übernatürliche Kraft mit einigen Analyseansätzen"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Dimension des Songs, sowie die Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine höhere Konsistenz in der Analyse und weniger Erfindungen.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf einer detaillierten Analyse der literarischen Stilmittel und ihrer Wirkung auf die emotionale Dimension des Songs liegen, ohne dabei den kulturellen Kontext zu vernachlässigen."
+  }
+}

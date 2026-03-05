@@ -1,0 +1,95 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass Tom Jones, ein Künstler mit einer langen Karriere, diesen Song 2015 veröffentlicht hat, lässt darauf schließen, dass diese Themen auch in späteren Jahren noch aktuell sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und erzeugt eine affektive Dimension, die den Hörer zum Mitfühlen auffordert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs, die obsessive Suche nach einer verlorenen Liebe, und analysiert die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Art und Weise, wie diese Themen in dem Song behandelt werden, auch von der persönlichen Erfahrung und der emotionalen Verletzlichkeit des Künstlers beeinflusst sein könnte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Bitte um Hilfe ('Somebody help me') und die Anrufung eines Doktors unterstreichen die physische und psychische Not des Protagonisten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des Rückens, der keine Knochen mehr hat, und die Stadt als Labyrinth."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt offenbart der Song eine tiefe emotionale Wirkung und eine komplexe thematische Struktur, die zur Auseinandersetzung mit den eigenen Emotionen und Erfahrungen einlädt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Veröffentlichung im Jahr 2015, in einer Zeit, in der Themen wie mentale Gesundheit und emotionale Verletzlichkeit zunehmend diskutiert werden, gibt dem Song eine besondere Relevanz."
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs spricht den Hörer auf einer tiefen emotionalen Ebene an und regt zur Reflexion über die eigene Verletzlichkeit und die Bedeutung menschlicher Beziehungen an."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des Rückens, der keine Knochen mehr hat, und die Stadt als Symbol für die Anonymität."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und erzeugt eine Atmosphäre der Verzweiflung und des emotionalen Schmerzes."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Songtexte, jedoch mit Variationen in der Tiefe und den Halluzinationen.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz für weitere Analysen dienen."
+  }
+}

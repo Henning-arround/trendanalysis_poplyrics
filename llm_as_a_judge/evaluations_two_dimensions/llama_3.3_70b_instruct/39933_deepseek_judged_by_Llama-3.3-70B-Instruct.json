@@ -1,0 +1,104 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die idyllische Welt als Metapher für die erlösende Kraft der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vision einer utopischen Welt"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse des Refrains",
+          "Gute Verknüpfung von Text und Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verführung durch den falschen Weg als biografisches Detail"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'There's a hole in the sun' als Sehnsucht nach einem Ort der Zuflucht"
+        ],
+        "positive_aspekte": [
+          "Gute Struktur der Interpretation",
+          "Einige interessante Aspekte der Textanalyse"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ankunft der Person als Wendepunkt im Leben des Sängers"
+        ],
+        "oberflächliche_aussagen": [
+          "Die idyllische Welt als Symbol für Hoffnung und Erfüllung"
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Text und Interpretation",
+          "Detaillierte Analyse des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Person als Führer durch die dunklen Zeiten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Shine on the heartache' als Aufforderung zur Hoffnung"
+        ],
+        "positive_aspekte": [
+          "Gute Struktur der Interpretation",
+          "Einige interessante Aspekte der Textanalyse"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach einem Ort der Zuflucht als Gefühl der Sehnsucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vision einer besseren, gemeinsamen Zukunft"
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Text und Interpretation",
+          "Detaillierte Analyse des Refrains"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse des Textes und die Verknüpfung mit der Interpretation.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

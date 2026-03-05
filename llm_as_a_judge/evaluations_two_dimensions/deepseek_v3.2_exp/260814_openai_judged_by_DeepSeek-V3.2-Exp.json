@@ -1,0 +1,99 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung von 'Fellow hoodlums and Engineers' verortet die Sprecher*innen in einer Gemeinschaft von Arbeitern, Außenseitern und Gewerkschaftsmitgliedern"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein kaleidoskopisches Bild einer schottischen Großstadt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Gemeinschaft, Arbeit und Überleben in einer Stadt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung von 'Fellow hoodlums and Engineers' verdeutlicht ein Zusammenrücken verschiedener sozialer Schichten"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein kaleidoskopischer Streifzug durch das urbane Milieu Glasgows"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Widersprüchlichkeit einer Stadt, die gleichzeitig zerbrechlich und unnachgiebig ist"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text vermittelt ein melancholisches Porträt einer Stadt, in der Freundschaft, Gewalt, Humor und Resignation nebeneinander existieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein dichtes Bild einer urbanen Unterwelt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Erinnerung, Verlust und das raue Alltagsleben"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text schildert ein Bild von Glasgow als ein Geflecht aus Verlust, Gemeinschaft, rauer Arbeit und kleinen Akten des Widerstands"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein kaleidoskopischer Streifzug durch das urbane Milieu Glasgows"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Erinnerung, Alltag und ein unterschwelliger Widerstand"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text vermittelt ein melancholisches Porträt einer Gemeinschaft, die zwischen rauer Realität und flüchtigen Momenten von Zusammenhalt und Feierlichkeit schwankt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein dichtes Bild einer urbanen Unterwelt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Erinnerung, Verlust und das raue Alltagsleben"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und beleuchtet die Themen Gemeinschaft, Arbeit und Überleben in einer Stadt"
+  }
+}

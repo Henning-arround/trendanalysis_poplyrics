@@ -1,0 +1,123 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song spiegelt die gesellschaftlichen Erwartungen an Liebesbeziehungen und die Rolle der Frau in einer Partnerschaft wider.",
+          "Die Zeilen 'You've got my heart on the line / Don't hang up or I'll just lose my mind' deuten auf eine Abhängigkeit von der Liebe des Partners hin, die als typisch für die weibliche Rolle in einer heteronormativen Beziehung angesehen werden kann.",
+          "Diese Ambiguitäten und Spannungen im Songtext bieten Anlass für eine tiefere Analyse der symbolischen Ordnungen und Machtstrukturen, die in der Gesellschaft wirken."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, um diese emotionale Wirkung zu erzielen, sind vielfältig.",
+          "Diese Bilder und Metaphern tragen dazu bei, die emotionale Wirkung des Songs zu verstärken und die Zuhörer_innen in die Lage der Sängerin zu versetzen.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden, in dem er entstanden ist."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konkrete Metaphern und Bildsprache aus dem Text (z. B. 'Without love …' und 'Look at these tears that I cry').",
+          "Verknüpft Wiederholungen mit gesteigerter Dringlichkeit, was textnah ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen und historischen Kontext der späten 1990er Jahre gesehen werden, in dem die Themen Liebe, Beziehungen und emotionale Verletzlichkeit in der Popmusik eine wichtige Rolle spielten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vor allem auf die Verdeutlichung der emotionalen Wirkung und der affektiven Dimension ausgerichtet.",
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen verstärkt, die die Zuhörer direkt ansprechen.",
+          "Die Zeilen lassen die Zuhörer die Verzweiflung und die Hilflosigkeit der Sängerin nachvollziehen."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Wiederholungen und ihrer Funktion.",
+          "Erklärt Symbolik (Tränen, Leere) konkret am Text.",
+          "Balanciert Textbezug mit einer begründeten, wenn auch spekulativen, historischen Einordnung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im Song werden diese Themen jedoch in einer Weise verarbeitet, die spezifisch für die späten 1990er Jahre und die Popmusik dieser Zeit ist.",
+          "Die Wiederholung von ... und die Betonung der emotionalen Notlage können als Ausdruck der Sehnsucht nach einer stabilen und sicheren Beziehung in einer Zeit der zunehmenden Unsicherheit und Flexibilität interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, um diese emotionale Wirkung zu erzielen, sind vielfältig.",
+          "Diese Bilder und Metaphern tragen zur emotionalen Wirkung des Songs bei und betonen die affektive Dimension der Erfahrung.",
+          "Die emotionale Wirkung des Songs ist eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden, in dem er entstanden ist.",
+          "Die Themen ... sind universell und können in verschiedenen kulturellen und historischen Kontexten wiederholt werden."
+        ],
+        "positive_aspekte": [
+          "Klare Benennung von Metaphern (Verlust, innere Leere).",
+          "Verknüpft Textstellen mit der Idee von Abhängigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im Song werden diese Themen jedoch in einer Weise verarbeitet, die spezifisch für die späten 1990er Jahre und die Popmusik dieser Zeit ist.",
+          "Die Wiederholung von ... und die Betonung der emotionalen Notlage können als Ausdruck der Sehnsucht nach einer stabilen und sicheren Beziehung in einer Zeit der zunehmenden Unsicherheit und Flexibilität interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, um diese emotionale Wirkung zu erzielen, sind vielfältig.",
+          "Diese Bilder und Metaphern tragen zur emotionalen Wirkung des Songs bei und betonen die affektive Dimension der Erfahrung.",
+          "Die emotionale Wirkung des Songs ist eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden, in dem er entstanden ist.",
+          "Die Themen ... sind universell und können in verschiedenen kulturellen und historischen Kontexten wiederholt werden."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Metaphern (Verlust, innere Leere).",
+          "Bezieht sich konkret auf Wiederholungen im Refrain."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song spiegelt die gesellschaftlichen Erwartungen an Liebesbeziehungen und die Rolle der Frau in einer Partnerschaft wider.",
+          "Die Zeilen 'You've got my heart on the line / Don't hang up or I'll just lose my mind' deuten auf eine Abhängigkeit von der Liebe des Partners hin, die als typisch für die weibliche Rolle in einer heteronormativen Beziehung angesehen werden kann.",
+          "Diese Ambiguitäten und Spannungen im Songtext bieten Anlass für eine tiefere Analyse der symbolischen Ordnungen und Machtstrukturen, die in der Gesellschaft wirken."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, um diese emotionale Wirkung zu erzielen, sind vielfältig.",
+          "Diese Bilder und Metaphern tragen dazu bei, die emotionale Wirkung des Songs zu verstärken und die Zuhörer_innen in die Lage der Sängerin zu versetzen.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden, in dem er entstanden ist."
+        ],
+        "positive_aspekte": [
+          "Genaue Nennung von Textbeispielen (Metapher, Bildsprache).",
+          "Verknüpft Wiederholungen mit gesteigerter Dringlichkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Grundthesen (Angst vor Verlust, Wiederholungen, Metaphern von Leere). Die Varianz liegt hauptsächlich in der Menge spekulativer Kontextualisierungen – Interpretation 2 enthält die wenigsten Halluzinationen und die tiefste Textanalyse.",
+    "empfehlung": "Interpretation 2 liefert die ausgewogenste Mischung aus faktentreuer Textbeobachtung und analytischer Tiefe, während sie nur minimale spekulative Kontextualisierungen einbringt. Für zukünftige LLM‑Bewertungen sollte der Fokus auf konkrete Textbelege und differenzierte, aber textbasierte Deutungen gelegt werden, um Halluzinationen zu minimieren und die interpretative Tiefe zu erhöhen."
+  }
+}

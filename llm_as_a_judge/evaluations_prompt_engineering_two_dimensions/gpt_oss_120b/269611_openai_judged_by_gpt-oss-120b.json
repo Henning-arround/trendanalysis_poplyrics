@@ -1,0 +1,107 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Motiv des Regens in der Pop‑ und Soul‑Tradition als Symbol für Trauer und Reinigung verorten, wobei die 2008‑Veröffentlichung in einer Phase post‑9/11‑Reflexion über Verlust und private Trauer steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz zwischen „sweet memories“ und dem Wunsch, den Regen zu vermeiden, spiegelt gesellschaftliche Spannungen zwischen romantischer Idealisierung und der modernen Erfahrung von Einsamkeit wider.",
+          "Die wiederholte Gegenüberstellung von Erinnerung … lässt offene Fragen nach der Funktion von Erinnerung im Selbst‑ und Beziehungs­konzept bestehen, ohne sie endgültig zu klären."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich direkt aus den Zeilen des Songs ableiten.",
+          "Analytisch tief: untersucht Metaphern, Struktur, Wiederholungen und deren emotionale Wirkung.",
+          "Erkennt Mehrdeutigkeit, bleibt aber im Rahmen des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Motiv des Regens als postmoderne Reflexion über das Aufwachsen in einer Ära der ständigen Medienflut deuten, in der private Erinnerungen öffentlich wiederholt werden („sweet memories“).",
+          "Historisch erinnert das Bild des Fensters an die britische Tradition des „rainy day“ als Metapher für melancholische Selbstreflexion."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song als Raum für multiple Interpretationen offen hält."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen konkreter Textanalyse und kultureller Kontextualisierung.",
+          "Wenig spekulative Aussagen, dafür klare Begründungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in die Tradition der britischen Soul‑Pop‑Ballade einordnen, die in den 2000‑er‑Jahren häufig persönliche Trauer mit urbanen Klanglandschaften verband.",
+          "Der Regen als Metapher für melancholische Stadtatmosphäre erinnert an frühere britische Songtraditionen (z. B. „Rainy Night in Georgia“), während die wiederholte Betonung von „sweet memories“ eine nostalgische Ideologie des „goldenen Zeitalters“ der Beziehung kritisiert, ohne sie zu idealisieren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Bildsprache und formaler Struktur.",
+          "Verknüpft Textanalyse mit stilistischen Beobachtungen, ohne zu sehr abzuschweifen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Motiv des Regens als Symbol für melancholische Reflexion in der westlichen Pop‑ und Soul‑Tradition verorten, wo Regen häufig als Metapher für Trennung und Sehnsucht dient (z. B. in „Rainy Night in Georgia“).",
+          "Der Song von 2008, veröffentlicht in einer Phase zunehmender digitaler Entfremdung, reflektiert zugleich das Spannungsfeld zwischen physischer Isolation („Lone with the pillow“) und dem Wunsch nach emotionaler Verbindung, das in post‑modernen Gesellschaften als verbreitet gilt."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit zwischen Klang, Bild und Bedeutung erzeugt Spannungen, die nicht eindeutig aufgelöst werden, sondern das Hören im Ungewissen belassen."
+        ],
+        "positive_aspekte": [
+          "Klare Benennung von Stilmitteln (Fragmentierung, Wiederholungen).",
+          "Verknüpft Text mit allgemeinen kulturellen Tendenzen, bleibt aber meist im Rahmen des Vorhandenen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Motiv des Regens als Zeichen von Melancholie in der westlichen Pop‑ und Soul‑Tradition verorten, während die 2008‑Veröffentlichung in einer Phase zunehmender digitaler Entfremdung steht – das „window“ kann als Metapher für Bildschirme und virtuelle Räume gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit lässt Raum für unterschiedliche Interpretationsordnungen, die von persönlicher Trauer bis zu einer kritischen Reflexion moderner Kommunikationsformen reichen."
+        ],
+        "positive_aspekte": [
+          "Sehr strukturiert: erst Analyse, dann kulturelle Einordnung, dann offene Fragen.",
+          "Wenige spekulative Behauptungen, dafür viele textbasierte Beobachtungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen insgesamt eine konsistente Grundanalyse (Metapher Regen/Window, Fragmentierung, Nostalgie). Unterschiede liegen vor allem in der Menge spekulativer kultureller Kontextualisierungen – Interpretation 3 und 4 bleiben am dichtesten am Text.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf textbasierte Evidenz bleiben und spekulative Kultur‑ oder Historienbezüge nur dann einfließen lassen, wenn sie klar aus dem Text ableitbar sind. Interpretation 3 liefert das beste Gleichgewicht aus faktentreuer Analyse und tiefgehender, aber textgebundener Interpretation."
+  }
+}

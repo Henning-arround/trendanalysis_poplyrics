@@ -1,0 +1,99 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Liverpool' und das Verlieren der Leber könnte metaphorisch für den Verlust der Kontrolle und das Loslassen in der Nacht stehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint eine Ode an die Freiheit und den Genuss des Moments zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Mischung aus textbezogener Analyse und tieferer Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Handlungen, wie das Anziehen eines BHs und das Putzen der Schuhe, scheinen ritualartig und können als Vorbereitung auf ein unbestimmtes Ereignis oder eine unbestimmte Begegnung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'Saturday Night Nothing To Do' unterstreicht die monotonie und Leere, die der Protagonist an einem Samstagabend empfindet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Songtext, aber könnte tiefer gehen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Alison May Queen Of The Day' und der Aufruf 'Let'S Get It Up In Style' könnten auf eine Art von Initiationsritus oder einem gemeinsamen Erlebnis hindeuten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text spiegelt eine Sehnsucht nach Befreiung, Ekstase und dem Verlassen der alltäglichen Routine wider."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Mischung aus textbezogener Analyse und tieferer Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Liverpool' und das Verlieren der Leber könnte metaphorisch für den Verlust der Hemmungen und die Suche nach Exzess stehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Anspielungen auf weibliche Figuren, wie die Aufforderung 'Show Me Baby Where It Hurts', deuten auf eine sexuelle oder zumindest flirtende Atmosphäre hin."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Songtext, aber könnte tiefer gehen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nennung von 'Alison May Queen Of The Day' und der Aufruf 'Let'S Get It Up In Style' suggerieren eine Art von Feier oder Zeremonie, bei der die Protagonistin oder ein bestimmtes Ereignis im Mittelpunkt steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist geprägt von einer Mischung aus Langeweile, Sehnsucht und dem Verlangen nach intensiven Erlebnissen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Mischung aus textbezogener Analyse und tieferer Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse des Songtexts, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist wichtig, dass die Interpretationen textbezogen sind und nicht zu viele unbelegte Aussagen enthalten."
+  }
+}

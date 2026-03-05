@@ -1,0 +1,99 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'For time immemorial' verankert das Geschehen in einer angeblich zeitlosen Kontinuität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz zwischen 'free' und 'charge admission' erzeugt eine Spannung zwischen Freiheit und Kommerz"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft bleibt ambivalent: einerseits ein Streben nach einer 'invincible one' als mögliche Erlösung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Phrase 'time immemorial' suggeriert ein ununterbrochenes, fast mythologisches Zeitverständnis"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Mittel ist gut, aber nicht so detailliert wie bei Interpretation 1"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Phrase 'time immemorial' suggeriert ein unbestimmtes, uraltes Kontinuum"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild der 'pretenders to somebody's throne' suggeriert ein Spiel um Macht und Legitimität"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der stilistischen Mittel ist gut und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung, 'the fence that you sit upon' zu 'tear down', eröffnet ein Bild von Selbstbegrenzung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von 'Goodbye to you and your money' und 'And I will go anywhere you say' erzeugt eine Spannung zwischen ökonomischer Abhängigkeit und dem Wunsch nach freier Mobilität"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der historischen Kontextualisierung ist okay, aber nicht so detailliert wie bei Interpretation 1"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Phrase 'time immemorial' fungiert als zeitlicher Rahmen, der das Geschehen in eine unbestimmte, vorhistorische Dimension verlagert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von 'Goodbye to you and your money' und 'And I will go anywhere you say' erzeugt eine Spannung zwischen ökonomischer Abhängigkeit und dem Wunsch nach freier Mobilität"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent in ihrer Analyse der textlichen Elemente, aber variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Interpretation 1 ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

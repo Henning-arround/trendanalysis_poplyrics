@@ -1,0 +1,144 @@
+{
+  "song": "On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text verbindet zwei scheinbar disparate Stücke zu einem kaleidoskopischen Stimmungsbild, das zugleich Optimismus und Sehnsucht verkörpert.",
+          "In „On the Sunny Side of the Street“ wird das Bild einer bewussten Abkehr von Sorgen durch das Bild des Anziehens von Mantel, Krawatte und Hut symbolisiert – ein Ritual, das das äußere Erscheinungsbild mit einer inneren Haltung verknüpft.",
+          "Das „direkt deine Füße zur sonnigen Seite führen“ fungiert als Metapher für die aktive Wahl, das Leben im Licht zu sehen, während das wiederholte Motiv des „pitter‑pat“ einer fröhlichen Melodie das Alltägliche in ein musikalisches Glück verwandelt.",
+          "Der Sprecher kontrastiert seine frühere Existenz im Schatten, wo „Blues on Parade“ marschierten, mit einer neuen Selbstwahrnehmung, die trotz materieller Armut ein Gefühl von Reichtum („feel rich as Rockefeller“) erzeugt – ein Hinweis darauf, dass innerer Reichtum nicht von Geld abhängt, sondern von einer positiven Perspektive.",
+          "Der zweite Teil, „Exactly Like You“, verschiebt den Fokus von einer allgemeinen Lebensphilosophie zu einer intimen, fast sakralen Anbetung einer geliebten Person.",
+          "Das wiederholte „I know why my mother taught me to be true“ verknüpft persönliche Moralvorstellungen mit der Suche nach einer perfekten Gegenwart, die das eigene Selbstbild bestätigt.",
+          "Die Zeile „Why should we spend money on a little show or two“ kritisiert oberflächliche Unterhaltung und hebt die Authentizität einer echten Liebesbeziehung hervor.",
+          "Der Refrain, in dem das lyrische Ich die Welt dem Gegenüber „handen“ will, drückt ein ultimatives Aufgeben des Selbst zugunsten einer anderen Identität aus, während das wiederholte „mother“ fast zu einem Mantra wird, das die innere Stimme und die erlernten Werte verstärkt.",
+          "Zusammengefasst illustriert das Werk den Übergang von einer kollektiven, optimistischen Lebenshaltung zu einer tief persönlichen, fast spirituellen Vereinigung, wobei beide Teile durch das wiederkehrende Motiv des Tanzes und der Musik miteinander verwoben sind."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Struktur: Einleitung, Analyse von Teil 1, Analyse von Teil 2, abschließende Synthese.",
+          "Verwendet konkrete Textzitate (z. B. „I ain’t got a cent“, „feel rich as Rockefeller“) als Anker für die Interpretation.",
+          "Erkennt Mehrdeutigkeit zwischen öffentlicher Optimismus‑Botschaft und privater Liebes­thematik."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text verbindet zwei scheinbar gegensätzliche Stimmungen, indem er das Bild einer sonnigen, unbeschwerten Straße mit einer intensiven, fast obsessiven Sehnsucht nach einer idealen Liebe verknüpft.",
+          "In „On the Sunny Side of the Street“ wird das Verlassen von Sorgen zu einem rituellen Akt: Mantel, Krawatte, Hut – Symbole gesellschaftlicher Konventionen – werden abgelegt, um den Fuß bewusst in das Licht zu lenken.",
+          "Das wiederholte Motiv des „pitter‑pat“ einer fröhlichen Melodie suggeriert, dass das Glück nicht von materiellem Reichtum abhängt („ich habe keinen Cent, fühle mich aber reich wie Rockefeller“), sondern von einer inneren Haltung, die das Schattenhafte hinter sich lässt.",
+          "Die surreale Bildsprache – ein Affe, der sich um den Fahnenmast windet, das „nut pole“ – bricht die lineare Erzählung und erinnert an den Jazz‑Improvisationsgeist, in dem das Unvorhersehbare zum Teil des sonnigen Pfades wird.",
+          "Der zweite Teil, „Exactly Like You“, verschiebt den Fokus von einer kollektiven Optimismus‑Botschaft zu einer persönlichen, fast religiösen Anbetung einer geliebten Person.",
+          "Das wiederholte „I know why my mother taught me to be true“ verknüpft familiäre Moral mit der Suche nach einem Gegenstück, das die eigenen Träume und „foolish little dreams“ bestätigt.",
+          "Die Zeile „Why should we spend money on a little show or two“ kritisiert oberflächliche Unterhaltung und stellt die authentische Verbindung zu diesem Menschen als das wahre „Show‑Erlebnis“ dar.",
+          "Durch die Kombination beider Texte entsteht ein Spannungsfeld zwischen öffentlicher Lebensfreude und privater, fast sakraler Liebe; das Sonnenlicht wird zum Symbol für das ersehnte innere Leuchten, das erst durch die Begegnung mit dem „genau wie du“ vollständig erstrahlt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text verbindet zwei scheinbar gegensätzliche Stimmungen, indem er das Bild einer sonnigen, unbeschwerten Straße mit einer intensiven, fast obsessiven Sehnsucht nach einer idealen Liebe verknüpft."
+        ],
+        "positive_aspekte": [
+          "Er erkennt und benennt die beiden scheinbaren Themenblöcke des Songs.",
+          "Verknüpft wiederkehrende Motive (z. B. „pitter‑pat“, „Rockefeller“) mit einer übergeordneten Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text verbindet zwei scheinbar gegensätzliche Stimmungen, die zusammen ein Bild von Optimismus als bewusste Flucht aus innerer Schwere zeichnen.",
+          "In „On the Sunny Side of the Street“ wird das Bild einer äußeren Garderobe – Mantel, Krawatte, Hut – zum Symbol für das Anlegen einer neuen Identität, die das Gewicht der Sorgen an der Tür ablegt.",
+          "Der Aufruf, die Füße bewusst in die „sonnige Seite“ zu lenken, ist ein Ritual, das das innere Klima von Schatten zu Licht wandelt.",
+          "Die wiederholte Gegenüberstellung von „Shade“ und „Sunny Side“ verdeutlicht den Wandel von einer melancholischen Parade der Blues zu einer fast übermütigen Selbstsicherheit: „I ain’t got a cent, I feel rich as Rockefeller“, ein ironischer Hinweis darauf, dass materieller Mangel nicht das Glück mindert, wenn die innere Haltung positiv bleibt.",
+          "Die absurde Wortkette „bop‑doodly‑bop‑a‑do‑a‑baby“ und das Bild des Affen, der sich um den Fahnenmast windet, lockern die Ernsthaftigkeit und betonen die spielerische, fast dadaistische Natur des Optimismus.",
+          "Der zweite Teil, „Exactly Like You“, verlagert den Fokus von der äußeren Welt auf eine persönliche Beziehung.",
+          "Hier wird das lange Warten und die vorherige Traurigkeit als Vorbereitung für die Begegnung mit einer idealen, fast archetypischen Geliebten dargestellt.",
+          "Die wiederholte Erwähnung der Mutter als Lehrerin der Wahrheit suggeriert, dass das Streben nach Authentizität und Liebe tief in familiären Werten verwurzelt ist.",
+          "Der Refrain, der das „genau wie du“ betont, fungiert als Mantra, das die individuelle Sehnsucht nach einem Gegenstück in ein universelles Bild von Vollständigkeit überführt.",
+          "Zusammen zeigen die beiden Teile, wie das bewusste Annehmen einer sonnigen Haltung und das Finden einer passenden Gegenwart als Wege aus der inneren Dunkelheit dienen, wobei Humor und Übertreibung die Ernsthaftigkeit des Themas entschärfen und zugleich verstärken."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text verbindet zwei scheinbar gegensätzliche Stimmungen, die zusammen ein Bild von Optimismus als bewusste Flucht aus innerer Schwere zeichnen."
+        ],
+        "positive_aspekte": [
+          "Nutzt viele konkrete Textzitate, um die Analyse zu verankern.",
+          "Erkennt die wiederkehrende Mutter‑Motivation als strukturelles Element."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text verbindet zwei scheinbar gegensätzliche Stimmungen, die zusammen ein Bild von Optimismus als bewusste Flucht aus innerer Schwere zeichnen.",
+          "In „On the Sunny Side of the Street“ wird das Bild einer äußeren Garderobe – Mantel, Krawatte, Hut – zum Symbol für das Anlegen einer neuen Identität, die das Gewicht der Sorgen abstreift.",
+          "Das wiederholte „direct your feet to the sunny side“ fungiert als mantrahaftes Manöver, das den Hörer auffordert, den Blick bewusst auf das Licht zu lenken, während das rhythmische „pitter‑pat“ das pulsierende Leben suggeriert, das trotz aller Armut – „I ain’t got a cent“ – als reich wie Rockefeller empfunden wird.",
+          "Die Metapher des Goldstaubs an den Füßen verleiht dem Alltag eine fast märchenhafte Verheißung, während das Bild des „monkey“ um den Fahnenmast herum das Chaos des Alltags verspielt einbindet und zugleich die Absurdität des Versuches, Ordnung zu erzwingen, betont.",
+          "Der zweite Teil, „Exactly Like You“, verlagert den Fokus von der äußeren Welt auf eine intime Beziehung.",
+          "Hier wird das lange Warten und die vorherige Traurigkeit als Vorbereitung für die Begegnung mit einer einzigen, unverwechselbaren Person dargestellt.",
+          "Die wiederholte Anrufung der Mutter als Lehrerin der Wahrheit unterstreicht, dass das Streben nach Authentizität nicht nur romantisch, sondern auch moralisch verankert ist.",
+          "Die Zeile „Why should we spend money on a little show or two“ kritisiert die Oberflächlichkeit von Inszenierungen und stellt das echte, persönliche Erleben über kommerzielle Ablenkungen.",
+          "Durch die Verschmelzung beider Texte entsteht ein Narrativ, das von der äußeren, sonnigen Flucht zu einer inneren, menschlichen Verbindung führt; das Licht, das man auf der Straße sucht, findet letztlich im Gegenüber, das „genau wie du“ ist, und damit die wahre, nachhaltige Wärme spendet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text verbindet zwei scheinbar gegensätzliche Stimmungen, die zusammen ein Bild von Optimismus als bewusste Flucht aus innerer Schwere zeichnen."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederkehrende Struktur von „Mantel‑Krawatte‑Hut“ als Symbol für Identitätswechsel.",
+          "Verbindet die beiden Song‑Teile zu einem kohärenten narrativen Bogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text verbindet zwei scheinbar gegensätzliche Stimmungen, die jedoch in einem gemeinsamen Streben nach Optimismus und persönlicher Erfüllung zusammenfließen.",
+          "In „On the Sunny Side of the Street“ wird das Bild einer bewussten Abkehr von Sorgen durch das Bild des Mantels, der Krawatte und des Hutes symbolisiert – äußere Kleidung, die das innere Aufrichten unterstützt.",
+          "Der Aufruf, die Füße „zur sonnigen Seite der Straße“ zu lenken, ist ein metaphorischer Schritt von Dunkelheit zu Licht, von innerer Schwere zu Leichtigkeit.",
+          "Die wiederholte Gegenüberstellung von Schatten und Blau, das einstige „Blues on parade“, verdeutlicht ein früheres Festhalten an Melancholie, das nun durch das Bild von „Goldstaub um die Füße“ ersetzt wird, ein ironischer Hinweis darauf, dass Reichtum nicht materiell, sondern emotional empfunden wird.",
+          "Der zweite Teil, „Exactly Like You“, verlagert den Fokus von der äußeren Welt auf eine intime Beziehung.",
+          "Das wiederholte „I know why my mother taught me to be true“ fungiert als moralischer Kompass, der das eigene Handeln an einer idealisierten Liebe ausrichtet.",
+          "Die Zeile „Why should we spend money on a little show or two“ kritisiert oberflächliche Ablenkungen und betont, dass wahre Erfüllung im Gegenüber liegt, das „genau wie du“ ist.",
+          "Die wiederholte Anrufung der Mutter verstärkt das Bild einer erlernten Authentizität, die in der Partnerschaft kulminiert.",
+          "Zusammenfassend schildern die beiden Teile einen Weg von individueller Resilienz – das bewusste Wählen der sonnigen Seite – hin zu einer kollektiven, liebevollen Bindung, in der das persönliche Glück erst durch das Gegenüber vollständig wird.",
+          "Der Song bleibt dabei spielerisch, fast dadaistisch, und nutzt absurde Wortspiele, um die Leichtigkeit des Optimismus zu betonen, während er gleichzeitig tiefere Sehnsüchte nach Zugehörigkeit und Wahrheit offenbart."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text verbindet zwei scheinbar gegensätzliche Stimmungen, die jedoch in einem gemeinsamen Streben nach Optimismus und persönlicher Erfüllung zusammenfließen."
+        ],
+        "positive_aspekte": [
+          "Er benennt konsequent das Motiv der Mutter als Leitmotiv.",
+          "Er erkennt den spielerisch‑dadaistischen Ton des Textes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein sehr hohes Maß an spekulativen, nicht textbasierten Aussagen (≈90 % Erfindungen). Die Tiefe ist durchweg niedrig bis moderat, da kaum direkte Textbelege genutzt werden.",
+    "empfehlung": "Zukünftige Modelle sollten stärker auf direkte Textzitate und nachweisbare Textbezüge setzen, um Halluzinationen zu reduzieren. Gleichzeitig kann die analytische Tiefe erhöht werden, indem mehr differenzierte Wort‑ und Bildanalysen angeboten werden, ohne spekulative Narrative zu erfinden."
+  }
+}

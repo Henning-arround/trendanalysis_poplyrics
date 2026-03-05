@@ -1,0 +1,97 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Art und Weise, wie Marx diese Thematik behandelt, ist jedoch charakteristisch für die Gegenwartskultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Thematik der gescheiterten Liebesbeziehung und des emotionalen Schmerzes ist ein universelles Thema"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und rhetorische Fragen ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer postmodernen Gesellschaft verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Thematik von nicht-exklusiven Beziehungen und die Schwierigkeit, Verbindlichkeiten in einer individualisierten Gesellschaft herzustellen"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung von Erinnerungen an gemeinsame Momente ist ein guter Punkt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer postmodernen Gesellschaft verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Thematik der gescheiterten Liebesbeziehung und des emotionalen Schmerzes ist ein universelles Thema"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und rhetorische Fragen ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unfähigkeit des Sprechers, die Zeichen des bevorstehenden Beziehungsendes zu erkennen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von Trauer, Enttäuschung und Selbstzweifeln geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'I thought, I could / Save you from this world' ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Thematik des Songs ist universell und spricht eine breite Hörerschaft an"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'brechenden Herzens' und der rhetorischen Frage 'Did you know the ending right from the start' ist sehr gut durchgeführt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz, aber es gibt auch einige Wiederholungen und Unstimmigkeiten",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine gute Balance zwischen Textreue und analytischer Tiefe findet, wie Interpretation 5"
+  }
+}

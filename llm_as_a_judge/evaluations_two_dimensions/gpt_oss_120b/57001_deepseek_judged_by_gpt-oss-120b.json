@@ -1,0 +1,100 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine Beziehung, die von emotionaler Distanz, Selbstzerstörung und dem Wunsch nach Verbindung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge (z. B. direkte Zitate wie „And when I touch you, you don't feel a thing“).",
+          "Klare Interpretation von Symbolen (Engel, Nacht, etc.) ohne spekulative Biografien.",
+          "Wenig bis keine oberflächlichen Verallgemeinerungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch reich an Metaphern und Symbolen.",
+          "Insgesamt beschreibt der Song eine Beziehung, die von emotionaler Leere, Distanz und Selbstzerstörung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der Symbolik (7‑Eleven, Satellite TV, Vampir/Opfer).",
+          "Durchgängige Ableitung aller Aussagen aus dem Text.",
+          "Wenig Wiederholungen, klare Struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit einem melancholischen Ton, der die Verlorenheit und Einsamkeit der Protagonistin unterstreicht.",
+          "Insgesamt beschreibt ... eine Beziehung, die von emotionaler Distanz, Selbstzerstörung und Verunsicherung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von modernen Medien (Satellitenfernsehen, Radio) mit dem Gefühl der Isolation.",
+          "Alle Interpretationen der Textzeilen sind textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch reich an Metaphern und Symbolen.",
+          "Insgesamt beschreibt der Song eine Beziehung, die von emotionaler Leere, Distanz und Selbstzerstörung geprägt ist.",
+          "Der Song ist ein Kommentar zur Oberflächlichkeit und der emotionalen Verfügbarkeit in modernen Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Ableitung von Symbolen (Vampir/Opfer) aus dem Text.",
+          "Klare Darstellung der Themen Distanz und Leere."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine tragische und schmerzhafte Beziehung, in der die Protagonistin gefangen ist und nach Wegen sucht, um zu entkommen."
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textstellen mit den Themen toxische Beziehung und Kommunikationsprobleme.",
+          "Durchgängige Textbegründung ohne spekulative Biografien."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das Grundthema (Distanz, Leere, Selbstzerstörung) – jedoch variieren sie im Detailgrad. Die Variation ist moderat; keine Interpretation enthält gravierende Widersprüche.",
+    "empfehlung": "Interpretation 1 (Nummer 1) liefert die ausgewogenste Mischung aus texttreuer Analyse und tiefgehender, aber nicht übermäßig generischer Interpretation. Sie vermeidet unnötige Wiederholungen und bleibt stark am Text verankert."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"Ooh, she changes people now\" könnte darauf hindeuten, dass die geliebte Person eine transformative Kraft besitzt, die Menschen verändert und ihnen hilft, ihre Probleme zu überwinden.",
+          "Die Wiederholung von \"I see the sun now\" am Ende des Songs könnte ein Symbol für Hoffnung und neue Perspektiven sein, die durch die Verbindung mit dieser Person ermöglicht werden."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem Songtext ableiten.",
+          "Der Text wird strukturiert analysiert und es werden konkrete Textstellen zitiert.",
+          "Wenig vage, allgemein gehaltene Formulierungen – die meisten Punkte sind textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von \"Ooh, she changes people now\" und \"I'm dancing in the shadow of love\" unterstreicht die transformative Kraft der Liebe und die Fähigkeit, Menschen zu verändern und zu heilen."
+        ],
+        "positive_aspekte": [
+          "Sehr gute Verknüpfung von Textstellen mit interpretativen Aussagen.",
+          "Zeigt ein tiefes Verständnis für die wiederkehrenden Motive (Schatten, Tanz, Stein).",
+          "Nur ein einziger vager, oberflächlicher Kommentar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"Ooh, she changes people now\" könnte darauf hindeuten, dass die geliebte Person eine transformative Kraft besitzt, die Menschen verändert und ihnen hilft, ihre Probleme zu überwinden.",
+          "Die Wiederholung von \"I see the sun now\" am Ende des Songs könnte ein Symbol für Hoffnung und neue Perspektiven sein, die durch die Verbindung mit dieser Person ermöglicht werden."
+        ],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Analyse.",
+          "Erkennt die zentrale Thematik von Trost und Hoffnung.",
+          "Keine erfundenen biografischen oder stilistischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von \"Ooh, she changes people now\" und \"I'm dancing in the shadow of love\" unterstreicht die transformative Kraft der Liebe und die Fähigkeit, Menschen zu verändern und zu heilen."
+        ],
+        "positive_aspekte": [
+          "Klare, textbezogene Argumentation.",
+          "Gute Balance zwischen Wiederholung von Motiven und neuer Interpretation.",
+          "Nur ein leicht vager Kommentar, sonst sehr konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"Ooh, she changes people now\" deutet darauf hin, dass die Liebe und die Beziehungen die Fähigkeit haben, Menschen zu verändern und zu transformieren, was in Zeiten der Krise als eine Art von Rettung wahrgenommen wird.",
+          "Die Wiederholung von \"I'm dancing in the shadow of love\" und \"I see the sun now\" am Ende des Songs suggeriert eine Art von Hoffnung und Erleichterung, die durch die Liebe und die Beziehungen ermöglicht wird."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die Textzeile \"where no one goes\" sinnvoll mit dem Motiv des Rückzugs.",
+          "Alle Aussagen lassen sich aus dem Text ableiten, keine externen Fakten.",
+          "Erkennt die zentrale Rolle von Angst und Hoffnung im Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthemen (Trost, Flucht, Liebe, Hoffnung). Die Variation liegt im Detailgrad: Interpretation 1 und 2 bieten die tiefste, am wenigsten oberflächliche Analyse, während 3‑5 mehr vage, spekulative Kommentare enthalten.",
+    "empfehlung": "Interpretationen, die ausschließlich textbasierte Schlüsse ziehen und nur wenige vage, nicht belegbare Aussagen enthalten, erzielen die höchste Punktzahl. Ein Ansatz, der konkrete Textstellen mit differenzierten, aber belegbaren Bedeutungszuweisungen kombiniert (wie Interpretation 1), ist am effektivsten."
+  }
+}

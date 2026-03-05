@@ -1,0 +1,95 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nachkriegszeit sowohl Unbeschwertheit als auch das Verlangen nach dauerhafter Geborgenheit verkörpert"
+        ],
+        "oberflächliche_aussagen": [
+          "eine romantische Sehnsucht einer Ära, in der das Tanzen noch als zentrales Symbol für Nähe und Verbindlichkeit galt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-kriegszeitliches Bedürfnis nach Stabilität und romantischer Sicherheit"
+        ],
+        "oberflächliche_aussagen": [
+          "eine romantische Sehnsucht einer Ära, in der das Tanzen noch als Metapher für innige Verbundenheit galt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist ausgewogen zwischen textbezogenen und allgemeinen Aussagen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine schlichte, aber eindringliche Aufforderung zum Tanzen als Symbol für Nähe und Harmonie"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und tiefgehend"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-kriegszeitliches Bedürfnis nach Stabilität und romantischer Sicherheit"
+        ],
+        "oberflächliche_aussagen": [
+          "eine romantische Sehnsucht einer Ära, in der das Tanzen noch als Metapher für innige Verbundenheit galt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Angst vor Trennung und Verlust, die in einer Zeit des Wiederaufbaus besonders präsent war"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr tiefgehend und textanalytisch"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Halluzinations- und Tiefenbewertung",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie sehr tiefgehend und textanalytisch ist"
+  }
+}

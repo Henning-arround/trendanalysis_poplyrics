@@ -1,0 +1,109 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ship Of Fools\" von World Party aus dem Jahr 1987 kann als eine tiefgründige Kritik an der menschlichen Natur und der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich direkt aus dem Songtext ableiten oder sind klar aus den Textzeilen logisch folgerbar.",
+          "Die Interpretation geht über reine Oberflächlichkeit hinaus, indem sie konkrete Textstellen (z. B. „Avarice and greed…“, „Drawn by the promise…“, „Drowning in the oceans of history…“) heranzieht und deren Bedeutung erklärt.",
+          "Es werden mehrere Ebenen (Metapher, emotionale Wirkung, symbolische Bedeutung) beleuchtet, was die Analyse substanziell macht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ship Of Fools\" von World Party aus dem Jahr 1987 kann als eine tiefgründige Kritik an der menschlichen Natur und der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Hohe Texttreue – keine erfundenen biografischen oder historischen Details.",
+          "Viele Aussagen sind klar aus den Lyrics ableitbar (z. B. Greed‑Motiv, Metapher des Schiffs, die Bitte um Rettung).",
+          "Die Analyse ist strukturiert (Botschaft, Stilmittel, Kontext) und liefert konkrete Beispiele."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ship Of Fools\" von World Party aus dem Jahr 1987 kann als eine tiefgründige Kritik an der menschlichen Natur und der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Alle gemachten Behauptungen lassen sich auf den vorliegenden Text zurückführen.",
+          "Die Interpretation greift zentrale Motive (Gier, falsche Versprechen, Rettungsruf) auf und erklärt deren symbolische Funktion.",
+          "Durch die Verknüpfung von Bildsprache und emotionaler Wirkung entsteht eine substanzielle Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ship Of Fools\" von World Party aus dem Jahr 1987 kann als eine tiefgründige Kritik an der menschlichen Natur und der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Keine Halluzinationen – alle Aussagen basieren auf dem Text.",
+          "Die Analyse ist detailliert und bezieht sich auf mehrere Textstellen, wodurch sie über reine Oberflächlichkeit hinausgeht.",
+          "Sie erkennt und erklärt die zentrale Metapher des „Schiffes der Narren“ und deren gesellschaftskritische Implikationen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ship Of Fools\" von World Party aus dem Jahr 1987 kann als eine tiefgründige Kritik an der menschlichen Natur und der Gesellschaft interpretiert werden.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Vollständige Texttreue – es gibt keine erfundenen Fakten oder unbelegte Kontextualisierungen.",
+          "Die Interpretation liefert konkrete Belege aus dem Song (z. B. „Avarice and greed…“, „Save me…“) und erklärt deren Bedeutung.",
+          "Durch die Betrachtung von Metapher, emotionaler Wirkung und symbolischer Tiefe erreicht die Analyse ein substanzielles Niveau."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch, wodurch die Varianz praktisch null ist. Das zeigt, dass das zugrundeliegende LLM‑Modell stark wiederholende Muster erzeugt, aber gleichzeitig sehr texttreu bleibt.",
+    "empfehlung": "Der Ansatz, den Songtext eng zu verankern und konkrete Textstellen zu analysieren, liefert die höchste Qualität. Für zukünftige Modelle sollte man darauf achten, mehr differenzierte, aber ebenfalls textbasierte Perspektiven zu erzeugen, um die Varianz zu erhöhen, ohne Halluzinationen einzuführen."
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Joker und Narren' an Bord repräsentieren diejenigen, die die Kontrolle über die Gesellschaft übernommen haben und die Menschen manipulieren, um ihre eigenen Interessen zu verfolgen."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Schiff symbolisiert eine Gesellschaft, die von Gier und Egoismus getrieben wird und die Werte von Menschlichkeit und Solidarität vernachlässigt.",
+          "Der Song kritisiert die Zerstörung der Welt durch die menschliche Gier und den Egoismus und warnt vor den Konsequenzen einer Gesellschaft, die sich von ihren moralischen Werten entfernt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich klar aus dem Text ab (z. B. die Beschreibung des Schiffs, die Wiederholung von „Save me“).",
+          "Die Interpretation geht über reine Wiederholungen hinaus und liefert konkrete Textbezüge (z. B. „Joker und Narren“, „Save me, save me from tomorrow“).",
+          "Sie erkennt Ambivalenzen und stellt die Warnung des Refrains explizit dar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger des Songs, der sich selbst als Außenseiter sieht, appelliert an die Vernunft und die Moral, indem er sich von dem Schiff und seiner Crew distanziert."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Schiff symbolisiert eine Gesellschaft, die von Gier und Egoismus getrieben wird und die Werte von Menschlichkeit und Solidarität vernachlässigt.",
+          "Der Song ist eine Kritik an der Gesellschaft und der menschlichen Natur, die uns auffordert, unsere Werte und Prioritäten zu überdenken."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Textstellen (z. B. „You will pay tomorrow“, „Save me, save me from tomorrow“).",
+          "Gute Balance zwischen textnaher Analyse und weiterführender Interpretation.",
+          "Vermeidet übermäßige Wiederholungen und liefert neue Einsichten (z. B. Hinweis auf die „drohende Katastrophe“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger des Songs, der sich selbst als Außenseiter sieht, appelliert an die Vernunft und die Moral, indem er sich von dem Schiff und seiner Crew distanziert.",
+          "Der Song ist eine Kritik an der kapitalistischen Gesellschaft und der Ausbeutung von Menschen und Ressourcen."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Schiff symbolisiert eine Gesellschaft, die von Gier und Egoismus getrieben wird und die Werte von Menschlichkeit und Solidarität vernachlässigt.",
+          "Die letzte Zeile 'All aboard' ist ein bitterer Kommentar, der darauf hinweist, dass viele Menschen bereitwillig auf dieses Schiff der Narren steigen, ohne die Konsequenzen zu sehen."
+        ],
+        "positive_aspekte": [
+          "Alle Hauptaussagen lassen sich eindeutig aus dem Songtext ableiten (z. B. Metapher des Schiffs, Refrain „You will pay tomorrow“).",
+          "Die Interpretation bleibt konsistent und wiederholt keine widersprüchlichen Punkte."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Joker und Narren' an Bord repräsentieren diejenigen, die die Kontrolle über die Gesellschaft übernommen haben und sie in eine Richtung lenken, die unheilvoll ist.",
+          "Die 'Kreuze, die brennen' deuten auf eine Atmosphäre der Angst und der Unterdrückung hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Schiff symbolisiert eine Gesellschaft, die von Gier und Egoismus getrieben wird und die Werte von Menschlichkeit und Solidarität vernachlässigt.",
+          "Er sieht voraus, dass die Gier und der Egoismus der Menschen sie letztendlich zu Fall bringen werden und dass sie in den 'Ozeanen der Geschichte' untergehen werden.",
+          "Der Song ist eine Warnung vor den Gefahren einer Gesellschaft, die sich von ihren moralischen Grundlagen entfernt und sich von Gier und Egoismus leiten lässt."
+        ],
+        "positive_aspekte": [
+          "Zieht mehrere Textstellen heran (z. B. „Save me“, „All aboard“).",
+          "Bietet eine etwas differenziertere Lesart durch die Erwähnung von „Kreuzen, die brennen“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger des Songs, der sich selbst als Außenseiter sieht, appelliert an die Vernunft und die Moral, indem er sich von dem Schiff und seiner Crew distanziert.",
+          "Der Song ist eine Kritik an der kapitalistischen Gesellschaft und der Ausbeutung von Menschen und Ressourcen."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Schiff symbolisiert eine Gesellschaft, die von Gier und Egoismus getrieben wird und die Werte von Menschlichkeit und Solidarität vernachlässigt.",
+          "Die letzte Zeile 'All aboard' ist ein bitterer Kommentar, der darauf hinweist, dass viele Menschen bereitwillig auf dieses Schiff der Narren steigen, ohne die Konsequenzen zu sehen."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung zentraler Motive aus dem Text.",
+          "Konsistente Argumentationsstruktur ohne Abschweifungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen sind stark redundant; sie wiederholen dieselben Grundthesen mit nur geringen Nuancen, was die Varianz gering hält.",
+    "empfehlung": "Interpretationen, die mehr konkrete Textbezüge liefern und gleichzeitig neue, plausible Lesarten (wie Interpretation 3 und 5) erzielen die höchste Bewertung. Ein Ansatz, der reine Wiederholungen vermeidet und gezielt einzelne Bildmotive (z. B. Joker, brennende Kreuze) analysiert, ist am effektivsten."
+  }
+}

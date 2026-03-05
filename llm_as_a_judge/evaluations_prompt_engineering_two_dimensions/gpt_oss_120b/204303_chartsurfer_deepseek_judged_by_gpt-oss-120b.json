@@ -1,0 +1,154 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik zunehmend von Themen wie Liebe, Beziehungen und emotionaler Erfahrung geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein interessantes Beispiel für die Verquickung von Musik und emotionaler Erfahrung.",
+          "Hier wird bereits eine intime Beziehung zwischen dem Sänger und Mr. C angedeutet.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist in diesem Song auffällig.",
+          "Die Aufforderung, dass \"everybody else will disappear\" kann als emotionale Rückzug interpretiert werden.",
+          "Der Sänger sehnt sich nach einer exklusiven, persönlichen Erfahrung mit Mr. C, die ihn von der Außenwelt abschottet.",
+          "Diese Zeile kann auch als eine Form der emotionalen Verletzlichkeit gelesen werden.",
+          "Die emotionale Wirkung des Songs ist daher eng mit der affektiven Dimension verbunden.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "„Sing to Me Mr. C“ kann in diesem Kontext als ein Beispiel für die beginnende Emotionalisierung der Popmusik gesehen werden.",
+          "Die tiefere Bedeutungsebene des Songs kann auch als eine Form der Suche nach Authentizität und emotionaler Verbindung interpretiert werden.",
+          "Die Bitte des Sängers an Mr. C, ihm ein Lied zu singen, kann als eine Art metaphorische Suche nach emotionaler Nahrung gelesen werden.",
+          "Insgesamt zeigt der Song eine komplexe Verquickung von emotionaler Erfahrung, literarischen Stilmitteln und kulturellem Kontext."
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die zentrale Textstelle (erste beiden Zeilen) und bezieht sich direkt darauf.",
+          "Erkennt die wiederholte Bitte um ein exklusives Lied als zentrales Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik stark von der Entwicklung der Massenmedien und der Konsumkultur geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein vielschichtiges Werk interpretiert werden, das auf verschiedenen Ebenen Bedeutung generiert.",
+          "Hier zeigt sich eine starke Sehnsucht nach einer persönlichen und exklusiven Erfahrung.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist in diesem Song auffällig.",
+          "Die Aufforderung, dass \"everybody else will disappear\" kann als eine Art Verdrängungswunsch interpretiert werden.",
+          "Dieser Wunsch kann sowohl als Sehnsucht nach Exklusivität als auch als Verlangen nach Kontrolle über die Umgebung gelesen werden.",
+          "Die Tatsache, dass die Sängerin ein bestimmtes Lied hören möchte, das \"just for me\" ist, unterstreicht die Bedeutung von Intimität und Exklusivität.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung.",
+          "Der Song kann als ein Ausdruck des Verlangens nach individueller Erfahrung und persönlicher Verbindung in einer zunehmend massenmedial geprägten Welt interpretiert werden.",
+          "Die Bitte an Mr. C, nur für die Sängerin zu singen, kann als ein Versuch gesehen werden, eine authentische und intime Erfahrung in einer Welt zu schaffen, die zunehmend von Massenkommunikation und Anonymität geprägt war."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf die Textzeile \"everybody else will disappear\" und versucht, deren Bedeutung zu deuten.",
+          "Verknüpft den Wunsch nach Exklusivität mit dem historischen Kontext der Massenmedien."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik zunehmend von Themen wie Liebe, Beziehung und emotionaler Erfahrung geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein interessantes Beispiel für die Verquickung von Musik und emotionaler Erfahrung.",
+          "Hier wird bereits eine intime Beziehung zwischen dem Sänger und Mr. C angedeutet.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist in diesem Song auffällig.",
+          "Die Aufforderung, dass \"everybody else will disappear\" kann als emotionale Rückzug interpretiert werden.",
+          "Der Sänger sehnt sich nach einer exklusiven, persönlichen Erfahrung mit Mr. C, die ihn von der Außenwelt abschottet.",
+          "Diese Zeile kann auch als eine Form der emotionalen Verletzlichkeit gelesen werden.",
+          "Die emotionale Wirkung des Songs ist daher eng mit der affektiven Dimension verbunden.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "„Sing to Me Mr. C“ kann in diesem Kontext als ein Beispiel für die beginnende Emotionalisierung der Popmusik gesehen werden.",
+          "Die tiefere Bedeutungsebene des Songs kann auch als eine Form der Suche nach Authentizität und emotionaler Verbindung interpretiert werden.",
+          "Die Bitte des Sängers an Mr. C, ihm ein Lied zu singen, kann als eine Art metaphorische Suche nach emotionaler Nahrung gelesen werden.",
+          "Insgesamt zeigt der Song eine komplexe Verquickung von emotionaler Erfahrung, literarischen Stilmitteln und kulturellem Kontext."
+        ],
+        "positive_aspekte": [
+          "Zitiert korrekt die ersten beiden Zeilen des Songs.",
+          "Erkennt die zentrale Bitte um ein exklusives Lied."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik zunehmend von Themen wie Liebe, Beziehung und emotionaler Erfahrung geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein interessantes Beispiel für die Verquickung von Musik und emotionaler Erfahrung.",
+          "Hier wird bereits eine intime Beziehung zwischen dem Sänger und Mr. C angedeutet.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist in diesem Song auffällig.",
+          "Die Aufforderung, dass \"everybody else will disappear\" kann als emotionale Rückzug interpretiert werden.",
+          "Der Sänger sehnt sich nach einer exklusiven, persönlichen Erfahrung mit Mr. C, die ihn von der Außenwelt abschottet.",
+          "Diese Zeile kann auch als eine Form der emotionalen Verletzlichkeit gelesen werden.",
+          "Die emotionale Wirkung des Songs ist daher eng mit der affektiven Dimension verbunden.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "„Sing to Me Mr. C“ kann in diesem Kontext als ein Beispiel für die beginnende Emotionalisierung der Popmusik gesehen werden.",
+          "Die tiefere Bedeutungsebene des Songs kann auch als eine Form der Suche nach Authentizität und emotionaler Verbindung interpretiert werden.",
+          "Die Bitte des Sängers an Mr. C, ihm ein Lied zu singen, kann als eine Art metaphorische Suche nach emotionaler Nahrung gelesen werden.",
+          "Insgesamt zeigt der Song eine komplexe Verquickung von emotionaler Erfahrung, literarischen Stilmitteln und kulturellem Kontext."
+        ],
+        "positive_aspekte": [
+          "Korrekte Textzitate und klare Benennung des zentralen Motivs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik zunehmend von Themen wie Liebe, Beziehung und emotionaler Erfahrung geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein interessantes Beispiel für die Verquickung von Musik und emotionaler Erfahrung.",
+          "Hier wird bereits eine intime Beziehung zwischen dem Sänger und Mr. C angedeutet.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist in diesem Song auffällig.",
+          "Die Aufforderung, dass \"everybody else will disappear\" kann als emotionale Rückzug interpretiert werden.",
+          "Der Sänger sehnt sich nach einer exklusiven, persönlichen Erfahrung mit Mr. C, die ihn von der Außenwelt abschottet.",
+          "Diese Zeile kann auch als eine Form der emotionalen Verletzlichkeit gelesen werden.",
+          "Die emotionale Wirkung des Songs ist daher eng mit der affektiven Dimension verbunden.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "„Sing to Me Mr. C“ kann in diesem Kontext als ein Beispiel für die beginnende Emotionalisierung der Popmusik gesehen werden.",
+          "Die tiefere Bedeutungsebene des Songs kann auch als eine Form der Suche nach Authentizität und emotionaler Verbindung interpretiert werden.",
+          "Die Bitte des Sängers an Mr. C, ihm ein Lied zu singen, kann als eine Art metaphorische Suche nach emotionaler Nahrung gelesen werden.",
+          "Insgesamt zeigt der Song eine komplexe Verquickung von emotionaler Erfahrung, literarischen Stilmitteln und kulturellem Kontext."
+        ],
+        "positive_aspekte": [
+          "Stellt den Textbezug klar heraus und wiederholt die zentrale Bitte."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": null,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch, was auf ein hohes Maß an Redundanz und geringe Varianz hinweist.",
+    "empfehlung": "Die vorliegenden Modelle erzeugen sehr ähnliche, aber überwiegend oberflächliche Analysen mit wenigen konkreten Textbezügen. Für eine bessere Bewertung sollten zukünftige LLM‑Interpretationen stärker auf detaillierte Textanalyse, mehr differenzierte Bedeutungsansätze und weniger generische Kontextualisierungen setzen."
+  }
+}

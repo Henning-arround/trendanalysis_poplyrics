@@ -1,0 +1,101 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "herzlichen und authentischen Ausdruck der menschlichen Erfahrung"
+        ],
+        "positive_aspekte": [
+          "emotionale Intensität und die eindringliche Darstellung der Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Bedenken und Unsicherheiten beiseite lassen"
+        ],
+        "oberflächliche_aussagen": [
+          "emotionale Ausdruck der Sehnsucht",
+          "alles beherrschendes Gefühl"
+        ],
+        "positive_aspekte": [
+          "Wiederholung des Refrains als flehentlicher Appell"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Bedenken und Unsicherheiten beiseite lassen"
+        ],
+        "oberflächliche_aussagen": [
+          "emotionale Ausdruck der Sehnsucht",
+          "alles beherrschendes Gefühl"
+        ],
+        "positive_aspekte": [
+          "Wiederholung des Refrains als flehentlicher Appell"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Bedenken und Unsicherheiten beiseite lassen"
+        ],
+        "oberflächliche_aussagen": [
+          "emotionale Ausdruck der Sehnsucht",
+          "alles beherrschendes Gefühl"
+        ],
+        "positive_aspekte": [
+          "Wiederholung des Refrains als flehentlicher Appell"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Bedenken und Unsicherheiten beiseite lassen"
+        ],
+        "oberflächliche_aussagen": [
+          "emotionale Ausdruck der Sehnsucht",
+          "alles beherrschendes Gefühl"
+        ],
+        "positive_aspekte": [
+          "Wiederholung des Refrains als flehentlicher Appell"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-5 zeigen eine hohe Konsistenz in ihrer Struktur und Aussage, aber auch eine geringere Tiefe und mehr Halluzinationen.",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz dienen."
+  }
+}

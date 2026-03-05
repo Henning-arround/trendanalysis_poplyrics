@@ -1,0 +1,94 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Klare Verknüpfung von einzelnen Zeilen mit interpretativen Aussagen",
+          "Erkenntnisse zu Machtungleichgewicht, Ignoranz‑Strategie und emotionaler Vernebelung",
+          "Berücksichtigt Wiederholungen und deren Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Motiv‑ und Bildsprache",
+          "Verknüpft wiederholte Phrasen mit innerer Zerrissenheit",
+          "Erklärt die defensive Rolle von Ignoranz im Text",
+          "Schließt das Ende des Songs logisch in die Analyse ein"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert das Spannungsfeld zwischen Selbstbehauptung und Bedürfnis nach Nähe",
+          "Analysiert die paradoxen Appelle „we shouldn’t argue“ und „wreck me“",
+          "Bezieht die Zeile „anyone would stand up on my side“ in die Diskussion über Unterstützung ein",
+          "Erklärt die emotionale Wirkung des Schlusses"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt den Balanceakt zwischen Anziehung und Abgrenzung klar heraus",
+          "Verbindet die Zeile „cloud up my reasoning“ mit einem inneren Sturm aus Unsicherheit",
+          "Erklärt die Selbstschutz‑Mechanik der Ignoranz",
+          "Betont, dass das Vermeiden von Konflikten die Distanz vergrößert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Hebt die endlose Wiederholung („so over, and over, anyone“) als Motiv hervor",
+          "Analysiert die defensive Haltung „Believe in ignorance as my best defense“",
+          "Verbindet das Bild des „Wreck me“ mit dem Wunsch nach Selbstschutz",
+          "Schließt das Motiv des Verlustes und der Trauer überzeugend ein"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen sind inhaltlich konsistent, wiederholen keine rein oberflächlichen Phrasen und bleiben eng am Text orientiert.",
+    "empfehlung": "Alle fünf Interpretationen sind faktentreu und tiefgehend. Die Interpretation 3 sticht leicht hervor, weil sie besonders klar die Ambivalenz zwischen Selbstbehauptung und Nähe herausarbeitet und dabei jede Textstelle präzise verknüpft."
+  }
+}

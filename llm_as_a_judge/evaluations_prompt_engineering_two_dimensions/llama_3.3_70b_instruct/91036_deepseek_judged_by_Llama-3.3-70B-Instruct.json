@@ -1,0 +1,99 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs und seine affektive Dimension sind von einer gewissen Ambivalenz geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Frage zu sein, wie leicht es geworden ist, sich von anderen zu distanzieren und eine Art von Einsamkeit zu konstruieren."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Frage, ob die Leichtigkeit, mit der man heute Beziehungen und Emotionen konstruiert und wieder abwirft, zu einer Art von Einsamkeit führt, die letztlich selbstverschuldet ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Frage zu sein, wie leicht es geworden ist, sich von anderen zu distanzieren und eine Art von Einsamkeit zu konstruieren."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Betonung von 'Easy' und die Beschreibung von Handlungen, die mit einer gewissen Leichtigkeit und Oberflächlichkeit ausgeführt werden, lassen darauf schließen, dass der Song eine kritische Haltung gegenüber der digitalen Kultur einnimmt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Frage zu sein, wie leicht es geworden ist, sich von anderen zu distanzieren und eine Art von Einsamkeit zu konstruieren."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer gewissen Ambivalenz geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Frage zu sein, wie leicht es geworden ist, sich von anderen zu distanzieren und eine Art von Einsamkeit zu konstruieren."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer gewissen Ambivalenz geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Frage zu sein, wie leicht es geworden ist, sich von anderen zu distanzieren und eine Art von Einsamkeit zu konstruieren."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die thematische Komplexität des Songs, aber variieren in der Tiefe und Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Konsistenz in Bezug auf die thematische Komplexität des Songs."
+  }
+}

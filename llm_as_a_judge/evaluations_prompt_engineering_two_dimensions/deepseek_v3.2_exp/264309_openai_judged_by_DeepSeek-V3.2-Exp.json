@@ -1,0 +1,100 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage bleibt ambivalent, weil das 'Monkey' sowohl als tierisches Begleit‑ und als psychologisches Symbol für das Unbewusste gelesen werden kann, ohne dass der Text eindeutig klärt, ob das 'Ich' tatsächlich frei von Verhüllungen ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch dominieren Wiederholungen, Paradoxien und Bildsprache.",
+          "Die offene Mehrdeutigkeit des Songs – etwa die unklare Natur des 'Monkey' und die widersprüchliche Verknüpfung von Leichtigkeit und Tiefe – lässt bewusst Raum für unterschiedliche Interpretationsschichten, ohne eine definitive Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Dualität zwischen Aktivität und Resignation, die zentrale Botschaft und die scheinbare Transparenz des Erzählers."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'The deeper you go, the higher you fly' (Zeile 7-8) verkörpert das Paradoxon von Vertiefung und Aufstieg, ein Motiv, das in der Gegenkultur als Hinweis auf Bewusstseinserweiterung durch Drogen oder Meditation verstanden wird, zugleich aber die Gefahr einer Übersteigerung impliziert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung entsteht durch die Kombination aus repetitiver Euphorie ('it’s such a joy', Zeile 2, 12) und den paradoxen Bildungen, die ein Gefühl von Desorientierung erzeugen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die kulturelle Stimmung des Jahres 1968 und die Widersprüchlichkeit der Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Everybody’s got something to hide / Except for me and my monkey' stellt eine paradoxe Offenheit dar: Während das 'Jeder' Geheimnisse hat, behauptet das lyrische Ich völlige Transparenz – jedoch nur in Verbindung mit dem 'Monkey', ein Symbol, das gleichzeitig Tier, Spielzeug, Drogenmetapher oder kindliche Unschuld sein kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Historisch verortet lässt sich das Stück in das späte 60er-Jahrzehnt einordnen, in dem die Beatles selbst von psychedelischer Kunst, östlicher Philosophie und dem Widerstand gegen gesellschaftliche Konventionen beeinflusst waren."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Mehrdeutigkeit des 'Monkey' und die Widersprüchlichkeit der Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage bleibt ambivalent: Während das 'Monkey' als Symbol für das Unbewusste, das Tierische oder die psychedelische Erfahrung interpretiert werden kann, bleibt unklar, ob es tatsächlich ein 'verstecktes' Element gibt oder ob das Ich-Selbst die einzige offene Figur ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'Take it easy' und das rhythmische 'Woo!' fungieren als musikalische Signaturen, die zugleich ein Gefühl von Leichtigkeit erzeugen und die Möglichkeit einer tieferen, fast tranceartigen Erfahrung andeuten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Dualität zwischen Aktivität und Resignation, die zentrale Botschaft und die scheinbare Transparenz des Ich-Erzählers."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'the deeper you go, the higher you fly' erzeugt ein paradoxes Spannungsfeld zwischen Abstieg und Aufstieg, das die 1968-typische psychedelische Erfahrung von Bewusstseinserweiterung widerspiegelt, ohne jedoch eine klare Richtung zuzusagen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die ständige Wiederholung von 'take it easy' und 'make it easy' wirkt zugleich beruhigend und irritierend, weil sie mit den vorherigen Zeilen über 'deeper' und 'higher' kollidiert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die kulturelle Stimmung des Jahres 1968 und die Widersprüchlichkeit der Aussagen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung, mit kleinen Abweichungen in der Halluzinations- und Tiefenbewertung.",
+    "empfehlung": "Die beste Interpretation (Nummer 1) balanciert Textreue mit analytischer Tiefe und zeigt eine gute Berücksichtigung der Dualität zwischen Aktivität und Resignation, der zentralen Botschaft und der scheinbaren Transparenz des Erzählers."
+  }
+}

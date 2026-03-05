@@ -1,0 +1,96 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Überzeugung, dass die Person etwas Besonderes zu bieten hat"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Klarer Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person ist attraktiv und auffallend",
+          "Die Notwendigkeit, sich auf die Musik und die Energie des Moments einzulassen"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Klarer Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person ist attraktiv und auffallend",
+          "Die Notwendigkeit, sich auf die Musik und die Energie des Moments einzulassen"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Klarer Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Überzeugung, dass die Person etwas Besonderes zu bieten hat"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Klarer Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Überzeugung, dass die Person etwas Besonderes zu bieten hat"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Klarer Bezug zum Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songtextes",
+    "empfehlung": "Der Ansatz der ersten Interpretation ist empfehlenswert, da er eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

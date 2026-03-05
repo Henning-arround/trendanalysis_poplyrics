@@ -1,0 +1,94 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Fazit eines Lebens, das von Exzessen und mangelnder Selbstwahrnehmung geprägt war, und eine Mahnung, dass die Zeit kommt, um für die Vergangenheit zu bezahlen."
+        ],
+        "positive_aspekte": [
+          "Sehr viele konkrete Textbezüge (z. B. Sand‑Metapher, „magic age“, „Arroganz und Stolz“).",
+          "Klare Struktur, die den Wandel von Jugend‑ zu Reife‑Perspektive nachzeichnet.",
+          "Vermeidet unnötige Spekulationen, bleibt eng am Wortlaut des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse, jede Aussage lässt sich eindeutig im Liedtext nachweisen.",
+          "Hohe inhaltliche Tiefe – sowohl Bildsprache (Sand, Zauberstab) als auch emotionale Entwicklung werden detailliert behandelt.",
+          "Berücksichtigt Ambivalenzen (z. B. Stolz vs. Reue) ohne sie zu simplifizieren."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vergangenheit erscheint als eine Zeit der Unschuld und der Naivität, in der er seine Jugend als magischen Zustand betrachtete, der ihn unsterblich und unverwundbar machte."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textstellen (z. B. „magic age“, Sand‑Metapher) mit interpretatorischer Reflexion.",
+          "Erkennt die zentrale Thematik von Reue und Verlust klar."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Yesterday when I was young\" wird zu einem Symbol für die unwiederbringliche Vergangenheit und die Vergänglichkeit der Jugend."
+        ],
+        "positive_aspekte": [
+          "Umfassende Aufzählung von Motiven (Nacht, Licht, Ego, Arroganz) mit klaren Textbezügen.",
+          "Gute Balance zwischen Beschreibung und Interpretation, wenig Wiederholung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der Reue und der Sehnsucht nach einer verlorenen Zeit."
+        ],
+        "positive_aspekte": [
+          "Konsistente Nutzung von Bildsprache aus dem Text (z. B. „flüchtiger Sand“, „magischer Stab“).",
+          "Erkennt die Entwicklung von Selbstbezogenheit zu Einsamkeit klar."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthemen, jedoch variiert die Tiefe der Analyse. Die Halluzinationsrate ist durchweg niedrig, was auf eine hohe Texttreue hinweist. Oberflächliche Formulierungen treten nur sporadisch auf.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus faktentreuer Textbindung und analytischer Tiefe. Für zukünftige Bewertungen sollte man darauf achten, dass allgemeine Symbol‑Aussagen klar als Interpretation gekennzeichnet werden, um die Oberflächlichkeit zu minimieren."
+  }
+}

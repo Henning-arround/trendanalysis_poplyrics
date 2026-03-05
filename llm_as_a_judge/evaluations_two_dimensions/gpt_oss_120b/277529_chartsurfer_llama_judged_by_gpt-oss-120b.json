@@ -1,0 +1,104 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer Person, die ihre ursprüngliche Unschuld und Reinheit verloren hat und nun von einer inneren Härte und Kälte geprägt ist.",
+          "Der Song porträtiert somit eine Tragödie der Verführung und des Verlustes der Unschuld, bei der die Protagonistin ihre ursprüngliche Reinheit und Wärme verloren hat und nun von einer inneren Leere und Härte geprägt ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf fast jede Textzeile (z. B. „Who's to blame“, „shame beneath your frame“, „sunrays in your hair“, „Satan, your master“).",
+          "Zeigt ein zusammenhängendes Bild von Kontrast zwischen äußerer Schönheit und innerem „heart of stone“.",
+          "Erkennt die mehrdeutige Rolle von Schuld und äußeren Einflüssen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer Person, die ihre ursprüngliche Unschuld und Reinheit verloren hat und nun von einer inneren Härte und Kälte geprägt ist.",
+          "Der Song porträtiert somit eine Person, die ihre Seele und ihre Menschlichkeit verloren hat und nun von einer inneren Leere und Härte geprägt ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die Zeile „Satan, your master“ mit einer plausiblen Interpretation von bösen Einflüssen.",
+          "Analysiert den Gegensatz zwischen den positiven Bildmotiven (Sonnenstrahlen, Stimme) und dem „heart of stone“.",
+          "Bleibt textnah, ohne unnötige biografische oder stilistische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer Person, die ihre ursprüngliche Unschuld und Reinheit verloren hat und nun von einer inneren Härte und Kälte geprägt ist.",
+          "Der Song porträtiert somit ein Bild von Verfall und Verlust, in dem eine einst reine und unschuldige Person durch äußere Einflüsse und Erfahrungen ihre innere Wärme und Empathie verloren hat."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um den Begriff „moralische Korruption“, was die Textstelle „Satan, your master“ weiter ausdehnt.",
+          "Stellt klare Bezüge zu den Bildmotiven her (Schatten, Sonne, Stimme).",
+          "Bleibt bei einer rein textbasierten Interpretation, ohne spekulative Fakten über die Band."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer Person, die ihre ursprüngliche Unschuld und Reinheit verloren hat und nun von einer inneren Härte und Kälte geprägt ist.",
+          "Der Song porträtiert somit ein Bild von Verfall und Verlust, bei dem eine einst reine und unschuldige Person durch äußere Einflüsse und Erfahrungen ihre innere Wärme und Empathie verloren hat."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betont den Kontrast zwischen äußerer Schönheit („sunrays in your hair“) und dem inneren „heart of stone“.",
+          "Verknüpft die Zeile „Satan, your master“ mit einer Interpretation von bösem Einfluss, bleibt dabei textnah.",
+          "Bietet eine konsistente, zusammenhängende Lesart des gesamten Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer Person, die ihre ursprüngliche Unschuld und Reinheit verloren hat und nun von einer inneren Härte und Kälte geprägt ist.",
+          "Der Song porträtiert somit eine Tragödie der Verführung und des Verlustes der Unschuld, bei der die Protagonistin ihre ursprüngliche Reinheit und Wärme verloren hat und nun von einer inneren Kälte und Härte geprägt ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfasst fast jede Textzeile und erklärt deren mögliche Symbolik (z. B. „shame beneath your frame“, „sunrays in your hair“, „Satan, your master“).",
+          "Stellt klare Zusammenhänge zwischen Schuldfrage und äußeren Einflüssen her.",
+          "Bietet eine gut strukturierte, durchgängige Interpretation ohne unnötige Abschweifungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen im Wesentlichen dieselbe Grundthese (Verlust von Unschuld, innere Härte, Einfluss von Satan/evil). Die Variation liegt nur in Formulierungen, wodurch die inhaltliche Varianz gering ist.",
+    "empfehlung": "Eine Interpretation, die sowohl textnah bleibt als auch neue, begründete Perspektiven (z. B. Ambivalenz, Mehrdeutigkeit) einbringt, wäre wünschenswert. Interpretation 1 liefert die geringste Halluzinationsrate und die gleiche Tiefenbewertung wie die anderen, weshalb sie als beste gilt."
+  }
+}

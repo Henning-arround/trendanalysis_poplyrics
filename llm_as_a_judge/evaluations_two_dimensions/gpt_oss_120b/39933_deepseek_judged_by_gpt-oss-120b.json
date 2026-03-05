@@ -1,0 +1,109 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des „Königreichs der schönen Geschichten“, das so rein ist wie der „Himmelstau“, existiert nicht im Originaltext."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain unterstreicht die Idee, dass diese Hoffnung und Schönheit nicht nur dem Sänger, sondern allen Menschen zugutekommen soll.",
+          "Insgesamt interpretiert der Song die menschliche Erfahrung von Dunkelheit zu Licht, von Isolation zu Verbindung und von Schmerz zu Hoffnung."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Aussagen sind klar aus dem Text ableitbar (z. B. Transformation, „permanent haze“, „wrong side of the wall“, „hole in the sun“).",
+          "Die Interpretation bleibt weitgehend textnah und vermeidet unbegründete biografische Details."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain symbolisiert eine idyllische, unschuldige Welt, in der Schmerz und Leid durch die Süße des Lebens verklärt werden.",
+          "Der „Heaven's Rain“ kann als Metapher für die erlösende, reinigende Kraft der Liebe interpretiert werden.",
+          "Die Wiederholung des Refrains unterstreicht die Sehnsucht nach einer Welt voller schöner Geschichten, reiner als der himmlische Regen, die über jeden scheint und allen gilt."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. „permanent haze“, „good fortune arrived“, „wrong side of the wall“, „hole in the sun“).",
+          "Die Analyse verbindet Textbeobachtungen mit einer nachvollziehbaren, aber nicht übertrieben spekulativen Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain symbolisiert eine idyllische, unschuldige Welt, in der Schmerz und bittere Süße durch die Reinheit des „Himmelsregens“ geheilt werden.",
+          "Dieser Regen kann als Metapher für Hoffnung, Erneuerung und positive Veränderungen interpretiert werden.",
+          "Die Zeile „There's a hole in the sun …“ könnte ein Gefühl der Sehnsucht und des Verlangens nach etwas Unerreichbarem ausdrücken.",
+          "„clouds in the open sea“ symbolisieren Unsicherheit und Orientierungslosigkeit.",
+          "Trotz dieser Herausforderungen bleibt die Botschaft positiv, indem die Ankunft des Glücks und die Führung durch die Person betont werden.",
+          "Der Song endet mit der wiederholten Aufforderung, dass das Licht über jeden scheinen solle."
+        ],
+        "positive_aspekte": [
+          "Alle gemachten Fakten (z. B. „good fortune arrived“, „wrong side of the wall“, „hole in the sun“) entsprechen dem Originaltext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain symbolisiert eine idyllische, unschuldige Welt, in der Schmerz und bittere Süße in eine glorreiche Erfahrung verwandelt werden, die für jeden leuchtet.",
+          "Die Zeile „There's a hole in the sun / Where I wanted to run“ deutet auf eine Sehnsucht nach einem Ort der Zuflucht hin.",
+          "„clouds in the open sea“ Unsicherheit und Unklarheit andeuten.",
+          "Die wiederholte Ankunft des Glücks und die Führung durch die geliebte Person führen schließlich zu einem Zustand der Hoffnung und Erleuchtung.",
+          "Der Song endet mit der Vision einer strahlenden, universellen Erfahrung, in der das „Heavens Rain“ über jeden scheint, was für eine Erlösung und Erleuchtung steht, die allen zugänglich ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation greift zentrale Textpassagen (z. B. „permanent haze“, „good fortune arrived“, „wrong side of the wall“) korrekt auf."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des „Königreichs der schönen Geschichten“, das so rein ist wie der „Himmelstau“, ist nicht im Originaltext enthalten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain deutet darauf hin, dass selbst Schmerz und bittere Süße durch die transformative Kraft der Liebe und Hoffnung verklärt werden können.",
+          "Der Song endet mit der Vision eines Ortes, an dem das Glück und die Hoffnung für jeden leuchten, ein universelles Versprechen von Erleuchtung und positiver Veränderung."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen beruhen direkt auf dem Text (z. B. „permanent haze“, „good fortune arrived“, „wrong side of the wall“, „hole in the sun“).",
+          "Die Analyse bleibt weitgehend textgebunden und vermeidet spekulative biografische Details."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das Grundthema der Transformation, jedoch variieren sie stark im Anteil an oberflächlichen, nicht textgebundenen Aussagen. Die Varianz ist hoch, was auf inkonsistente Tiefe hinweist.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance zwischen Texttreue und analytischer Tiefe. Künftige Modelle sollten darauf achten, vage, allgemeine Aussagen zu reduzieren und gleichzeitig kreative, aber textbasierte Analysen zu fördern."
+  }
+}

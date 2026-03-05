@@ -1,0 +1,112 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die frühe 60er‑Jahre einordnen, eine Phase, in der britische Pop‑Acts wie Manfred Mann begannen, visuelle Experimente und Subkultur‑Einflüsse (z. B. „Horrorclowning“, „Abba Revival“) zu integrieren.",
+          "Die Mischung aus britischem Beat, deutschen Wortspielen und Anspielungen auf zeitgenössische Medien (z. B. „Beats by Dre“) reflektiert die transkulturelle Durchlässigkeit jener Zeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text entfaltet eine fragmentarische Bildwelt, in der das „Sie“ als zentrale, aber nie eindeutig definierte Figur erscheint.",
+          "Die narrative Struktur ist nicht linear, sondern fragmentarisch, was die Textur einer improvisierten Performance betont."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich direkt aus dem Songtext ableiten (7 von 10).",
+          "Analyse ist detailliert und bezieht sich konkret auf wiederholte Motive, Bildsprünge und deren mögliche Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Wiederholte Motive ... können als Metapher für die post‑warme Jugendkultur der 1960er‑Jahre gelesen werden, in der Substanzgebrauch und performative Gesten als Ausdruck von Identitätssuche dienten.",
+          "Die Aufzählung von „Horrorclowning“, „Capoeira‑Tänzchen“ und „Roundhouse‑Kicks“ verknüpft globale Subkulturen zu einer hybriden Ästhetik, die die damals aufkommende Pop‑Kultur‑Globalisierung reflektiert.",
+          "Die ständige Gegenüberstellung von Gewalt … und spielerischer Leichtigkeit … offenbart eine ambivalente Haltung gegenüber dem Militarismus des Kalten Krieges."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „Sie“ entfaltet eine dichte Bildsprache, die zugleich fragmentarisch und kaleidoskopisch wirkt.",
+          "Diese Ambiguitäten … verhindern eine eindeutige Deutung und spiegeln die kulturelle Zerrissenheit einer Generation wider, die zwischen Tradition und radikaler Neuerfindung schwankt."
+        ],
+        "positive_aspekte": [
+          "Einige Aussagen sind klar textbezogen (z. B. Wiederholungen der Hookline, Symbolik von Helmut‑Schmidt‑Büste).",
+          "Die Interpretation versucht, übergeordnete Themen wie Identität und Globalisierung zu verknüpfen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in den Kontext der frühen 60er‑Jahre einordnen, in dem Pop‑Kultur, psychedelische Ästhetik und post‑war‑Deutungen von Autorität kollidieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch dominieren Metaphern und Bildsprache, die durch assoziative Sprünge Spannung erzeugen.",
+          "Die zahlreichen Widersprüche … verdeutlichen die Absicht, ein offenes, mehrdeutiges Spiegelbild einer sich wandelnden Gesellschaft zu präsentieren."
+        ],
+        "positive_aspekte": [
+          "Nur ein einziger klarer Erfindungs‑Befund (≈9 %); damit sehr texttreu.",
+          "Umfangreiche, textbezogene Analyse von Bildmotiven, Symbolen und deren Wechselwirkungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in den Kontext der Nachkriegs‑Popkultur einordnen, in dem neue Subkulturen (z. B. „Horrorclowning“) und politische Referenzen (Helmut‑Schmidt‑Büste) gleichzeitig gefeiert und kritisiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannungen erzeugen ein Netzwerk von Bedeutungen, das weder eindeutig befreiend noch eindeutig repressiv ist.",
+          "Stilistisch arbeitet das Stück mit überladenen Metaphern und Bildfragmenten, die gleichzeitig konkret und surreal wirken."
+        ],
+        "positive_aspekte": [
+          "Sieben von zehn Aussagen sind klar aus dem Text ableitbar.",
+          "Analyse verbindet formale Beobachtungen (Wiederholung der Hookline) mit inhaltlichen Deutungen (Symbolik von Waffen vs. Tanz)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück in das frühe 60er‑Jahre‑Milieu eingebettet, in dem Popkultur, Protest und neue Tanzformen zusammenprallten."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch dominieren Metaphern und Surrealbilder, die keine lineare Erzählung zulassen.",
+          "Die Ambiguitäten … bleiben offen, was den Song zu einem Spiegelbild einer Ära macht, in der kulturelle Identität ständig neu verhandelt und performativ inszeniert wurde."
+        ],
+        "positive_aspekte": [
+          "Sieben von zwölf Aussagen sind eindeutig textbezogen.",
+          "Die Interpretation liefert differenzierte Lesarten von Befreiung vs. Kontrolle und verknüpft sie mit konkreten Textstellen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass die meisten Interpretationen sehr textnah sind (nur 1‑2 erfundene Aussagen). Die Tiefe variiert leicht, wobei Interpretation 1, 2 und 4 die höchste Substanz aufweisen. Interpretation 5 fällt deutlich niedriger aus, weil sie viele spekulative, historisch‑kulturelle Aussagen enthält.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man den Ansatz von Interpretation 1 (oder 2/4) übernehmen: hohe Texttreue, konkrete Bildanalysen und gleichzeitig offene, mehrdeutige Deutungen. Vermeiden Sie übermäßige, nicht belegte historische Kontextualisierungen, wie sie in Interpretation 5 vorkommen."
+  }
+}

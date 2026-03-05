@@ -1,0 +1,124 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text verknüpft das Motiv des Zuhauses mit einer inneren Sehnsucht nach Zugehörigkeit, die zugleich befreiend und erstickend wirkt.",
+          "Die wiederholte Frage erzeugt ein Spannungsfeld zwischen Nostalgie und Schuldgefühl.",
+          "Das Motiv des „walls around me“ fungiert zugleich als Schutz und Begrenzung.",
+          "Kulturell lässt sich der Text in den Kontext einer post‑globalisierten Mobilität einordnen.",
+          "Die wiederholte Betonung von „the feeling I want“ reflektiert ein zeitgenössisches Individualisierungsparadigma."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (z. B. direkte Zitate von „cold“, „film that clouds it“).",
+          "Erkennt die Mehrdeutigkeit des Refrains und der Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Frage eröffnet eine thematische Komplexität, die nicht nur Nostalgie, sondern auch Schuld‑ und Verlustgefühle verknüpft.",
+          "Die Gegenüberstellung von Kälte und Lebendigkeit suggeriert ein paradoxes Verlangen nach äußerer Distanz als Bedingung für innere Vitalität.",
+          "Die Zeile bildet einen narrativen Wendepunkt von Flucht zu Rückkehr, ohne die innere Zerrissenheit aufzulösen.",
+          "Historisch reflektiert die Betonung von „memories fade“ die digitale Beschleunigung von Erinnerung und Verlust."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt der Song bildhafte Metaphern und sensorische Kontraste, die das Ungreifbare visualisieren.",
+          "Die Wiederholung erzeugt ein refrainhaftes Mantra, das sowohl Trost spendet als auch die Unausweichlichkeit des Verlustes betont.",
+          "Kulturell lässt sich das Stück in den Kontext post‑modernen Identitätsdiskursen einordnen.",
+          "Die Ambiguitäten bleiben offen und erzeugen ein anhaltendes Spannungsfeld für den Hörer."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse von Wiederholungen und ihrer Wirkung.",
+          "Verknüpft Textstellen mit übergeordneten Themen wie Zugehörigkeit und Entfremdung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich die Wiederholung von „Didn’t plan for this“ als Hinweis auf die Unsicherheit einer Generation lesen, die zwischen globaler Vernetzung und dem Wunsch nach lokaler Verwurzelung schwankt."
+        ],
+        "oberflächliche_aussagen": [
+          "Literarisch arbeitet das Lied mit Metaphern und Symbolen, die das Innere des Sprechers externalisieren.",
+          "Wiederholungen erzeugen ein refrainshaftes Mantra, das die Ambiguität zwischen Schuld und Unvermeidlichkeit betont.",
+          "Im kulturellen Kontext lässt sich das Stück in die post‑moderne Reflexion über Identität und Mobilität einordnen.",
+          "Die Textstruktur lässt bewusst Widersprüche offen – Freiheit versus Geborgenheit, Planung versus Zufall."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Metaphern (Film, Walls) und verknüpft sie mit Erinnerung.",
+          "Bezieht die wiederholte Zeile „Home is where my heart is“ in die Analyse ein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile spricht von einer Generation, die sich von traditionellen Bindungen löst.",
+          "Das abschließende „I’m grateful for the chance that it’s mine“ signalisiert ein Rückkehren zur Wertschätzung des eigenen Platzes."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt das Lied Bildsprache und Wiederholungen, um ein fragmentiertes Gedächtnis zu schildern.",
+          "Die Metapher des „walls around me“ kann als schützende Grenze oder als Gefängnis gelesen werden.",
+          "Die wiederholte Frage fungiert als narrativer Anker, der das lyrische Ich in ein moralisches Dilemma stellt.",
+          "Im kulturellen Kontext lässt sich das Stück in die post‑moderne Reflexion über Mobilität, Entwurzelung und das wachsende Bedürfnis nach emotionaler Verankerung einordnen.",
+          "Diese Gegenüberstellung von Flucht und Rückkehr bleibt bewusst offen, wodurch das Lied ein Feld für weitere kulturelle und psychologische Deutungen bietet."
+        ],
+        "positive_aspekte": [
+          "Zählt konkrete Textstellen (z. B. „Memories fade to dust“, „film that clouds it“).",
+          "Erkennt die Mehrdeutigkeit von „walls around me“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ist das Spannungsfeld zwischen Sehnsucht nach Freiheit und dem Bedürfnis nach Zugehörigkeit.",
+          "Stilistisch nutzt das Lied wiederholte Metaphern und Symbolik, um innere Zustände zu externalisieren.",
+          "Die Wiederholung von „Home is where my heart is“ und die Frage erzeugt ein refrainhaftes Narrativ, das zugleich Bestätigung und Zweifel verknüpft.",
+          "Die Gegenüberstellung von Zeilen offenbart innere Widersprüche, die nicht aufgelöst, sondern bewusst erhalten bleiben.",
+          "Im kulturellen Kontext lässt sich das Lied als Reflexion einer post‑modernen Mobilität interpretieren, in der traditionelle Heimatbegriffe destabilisiert werden.",
+          "Die wiederholte Betonung von „feeling“ statt konkreter Orte spiegelt eine Generation wider, die Identität zunehmend über emotionale Zustände konstruiert.",
+          "Gleichzeitig bleibt die Ambiguität bestehen: Das Heim ist sowohl Fluchtpunkt als auch Gefängnis, Wunschobjekt und Quelle von Schuldgefühlen."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich direkt auf eine Zeile zurückführen.",
+          "Analysiert wiederholte Motive (Film, Walls, Heart) und deren mögliche Bedeutungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark im Detailgrad; einige wiederholen nur allgemeine Beobachtungen, während andere (z. B. Interpretation 4) fast jede Textzeile einzeln adressieren. Die Varianz führt zu einer mittleren Konsistenz.",
+    "empfehlung": "Interpretation 4 liefert die ausgewogenste Mischung aus faktentreuer Textbeobachtung und analytischer Tiefe, ohne spekulative Biografien oder unbegründete historische Kontextualisierungen. Für zukünftige Bewertungen sollte man darauf achten, spekulative Aussagen zu minimieren und gleichzeitig mehr konkrete Textanalysen zu integrieren, um die Tiefe zu erhöhen."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Lächeln ist nicht nur freundlich, sondern trägt eine harte, fast unnahbare Schärfe."
+        ],
+        "oberflächliche_aussagen": [
+          "Ein innerer Konflikt zwischen dem Wunsch nach Nähe und dem Bedürfnis nach Selbstschutz"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der ambivalenten Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Wiederaufleben der Beziehung fast schon als Verbrechen empfunden"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein innerer Konflikt zwischen dem Drang, an einer toxischen Bindung festzuhalten"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der zerstörerischen Leidenschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein Spannungsfeld zwischen Sehnsucht nach Bindung und dem Drang, sich zu befreien"
+        ],
+        "positive_aspekte": [
+          "Sehr textbezogene Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Wiederholen des Konflikts fast schon ritualisiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein Spannungsfeld zwischen dem Wunsch nach emotionaler Bestätigung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der ambivalenten Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Qual einer Liebe, die gleichzeitig beflügelt und erstickt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der emotionalen Dynamik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

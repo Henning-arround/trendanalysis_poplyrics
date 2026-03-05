@@ -1,0 +1,97 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'streets of fear' können als Metapher für das urbane Milieu der britischen Großstädte verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kulturelles Artefakt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft in knappen, fast mantraartig wiederholten Zeilen ein Bild von urbaner Gewalt und existenzieller Unsicherheit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität zwischen persönlicher Gewalt und einer scheinbaren Systemkritik bleibt ungelöst"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Spiegel einer unsicheren, von Macht- und Angststrukturen durchdrungenen Epoche"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft in knappen, fast mantraartig wiederholten Zeilen ein Bild von urbaner Bedrohung und individueller Macht­ausübung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung ist durch die Kontraste von 'laugh'/'gasp', 'hate'/'ray' und die aggressive Selbstinszenierung stark polarisiert"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft in seiner knappen Sprache Fragen nach Identität und Gewalt mit einer dystopischen Stadtkulisse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textpassagen erzeugen eine affektive Wirkung, die zwischen Faszination für die Macht des 'I' und einer beklemmenden Angst vor einer von Panik dominierten Ordnung schwankt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein gesellschaftliches Kontrollsystem"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft in seiner knappen Sprache Fragen nach Identität und Gewalt mit einer urbanen Kulisse"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die offene Frage nach Konsens ('What is this did I consent') die Unsicherheit über die eigene Beteiligung an einem repressiven System betont"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kulturelles Artefakt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft in knappen, fast mantraartig wiederholten Zeilen ein Bild von urbaner Gewalt und existenzieller Unsicherheit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die Interpretation 3 bietet die beste Analyse des Songs, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

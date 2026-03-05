@@ -1,0 +1,130 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song nutzt das Bild einer unvollständigen Mahlzeit, um Erwartung, Enttäuschung und den Wunsch nach Ausgewogenheit zu zeichnen.",
+          "Der Sprecher ist ein müder Arbeiter, der nach einem langen Tag nach Hause kommt und ein vollständiges Essen als Symbol für Sicherheit erwartet.",
+          "\"Stew with that fine ham bone\" steht für die würdige Belohnung, die er sich erhofft.",
+          "Die Kartoffel fungiert als Metapher für das fehlende Fundament, das das Fleisch nicht ersetzen kann.",
+          "Der wiederholte Refrain ist typisch für Armstrongs spielerischen Stil.",
+          "Der Dialog spiegelt das Spannungsfeld zwischen männlicher Erwartungshaltung und weiblicher Küchenkompetenz der 1950er‑Jahre wider.",
+          "Erwähnungen von Erbsen, Reis und Bohnen deuten auf die Notwendigkeit von Vielfalt hin.",
+          "Der Song lässt sich als Kommentar zur sozialen Struktur der Nachkriegszeit lesen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein leichter Kommentar zur Nachkriegszeit."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederholte Zeile „All that meat and no potatoes“ als strukturelles Element des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song nutzt das Bild einer unvollständigen Mahlzeit, um Spannungen zwischen Erwartung und Realität im häuslichen Alltag der Nachkriegszeit zu beleuchten.",
+          "Der Sprecher ist ein müder Arbeiter, der nach einem langen Tag Trost sucht; das fehlende Gemüse symbolisiert das, was im Leben fehlt.",
+          "Die Gegenüberstellung von Fleisch und Kartoffeln spiegelt ein Ungleichgewicht zwischen körperlicher Arbeit und emotionaler Nahrung wider.",
+          "Die Dialoge offenbaren ein humorvolles, aber kritisches Bild traditioneller Geschlechterrollen.",
+          "Die Wiederholung von „wie grüne Tomaten“ steht für Unreifes oder Unpassendes.",
+          "Die Flexibilität des Sprechers, „ich mag fast alles“, wird als Versuch interpretiert, die Lücke zu schließen, ohne die strukturelle Ursache zu benennen.",
+          "Im Kontext von 1955 fungiert das Lied als leichte Kritik an der Erwartung, dass materielle Fülle automatisch emotionale Zufriedenheit bringt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein leichtfüßiger Kommentar zur Nachkriegszeit."
+        ],
+        "positive_aspekte": [
+          "Er weist darauf hin, dass die Zeile „All that meat and no potatoes“ ein einprägsames Mantra ist."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song nutzt die Metapher einer unvollständigen Mahlzeit, um häusliche Unzufriedenheit und den Wunsch nach Ausgewogenheit zu schildern.",
+          "Der Dialog offenbart das Spannungsfeld zwischen harter Arbeit und dem Anspruch auf ein befriedigendes Zuhause.",
+          "Das Fehlen der Kartoffeln symbolisiert ein Ungleichgewicht zwischen materiellen Erfolgen (Fleisch) und einfachen, stabilisierenden Elementen (Kartoffeln).",
+          "Ohne diese Basis wirkt das Übermaß an Fleisch überladen und unbefriedigend, ähnlich einem Leben, das nur aus Arbeit und Luxus besteht.",
+          "Anspielungen auf grüne Tomaten und weiteres Gemüse betonen die Notwendigkeit von Vielfalt und Balance.",
+          "Der wiederholte Ausruf ist fast wie ein selbstkritischer Refrain, der humorvoll Frustration ausdrückt.",
+          "Im Jahr 1955, als das amerikanische Ideal von Wohlstand stark propagiert wurde, kann das Lied als subtile Kritik an einseitiger Betonung von Erfolg und Konsum gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Spiegelbild gesellschaftlicher Werte."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die zentrale Metapher von Fleisch ohne Kartoffeln als Symbol für Ungleichgewicht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song nutzt die banale Metapher einer unvollständigen Mahlzeit, um Spannungen zwischen Erwartung und Realität im Nachkriegs‑Amerika zu beleuchten.",
+          "Der Dialog spiegelt ein klassisches Macht‑ und Rollenbild wider: Der Mann kehrt erschöpft heim, erwartet ein herzhaftes, nährendes Essen – Symbol für Stabilität und Geborgenheit.",
+          "Die Kartoffel steht für das Alltägliche, Bescheidene, das die Nahrung komplett macht; ihr Fehlen erzeugt Unvollständigkeit.",
+          "Die wiederholte Betonung von „all that meat and no potatoes“ ist eine humorvolle Kritik an Überfluss und Verschwendung.",
+          "Erwähnungen von Bohnen, Reis und Erbsen deuten auf die Vielseitigkeit der afro‑amerikanischen Küche hin, die trotz knapper Ressourcen kreative Lösungen findet.",
+          "Louis Armstrongs warme, raue Stimme verleiht dem Stück ironische Leichtigkeit, mildert die Frustration und betont die Resilienz der Gemeinschaft.",
+          "Die Ausrufe „I’m steamin’ and I’m really screamin’“ zeigen, dass das Unbehagen nicht nur kulinarisch, sondern emotional ist – ein Aufschrei nach Ausgewogenheit."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Spiegel gesellschaftlicher Sehnsüchte nach Vollständigkeit."
+        ],
+        "positive_aspekte": [
+          "Er bemerkt, dass die Zeile „All that meat and no potatoes“ mehrfach wiederholt wird."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song nutzt die Situation einer häuslichen Mahlzeit, um Arbeit, Erwartung und familiäre Kommunikation zu thematisieren.",
+          "Der Sprecher ist ein müder Arbeiter, der nach einem langen Tag ein ausgewogenes Essen als Belohnung erwartet.",
+          "Das Fehlen der Kartoffeln steht für das Fehlen einer stabilisierenden Komponente; das Fleisch allein wirkt überladen – ein Bild für ein Leben, das nur aus Arbeit und Erfolg besteht.",
+          "Die Gegenüberstellung von Fleisch und Kartoffeln ist eine Metapher für das Gleichgewicht zwischen materiellen Bedürfnissen und emotionaler Geborgenheit, besonders wichtig in der Nachkriegszeit.",
+          "Die Dialoge zeigen ein humorvolles, aber kritisches Spiel mit Rollenbildern: Der Mann äußert Unzufriedenheit, die Frau reagiert mit Verständnis und spielerischer Verteidigung.",
+          "Wiederholte Verweise auf grüne Tomaten und Alligatoren verstärken den Eindruck einer absurden, fast slapstickartigen Welt, in der das Ungleichgewicht des Essens zu größerer Unzufriedenheit führt.",
+          "Insgesamt spiegelt das Stück die Sehnsucht nach Harmonie im Wiederaufbau wider und vermittelt, dass ein vollständiges Leben sowohl Substanz als auch Ausgewogenheit braucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein leicht verständlicher Kommentar zur Nachkriegszeit."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederholte Zeile „All that meat and no potatoes“ als zentrales Motiv."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen eine sehr hohe Rate an erfundenen Aussagen (≈85‑90 %). Die Tiefe ist durchweg niedrig bis oberflächlich; keine Interpretation liefert eine fundierte, textbasierte Analyse.",
+    "empfehlung": "Ein besserer Ansatz wäre, sich strikt an das im Text vorkommende Vokabular und die wiederholten Phrasen zu halten, diese zu zählen und nur daraus Schlussfolgerungen zu ziehen. Vermeiden Sie unbegründete historische oder biografische Kontextualisierungen, die nicht im Songtext verankert sind. So lässt sich die Balance zwischen Texttreue und analytischer Tiefe deutlich erhöhen."
+  }
+}

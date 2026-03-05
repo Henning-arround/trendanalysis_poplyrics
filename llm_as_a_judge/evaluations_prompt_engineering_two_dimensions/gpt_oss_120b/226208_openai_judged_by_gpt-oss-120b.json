@@ -1,0 +1,100 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Mehrdeutigkeit erzeugt eine affektive Spannung: einerseits Hoffnung („Right from the day I was born“), andererseits Resignation gegenüber einer „violent place“.",
+          "Der Song ist ein Spiegel der kulturellen Zwiespältigkeit der späten 1980er‑Jahre."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textzeilen mit historischen Kontexten (Ende des Kalten Krieges).",
+          "Klare Analyse von Metaphern (Storm, eye of the storm, edge of a knife).",
+          "Erkennt die Ambivalenz des Textes und bleibt dabei textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt offen.",
+          "Ohne jedoch explizit zu benennen, welche Konflikte gemeint sind."
+        ],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Symbolik (Storm, eye of the storm).",
+          "Einbettung in den historischen Kontext von 1989 (Ende des Kalten Krieges).",
+          "Gute Balance zwischen Textbezug und Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die offene Frage lässt jedoch offen, welche Seite die Gesellschaft tatsächlich wählt.",
+          "Die Unsicherheit des Protagonisten spiegelt die allgemeine Unsicherheit der Zeit wider."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Fragmentierung der Liedstruktur.",
+          "Verknüpft die Metapher des Sturms mit persönlicher und gesellschaftlicher Zerrissenheit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Mehrdeutigkeit lässt den Hörer zwischen Hoffnung und Gefahr schwanken, ohne dass der Text eine klare Lösung anbietet."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der rhetorischen Gegenüberstellungen (who’s wrong / who’s right, understand / care).",
+          "Korrekte historische Einordnung (Ende des Kalten Krieges, Friedensdebatten)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die offene Formulierung lässt die Verantwortung beim Hörer, ohne klare moralische Vorgabe.",
+          "Der Song wirkt gleichzeitig kritisch und resignativ."
+        ],
+        "positive_aspekte": [
+          "Klare Darstellung des Sturms als Symbol für globale Gewalt und innere Unruhe.",
+          "Einbindung des historischen Kontextes von 1989."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernmetaphern (Storm, eye of the storm, moralische Gegenüberstellungen) auf; die Varianz liegt hauptsächlich im Detailgrad der Analyse. Die Scores zeigen, dass die meisten Modelle textnah arbeiten, jedoch bei Oberflächlichkeit leicht variieren.",
+    "empfehlung": "Interpretationen, die sowohl den historischen Kontext korrekt einbinden als auch die Bildsprache des Textes detailliert analysieren (z. B. Interpretation 3), erzielen die höchste kombinierte Punktzahl. Künftige Modelle sollten darauf achten, vage Generalisierungen zu vermeiden und stattdessen konkrete Textbelege zu nutzen, um die analytische Tiefe zu erhöhen."
+  }
+}

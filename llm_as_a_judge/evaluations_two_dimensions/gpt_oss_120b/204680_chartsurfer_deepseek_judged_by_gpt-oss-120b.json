@@ -1,0 +1,95 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Unsicherheit und Eifersucht interpretiert werden, die mit der Bitte einhergeht, exklusiv geliebt zu werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf fast jede Textzeile.",
+          "Erklärt die metaphorische Bedeutung des Refrains.",
+          "Erwähnt die instrumentale Pause und deren mögliche Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogen, jede Zeile wird analysiert.",
+          "Bietet eine klare, aber differenzierte Interpretation (z. B. Endlichkeit des Lebens als Metapher).",
+          "Keine spekulativen biografischen oder historischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Unsicherheit und Eifersucht interpretiert werden, die mit der Bitte einhergeht, exklusiver Partner zu sein."
+        ],
+        "oberflächliche_aussagen": [
+          "Die instrumentale Pause ... schafft eine intime Atmosphäre, die die Zuneigung und Sehnsucht noch unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Alle Textstellen werden benannt und erklärt.",
+          "Metapher „till all our sweet music is gone“ wird sinnvoll interpretiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Unsicherheit und Eifersucht interpretiert werden, die mit der Bitte einhergeht, exklusiv geliebt zu werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Text und möglicher emotionaler Wirkung der instrumentalen Pause."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Unsicherheit und Eifersucht interpretiert werden, die mit der Bitte einhergeht, exklusiv geliebt zu werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Analyse der wiederholten Zeilen.",
+          "Erklärt die metaphorische Endlichkeit des Refrains."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt fast ausschließlich in einer einzelnen spekulativen Aussage pro Text.",
+    "empfehlung": "Interpretation 1 liefert die höchste Faktentreue und gleichzeitig eine substantielle, textbasierte Analyse. Für zukünftige Modelle sollte der Fokus darauf liegen, spekulative Emotionen (z. B. Eifersucht) nur dann zu erwähnen, wenn sie klar aus dem Text ableitbar sind, um Halluzinations‑Score zu minimieren."
+  }
+}

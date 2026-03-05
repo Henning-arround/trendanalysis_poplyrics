@@ -1,0 +1,95 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen und historischen Kontext der späten 1990er Jahre kann der Song auch als eine Auseinandersetzung mit den Auswirkungen von Modernisierung und Technisierung auf die menschliche Erfahrung gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs ist geprägt von einer Mischung aus Euphorie und Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Mehrdeutigkeit des Songs und bietet eine plausible Erklärung für die Texte."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen und historischen Kontext der späten 1990er Jahre kann der Song auch als eine Auseinandersetzung mit den Auswirkungen von Technologie und Globalisierung auf die menschliche Erfahrung gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs ist geprägt von einer Mischung aus Enthusiasmus, Distanz und Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Erklärung für die Texte, aber einige Aussagen sind etwas oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs ist geprägt von einer Mischung aus Euphorie und Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und bietet eine plausible Erklärung für die Texte."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen und historischen Kontext der späten 1990er Jahre kann der Song auch als eine Auseinandersetzung mit den Auswirkungen von Technologie und Globalisierung auf die menschliche Erfahrung gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs ist geprägt von einer Mischung aus Enthusiasmus, Distanz und Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Erklärung für die Texte, aber einige Aussagen sind etwas oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs ist geprägt von einer Mischung aus Euphorie und Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und bietet eine plausible Erklärung für die Texte."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Bewertung.",
+    "empfehlung": "Die Interpretationen 3 und 5 sind aufgrund ihrer Faktentreue und analytischen Tiefe empfehlenswert."
+  }
+}

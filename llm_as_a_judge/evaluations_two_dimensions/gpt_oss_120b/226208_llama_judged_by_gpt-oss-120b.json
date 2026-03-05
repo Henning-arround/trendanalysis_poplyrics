@@ -1,0 +1,89 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse einzelner Zeilen",
+          "Klare Verknüpfung von Wortwahl und interpretierter Bedeutung",
+          "Keine spekulativen biografischen oder historischen Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Aufschlüsselung fast jeder Textzeile",
+          "Stetige Rückbeziehung zum zentralen Motiv „eye of the storm“",
+          "Vermeidet unbegründete Kontextualisierungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Interpretation des Appell‑Charakters des Songs",
+          "Gute Balance zwischen Wiederholung und neuer Formulierung",
+          "Alle Aussagen lassen sich eindeutig aus dem Text ableiten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die Perspektive des Sängers",
+          "Verknüpft Wunsch nach Frieden mit konkreten Textstellen",
+          "Bleibt strikt beim vorhandenen Wortmaterial"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betont den schützenden Charakter des „eye of the storm“",
+          "Stellt die Dringlichkeit der Friedenssuche klar heraus",
+          "Keine spekulativen historischen oder biografischen Angaben"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Sehr hoch – alle fünf Interpretationen wiederholen im Wesentlichen dieselben textbasierten Aussagen, wodurch die Varianz gering ist.",
+    "empfehlung": "Alle Modelle liefern faktentreue, textnahe Analysen. Für zukünftige Aufgaben sollte ein stärkeres Gewicht auf differenzierte, mehrdeutige Lesarten gelegt werden, um die Tiefe‑Score weiter zu erhöhen, ohne die Faktentreue zu gefährden."
+  }
+}

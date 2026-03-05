@@ -1,0 +1,98 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung einer bewusst eingesetzten Verführung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird als eine Art dunkle Magie porträtiert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das Bild einer verführerischen Hexerei mit den intensiven Empfindungen einer leidenschaftlichen Liebesbeziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee einer bewusst eingesetzten Verführung",
+          "Die Vorstellung einer fast schicksalhaften Dimension"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird als ein Zauber dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Anziehungskraft als jenseits rationaler Kontrolle"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung einer paradoxen Elemente in der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird als ein paradoxes Element dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das Bild einer verführerischen Hexerei mit den intensiven Empfindungen einer leidenschaftlichen Liebesbeziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee einer fast schicksalhaften Dimension",
+          "Die Vorstellung einer bewusst eingesetzten Verführung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird als ein Zauber dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Anziehungskraft als jenseits rationaler Kontrolle"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das Bild einer verführerischen Hexerei mit den intensiven Empfindungen einer leidenschaftlichen Liebesbeziehung",
+          "Die Interpretation beschreibt die Anziehungskraft als jenseits rationaler Kontrolle"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die beste Interpretation (Nummer 5) zeigt eine hohe Textreue und analytische Tiefe",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet kreative, aber unbelegte Aussagen"
+  }
+}

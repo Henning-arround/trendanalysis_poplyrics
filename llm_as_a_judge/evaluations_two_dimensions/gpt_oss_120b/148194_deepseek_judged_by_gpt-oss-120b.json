@@ -1,0 +1,122 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin wird von einem Auto angehalten (Auto wird nicht erwähnt).",
+          "Der Polizist stellt fest, dass sie betrunken ist (steht im Text nicht).",
+          "Sie versucht, den Polizisten zu überzeugen, dass sie nicht bestraft werden soll (nicht im Text)."
+        ],
+        "oberflächliche_aussagen": [
+          "Sie weiß, dass sie nicht mehr die Kontrolle über ihr Leben hat und dass die Liebe sie in einen Zustand der Abhängigkeit gebracht hat (vage Interpretation).",
+          "Insgesamt beschreibt der Song … (Zusammenfassung ohne neue Analyse)."
+        ],
+        "positive_aspekte": [
+          "Verweist konsequent auf zentrale Textstellen (Götter der Liebe, Zustand der Desarray, Officer‑Zitat).",
+          "Erkennt das Motiv des Rausches/Intoxikation durch Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin wird von einem Auto angehalten (Auto wird nicht erwähnt).",
+          "Der Polizist sagt, sie sei betrunken (steht nicht im Text).",
+          "Sie versucht, den Polizisten zu überzeugen, dass sie nicht bestraft werden soll (nicht im Text)."
+        ],
+        "oberflächliche_aussagen": [
+          "Sie weiß, dass sie nicht mehr die Kontrolle über ihr Leben hat und dass die Liebe sie in einen Zustand der Abhängigkeit gebracht hat (vage).",
+          "Insgesamt beschreibt der Song … (nur Wiederholung)."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf mehrere konkrete Textpassagen (Götter der Liebe, Desarray, Officer‑Zitat).",
+          "Erklärt das Bild des Liebesrausches klar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Sie wird von einem Auto angehalten und ist „offensichtlich betrunken“ (Auto und offensichtliche Trunkenheit fehlen).",
+          "Sie erklärt dem Polizisten, sie sei nur „betrunken auf Liebe“ (wird nicht gesagt).",
+          "Sie ist „schwindelig“ (Schwindel wird nicht erwähnt).",
+          "Sie nutzt die Situation, um den Polizisten um Nachsicht zu bitten (steht nicht im Text).",
+          "Sie argumentiert, dass ihr Zustand ein Grund für Nachsicht sei (nicht im Text)."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Hymne an die Liebe interpretiert werden, die Menschen in Ekstase versetzt (allgemeine Interpretation).",
+          "Die Protagonistin nimmt die Realität nicht mehr wahr und kümmert sich nicht um Konsequenzen (vage).",
+          "Der Song zeigt, wie Liebe Menschen verändern kann und zu einem wichtigen Teil des Lebens wird (allgemein)."
+        ],
+        "positive_aspekte": [
+          "Zitiert konkrete Textbilder („Augen so weit aufgerissen wie offene Bücher“, „Götter der Liebe“, Officer‑Zitat).",
+          "Verknüpft das Motiv des Rausches mit dem Bild des „state of disarray“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin wird von einem Auto angehalten (Auto wird nicht erwähnt).",
+          "Der Polizist stellt fest, dass sie betrunken ist (steht nicht im Text).",
+          "Sie versucht, den Polizisten zu überzeugen, dass sie nicht bestraft werden soll (nicht im Text)."
+        ],
+        "oberflächliche_aussagen": [
+          "Sie weiß, dass sie nicht mehr die Kontrolle über ihr Leben hat und dass die Liebe sie in einen Zustand der Abhängigkeit gebracht hat (vage).",
+          "Insgesamt beschreibt der Song … (nur Wiederholung)."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf zentrale Textstellen (Götter der Liebe, Desarray, Officer‑Zitat).",
+          "Erklärt das Bild des Liebesrausches klar."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin wird von einem Auto angehalten (Auto wird nicht erwähnt).",
+          "Der Polizist stellt fest, dass sie betrunken ist (steht nicht im Text).",
+          "Sie versucht, den Polizisten zu überzeugen, dass sie nicht bestraft werden soll (nicht im Text)."
+        ],
+        "oberflächliche_aussagen": [
+          "Sie weiß, dass sie nicht mehr die Kontrolle über ihr Leben hat und dass die Liebe sie in einen Zustand der Abhängigkeit gebracht hat (vage).",
+          "Insgesamt beschreibt der Song … (nur Wiederholung)."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf mehrere konkrete Textpassagen (Götter der Liebe, Desarray, Officer‑Zitat).",
+          "Erklärt das Bild des Liebesrausches klar."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Sehr hoch – alle fünf Modelle liefern fast identische Inhalte, wodurch die Varianz gering ist.",
+    "empfehlung": "Alle Modelle zeigen ähnliche Stärken und Schwächen: sie wiederholen zentrale Bildsprache des Songs, aber fügen zahlreiche nicht belegte Details ein. Für eine bessere Bewertung sollte das Modell streng zwischen belegten Textstellen und spekulativen Ergänzungen unterscheiden und mehr analytische Tiefe (z. B. Mehrdeutigkeit der Metaphern) ohne zusätzliche Erfindungen bieten."
+  }
+}

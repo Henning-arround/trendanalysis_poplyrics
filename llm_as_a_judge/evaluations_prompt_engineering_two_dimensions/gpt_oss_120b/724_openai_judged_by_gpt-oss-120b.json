@@ -1,0 +1,98 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Lied im Kontext der späten 1990er‑Jahre zu sehen, einer Phase, in der deutsche Synth‑Pop‑ und Industrial‑Acts wie And One technologische Ästhetik mit postmodernen Identitätsfragen verknüpften."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah, viele konkrete Bild‑ und Metaphern‑Analysen.",
+          "Verknüpft stilistische Beobachtungen mit inhaltlichen Spannungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emotional erzeugt das Stück eine Mischung aus nüchterner Resignation und unterschwelliger Euphorie, die im Kontext der späten 1990‑er‑Deutschpunk‑ und Synth‑Wave‑Szene als Reaktion auf post‑kalter Krieg‑Optimismus gelesen werden kann.",
+          "Die Anspielung auf „Mutter Erde“ und das Fehlen von Sehnsucht reflektiert eine Generation, die sich von traditionellen Naturverbundenheiten löst und stattdessen in technokratischen Räumen nach Identität sucht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Strukturierung der Analyse, viele Belege aus dem Text.",
+          "Gute Balance zwischen formaler und inhaltlicher Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Lied im Kontext der späten 1990‑er‑Deutsch‑Synth‑Szene zu verorten, einer Phase, in der digitale Kultur, Postmoderne und das Aufkommen des Internets das Selbstverständnis junger Menschen prägten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Argumentation.",
+          "Erklärt die Mehrdeutigkeit des Refrains sehr gut."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des späten Jahres 1990, nach der deutschen Wiedervereinigung, verortet sich And One im EBM‑ und Industrial‑Milieu, das häufig Themen von Entfremdung, technischer Kontrolle und postmodernen Identitätskrisen bearbeitet."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft stilistische Mittel mit gesellschaftlichem Hintergrund.",
+          "Gute Differenzierung von Ironie und Propaganda."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet sich das Stück im deutschen Synth‑Pop‑Milieu der späten 1990er‑Jahre, einer Phase, in der technologische Beschleunigung und postmoderne Identitätskrisen thematisiert wurden.",
+          "Die Anspielung auf Befehle und das Bild des „hochgeschickten“ Subjekts reflektiert das wachsende Gefühl von Kontrolle durch digitale Systeme, während die gleichzeitige Verneinung von Sehnsucht und die Unkenntnis („Niemand ahnt“) auf eine kulturelle Entfremdung von traditionellen Werten hindeuten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Offenheit lässt mehrere Deutungen zu: ein ironischer Kommentar zur Selbstzufriedenheit, ein Ausdruck von existenzieller Leere oder ein bewusstes Spiel mit der Unbestimmtheit, das die Hörer*innen im Spannungsfeld zwischen Sicherheit und Unsicherheit zurücklässt."
+        ],
+        "positive_aspekte": [
+          "Klare Aufschlüsselung von Bildsprache und Wiederholungen.",
+          "Gute Einordnung in das musikalische Milieu, wenn auch teilweise spekulativ."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen moderate Varianz; Interpretationen 2, 3 und 5 erreichen jeweils die höchste Kombination aus geringer Halluzination und hoher Tiefe, während Interpretation 4 mehr spekulative Kontextualisierungen enthält.",
+    "empfehlung": "Interpretationen, die eng am Text bleiben, klare Bild‑ und Metaphern‑Analysen liefern und nur minimal externe Kontextualisierungen einbringen (z. B. Interpretation 5), bieten das beste Gleichgewicht zwischen Texttreue und analytischer Tiefe."
+  }
+}

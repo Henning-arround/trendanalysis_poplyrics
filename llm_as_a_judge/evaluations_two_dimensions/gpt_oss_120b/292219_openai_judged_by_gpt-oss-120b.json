@@ -1,0 +1,136 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt wie ein nächtliches Geständnis … (Symbolik, nicht im Text genannt)",
+          "Die wiederkehrende Uhrzeit 4 Uhr morgens symbolisiert … (reine Interpretation)",
+          "Ein Bild für eine tiefe, vielleicht sogar romantische Bindung … (Spekulation über Romantik)"
+        ],
+        "oberflächliche_aussagen": [
+          "Das „Wollen, dass die Zeit endet“ spiegelt die Verzweiflung wider … (vage Deutung)",
+          "Die Zeilen verdeutlichen das Gefühl der Isolation … (allgemeine Aussage ohne Detail)",
+          "Das wiederholte „Goodbye, you never know“ wirkt wie ein resigniertes Abschiednehmen … (Standard‑Interpretation)",
+          "Der Wunsch, dass die Sonne nie aufgehe, ist ein Versuch … (allgemeine Metapher)",
+          "Ein Funken Hoffnung klingt durch, wenn … (typische Hoffnung‑Formulierung)",
+          "So wird das Lied zu einem zeitlosen Bekenntnis … (abstrakte Zusammenfassung)"
+        ],
+        "positive_aspekte": [
+          "Zählt viele konkrete Textstellen (z. B. „I just let you slip away“, „maybe someday“).",
+          "Erkennt wiederkehrende Motive (Zeit, Sonne, Goodbye) und verknüpft sie mit dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Monolog über Schuld … (Schuld wird nicht im Text erwähnt)",
+          "Das Schweigen wird zum Schuldgefühl, das den Protagonisten quält … (Erfindung)"
+        ],
+        "oberflächliche_aussagen": [
+          "Verzweiflung nach einem Ausweg aus dem Schmerz verdeutlicht … (vage)",
+          "Einseitige Kommunikation, Sprecher versucht vergeblich eine Brücke zu schlagen … (allgemein)",
+          "Der Wunsch, den Moment des Schmerzes zu erstarren … (standard‑Metapher)",
+          "Ein Funken Hoffnung … Möglichkeit einer späteren Versöhnung … (häufige Formulierung)",
+          "Insgesamt schildert der Text einen inneren Kampf … (Zusammenfassung ohne neue Analyse)"
+        ],
+        "positive_aspekte": [
+          "Sehr strukturiert, jede Textzeile wird mindestens einmal aufgegriffen.",
+          "Verbindet Symbolik (4 am) mit emotionalem Inhalt und zeigt Entwicklung von Verlust zu möglicher Hoffnung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Monolog über Schuld … (Schuld wird nicht genannt)",
+          "Die wiederholte Referenz auf 4 Uhr morgens symbolisiert … (reine Symbolik)",
+          "Versagen und Selbstvorwurf werden vermittelt … (Interpretation, nicht im Text)",
+          "Das Wort „pretend“ andeutet Unsicherheit … (Spekulation)"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain spiegelt die Verzweiflung wider … (allgemeine Aussage)",
+          "„Goodbye, you never know“ wirkt wie ein resigniertes Abschiednehmen … (Standard‑Deutung)",
+          "„Hold a little tighter“ ist ein letzter Versuch … (häufige Formulierung)",
+          "Die Zeile „I wish the sun would never come“ verdeutlicht das Verlangen … (allgemein)",
+          "Insgesamt schildert das Lied einen inneren Kampf … (Zusammenfassung)"
+        ],
+        "positive_aspekte": [
+          "Alle relevanten Textzeilen werden genannt und korrekt zugeordnet.",
+          "Erkennt das Spannungsfeld zwischen Loslassen und Festhalten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stunde wird zum Symbol für das innere Dunkel des Erzählers … (reine Symbolik)",
+          "Das Bild einer fast heiligen Stunde … (Erfindung)"
+        ],
+        "oberflächliche_aussagen": [
+          "Verlust und unerfüllte Kommunikation … (zu allgemein)",
+          "Einseitige Verzweiflung … (vage)",
+          "Motiv des Loslassens verstärkt das Bild einer Beziehung, die im Schweigen erstickt … (Standard‑Interpretation)",
+          "Refrain fungiert als Mantra … (allgemein)",
+          "Wunsch nach Wiedervereinigung … (häufige Formulierung)",
+          "Zeile über Sonne verdeutlicht das Verlangen … (allgemein)",
+          "Goodbye betont Ungewissheit … (standard‑Deutung)"
+        ],
+        "positive_aspekte": [
+          "Durchgehend Bezug zu konkreten Textstellen (z. B. „hear“, „listen“, „maybe someday“).",
+          "Verknüpft wiederkehrende Motive (Uhrzeit, Sonne, Goodbye) mit einer kohärenten Bildsprache."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„4 am forever“ fungiert als Symbol für einen endlosen, dunklen Zustand … (reine Symbolik)",
+          "Das Wort „letting go“ ist doppeldeutig … (Interpretation ohne Textbeleg)"
+        ],
+        "oberflächliche_aussagen": [
+          "Nächtliche Verzweiflung … (vage)",
+          "Frage nach der Heilung des Herzens offenbart Unsicherheit … (allgemein)",
+          "Gefühl, nicht gehört zu werden … (Standard‑Deutung)",
+          "Innerer Konflikt zwischen Nähe‑Bedürfnis und Unfähigkeit … (häufige Formulierung)",
+          "Wunsch, dass die Sonne nie aufgeht … (allgemein)",
+          "Insgesamt ein fast zeitloser Raum des Trauerns … (Zusammenfassung)"
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Zuordnung von Zitaten zu jeweiligen Analyse‑Abschnitten.",
+          "Erkennt die Mehrdeutigkeit von „letting go“ und verbindet sie mit dem Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernmotive (4 am, Goodbye, Sonne, Wunsch zu hören) auf; die Varianz liegt vor allem im Umfang der spekulativen Symbolik. Die drei Top‑Interpretationen (1, 2, 4) zeigen die geringste Halluzinationsrate und die höchste Textnähe.",
+    "empfehlung": "Interpretationen, die fast ausschließlich belegbare Textstellen nutzen und nur wenige, klar gekennzeichnete Symboldeutungen einbringen (wie Interpretation 1), bieten die beste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Aussagen",
+          "Nennung konkreter Song‑Elemente (Hawaii‑Five‑0‑Referenz, Clown, „Dominion“, wiederholte Zeile)",
+          "Klare, nachvollziehbare Interpretation ohne spekulative Biografie‑ oder Genre‑Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse der zentralen Motive (Zirkus, Clown, Droge „Dominion“)",
+          "Verknüpfung von Textpassagen mit ihrer interpretativen Bedeutung",
+          "Keine unbelegten biografischen oder stilistischen Behauptungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Wiederholung der wichtigsten Textbezüge",
+          "Erklärung der wiederholten Zeile als Hinweis auf Unaufhaltsamkeit",
+          "Stilistisch klar und fokussiert auf den Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Identifikation der „Dominion“-Substanz und ihrer Funktion",
+          "Verbindung von Stimmung (dunkel, bedrohlich) mit konkreten Textstellen",
+          "Vermeidung von spekulativen Kontextualisierungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Strukturierung der Analyse (Einleitung, Hauptteil, Schluss)",
+          "Ausführliche Beschreibung der metaphorischen Kraft des Zirkus",
+          "Stichhaltige Ableitung aller Aussagen aus dem Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich identisch und zeigen damit eine sehr hohe Konsistenz (keine Varianz in Halluzinations‑ und Tiefe‑Scores).",
+    "empfehlung": "Die vorliegenden Interpretationen sind alle faktentreu und textbezogen. Für zukünftige Bewertungen sollte man darauf achten, dass neben der faktischen Richtigkeit auch mehr analytische Tiefe (z. B. Mehrdeutigkeiten, mögliche Gegeninterpretationen) eingebracht wird, um den Tiefe‑Score weiter zu erhöhen."
+  }
+}

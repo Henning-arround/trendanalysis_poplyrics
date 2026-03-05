@@ -1,0 +1,95 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Nähe und die Aufforderung zum Bleiben spiegeln eine Sehnsucht nach Sicherheit und Beständigkeit inmitten der Beschleunigung des Alltagslebens wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Ausdruck der gegenwärtigen Diskussionen um Beziehungen, Selbstbestimmung und die Suche nach emotionaler Unterstützung in einer schnelllebigen Welt gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verbindung von körperlicher Nähe, emotionaler Unterstützung und der Notwendigkeit, den Tag zu beginnen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext verweist auf eine offene und direkte Kommunikation von Bedürfnissen und Verlangen in einer Beziehung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck einer veränderten Wahrnehmung von Beziehungen und Intimität in der heutigen Gesellschaft interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation hebt die selbstbewusste und fordernde Haltung der Protagonistin hervor."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Darstellung von weiblicher Sexualität und Intimität oft noch tabuisiert oder stereotypisiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeigt eine komplexe und vielschichtige Darstellung von Intimität, Sexualität und emotionaler Befriedigung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verbindung von körperlichen Genüssen und emotionaler Befriedigung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist durchgehend spezifisch und textanalytisch und berücksichtigt die kulturellen und gesellschaftlichen Kontexte."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gleichsetzung von Kaffee und Sex unterstreicht die Bedeutung von Genuss und Befriedigung in der Beziehung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen und gesellschaftlichen Kontext interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verbindung von körperlichen Genüssen und emotionaler Befriedigung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber die vierte Interpretation sticht durch ihre Faktentreue und analytische Tiefe hervor.",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine ausgewogene und textbasierte Analyse liefert."
+  }
+}

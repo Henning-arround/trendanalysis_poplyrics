@@ -1,0 +1,89 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Take away all the cameras' symbolisiert die Notwendigkeit, sich von der ständigen Beobachtung und Kontrolle durch die Gesellschaft zu befreien, um authentisch leben zu können."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Suche nach Authentizität und Wahrheit in einer Welt, die von Oberflächlichkeit und Kommerzialisierung geprägt ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die 'glorious contest to find the invincible one' kann als Metapher für die Suche nach Selbstfindung und Unverletzlichkeit verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Notwendigkeit, sich von Beschränkungen und Konventionen zu befreien, um wahrhaftig zu leben."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'time immemorial' unterstreicht die Zeitlosigkeit dieser Suche und die Notwendigkeit, sich auf die Essenz des Lebens zu konzentrieren."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Suche nach Authentizität und Wahrheit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ablehnung von 'money' und 'public' deutet darauf hin, dass wahre Beziehungen und Erfahrungen nicht käuflich sind."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Notwendigkeit, sich von alten Gewohnheiten und Konventionen zu befreien."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Take away all the cameras' symbolisiert die Notwendigkeit, sich von der ständigen Beobachtung und Kontrolle durch die Gesellschaft zu befreien."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Suche nach Authentizität und Wahrheit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Thematik, aber variieren in der Tiefe der Analyse.",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

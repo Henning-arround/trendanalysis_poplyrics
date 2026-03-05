@@ -1,0 +1,95 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin beschreibt auch die körperlichen Auswirkungen ihrer Gefühle, wie das 'Chills run up and down my spine', wenn sie an die geliebte Person denkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Aufruf nach Liebe und Verbindung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Gefühle von Einsamkeit und Traurigkeit, wenn die geliebte Person nicht anwesend ist, und die Freude und das Gefühl von Zeitverlust, wenn man mit ihr zusammen ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Chills und Schauern, wenn sie an die geliebte Person denkt, verdeutlicht die intensive emotionale Verbindung zwischen den beiden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Let's Get Together Soon' ein herzlicher und emotionaler Ausdruck von Liebe und Sehnsucht, der die Zuhörer mit seiner Authentizität und Sensibilität berührt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die tiefe Sehnsucht nach einer Wiedervereinigung und unterstreicht die Bedeutung der Beziehung für die Sängerin."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Let's Get Together Soon' ein herzlicher und emotionaler Ausdruck von Liebe und Sehnsucht, der die Zuhörer mit seiner Authentizität und Sensibilität berührt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Gefühle von Einsamkeit und Traurigkeit, wenn die geliebte Person nicht anwesend ist, und die Freude und das Gefühl von Zeitverlust, wenn man mit ihr zusammen ist."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin zweifelt jedoch, ob die andere Person ihre Gefühle erwidert, und sich fragt, ob es richtig oder falsch ist, so intensiv zu empfinden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Let's Get Together Soon' ein herzlicher und emotionaler Ausdruck von Liebe und Sehnsucht, der die Zuhörer mit seiner Authentizität und Verletzlichkeit berührt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die tiefe Sehnsucht nach einer Wiedervereinigung und unterstreicht die Bedeutung der Beziehung für die Sängerin."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Worten wie 'cry', 'chills run up and down my spine' und 'all my heart seems to do' unterstreicht die Intensität der Emotionen und die Verletzlichkeit der Sängerin."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Gefühle von Einsamkeit und Traurigkeit, wenn die geliebte Person nicht anwesend ist, und die Freude und das Gefühl von Zeitverlust, wenn man mit ihr zusammen ist."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Beschreibung der Gefühle und der Sehnsucht nach einer Wiedervereinigung.",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch untermalt das treibende Beat‑Muster von The Chemical Brothers die Dringlichkeit des Aufbruchs, während Becks leicht rauer Gesang die menschliche Verletzlichkeit betont."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah, fast jede Aussage lässt sich direkt aus den wiederholten Zeilen ableiten.",
+          "Gute Balance zwischen konkreter Analyse und offener Interpretation von Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die musikalische Struktur – repetitive Beats und tranceartige Wiederholungen – den psychologischen Prozess des Durchdringens und Loslassens akustisch nachzeichnet."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Metaphern (Schatten, Stein, Sonne) werden konsequent durch den gesamten Text verfolgt.",
+          "Erklärt den Übergang von Dunkelheit zu Licht sehr anschaulich."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die instrumentale Brücke lässt den Hörer in diesem Übergang verweilen, während die Stimme von Beck die emotionale Spannung zwischen Verlorenheit und Aufbruch vermittelt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Bildsprache rund um den „springenden Stein“ und das Wasser‑Motiv.",
+          "Verknüpft die wiederholten Textpassagen geschickt mit einer narrativen Entwicklung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Komplett faktentreu – keine Aussagen, die nicht aus dem Songtext ableitbar sind.",
+          "Tiefe Analyse, die sowohl die Wiederholungen als strukturelles Mantra als auch die emotionale Dynamik herausarbeitet."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare, textbasierte Interpretation ohne spekulative Ergänzungen.",
+          "Stellt den Song als Reise von Dunkelheit zu Befreiung dar und bleibt dabei eng am Wortlaut."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen die wiederholten Phrasen des Songs konsequent auf; die Varianz liegt hauptsächlich in der Menge spekulativer Musikinformationen (weniger bei 2 und 4).",
+    "empfehlung": "Interpretation 2 liefert die ausgewogenste Mischung aus faktentreuer Analyse und tiefgehender, textbasierter Interpretation. Für zukünftige Bewertungen sollte man darauf achten, Musikinformationen nur dann zu erwähnen, wenn sie im Ausgangsmaterial belegt ist."
+  }
+}

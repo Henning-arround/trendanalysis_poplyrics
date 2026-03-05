@@ -1,0 +1,95 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Refrain-Sequenz 'Hear no evil / See no evil / Speak no evil' verweist auf das klassische Symbol der drei weisenden Affen, das hier jedoch als zynischer Kommentar zur kollektiven Verdrängung von Schuld und Gewalt gelesen werden kann, besonders im Kontext von Zeilen wie 'A heinous crime / It wasn't meant to be'"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse des Songtextes und seiner Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung scheinbar zusammenhangloser Objekte ('A patent shoe / A wider belt / A leaking pen') wirft ein Bild von Überfluss an Hinweisresten, die jedoch nie zu einer klaren Auflösung führen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Interpretation bleibt jedoch teilweise oberflächlich, indem sie allgemeine Aussagen über die postmoderne Informationsgesellschaft trifft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Stilistik und der historischen Verortung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Walls have ears / Burning / A vital clue' impliziert ein Bewusstsein für Überwachung und das Feuer der Erkenntnis, das jedoch gleichzeitig als gefährlich und zerstörerisch dargestellt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Interpretation bleibt teilweise oberflächlich, indem sie allgemeine Aussagen über die Unmöglichkeit, alle Hinweise zu sammeln, trifft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Stilistik und der historischen Verortung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Spannung zwischen Sichtbarkeit und Verbergen erzeugt ein paradoxes Bewusstsein von Sichtbarkeit und Verbergen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Interpretation bleibt teilweise oberflächlich, indem sie allgemeine Aussagen über die postmoderne Informationsgesellschaft trifft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Stilistik und der historischen Verortung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Interpretation bleibt weitgehend oberflächlich, indem sie allgemeine Aussagen über die Unmöglichkeit, alle Hinweise zu sammeln, trifft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Stilistik des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in ihrer Bewertung",
+    "empfehlung": "Die erste Interpretation bietet die beste Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

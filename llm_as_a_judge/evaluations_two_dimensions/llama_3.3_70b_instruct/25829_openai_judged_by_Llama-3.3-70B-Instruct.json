@@ -1,0 +1,99 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gesellschaft, die sich in Ablenkungen verliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von innerer Leere"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der ironischen Selbstironie und gesellschaftlichen Kritik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen äußerer Fassade und innerem Zustand"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Verlangen nach Distanz und Flucht"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der popkulturellen Referenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach einer glanzvollen, fast märchenhaften Vergangenheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Entfremdung und Selbsttäuschung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Lähmung und des Unwillens, aufzustehen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die resignierte Gleichgültigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bedürfnis nach Kontakt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der surrealen Anker und der mythischen Selbstüberschätzung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Absurdität des eigenen Lebens"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Sinnlosigkeit, dem Verfall und dem Wunsch nach einem Ausweg"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der lähmenden Apathie und der passiven Haltung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Songtexte, aber es gibt einige Variationen in der Tiefe und der Halluzination",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch wichtig, die anderen Interpretationen zu berücksichtigen, um eine umfassendere Analyse des Songs zu erhalten."
+  }
+}

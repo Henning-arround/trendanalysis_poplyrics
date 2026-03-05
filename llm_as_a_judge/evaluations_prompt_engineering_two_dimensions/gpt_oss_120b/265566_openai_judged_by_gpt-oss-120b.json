@@ -1,0 +1,108 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Spannung zwischen Hoffnung und Resignation lässt das Publikum zwischen den Polen schwanken.",
+          "Die Wiederholungen erzeugen ein musikalisches Mantra, das die lyrische Struktur mit der elektronischen Tanzmusik‑Ästhetik von Schulz und Jaehn verknüpft.",
+          "Die Produktion selbst ist ein kulturelles Zeichen der post‑pandemischen Sehnsucht nach kollektiver Ausgelassenheit.",
+          "Im gesellschaftlichen Kontext 2021 reflektiert das Stück das kollektive Bedürfnis nach „letztem“ Genuss, während es gleichzeitig die Unmöglichkeit, das „goodbye“ endgültig zu vollziehen, betont."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Textbezüge (Herz/Spirit, Licht/Schwarz, Tanz) werden konsequent analysiert.",
+          "Die Interpretation verbindet die lyrische Wiederholung mit der EDM‑Ästhetik, was den Stil des Songs berücksichtigt.",
+          "Wenig vage Allgemeinplätze – fast alle Aussagen lassen sich auf den Text zurückführen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Spannung zwischen Finalität und Unendlichkeit spiegelt die postmoderne Erfahrung von Beziehungen wider.",
+          "Das wiederholte „One more time“ fungiert als kollektiver Appell zur Wiederholung von Ritualen, die soziale Bindungen sichern.",
+          "Die Textstruktur lässt die Frage nach dem wahren Charakter des letzten Kusses ungelöst, wodurch der Song Raum für individuelle Deutungen lässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen Endlichkeit und Wiederholung wird als zentrale kulturelle Erfahrung unserer Zeit betont."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Bildmotive (Licht, Feuer, Tanz) und verknüpft sie mit konkreten Textzeilen.",
+          "Erklärt die Ambivalenz der Metaphern und zeigt, wie sie unterschiedliche Gefühle transportieren können."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle Kontext 2021 (Pandemie‑Erfahrungen) lässt das Motiv des „noch einmal“ als Reflexion einer Gesellschaft verstehen, die trotz wiederholter Krisen nach Kontinuität und emotionaler Stabilität strebt.",
+          "Die Spannung zwischen dem Wunsch nach Dauer („hold me like it was forever“) und der Anerkennung von Endlichkeit („last sunset“) spiegelt ein breiteres Spannungsfeld zwischen individueller Resilienz und kollektiver Vergänglichkeit wider."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse, die jede Metapher mit einer konkreten Interpretation verknüpft.",
+          "Erkennt die fragmentarische Erzählstruktur und erklärt deren Bedeutung für die thematische Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Spannung zwischen Endlichkeit und Unendlichkeit erzeugt eine thematische Komplexität, die das Verlangen nach Dauerhaftigkeit in einer Kultur der schnellen, temporären Erlebnisse reflektiert.",
+          "Das wiederholte Motiv des „last kiss“ fungiert als Symbol für das letzte, aber zugleich wiederholbare Ritual des Abschieds, das in einer postmodernen Ästhetik von Wiederholung und Remix‑Kultur verankert ist.",
+          "Im kulturellen Kontext des Jahres 2021, geprägt von Pandemie‑Unsicherheiten und einer verstärkten Sehnsucht nach intimen, aber zugleich flüchtigen Erlebnissen, lässt sich das Lied als Ausdruck kollektiver Resilienz lesen.",
+          "Die wiederholte Aufforderung, „hold me like it was forever“, spiegelt das Bedürfnis nach beständiger Nähe in einer Zeit temporärer Isolation wider, während die gleichzeitige Betonung von „making fire with every heartbeat“ die Selbstinszenierung von Leidenschaft als Widerstand gegen äußere Beschränkungen thematisiert.",
+          "Die offenen Widersprüche zwischen „last“ und „one more time“ bleiben ungelöst und verdeutlichen die ambivalente Haltung einer Gesellschaft, die sowohl Abschied als auch Wiederholung zugleich begehrt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft Textanalyse mit einem breiten kulturellen Kontext, ohne zu stark zu verallgemeinern.",
+          "Erklärt die strukturelle Fragmentierung des Songs und deren Wirkung auf die Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des Jahres 2021, post‑pandemische Unsicherheit, resoniert das Motiv des „letzten“ Moments mit kollektiven Erfahrungen von Verlust und dem Wunsch nach erneuter Verbundenheit.",
+          "Die wiederholte Aufforderung „One more time“ kann als Spiegel gesellschaftlicher Sehnsucht nach einem zweiten Anlauf verstanden werden, zugleich bleibt unaufgelöst, ob das „noch einmal“ ein Rückgriff auf vergangene Normalität oder ein Versuch ist, neue Narrative zu etablieren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Bildsprache (Licht, Feuer, Tanz) und ihrer Ambivalenz.",
+          "Betont bewusst die offene, mehrdeutige Natur des Textes und liefert damit eine tiefgehende, textbasierte Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 4.8,
+    "konsistenz_über_wiederholungen": "Die Halluzinationsraten variieren zwischen 2 und 3, wobei Interpretationen 2 und 4 die meisten spekulativen Aussagen enthalten. Die Tiefen‑Scores sind durchweg hoch (4‑5), was auf eine konsistente Textnähe hinweist.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus texttreuer Analyse und tiefgehender, aber nicht spekulativer Interpretation. Für zukünftige Bewertungen sollte darauf geachtet werden, kulturelle Kontextualisierungen stärker an nachweisbare Textbezüge zu knüpfen, um Halluzinationen zu minimieren."
+  }
+}

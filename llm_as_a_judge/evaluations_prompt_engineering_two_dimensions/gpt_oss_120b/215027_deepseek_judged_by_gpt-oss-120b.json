@@ -1,0 +1,135 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, der Studentenbewegung und der Suche nach neuen Formen der Freiheit und Liebe.",
+          "Der Song ... kann als ein Teil dieser Bewegung interpretiert werden, der für eine offene und liebevolle Gesellschaft eintritt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als ein emotionaler und optimistischer Beitrag zur damaligen Diskussion um Liebe und Freiheit interpretiert werden.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, tragen dazu bei, eine positive und emotionale Atmosphäre zu schaffen.",
+          "Die Verwendung von Refrains und Wiederholungen ... schafft eine affektive Dimension, die den Hörer zum Träumen und zur Sehnsucht nach Liebe einlädt.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden.",
+          "Insgesamt kann der Song als ein Aufruf zu einem Leben in Liebe, Harmonie und Freiheit verstanden werden, der die Zuhörer dazu einlädt, von einer besseren Welt zu träumen."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textbelege werden korrekt zitiert (z. B. Metapher „Ich geh' wie auf Wolken…“).",
+          "Erkennt die utopische Vision und das Symbol „Festival der Liebe“.",
+          "Bietet eine nachvollziehbare Analyse der Symbolik („Straße ins Glück“, „Ein Festival der Liebe“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, wie der Studentenbewegung und der sexuellen Revolution.",
+          "Der Song ... kann als ein Ausdruck dieser Veränderungen gesehen werden, der für eine offene und liebevolle Gesellschaft eintritt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als ein emotionaler und optimistischer Beitrag zur damaligen Diskussion um Liebe und Freiheit interpretiert werden.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die Verwendung von Wiederholungen, wie z.B. \"Oh‑oh, ah‑ah\", erzeugt eine hypnotische Wirkung und unterstreicht die emotionale Intensität des Songs.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre interpretiert werden.",
+          "Insgesamt kann der Song als ein optimistischer Beitrag zur Diskussion um Liebe und Freiheit in den 1970er Jahren interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textzitaten mit konkreten Interpretationen (Metapher, Wiederholungen).",
+          "Erklärt, wie das Bild von „Wolken“ und „riesengroß“ das Glücksgefühl ausdrückt.",
+          "Bezieht den historischen Kontext ein, wenn auch teilweise spekulativ, was die Analyse breiter macht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, die auch die Musikszene beeinflussten.",
+          "Der Song ... kann als ein Ausdruck der Sehnsucht nach Freiheit und Liebe in einer Zeit gesehen werden, in der traditionelle Werte und Normen in Frage gestellt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als ein emotionaler und optimistischer Beitrag zur damaligen Diskussion um Liebe und Freiheit interpretiert werden.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die emotionale Wirkung des Songs.",
+          "Die Wiederholung des Refrains und die Verwendung von Interjektionen ... verstärken die emotionale Wirkung und schaffen eine Atmosphäre der Euphorie.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden.",
+          "Diese Vision ist jedoch auch ambig, da sie eine gewisse Naivität und Utopie enthält, die möglicherweise nicht realisierbar ist.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige Botschaft, die sowohl emotionale als auch kulturelle und historische Aspekte umfasst."
+        ],
+        "positive_aspekte": [
+          "Zitiert zentrale Textstellen und erklärt deren Symbolik (z. B. „Straße ins Glück“).",
+          "Erkennt die wiederholende Struktur des Refrains und deren Wirkung.",
+          "Bietet einen Überblick über mögliche historische Einflüsse, auch wenn diese nicht im Text verankert sind."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Zeit war geprägt von sozialen und politischen Umbrüchen, der Studentenbewegung und der Suche nach neuen Formen der Freiheit und des Zusammenlebens.",
+          "Der Song ... kann als ein Ausdruck dieser Sehnsucht nach Veränderung und einem neuen Verständnis von Liebe und Beziehungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als ein emotionaler und optimistischer Beitrag zur damaligen Diskussion um Liebe und Freiheit interpretiert werden.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die emotionale Wirkung des Songs.",
+          "Die Wiederholung des Refrains und die Verwendung von Interjektionen ... verstärken die emotionale Wirkung und schaffen eine Atmosphäre der Euphorie.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der frühen 1970er Jahre betrachtet werden.",
+          "Allerdings bleibt die tiefe Bedeutungsebene des Songs ambivalent, da die Realisierung dieser utopischen Vision offen bleibt und die Widersprüche zwischen Ideal und Realität nicht explizit thematisiert werden."
+        ],
+        "positive_aspekte": [
+          "Identifiziert und erklärt zentrale Metaphern („Ich geh' wie auf Wolken“, „Straße ins Glück“).",
+          "Verknüpft Textzitate mit einer Interpretation der Symbolik.",
+          "Erwähnt die Wiederholung von „Oh‑oh, ah‑ah“ und „Woah‑ahh“ als stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Zeit war geprägt von sozialen und kulturellen Veränderungen, einschließlich der sexuellen Revolution und der Friedensbewegung.",
+          "Der Song ... kann als Teil dieser Bewegung interpretiert werden, indem er für eine offene und liebevolle Gesellschaft wirbt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als ein emotionaler und optimistischer Beitrag zur damaligen Diskussion um Liebe und Freiheit interpretiert werden.",
+          "Die literarischen Stilmittel ... tragen dazu bei, eine positive und emotionale Atmosphäre zu schaffen.",
+          "Diese Narrative schafft eine emotionale Verbindung zum Hörer.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden.",
+          "Insgesamt spiegelt der Song die Hoffnung auf eine bessere, liebevollere Welt wider und lädt den Hörer ein, Teil dieses \"Festivals der Liebe\" zu sein."
+        ],
+        "positive_aspekte": [
+          "Erkennt die narrative Struktur des Textes (Zukunftsvision, Versöhnung).",
+          "Bezieht konkrete Textstellen ein, z. B. die Zeilen zu Sorgen, Streit und Versöhnungsbereitschaft.",
+          "Verknüpft die wiederkehrende Zeile „Ein Festival der Liebe“ mit ihrer Symbolfunktion."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Utopie, Liebe, 1970er‑Kontext). Die Varianz liegt hauptsächlich im Detailgrad der Textanalyse und im Anteil spekulativer historischer Einordnungen.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus textnaher Analyse und tiefergehender Interpretation, während sie nur wenige unbelegte historische Behauptungen enthält. Für zukünftige Bewertungen sollte der Fokus auf mehr textbasierte Argumentation und weniger generische Kontextualisierungen gelegt werden."
+  }
+}

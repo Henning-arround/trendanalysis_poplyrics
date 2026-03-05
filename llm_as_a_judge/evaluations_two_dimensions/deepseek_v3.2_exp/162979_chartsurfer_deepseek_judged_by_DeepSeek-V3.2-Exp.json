@@ -1,0 +1,99 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die wiederholte Klage 'All that meat and no potatoes' wird zum Refrain, der die Unzufriedenheit des Mannes unterstreicht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die wiederholte Klage 'All that meat and no potatoes' wird zum Refrain, der die Unzufriedenheit des Mannes unterstreicht."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die wiederholte Klage 'All that meat and no potatoes' wird zum Refrain, der die Unzufriedenheit des Mannes unterstreicht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die wiederholte Klage 'All that meat and no potatoes' wird zum Refrain, der die Unzufriedenheit des Mannes unterstreicht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die wiederholte Klage 'All that meat and no potatoes' wird zum Refrain, der die Unzufriedenheit des Mannes unterstreicht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr ähnlich und wiederholen sich stark.",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu diversifizieren und mehr auf die spezifischen Details des Songtextes einzugehen."
+  }
+}

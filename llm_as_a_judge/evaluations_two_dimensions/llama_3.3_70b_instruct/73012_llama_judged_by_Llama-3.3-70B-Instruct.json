@@ -1,0 +1,97 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Textzeilen und die rhythmische Struktur des Songs verstärken die Atmosphäre der Bedrohung und der Gefahr, die den Song durchzieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die schwarze Seele, die 'wohnt, wo kein Licht am Horizont' ist, symbolisiert die Dunkelheit und die Hoffnungslosigkeit, die durch diese Gewalt entsteht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Parallelen zwischen dem Kampf der Menschen und dem Kampf in der Natur und zeigt, dass Gewalt und Tod nicht nur auf den Schlachtfeldern, sondern auch in der Natur herrschen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Textzeilen und die rhythmische Struktur des Songs verstärken die Atmosphäre der Bedrohung und der Gefahr, die den Song durchzieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die schwarze Seele, die 'wohnt, wo kein Licht am Horizont' ist, kann als Symbol für die Dunkelheit und die Hoffnungslosigkeit verstanden werden, die durch die Gewalt und den Tod entsteht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zeigt, dass jeder auf seine eigene Art und Weise an dieser Gewalt und diesem Tod beteiligt ist, sei es als Täter oder als Opfer."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Textzeilen und die rhythmische Struktur des Songs verstärken die Atmosphäre der Bedrohung und der Gefahr, die den Song durchzieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die schwarze Seele, die 'wohnt, wo kein Licht am Horizont' ist, kann als Symbol für die Dunkelheit und die Hoffnungslosigkeit verstanden werden, die durch die Gewalt und den Tod entsteht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zeigt, dass jeder auf seine eigene Art und Weise an dieser Gewalt und diesem Tod beteiligt ist, sei es als Täter oder als Opfer."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Wo die schwarze Seele wohnt / Ist kein Licht am Horizont' deutet auf eine Art von spiritueller Leere oder Verzweiflung hin, die durch diese Gewalt und den Tod verursacht wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Tod, der auf den Weltmeeren herrscht, und zeigt, dass die Grenzen zwischen Mensch und Tier, zwischen Krieg und Jagd, verschwimmen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Aufforderung 'Reise, Reise' wie ein Echo durch die Zeit hallt und die Zuhörer an die universelle Gewalt und den Tod erinnert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die schwarze Seele, die 'wohnt, wo kein Licht am Horizont' ist, symbolisiert die Dunkelheit und die Hoffnungslosigkeit, die durch diese Gewalt entsteht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Parallelen zwischen dem Kampf der Menschen und dem Kampf in der Natur und zeigt, dass Gewalt und Tod nicht nur auf den Schlachtfeldern, sondern auch in der Natur herrschen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.7,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bleiben textgetreu und analysieren die Parallelen zwischen dem Kampf der Menschen und dem Kampf in der Natur.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die die Parallelen zwischen dem Kampf der Menschen und dem Kampf in der Natur thematisiert und zeigt, dass die Grenzen zwischen Mensch und Tier, zwischen Krieg und Jagd, verschwimmen."
+  }
+}

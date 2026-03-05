@@ -1,0 +1,115 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs aus dem Jahr 2002 bleibt im Text selbst eher unspezifisch, jedoch können die beschriebenen Szenarien … als typisch für eine bestimmte jugendliche Subkultur jener Zeit interpretiert werden.",
+          "Die Anspielungen auf Mode … erzeugen ein Panorama von Möglichkeiten und Erfahrungen, das sich einer eindeutigen Interpretation entzieht.",
+          "Insgesamt spiegelt … eine Momentaufnahme … die in ihrer Vielschichtigkeit und Ambiguität eine tiefere Auseinandersetzung … erfordert."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich klar aus konkreten Textzeilen ab (z. B. Interpretation von „I Lose My Liver In The Liverpool“, „Show Me Baby Where It Hurts / Kissing Snowflakes For Desert“).",
+          "Die Analyse geht über reine Wiederholungen hinaus und verbindet einzelne Zeilen zu zusammenhängenden Bildmotiven."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Jedoch können die Textelemente als Spiegelbild der damaligen Jugendkultur und ihrer Werte interpretiert werden.“ – keine Textstelle belegt das."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs aus dem Jahr 2002 bleibt bei einer oberflächlichen Analyse unterbelichtet.",
+          "Die affektive Dimension des Songs wird durch die expressive und teilweise provokative Sprache deutlich, die eine gewisse Anziehungskraft auf den Hörer ausübt.",
+          "Solche Bilder und Metaphern erzeugen eine Atmosphäre der Unwirklichkeit und heben die emotionale Wirkung des Songs hervor."
+        ],
+        "positive_aspekte": [
+          "Klare Bezüge zu einzelnen Zeilen („Saturday Night Nothing To Do“, „I Lose My Liver In The Liverpool“, „Kissing Snowflakes For Desert“).",
+          "Erkennt die Mehrdeutigkeit der Metaphern und benennt mögliche Lesarten."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die Liverpool‑Metapher selbst bleibt vage und lässt Raum für Interpretationen.“ – reine Spekulation.",
+          "„Bananafishbones als Band und ihr Song … können in diesem Kontext als Teil einer Bewegung gesehen werden …“ – keine Belege im Text."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs aus dem Jahr 2002 muss ebenfalls berücksichtigt werden.",
+          "Die Musik der frühen 2000er Jahre war geprägt von einer Vielzahl von Stilen und Einflüssen.",
+          "Insgesamt zeigt sich, dass der Song eine Vielzahl von Bedeutungsebenen … eröffnet einen Raum für vielfältige Lesarten."
+        ],
+        "positive_aspekte": [
+          "Wiederholte, aber konsistente Analyse der Kernzeilen („Show Me Baby Where It Hurts“, „I Lose My Liver In The Liverpool“).",
+          "Verknüpft die Textanalyse mit einem breiteren kulturellen Kontext, wenn auch oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Zeilen deuten auf eine tiefere emotionale Verbindung zwischen den Beteiligten hin.“ – nicht aus dem Text ableitbar.",
+          "„Die Musik der frühen 2000er Jahre war geprägt von einer Vielzahl von Stilen und Einflüssen.“ – historischer Kontext ohne Beleg."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs aus dem Jahr 2002 muss ebenfalls berücksichtigt werden.",
+          "Insgesamt zeigt sich, dass der Song eine Vielzahl von Bedeutungsebenen … eröffnet einen Raum für vielfältige Lesarten.",
+          "Die Liverpool‑Metapher selbst bleibt vage und lässt Raum für Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die Zeile „Show Me Baby Where It Hurts“ und verbindet sie mit dem Motiv der Verletzlichkeit.",
+          "Gibt einen kurzen Überblick über die stilistischen Mittel, die im Text vorkommen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Zeilen deuten auf eine tiefere emotionale Verbindung zwischen den Beteiligten hin.“ – spekulativ.",
+          "„Bananafishbones als Band und ihr Song … können in diesem Kontext als Teil einer Bewegung gesehen werden …“ – unbelegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs aus dem Jahr 2002 muss ebenfalls berücksichtigt werden.",
+          "Die Musik der frühen 2000er Jahre war geprägt von einer Vielzahl von Stilen und Einflüssen.",
+          "Insgesamt zeigt sich, dass der Song eine Vielzahl von Bedeutungsebenen … eröffnet einen Raum für vielfältige Lesarten."
+        ],
+        "positive_aspekte": [
+          "Konsistente Wiederholung der Kerninterpretationen (Langeweile, Suche nach Ablenkung, Mehrdeutigkeit der Metaphern).",
+          "Verknüpft Textstellen mit einer allgemeinen Aussage über Jugendkultur, was den Interpretationsrahmen erweitert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen (2,4,5) sind nahezu identisch und wiederholen dieselben Punkte, was zu einer geringen Varianz führt. Interpretation 3 unterscheidet sich durch weniger erfundene Aussagen und mehr textbasierte Analysen.",
+    "empfehlung": "Ein Ansatz, der strikt an den Text gebunden bleibt (wie Interpretation 3) liefert die höchste Faktentreue und gleichzeitig ausreichende analytische Tiefe. Modelle sollten ermutigt werden, spekulative Historien und allgemeine Kulturbehauptungen zu vermeiden und stattdessen konkrete Textstellen zu nutzen, um Mehrdeutigkeit und Ambivalenz zu beleuchten."
+  }
+}

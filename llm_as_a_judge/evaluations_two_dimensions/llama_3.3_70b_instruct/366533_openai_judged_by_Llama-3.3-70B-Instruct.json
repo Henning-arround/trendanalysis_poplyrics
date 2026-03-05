@@ -1,0 +1,99 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung zwischen Leidenschaft und Sicherheit"
+        ],
+        "oberflächliche_aussagen": [
+          "eine Mischung aus jugendlicher Verlangen, Angst vor Verlust und dem Streben nach einer zärtlichen, aber freien Bindung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wortwahl und der Wiederholungen ist sehr detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unsicherheit des Sprechers maskiert, aber gleichzeitig verstärkt"
+        ],
+        "oberflächliche_aussagen": [
+          "eine fast mantrahaftes Verlangen"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Wortwahl und der Wiederholungen ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild von Schutz, als würde die Sängerin in den Armen des Partners ein Kokon finden"
+        ],
+        "oberflächliche_aussagen": [
+          "eine bittersüße Mischung aus jugendlicher Leidenschaft, Unsicherheit und dem tiefen Bedürfnis nach einer beständigen, liebevollen Umarmung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen und der Wiederholungen ist sehr detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des Einhüllens, das an ein schützendes Kokon erinnert"
+        ],
+        "oberflächliche_aussagen": [
+          "eine emotionale Tiefe, die über die reine Liebeserklärung hinausgeht"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Wortwahl und der Wiederholungen ist sehr gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das innere Feuer zu entfachen"
+        ],
+        "oberflächliche_aussagen": [
+          "eine zeitlose Hymne an das Bedürfnis nach inniger Umarmung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen und der Wiederholungen ist sehr detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt sehr konsistent und textbezogen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die beste Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

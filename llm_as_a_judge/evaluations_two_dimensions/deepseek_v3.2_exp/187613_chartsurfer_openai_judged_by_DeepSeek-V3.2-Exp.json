@@ -1,0 +1,97 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Metapher einer Schule nutzt, um die Intimität einer Beziehung zu beschreiben"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Gelungene Interpretation der Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das nächtliche Zusammensein mit dem Geliebten, das zur Lehrerin, zur Mentorin wird"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Gelungene Interpretation der Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nacht selbst zur Tafel wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein verspieltes Liebesgedicht, das das Lernen als Metapher für das Erkunden einer neuen Beziehung nutzt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild des Himmels als 'blackboard high above you' macht das Universum zum riesigen Lehrtafel"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Gelungene Interpretation der Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nacht selbst zur Tafel wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein poetisches Bekenntnis, das Lernen und Liebe miteinander verknüpft"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Gelungene Interpretation der Symbolik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textstruktur und -inhalte",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

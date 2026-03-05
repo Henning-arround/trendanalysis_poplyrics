@@ -1,0 +1,100 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Darstellung von Frauen als Objekte der Begierde und die Verwendung von misogynen und homophoben Sprachelementen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach Einfluss und Anerkennung zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte enthalten auch Anspielungen auf die Herkunft der Künstler"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert die Werte und Normen einer bestimmten sozialen Gruppe"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Verwendung von Luxusmarken wie 'Ace of Spades' und 'Rolis' ist plausibel"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Darstellung von Frauen als Objekte der Begierde und die Verwendung von misogynen und homophoben Sprachelementen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach Einfluss und Anerkennung zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte enthalten auch Anspielungen auf die Herkunft der Künstler"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert die Werte und Normen einer bestimmten sozialen Gruppe"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Verwendung von Luxusmarken wie 'Ace of Spades' und 'Rolis' ist plausibel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine"
+        ],
+        "oberflächliche_aussagen": [
+          "Keine"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist detailliert und textbezogen",
+          "Die Erklärung der Verwendung von Luxusmarken wie 'Ace of Spades' und 'Rolis' ist plausibel"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die beste Interpretation (Nummer 5) zeigt eine hohe Texttreue und analytische Tiefe",
+    "empfehlung": "Die beste Interpretation ist die Nummer 5, da sie eine hohe Texttreue und analytische Tiefe aufweist und keine halluzinierten Aussagen enthält"
+  }
+}

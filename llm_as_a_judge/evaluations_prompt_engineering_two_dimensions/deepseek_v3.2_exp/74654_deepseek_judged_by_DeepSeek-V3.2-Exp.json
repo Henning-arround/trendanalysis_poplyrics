@@ -1,0 +1,102 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Suche nach Spiritualität und Transzendenz"
+        ],
+        "oberflächliche_aussagen": [
+          "eine komplexe, vielschichtige Bedeutungsebene"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und Symbolen",
+          "Ambivalenz zwischen Sehnsucht und Verführung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "liminaler Raum"
+        ],
+        "oberflächliche_aussagen": [
+          "eine ambige Spannung zwischen Sehnsucht und Verführung"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und Symbolen",
+          "Thematische Komplexität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "liminaler Raum"
+        ],
+        "oberflächliche_aussagen": [
+          "eine ambige Spannung zwischen Sehnsucht und Verführung"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und Symbolen",
+          "Thematische Komplexität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine Art spirituelle Suche"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine Art Maskerade oder Verkleidung"
+        ],
+        "oberflächliche_aussagen": [
+          "eine ambivalente Haltung gegenüber der Ewigkeit"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und Symbolen",
+          "Thematische Komplexität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten liefern eine gute Analyse der Metaphern und Symbole.",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und keine unbelegten Aussagen enthält."
+  }
+}

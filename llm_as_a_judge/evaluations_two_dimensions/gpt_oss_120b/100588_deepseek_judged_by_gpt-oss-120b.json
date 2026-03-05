@@ -1,0 +1,89 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textzeilen (z. B. „Your eyes…“, „Show me a reason…“, „It's a crime…“).",
+          "Erklärt die Funktion des Refrains und der zweiten Strophe.",
+          "Gibt eine zusammenhängende, textbasierte Interpretation ohne spekulative Biografie‑ oder Genre‑Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft einzelne Zeilen („I'm just designed…“, „Now only fire…“) mit den Themen Verletzlichkeit und Zerbrechlichkeit.",
+          "Analysiert die wiederholte Bitte im Refrain und deren emotionale Implikationen.",
+          "Schließt mit einer zusammenfassenden Bewertung der Gesamtstimmung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stützt jede Interpretation auf nachweisbare Textstellen.",
+          "Erklärt, wie die Zeile „or I'm just leaving“ als Hinweis auf ein mögliches Ende der Beziehung dient.",
+          "Bietet eine klare, nachvollziehbare Argumentationsstruktur."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Thematik von „zerstörerischer Anziehungskraft“ anhand der Zeilen aus der zweiten Strophe.",
+          "Verbindet die wiederholte Refrain‑Formulierung mit Unsicherheit und Verzweiflung.",
+          "Vermeidet unbegründete Kontextualisierungen (z. B. Genre‑ oder Biografie‑Angaben)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Analysiert sowohl den ersten als auch den zweiten Teil des Songs und bezieht sich auf konkrete Wortwahl.",
+          "Erklärt, warum die Zeile „It's a crime, a shot to the head“ die Gefahr und Intensität der Beziehung betont.",
+          "Bietet eine konsistente, textbasierte Lesart ohne spekulative Ergänzungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch und zeigen keine Varianz; sie wiederholen dieselben textbasierten Argumente.",
+    "empfehlung": "Da alle Modelle die gleichen, faktentreuen und substantielle Analyse liefern, ist kein klarer Unterschied erkennbar. Für zukünftige Aufgaben sollte ein stärkeres Augenmerk auf das Einbringen von Mehrdeutigkeit und alternativen Lesarten gelegt werden, um die Tiefe‑Score weiter zu erhöhen."
+  }
+}

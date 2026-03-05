@@ -1,0 +1,99 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Selbstinszenierung als Beschützer suggeriert ein Verlangen nach Nähe, das jedoch nie die Schwelle zur erwachsenen Partnerschaft überschreitet"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied vermittelt ein Bild von einem Mann, der in einer Endlosschleife aus Erinnerung, Verlust und dem Wunsch nach Wiederholung gefangen ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambivalenz zwischen Fürsorge und ungesunder Anhaftung ist sehr detailliert und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählerfigur positioniert sich zunächst als Beschützer, doch diese Rolle ist nur von kurzer Dauer"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile 'anytime and anyway, my baby' wirkt wie ein Versuch, die Beziehung zu stabilisieren"
+        ],
+        "positive_aspekte": [
+          "Die Kontrastierung von Liebe als Feuer und als Spiel ist gut herausgearbeitet"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählerfigur stellt sich zunächst als Beschützer („little guy, her brother for a while“) einer jungen Frau dar, die bereits in ihrer Jugend von Verlust und Einsamkeit geprägt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Fehlen von Kommunikation wird zum Symbol für die Unmöglichkeit, die Vergangenheit zu schließen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Zerrissenheit zwischen dem Wunsch nach echter Zuneigung und der Erkenntnis, dass Liebe hier zu einem Spiel geworden ist, ist sehr gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählerfigur stellt sich selbst als 'little guy' und zugleich als 'brother' dar, was eine ambivalente Rollenverteilung suggeriert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Phrase 'anytime and anyway, my baby' suggeriert eine zeitlose, bedingungslose Bindung"
+        ],
+        "positive_aspekte": [
+          "Die Kontrastierung von Liebe als Feuer und als Spiel ist gut herausgearbeitet"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählerfigur positioniert sich zunächst als Beschützer, fast wie ein Bruder, der einer jungen, einsamen Frau beisteht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung 'anytime and anyway, my baby' wirkt wie ein verzweifelter Versuch, die Kontrolle über das Unkontrollierbare zurückzugewinnen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Tragik einer Liebe, die nie wirklich erwidert wird, ist sehr detailliert und textbasiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Ambivalenzen und Mehrdeutigkeiten im Text",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Fähigkeit, die Komplexität des Textes zu erfassen"
+  }
+}

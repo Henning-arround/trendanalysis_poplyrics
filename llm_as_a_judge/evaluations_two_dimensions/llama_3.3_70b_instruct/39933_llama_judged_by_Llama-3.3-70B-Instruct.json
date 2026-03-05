@@ -1,0 +1,101 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass der Protagonist eine Welt der Hoffnung und des Glücks entdeckt, ist nicht direkt im Text belegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song von einer persönlichen Reise aus dunklen Zeiten in ein helleres, positiveres Leben handelt, ist etwas allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Songtexts und identifiziert wichtige Themen wie die Überwindung von Schwierigkeiten und das Finden von Trost in einer Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass die Begegnung mit der anderen Person ein neues Licht in das Leben bringt, ist nicht direkt im Text belegt",
+          "Die Idee, dass der Song die Dualität von Schmerz und Freude thematisiert, ist nicht explizit im Text erwähnt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song von einer persönlichen Reise aus der Dunkelheit ins Licht handelt, ist etwas allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Bedeutung der Begegnung mit der anderen Person und ihre Auswirkungen auf den Protagonisten zu analysieren"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass die Person durch die Begegnung mit der anderen Person eine neue Perspektive und einen neuen Sinn findet, ist nicht direkt im Text belegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song die Idee thematisiert, dass Schmerz und Leid ein Teil des Lebens sind, aber auch eine Chance bieten, zu wachsen und zu lernen, ist etwas allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Veränderung des Protagonisten und der Bedeutung der Begegnung mit der anderen Person"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass die Person durch die Begegnung mit der anderen Person eine neue Perspektive und einen neuen Sinn findet, ist nicht direkt im Text belegt",
+          "Die Idee, dass der Song die Idee thematisiert, dass Schmerz und Leid ein Teil des Lebens sind, aber auch eine Chance bieten, zu wachsen und zu lernen, ist nicht explizit im Text erwähnt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song die Geschichte einer Person erzählt, die aus einer dunklen und hoffnungslosen Zeit in ihr Leben herausfindet, ist etwas allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Bedeutung der Begegnung mit der anderen Person und ihre Auswirkungen auf den Protagonisten zu analysieren"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass der Protagonist durch die Begegnung mit der anderen Person eine neue Perspektive und einen neuen Sinn findet, ist nicht direkt im Text belegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song von einer persönlichen Reise aus dunklen Zeiten in ein helleres, positiveres Leben handelt, ist etwas allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Songtexts und identifiziert wichtige Themen wie die Überwindung von Schwierigkeiten und das Finden von Trost in einer Beziehung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Identifizierung von Themen und Motiven, aber variieren in der Tiefe und Genauigkeit ihrer Analyse",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf eine detailliertere Analyse des Songtexts konzentrieren und versuchen, die Bedeutung der Begegnung mit der anderen Person und ihre Auswirkungen auf den Protagonisten genauer zu verstehen"
+  }
+}

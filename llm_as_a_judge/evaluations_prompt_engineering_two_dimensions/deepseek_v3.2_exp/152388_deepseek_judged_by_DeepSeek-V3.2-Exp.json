@@ -1,0 +1,97 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Laid Back ist eine dänische Band, die in den 1970er Jahren gegründet wurde"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art Hymne an die Liebe verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Veröffentlichung eines neuen Songs im Jahr 2019 kann als eine Art Revival oder Rückkehr zur Musik der Vergangenheit interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Art Hommage an die traditionelle Liebeslyrik"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Verwendung von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Reaktion auf die zunehmende Komplexität und Unsicherheit der modernen Welt gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Art Hymne an die Liebe"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Spannung zwischen universeller Liebe und individueller Zuneigung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Laid Back ist eine dänische Band, die in den 1970er Jahren gegründet wurde und für ihre entspannte, Reggae-inspirierte Musik bekannt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art Hymne an die Liebe verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass der Song 2019 veröffentlicht wurde, lässt darauf schließen, dass er in einer Zeit entstand, in der soziale Medien und die digitale Kommunikation die Art und Weise, wie wir uns verlieben und Beziehungen führen, stark beeinflusst haben"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Ambivalenz zwischen universeller Liebe und individueller Zuneigung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und Symbolik im Text",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Fähigkeit, Ambivalenzen und Mehrdeutigkeiten im Text zu erkennen"
+  }
+}

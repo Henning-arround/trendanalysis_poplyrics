@@ -1,0 +1,104 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und hoffnungsvolle Ballade über die Sehnsucht nach einem geliebten Menschen.",
+          "Der Song ist eine emotionale und poetische Darstellung der Sehnsucht nach Liebe und Verbindung."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig aus dem vorliegenden Text ableiten.",
+          "Der Großteil der Analyse ist konkret und bezieht sich auf einzelne Zeilen des Songs.",
+          "Nur wenige allgemeine Zusammenfassungen, die die Gesamtbewertung nicht stark verwässern."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und hoffnungsvolle Ballade über die Sehnsucht nach einem geliebten Menschen.",
+          "Der Song ist eine emotionale und poetische Darstellung der Sehnsucht nach Liebe und Verbindung."
+        ],
+        "positive_aspekte": [
+          "Vollständig textbasierte Interpretation ohne spekulative Ergänzungen.",
+          "Klare Bezüge zu den einzelnen Songzeilen, wodurch die Analyse substantiell wirkt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und hoffnungsvolle Ballade über die Sehnsucht nach einem geliebten Menschen.",
+          "Der Refrain ... unterstreicht die Hoffnung auf ein Wiedersehen und eine bessere Zukunft.",
+          "Der Text ist auch eine Liebeserklärung, die den geliebten Menschen auffordert, an die gemeinsame Zukunft zu denken und die Hoffnung auf ein Wiedersehen nicht aufzugeben.",
+          "Insgesamt ist der Song eine emotionale und hoffnungsvolle Botschaft an einen geliebten Menschen, der weit entfernt ist."
+        ],
+        "positive_aspekte": [
+          "Keine erfundenen Fakten; sämtliche Aussagen beruhen auf dem Songtext.",
+          "Ergänzt den Text um sinnvolle, wenn auch teils generische, Interpretationsrahmen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und hoffnungsvolle Ballade über die Sehnsucht nach einem geliebten Menschen.",
+          "Der Song ist eine emotionale und poetische Darstellung der Sehnsucht nach Liebe und Verbindung."
+        ],
+        "positive_aspekte": [
+          "Vollständig textgetriebene Analyse, keine spekulativen Ergänzungen.",
+          "Gute Balance zwischen konkreten Zeilenbezügen und übergeordneten Interpretationsansätzen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und hoffnungsvolle Ballade über die Sehnsucht nach einem geliebten Menschen.",
+          "Der Refrain ... unterstreicht die Hoffnung auf ein Wiedersehen und eine bessere Zukunft.",
+          "Der Text ist auch eine Liebeserklärung, die den geliebten Menschen auffordert, an die gemeinsame Zukunft zu denken und die Hoffnung auf ein Wiedersehen nicht aufzugeben.",
+          "Insgesamt ist der Song eine emotionale und hoffnungsvolle Botschaft an einen geliebten Menschen, der weit entfernt ist."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen sind textbasiert, es gibt keinerlei Halluzinationen.",
+          "Bezieht sich auf zentrale Motive des Songs (Winter, Frühling, Wiedersehen)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen im Wesentlichen dieselben Inhalte, wodurch die Varianz gering ist. Die Unterschiede liegen nur im Anteil generischer Zusammenfassungen, was die Tiefe‑Bewertung leicht beeinflusst.",
+    "empfehlung": "Interpretationen 1, 2 und 3 bieten die beste Balance aus Texttreue und analytischer Tiefe. Sie vermeiden überflüssige Allgemeinplätze und bleiben fast ausschließlich bei textbasierten Aussagen, was sie insgesamt überzeugender macht."
+  }
+}

@@ -1,6 +1,4 @@
 data/*
-llm_as_a_judge/evaluations*
-llm_as_a_judge/interpretations*
 bertopic/dtm/embedding/
 bertopic/dtm/models/bertopic_model_dtm
 bertopic/dtm/models/probabilities.npy
@@ -14,3 +12,4 @@ song-analysis*
 visualisations/examples*
 llm_as_a_judge/samples*
 *.bin
+Erklaerung*

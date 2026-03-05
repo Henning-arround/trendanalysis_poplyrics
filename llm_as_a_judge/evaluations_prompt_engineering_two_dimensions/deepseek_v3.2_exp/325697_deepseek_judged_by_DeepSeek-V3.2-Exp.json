@@ -1,0 +1,93 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck der Sehnsucht nach Stabilität und Sicherheit in einer Zeit des Umbruchs interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Hoffnung auf eine wahre und beständige Liebe, die das Leben des Sängers bereichert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ära war geprägt von sozialen Veränderungen und einer zunehmenden Liberalisierung der Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Die 'most memorable moment in my life' wird gleich zweimal wiederholt und markiert den Höhepunkt der Sehnsucht nach einer erfüllenden Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "In dieser Zeit waren die Themen Liebe, Beziehung und emotionale Erfüllung von großer Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Hoffnung auf eine wahre und beständige Liebe, die das Leben des Sängers bereichert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song offenbart eine Spannung zwischen der Hoffnung auf eine erfüllende Liebe und der Erfahrung von Enttäuschung und Einsamkeit."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr tiefgehend und textanalytisch."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate.",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie sehr tiefgehend und textanalytisch ist."
+  }
+}

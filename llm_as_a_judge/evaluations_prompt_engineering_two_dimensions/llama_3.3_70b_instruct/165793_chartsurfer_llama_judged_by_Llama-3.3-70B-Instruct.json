@@ -1,0 +1,99 @@
+{
+  "song": "On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung von Freiheit, Glück und Liebe gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs kann als Ausdruck der Hoffnung und des Optimismus dieser Zeit interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'Sunny Side of the Street' und die Kombination mit dem Song 'Exactly Like You'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Einbettung des Songs in die 1950er Jahre ist ebenfalls von Bedeutung, da er die Werte und Träume der damaligen Gesellschaft widerspiegelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Analyse des Songs offenbart auch Ambiguitäten und Spannungen"
+        ],
+        "positive_aspekte": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen verstärkt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'And the monkey wrapped it's tail around the flag pole' bringen eine unklare, möglicherweise ironische oder humorvolle Note ein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Veröffentlichung im Jahr 1957 fällt in eine Zeit des wirtschaftlichen Aufschwungs und der kulturellen Veränderungen in den USA"
+        ],
+        "positive_aspekte": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung von Glück, Liebe und Selbstfindung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'I know why my mother' in 'Exactly Like You' kann als Hinweis auf die Bedeutung von familiären und sozialen Einflüssen auf die eigene Identität und Partnersuche interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung von Freiheit, Glück und Liebe gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Kontraste zwischen Armut und Reichtum in den Zeilen 'I ain't got a cent / I feel rich as Rockefeller'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'I know why my mother' in 'Exactly Like You' unterstreicht die Bedeutung von familiären und sozialen Einflüssen auf die eigene Identität und die Suche nach einer passenden Partnerin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung von Freiheit, Glück und Liebe gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'Sunny Side of the Street' und die Kombination mit dem Song 'Exactly Like You'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der Songtexte und die Identifizierung von Symbolen und Metaphern",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt die symbolische Ordnung von Glück, Liebe und Selbstfindung"
+  }
+}

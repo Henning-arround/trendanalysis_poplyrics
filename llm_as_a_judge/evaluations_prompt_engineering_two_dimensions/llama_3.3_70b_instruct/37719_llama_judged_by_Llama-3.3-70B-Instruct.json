@@ -1,0 +1,99 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idealisierung des Moments und die Sehnsucht nach unbeschwerter Freude sind typisch für die Jugendkultur der 2010er Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist eine Idealisierung des Moments"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Betonung der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die globalen Popkultur und die Clubszene der 2010er Jahre spielen eine zentrale Rolle in der Bedeutung des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Bedeutung von sozialen Beziehungen und Gemeinschaft"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kulturellen und historischen Kontextualisierung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Authentizität und Unmittelbarkeit ist ein zentrales Thema in der heutigen Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist eine Idealisierung des Moments"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Betonung der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Partyszene und die Jugendkultur der 2010er Jahre sind der Kontext, in dem der Song entstanden ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Bedeutung von Erinnerung und Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Betonung der emotionalen Wirkung des Songs, sowie die kulturelle und historische Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung von 'Best Night' als einer Art 'Flucht' aus dem Alltag und der Realität"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Bedeutung von Freizeit und Vergnügen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Betonung der emotionalen Wirkung des Songs, sowie die kulturelle und historische Kontextualisierung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die Betonung der emotionalen Wirkung des Songs",
+    "empfehlung": "Die Interpretationen 4 und 5 zeigen die beste Balance zwischen Textreue und analytischer Tiefe und sind daher empfehlenswert"
+  }
+}

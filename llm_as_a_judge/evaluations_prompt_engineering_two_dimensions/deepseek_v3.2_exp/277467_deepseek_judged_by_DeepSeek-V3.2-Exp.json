@@ -1,0 +1,108 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'OJ's gloves' können als Symbol für eine Art von Schutz oder Verkleidung interpretiert werden, die der Sänger nicht loswerden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und affektive Dimension, die den Hörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint die Bedeutung von Geben und Teilen zu sein.",
+          "Der Text ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'parrot things on the porch next door' und ihre 'finest rendition of squealing brakes' schaffen eine lebendige Atmosphäre und symbolisieren möglicherweise die Stimmen der Stadt oder der Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1990er Jahre interpretiert werden.",
+          "Insgesamt kann der Song als Aufforderung zur Reflexion über die Bedeutung von Geben, Teilen und menschlicher Verbindung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint die Bedeutung von Geben und Teilen zu sein.",
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1990er Jahre interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint die Bedeutung von Geben und Teilen zu sein.",
+          "Der Text ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Insgesamt kann der Song als Aufforderung zur Reflexion über die Bedeutung von Geben, Teilen und Verbindung in einer komplexen und vielschichtigen Welt interpretiert werden."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'OJ's gloves' können als Symbol für eine Art von Schutz oder Verkleidung interpretiert werden, die der Sänger nicht loswerden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1990er Jahre interpretiert werden.",
+          "Insgesamt kann der Song als eine Aufforderung zur Reflexion über die Bedeutung von Geben, Teilen und Verbindung in einer komplexen und vielschichtigen Welt interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint die Bedeutung von Geben und Teilen zu sein.",
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1990er Jahre interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint die Bedeutung von Geben und Teilen zu sein.",
+          "Der Text ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Insgesamt kann der Song als Aufforderung zur Reflexion über die Bedeutung von Geben, Teilen und Verbindung in einer komplexen und vielschichtigen Welt interpretiert werden."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      3,
+      5
+    ],
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der zentralen Botschaft und der literarischen Stilmittel, aber eine Varianz in der Bewertung der Halluzinations- und Tiefen-Scores.",
+    "empfehlung": "Die Interpretationen 3 und 5 zeigen eine gute Balance zwischen Textreue und analytischer Tiefe und sind daher empfehlenswert."
+  }
+}

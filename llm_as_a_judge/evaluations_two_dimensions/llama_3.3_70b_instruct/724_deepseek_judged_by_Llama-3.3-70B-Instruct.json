@@ -1,0 +1,99 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten scheinen sich in ihrer Situation eingerichtet zu haben und finden sogar Gefallen daran."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Existenz gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare Struktur und analysiert den Text auf mehreren Ebenen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten sind so sehr in ihrem eigenen Zustand gefangen, dass sie die Gefahren und Unsicherheiten ihrer Reise nicht wahrnehmen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Existenz gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Text mit sozialen Aspekten zu verbinden"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten haben den bekannten Rahmen verlassen und sich in eine neue, unvertraute Welt begeben"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext kann auch als Kommentar zur Entfremdung gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten haben den bekannten Rahmen verlassen und sich in eine neue, unvertraute Welt begeben"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext kann auch als Kommentar zur Entfremdung gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr ähnlich zu Interpretation 3, aber mit kleinen Abweichungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten haben den bekannten Rahmen verlassen und sich in eine neue, unvertraute Welt begeben"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext kann auch als Kommentar zur Entfremdung gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist fast identisch mit Interpretation 3 und 4, was auf eine starke Übereinstimmung hinweist"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 sind sehr ähnlich, was auf eine starke Übereinstimmung hinweist, aber auch auf eine gewisse Oberflächlichkeit in der Analyse",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine klare Struktur und eine tiefe Analyse des Textes bietet, aber auch auf die Gefahr der Halluzination achten sollte"
+  }
+}

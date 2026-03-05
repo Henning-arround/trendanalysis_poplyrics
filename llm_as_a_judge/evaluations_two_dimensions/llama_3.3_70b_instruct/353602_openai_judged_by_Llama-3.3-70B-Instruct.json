@@ -1,0 +1,87 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild, die Zeit zurückzudrehen, offenbart den Wunsch, vergangene Fehler zu löschen und die Beziehung neu zu definieren."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Analyse des Textes ein und identifiziert die zentralen Themen der Sehnsucht und der Angst vor dem Verlust."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung 'Stay' und das Bild, die Zeit zurückzudrehen, deuten auf ein starkes Verlangen nach einer zweiten Chance hin, als könnte ein Neustart das Herz des anderen entlasten."
+        ],
+        "oberflächliche_aussagen": [
+          "Das komplexe Beziehungsgeflecht wird auf ein einfaches, greifbares Element reduziert – ein Lächeln."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Komplexität der Beziehung zu erfassen, aber bleibt teilweise oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr detailliert und textgetreu, sie identifiziert die Ambivalenzen und die Komplexität der Emotionen im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Bitte nach 'silky skin' und das Versprechen, 'es richtig zu drehen', verdeutlichen das Verlangen nach körperlicher Intimität als Mittel, die Beziehung zu stabilisieren."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Symbolen und Metaphern im Text und zeigt, wie sie die emotionale Tiefe des Songs unterstreichen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende und differenzierte Analyse des Songs, die sowohl die textlichen Elemente als auch die emotionale Tiefe berücksichtigt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (3 und 5) zeigen eine hohe Konsistenz in ihrer textgetreuen und tiefen Analyse.",
+    "empfehlung": "Für eine umfassende Analyse des Songs 'Before You Leave' von Kurt Nilsen sollten Interpretationen bevorzugt werden, die eine hohe Texttreue mit tiefer Analyse verbinden, wie Interpretation 3 und 5."
+  }
+}

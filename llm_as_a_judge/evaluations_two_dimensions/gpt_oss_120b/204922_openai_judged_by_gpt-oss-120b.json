@@ -1,0 +1,131 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aussage „I know“ fungiert dabei als Mantra der Gewissheit, das die innere Stärke der Sprecherin betont und zugleich das Scheitern des Gegenübers prognostiziert: „you’re gonna get blind when I’m through with you“.",
+          "Die Sprache ist provokativ und zugleich spielerisch, was die Mischung aus Ärger und Lust am Triumph verdeutlicht.",
+          "Das implizite Angebot, sich selbst zu finden, anstatt nach einer unerreichbaren Illusion zu streben, unterstreicht die Botschaft, dass das Ich nicht bereit ist, sich in ein Spiel zu begeben, das nur auf Schein beruht.",
+          "Abschließend bleibt das Bild einer selbstbestimmten Frau, die klare Grenzen zieht und das falsche Spiel des Verführers endgültig beendet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Know“ offenbart ein Selbstbewusstsein, das sich gegen ein überhebliches Gegenüber richtet, das sich als Verführer inszeniert, jedoch nur eine leere Fassade trägt.",
+          "Die Erzählerin erkennt sofort die Maske des „großen Verführers“ und durchschaut dessen Selbstüberschätzung: „You think you’re a big seducer… you’re just a lucky loser“.",
+          "Diese Gegenüberstellung von Selbstwahrnehmung und Realität erzeugt ein Spannungsfeld, in dem das lyrische Ich die Oberhand gewinnt, indem es die Täuschung des Anderen entlarvt."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche direkte Zitate aus dem Songtext werden korrekt wiedergegeben.",
+          "Analyse geht über reine Wiederholungen hinaus und bietet konkrete Textbezüge.",
+          "Erkennt die wiederholte Nutzung von „I know“ als zentrales Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die wiederholte Feststellung, dass er „in disguise“ lebe, wird deutlich, dass seine Fassade nicht nur oberflächlich, sondern bewusst manipulativ ist.",
+          "Der Refrain verdeutlicht die Absicht, ihn zu entmachten: seine Blindheit symbolisiert das Verblenden seiner eigenen Illusionen, sobald die Protagonistin ihn endgültig abweist.",
+          "Die wiederholte Betonung von „you’re not good enough“ und „you’re a swanker“ verstärkt die Ablehnung seiner Selbstüberschätzung und stellt die Sprecherin als moralisch überlegene Gegenkraft dar.",
+          "Die abschließende Aussage, dass er „somebody undemanding“ verdiene, fungiert als ironischer Trost, der zugleich die eigene Unabhängigkeit der Sängerin unterstreicht und den manipulativen Verehrer endgültig in die Bedeutungslosigkeit zurückschickt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Know“ offenbart ein Selbstbewusstsein, das sich gegen einen überheblichen Verehrer richtet, der sich als unwiderstehlicher Verführer inszeniert.",
+          "Das äußere Erscheinungsbild des Gegenübers – „cool“ und „dressed to kill“ – wird als bloße Maske entlarvt.",
+          "Die Sprecherin erkennt die Täuschung und bezeichnet ihn als „lucky loser“, also jemanden, der zwar Glück hat, aber letztlich ein Verlierer ist, weil er seine eigene Oberflächlichkeit nicht überwinden kann."
+        ],
+        "positive_aspekte": [
+          "Verwendet viele wörtliche Textstellen, was die Texttreue erhöht.",
+          "Bietet eine klare strukturelle Analyse (Einleitung, Refrain, Schluss).",
+          "Erkennt die zentrale Metapher der „Blindheit“ als Konsequenz."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Selbstbehauptungs‑Mantra, das die Dynamik einer toxischen Verführungsbeziehung entlarvt.",
+          "Hinter der Fassade verbirgt sich ein „lucky loser“, ein Verlierer, der sich in Rollen flüchtet, um seine Unsicherheit zu kaschieren.",
+          "Die wiederholte Aussage „I know“ fungiert dabei als kraftvolles Mantra, das das wachsende Bewusstsein der Protagonistin über die wahren Motive des Gegenübers betont und ihr die Kontrolle zurückgibt.",
+          "Insgesamt schildert der Text einen Machtwechsel: Die einst verunsicherte Frau erkennt ihre eigene Stärke, entlarvt die Manipulation und setzt klare Grenzen, indem sie den Verführer auffordert, zu verschwinden.",
+          "Der Song wird so zu einer Hymne der Selbstbestimmung, die das Aufbrechen von Illusionen und das Zurückerobern der eigenen Identität feiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textzitaten mit einer übergreifenden Interpretation.",
+          "Erkennt die wiederholte Nutzung von „I know“ als zentrales Leitmotiv.",
+          "Bietet einen kohärenten narrativen Bogen (Verführung → Entlarvung → Selbstbestimmung)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen „You’re a lucky loser“ und „You’re one big lie“ entlarven ihn als jemand, der zwar nach Aufmerksamkeit strebt, aber dabei seine eigene Schwäche nicht verbergen kann.",
+          "Der Refrain, in dem sie ihm voraussagt, er werde „blind“ werden, wenn er weiter versucht, sie zu manipulieren, fungiert als Warnung, dass sein Stolz ihn letztlich isolieren wird.",
+          "Der Schlussvers, in dem sie ihm ein „undemanding“ Gegenstück wünscht, unterstreicht die Ironie: Er sucht nach Bestätigung, doch das, was er verdient, ist ein Partner, der seine Oberflächlichkeit nicht erträgt.",
+          "So wird der Song zu einer klaren, fast schon sarkastischen Abrechnung mit einem selbstgefälligen Verführer, die zugleich die eigene Unabhängigkeit und Selbstachtung feiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Know“ offenbart ein Selbstbewusstsein, das sich gegen ein überhebliches Gegenüber richtet, das sich als Verführer inszeniert, jedoch nur eine leere Fassade trägt.",
+          "Die Erzählerin beschreibt zunächst die äußere Erscheinung des Mannes – „cool“, „dressed to kill“ – und erkennt sofort, dass sein Auftreten nur ein Deckmantel ist, hinter dem Unsicherheit und ein Mangel an Authentizität lauern.",
+          "Durch die wiederholte Wendung „I know“ wird die innere Gewissheit betont, dass seine Anmachversuche und sein Stolz nichts weiter als Selbsttäuschung sind.",
+          "Die Sprecherin positioniert sich klar als Gegenpol: Sie ist nicht bereit, sich von seiner Oberflächlichkeit einnehmen zu lassen, und weist ihn zurück mit der Botschaft, er solle „go away“."
+        ],
+        "positive_aspekte": [
+          "Konsistente Nutzung von Songzitaten, wodurch die Analyse fest im Text verankert ist.",
+          "Erkennt die wiederholte Struktur („I know“ – Refrain – Ablehnung).",
+          "Bietet eine klare moralische Gegenüberstellung (Selbstwert vs. Oberflächlichkeit)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Wendung „I know“ fungiert dabei als mantraartiger Bekenntnis, dass die Protagonistin die wahren Absichten des Gegenübers durchschaut und ihm keine Illusionen mehr lässt.",
+          "Durch die Gegenüberstellung von Schein und Realität entsteht ein Machtspiel: Während der Mann versucht, mit seinem „vain“ Auftreten und seiner „hip“ Attitüde zu imponieren, stellt die Sprecherin klar, dass er nicht „rough enough“ und somit nicht ihrer Ebene entspricht.",
+          "Sie bietet ihm sogar einen „tip“ – er solle sich jemanden suchen, der zu ihm passt – und betont damit ihre Unabhängigkeit und Überlegenheit.",
+          "Insgesamt thematisiert der Song die Entlarvung von Oberflächlichkeit, das Durchschauen von Manipulation und das Festhalten an Selbstwert, wobei die wiederholte Zusicherung „I know“ das zentrale Motiv der Klarheit und Selbstbestimmung bildet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „I Know“ offenbart ein Selbstbewusstsein, das sich gegen ein überhebliches Gegenüber richtet, das sich als Verführer inszeniert, jedoch nur eine leere Fassade trägt.",
+          "Die Erzählerin beschreibt zunächst die äußere Erscheinung des Mannes – „cool“, „dressed to kill“ – und erkennt sofort, dass hinter dieser Maske ein „lucky loser“ steckt, der sich selbst für einen großen Verführer hält, aber in Wirklichkeit nur ein „big lie“ ist."
+        ],
+        "positive_aspekte": [
+          "Alle wichtigsten Textstellen werden zitiert.",
+          "Erkennt das wiederkehrende Motiv „I know“.",
+          "Stellt klar die Gegenüberstellung von Schein und Realität heraus."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑3 zeigen ähnliche strukturelle Muster (Einleitung → Analyse der Masken → Refrain‑Deutung → Schluss). Sie variieren jedoch stark im Anteil spekulativer Aussagen: Interpretation 4 und 5 enthalten die wenigsten erfundenen Inhalte, dafür ist die analytische Tiefe geringer. Interpretation 1‑3 balancieren Texttreue und tiefgehende Analyse besser, wobei Interpretation 1 die klarste Argumentationsstruktur bietet.",
+    "empfehlung": "Für künftige Bewertungen sollte man Interpretationen bevorzugen, die konsequent Textzitate nutzen, aber spekulative Deutungen auf ein Minimum beschränken. Interpretation 1 liefert die beste Balance aus Faktentreue und analytischer Tiefe und ist daher als Vorbild für weitere LLM‑Analysen zu nehmen."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer von Traum, Sehnsucht und Verlangen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Schwebezustand-Beschreibungen",
+          "Verbindung von 'up in the blue' und 'into the blue'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer von Traum, Sehnsucht und einer tiefen emotionalen Verbindung"
+        ],
+        "positive_aspekte": [
+          "Ähnliche Stärken wie Interpretation 1",
+          "Gute Hervorhebung der emotionalen Verbindung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer von Traum, Sehnsucht und Verlangen"
+        ],
+        "positive_aspekte": [
+          "Sehr ähnliche Stärken und Schwächen wie Interpretation 1 und 2"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer von Traum, Sehnsucht und Verlangen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur",
+          "Hervorhebung der Wiederholung von 'My baby blue'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer von Traum, Sehnsucht und Verlangen"
+        ],
+        "positive_aspekte": [
+          "Sehr ähnliche Stärken wie Interpretation 1",
+          "Gute Hervorhebung der Sehnsucht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse, aber auch eine gewisse Oberflächlichkeit",
+    "empfehlung": "Es empfiehlt sich, die Interpretationen weiter zu vertiefen und spezifischere Aussagen über den Songtext zu treffen"
+  }
+}

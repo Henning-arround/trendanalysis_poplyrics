@@ -1,0 +1,130 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Metaphern und Symbolen ist jedoch eher subtil, beschränkt sich aber auf die Darstellung von Jane als Idealbild einer Frau.",
+          "Die nostalgische Erinnerung ... können als Ausdruck einer gewissen Unzufriedenheit mit der Gegenwart interpretiert werden.",
+          "Der Song kann auch als Kommentar zu den sozialen Normen und Erwartungen der Zeit gesehen werden, insbesondere im Hinblick auf die Rolle der Frau und die Darstellung von Emotionen."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Zeilen verdeutlichen die Tiefe und Dauer seiner Emotionen.",
+          "Der Song verwendet verschiedene literarische Stilmittel, um die emotionale Wirkung zu verstärken.",
+          "Die Wiederholung des Refrains ... erzeugt eine Art von Intimität und Vertrautheit, während die Beschreibung ... ein positives Bild von ihr zeichnet.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden."
+        ],
+        "positive_aspekte": [
+          "Klare Benennung von Textstellen (z. B. Grammatik‑Schule, Tod) als Beleg.",
+          "Verknüpfung von formalen Elementen (Wiederholungen) mit einer nachvollziehbaren Interpretation.",
+          "Einige tiefere Analysen (z. B. Vergänglichkeit von Leben und Liebe) basieren direkt auf dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur von Dick wird als eine Art Beobachter ... dargestellt, was eine gewisse Distanz und Objektivität suggeriert.",
+          "Die Wiederholung des Refrains ... kann als eine Art rituelle Klage interpretiert werden.",
+          "Die nostalgische Erinnerung an die Kindheit und die verlorene Liebe kann als Reaktion auf die gesellschaftlichen Veränderungen und Unsicherheiten dieser Zeit gesehen werden.",
+          "Die Darstellung der Trauer und der Sehnsucht kann auch als eine Kritik an der Oberflächlichkeit und der Vergänglichkeit der menschlichen Beziehungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel des Songs, wie die Verwendung von Metaphern und Symbolen, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre interpretiert werden.",
+          "Insgesamt zeigt der Song ... eine komplexe emotionale Wirkung und eine tiefe Bedeutungsebene, die durch die Analyse der literarischen Stilmittel und des kulturellen Kontexts aufgeschlüsselt werden kann."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. Kindheitserinnerungen, Tod).",
+          "Erkennt die zentrale Thematik von Sehnsucht, Trauer und Nostalgie.",
+          "Bietet einen strukturierten Überblick über mögliche stilistische Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Liebe wird durch die wiederholte Aufforderung ... symbolisiert, die als eine Art innerer Monolog interpretiert werden kann, in dem der Sprecher sich selbst auffordert, Jane zu betrachten und sich an sie zu erinnern.",
+          "Die literarischen Stilmittel, die Vinton verwendet, sind vor allem die Metapher der Kindheitserinnerung und das Symbol der Blumen, unter denen Jane begraben liegt.",
+          "Die Blumen ... symbolisieren die Endgültigkeit des Todes und die Vergänglichkeit der Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist die amerikanische Popkultur der 1970er Jahre.",
+          "Der Song kann als ein Beispiel für die nostalgische und sentimentale Tendenz dieser Zeit interpretiert werden.",
+          "Die tiefe Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Erfahrung von Liebe, Verlust und Trauer, die durch die symbolische Ordnung von Erinnerung und Nostalgie strukturiert wird.",
+          "Die Ambiguität zwischen der nostalgischen Erinnerung an Jane und der Endgültigkeit ihres Todes erzeugt eine Spannung, die den Song zu einem vielschichtigen und emotional bewegenden Werk macht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textstellen (Kindheit, Tod, Blumen).",
+          "Verbindet Symbolik (Blumen) mit dem Motiv des Todes, was im Text vorkommt.",
+          "Erkennt die wiederholte Struktur des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Nennung von \"Dick\" und \"Jane\" kann als Symbol für die Unschuld und Freundschaft der Kindheit interpretiert werden.",
+          "Die nostalgische Erinnerung ... kann als Reaktion auf die gesellschaftlichen Veränderungen und Unsicherheiten dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel des Songs, wie die Verwendung von Metaphern und Symbolen, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre interpretiert werden.",
+          "Insgesamt zeigt der Song ... eine komplexe emotionale Wirkung und affektive Dimension, die durch die Verwendung von literarischen Stilmitteln und die Darstellung der Sehnsucht und Trauer erzeugt wird."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen beruhen direkt auf dem Text (z. B. \"Back in grammar school\", \"Time has turned some pages\").",
+          "Gibt konkrete Textbeispiele und erklärt deren mögliche Bedeutung.",
+          "Verknüpft Textanalyse mit einem historischen Kontext, ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Nennung von \"Dick\" und \"Jane\" kann als Symbol für die Unschuld und Freundschaft der Kindheit interpretiert werden.",
+          "Die nostalgische Erinnerung ... kann als Reaktion auf die gesellschaftlichen Veränderungen und Unsicherheiten dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel des Songs, wie die Verwendung von Metaphern und Symbolen, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre interpretiert werden.",
+          "Insgesamt zeigt der Song ... eine komplexe emotionale Wirkung und affektive Dimension, die durch die Verwendung von literarischen Stilmitteln und die Darstellung der Sehnsucht und Trauer erzeugt wird."
+        ],
+        "positive_aspekte": [
+          "Identifiziert und interpretiert zentrale Textstellen (z. B. \"I've loved her since we were children\", \"By the flowers where she'll lay\").",
+          "Bietet eine nachvollziehbare Verbindung zwischen Text und möglicher historischer Stimmung.",
+          "Zeigt ein gutes Gleichgewicht zwischen Textbezug und weiterführender Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2 und 3 sind nahezu identisch und erzielen die höchsten Scores; Interpretation 1 enthält mehr spekulative Aussagen, wodurch ihr Halluzinations-Score niedriger ist. Insgesamt variiert die Qualität stark, wobei die besten Analysen klare Textbelege mit moderaten, begründeten Kontextualisierungen kombinieren.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf direkte Textbelege gelegt werden, während spekulative kulturelle oder biografische Aussagen nur dann eingebracht werden, wenn sie durch den Text gestützt werden. Interpretation 2 (bzw. 3) demonstriert das optimale Gleichgewicht zwischen Faktentreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass der Erzähler bei der Hochzeit von Dick und Jane anwesend ist und später auch bei ihrer Beerdigung, unterstreicht die Enge der Gemeinschaft und die Unmöglichkeit, der Vergangenheit zu entfliehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Konfrontation mit der eigenen Sterblichkeit und der Unmöglichkeit, die Zeit zurückzudrehen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile 'Look, Dick look, look at Jane' kann als metaphorische Aufforderung verstanden werden, Jane nicht nur als Person, sondern auch als Symbol der unerreichbaren Liebe zu betrachten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs liegt möglicherweise in der symbolischen Ordnung der unerreichbaren Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Betrachtung der Ambiguität in der Beziehung zwischen dem Erzähler, Dick und Jane"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass der Erzähler bei der Hochzeit von Dick und Jane anwesend ist und später von ihrem Tod erfährt, unterstreicht die Enge der Gemeinschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Darstellung der menschlichen Erfahrung von Verlust und unerfüllter Liebe liegen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'Kissens' bei der Beerdigung und ihre symbolische Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass der Erzähler bei der Hochzeit von Dick und Jane anwesend ist und später von ihrem Tod erfährt, unterstreicht die Enge der Gemeinschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Darstellung der menschlichen Erfahrung von Verlust und unerfüllter Liebe liegen"
+        ],
+        "positive_aspekte": [
+          "Die Betrachtung der Zeile 'Time has turned some pages / Since they moved away' und ihre Bedeutung für die emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass der Erzähler bei der Hochzeit von Dick und Jane anwesend ist und später von ihrem Tod erfährt, unterstreicht die Enge der Gemeinschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Darstellung der menschlichen Erfahrung von Verlust und unerfüllter Liebe liegen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und ihre Wirkung auf die emotionale Dimension des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent und zeigen eine ähnliche Tiefe und Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Mischung aus allgemeinen und spezifischen Aussagen."
+  }
+}

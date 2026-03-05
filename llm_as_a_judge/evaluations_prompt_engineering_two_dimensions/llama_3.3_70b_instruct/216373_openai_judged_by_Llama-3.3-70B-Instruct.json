@@ -1,0 +1,99 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Zigaretten als Metapher reflektiert damit gesellschaftliche Spannungen zwischen Individualität und kollektiver Gesundheitsdebatte."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des Zigarettenrauchs verweist auf eine Subkultur des 'Smokers' als Symbol für Rebellion und Selbstinszenierung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildhaftigkeit ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Zigaretten als Metapher spiegelt damit ein Spannungsfeld zwischen romantischer Nostalgie und gesellschaftlicher Gesundheitsdebatte wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist im Kontext der späten 1990er-Jahre zu sehen"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambivalenz in der Aussage ist positiv."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Zigaretten als Metapher spiegelt damit gesellschaftliche Spannungen zwischen Individualität und kollektiver Gesundheitsdebatte wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des 'smoke ring' fungierte als visuelle Metapher für das Verblassen von Identität und Erinnerung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildhaftigkeit ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbolik des Rauchs als Medium, das sowohl verbirgt als auch enthüllt, verknüpft persönliche Trauer mit einer breiteren gesellschaftlichen Tendenz"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied reflektiert die wachsende Sichtbarkeit von inneren Konflikten und die Normalisierung von Selbstreflexion durch Alltagsrituale wie das Rauchen"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambivalenz in der Aussage ist positiv."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbolik des Rauchs als Metapher für das 'verbrannte' Selbst, das dennoch immer wieder neu entfacht wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist im Kontext der späten 1990er-Jahre zu sehen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildhaftigkeit ist detailliert und textbezogen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Bildhaftigkeit, aber variieren in der Tiefe und der Anzahl an erfundenen Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet allzu spekulative Aussagen. Es ist wichtig, die Ambivalenzen und Mehrdeutigkeiten im Text zu berücksichtigen und nicht zu sehr in die Spekulation zu verfallen."
+  }
+}

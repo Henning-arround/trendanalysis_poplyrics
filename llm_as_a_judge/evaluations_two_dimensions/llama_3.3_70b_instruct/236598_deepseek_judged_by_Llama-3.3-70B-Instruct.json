@@ -1,0 +1,99 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics beschreiben den Tod als einen natürlichen Teil des Lebens, aber auch als eine Chance, die eigene Legacy zu hinterlassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Hommage an die Vergangenheit, aber auch eine Aufforderung, die Gegenwart zu schätzen und die Zukunft zu gestalten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Frage nach der Bedeutung und dem Wert des Lebens."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics erinnern daran, dass das Leben kurz ist und dass jeder Moment zählt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Auseinandersetzung mit der Vergänglichkeit der Zeit und der Unsterblichkeit der Kunst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Welt als eine Bühne, auf der das Leben eines Menschen wie ein Konzert abläuft."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics erinnern daran, dass das Leben kurz ist und dass jeder Moment zählt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Auseinandersetzung mit der Vergänglichkeit der Zeit und der Unsterblichkeit der Kunst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Welt als eine Bühne, auf der das Leben eines Menschen wie ein Konzert abläuft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics beschreiben den Tod als einen natürlichen Teil des Lebens, aber auch als eine Chance, die eigene Legacy zu hinterlassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Hommage an die Vergangenheit, aber auch eine Aufforderung, die Gegenwart zu schätzen und die Zukunft zu gestalten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Frage nach der Bedeutung und dem Wert des Lebens."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Mitglieder singen über ihre eigene Geschichte und ihre eigene Musik, die ein Teil von ihnen ist und bleiben wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Zeichen für die Unsterblichkeit der Kunst und die Möglichkeit, durch Musik und Kreativität ein bleibendes Erbe zu hinterlassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Frage nach der Bedeutung und dem Wert des Lebens und der Kunst."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind teilweise sehr ähnlich und wiederholen sich in einigen Punkten.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine gute Balance zwischen Textreue und analytischer Tiefe findet und Ambivalenzen und Mehrdeutigkeiten textbasiert thematisiert."
+  }
+}

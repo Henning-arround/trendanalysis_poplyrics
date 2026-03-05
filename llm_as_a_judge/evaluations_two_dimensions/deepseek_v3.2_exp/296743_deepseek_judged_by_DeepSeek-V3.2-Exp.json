@@ -1,0 +1,93 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Kommentar zu den Schwierigkeiten, die in Beziehungen entstehen können"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Korrektur der Songtexte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Beziehung, die von Unsicherheit und emotionaler Verwirrung geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Gute Zusammenfassung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I guess something just got lost' deutet darauf hin, dass die Beziehung an einem Wendepunkt steht"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger gibt an, dass seine Gefühle 'seine Argumentation trüben'"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeigt, wie schwierig es sein kann, Beziehungen aufrechtzuerhalten"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die Komplexität von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Gute Zusammenfassung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die dritte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

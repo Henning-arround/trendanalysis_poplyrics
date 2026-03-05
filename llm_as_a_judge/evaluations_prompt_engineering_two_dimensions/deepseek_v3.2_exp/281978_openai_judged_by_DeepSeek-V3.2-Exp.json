@@ -1,0 +1,101 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrede 'Lordy, Lordy, …' eröffnet einen fast liturgischen Ton",
+          "Die Metapher 'The sky is getting clearer, I know she's getting nearer' verbindet Wetter mit Annäherung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der zentrale Kern des Liedes ist ein intensives Verlangen nach Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext von 1952 und die afro-amerikanischen Rhythm-and-Blues-Traditionen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Kern des Liedes ist ein unmittelbares Verlangen nach Nähe",
+          "Die offene Formulierung von Bedürftigkeit und das Fehlen einer klaren Auflösung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied kann als Ausdruck einer post-Kriegsgeneration gelesen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die stilistischen Elemente des Liedes wie Wiederholungen und einfache Bildsprache"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Kern des Liedes ist ein unmittelbares Verlangen nach Nähe, das zugleich als persönliche Notlage und als kollektives Symbol für das Wiederaufleben nach dem Krieg gelesen werden kann"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Struktur bleibt fragmentarisch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die historischen und kulturellen Kontexte des Rhythm-and-Blues"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die explizite Bekenntnis­formulierung ('I need your loving') widerspricht der damaligen öffentlichen Zurückhaltung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied kann als Liebesbekenntnis und als Kommentar zu den Zwängen der Nachkriegs-Gesellschaft gelesen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die stilistischen und inhaltlichen Elemente des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Kern des Liedes ist ein intensives Verlangen nach Nähe, das zugleich in einer fast rituellen Wiederholung verankert ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität zwischen öffentlicher Darbietung und privatem Verlangen bleibt ungelöst"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die emotionalen und affektiven Aspekte des Liedes"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

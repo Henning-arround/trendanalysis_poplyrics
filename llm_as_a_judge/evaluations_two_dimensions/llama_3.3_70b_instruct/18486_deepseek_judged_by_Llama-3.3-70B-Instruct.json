@@ -1,0 +1,99 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song bleibt ein zeitloses und universelles Werk"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die verschiedenen Phasen und Gegensätze, die das Leben prägen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song bleibt ein zeitloses und universelles Werk"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die verschiedenen Phasen und Gegensätze, die das Leben prägen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song bleibt ein zeitloses und universelles Werk"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die verschiedenen Phasen und Gegensätze, die das Leben prägen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song bleibt ein zeitloses und universelles Werk"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die verschiedenen Phasen und Gegensätze, die das Leben prägen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song bleibt ein zeitloses und universelles Werk"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die verschiedenen Phasen und Gegensätze, die das Leben prägen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und wiederholen sich in ihren Aussagen",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

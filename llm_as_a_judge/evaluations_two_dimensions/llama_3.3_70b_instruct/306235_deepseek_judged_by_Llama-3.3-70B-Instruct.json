@@ -1,0 +1,99 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des blauen Himmels als Symbol für die Verbindung zur geliebten Person unterstreicht die Tiefe und die Unendlichkeit der Emotionen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und introspektive Reflexion über die Erfahrung des Verlusts und der Sehnsucht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Songtexts und identifiziert die zentralen Themen der Sehnsucht und des Verlusts."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Titel 'Into The Blue' symbolisiert die Unendlichkeit und die Freiheit, aber auch die Distanz und die Unsicherheit, die die Person empfindet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art Liebesbrief interpretiert werden, in dem die Person ihre Gefühle und Gedanken an die andere Person richtet, ohne direkt mit ihr sprechen zu können."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf den Song als Liebesbrief, aber könnte tiefer in die Analyse des Textes eintauchen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des Bildes des blauen Himmels und des Pools symbolisiert möglicherweise die Weite und die Freiheit, aber auch die Einsamkeit und die Isolation."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als eine melancholische und introspektive Reflexion über die eigene Situation und die Sehnsucht nach einer anderen Person interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Balance zwischen Texttreue und analytischer Tiefe, aber könnte noch spezifischer in der Analyse des Textes werden."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Person denkt an eine andere Person, die sie 'My baby blue' nennt, und sendet Gedanken an diese Person aus ihrem Kopf in den Himmel."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und introspektive Reflexion über die eigene Situation und die Sehnsucht nach einer anderen Person."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Songtexts, aber könnte noch tiefer in die Analyse des Textes eintauchen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des Bildes des blauen Himmels und des Pools symbolisiert möglicherweise die Weite und die Freiheit, aber auch die Einsamkeit und die Isolation."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als eine melancholische und introspektive Reflexion über die eigene Situation und die Sehnsucht nach einer anderen Person interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Balance zwischen Texttreue und analytischer Tiefe, aber könnte noch spezifischer in der Analyse des Textes werden."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Identifizierung der zentralen Themen des Songs, aber variieren in der Tiefe und Spezifität der Analyse.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine klare und strukturierte Analyse des Songtexts. Es ist ratsam, tiefer in die Analyse des Textes einzutauchen und spezifischere Beobachtungen zu machen, um eine noch bessere Interpretation zu erhalten."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unschuld und die Verbindung zu den Ereignissen der Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vielfalt und den Kontrast der Stadt"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene in Kaldi's Café ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unschuld und die Verbindung zu den Ereignissen der Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vielfalt und den Kontrast der Stadt"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene in Kaldi's Café ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unschuld und die Verbindung zu den Ereignissen der Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vielfalt und den Kontrast der Stadt"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene in Kaldi's Café ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unschuld und die Verbindung zu den Ereignissen der Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vielfalt und den Kontrast der Stadt"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene in Kaldi's Café ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'None of them know who exactly I am' unterstrichen wird"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene in Kaldi's Café ist detailliert und textbezogen",
+          "Die Wiederholung des Refrains unterstreicht die Dringlichkeit und die Notwendigkeit, sich selbst und seine Gefühle mit anderen zu teilen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber es gibt keine großen Unterschiede zwischen ihnen",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie die meisten textbezogenen Aussagen und die wenigsten Erfindungen enthält"
+  }
+}

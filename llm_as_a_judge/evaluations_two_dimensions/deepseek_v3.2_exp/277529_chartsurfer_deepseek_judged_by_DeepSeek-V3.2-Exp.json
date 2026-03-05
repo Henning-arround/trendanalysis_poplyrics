@@ -1,0 +1,89 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der äußerlichen Schönheit der Person, wie die Sonnenstrahlen in ihrem Haar und ihre Stimme, die wie eine sanfte Brise klingt, kontrastiert mit der inneren Härte, die ihr von jemandem auferlegt wurde."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der äußerlichen Schönheit der Person, wie die Sonnenstrahlen in ihrem Haar und ihre Stimme, die wie eine sanfte Brise klingt, kontrastiert mit der inneren Härte, die ihr von jemandem auferlegt wurde."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der äußerlichen Schönheit der Person, wie die Sonnenstrahlen in ihrem Haar und ihre Stimme, die wie eine sanfte Brise klingt, kontrastiert mit der inneren Härte, die ihr von jemandem auferlegt wurde."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der äußerlichen Schönheit der Person, wie die Sonnenstrahlen in ihrem Haar und ihre Stimme, die wie eine sanfte Brise klingt, kontrastiert mit der inneren Härte, die ihr von jemandem auferlegt wurde."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der äußerlichen Schönheit der Person, wie die Sonnenstrahlen in ihrem Haar und ihre Stimme, die wie eine sanfte Brise klingt, kontrastiert mit der inneren Härte, die ihr von jemandem auferlegt wurde."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen eine hohe Konsistenz in ihrer Struktur und Aussage.",
+    "empfehlung": "Die Interpretationen zeigen eine gute Balance zwischen Textreue und analytischer Tiefe. Es wäre jedoch ratsam, künftig noch stärker auf spezifische Textanalysen und weniger auf Allgemeinplätze zu setzen."
+  }
+}

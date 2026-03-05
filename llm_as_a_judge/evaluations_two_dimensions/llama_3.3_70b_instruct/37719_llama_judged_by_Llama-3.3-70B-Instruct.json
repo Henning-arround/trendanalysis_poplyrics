@@ -1,0 +1,99 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Band ermutigt ihre Zuhörer, alle Hemmungen abzulegen und sich dem Moment hinzugeben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein perfekter Soundtrack für eine unvergessliche Nacht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen und gibt eine gute Übersicht über den Inhalt des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'We'll start over, I want to do it all again' unterstreicht die Sehnsucht, diesen Moment noch einmal erleben zu können."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Tribut an die Freude und die Ekstase des Lebens."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation gibt eine gute Übersicht über den Inhalt des Songs, aber könnte tiefer gehen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'We'll start over, I want to do it all again' unterstreicht die Sehnsucht, diesen Moment noch einmal erleben zu können."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Tribut an die Freude und die Ekstase des Lebens."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation gibt eine gute Übersicht über den Inhalt des Songs, aber könnte tiefer gehen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'We'll start over, I want to do it all again' unterstreicht die Sehnsucht, diesen Moment noch einmal erleben zu können."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Tribut an die Freude und die Ekstase des Lebens."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation gibt eine gute Übersicht über den Inhalt des Songs, aber könnte tiefer gehen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Band ermutigt ihre Zuhörer, alle Hemmungen abzulegen und sich dem Moment hinzugeben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein perfekter Soundtrack für eine unvergessliche Nacht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen und gibt eine gute Übersicht über den Inhalt des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.5,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber könnten tiefer gehen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

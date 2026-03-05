@@ -1,0 +1,123 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der \"OJ's gloves\" wird als Hinweis auf Unfähigkeit, sich von Erfahrungen zu lösen, interpretiert.",
+          "Der kulturelle‑historische Kontext wird als „Zeit globaler Unsicherheit und sozialen Wandels“ beschrieben, obwohl der Text keine solche Einordnung liefert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Exploration von Identität, Verbindung und spiritueller Suche.",
+          "Die emotionale Wirkung ist vielschichtig und affektiv, da der Sänger eine Atmosphäre der Melancholie schafft."
+        ],
+        "positive_aspekte": [
+          "Er erkennt korrekt die wiederholte Zeile „It only lives when you give it away“ als zentrale Botschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die „OJ's gloves“ würden die Unfähigkeit symbolisieren, bestimmte Emotionen abzulegen.",
+          "Die Szenen werden als in New Orleans verortet, obwohl der Text nur von Chartres Street und Kaldi’s Café spricht.",
+          "Der Song wird in den Kontext sozialer und politischer Unruhen gestellt, ohne dass der Text das erwähnt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und vielschichtige Textstruktur.",
+          "Die affektive Dimension wird durch Symbole wie den „languid mandala of the ceiling fan“ erzeugt.",
+          "Die wiederholte Aufforderung kann als spirituelle Lösung verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die Kernaussage des Refrains korrekt und verweist auf konkrete Textstellen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile „Slid out of my dreams …“ wird als Symbol für den Übergang von Traum zur Realität gedeutet.",
+          "Der kulturelle‑historische Kontext wird als „Zeit globaler Veränderung und sozialen Umbruchs“ beschrieben.",
+          "Die Gegensätze von Tigers/Lambs und Pearls/Dung werden als Symbol für menschliche Spannungen interpretiert.",
+          "Die Zeile „None of them know who exactly I am“ wird als Hinweis auf Ambiguität gedeutet.",
+          "Die Erwähnung von Prince Charles’ Amex‑Account wird als Kritik an Konsumismus dargestellt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Exploration von Identität und Bedeutung.",
+          "Die emotionale Wirkung ist vielschichtig und affektiv, da er Reflexion schafft.",
+          "Der kulturelle Kontext sei wichtig, weil er in einer Zeit globaler Veränderung entstand.",
+          "Durch Analyse kann man die Komplexität des Songs besser verstehen."
+        ],
+        "positive_aspekte": [
+          "Er nennt die zentrale Botschaft des Refrains korrekt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbole „OJ's gloves“ und „Parrot things“ werden als Hinweis auf Verstrickungen bzw. Fallen interpretiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und vielschichtige Textstruktur, die sich einer einfachen Interpretation entzieht.",
+          "Die zentrale Botschaft wird als Hinweis auf das Teilen von etwas verstanden.",
+          "Die literarischen Stilmittel werden als vielfältig und reichhaltig bezeichnet.",
+          "Die emotionale Wirkung wird als intensiv und affektiv beschrieben.",
+          "Die Wiederholung von „Give it away“ wird als mögliche resignierte oder befreiende Geste gedeutet."
+        ],
+        "positive_aspekte": [
+          "Verweist konkret auf mehrere Textmetaphern (z. B. „languid mandala of the ceiling fan“, „tigers and lambs“, „Pearls before pigs“).",
+          "Bietet eine differenzierte Analyse von Symbolen und deren möglicher Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der „OJ's gloves“ wird als Unfähigkeit, Erfahrungen loszulassen, gedeutet.",
+          "Der kulturelle‑historische Kontext wird als Zeit globaler Unsicherheit beschrieben.",
+          "Die Erwähnung von Prince Charles’ Amex‑Account wird als Kritik an Oberflächlichkeit interpretiert.",
+          "Die Zeile über „Pearls before pigs and dung become jewels“ wird als Symbol für Transformation gedeutet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Exploration von Identität, Verbindung und spiritueller Suche.",
+          "Die emotionale Wirkung ist vielschichtig und affektiv, da eine Atmosphäre von Melancholie entsteht.",
+          "Die Zeilen deuten auf Unzufriedenheit und Verwirrung hin, die durch Suche nach Erleuchtung gemildert werden soll.",
+          "Durch Analyse kann man die Komplexität und Tiefe des Songs besser verstehen."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die zentrale Wiederholung des Refrains korrekt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2 und 3 sind nahezu identisch, was auf geringe Varianz hinweist. Insgesamt schwankt die Qualität stark; nur Interpretation 4 kombiniert Texttreue mit substantieller Analyse.",
+    "empfehlung": "Ein Ansatz, der konkrete Textbelege nutzt, aber gleichzeitig die Mehrdeutigkeit des Songs respektiert (wie Interpretation 4), liefert die ausgewogenste Bewertung. Künftige Modelle sollten weniger spekulative, kulturhistorische Einordnungen ohne Textbasis vermeiden und stärker auf nachweisbare Textstellen fokussieren."
+  }
+}

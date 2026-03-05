@@ -1,0 +1,130 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die menschliche Sehnsucht nach Verbindung und Freiheit interpretiert werden.",
+          "Die Metapher des \"Prismas meines Geistes\" deutet auf eine Art von mentaler Projektion oder Übertragung hin.",
+          "Die Wiederholung der Zeile \"Out of my head / And into the blue\" kann als Befreiung interpretiert werden.",
+          "Das Symbol \"Baby Blue\" wird als emotionale Anknüpfung an eine verlorene Liebe gedeutet.",
+          "Die Zeile \"Flying in the long wide airplane ...\" suggeriert Distanz und veränderte Perspektive."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität des Songs liegt in der Offenheit seiner Interpretation, die es dem Hörer ermöglicht, eigene Erfahrungen hineinzupro­jizieren."
+        ],
+        "positive_aspekte": [
+          "Identifiziert mehrere zentrale Bildmotive (Pool, Himmel, Flugzeug, Prism) und verknüpft sie konsequent mit einer übergeordneten Thematik."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert die menschliche Sehnsucht nach Verbindung und Freiheit.",
+          "Das \"Prism of my mind\" wird als mentale Projektion interpretiert.",
+          "Die Wiederholung von \"Out of my head / And into the blue\" steht für Befreiung.",
+          "Das Symbol \"Baby Blue\" symbolisiert eine unerreichbare Liebe.",
+          "Die Zeile über das Fliegen im \"long wide airplane\" deutet auf Distanz hin.",
+          "Die emotionale Wirkung ist melancholische Sehnsucht oder Nostalgie.",
+          "Die Ambiguität liegt in der Unklarheit der Beziehung zwischen Protagonist und Anderem.",
+          "Die Endwiederholung von \"My baby blue\" wird als emotionale Fixierung gedeutet."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gibt konkrete Textbezüge (Prism, Flugzeug, Wiederholungen) und versucht, deren Bedeutung zu erschließen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Sehnsucht nach Verbindung und Freiheit.",
+          "Die Metapher des \"Prismas meines Geistes\" deutet auf mentale Projektion hin.",
+          "Die Wiederholung von \"Out of my head / And into the blue\" symbolisiert Befreiung.",
+          "Das Symbol \"Baby Blue\" steht für emotionale Anknüpfung an eine verlorene Liebe.",
+          "Die Zeile über das Fliegen im \"long wide airplane\" suggeriert Distanz und Überblick.",
+          "Die emotionale Wirkung ist melancholische Sehnsucht oder Nostalgie.",
+          "Die Ambiguität zwischen Sehnsucht und Distanz bleibt unaufgelöst."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Kontextualisierung könnte auf die Bedeutung von Musik als Ausdrucksmittel für emotionale Erfahrungen hinweisen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft wiederholte Bildsprache (Wasser, Himmel, Flugzeug) mit einer übergeordneten Thematik."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 1,
+      "gesamt_score": 1.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert Sehnsucht nach Verbindung und Freiheit.",
+          "Die Textzeilen suggerieren Entfremdung und Isolation durch Kontraste zwischen persönlicher und offener Umgebung.",
+          "Die Wiederholung von \"My baby blue\" ist eine Metapher für unerreichbare Liebe oder Freiheit.",
+          "Die blaue Farbe symbolisiert Unendlichkeit und Freiheit, das \"prism of my mind\" die innere Welt.",
+          "Die Zeile über telepathische Verbindung deutet auf eine Art von mentaler Kommunikation hin.",
+          "Die Wiederholung von \"Out of my head / And into the blue\" wird als Flucht aus der Gedankenwelt interpretiert.",
+          "Die emotionale Wirkung ist melancholisch und sehnsüchtig, suggeriert Verlust.",
+          "Die Endwiederholung von \"My baby blue\" kann als resignierte Akzeptanz gedeutet werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel tragen zur thematischen Komplexität bei.",
+          "Die kulturelle und historische Kontextualisierung ist wichtig, um die Komplexität zu verstehen.",
+          "Die Ambiguitäten und Spannungen bleiben ungelöst und lassen Raum für Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Symbolik (Blau, Prism, Flugzeug) und versucht, diese zu deuten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Sehnsucht nach Verbindung und Freiheit.",
+          "Die Metapher des \"Prismas meines Geistes\" deutet auf mentale Projektion hin.",
+          "Die Wiederholung von \"Out of my head / And into the blue\" steht für Befreiung.",
+          "Die Zeilen erweitern die Metapher, indem sie die Perspektive des Protagonisten thematisieren.",
+          "Die Wiederholung von \"My baby blue\" kann als ambivalente Liebeserklärung gedeutet werden.",
+          "Die emotionale Wirkung erzeugt eine Atmosphäre von Sehnsucht und Verlangen.",
+          "Die Zeilen deuten auf eine Fernbeziehung hin, symbolisiert durch die Unendlichkeit des \"blue\".",
+          "Die tiefere Bedeutungsebene thematisiert Sehnsucht ohne eindeutige Antwort."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene kann als Reflexion menschlicher Erfahrung gesehen werden, ohne klare Antwort."
+        ],
+        "positive_aspekte": [
+          "Verbindet wiederholte Motive (Prism, Flugzeug, Blau) mit einer kohärenten Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 1.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Sehnsucht, Freiheit, Symbolik von Blau/Prism). Die inhaltliche Varianz ist gering, was zu hohen Halluzinationsraten führt.",
+    "empfehlung": "Ein Ansatz, der stärker am Text verankert ist (z. B. klare Belege für Bildsprache und deren mögliche Mehrdeutigkeit) und weniger spekulative Zuschreibungen an den Künstler, würde sowohl die Halluzinationsrate senken als auch die analytische Tiefe erhöhen."
+  }
+}

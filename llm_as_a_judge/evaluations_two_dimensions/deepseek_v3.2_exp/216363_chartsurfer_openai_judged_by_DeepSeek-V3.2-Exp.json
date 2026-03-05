@@ -1,0 +1,94 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Spiegel der menschlichen Tendenz, nach Schmerz zu wachsen"
+        ],
+        "positive_aspekte": [
+          "Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung",
+          "Textbezogene Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Rache",
+          "Bewusstsein für die Vergänglichkeit von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung",
+          "Textbezogene Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung",
+          "Textbezogene Analyse",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Persönliches Wachstum, das aus Schmerz entsteht"
+        ],
+        "positive_aspekte": [
+          "Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung",
+          "Textbezogene Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Befreiender Akt"
+        ],
+        "positive_aspekte": [
+          "Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung",
+          "Textbezogene Analyse"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Hohe Konsistenz in der Bewertung",
+    "empfehlung": "Interpretation 3 bietet die beste Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

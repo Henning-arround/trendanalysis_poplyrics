@@ -1,0 +1,151 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She's often inclined to borrow / Somebody's dreams till tomorrow\" lässt darauf schließen, dass Emily Schwierigkeiten hat, ihre eigene Identität zu finden und stattdessen die Vorstellungen anderer übernimmt.",
+          "Die Metapher des \"borrow[ns] Somebody's dreams\" verdeutlicht Emilys Abhängigkeit von anderen.",
+          "Die Zeile \"Float on a river / Forever and ever, Emily\" erzeugt ein Bild von Freiheit und Leichtigkeit, das jedoch durch die vorherigen Zeilen über Emilys Schwierigkeiten relativiert wird.",
+          "Die Wiederholung des Refrains \"See Emily play\" kann als eine Art von Distanzierung oder Beobachtung interpretiert werden, die Emilys Handlungen und Emotionen in den Blick nimmt.",
+          "Die Zeilen \"Emily cries / Gazing through trees in sorrow\" erzeugen eine Atmosphäre der Traurigkeit und Verzweiflung.",
+          "Der Song kann als ein Kommentar zu den gesellschaftlichen Erwartungen und Zwängen interpretiert werden, die an die Individuen gestellt werden.",
+          "Im Kontext der 1960er Jahre kann \"See Emily Play\" auch als ein Kommentar zu den Konventionen und Normen der damaligen Gesellschaft gesehen werden, die die Freiheit und Kreativität der Individuen einschränkten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das sich einer tiefen Interpretation öffnet.",
+          "Die zentrale Botschaft ... Darstellung von Emily ... verliert.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist melancholisch und nachdenklich.",
+          "Die Ambiguität des Songs liegt darin, dass Emilys Handlungen und Emotionen sowohl als frei als auch als determiniert interpretiert werden können."
+        ],
+        "positive_aspekte": [
+          "Verweist mehrfach auf konkrete Textstellen (z. B. „Float on a river“, „Emily cries\").",
+          "Erkennt wiederkehrende Motive (Wiederholung des Refrains).",
+          "Zeigt ein Bemühen, verschiedene mögliche Bedeutungen zu benennen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She's often inclined to borrow / Somebody's dreams till tomorrow\" lässt darauf schließen, dass Emily Schwierigkeiten hat, ihre eigene Identität zu finden und stattdessen die Vorstellungen anderer übernimmt.",
+          "Die Zeile \"You'll lose your mind and play / Free games for May\" suggeriert eine Art von Befreiung und Unbeschwertheit, die jedoch auch als Kritik an der Oberflächlichkeit und dem Konformismus der Gesellschaft interpretiert werden kann.",
+          "Die Wiederholung der Zeile \"There is no other day\" und die Klage \"Emily cries\" unterstreichen die Traurigkeit und Verzweiflung, die Emily empfindet.",
+          "Im kulturellen und historischen Kontext der späten 1960er Jahre kann der Song als Kritik an der Konsumgesellschaft und der Verdrängung individueller Freiheit interpretiert werden.",
+          "Die \"Free games for May\" können als Anspielung auf die politischen und sozialen Umbrüche der Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das sich einer tiefen Interpretation öffnet.",
+          "Die zentrale Botschaft des Songs scheint ... die Darstellung von Emily zu sein, die sich in einer Welt von Träumen und Spielen verliert.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist melancholisch und nachdenklich.",
+          "Insgesamt bleibt der Song jedoch ambig und offen für verschiedene Interpretationen, was seine tiefe Bedeutungsebene und symbolische Ordnung ausmacht."
+        ],
+        "positive_aspekte": [
+          "Nutzt konkrete Textzitate (z. B. „borrow“, „Free games for May“, „There is no other day“).",
+          "Verbindet Textstellen mit möglichen historischen Bezügen, was die Analyse kontextuell erweitert.",
+          "Erkennt die wiederholte Struktur des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She's often inclined to borrow / Somebody's dreams till tomorrow\" lässt darauf schließen, dass Emily Schwierigkeiten hat, ihre eigene Identität zu finden und stattdessen die Vorstellungen anderer übernimmt.",
+          "Die Metapher des \"Free games for May\" kann als Symbol für die Sehnsucht nach Freiheit und Unbeschwertheit interpretiert werden.",
+          "Die Zeile \"You'll lose your mind and play\" deutet auf die Gefahr hin, dass Emily in ihren Spielen und Träumen die Kontrolle über die Realität verliert.",
+          "Die Wiederholung der Zeile \"There is no other day\" und die Klage \"Emily cries\" unterstreichen die Traurigkeit und Verzweiflung, die Emily empfindet.",
+          "Im kulturellen und historischen Kontext der späten 1960er Jahre kann der Song als Ausdruck der jugendlichen Rebellion und des Wunsches nach Freiheit und Selbstentdeckung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das sich einer tiefen Interpretation öffnet.",
+          "Die zentrale Botschaft des Songs scheint ... die Darstellung von Emily zu sein, die sich in einer Welt von Träumen und Spielen verliert.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist melancholisch und nachdenklich.",
+          "Die symbolische Ordnung des Songs bleibt jedoch ambig, sodass eine eindeutige Interpretation schwierig ist."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf mehrere konkrete Textpassagen (z. B. „Free games for May“, „There is no other day“).",
+          "Erkennt die mögliche Spannung zwischen Freiheit und Kontrolle im Text.",
+          "Bietet einen historischen Kontext, der die Analyse vertieft."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She's often inclined to borrow / Somebody's dreams till tomorrow\" lässt darauf schließen, dass Emily Schwierigkeiten hat, ihre eigene Identität zu finden und stattdessen die Vorstellungen anderer übernimmt.",
+          "Die Metapher des \"borrow[ns] Somebody's dreams\" verdeutlicht Emilys Abhängigkeit von anderen.",
+          "Die Zeile \"Float on a river / Forever and ever, Emily\" erzeugt ein Bild von Freiheit und Leichtigkeit, das jedoch durch die vorherigen Zeilen über Emilys Schwierigkeiten relativiert wird.",
+          "Die Wiederholung des Refrains \"See Emily play\" kann als eine Art von Distanzierung oder Beobachtung interpretiert werden, die Emily als Objekt wahrnimmt.",
+          "Die Zeile \"You'll lose your mind and play / Free games for May\" kann als Anspielung auf die sich entwickelnde Gegenkultur und die Suche nach neuen Freiheiten interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist melancholisch und nachdenklich, was durch die Zeile \"Emily cries / Gazing through trees in sorrow\" verdeutlicht wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das sich einer tiefen Interpretation öffnet.",
+          "Die zentrale Botschaft ... Darstellung von Emily ... verliert.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden.",
+          "Insgesamt zeigt ... eine komplexe und vielschichtige Darstellung von Identität, Freiheit und Abhängigkeit, die zur Reflexion anregt."
+        ],
+        "positive_aspekte": [
+          "Nutzt mehrere Textzitate (z. B. „borrow“, „Float on a river“, „Free games for May“).",
+          "Verbindet den Text mit der Gegenkultur der 60er‑Jahre."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She's often inclined to borrow / Somebody's dreams till tomorrow\" lässt darauf schließen, dass Emily Schwierigkeiten hat, ihre eigene Identität zu finden und stattdessen die Vorstellungen anderer übernimmt.",
+          "Die Metapher des \"Free games for May\" kann als Symbol für die Sehnsucht nach Freiheit und Unbeschwertheit interpretiert werden.",
+          "Die Zeile \"You'll lose your mind and play\" deutet auf die Gefahr hin, dass Emily in ihren Spielen und Träumen die Kontrolle über die Realität verliert.",
+          "Die Wiederholung der Zeile \"There is no other day\" und die Klage \"Emily cries\" unterstreichen die Traurigkeit und Verzweiflung, die Emily empfindet.",
+          "Im kulturellen und historischen Kontext der späten 1960er Jahre kann der Song als Ausdruck der jugendlichen Rebellion und des Wunsches nach Freiheit und Selbstentdeckung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das sich einer tiefen Interpretation öffnet.",
+          "Die zentrale Botschaft ... Darstellung von Emily ... verliert.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist melancholisch und nachdenklich.",
+          "Die symbolische Ordnung des Songs bleibt jedoch ambig, sodass eine eindeutige Interpretation schwierig ist.",
+          "Die Spannung zwischen Freiheit und Kontrolle, Traum und Realität bleibt bestehen, und der Hörer ist eingeladen, seine eigene Interpretation zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Naturbilder im Text und verbindet sie mit einer konkreten Beobachtung (Bezug zu „Gazing through trees“ etc.).",
+          "Bietet einen historischen Kontext, der die mögliche Bedeutung des Songs erweitert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1.6,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die fünf Analysen wiederholen stark dieselben Grundthesen (Emily als verlorene Figur, wiederholte Motive, 60er‑Jahre‑Kontext). Dadurch entsteht ein hoher Anteil oberflächlicher bzw. erfundener Aussagen, besonders in den Interpretationen 2 und 3. Die Variation in Tiefe ist gering; nur Interpretation 1 (und 4/5) liefert ein ausgewogeneres Verhältnis von Textbezug zu Analyse.",
+    "empfehlung": "Ein Ansatz, der mehr direkte Textbelege (z. B. Wortwahl, Wiederholungsstruktur, Klangmotive) mit einer kritischen, aber nicht spekulativen Kontextualisierung kombiniert, erzielt die beste Balance. Interpretation 1 erfüllt dieses Kriterium am besten."
+  }
+}

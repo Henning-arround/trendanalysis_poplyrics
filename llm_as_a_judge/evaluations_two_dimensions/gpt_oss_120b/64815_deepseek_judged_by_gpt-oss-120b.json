@@ -1,0 +1,123 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Webens ... symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren und wie diese Konstruktionen unter dem Druck des Wandels zusammenbrechen.",
+          "Der Song fordert die Zuhörer auf, sich von der Vergangenheit zu verabschieden und sich auf die neue Realität einzulassen.",
+          "Der Text hat auch eine spirituelle Dimension, da er andeutet, dass es eine tiefere, nicht sichtbare Kraft gibt, die diesen Wandel vorantreibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'we'd better learn to say our goodbyes' ist ein Aufruf zur Akzeptanz und zur Loslösung von dem, was nicht mehr ist.",
+          "Insgesamt beschreibt der Song einen Moment des Übergangs und fordert die Zuhörer auf, sich auf die neue Zeit einzulassen."
+        ],
+        "positive_aspekte": [
+          "Zieht klare Bezüge zu wiederholten Textzeilen (z. B. „Nothing you can do can stop the next emerging“).",
+          "Erkennt das wiederkehrende Motiv von Wandel und Abschied."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Webens ... symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren und wie diese Konstruktionen unter dem Druck des Wandels zusammenbrechen.",
+          "Der Refrain ... unterstreicht die Unumkehrbarkeit dieses Prozesses.",
+          "Der Song fordert die Zuhörer ... verabschieden ... neue Realität einzulassen.",
+          "Der Text hat auch eine spirituelle Dimension, ... mystische Kraft ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile ... ist ein Aufruf zur Akzeptanz und zur Loslösung von dem, was nicht mehr ist.",
+          "Insgesamt beschreibt ... Übergang und Transformation, ... Menschen gezwungen ... Perspektive zu ändern ... neue Zukunft einzulassen."
+        ],
+        "positive_aspekte": [
+          "Gute Struktur: Einleitung, Analyse des Refrains, Hinweis auf spirituelle Ebene, zusammenfassende Bewertung.",
+          "Verknüpft mehrere Textpassagen (z. B. „old world's falling“, „turning“) zu einem kohärenten Bild."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Webens ... symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren und wie diese Konstruktionen unter dem Druck des Wandels zusammenbrechen.",
+          "Der Refrain ... unterstreicht die Unumkehrbarkeit dieses Prozesses.",
+          "Der Song fordert die Zuhörer ... verabschieden ... neue Realität einzulassen.",
+          "Der Text hat auch eine spirituelle Dimension, ... mystische Kraft ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile ... ist ein Aufruf zur Akzeptanz und zur Loslösung von dem, was nicht mehr ist.",
+          "Insgesamt beschreibt ... Übergang und Transformation, ... Menschen gezwungen ... Perspektive zu ändern ... neue Zukunft einzulassen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Interpretation des wiederkehrenden Motivs „turning“.",
+          "Erkennt die Bedeutung von Abschied („goodbyes“) im Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Webens ... symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren und wie diese Konstruktionen unter dem Druck des Wandels zusammenbrechen.",
+          "Der Refrain ... unterstreicht die Unumkehrbarkeit dieses Prozesses.",
+          "Der Song fordert die Zuhörer ... verabschieden ... neue Realität einzulassen.",
+          "Der Text hat auch eine spirituelle Dimension, ... mystische Kraft ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile ... ist ein Aufruf zur Akzeptanz und zur Loslösung von dem, was nicht mehr ist.",
+          "Insgesamt beschreibt ... Übergang und Transformation, ... Menschen gezwungen ... Perspektive zu ändern ... neue Zukunft einzulassen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit einer übergeordneten Botschaft des Wandels.",
+          "Erkennt die wiederholte Aufforderung zum Abschied."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Webens ... symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren und wie diese Konstruktionen unter dem Druck des Wandels zusammenbrechen.",
+          "Der Refrain ... unterstreicht die Unumkehrbarkeit dieses Prozesses.",
+          "Der Song fordert die Zuhörer ... verabschieden ... neue Realität einzulassen.",
+          "Der Text hat auch eine spirituelle Dimension, ... mystische Kraft ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile ... ist ein Aufruf zur Akzeptanz und zur Loslösung von dem, was nicht mehr ist.",
+          "Insgesamt beschreibt ... Übergang und Transformation, ... Menschen gezwungen ... Perspektive zu ändern ... neue Zukunft einzulassen."
+        ],
+        "positive_aspekte": [
+          "Stellt klare Bezüge zu den wiederholten Zeilen des Songs her.",
+          "Betont das Motiv des unvermeidlichen Wandels."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Alle Interpretationen erreichen identische Scores (Halluzination 2, Tiefe 3). Es gibt keinen klaren Spitzenreiter.",
+    "durchschnitt_halluzination": 2.0,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die fünf Texte sind nahezu identisch; die Varianz in Halluzinations‑ und Tiefescores ist daher null.",
+    "empfehlung": "Ein Ansatz, der weniger wiederholte Formulierungen und mehr differenzierte, textbasierte Analysen liefert, würde sowohl die Halluzinationsrate senken als auch die Tiefenbewertung erhöhen."
+  }
+}

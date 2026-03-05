@@ -1,0 +1,99 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1986 im Kontext des späten Kalten Krieges zu verorten, einer Phase, in der persönliche Freiheit und transnationale Vernetzung vermehrt thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge (Metaphern, Bildpaare, bilingualer Wechsel).",
+          "Klare Unterscheidung zwischen persönlicher und kollektiver Ebene.",
+          "Ausgewogene Analyse, die Ambiguitäten offen lässt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1986 im Kontext des späten Kalten Krieges zu verorten, einer Phase, in der persönliche Selbstbestimmung und transnationale Vernetzung vermehrt thematisiert wurden.",
+          "Die Aussage „Für andere durchs Feuer geh'n“ (Zeile 27) verweist zugleich auf solidarische Ideale, die im europäischen Sozialdiskurs jener Zeit präsent waren.",
+          "Diese offenen Widersprüche lassen den Song als kulturelles Artefakt sowohl als Liebesverkündungs‑ als auch als Zeitzeugnis einer Ära der Selbst‑ und Gemeinschaftsfindung verstehen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Text und historischer Kontextualisierung (auch wenn teilweise spekulativ).",
+          "Tiefgehende Analyse der Dualität von Liebe als ontologischer Anker und Projektionsfläche."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1986, einer Phase des europäischen Wohlstands, aber auch zunehmender Individualisierung."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse der zentralen Metaphern (Atemzug, daily sunshine).",
+          "Klare Darstellung der Ambivalenz zwischen Autonomie und Abhängigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Wechsel zwischen Deutsch und Englisch verstärkt die Fragmentierung des Selbstbildes und suggeriert eine kulturelle Hybridität, die in den 1980er‑Jahren durch die Globalisierung von Popmusik aufkam.",
+          "Historisch ist das Werk im Kontext des späten Kalten Krieges zu sehen, einer Phase, in der persönliche Freiheit und kollektive Solidarität in Popkultur verhandelt wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkenntnis der kulturellen Hybridität und Hinweis auf die ironische Selbstreflexion des „Komödianten\"."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk 1986 im Kontext des späten Kalten Krieges zu verorten, einer Phase, in der westdeutsche Popkultur vermehrt Optimismus und Selbstbestimmung thematisierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese offene Spannung lässt mehrere Deutungsräume bestehen."
+        ],
+        "positive_aspekte": [
+          "Ausgewogene Betrachtung von Performativität (Komödiant) und gesellschaftlicher Erwartung (Für andere durchs Feuer geh’n).",
+          "Klare Analyse der bilingualen Struktur und ihrer stilistischen Wirkung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen hohe inhaltliche Überschneidungen (z. B. historische Einordnung, Metaphernanalyse). Unterschiede liegen vor allem im Umfang spekulativer historischer Aussagen und in der Tiefe der stilistischen Analyse.",
+    "empfehlung": "Interpretation 3 (und ebenfalls 4 & 5) bieten die beste Balance aus Texttreue und analytischer Tiefe, während sie kaum unbelegte Behauptungen enthalten. Für zukünftige Modelle sollte der Fokus auf präzise Textbezüge und das Vermeiden von spekulativen historischen Kontexten gelegt werden."
+  }
+}

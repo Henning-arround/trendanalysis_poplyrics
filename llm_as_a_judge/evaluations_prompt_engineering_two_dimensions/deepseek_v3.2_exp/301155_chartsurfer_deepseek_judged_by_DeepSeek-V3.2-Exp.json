@@ -1,0 +1,108 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Beispiel für die Country-Pop-Musik dieser Zeit gesehen werden.",
+          "Wanda Jackson war eine der ersten Frauen, die im Country- und Rockabilly-Genre erfolgreich waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin scheint zu sagen, dass die Zeit alle Beziehungen verändert und dass die Menschen ihre Gefühle und Bindungen nicht aufrechterhalten können.",
+          "Insgesamt zeigt der Song eine komplexe und vielschichtige Thematik, die zur Reflexion über die menschliche Erfahrung einlädt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs.",
+          "Die Analyse der literarischen Stilmittel ist gut."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Kommentar zu den Veränderungen in der Gesellschaft und den Beziehungen zwischen Männern und Frauen interpretiert werden.",
+          "Wanda Jackson war eine der ersten Frauen im Country- und Rockabilly-Genre und repräsentierte eine neue Generation von Frauen, die ihre Unabhängigkeit und Selbstständigkeit betonten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin wirft ihrem ehemaligen Partner vor, dass er seine Gefühle für sie nicht aufrechterhalten konnte.",
+          "Die emotionale Wirkung des Songs ist von einer gewissen Resignation und einem Hauch von Sarkasmus geprägt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die zentrale Botschaft des Songs.",
+          "Die Analyse der literarischen Stilmittel ist okay."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Veränderungen in den zwischenmenschlichen Beziehungen und der Rolle der Frau in der Gesellschaft interpretiert werden.",
+          "Insgesamt zeigt der Song 'Funny How Time Slips Away' eine tiefere Bedeutungsebene, die die Veränderungen im Leben und die Vergänglichkeit der Zeit reflektiert und damit eine universelle menschliche Erfahrung thematisiert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu.",
+          "Die Analyse der literarischen Stilmittel ist gut.",
+          "Die emotionale Wirkung des Songs wird gut beschrieben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Veränderungen in den zwischenmenschlichen Beziehungen und der Rolle der Frau in der Gesellschaft interpretiert werden.",
+          "Insgesamt zeigt der Song 'Funny How Time Slips Away' eine tiefere Bedeutungsebene, die die Veränderungen im Leben und die Vergänglichkeit der Zeit reflektiert und damit eine universelle menschliche Erfahrung thematisiert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu.",
+          "Die Analyse der literarischen Stilmittel ist gut.",
+          "Die emotionale Wirkung des Songs wird gut beschrieben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Veränderungen in den zwischenmenschlichen Beziehungen und der Rolle der Frau in der Gesellschaft interpretiert werden.",
+          "Insgesamt zeigt der Song 'Funny How Time Slips Away' eine tiefere Bedeutungsebene, die die Veränderungen im Leben und die Vergänglichkeit der Zeit reflektiert und damit eine universelle menschliche Erfahrung thematisiert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu.",
+          "Die Analyse der literarischen Stilmittel ist gut.",
+          "Die emotionale Wirkung des Songs wird gut beschrieben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 sind sehr ähnlich und zeigen eine hohe Konsistenz.",
+    "empfehlung": "Die Interpretationen 3, 4 und 5 sind empfehlenswert, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten."
+  }
+}

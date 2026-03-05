@@ -1,0 +1,105 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Idee, dass Schmerz und Leid ein Teil des Lebens sind, aber dass sie auch eine Chance bieten, zu wachsen und zu lernen.",
+          "Die Wiederholung des Refrains \"Shine on the heartache, the bitter sweet glory\" unterstreicht diese Idee und betont die Bedeutung, das Leben in all seinen Facetten zu akzeptieren und zu schätzen.",
+          "Durch die Begegnung mit dieser anderen Person findet die erzählende Person einen neuen Sinn und eine neue Richtung in ihrem Leben, und der Song endet mit einer Note der Hoffnung und des Optimismus."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast alle Aussagen lassen sich direkt aus den Lyrics ableiten.",
+          "Gute Struktur: klare Beschreibung von Dunkelheit → Begegnung → Licht.",
+          "Vermeidet spekulative Biografiedetails oder Genre‑Einordnungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von \"Shine over everyone\" am Ende des Songs unterstreicht die universelle Botschaft der Hoffnung und des Lichts, das über alle Menschen strahlen kann."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, kaum spekulative Aussagen.",
+          "Balanciert konkrete Bildhaftigkeit (Königreich, Himmelregen) mit einer übergeordneten Interpretation.",
+          "Wenig Wiederholungen, jede Aussage liefert neuen Inhalt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die musikalische und textliche Wiederholung von Themen und Phrasen verstärkt die emotionale Tiefe und Intensität des Songs, der letztendlich eine Botschaft der Hoffnung und des Trostes vermittelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Überwindung von Schmerz und das Erreichen einer Art von Erlösung, symbolisiert durch das \"Shine on the heartache\", das über alle strahlt.",
+          "Die wiederkehrende Erwähnung von \"good fortune\" und \"I saw life in your eyes\" unterstreicht die Bedeutung dieser Begegnung für die persönliche Veränderung.",
+          "Der Refrain \"There lies the kingdom of beautiful stories / Pure as the heaven's rain\" wird zu einer Art von Sehnsucht nach einem Ort der Ruhe und des Friedens, den der Protagonist durch diese neue Beziehung gefunden zu haben scheint."
+        ],
+        "positive_aspekte": [
+          "Alle Kernbilder des Textes (Dunkelheit, Licht, Königreich, Himmelregen) werden korrekt wiedergegeben.",
+          "Erklärt die wiederholte Phrase \"good fortune arrived\" eindeutig."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Erwähnung von \"gutem Glück\", das mit dem Erscheinen dieser Person eintritt, unterstreicht die Bedeutung dieser Begegnung für die persönliche Veränderung und Erlösung.",
+          "Der Refrain, der von \"Himmelregen\" und \"bitterer Süße\" spricht, betont die Dualität von Schmerz und Freude, die im Leben erfahren wird, und die Notwendigkeit, dass Licht über alle Menschen scheint, um sie zu erhellen und zu trösten."
+        ],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Analyse.",
+          "Gute Verbindung zwischen einzelnen Bildmotiven (Nebelsicht, Königreich, Regen)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Idee, dass Schmerz und Leid ein Teil des Lebens sind, aber dass sie auch eine Chance bieten, zu wachsen und zu lernen.",
+          "Die Wiederholung des Refrains \"Shine on the heartache, the bitter sweet glory\" unterstreicht diese Idee und betont die Bedeutung, das Leben in all seinen Facetten zu akzeptieren und zu schätzen.",
+          "Durch die Begegnung mit dieser anderen Person findet die Erzählerfigur einen neuen Weg und eine neue Perspektive, die ihr hilft, ihre Vergangenheit zu überwinden und in eine bessere Zukunft zu blicken."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Grundinterpretation um den Aspekt \"Träume zu verfolgen\", was aus \"Freedom to choose\" logisch abgeleitet ist.",
+          "Bleibt bei reinen Textbezügen, keine biografischen Spekulationen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernbilder (Dunkelheit, Licht, Königreich, Himmelregen) auf; die Varianz liegt hauptsächlich im Umfang der allgemeinen Aussagen. Die Halluzinationsrate ist bei vier Interpretationen praktisch null, nur eine enthält eine erfundene Aussage über die Musik.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance zwischen Texttreue und analytischer Tiefe. Sie bleibt stark am Text verankert, liefert konkrete Bildanalysen und vermeidet übermäßige Allgemeinplätze, wodurch sie als Vorbild für künftige LLM‑Interpretationen dienen kann."
+  }
+}

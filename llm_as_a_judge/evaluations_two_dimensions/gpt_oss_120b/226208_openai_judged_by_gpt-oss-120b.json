@@ -1,0 +1,116 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein Bild einer von Gewalt und Konflikten geprägten Welt, in der das Individuum nach einem inneren Zufluchtsort sucht, der jenseits von Schuldzuweisungen und konventionellen Fronten liegt.",
+          "Die wiederholte Gegenüberstellung von \"who’s wrong, who’s right\" und dem Wunsch, keinen Kampf zu führen, verdeutlicht die Ablehnung einer dichotomen Moral, die in vielen gesellschaftlichen Auseinandersetzungen vorherrscht.",
+          "Stattdessen wird ein Zustand beschrieben, in dem man \"out in the storm\" steht – also mitten im Chaos, aber gleichzeitig nach einem Ort Ausschau hält, den man seit Geburt sucht, ein Platz, an dem kein neuer Krieg entfacht wird und in dem das \"eye\" des Sturms, das ruhige Zentrum, als Metapher für Klarheit und Frieden dient.",
+          "Die Zeilen \"It’s all around you, it is everywhere / Do you understand or do you really care\" fordern den Hörer heraus, die allgegenwärtige Gewalt nicht nur zu erkennen, sondern aktiv Mitgefühl zu zeigen.",
+          "Der Refrain, der das Bild des Sturms wiederholt, fungiert als Symbol für die permanente Bedrohung, während das \"eye\" zugleich das Potenzial für einen Moment der Stille und Reflexion verkörpert.",
+          "Damit wird ein Spannungsfeld zwischen äußerer Turbulenz und innerer Suche nach einem friedlichen Kern geschaffen, das die Sehnsucht nach einer Welt ohne endlose Kriege und die Verantwortung jedes Einzelnen, sich für ein gemeinsames, besseres Leben einzusetzen, thematisiert."
+        ],
+        "positive_aspekte": [
+          "Alle Zeilen des Songs werden korrekt zitiert.",
+          "Die Interpretation bleibt textnah und fügt keine falschen biografischen Fakten ein."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Ort ist nicht geografisch, sondern emotional – das „Eye of the Storm“, das ruhige Zentrum des Sturms, das Symbol für einen Moment der Klarheit und des Friedens mitten im Chaos.",
+          "Der wiederholte Motiv des Sturms steht für die ständige Bedrohung durch Krieg und Gewalt, während das Auge des Sturms als Metapher für die Suche nach einer unverfälschten Identität dient, die seit Geburt existiert.",
+          "Die Zeile „No race for another war“ kritisiert die endlose Wiederholung von Konflikten, die oft durch nationale oder ideologische Rivalitäten befeuert werden, und fordert ein kollektives Umdenken.",
+          "Damit wird die Wahl zwischen gemeinsamer Anstrengung für ein friedlicheres Miteinander und dem Verharren in einer permanenten, gefährlichen Spannung betont.",
+          "Insgesamt vermittelt das Lied eine melancholische, aber zugleich hoffnungsvolle Botschaft: Der wahre Frieden liegt nicht im äußeren Kampf, sondern im Finden des stillen Zentrums, das jeder Mensch in sich tragen kann."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textzitaten mit interpretativen Aussagen.",
+          "Erkennt die zentrale Metapher des „Eye of the Storm“ und diskutiert deren mögliche Bedeutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein Bild einer von Gewalt geprägten Welt, in der das Individuum zwischen moralischer Orientierung und dem Drang nach Selbstschutz hin- und hergerissen ist.",
+          "Dieser Ort ist nicht geografisch, sondern psychisch – ein innerer Frieden, den er seit seiner Geburt sucht.",
+          "Die wiederholte Gegenüberstellung von \"who’s wrong, who’s right\" und dem Wunsch, keinen Kampf zu führen, verdeutlicht die Ablehnung von binären Urteilen und die Unfähigkeit, sich in ein starres System von Schuldzuweisungen einzufügen.",
+          "Das Bild des Sturms fungiert als Metapher für das globale Chaos, während das \"Auge des Sturms\" – ein ruhiger Kern im Zentrum des Unwetters – als Symbol für einen möglichen Zustand der Klarheit und des Friedens dient.",
+          "Die Zeilen \"Do you understand or do you really care\" fordern den Hörer zu Empathie und aktivem Handeln auf, anstatt passiv am Rande einer gefährlichen Klinge zu verharren.",
+          "Der Refrain betont, dass das Streben nach einem Ort ohne weitere Kriege nicht nur ein persönlicher Wunsch, sondern ein kollektiver Aufruf ist, die Spirale von Konflikten zu durchbrechen und gemeinsam nach einer lebenswerteren Zukunft zu suchen."
+        ],
+        "positive_aspekte": [
+          "Zitiert zentrale Textstellen korrekt.",
+          "Erkennt die Spannung zwischen persönlichem Wunsch und kollektiver Verantwortung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Wunsch nach Distanz zu den erschütternden Bildern manifestiert sich in der Metapher des Sturms, dessen Auge – ein ruhiger, zentraler Punkt – als Symbol für einen Ort der Klarheit und des Friedens dient, den der Sprecher seit Geburt sucht.",
+          "Die wiederholte Gegenüberstellung von \"who’s wrong, who’s right\" und dem Verzicht auf Kampf verdeutlicht eine Ablehnung der dichotomen Moral, die häufig Konflikte legitimiert, und betont stattdessen das Unvermögen, sich in ein starres System zu fügen.",
+          "Die Zeile \"No race for another war\" impliziert ein Appell gegen die Wiederholung historischer Gewaltzyklen und fordert ein kollektives Bemühen um ein besseres Leben.",
+          "Gleichzeitig bleibt die Frage offen, ob die Menschen wirklich verstehen und sich kümmern, was das Bild des \"edge of a knife\" verdeutlicht.",
+          "Somit wird das Lied zu einem Appell, die innere Ruhe zu finden und gleichzeitig gesellschaftliche Verantwortung zu übernehmen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit einer klaren moralischen Lesart.",
+          "Erkennt die zentrale Metapher des Sturms."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Wunsch manifestiert sich in der Metapher des Sturms, dessen Auge – ein ruhiger, zentraler Punkt im Zentrum des Chaos – als Symbol für einen Ort der Klarheit und des Friedens, den das lyrische Ich seit Geburt zu finden versucht.",
+          "Die wiederholte Gegenüberstellung von \"who's wrong, who's right\" und dem Verzicht auf Kampf verdeutlicht eine Ablehnung der dichotomen Moral, die häufig Konflikte legitimiert, und betont stattdessen das Unvermögen, sich in starre Rollen zu fügen.",
+          "Die Zeile \"No race for another war\" impliziert einen Appell gegen die Wiederholung historischer Gewaltzyklen und fordert ein kollektives Bemühen um ein besseres Leben.",
+          "Gleichzeitig bleibt die Frage offen, ob die Menschen wirklich verstehen und sich kümmern.",
+          "Das Bild des \"edge of a knife\" verdeutlicht die prekäre Lage, in der die Menschheit balanciert, während das Auge des Sturms als mögliche Rettungsinsel erscheint, die jedoch nur durch gemeinsames Handeln erreichbar ist."
+        ],
+        "positive_aspekte": [
+          "Zitiert mehrere Schlüsselzeilen exakt.",
+          "Bietet eine kohärente Interpretation, die sowohl individuelle als auch kollektive Dimensionen berücksichtigt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben texttreu (keine Halluzinationen). Die Tiefe variiert stark; Interpretationen 1 und 4 zeigen die höchste analytische Substanz, während 2, 3 und 5 eher oberflächliche Zusammenfassungen bieten.",
+    "empfehlung": "Für eine ausgewogene Analyse, die sowohl Texttreue als auch tiefgehende, textbasierte Interpretation liefert, empfiehlt sich Interpretation 1 (bzw. 4). Sie verbindet konkrete Textbezüge mit einer differenzierten, aber nicht zu spekulativen Deutung."
+  }
+}

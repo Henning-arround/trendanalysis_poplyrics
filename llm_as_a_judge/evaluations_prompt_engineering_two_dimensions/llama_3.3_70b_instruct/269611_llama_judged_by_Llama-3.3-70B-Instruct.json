@@ -1,0 +1,98 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension der Liebe und der Trennung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs liegt in der Konfrontation mit diesen Erinnerungen und der Unfähigkeit, sie zu ertragen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension der Liebe und der Trennung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs liegt in der Konfrontation mit diesen Erinnerungen und der Unfähigkeit, sie zu ertragen",
+          "Der Song thematisiert auch die kulturelle und gesellschaftliche Dimension der Liebe und der Trennung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs liegt in der Konfrontation mit der Vergangenheit und der Unfähigkeit, loszulassen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole",
+          "Die emotionale Wirkung des Songs liegt in der affektiven Dimension"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension der Liebe und der Trennung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs liegt in der Konfrontation mit diesen Erinnerungen und der Unfähigkeit, sie zu ertragen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs liegt in der Konfrontation mit der Vergangenheit und der Unfähigkeit, loszulassen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole",
+          "Die emotionale Wirkung des Songs liegt in der affektiven Dimension"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2 und 4 sind sehr ähnlich und haben eine ähnliche Halluzinations- und Tiefe-Score. Die Interpretationen 3 und 5 sind tiefer und haben weniger Halluzinationen.",
+    "empfehlung": "Die Interpretationen 3 und 5 sind die besten, da sie eine gute Balance zwischen Textreue und analytischer Tiefe haben. Es ist jedoch wichtig, die Interpretationen sorgfältig zu lesen und die Argumente zu bewerten, um die beste Interpretation zu finden."
+  }
+}

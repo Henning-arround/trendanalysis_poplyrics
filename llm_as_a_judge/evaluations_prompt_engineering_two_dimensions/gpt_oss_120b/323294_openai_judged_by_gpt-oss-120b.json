@@ -1,0 +1,114 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk 1950 in den USA zu verorten, einer Zeit des Nachkriegsoptimismus, aber auch des beginnenden Kalten Krieges, in der evangelikale Hymnen als Gegenpol zu säkularen Ängsten dienten.",
+          "Burl Ives, als Folk‑Sänger, brachte das Lied in den Mainstream, wodurch es zugleich als populäre Kulturware und als liturgisches Bekenntnis fungiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Doppelfunktion erzeugt eine Ambiguität: Der Song kann als persönliche Glaubensbekundung, als kollektives Ritual der Nachkriegsgemeinschaft oder als ideologische Stütze im Kontext von Angst vor kommunistischer Ideologie gelesen werden, ohne dass der Text eindeutig eine dieser Lesarten privilegiert."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textanalyse (Metaphern, Symbolik, Wiederholungen).",
+          "Klare Herausarbeitung von Spannungsfeldern zwischen Gegenwart und Eschatologie.",
+          "Stilistische Beobachtungen sind eng am Wortlaut orientiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das 1950 veröffentlichte Werk von Burl Ives in das Nachkriegs‑USA einzuordnen, wo evangelikale Hymnen als Mittel zur kollektiven Bewältigung von Unsicherheit dienten.",
+          "Die Sprache spiegelt die damalige Kultur des „spirituellen Wiederaufbaus“ wider, während die Betonung von persönlicher Erlösung gleichzeitig individuelle Selbstbestimmung betont."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textpassagen lassen jedoch offene Fragen zurück: Wie lässt sich die gleichzeitige Betonung von Unterwerfung und persönlicher Glückseligkeit vereinbaren? Und inwiefern widerspricht das Bild des „burst“ einer ruhigen, „at rest“‑Zustands?",
+          "Diese Ambiguitäten bleiben bewusst unaufgelöst und eröffnen interpretative Spielräume."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse von Bildsprache und deren paradoxen Wirkungen.",
+          "Verknüpfung von theologischen Motiven mit möglichen liturgischen Funktionen.",
+          "Erkenntnis der ambivalenten Stimmung zwischen Ekstase und Ruhe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk 1950 in den USA zu verorten, einer Zeit des Nachkriegsoptimismus und der wachsenden Evangelikalen Bewegung.",
+          "Burl Ives, als Folk‑Sänger, übernahm ein bereits im 19. Jahrhundert entstandenes Hymnenmotiv und adaptierte es für ein breiteres Publikum, was die kulturelle Durchdringung religiöser Sprache in populärer Musik verdeutlicht.",
+          "Die Symbolik von „rapture“, „angels“ und „glory divine“ spiegelt zugleich die damalige Angst vor dem Kalten Krieg und das Bedürfnis nach einer sicheren, übernatürlichen Ordnung, bleibt jedoch offen, ob sie Trost oder Prophezeiung impliziert."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit lässt den Song als Spiegel individueller Glaubens­erfahrungen und kollektiver kultureller Ängste fungieren."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textstellen mit theologischen Konzepten.",
+          "Erkenntnis der thematischen Spannung zwischen irdischer Zufriedenheit und transzendenter Erwartung.",
+          "Klare Benennung von Metaphern (z. B. „washed in His blood“, „born of His Spirit“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das 1950 veröffentlichte Werk von Burl Ives im Kontext der Nachkriegs‑USA zu sehen, einer Zeit, in der evangelikale Hymnen als Gegenmittel zu gesellschaftlicher Unsicherheit dienten.",
+          "Die Folk‑Ästhetik Ives’ (einfacher Gitarrenbegleitung, klare Melodie) vermittelt Authentizität, während die theologische Sprache an traditionelle Kirchenlieder erinnert und damit eine Brücke zwischen populärer Kultur und religiösem Establishment schlägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Symbolik von Engeln, die „descend“ und von „echoes of mercy“ erzeugt ein Klangfeld, das sowohl Trost als auch eine mögliche Überwältigung durch das Übersinnliche impliziert.",
+          "Diese Dualität erzeugt ein Spannungsfeld: Der Song wirkt zugleich als persönlicher Trost und als ideologisches Manifest, ohne eindeutig zu entscheiden, welche Funktion überwiegt."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse von Gegenüberstellungen („perfect submission“ vs. „perfect delight“).",
+          "Erklärung der Bildsprache und ihrer mehrdeutigen Bedeutungen.",
+          "Verbindung von Textstruktur (Refrain‑Wiederholungen) mit möglichen funktionalen Lesarten."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit lässt den Song sowohl als persönliche Bekenntnis­musik als auch als kollektives Manifest einer religiösen Utopie fungieren."
+        ],
+        "positive_aspekte": [
+          "Sehr gründliche Textanalyse: jede Strophe wird systematisch auf Metaphern, Bildsprache und Spannungsfelder untersucht.",
+          "Klare Herausarbeitung der Ambivalenz zwischen „burst“ und „all is at rest“.",
+          "Historischer Kontext wird zwar genannt, bleibt aber auf das Nötigste beschränkt, sodass die Analyse textzentriert bleibt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen die wiederholten Refrains und die Kernmetaphern konsequent auf; die Varianz liegt vor allem in der Tiefe der historischen Kontextualisierung, die bei manchen Modellen stark erfunden ist.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus textnaher Analyse und tiefgehender, aber belegbarer Interpretation. Modelle sollten darauf achten, historische oder genre‑bezogene Aussagen nur dann zu integrieren, wenn sie klar aus dem Text ableitbar sind, um Halluzinations‑Score zu minimieren."
+  }
+}

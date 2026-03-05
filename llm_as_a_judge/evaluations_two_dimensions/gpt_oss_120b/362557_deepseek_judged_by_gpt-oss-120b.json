@@ -1,0 +1,113 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die folgenden Zeilen \"Sway, your body as I say / And in a little while you feel o'key\" deuten darauf hin, dass der Tanz eine positive Wirkung auf den Körper und das Wohlbefinden hat.",
+          "Der Song ist ein Produkt seiner Zeit und spiegelt die Fitness- und Aerobik‑Welle der 80er Jahre wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann \"Dance Dance Dance\" als ein Song interpretiert werden, der Menschen dazu aufruft, sich körperlich zu bewegen und zu tanzen, um sich fit und wohl zu fühlen."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf mehrere Textzeilen (z. B. „Shake a leg“, „One‑two‑three‑four‑five‑six‑seven‑eight“, „Cross‑cross…“).",
+          "Erkennt die Funktion des Songs als quasi‑Tanzanleitung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics sind einfach und leicht verständlich, was den Song zu einem typischen Vertreter des Fitness‑ und Aerobik‑Genres der 80er Jahre macht.",
+          "Die Zeile \"Aerobic dancing has you on the hook\" zeigt, dass der Song auf die damals populäre Aerobik‑Bewegung anspielt.",
+          "Der Song ist auch ein Plädoyer für die Schönheit und Gesundheit, die durch regelmäßige Bewegung erreicht werden kann.",
+          "Der Song ist ein typisches Produkt der 80er Jahre und spiegelt die damalige Fitness‑ und Aerobik‑Kultur wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Dance Dance Dance\" ein Song, der Menschen dazu aufruft, sich zu bewegen, Spaß zu haben und ihre körperliche Fitness zu verbessern."
+        ],
+        "positive_aspekte": [
+          "Gute Übersicht über die wiederholten Refrains und die Grundbotschaft des Textes.",
+          "Erkennt die Motivations‑ und Durchhalte‑Botschaft („Don't give up…“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anweisungen zum Tanzen, wie \"Cross‑cross…\" und \"Step‑step, clock‑clock, fall to the floor\", machen den Song zu einem regelrechten Tanzkurs.",
+          "Der Song ist ein typisches Produkt der Fitness‑ und Aerobik‑Welle und wird bis heute als Klassiker des Genres angesehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist das Stück ein motivierender Song, der zum Tanzen und zur körperlichen Bewegung aufruft und dabei eine positive und aufmunternde Atmosphäre schafft."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf mehrere konkrete Textpassagen, inkl. der Gesundheits‑ und Trainings‑Metaphern.",
+          "Erkennt den didaktischen Charakter des Songs (Tanzanleitung)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics sind einfach und leicht verständlich, was den Song zu einem typischen Vertreter des Fitness‑ und Aerobik‑Genres der 80er Jahre macht.",
+          "Die Zeile \"Aerobic dancing has you on the hook\" zeigt, dass der Song auf die damals populäre Aerobik‑Bewegung anspielt.",
+          "Der Song ist ein Plädoyer für die Schönheit und Gesundheit, die durch regelmäßige Bewegung erreicht werden kann.",
+          "Der Song ist ein typisches Produkt der 80er Jahre und spiegelt die damalige Fitness‑ und Aerobik‑Kultur wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Dance Dance Dance\" ein Song, der Menschen dazu aufruft, sich zu bewegen, Spaß zu haben und ihre körperliche Fitness zu verbessern."
+        ],
+        "positive_aspekte": [
+          "Klare Struktur: Einleitung, Refrain‑Analyse, Schluss‑Zusammenfassung.",
+          "Erfasst die Motivations‑Botschaft des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anweisungen zum Tanzen, wie \"One-two-three-four-five-six-seven-eight\" und \"Cross-cross, one-two-three-four\", machen den Song zu einer Art Tanzanleitung.",
+          "Der Song ist ein Produkt seiner Zeit und spiegelt die Fitness‑ und Aerobik‑Welle der 80er Jahre wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann \"Dance Dance Dance\" als ein Song interpretiert werden, der Menschen dazu aufruft, sich körperlich zu bewegen und zu tanzen, um sich fit und wohl zu fühlen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft mehrere Textstellen mit einer erklärenden Lesart (Tanzanleitung, Wohlbefinden).",
+          "Erkennt die wiederholte Motivations‑Botschaft."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Aufruf zum Tanzen, 80er‑Aerobik‑Kontext). Die Variation liegt hauptsächlich im Detailgrad und in der Menge unbelegter Aussagen. Die Streuung der Halluzinations‑Scores (2‑3) und Tiefe‑Scores (2‑3) ist gering, was auf eine relativ homogene, aber teils oberflächliche Analyse hindeutet.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance: sie nutzt konkrete Textbelege, liefert zusätzliche inhaltliche Details (z. B. Gesundheits‑Metaphern) und hält die Halluzinations‑Rate niedrig. Für zukünftige Analysen sollte man noch stärker zwischen belegten Textinterpretationen und spekulativen Kultur‑ oder Genre‑Einordnungen unterscheiden, um die Halluzinations‑Rate weiter zu senken und die analytische Tiefe zu erhöhen."
+  }
+}

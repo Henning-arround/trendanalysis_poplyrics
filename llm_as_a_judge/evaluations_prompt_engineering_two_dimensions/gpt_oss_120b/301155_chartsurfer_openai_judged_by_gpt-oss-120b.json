@@ -1,0 +1,123 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Aus kulturhistorischer Sicht spiegelt das Lied 1963 die Übergangsphase zwischen klassischem Country und dem aufkommenden Rockabilly…\"",
+          "„Die wiederholte Betonung des Zeitverlustes resoniert mit dem post‑WWII‑Gefühl des schnellen gesellschaftlichen Wandels…\""
+        ],
+        "oberflächliche_aussagen": [
+          "„…die zentrale Botschaft von vergänglicher Vertrautheit und unausgesprochener Schuld impliziert.\"",
+          "„…die offene Drohung … die latente Angst vor dem Verlust traditioneller Rollenbilder offenbart.\"",
+          "„…der Text zu einem Spiegel innerer und äußerer Spannungen seiner Epoche macht.\""
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die formalen Mittel (Wiederholungen, Bildsprache).",
+          "Verknüpft Textstelle mit narrativer Ambiguität (Präsens vs. Rückblick)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Kulturell ist das Stück 1963 in einer Phase verankerter Geschlechterrollen…\"",
+          "„Die Mischung aus freundlichem Smalltalk und unterschwelliger Drohung spiegelt die wachsende Emanzipation von Frauen wider…\"",
+          "„…kann als Kommentar zur Beschleunigung des sozialen Wandels in der Nachkriegszeit gelesen werden.\""
+        ],
+        "oberflächliche_aussagen": [
+          "„Die Frage wirkt zugleich selbstironisch und distanziert.\"",
+          "„Die Hyperbel … das Versprechen der Ewigkeit ins Lächerliche zieht.\"",
+          "„Das Bild des ‚pay‘ fungiert als mehrdeutiges Symbol…\"",
+          "„…das Lied sowohl als persönliche Abschiedsbotschaft als auch als Spiegel gesellschaftlicher Übergänge fungiert.\""
+        ],
+        "positive_aspekte": [
+          "Gute Analyse von Wiederholungen und rhetorischen Fragen.",
+          "Erkennt den offenen Schluss und die dadurch entstehende Ungewissheit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im historischen Kontext von 1963 reflektiert die Stimme einer ehemaligen Rock‑‘n‑Roll‑Künstlerin (Wanda Jackson) eine selbstbewusste, aber zugleich verletzte Position.\"",
+          "„Die Zeile … verweist auf die Mobilität und Unsicherheit des Künstlerlebens…\""
+        ],
+        "oberflächliche_aussagen": [
+          "„…erzeugt eine thematische Komplexität, die nicht nur den Verlust, sondern auch die Unbestimmtheit zukünftiger Begegnungen betont.\"",
+          "„Das Bild des ‚new love‘ fungiert als Symbol … während der Sprecher von einer drohenden ‚pay‘‑Kondition spricht…\"",
+          "„…suggeriert, dass das ‚pay‘ moralisch (Rache) oder emotional (Schuldgefühle) sein könnte.\"",
+          "„Die Ambiguitäten … bleiben ungelöst und erzeugen ein Spannungsfeld zwischen Schuld, Erinnerung und der unkontrollierbaren Macht der Zeit.\""
+        ],
+        "positive_aspekte": [
+          "Erfasst die zentrale Wiederholung und deren Wirkung.",
+          "Verbindet Textanalyse mit einer plausiblen, wenn auch spekulativen, Interpretation des „pay“-Motivs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im kulturellen Kontext von 1963 … spiegelt das Lied die Unsicherheit junger Erwachsener wider, die zwischen traditionellen Liebesversprechen und einer neuen, mobileren Lebensweise schwanken.\""
+        ],
+        "oberflächliche_aussagen": [
+          "„…fungiert als Leitmotiv, das zugleich ironisch‑resigniert und fast schon zynisch wirkt.\"",
+          "„…ohne dass der Text klarstellt, ob das Erinnern tröstlich oder schmerzlich ist.\"",
+          "„Das Versprechen von Vergeltung … als unterschwellige Drohung …\"",
+          "„…lässt Raum für eine kritische Reflexion … ohne jedoch eine eindeutige Auflösung anzubieten.\""
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbeobachtungen (Sprachstil, Metaphern, Wiederholungen).",
+          "Balanciert konkrete Befunde mit offenen, textbasierten Mehrdeutigkeiten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„…lässt sich als Kritik an einer Kultur lesen, die lineare Fortschrittsvorstellungen mit einer nostalgischen Fixierung verbindet.\"",
+          "„Im historischen Kontext von 1963 … die Stimme einer weiblichen Künstlerin … besonders bedeutsam…\"",
+          "„…lässt den Hörer in einem Zustand der offenen Erwartung zurück, wodurch das Lied nicht nur über persönliche Beziehungen, sondern auch über die Unsicherheit einer sich wandelnden Kultur reflektiert.\""
+        ],
+        "oberflächliche_aussagen": [
+          "„…fungiert als refrainsymbol, das sowohl Resignation als auch ironische Distanz signalisiert, ohne jedoch eine eindeutige Haltung zu offenbaren.\"",
+          "„Diese Gegensätze erzeugen eine affektive Ambivalenz: einerseits wirkt das Lied leicht und humorvoll, andererseits schwingt ein unterschwelliger Ärger mit.\"",
+          "„…die Unklarheit, wann und ob sie zurückkehrt … lässt den Hörer in einem Zustand der offenen Erwartung zurück…\""
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Paradoxie von „lange Zeit“ vs. „gestern“.",
+          "Nutzt literarische Begriffe (Metaphern, Dialog) zur Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen moderate Varianz; Interpretation 3 sticht durch hohe Texttreue und analytische Tiefe hervor, während Interpretation 2 am meisten spekulative, kulturhistorische Aussagen enthält.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf konkrete Textbelege gelegt werden, während spekulative kulturhistorische Kontextualisierungen nur dann eingesetzt werden, wenn sie klar als Hypothese gekennzeichnet sind. Interpretation 3 demonstriert das optimale Gleichgewicht zwischen Faktentreue und tiefgehender, textbasierter Interpretation."
+  }
+}

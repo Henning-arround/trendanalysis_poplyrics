@@ -1,0 +1,109 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Abneigung gegen den bevorstehenden Tag, der sie auseinanderreißen wird.",
+          "Protagonistin präsentiert sich als eine seltene und wertvolle Partnerin, die einen besonderen Wert in der Beziehung sieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Lyrics zeugen von einer tiefen emotionalen und körperlichen Verbindung, die über eine reine physische Anziehung hinausgeht.",
+          "Diese Dringlichkeit unterstreicht die Intensität der Gefühle und die Bedeutung der gemeinsamen Zeit.",
+          "Insgesamt beschreibt \"Coffee\" eine leidenschaftliche und intensive Beziehung, in der die Partner füreinander da sein wollen, um den Herausforderungen des Alltags zu entfliehen und sich in der Liebe zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textbelege werden korrekt wiedergegeben (z. B. „My love be your therapy“, „All‑around remedy“, Zeitangaben).",
+          "Analyse der Dringlichkeit durch wiederholte Verweise auf „No time to waste“."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch geprägt von einer gewissen Dringlichkeit und Direktheit, mit der die Protagonistin ihre Wünsche und Bedürfnisse äußert.",
+          "Insgesamt spiegelt der Song \"Coffee\" eine leidenschaftliche und fordernde Liebe wider, in der die Partner ihre Bedürfnisse und Wünsche offen und direkt äußern.",
+          "Der Song ist eine Hommage an die Schönheit und Intensität einer intimen Beziehung, in der die Partner sich gegenseitig ihre Bedürfnisse erfüllen und ihre Liebe zelebrieren."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich eindeutig aus dem vorliegenden Text ableiten.",
+          "Gute Struktur: Einleitung, Analyse von Schlüsselzeilen, Schlussfolgerung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch geprägt von einer gewissen Dringlichkeit und Direktheit, mit der die Protagonistin ihre Wünsche und Bedürfnisse äußert.",
+          "Insgesamt spiegelt der Song \"Coffee\" eine leidenschaftliche und fordernde Liebe wider, in der die Partner ihre Bedürfnisse und Wünsche offen und direkt äußern.",
+          "Der Song ist eine Hommage an die Schönheit einer leidenschaftlichen und erfüllten Beziehung, in der beide Partner ihre Liebe und Zuneigung offen zeigen."
+        ],
+        "positive_aspekte": [
+          "Vollständige Textbezüge, keine spekulativen Ergänzungen.",
+          "Konsistente Interpretation der wiederkehrenden Motive („No time to waste“, „My love be your therapy“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch geprägt von einer gewissen Dringlichkeit und Direktheit, mit der die Protagonistin ihre Wünsche und Bedürfnisse äußert.",
+          "Insgesamt spiegelt der Song \"Coffee\" eine leidenschaftliche und fordernde Liebe wider, in der die Partner ihre Bedürfnisse und Wünsche offen und direkt äußern.",
+          "Der Song ist eine Hommage an die Schönheit und Intensität einer intimen Beziehung, in der die Partner sich gegenseitig ihre Bedürfnisse erfüllen und ihre Liebe zelebrieren."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem Songtext ableiten.",
+          "Klare Herausarbeitung der zentralen Motive (Therapie, Dringlichkeit, Zeitdruck)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext ist auch eine Art Hommage an die Honeymoon‑Phase einer Beziehung, in der die Partner noch ganz aufeinander fixiert sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Protagonistin präsentiert sich als eine Frau, die ihre Bedürfnisse und Wünsche klar artikuliert und keine Angst hat, ihre Sexualität auszudrücken.",
+          "Der Songtext ist auch eine Art Statement über die Selbstsicherheit und Unabhängigkeit der Frau, die ihre eigenen Bedürfnisse und Wünsche verfolgt.",
+          "Insgesamt ist \"Coffee\" ein Song über die Leidenschaft, die Intimität und die Befriedigung der Bedürfnisse in einer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Richtige Identifikation von Schlüsselzeilen („My love be your therapy“, „All‑around remedy“, „No time to waste“).",
+          "Erkennt die wiederholte Aufforderung, den Partner zu halten, und verbindet sie mit dem Motiv der Dringlichkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Kernpunkte (Therapie‑Metapher, Dringlichkeit, Zeitdruck). Nur Interpretation 3 und 4 fügen spekulative Elemente hinzu, was zu höheren Halluzinations‑Scores führt.",
+    "empfehlung": "Interpretationen 1, 2 und 5 liefern die faktentreuesten Analysen. Sie balancieren Texttreue mit ausreichender analytischer Tiefe, ohne unnötige Spekulationen. Für zukünftige Bewertungen sollte man darauf achten, vage Generalisierungen zu reduzieren und gleichzeitig mehr Textbelege für interpretative Aussagen zu liefern."
+  }
+}

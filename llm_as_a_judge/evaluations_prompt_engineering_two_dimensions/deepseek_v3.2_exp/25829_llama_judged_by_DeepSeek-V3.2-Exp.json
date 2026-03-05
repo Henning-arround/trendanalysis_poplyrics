@@ -1,0 +1,99 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer melancholischen und resignativen Note, die in Zeilen wie 'Denn ich bin viel zu müde und das seit gestern schon' und 'Keine Ahnung, keine Meinung, kein Konzept / Keine Lust um aufzustehn' zum Ausdruck kommt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine beruhigende und optimistische zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole trägt zur thematischen Komplexität des Songs bei"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von literarischen Stilmitteln wie Metaphern und Symbolen ist im Song auffällig"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Resignation, Ironie und Selbstzweifel"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Und ich kann über's Wasser gehn' kann als Metapher für die Fähigkeit interpretiert werden, über die Herausforderungen des Lebens hinwegzukommen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer melancholischen und resignativen Note"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine beruhigende und optimistische zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole trägt zur thematischen Komplexität des Songs bei"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer melancholischen und resignativen Note"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine beruhigende und optimistische zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole trägt zur thematischen Komplexität des Songs bei"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer melancholischen und resignativen Note"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine beruhigende und optimistische zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole trägt zur thematischen Komplexität des Songs bei"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, jedoch mit leichten Variationen in der Tiefe und dem Halluzinationsgrad",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz für weitere Analysen dienen"
+  }
+}

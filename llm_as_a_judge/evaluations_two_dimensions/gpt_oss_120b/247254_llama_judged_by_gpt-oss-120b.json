@@ -1,0 +1,122 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain \"Here I go again\" suggeriert, dass der Protagonist immer wieder in ähnliche Situationen gerät, in denen er verletzt wird und sich fragt, ob die Liebe ein Spiel ist.",
+          "Der Song endet mit der resignierten Erkenntnis, dass die Liebe manchmal unerreichbar ist und dass die Menschen durch ihre Handlungen und Entscheidungen andere verletzen können."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"Love is not a game, love is desire\" unterstreicht die Intensität und Ernsthaftigkeit der Gefühle, die der Protagonist empfindet.",
+          "Die Erwähnung einer neuen Beziehung des Mädchens mit einem anderen Mann verstärkt die Eifersucht und Verzweiflung des Protagonisten.",
+          "Die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe (\"everybody, oh will drive you crazy\") unterstreichen die emotionale Turbulenz und die Unsicherheit, die mit der Liebe einhergehen."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textstellen (z. B. das Mädchen, das mit 17 Jahren wegläuft, die Zeile \"Love is not a game\").",
+          "Erkennt mehrere thematische Ebenen (Liebe, Eifersucht, Unberechenbarkeit).",
+          "Zeigt ein gewisses Maß an analytischer Tiefe, indem es Wiederholungen und deren mögliche Funktion im Song thematisiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain \"Here I go again\" suggeriert, dass der Protagonist immer wieder in ähnliche Situationen gerät, in denen er verletzt wird und sich fragt, ob er jemals die wahre Liebe finden wird.",
+          "Der Song endet mit der Frage nach dem Verbleib der Liebe, die das Mädchen vorgab, und dem Gefühl der Verzweiflung und des Verlusts, das den Protagonisten begleitet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"Love is not a game\" unterstreicht die Ernsthaftigkeit und Intensität der Gefühle, die der Protagonist empfindet.",
+          "Die Wiederholung von \"anytime and anyway\" und \"everybody will drive you crazy\" betont die Allgegenwart und die Unberechenbarkeit der Liebe."
+        ],
+        "positive_aspekte": [
+          "Klare Struktur: Einleitung, Analyse der einzelnen Textpassagen, Schlussfolgerung.",
+          "Verwendet viele direkte Zitate aus dem Song, was die Texttreue erhöht.",
+          "Erkennt das Motiv der wiederholten Fragen („Was war es nur für eine Affäre?“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain \"Here I go again\" suggeriert, dass der Protagonist immer wieder in ähnliche Situationen gerät, in denen er verletzt wird und sich fragt, ob die Liebe ein Spiel ist.",
+          "Der Song endet mit der resignierten Erkenntnis, dass die Liebe manchmal unerreichbar ist und dass die Menschen durch ihre Handlungen und Entscheidungen andere verletzen können."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"Love is not a game, love is desire\" unterstreicht die Intensität und Ernsthaftigkeit der Gefühle, die der Protagonist empfindet.",
+          "Die Erwähnung einer neuen Beziehung des Mädchens mit einem anderen Mann verstärkt die Eifersucht und Verzweiflung des Protagonisten.",
+          "Die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe (\"everybody, oh will drive you crazy\") unterstreichen die emotionale Turbulenz und die Unsicherheit, die mit der Liebe einhergehen."
+        ],
+        "positive_aspekte": [
+          "Stellt alle wesentlichen Textpassagen (Mädchen, 17 Jahre, neue Beziehung, „Love is not a game“) heraus.",
+          "Verknüpft die wiederholten Phrasen mit möglichen emotionalen Funktionen.",
+          "Bleibt insgesamt textnah, obwohl einige Schlussfolgerungen spekulativ sind."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain \"Here I go again\" suggeriert, dass der Protagonist immer wieder in ähnliche Situationen gerät, in denen er verletzt wird und sich fragt, ob die Liebe ein Spiel ist.",
+          "Der Song endet mit der resignierten Erkenntnis, dass die Liebe manchmal zum Verlust und zur Enttäuschung führen kann, und der Protagonist bleibt mit seiner Sehnsucht und seinem Schmerz zurück."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"Love is not a game, love is desire\" unterstreicht die Intensität und Ernsthaftigkeit der Gefühle, die der Protagonist empfindet.",
+          "Die Erwähnung einer neuen Beziehung des Mädchens mit einem anderen Mann verstärkt die Eifersucht und Verzweiflung des Protagonisten."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Kernhandlung (Mädchen, Flucht, neue Beziehung, unerwiderte Liebe).",
+          "Betont das Motiv des wiederholten „Here I go again“ als möglicher Hinweis auf Zyklen.",
+          "Verweist auf die Ambivalenz von „Love is not a game“ vs. „Love is desire“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain \"Here I go again\" suggeriert, dass der Protagonist immer wieder in ähnliche Situationen gerät, in denen er verletzt wird und sich fragt, ob die Liebe ein Spiel ist.",
+          "Der Song endet mit der resignierten Erkenntnis, dass die Liebe manchmal unerreichbar ist und dass die Menschen durch ihre Handlungen und Entscheidungen andere verletzen können."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"Love is not a game, love is desire\" unterstreicht die Intensität und Ernsthaftigkeit der Gefühle, die der Protagonist empfindet.",
+          "Die Erwähnung einer neuen Beziehung des Mädchens mit einem anderen Mann verstärkt die Eifersucht und Verzweiflung des Protagonisten.",
+          "Die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe (\"everybody, oh will drive you crazy\") unterstreichen die emotionale Turbulenz und die Unsicherheit, die mit der Liebe einhergehen."
+        ],
+        "positive_aspekte": [
+          "Stellt die wichtigsten Textstellen klar heraus.",
+          "Erkennt die wiederholte Struktur des Songs (Refrain, Phrasen).",
+          "Bietet eine nachvollziehbare, wenn auch teilweise spekulative, Interpretation der emotionalen Wirkung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch und weisen dieselbe Rate an erfundenen bzw. oberflächlichen Aussagen auf. Die Varianz ist gering; keine Interpretation sticht signifikant hervor.",
+    "empfehlung": "Die Modelle erzeugen stark redundante Analysen. Für zukünftige Bewertungen sollte das Prompt klarer nach differenzierten, textbasierten Argumenten fragen, um Halluzinationen zu reduzieren und die analytische Tiefe zu erhöhen."
+  }
+}

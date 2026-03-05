@@ -1,0 +1,129 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ ist ein provokanter Liebesbrief an das Unperfekte, der zugleich gesellschaftliche Schönheitsideale und die Sehnsucht nach Authentizität verspottet."
+        ],
+        "oberflächliche_aussagen": [
+          "Lindenbergs ironischer Ton lässt jedoch erkennen, dass die Abwertung nicht aus echter Abneigung, sondern aus einer liebevollen Akzeptanz resultiert: „Ich hab dich ja so lieb, du Arschgesicht.“",
+          "Diese paradoxe Zuneigung entmystifiziert das Wort „Schönheit“, das im Refrain als vergänglich bezeichnet wird, während das „Arschgesicht“ – das Unvollkommene – beständig bleibt.",
+          "Stattdessen sucht er Zuflucht in der Unvollkommenheit, die ihm keine falschen Versprechen macht.",
+          "Die Zeile „Für jedes Wort gibt es Schmerzensgeld von der AOK“ spielt auf die zunehmende Rechtsvorschrift und Sensibilisierung gegenüber Beleidigungen an, was die Spannung zwischen freier künstlerischer Ausdrucksweise und gesellschaftlicher Regulierung verdeutlicht.",
+          "Durch das Bild des „Pflegers“, der beim Ausgehen erscheint, wird die Rolle des Beschützers und zugleich des Beobachters betont, der das Geschehen aus einer distanzierten, aber liebevollen Perspektive kommentiert.",
+          "Insgesamt nutzt Lindenberg das provokante Vokabular, um die Oberflächlichkeit zu entlarven, die Beständigkeit des Unperfekten zu feiern und die Möglichkeit einer echten, unverfälschten Beziehung jenseits von Äußerlichkeiten zu skizzieren."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche direkte Bezüge zum Songtext (Pflaume, Glatte Movie‑Stars, Schmerzensgeld, Pfleger, Schönheit ist vergänglich).",
+          "Analytische Verknüpfung von Bildsprache und thematischer Gegenüberstellung von Vergänglichkeit vs. Beständigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ ist ein provokanter Liebesbrief an das Unperfekte, der mit Udo Lindenbergs typischem Wortwitz gesellschaftliche Schönheitsideale und die damit verbundene Selbstverachtung entlarvt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Bezeichnung des Gegenübers als „Pflaume“ und „Arschgesicht“ wirkt zunächst abwertend, doch im Kontext einer liebevollen Wiederholung wird das Schimpfwort zum Symbol einer tiefen, fast schon schonungslosen Akzeptanz.",
+          "Diese Gegenüberstellung kritisiert die Oberflächlichkeit der Medien, die „glatten Movie‑Stars“, und suggeriert, dass wahre Nähe nicht von äußerer Perfektion, sondern von einer rauen, unverfälschten Authentizität abhängt.",
+          "Der Refrain, in dem er sagt „Ich hab dich ja so lieb, du Arschgesicht“, fungiert als ironischer Mantra, das die Hörer zwingt, die eigene Vorurteilshaltung zu hinterfragen.",
+          "Die Zeile „Für jedes Wort gibt es Schmerzensgeld von der AOK“ spielt auf die heutige Kultur der Empfindlichkeit und der rechtlichen Absicherung an, während gleichzeitig die Freiheit des Ausdrucks verteidigt wird.",
+          "Durch die wiederholte Forderung, das „Arschgesicht“ müsse erfunden werden, weil es sonst nicht existiere, wird das Unvollkommene zu einem notwendigen Gegenpol zur flüchtigen Schönheit erhoben.",
+          "So wird der Song zu einer Hymne der Selbstakzeptanz, die die Hülle entmystifiziert und das Herz in den Vordergrund rückt."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge (Schönheit ist vergänglich, Glatte Movie‑Stars, Schmerzensgeld).",
+          "Konsistente Argumentationslinie, die das Motiv der Selbstakzeptanz hervorhebt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ ist ein provokanter Liebesbrief an das Unperfekte, der mit ironischer Zärtlichkeit die gesellschaftlichen Schönheitsideale untergräbt."
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die wiederholte Metapher „Du bist ’ne Pflaume“ wird das Gegenüber sofort als unattraktiv, fast schon verdorben dargestellt, doch die Aussage bleibt ambivalent: Die äußere Erscheinung ändert sich nicht, selbst wenn man sich entblößt, was die Oberflächlichkeit der visuellen Bewertung kritisiert.",
+          "Lindenbergs Wortwahl – „Experiment“, „Schöpfer hat leicht gepennt“ – suggeriert, dass das Unvollkommene fast zufällig entstanden ist, ein Fehlgriff der Schöpfung, der jedoch nicht minder liebenswert bleibt.",
+          "Die Zeilen über das Tanzen und das Fragen der Leute, ob man helfen könne, zeigen, dass das Ungepflegte nicht nur isoliert, sondern im sozialen Kontext beobachtet und sogar bemitleidet wird.",
+          "Der Refrain „Ich hab dich ja so lieb, du Arschgesicht“ verbindet Zärtlichkeit mit Grobheit, wodurch ein Spannungsfeld zwischen Ablehnung und Akzeptanz entsteht.",
+          "Die Aussage, dass Schönheit vergänglich sei, während ein „Arschgesicht“ beständig bleibt, kehrt die übliche Wertschätzung von Äußerlichkeiten um und stellt Beständigkeit des Unperfekten als authentische Identität dar.",
+          "Die Anspielung auf „Schmerzensgeld von der AOK“ und die Ablehnung von glatten Movie‑Stars verdeutlichen eine kritische Haltung gegenüber einer konsumorientierten Kultur, die Schmerz und Unvollkommenheit monetisiert.",
+          "Insgesamt nutzt Lindenberg humorvolle Grobheit, um die Oberflächlichkeit zu entlarven und die Möglichkeit zu feiern, im Unperfekten Liebe und Zugehörigkeit zu finden."
+        ],
+        "positive_aspekte": [
+          "Viele direkte Zitate aus dem Song (Pflaume, Experiment, Schöpfer, Schmerzensgeld, Glatte Movie‑Stars, Schönheit ist vergänglich).",
+          "Klare Fokussierung auf das Motiv der Gegenüberstellung von Vergänglichkeit und Beständigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ ist ein provokanter Liebesbrief an das Unperfekte, der zugleich gesellschaftliche Schönheitsideale und die Sehnsucht nach Authentizität verspottet."
+        ],
+        "oberflächliche_aussagen": [
+          "Lindenbergs ironischer Ton entsteht, wenn er das „Arschgesicht“ liebevoll umarmt und gleichzeitig betont, dass Schönheit vergänglich sei, während das „Arschgesicht“ – also das Unvollkommene – beständig bleibt.",
+          "Diese Gegenüberstellung kritisiert die flüchtige Natur von Mode und Medien, die glatte Movie‑Stars glorifizieren, und stellt die Idee in den Raum, dass wahre Beständigkeit im Akzeptieren des eigenen Fehlers liegt.",
+          "Der Sprecher positioniert sich als „Pfleger“, der das Unschöne pflegt, was zugleich ein Bild für Fürsorge und Verantwortung gegenüber dem eigenen Körper ist.",
+          "Die Anspielung auf Schmerzensgeld von der AOK unterstreicht die Kommerzialisierung von Körperbeschwerden und die Absurdität, mit der Schmerz in Geld umgewandelt wird.",
+          "Durch das wiederholte „Man müßte dich erfinden, gäb es dich noch nicht“ wird die Idee einer konstruierten Identität suggeriert: Das Unperfekte ist nicht natürlich, sondern ein Produkt gesellschaftlicher Erwartungen, das jedoch gerade dadurch authentisch wird.",
+          "Lindenbergs Mischung aus rauer Sprache, humorvoller Selbstironie und kritischer Beobachtung schafft ein Plädoyer für die Akzeptanz des eigenen „Arschgesichts“ als dauerhafte, unverfälschte Schönheit, die allen vergänglichen Idealen standhält."
+        ],
+        "positive_aspekte": [
+          "Sehr viele textnahe Analysen (Pflaume, Pfleger, Schmerzensgeld, Schönheit ist vergänglich, Arschgesicht bleibt).",
+          "Tiefe Verknüpfung von Bildsprache, gesellschaftlicher Kritik und philosophischer Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ ist ein provokanter Liebesbrief an das Unperfekte, der mit Udo Lindenbergs typischem Wortwitz gesellschaftliche Schönheitsideale und die damit verbundene Selbstverachtung entlarvt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Bezeichnung des Gegenübers als „Pflaume“ und „Arschgesicht“ wirkt zunächst abwertend, doch im Kontext einer liebevollen Wiederholung („Ich hab dich ja so lieb“) wird die Beleidigung zu einem Zeichen von Intimität und Akzeptanz.",
+          "Der Refrain, in dem das „Arschgesicht“ erfunden werden müsste, weil es sonst nicht existiere, spielt mit der Idee, dass das Unvollkommene erst durch die Liebe konstituiert wird.",
+          "Die Zeile „Für jedes Wort gibt es Schmerzensgeld von der AOK“ ironisiert die heutige Rechtskultur, in der selbst verbale Angriffe monetär sanktioniert werden, und unterstreicht damit die Absurdität, mit der Gesellschaft mit Kritik umgeht.",
+          "Gleichzeitig wird das Tanzen und das Fragen der Leute nach Hilfe zu einem Bild für das öffentliche Interesse an dem, was als „defekt“ gilt, während der Sprecher sich bewusst von diesem Druck abwendet („den Stress, den brauch ich nich‘“).",
+          "Insgesamt nutzt Lindenberg humorvolle Grobheit, um eine tiefere Botschaft von Selbstakzeptanz und der Ablehnung von konventionellen Schönheitsnormen zu vermitteln, wobei die liebevolle Wiederholung des Schimpfworts die paradoxe Schönheit des Unperfekten hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von konkreten Textstellen (Pflaume, Experiment, Schmerzensgeld, Tanz, Stress) mit interpretativen Einsichten.",
+          "Ausgewogene Mischung aus textgebundener Analyse und reflektierter, aber nicht zu vager, Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.0,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen sind stark homogen; sie wiederholen nahezu dieselben Kernaussagen und Formulierungen, sodass die Varianz gering ist.",
+    "empfehlung": "Interpretation 3 bietet die beste Balance aus Texttreue und analytischer Tiefe, ohne übermäßige Wiederholungen oder spekulative Behauptungen. Sie sollte als Vorbild für zukünftige Analysen dienen."
+  }
+}

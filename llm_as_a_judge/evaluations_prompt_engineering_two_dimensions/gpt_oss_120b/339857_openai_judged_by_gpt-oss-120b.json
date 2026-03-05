@@ -1,0 +1,104 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten – etwa das gleichzeitige Versprechen von Freiheit und die implizite Verpflichtung zu äußerlicher Perfektion – bleiben ungelöst und eröffnen einen Raum für kritische Diskussionen über Identität, Konsum und die performative Natur moderner Nachtkultur."
+        ],
+        "positive_aspekte": [
+          "Sehr viele textbezogene Beobachtungen (Imperative, Metaphern, Markenreferenzen).",
+          "Klare, differenzierte Analyse von Symbolik und Ambivalenz.",
+          "Wenig bis keine vagen oder unbelegten Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Spannung zwischen Autonomie und Performativität bleibt offen.",
+          "Der Text reflektiert damit die postmoderne Verquickung von Identität und Konsum, ohne jedoch eine klare Position zu beziehen.",
+          "Diese offenen Widersprüche lassen den Song als kulturelles Spiegelbild einer Ära erscheinen, in der das „Breakout“ zugleich Befreiung und neue Form der Selbstverpflichtung bedeutet."
+        ],
+        "positive_aspekte": [
+          "Gute Beobachtungen zu Stilmitteln (Imperative, Metaphern).",
+          "Einbezug von Symbolik (Jimmy Choo, „one drink“).",
+          "Korrekte historische Einordnung (späte 2000er)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert das post‑moderne Bedürfnis nach Sichtbarkeit, das durch Konsumgüter und nächtliche Partys kanalisiert wird, bleibt jedoch offen, ob das „Breakout“ eine echte Emanzipation oder lediglich ein weiterer Zyklus von Selbstdarstellung ist.",
+          "Diese Unschärfe zwischen Befreiung und Selbstvermarktung bleibt bewusst unaufgelöst und eröffnet Raum für weitere kulturwissenschaftliche Diskussionen."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Textbezüge (Imperative, Marken, Metaphern).",
+          "Klare Darstellung der Dualität von Befreiung vs. Druck.",
+          "Keine erfundenen biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität liegt darin, dass das Tanzen sowohl Befreiung als auch Anpassung an normative Party‑Ideale suggeriert.",
+          "Der Song reflektiert damit die gesellschaftliche Erwartung, durch äußere Inszenierung (Kleidung, Tanz) persönliche Unsicherheit zu kompensieren, während er gleichzeitig die Möglichkeit einer transformativen Selbstinszenierung offenlässt, ohne diese Spannung endgültig zu lösen."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textstellen mit gesellschaftlichen Kontexten.",
+          "Gute Analyse von Marken- und Party‑Symbolik.",
+          "Korrekte historische Einordnung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Damit bleibt die zentrale Botschaft ambivalent: Ist das „Breakout“ ein Akt der Selbstermächtigung oder ein Zwang, sich dem kollektiven Rhythmus zu beugen?",
+          "Die Ambiguitäten – zwischen Befreiung und Anpassungsdruck, zwischen persönlicher Sichtbarkeit und anonymem Konsum – bleiben offen und erzeugen ein Spannungsfeld, das den Hörer zum kritischen Hinterfragen der eigenen Partizipation in einer performativen Gesellschaft einlädt."
+        ],
+        "positive_aspekte": [
+          "Umfassende textbezogene Analyse (Imperative, Bildsprache, Marken).",
+          "Klare historische Kontextualisierung.",
+          "Keine erfundenen biografischen Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben faktentreu (keine Halluzinationen). Die Oberflächlichkeit variiert leicht (11‑30 %); Interpretation 3 ist am tiefgründigsten, während Interpretation 1 mehr allgemeine, wenig spezifizierte Aussagen enthält.",
+    "empfehlung": "Interpretation 3 bietet die beste Balance aus Texttreue und analytischer Tiefe. Für zukünftige Modelle sollte der Fokus darauf liegen, vage Generalisierungen zu reduzieren und gleichzeitig die bereits starke Textbeobachtung beizubehalten."
+  }
+}

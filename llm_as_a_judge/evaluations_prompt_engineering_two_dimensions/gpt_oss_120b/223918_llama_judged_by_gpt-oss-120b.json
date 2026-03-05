@@ -1,0 +1,139 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen \"Hear no evil / See no evil / Speak no evil\" nehmen Bezug auf die japanische Redewendung \"den drei Affen\", die für die Vermeidung von Konflikten und die Ignoranz gegenüber negativen Ereignissen steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und vielschichtige Textstruktur, die sich einer einfachen Interpretation entzieht.",
+          "Die zentrale Botschaft des Songs scheint in der Auseinandersetzung mit der Oberfläche und der Wahrheit zu liegen, wie in den Zeilen \"A public face / A private eye\" deutlich wird.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist im Song stark ausgeprägt.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Verwirrung und Desorientierung, die durch die zahlreichen Bilder und Narrative erzeugt wird.",
+          "Durch die Vermeidung von klaren Aussagen und die Betonung von Ambiguitäten und Widersprüchen eröffnet der Song eine Vielzahl von Interpretationsmöglichkeiten und lädt den Hörer ein, sich aktiv an der Bedeutungskonstruktion zu beteiligen."
+        ],
+        "positive_aspekte": [
+          "Er erkennt korrekt die wiederholte Referenz zu den drei Affen und verbindet sie mit einer kulturellen Erklärung.",
+          "Die Analyse bleibt konsistent und wiederholt nicht widersprüchliche Interpretationen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen \"Hear no evil / See no evil / Speak no evil\" nehmen Bezug auf die japanische Redewendung \"die drei Affen\", die für die Vermeidung von Übel und die Ignoranz gegenüber negativen Einflüssen steht.",
+          "Der kulturelle und historische Kontext des Songs, der in der späten 1970er Jahre entstand, kann als eine Zeit der sozialen und politischen Umbrüche gesehen werden, in der die traditionellen Werte und Normen in Frage gestellt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und vielschichtige Textstruktur, die sich einer einfachen Interpretation entzieht.",
+          "Die zentrale Botschaft des Songs scheint in der Auseinandersetzung mit der Oberfläche und der Wahrheit zu liegen, wie in den Zeilen \"A public face / A private eye\" deutlich wird.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist im Song stark ausgeprägt.",
+          "Beispielsweise kann die \"leaking pen\" als Symbol für die Unzuverlässigkeit der Sprache und die \"shrunken head\" als Metapher für die Verkleinerung und Entmachtung des Individuums interpretiert werden.",
+          "Diese Zeilen können als Kommentar zur gesellschaftlichen Tendenz, sich von Problemen abzuwenden, gelesen werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Verwirrung und Desorientierung, die durch die zahlreichen Bildern und Narrative erzeugt wird.",
+          "Die Zeilen \"A heinous crime / It wasn't meant to be\" und \"A body blow / On the table waiting\" suggerieren eine gewaltsame und traumatische Erfahrung, die jedoch nicht explizit benannt wird.",
+          "Der Song bleibt somit auf einer Ebene der Andeutung und des Vage, was die Interpretation noch komplexer und vielschichtiger macht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert mehrere wiederkehrende Bildmotive im Text (z. B. \"leaking pen\", \"shrunken head\").",
+          "Stellt einen Zusammenhang zwischen den wiederholten „no evil“-Zeilen und einer bekannten kulturellen Referenz her."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen \"Hear no evil / See no evil / Speak no evil\" nehmen Bezug auf die japanische Redewendung \"die drei Affen\", die für die Vermeidung von Übel und die Ignoranz gegenüber negativen Einflüssen steht.",
+          "Der kulturelle und historische Kontext des Songs, der in der späten 1970er Jahre entstand, kann als eine Zeit der sozialen und politischen Umbrüche gesehen werden, in der die traditionellen Werte und Normen in Frage gestellt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und vielschichtige Textstruktur, die sich einer einfachen Interpretation entzieht.",
+          "Die zentrale Botschaft des Songs scheint in der Auseinandersetzung mit der Oberfläche und der Wahrheit zu liegen, wie in den Zeilen \"A public face / A private eye\" deutlich wird.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist im Song stark ausgeprägt.",
+          "Beispielsweise kann die \"leaking pen\" als Symbol für die Unzuverlässigkeit der Sprache und die \"shrunken head\" als Metapher für die Verkleinerung und Entmachtung des Individuums interpretiert werden.",
+          "Diese Zeilen können als Kommentar zur gesellschaftlichen Tendenz, sich von Problemen abzuwenden, gelesen werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Verwirrung und Desorientierung, die durch die zahlreichen Bildern und Narrative erzeugt wird.",
+          "Die Zeilen \"A heinous crime / It wasn't meant to be\" und \"A body blow / On the table waiting\" suggerieren eine gewaltsame und traumatische Erfahrung, die jedoch nicht explizit benannt wird.",
+          "Der Song bleibt somit auf einer Ebene der Andeutung und des Vage, was die Interpretation noch komplexer und vielschichtiger macht."
+        ],
+        "positive_aspekte": [
+          "Gute Wiederholung der Kernanalyse (Metaphern, drei Affen).",
+          "Verknüpft den historischen Kontext mit den Themen des Songs, auch wenn dies spekulativ ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen \"Hear no evil / See no evil / Speak no evil\" nehmen Bezug auf die japanische Redewendung \"den drei Affen\", die für die Vermeidung von Konflikten und die Ignoranz gegenüber negativen Ereignissen steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und vielschichtige Textstruktur, die sich einer einfachen Interpretation entzieht.",
+          "Die zentrale Botschaft des Songs scheint in der Auseinandersetzung mit der Oberfläche und der Wahrheit zu liegen, wie in den Zeilen \"A public face / A private eye\" deutlich wird.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist im Song stark ausgeprägt.",
+          "Beispielsweise kann die \"leaking pen\" als Symbol für die Unzuverlässigkeit der Sprache und die \"shrunken head\" als Metapher für die Verkleinerung und Entmachtung des Individuums interpretiert werden.",
+          "Diese Zeilen können als Kommentar zur gesellschaftlichen Tendenz, sich von Problemen abzuwenden, gelesen werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Verwirrung und Desorientierung, die durch die zahlreichen Bildern und Narrative erzeugt wird.",
+          "Die Zeilen \"A heinous crime / It wasn't meant to be\" und \"A body blow / On the table waiting\" suggerieren eine gewaltsame und traumatische Erfahrung, die jedoch nicht explizit benannt wird.",
+          "Der Song bleibt somit auf einer metaphorischen Ebene und lädt den Hörer ein, die eigenen Interpretationen und Assoziationen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Knappe, aber korrekte kulturelle Verknüpfung zu den drei Affen.",
+          "Erwähnt explizit die Ambiguität des Textes und die offene Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen \"Hear no evil / See no evil / Speak no evil\" nehmen Bezug auf die japanische Redewendung \"die drei Affen\", die für die Vermeidung von Übel und die Ignoranz gegenüber negativen Einflüssen steht.",
+          "Der kulturelle und historische Kontext des Songs, der in der späten 1970er Jahre entstand, kann als eine Zeit der sozialen und politischen Umbrüche gesehen werden, in der die traditionellen Werte und Normen in Frage gestellt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und vielschichtige Textstruktur, die sich einer einfachen Interpretation entzieht.",
+          "Die zentrale Botschaft des Songs scheint in der Auseinandersetzung mit der Oberfläche und der Wahrheit zu liegen, wie in den Zeilen \"A public face / A private eye\" deutlich wird.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist im Song stark ausgeprägt.",
+          "Beispielsweise kann die \"leaking pen\" als Symbol für die Unzuverlässigkeit der Sprache und die \"shrunken head\" als Metapher für die Verkleinerung und Entmachtung des Individuums interpretiert werden.",
+          "Diese Zeilen können als Kommentar zur gesellschaftlichen Tendenz, sich von Problemen abzuwenden, gelesen werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Verwirrung und Desorientierung, die durch die zahlreichen Bildern und Narrative erzeugt wird.",
+          "Die Zeilen \"A heinous crime / It wasn't meant to be\" und \"A body blow / On the table waiting\" suggerieren eine gewaltsame und traumatische Erfahrung, die jedoch nicht explizit benannt wird.",
+          "Der Song bleibt somit auf einer Ebene der Andeutung und des Vage, was die Interpretation noch komplexer und vielschichtiger macht."
+        ],
+        "positive_aspekte": [
+          "Stellt den historischen Kontext her, was dem Leser einen breiteren Rahmen gibt (auch wenn spekulativ).",
+          "Verbindet die drei‑Affe‑Referenz korrekt mit dem Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen sind inhaltlich nahezu identisch und wiederholen dieselben generischen Punkte; die Varianz ist gering, was auf ein hohes Maß an Redundanz und wenig individueller Tiefe hinweist.",
+    "empfehlung": "Eine Interpretation, die weniger spekulative Kontextualisierungen einbringt (z. B. Interpretation 2) erzielt die höchste Faktentreue bei gleichzeitig vergleichbarer Textnähe. Zukünftige Modelle sollten stärker darauf achten, Aussagen klar als Textbezug zu kennzeichnen und unnötige, nicht belegbare historische oder kulturelle Kommentare zu vermeiden."
+  }
+}

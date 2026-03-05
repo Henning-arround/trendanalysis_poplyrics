@@ -1,0 +1,99 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Satan, your master' am Ende des Songs deutet darauf hin, dass die Veränderung durch eine Art von bösem Einfluss oder Versuchung herbeigeführt wurde"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Frage 'Who's to blame' deutet darauf hin, dass jemand oder etwas diese Veränderung herbeigeführt hat"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Sonnenstrahlen in ihrem Haar und ihrer Stimme als 'passionate undertone' kontrastiert mit der 'heart of stone', die jemand ihr gegeben hat"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Satan, your master' am Ende des Songs deutet darauf hin, dass diese Veränderung durch eine Art von moralischer Korruption oder Versuchung herbeigeführt wurde"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song porträtiert somit ein Bild von Verfall und Verlust"
+        ],
+        "positive_aspekte": [
+          "Die 'shame beneath your frame' symbolisiert die Scham und den Schaden, der durch diese Veränderung entstanden ist"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Satan, your master' am Ende des Songs deutet darauf hin, dass diese Veränderung durch eine Art von moralischer Korruption oder Versuchung herbeigeführt wurde"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Frage 'Who's to blame' deutet darauf hin, dass jemand oder etwas diese Veränderung herbeigeführt hat"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Sonnenstrahlen in ihrem Haar und ihrer Stimme als 'passionate undertone' kontrastiert mit der 'heart of stone', die jemand ihr gegeben hat"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Satan, your master' am Ende des Songs deutet darauf hin, dass diese Veränderung durch eine Art von moralischer Korruption oder Versuchung herbeigeführt wurde"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song porträtiert somit ein Bild von Verfall und Verlust"
+        ],
+        "positive_aspekte": [
+          "Die 'shame beneath your frame' symbolisiert die Scham und den Schaden, der durch diese Veränderung entstanden ist"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Satan, your master' am Ende des Songs deutet darauf hin, dass diese Veränderung möglicherweise durch böse oder negative Einflüsse herbeigeführt wurde"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Frage 'Who's to blame' deutet darauf hin, dass jemand oder etwas diese Veränderung herbeigeführt hat"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Sonnenstrahlen in ihrem Haar und ihrer Stimme als 'passionate undertone' kontrastiert mit der 'heart of stone', die jemand ihr gegeben hat"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Identifizierung der 'heart of stone' und der Rolle von 'Satan, your master', aber variieren in der Tiefe und der Art der Analyse",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

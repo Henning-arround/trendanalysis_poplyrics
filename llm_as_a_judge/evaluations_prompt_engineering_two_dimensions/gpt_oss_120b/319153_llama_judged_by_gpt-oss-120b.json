@@ -1,0 +1,126 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext, in dem der Song entstand, könnte die thematische Ausrichtung auf Jugendkultur und die Suche nach Identität und Erlebnissen beeinflusst haben."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität zwischen Langeweile und Erwartung spannt einen thematischen Bogen, der den Song durchzieht.",
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, eine Atmosphäre der Sehnsucht und des Verlangens zu schaffen, die durch die affektive Dimension der Textzeilen verstärkt wird.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Darstellung der inneren Zerrissenheit und der Suche nach Authentizität in einer Welt der Oberflächlichkeit liegen.",
+          "Durch die Identifizierung von Ambiguitäten und Widersprüchen im Text wird deutlich, dass der Song eine komplexe und mehrschichtige Botschaft vermittelt, die sich nicht auf eine einfache Interpretation reduzieren lässt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich klar aus den konkreten Textzeilen ab (z. B. Analyse von Metaphern, Bildsprache).",
+          "Erkennt die Mehrdeutigkeit des Textes und bietet differenzierte Deutungen (z. B. Alligator/Elevator‑Symbolik).",
+          "Wenige erfundene Fakten – nur ein spekulativer Kontext‑Hinweis."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext, in dem der Song entstand, könnte die Themen von Jugendkultur, Freiheit und Selbstentdeckung beeinflusst haben."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität zwischen Langeweile und Vorbereitung spannt einen interessanten thematischen Bogen.",
+          "Diese Elemente tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Die tiefere Bedeutungsebene könnte in der Darstellung einer Suche nach Authentizität, Selbstentdeckung und emotionaler Intensität liegen.",
+          "Spannungen und Widersprüche im Text bleiben bewusst unaufgelöst, um die Komplexität der menschlichen Erfahrung abzubilden."
+        ],
+        "positive_aspekte": [
+          "Sehr viele textbezogene Analysen (Metaphern, Bildsprache, Symbolik).",
+          "Klare, nachvollziehbare Interpretationsschritte, die direkt aus den Zeilen abgeleitet sind.",
+          "Nur ein einziger spekulativer Kontext‑Hinweis, sodass die Halluzinationsrate niedrig bleibt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext, in dem der Song entstand, könnte die Themen von Jugendkultur, Freiheit und Selbstentdeckung beeinflusst haben."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität zwischen Langeweile und Erwartung spannt einen thematischen Bogen, der den Song durchzieht.",
+          "Diese literarischen Stilmittel tragen zur thematischen Komplexität des Songs bei und laden den Hörer ein, die Texte auf unterschiedliche Weise zu interpretieren.",
+          "Die emotionale Wirkung des Songs wird durch die Kombination von sinnlichen Bildern und emotionalen Appellen erzeugt.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit menschlichen Emotionen, Beziehungen und der Suche nach Authentizität und Erfahrung liegen.",
+          "wobei die symbolischen Ordnungen und Metaphern den Hörer auffordern, eigene Interpretationen und Verbindungen herzustellen."
+        ],
+        "positive_aspekte": [
+          "Systematische Durchdringung fast jeder Textzeile mit konkreten Bild‑ und Metaphernanalysen.",
+          "Erkennt und benennt mehrere mögliche Deutungsebenen (Exzess, Sehnsucht, Verletzlichkeit).",
+          "Nur ein einziger spekulativer Kontext‑Hinweis, sodass die Halluzinationsrate gering bleibt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext, in dem der Song entstand, könnte die Suche nach authentischen Erfahrungen und die Auseinandersetzung mit den Ambiguitäten modernen Lebens widerspiegeln."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität zwischen Langeweile und Erwartung spannt einen thematischen Bogen, der den Song durchzieht.",
+          "Die Erwähnung von \"Alison May Queen Of The Day\" und \"Let'S Get It Up In Style\" deutet auf eine bestimmte Art von Begegnung oder Ereignis hin, das mit Stil und einer gewissen Form von Herrschaft oder Führung assoziiert wird.",
+          "Die emotionale Wirkung des Songs wird durch die Kombination von sinnlichen Bildern und einer gewissen Unbestimmtheit in den Beziehungen und Ereignissen erzeugt.",
+          "Durch die Identifizierung von Ambiguitäten und Spannungen im Text wird die Komplexität des Songs deutlich, ohne diese aufzulösen, und lädt zu weiterer Interpretation ein."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus den Textzeilen ableitbar (z. B. Bildsprache, Metaphern).",
+          "Erkennt die Mehrdeutigkeit und bietet mehrere mögliche Lesarten.",
+          "Nur ein einziger erfundener Kontext‑Hinweis."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext, in dem der Song entstand, könnte die Themen von Jugendkultur, Freiheit und Selbstentdeckung beeinflusst haben."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität zwischen Langeweile und Erwartung spannt einen thematischen Bogen, der den Song durchzieht.",
+          "Diese literarischen Stilmittel tragen zur thematischen Komplexität des Songs bei und laden den Hörer ein, die Texte auf unterschiedliche Weise zu interpretieren.",
+          "Die emotionale Wirkung des Songs wird durch die Kombination von sinnlichen Bildern und emotionalen Appellen erzeugt.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit menschlichen Emotionen, Beziehungen und der Suche nach Authentizität und Erfahrung liegen.",
+          "wobei die symbolischen Ordnungen und Metaphern den Hörer auffordern, eigene Interpretationen und Verbindungen herzustellen."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse fast jeder Zeile.",
+          "Klare Ableitung von Bild- und Symbolik.",
+          "Nur ein spekulativer Kontext‑Hinweis, sodass die Halluzinationsrate niedrig bleibt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.0,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundanalysen; die Varianz liegt hauptsächlich in der Menge an oberflächlichen Formulierungen und einem einzigen erfundenen Kontext‑Hinweis pro Text.",
+    "empfehlung": "Interpretationen 1, 2, 3 und 5 zeigen die beste Balance aus Texttreue und analytischer Tiefe. Besonders Interpretation 5 kombiniert viele konkrete Textbezüge mit einer strukturierten, tiefgehenden Analyse, während sie nur minimale spekulative Aussagen enthält."
+  }
+}

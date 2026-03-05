@@ -1,0 +1,95 @@
+{
+  "song": "The Flat Foot Floogee - Louis Armstrong (1954)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song könnte auch als Ausdruck der Freiheit und des Ausdrucks der Afroamerikaner in dieser Zeit gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass man seine Sorgen und Probleme durch Tanz und Musik vergessen kann"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte darin bestehen, dass er eine Art von sozialer und kultureller Befreiung durch Musik und Tanz suggeriert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'floy, floy' und 'yeah, yeah' schafft eine Art von hypnotischer Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist gut strukturiert und nachvollziehbar"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine Vielzahl von Interpretationsmöglichkeiten aus kulturwissenschaftlicher Perspektive"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist leicht verständlich und bietet eine gute Übersicht über den Song"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Yeah, yeah, yeah, oh, baby' und 'Hey, hey, hey, yes, yes' suggerieren eine Art von freudiger Ekstase und Enthusiasmus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist gut strukturiert und nachvollziehbar"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 1,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist jedoch auch wichtig, da er in den 1950er Jahren in den USA entstand"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass man seine Sorgen und Probleme durch Tanz und Musik vergessen kann"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist leicht verständlich und bietet eine gute Übersicht über den Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr ähnlich und wiederholen sich stark",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten und mehr Textbezug herzustellen"
+  }
+}

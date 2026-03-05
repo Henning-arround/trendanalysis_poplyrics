@@ -1,0 +1,99 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drunken Tigers Rap-Stil, gepaart mit BTS-Vokalen, erzeugt ein Dialog-Gefühl zwischen Generationen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Kernbotschaft zusammenfasst: Durch Musik wird ein flüchtiger Moment zu einem zeitlosen Monument"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen „It’s timeless, 죽지 않는 영혼에 불타는“ verbinden das Unsterbliche des Geistes mit dem Feuer der Leidenschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach einer zeitlosen Identität, die über den flüchtigen Moment hinausreicht"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Textinhalte und -struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Verquickung koreanischer und englischer Phrasen entsteht ein interkultureller Dialog"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Stück zu einer Reflexion über die Fähigkeit von Musik, Erinnerungen zu konservieren"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textinhalte und -struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drunken Tigers Rap-Flow, durchsetzt mit koreanischen Sprichwörtern und philosophischen Reflexionen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem bleibenden Echo in einer flüchtigen Welt"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Textinhalte und -struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Album selbst zum Symbol für das Paradoxon von Endlichkeit und Ewigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Idee vermittelt, dass wahre Kunst – wie ein immer wieder gedrückter Play-Button – niemals wirklich endet"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textinhalte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

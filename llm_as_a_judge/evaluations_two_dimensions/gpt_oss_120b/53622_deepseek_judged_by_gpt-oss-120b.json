@@ -1,0 +1,89 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Zieht konsequent Textbelege (Four‑Five, Southside, bilingualer Mix) heran",
+          "Verknüpft Themen von Luxus, Macht und Misogynie klar mit konkreten Zeilen",
+          "Bietet eine zusammenhängende, aber differenzierte Gesamtaussage"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Stilmitteln (Deutsch‑Englisch‑Mix, Refrain‑Deutung)",
+          "Erklärt die Rolle von „Clout“ und „Drinks“ im Kontext von Status",
+          "Vermeidet spekulative Biografie‑Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Themenbeschreibung (Luxus, Macht, Misogynie)",
+          "Bezieht sich korrekt auf Berliner Herkunft und Hip‑Hop‑Kultur",
+          "Klare, wenn auch etwas wiederholende, Schlussfolgerungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erfasst die aggressive, selbstbewusste Sprache des Textes",
+          "Verknüpft Status‑ und Macht‑Motivation mit den Lyrics",
+          "Bleibt faktentreu, ohne unbelegte biografische Details"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt die bilingualen Elemente und den Berliner Kontext klar heraus",
+          "Verbindet die wiederholten Motive (Luxus, Macht, Misogynie) mit konkreten Zeilen",
+          "Bietet eine gut strukturierte, textbasierte Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Kernaussagen (Luxus, Macht, Misogynie, Berliner Bezug). Die Variation liegt nur im Detailgrad; keine von ihnen führt neue, unbelegte Fakten ein.",
+    "empfehlung": "Interpretationen, die neben der faktentreuen Grundanalyse zusätzliche, textgebundene Details (z. B. Four‑Five, Southside, bilingualer Mix) einbinden, erzielen die höchste Tiefenbewertung. Ein Ansatz, der diese konkreten Belege systematisch nutzt, liefert die ausgewogenste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

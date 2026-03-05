@@ -1,0 +1,99 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'She's awake now, this chick' bricht die formale Struktur, lässt jedoch offen, ob er ironisch, provokativ oder schlichtweg eine moderne, selbstbewusste Selbstbeschreibung darstellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz zwischen Freiheit und Erwartung häuslicher Konformität, die nicht eindeutig aufgelöst wird"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole, wie 'silvery star' und 'pillow', ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Eight o'clock sleepy time gal' verankert das Geschehen in einer festen, fast regimentierten Zeitstruktur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft scheint die Verwandlung einer freien, tanzenden Frau in eine häusliche Figur zu feiern"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der historischen Kontextualisierung ist relevant, aber könnte tiefer ausgearbeitet werden"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I'll find a cottage for you' kann sowohl Fürsorge als auch Kontrolle implizieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft scheint die Verlagerung weiblicher Freiheit in ein konventionelles Rollenbild zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung von 'Sleepy time gal' und das spielerische 'Eight o'clock sleepy time gal' ist detailliert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Eight o’clock sleepy time gal' verankert den Tagesablauf in einer festen, fast regimentierten Zeitstruktur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung erzeugt eine thematische Spannung zwischen Freiheit und häuslicher Pflichterfüllung"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Metaphern und Symbole ist relevant, aber könnte tiefer ausgearbeitet werden"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'what's more? you're gonna love it, I know' klingt sowohl überzeugend als auch bevormundend"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen der verführerischen, nächtlichen Freiheit und der sofortigen Rückkehr zu traditionellen Rollen bleibt ungelöst"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambivalenzen und Mehrdeutigkeiten im Text ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Symbole, aber variieren in der Tiefe der Analyse",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

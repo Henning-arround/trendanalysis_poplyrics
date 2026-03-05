@@ -1,0 +1,99 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Augen des Protagonisten sind 'as wide as open books', was darauf hindeutet, dass er bereit ist, sich der Liebe zu öffnen und sich von ihr verändern zu lassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt die Liebe als eine Art Rauschzustand, der das Leben bereichert und verändert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Textzeile 'I was dreaming when i jumped the lights' und ihre Bedeutung für den Song."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'dizzy heights' symbolisieren die Höhen, die die Liebe erreichen kann, während die 'strangely familiar tune' auf die Vertrautheit und Sicherheit hinweist, die die Liebe bringt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt die Liebe als eine Art Rauschzustand, der die Kontrolle über das Leben übernimmt und die Rationalität außer Kraft setzt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeile 'It sometimes comes as quite a shock' und ihre Bedeutung für den Song."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'open books' und die 'hooks' in den Ohren deuten auf die Offenheit und Empfänglichkeit des Protagonisten für die Liebe hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song porträtiert die Liebe als eine überwältigende und unkontrollierbare Kraft, die das Leben des Protagonisten verändert und ihn in einen Zustand der Euphorie und des Glücks versetzt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Textzeile 'You'll never know a better day' und ihre Bedeutung für den Song."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song beschreibt die Liebe als eine Art Trancezustand, der das Leben des Protagonisten beherrscht und ihn zu Dingen treibt, die er normalerweise nicht tun würde."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt die Liebe als eine Art Rauschzustand, der das Leben des Protagonisten auf den Kopf stellt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeile 'I was dreaming when i jumped the lights' und ihre Bedeutung für den Song."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe kommt unerwartet und bringt den Protagonisten in einen Zustand der Verwirrung, aber gleichzeitig auch in einen Zustand der Ekstase, in dem er sich frei und unbeschwert fühlt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt die allumfassende und überwältigende Kraft der Liebe, die das Leben des Protagonisten verändert und ihn in einen Zustand der Verzückung versetzt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Textzeile 'drunk on love' und ihre Bedeutung für den Song."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse des Songs.",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

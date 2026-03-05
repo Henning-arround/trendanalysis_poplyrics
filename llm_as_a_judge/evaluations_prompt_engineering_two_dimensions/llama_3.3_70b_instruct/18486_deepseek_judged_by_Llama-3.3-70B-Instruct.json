@@ -1,0 +1,99 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Gegensätzen wie 'a time to be born, a time to die' oder 'a time to build up, a time to break down' unterstreicht die Ambivalenz des Lebens und schafft eine Spannung, die den Hörer zum Nachdenken anregt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist vor allem von einer gewissen Melancholie und Resignation geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der literarischen Stilmittel und ihrer Wirkung auf den Hörer"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'A time for peace, I swear it's not too late' kann als ein Aufruf zu einer solchen Veränderung interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Friedensbewegung und die Counterculture-Bewegung jener Zeit suchten nach neuen Wegen, um die Welt zu verstehen und zu gestalten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den kulturellen Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Verben wie 'turn' und 'change' unterstreicht die Dynamik und Vergänglichkeit des Lebens"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer gewissen Melancholie und Resignation, aber auch von Hoffnung und einer Sehnsucht nach Frieden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der literarischen Stilmittel und ihrer Wirkung auf den Hörer"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'A time for peace, I swear it's not too late' kann als ein Kommentar zu den politischen und sozialen Unruhen der 1960er Jahre interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wurde 1966 veröffentlicht, einer Zeit, in der die Welt von großen Umbrüchen und Veränderungen geprägt war"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den kulturellen Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung von Gegensätzen wie 'a time to be born, a time to die' oder 'a time to build up, a time to break down' verdeutlicht die Ambivalenz des Lebens und die Unumkehrbarkeit von Ereignissen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist sowohl nachdenklich als auch melancholisch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der literarischen Stilmittel und ihrer Wirkung auf den Hörer"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und ihrer Wirkung auf den Hörer",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine gute Übersicht über den kulturellen Kontext des Songs"
+  }
+}

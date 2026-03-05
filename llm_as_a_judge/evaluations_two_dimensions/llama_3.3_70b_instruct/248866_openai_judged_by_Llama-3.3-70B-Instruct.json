@@ -1,0 +1,99 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild der 'tricking trolls' und der 'bell that tolls' suggeriert, dass diese Kräfte nicht nur zufällig erscheinen, sondern bewusst manipulativ und warnend agieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die nächtliche Kulisse verstärkt die Symbolik des Unbewussten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik und Metaphern im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'The shadows breathe with a venom like no other' beschreiben ein giftiges, allumfassendes Gift, das nicht physisch, sondern psychisch wirkt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das nächtliche Auftreten der Wesen symbolisiert, dass solche Ängste besonders in Momenten der Schwäche an die Oberfläche treten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die Themen des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild der 'tricking trolls' und der 'bell that tolls' suggeriert, dass diese Kräfte nicht nur passiv existieren, sondern aktiv manipulieren und warnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die nächtliche Erscheinung verstärkt die Symbolik des Unbewussten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik und Metaphern im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Schatten, die mit 'venom like no other' atmen, verkörpern eine toxische, nicht-sichtbare Bedrohung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das wiederholte 'I feel 'em lurking, hear 'em howling' verstärkt das Gefühl der Beklemmung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die Themen des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild der 'tricking trolls' und des 'bell that tolls' suggeriert, dass diese Kräfte nicht nur zufällig erscheinen, sondern bewusst manipulativ und warnend agieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die nächtliche Kulisse verstärkt die Symbolik des Unbewussten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik und Metaphern im Text"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Symbolik und Metaphern",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Symbolik und Metaphern im Text bietet und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

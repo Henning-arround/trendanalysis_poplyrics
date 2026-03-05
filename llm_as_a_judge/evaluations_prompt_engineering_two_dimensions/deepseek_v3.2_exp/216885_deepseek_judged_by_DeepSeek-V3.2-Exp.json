@@ -1,0 +1,93 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext von 2017 verortet werden, einer Zeit, in der Themen wie Beziehungsdynamiken, emotionale Intelligenz und Selbstreflexion in der Popkultur zunehmend relevant wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der wiederholten Zeile 'Every day I'll wait' zusammenfassen, die eine Art von emotionaler Bindung und Loyalität ausdrückt, trotz der offensichtlichen Probleme in der Beziehung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine detaillierte Analyse der literarischen Stilmittel im Song, wie Metaphern und Symbole, und zeigt, wie diese zur emotionalen Wirkung und affektiven Dimension beitragen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No one's gonna know you better / 'Cause I was your first one' kann als eine Art von emotionaler Besitzanspruch interpretiert werden, der die Komplexität der Beziehung unterstreicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song 'Wait' von Martin Jensen feat. Loote aus dem Jahr 2017 handelt von einer komplexen Beziehung, die von einer tiefen emotionalen Verbindung und einer gleichzeitigen Ambivalenz geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Wiederholung der Zeile 'Every day I'll wait' und ihrer Bedeutung für die emotionale Bindung und Loyalität."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine detaillierte Analyse der literarischen Stilmittel im Song und zeigt, wie diese zur emotionalen Wirkung und affektiven Dimension beitragen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Themen von Beziehungskomplikationen, emotionaler Abhängigkeit und Loyalität sind in der Popkultur weit verbreitet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Wiederholung der Zeile 'Every day I'll wait' und ihrer Bedeutung für die emotionale Bindung und Loyalität."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der 'paper walls' ('We're trapped inside these paper walls'), die die fragile Natur der Beziehung beschreibt, wird durch die Zeile 'Side by side, stick together when we're apart' ergänzt, die die Verbundenheit der Partner trotz ihrer räumlichen Trennung betont."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine sehr detaillierte und textbasierte Analyse der literarischen Stilmittel im Song und zeigt, wie diese zur emotionalen Wirkung und affektiven Dimension beitragen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung, mit kleinen Abweichungen in der Halluzinations- und Tiefenbewertung.",
+    "empfehlung": "Die beste Interpretation (Nummer 5) zeigt eine sehr gute Balance zwischen Textreue und analytischer Tiefe und liefert eine detaillierte Analyse der literarischen Stilmittel im Song."
+  }
+}

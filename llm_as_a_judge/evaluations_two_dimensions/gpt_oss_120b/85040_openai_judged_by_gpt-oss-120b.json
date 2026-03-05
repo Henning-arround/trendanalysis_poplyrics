@@ -1,0 +1,99 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song nutzt das klassische Jekyll‑und‑Hyde‑Motiv, um die Dualität menschlicher Natur zu thematisieren: das ständige Wechseln zwischen Licht und Schatten, das Verstecken hinter Masken und das unausweichliche Aufeinandertreffen von Gut und Böse, das letztlich jede Beziehung destabilisiert."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jeder Satz bezieht sich direkt auf ein konkretes Bild oder Wort aus dem Song.",
+          "Gute Analyse von Metaphern (z. B. „two‑faced barricades“, „monster snarls“).",
+          "Erkennt die Ambivalenz von Liebe/Hass und das Motiv der Gefangenschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einer kritischen Reflexion über die Gefahr, sich von einer scheinbar harmlosen Maske blenden zu lassen, und über die psychische Belastung, die das ständige Pendeln zwischen zwei Extremen mit sich bringt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von wiederholten Textpassagen mit einer übergeordneten Interpretation.",
+          "Erklärt die Wirkung von „unpredictability“ und „caged inside you“ sehr anschaulich.",
+          "Zeigt klar den Wendepunkt im Text („Now I see through your facade“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied den psychologischen Kampf, den ein Mensch führt, wenn er versucht, die wechselhafte, dunkle Seite eines Mitmenschen zu durchschauen und sich dabei selbst zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Detailreiche Auswertung der Zeilen „Schizophrenic basic needs / Fools me into complacency“.",
+          "Verknüpft das Bild des „monster snarls“ mit der inneren Wut des Gegenübers.",
+          "Betont das toxische Spiel von Anziehung und Ablehnung („love / hating“, „Baiting“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird das Motiv von Jekyll und Hyde zum Symbol für die zerstörerische Kraft von Unbeständigkeit und Täuschung in zwischenmenschlichen Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Erklärt, wie die Zeilen „Schizophrenic basic needs / Fools me into complacency“ die Wahrnehmung des lyrischen Ichs trüben.",
+          "Verbindet das Doppelgänger‑Motiv mit einer allgemeinen Angst vor dem Unbekannten im Menschen.",
+          "Zeigt, dass die Masken‑Durchschau sowohl das Gegenüber als auch das eigene emotionale Gleichgewicht destabilisiert."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied einen psychologischen Machtkampf, in dem das Aufdecken der wahren Gesichter unvermeidlich, aber zugleich verheerend für beide Seiten ist."
+        ],
+        "positive_aspekte": [
+          "Analysiert die doppelte Bedeutung von „caged inside you / trying to get out“ für Protagonist und Täter.",
+          "Betont die Rolle von „Schizophrenic basic needs“ als widersprüchliche Grundbedürfnisse.",
+          "Stellt klar heraus, dass das wiederholte Jekyll‑und‑Hyde‑Motiv die permanente Dualität und das Vertrauen untergräbt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben stark textgebunden, zeigen kaum halluzinierte Fakten und weisen nur minimale oberflächliche Formulierungen auf – die Varianz ist gering.",
+    "empfehlung": "Die Interpretationen sind insgesamt sehr solide. Die beste Variante (Interpretation 3) kombiniert die höchste Textnähe mit kaum generischen Aussagen und liefert damit das ausgewogenste Verhältnis von Faktentreue und analytischer Tiefe."
+  }
+}

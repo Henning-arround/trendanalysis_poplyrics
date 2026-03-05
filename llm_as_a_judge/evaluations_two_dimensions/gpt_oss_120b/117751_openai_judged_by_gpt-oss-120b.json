@@ -1,0 +1,120 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Gold steht für Wärme, Hoffnung und das Strahlende, das den Sprecher aus der Dunkelheit herauszieht, während Silber das Kühle, das Reflektierende und das Unveränderliche verkörpert.",
+          "Gemeinsam bilden sie ein Gleichgewicht, das die Ambivalenz menschlicher Gefühle – das Verlangen nach Geborgenheit und das Bewusstsein der Vergänglichkeit – widerspiegelt.",
+          "Das Bild der „ewigen Wacht“ suggeriert, dass diese kosmischen Begleiter ununterbrochen über das Schicksal wachen, was dem Sprecher ein Gefühl von Beständigkeit und Schutz verleiht.",
+          "Die Zeile „Sing’ ich dir die Glücksmelodie“ verbindet das äußere Leuchten mit einer inneren musikalischen Ausdrucksform; das Singen wird zum Akt der Transformation, bei dem Worte zu einer „Glücksmelodie“ werden, die das Band zwischen den beiden Personen stärkt.",
+          "Insgesamt lässt sich der Song als poetische Allegorie auf die Suche nach Liebe und Trost verstehen, bei der das Universum als vertrauter Begleiter dient, der den Weg durch die Dunkelheit erhellt und das Wiedersehen in ein leuchtendes, fast sakrales Ereignis verwandelt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert konsequent das zentrale Motiv von Licht als Wegweiser.",
+          "Verknüpft wiederholte Textpassagen (z. B. „sie führen mich … zu dir“) mit einer emotionalen Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Gold und Silber stehen für wertvolle, aber unterschiedliche Qualitäten: das warme, erdende Leuchten des Goldes kontrastiert mit dem kühlen, reflektierenden Schein des Mondes.",
+          "Gemeinsam bilden sie ein harmonisches Duo, das über dem Sprecher schwebt und ihm den Pfad zu einer geliebten Person weist.",
+          "Diese räumliche Distanz zwischen „mir“ und „dir“ wird durch das Bild des weiten Weges überbrückt, sodass das Universum selbst zum Vermittler der emotionalen Brücke wird.",
+          "Die wiederholte Erwähnung von Licht und Wacht betont die Beständigkeit und Zuverlässigkeit der Natur als Trostspender in der Dunkelheit.",
+          "In der Nacht, wenn die Lichter erglühen, verwandelt sich das Gesprochene des Sängers in eine „Glücksmelodie“, was darauf hindeutet, dass Worte und Gesang nicht nur Ausdruck, sondern auch Heilmittel sind.",
+          "Die Melodie wird zum Bindeglied zwischen den getrennten Seelen, während das himmlische Licht die Wiedervereinigung erhellt.",
+          "Durch die Wiederholung des Refrains entsteht ein meditativer Rhythmus, der das Bild einer ununterbrochenen, ewigen Wacht verstärkt.",
+          "Der Sprecher erkennt, dass seine eigenen Worte, sobald sie in die Nacht getragen werden, Teil dieses kosmischen Gesangs werden und damit die Distanz überbrücken.",
+          "So wird das Sternen‑ und Mondlicht nicht nur zu einer äußeren Orientierung, sondern zu einem inneren, spirituellen Kompass, der die Sehnsucht nach dem geliebten Gegenüber in eine hoffnungsvolle, fast sakrale Erfahrung verwandelt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt einen klaren Zusammenhang zwischen den Bildmotiven (Sternengold, Silbermond) und dem Thema Sehnsucht her.",
+          "Betont die wiederholte Struktur des Liedes (Refrain, Motive)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Gegenüberstellung von Gold und Silber entsteht ein Bild von kostbarer, zugleich aber auch transzendenter Schönheit, das den Sprecher aus seiner irdischen Situation herausheben soll.",
+          "Das nächtliche Licht, das „er­glüht“, wird zum Rahmen für die „Glücksmelodie“, die der Sänger dem geliebten Gegenüber singt; Musik wird hier zum Medium, das das Unsichtbare greifbar macht und die emotionale Brücke zwischen den beiden Personen stärkt.",
+          "Die „ewige Wacht“ der Himmelskörper suggeriert Beständigkeit und Schutz, ein Trost in einer Zeit, in der das Nachkriegsdeutschland nach Stabilität suchte.",
+          "Gleichzeitig wirkt das Bild einer stillen, unbeweglichen Beobachtung als Spiegel für das innere Verlangen nach Beständigkeit in zwischenmenschlichen Beziehungen.",
+          "Die Wiederholung der Motive verstärkt den meditativen Charakter des Liedes, lässt den Hörer in einen Traumzustand gleiten, in dem das Sternenlicht nicht nur den Weg, sondern auch die Hoffnung auf ein glückliches Wiedersehen erhellt.",
+          "So wird das Gedicht zu einer poetischen Landkarte, auf der das Universum als vertrauenswürdiger Begleiter des Herzens dient."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht konkrete Textzeilen („sie wohnen über mir“, „den weiten Weg zu dir“) in die Analyse ein.",
+          "Ergänzt die Interpretation um einen historischen Kontext (Nachkriegsdeutschland), was zwar erfunden, aber die Analyse erweitert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die wiederholte Gegenüberstellung von Gold und Silber entsteht ein Bild von Dualität: das warme, erdverbundene Leuchten der Sterne steht dem kühlen, transzendenten Schein des Mondes gegenüber, beide jedoch gemeinsam über dem lyrischen Ich thronen.",
+          "Diese Himmelskörper übernehmen die Rolle von Beschützern, die „ewige Wacht“ halten, was das Bild einer beständigen, übernatürlichen Fürsorge erzeugt und das Vertrauen in eine unsichtbare Ordnung stärkt.",
+          "Der Weg, den sie „führen“, ist nicht nur geographisch, sondern emotional: er führt vom gegenwärtigen Ort des Alleinseins zu einem geliebten Gegenüber, das im Refrain als „du“ benannt wird.",
+          "Das wiederholte Motiv des Singens einer „Glücksmelodie“ verbindet das Bild des Gesangs mit dem Akt des Schaffens von Glück, sodass das lyrische Ich nicht nur Empfänger, sondern auch Schöpfer von Freude ist.",
+          "Die nächtliche Szenerie, in der „die Lichter erglüh’n“, wird zum Rahmen für ein intimes Wiedersehen, das durch das kosmische Licht erhellt wird.",
+          "So wird das Universum zum Spiegel der menschlichen Sehnsucht, das durch seine beständige Präsenz Trost spendet und den Weg zu zwischenmenschlicher Verbundenheit weist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt die zentrale Symbolik von Licht und Wacht.",
+          "Verbindet die wiederholten Textpassagen mit einer emotionalen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Gold steht für das Strahlende, das Hoffnungsvolle, während Silber das Kühle, das Beständige verkörpert; zusammen bilden sie ein harmonisches Gegenstück, das den Sprecher aus der Dunkelheit herausführt.",
+          "Die nächtliche Szenerie wird dabei zum Spiegel der inneren Gefühlswelt: das Leuchten der Himmelskörper spiegelt das Aufblühen einer „Glücksmelodie“, die im Moment des Wiedersehens erklingt und die zuvor verborgenen Worte in musikalische Ausdrucksformen verwandelt.",
+          "Die Zeile „Abends, wenn die Lichter erglüh’n“ betont den Übergang von äußerer Dunkelheit zu innerem Licht, das durch die Anwesenheit des Anderen aktiviert wird.",
+          "Gleichzeitig suggeriert die „ewige Wacht“ der Himmelskörper eine zeitlose, schützende Präsenz, die das Liebesversprechen über die Vergänglichkeit des Menschen hinaus trägt.",
+          "So wird das Universum zum stillen Zeugen einer persönlichen Liebesgeschichte, in der das kosmische Leuchten nicht nur Orientierung, sondern auch Trost und Bestätigung liefert, dass die Sehnsucht letztlich in einem Wiedersehen mündet, das durch die unerschöpfliche Kraft von Sternen und Mond erhellt wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft Textzeilen („sie führen mich … den weiten Weg zu dir“) mit einer klaren emotionalen Interpretation.",
+          "Betont die Rolle der „Glücksmelodie“ als Transformationsmittel."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Grundthesen (Licht als Wegweiser, Sehnsucht, Glücksmelodie) und unterscheiden sich kaum in ihrer Substanz. Die geringe Varianz führt zu einer hohen Halluzinationsrate, da fast alle weiterführenden Aussagen nicht im Originaltext verankert sind.",
+    "empfehlung": "Ein besserer Ansatz wäre, sich stärker an den konkreten Textzeilen zu orientieren, nur dort zu interpretieren, wo der Text klare Bildsprache liefert, und spekulative Bedeutungen klar als mögliche Lesarten zu kennzeichnen. So lässt sich die Faktentreue erhöhen, während gleichzeitig tiefere, textbasierte Analysen ermöglicht werden."
+  }
+}

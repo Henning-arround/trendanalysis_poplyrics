@@ -1,0 +1,103 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Käfig'-Metapher symbolisiert die Gefangenschaft in eigenen Emotionen und Gedanken"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'Pain, you're not my friend, and I despise you / Friend, you are my pain, and I adore you'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Käfig'-Metapher symbolisiert die Gefangenschaft in eigenen Emotionen und Gedanken",
+          "Die Fragmentierung und Polarisierung der Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs",
+          "Die kulturelle und gesellschaftliche Relevanz des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'I hear them from the other side'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Käfig'-Metapher symbolisiert die Gefangenschaft in eigenen Emotionen und Gedanken"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'Pain, you're not my friend, and I despise you / Friend, you are my pain, and I adore you'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Käfig'-Metapher symbolisiert die Gefangenschaft in eigenen Emotionen und Gedanken",
+          "Die Angst vor dem Verlust und die Sehnsucht nach authentischen Erfahrungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs",
+          "Die kulturelle und gesellschaftliche Relevanz des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'What are you waiting for? I'm here'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Käfig'-Metapher symbolisiert die Gefangenschaft in eigenen Emotionen und Gedanken"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'Pain, you're not my friend, and I despise you / Friend, you are my pain, and I adore you'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Textzeilen und die Identifizierung von Themen und Motiven.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Konsistenz in Bezug auf die Analyse der Textzeilen und die Identifizierung von Themen und Motiven."
+  }
+}

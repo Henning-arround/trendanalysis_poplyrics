@@ -1,0 +1,107 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einem mysteriösen und bedrohlichen Zirkus, der sich auf eine Reise begibt und überall Tod und Zerstörung hinterlässt.",
+          "Die Menschen, die dem Zirkus entgegenschauen, sind voller Angst und Hilflosigkeit, während diejenigen, die den Zirkus überlebt haben, als Tote zurückbleiben.",
+          "Der Song kann als Metapher für die Zerstörung und den Verfall der Gesellschaft interpretiert werden, wobei der Zirkus für die dunklen Kräfte steht, die die Menschheit bedrohen.",
+          "Der Clown verkörpert die Verkörperung des Bösen, das sich nicht aufhalten lässt und seine Opfer in einem unendlichen Kreislauf von Angst und Tod gefangen hält."
+        ],
+        "positive_aspekte": [
+          "Sehr hoher Anteil an textbezogenen Aussagen (7 von 10).",
+          "Alle zentralen Motive (Clown, Narkotikum, roter Pfad, flehende Stimme) werden exakt aus dem Text wiedergegeben.",
+          "Wenig bis keine spekulativen Biografie‑ oder Kontextangaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einem mysteriösen und bedrohlichen Zirkus, der sich auf eine Reise begibt und überall Tod und Zerstörung hinterlässt.",
+          "Der Song kann als Metapher für die Zerstörung und den Verfall der Gesellschaft interpretiert werden, wobei der Zirkus für die dunklen Kräfte steht, die die Menschheit bedrohen.",
+          "Der Clown verkörpert die Macht der Zerstörung und die Unaufhaltsamkeit des Bösen."
+        ],
+        "positive_aspekte": [
+          "Alle faktischen Details (Flug, McGarrett, Blutspur, Clown‑Narkotikum, letzte Mensch) sind belegt.",
+          "Konsistente, lineare Analyse des Textes ohne unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einem mysteriösen und bedrohlichen Zirkus, der sich auf eine Reise durch die Welt macht und überall Tod und Zerstörung hinterlässt.",
+          "Der Song kann als Metapher für die Zerstörung und den Verfall der menschlichen Gesellschaft interpretiert werden, die durch eine dunkle und unkontrollierbare Kraft vorangetrieben wird.",
+          "Der Zirkus des Todes symbolisiert die dunkle Seite der menschlichen Natur, die sich in Gewalt, Angst und Zerstörung manifestiert."
+        ],
+        "positive_aspekte": [
+          "Vollständige Wiedergabe der narrativen Elemente (Flug, Fluch, roter Pfad, Clown, letzte Mensch).",
+          "Klare Struktur: Beschreibung → Konflikt → Metapher."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einem mysteriösen und bedrohlichen Zirkus, der sich auf eine Reise begibt und überall Tod und Zerstörung hinterlässt.",
+          "Der Song kann als Metapher für die Zerstörung und den Tod gesehen werden, der durch die menschliche Natur selbst verursacht wird.",
+          "Der Zirkus symbolisiert möglicherweise die dunkle Seite der menschlichen Psyche, die durch die Gier nach Macht und Kontrolle angetrieben wird.",
+          "Der Song ist eine düstere und bedrohliche Vision, die die Zuhörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Alle konkreten Bildungen aus dem Text werden korrekt wiedergegeben.",
+          "Zusätzliche Reflexion über psychologische Dimensionen, die zwar allgemein sind, aber nicht im Widerspruch zum Text stehen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einem mysteriösen und bedrohlichen Zirkus, der sich auf eine Reise begibt und überall Tod und Zerstörung hinterlässt.",
+          "Der Song kann als Metapher für die Zerstörung und den Verfall der Gesellschaft interpretiert werden, wobei der Zirkus für die dunklen Kräfte steht, die die Menschheit bedrohen.",
+          "Der Clown verkörpert den Anführer dieser dunklen Mächte, der seine Macht durch ein geheimes Mittel aufrechterhält."
+        ],
+        "positive_aspekte": [
+          "Exzellente Texttreue: Alle Schlüsselbegriffe (McGarrett, Blut‑Fluch, roter Pfad, Clown‑Dominion, letzte Mensch) sind belegt.",
+          "Gute Balance zwischen faktischer Wiedergabe und interpretativer Reflexion."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Kernaussagen, jedoch variieren die zusätzlichen, meist oberflächlichen Metaphern. Die Varianz ist gering – die Interpretationen sind inhaltlich stark konsistent.",
+    "empfehlung": "Die Modelle liefern durchweg texttreue Analysen (Halluzinations‑Score 5). Für tiefere, weniger generische Interpretationen sollte das Modell stärker auf Ambiguitäten im Text eingehen und weniger allgemeine Metaphern verwenden. Interpretation 3 zeigt die beste Balance aus Textbezug und analytischer Tiefe."
+  }
+}

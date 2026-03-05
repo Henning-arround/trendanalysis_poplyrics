@@ -1,0 +1,95 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Augen und das Lächeln des geliebten Menschen haben die Macht, den Sänger aufzubauen, aber auch zu verletzen."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse.",
+          "Klare Strukturierung in einzelne inhaltliche Aussagen.",
+          "Vermeidet spekulative biografische oder genrebezogene Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Augen und das Lächeln des geliebten Menschen haben die Macht, den Sänger aufzubauen, aber auch zu verletzen."
+        ],
+        "positive_aspekte": [
+          "Umfassende, aber textbasierte Interpretation.",
+          "Verknüpft wiederholte Refrain‑Zeilen mit emotionaler Dringlichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Augen und das Lächeln des geliebten Menschen haben die Macht, den Sänger aufzubauen, aber auch zu verletzen."
+        ],
+        "positive_aspekte": [
+          "Stetiger Bezug zu konkreten Textstellen.",
+          "Erklärt die Symbolik von „fire“ und „crash and burn“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Augen und das Lächeln des geliebten Menschen haben die Macht, den Sänger aufzubauen, aber auch zu verletzen."
+        ],
+        "positive_aspekte": [
+          "Zusätzliche Nuancierung durch die Formulierung „flehlicher Appell\".",
+          "Gute Balance zwischen Wiederholung und tieferer Bedeutungszuweisung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Augen und das Lächeln des geliebten Menschen haben die Macht, den Sänger aufzubauen, aber auch zu verletzen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Analyse aller wiederkehrenden Motive.",
+          "Vermeidet unbegründete Kontextualisierungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch; die Varianz ist minimal. Nur Interpretation 2 fügt eine leicht tiefere, differenzierte Formulierung hinzu.",
+    "empfehlung": "Ein Ansatz, der die Textbezüge klar benennt und gleichzeitig subtile, textbasierte Nuancen (wie in Interpretation 2) hervorhebt, liefert die ausgewogenste Mischung aus Faktentreue und analytischer Tiefe."
+  }
+}

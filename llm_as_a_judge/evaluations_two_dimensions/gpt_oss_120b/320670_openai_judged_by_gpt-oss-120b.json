@@ -1,0 +1,89 @@
+{
+  "song": "Pay The Man - The Offspring (1998)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse (Wind, Sonne, Jester, Refrain).",
+          "Klare Benennung von Symbolen („In our souls“, „pay the man“, „shut up, you talk too much“).",
+          "Erkennt die Mehrdeutigkeit zwischen Resignation und Widerstand."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die spanischen Zählungen und das Meme mit einer Kritik an kultureller Fragmentierung.",
+          "Erklärt den Kontrast zwischen „My life is for me now“ und der erdrückenden Realität.",
+          "Stellt den Jester als Symbol für gesellschaftliche Beobachtung dar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betont die Subtilität des „Bösen“ durch die Stille des Jesters.",
+          "Verbindet die Zeile „My life is for me now“ mit einem Funken Trotz.",
+          "Schließt mit einer breiten, aber textbasierten Systemkritik."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erklärt die wiederholten Naturbilder als Hinweis auf den natürlichen Lauf des Lebens.",
+          "Analysiert die Pop‑Kultur‑Ablenkung (Spanisch‑Zählungen, Meme).",
+          "Zeigt den inneren Aufruhr des Individuums im Refrain."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Zitiert konkret die Zeile „Look at you and your struggle for freedom, but you ain’t nothin’“ und interpretiert deren Bedeutung.",
+          "Verknüpft kindliche Laute und spanische Zahlen mit einem chaotischen Klangbild, das Entfremdung verstärkt.",
+          "Betont die Gefahr, dass kritische Botschaften selbst zu Konsumprodukten werden."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben stark textgebunden und wiederholen ähnliche Kernthesen; die Varianz liegt hauptsächlich im Detailgrad der Analyse.",
+    "empfehlung": "Interpretation 3 liefert die tiefgründigste, am besten begründete Analyse, während alle fünf Interpretationen frei von Halluzinationen sind. Für zukünftige Bewertungen sollte der Fokus auf noch differenziertere Textbezüge und weniger redundante Formulierungen gelegt werden."
+  }
+}

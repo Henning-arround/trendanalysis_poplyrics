@@ -1,0 +1,103 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Post-kriegsamerikanische Rollenmuster"
+        ],
+        "oberflächliche_aussagen": [
+          "kulturelles Artefakt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Wachsende Konsumkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Gesellschaftskritisch"
+        ],
+        "positive_aspekte": [
+          "Historische Kontextualisierung",
+          "Symbolische Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "amerikanische Ideologie des 'comfort food'"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend spezifisch und textanalytisch",
+          "Offen für Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Patriarchale Haushaltsstrukturen"
+        ],
+        "oberflächliche_aussagen": [
+          "zeitlos",
+          "universell"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kulinarische Palette"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Konsumideal und ökonomische Unsicherheiten"
+        ],
+        "oberflächliche_aussagen": [
+          "menschliche Erfahrung"
+        ],
+        "positive_aspekte": [
+          " Wechselspiel aus Frustration, Humor und Angst",
+          "Kulturelle Identität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Varianz in der Qualität",
+    "empfehlung": "Interpretation 3 bietet die beste Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

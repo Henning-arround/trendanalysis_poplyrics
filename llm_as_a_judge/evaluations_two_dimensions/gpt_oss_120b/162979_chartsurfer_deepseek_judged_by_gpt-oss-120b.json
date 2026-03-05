@@ -1,0 +1,124 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die Abwesenheit der Kartoffeln wird dabei metaphorisch für eine unzureichende Erfüllung seiner Bedürfnisse verwendet.",
+          "Die Reaktion des Mannes ist übertrieben und humorvoll, was den Song zu einer skurrilen und unterhaltsamen Geschichte macht.",
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Die Fixierung auf Kartoffeln als unverzichtbarem Bestandteil eines vollständigen Mahls offenbart eine tiefere Sehnsucht nach Geborgenheit und Vertrautheit.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die zentrale Bildsprache des Songs (Mann, Arbeitstag, fehlende Kartoffeln).",
+          "Erkennt die wiederholte Zeile „All that meat and no potatoes“ als Refrain.",
+          "Bezieht die Metapher „green tomatoes“ korrekt aus dem Text ein."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die Abwesenheit der Kartoffeln wird dabei metaphorisch für eine unzureichende Erfüllung seiner Bedürfnisse verwendet.",
+          "Die Reaktion des Mannes ist übertrieben und humorvoll, was den Song zu einer skurrilen und unterhaltsamen Geschichte macht.",
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Die Fixierung auf Kartoffeln als unverzichtbarem Bestandteil eines vollständigen Mahls offenbart eine tiefere Sehnsucht nach Geborgenheit und Vertrautheit.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Stellt die Kernhandlung (Mann kommt nach Hause, kein Kartoffelgericht) korrekt dar.",
+          "Erkennt die strukturelle Wiederholung der Zeile „All that meat and no potatoes“.",
+          "Verknüpft die Bildsprache „green tomatoes“ mit der Unangemessenheit der Situation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die Abwesenheit der Kartoffeln wird dabei metaphorisch für eine unzureichende Erfüllung seiner Bedürfnisse verwendet.",
+          "Die Reaktion des Mannes ist übertrieben und humorvoll, was den Song zu einer skurrilen und unterhaltsamen Geschichte macht.",
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Die Fixierung auf Kartoffeln als unverzichtbarem Bestandteil eines vollständigen Mahls offenbart eine tiefere Sehnsucht nach Geborgenheit und Vertrautheit.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Korrekte Identifikation der erzählerischen Situation aus dem Text.",
+          "Richtige Zuordnung der wiederholten Zeile als Refrain.",
+          "Erwähnung der „green tomatoes“-Metapher, die im Text vorkommt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die Abwesenheit der Kartoffeln wird dabei metaphorisch für eine unzureichende Erfüllung seiner Bedürfnisse verwendet.",
+          "Die Reaktion des Mannes ist übertrieben und humorvoll, was den Song zu einer skurrilen und unterhaltsamen Geschichte macht.",
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Die Fixierung auf Kartoffeln als unverzichtbarem Bestandteil eines vollständigen Mahls offenbart eine tiefere Sehnsucht nach Geborgenheit und Vertrautheit.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Erfasst die zentrale Bildsprache (Mann, Arbeit, fehlende Kartoffeln).",
+          "Erkennt die wiederholte Zeile als strukturelles Element.",
+          "Bezieht die „green tomatoes“-Metapher korrekt ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist ist empört und fühlt sich betrogen, da er eine ausgewogene Mahlzeit mit Fleisch und Kartoffeln erwartet hat.",
+          "Die Abwesenheit der Kartoffeln wird dabei metaphorisch für eine unzureichende Erfüllung seiner Bedürfnisse verwendet.",
+          "Die Reaktion des Mannes ist übertrieben und humorvoll, was den Song zu einer skurrilen und unterhaltsamen Geschichte macht.",
+          "Der Song kann auch als Kommentar zur menschlichen Natur interpretiert werden, die oft bestimmte Erwartungen und Gewohnheiten hat.",
+          "Die Fixierung auf Kartoffeln als unverzichtbarem Bestandteil eines vollständigen Mahls offenbart eine tiefere Sehnsucht nach Geborgenheit und Vertrautheit.",
+          "Der Song ist eine charmante und humorvolle Darstellung der menschlichen Schwächen und Vorlieben."
+        ],
+        "positive_aspekte": [
+          "Stellt die Grundhandlung korrekt dar.",
+          "Identifiziert die wiederholte Zeile als Refrain.",
+          "Bezieht die „green tomatoes“-Metapher aus dem Text ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich identisch, wodurch die Varianz praktisch null ist. Die Bewertungen spiegeln dieselbe Struktur wider.",
+    "empfehlung": "Die vorliegenden Interpretationen sind faktentreu, aber stark oberflächlich. Für eine höhere Tiefe sollten zukünftige Analysen konkretere Textbelege nutzen, mehr differenzierte Bedeutungsansätze anbieten und vage Generalisierungen vermeiden."
+  }
+}

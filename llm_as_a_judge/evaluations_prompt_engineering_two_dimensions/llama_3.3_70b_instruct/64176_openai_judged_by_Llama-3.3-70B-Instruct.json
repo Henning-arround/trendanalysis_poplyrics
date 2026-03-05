@@ -1,0 +1,99 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'sinnlicher Dimension' und 'spiritueller Dimension' könnte als leicht halluziniert angesehen werden, da diese Begriffe nicht direkt im Text erwähnt werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'in einer urban-late-2000er-Kultur' verortet ist, könnte als etwas oberflächlich angesehen werden, da dies nicht explizit im Text begründet wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der Verwendung von Metaphern, was die Tiefe der Interpretation unterstreicht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von 'gesellschaftlichen Spannungen', ohne diese im Text direkt zu belegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'die Zyklen von Verführung und Ablehnung' thematisiert, ist etwas allgemein und könnte spezifischer sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Spannungen zwischen Kontrolle und Hingabe zu analysieren, was ein wichtiger Aspekt des Textes ist."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'globalisierten Club-Ritualen' und 'R&B-Fusion' als kulturellem Kontext könnte als leicht spekulativ angesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Beziehung 'unbestimmt' ist, ist etwas allgemein und könnte durch spezifischere Textbelege untermauert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von Metaphern und der narrativen Struktur, was die Tiefe der Interpretation unterstreicht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von 'Konsum- und Geschlechterdynamiken', ohne diese im Text direkt zu belegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'die Fragmentierung moderner Beziehungen' thematisiert, ist etwas allgemein und könnte spezifischer sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Spannungen zwischen Verlangen und Distanz zu analysieren, was ein wichtiger Aspekt des Textes ist."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'sexueller Selbstbestimmung' und 'Spiel mit Identitäten' als kulturellem Kontext könnte als leicht spekulativ angesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Beziehung 'ambivalent' ist, ist etwas allgemein und könnte durch spezifischere Textbelege untermauert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von Metaphern und der narrativen Struktur, was die Tiefe der Interpretation unterstreicht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Textstruktur und der Verwendung von Metaphern, aber variieren in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf eine detaillierte Analyse der Textstruktur und der Verwendung von Metaphern konzentrieren und versuchen, spezifischere Textbelege für die Interpretation zu finden."
+  }
+}

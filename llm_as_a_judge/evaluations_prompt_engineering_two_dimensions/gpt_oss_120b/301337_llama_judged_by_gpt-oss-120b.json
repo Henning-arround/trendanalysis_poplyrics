@@ -1,0 +1,104 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Popkultur der 2000er Jahre, in der Individualität und Selbstausdruck hoch geschätzt wurden.",
+          "Die Wiederholung von \"Ichi, Ni, San\" kann als Symbol für die Notwendigkeit, sich von der Masse abzuheben und eine eigene Identität zu finden, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textstellen (z. B. „Everyone wants to be like the other“, „Take a chance and try something different“, „Da da da…“, „Ichi, Ni, San“).",
+          "Erkennt und benennt die Ambivalenz zwischen Anpassung und Individualität.",
+          "Schließt mit einer zusammenfassenden Analyse, die die Komplexität des Songs betont."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Popkultur der 2000er Jahre, in der Individualität und Selbstausdruck hoch geschätzt wurden.",
+          "Die Wiederholung von \"Ichi, Ni, San\" kann als Symbol für die Notwendigkeit, sich von der Masse abzuheben und eine eigene Identität zu finden, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse der stilistischen Mittel (Wiederholungen, Rhythmus).",
+          "Verknüpft emotionale Wirkung mit konkreten Textzeilen.",
+          "Betont die offene Interpretation und die ungelösten Spannungen im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Popkultur der 2000er Jahre, in der Individualität und Selbstausdruck hoch geschätzt wurden.",
+          "Die Wiederholung von \"Ichi, Ni, San\" kann als Symbol für die Notwendigkeit, sich von der Masse abzuheben und eine eigene Identität zu finden, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Bezugnahme auf zentrale Songzeilen.",
+          "Erklärt die affektive Dimension des Songs anhand der Aufforderungen im Text.",
+          "Identifiziert die zentrale Botschaft von Konformität vs. Individualität."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Popkultur der 2000er Jahre, in der Individualität und Selbstausdruck hoch geschätzt wurden.",
+          "Die Wiederholung von \"Ichi, Ni, San\" kann als Symbol für die Notwendigkeit, sich von der Masse abzuheben und eine eigene Identität zu finden, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Struktur: Einleitung, Stilmittel, emotionale Wirkung, Kontext, tiefere Bedeutung.",
+          "Verknüpft Textzitate mit interpretativen Aussagen.",
+          "Betont die offene Interpretation und die Ambiguität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Popkultur der 2000er Jahre, in der Individualität und Selbstausdruck hoch geschätzt wurden.",
+          "Die Wiederholung von \"Ichi, Ni, San\" kann als Symbol für die Notwendigkeit, sich von der Masse abzuheben und eine eigene Identität zu finden, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stützt sich auf konkrete Textstellen, insbesondere die wiederholten Phrasen.",
+          "Erklärt die emotionale und affektive Dimension des Songs.",
+          "Hebt die Spannung zwischen Anpassung und Individualität hervor."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Sehr hoch – alle fünf Analysen sind in Inhalt und Struktur nahezu identisch, wodurch die Varianz praktisch fehlt.",
+    "empfehlung": "Eine Interpretation, die sowohl die konkreten Textstellen nutzt als auch eine abschließende, textbasierte Synthese bietet (z. B. Interpretation 1), ist leicht überlegen. Künftige Analysen sollten spekulative kulturelle Kontextualisierungen vermeiden und stattdessen noch stärker auf mehrschichtige Textbelege eingehen, um die Tiefen‑Score zu erhöhen."
+  }
+}

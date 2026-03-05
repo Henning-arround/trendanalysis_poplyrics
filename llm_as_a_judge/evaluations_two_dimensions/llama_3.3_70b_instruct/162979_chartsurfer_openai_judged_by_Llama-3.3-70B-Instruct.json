@@ -1,0 +1,105 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kartoffel als Metapher für Geborgenheit, Beständigkeit und familiäre Wärme"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwartung, dass materielle Fülle automatisch emotionale Zufriedenheit bringt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dialoge zwischen 'Pops' und seiner Partnerin",
+          "Die Betonung der Flexibilität des Sprechers"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Bohnen, Reis und Erbsen als mögliche Ergänzungen",
+          "Die ironische Leichtigkeit von Louis Armstrongs Stimme"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vielseitigkeit und Anpassungsfähigkeit der afro-amerikanischen Küche"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der wiederholten Betonung von 'all that meat and no potatoes'",
+          "Die Betonung der Resilienz der Gemeinschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kartoffel als Metapher für das fehlende Fundament"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach Harmonie in einer Zeit des Wiederaufbaus"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dialoge zwischen 'Pops' und seiner Partnerin",
+          "Die Betonung der Frustration des Sprechers"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielungen auf grüne Tomaten und andere Gemüse als Symbol für Vielfalt und Ausgewogenheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung der Notwendigkeit von Balance zwischen Arbeit, Genuss und häuslicher Geborgenheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der wiederholten Gegenüberstellung von 'Fleisch' und 'Kartoffeln'",
+          "Die Betonung der humorvollen Kritik an Überfluss und Verschwendung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Allegorie für das Verhältnis von materiellen Erfolgen und den einfachen, stabilisierenden Elementen des Alltags"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung der Notwendigkeit von Balance zwischen Arbeit, Genuss und häuslicher Geborgenheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der wiederholten Betonung von 'all that meat and no potatoes'",
+          "Die Betonung der subtilen Kritik an der einseitigen Betonung von Erfolg und Konsum"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Dialoge und der wiederholten Betonung von 'all that meat and no potatoes'. Es gibt jedoch einige Variationen in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch wichtig, die anderen Interpretationen zu berücksichtigen, um eine umfassendere Übersicht über den Song zu erhalten."
+  }
+}

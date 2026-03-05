@@ -1,0 +1,125 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine reflektierende und melancholische Betrachtung über die Vergangenheit und die Vergänglichkeit der Jugend.",
+          "Die zentrale Botschaft ... ist die Reue und die Erkenntnis, dass die Vergangenheit unwiderruflich ist.",
+          "Der Song ist reich an literarischen Stilmitteln, wie Metaphern und Symbolen.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden.",
+          "Die 1960er Jahre waren eine Zeit des Umbruchs ... Der Song reflektiert diese Veränderungen und die Suche nach Identität und Sinn.",
+          "Der Protagonist repräsentiert die Generation, die ... aber letztlich die Leere und den Schmerz der Vergangenheit nicht bewältigen konnte.",
+          "Der Song ist ein Zeugnis der Ambivalenz der Jugend und der Vergänglichkeit der Zeit."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. Metaphern zu „taste of life“, „evening breeze\", \"wand\").",
+          "Gute Analyse von Bildsprache (z. B. Sand‑Metapher, Kerzenflamme).",
+          "Konsistente Argumentationskette, die Textbelege nutzt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine reflektierende und melancholische Betrachtung über die Vergangenheit und die Vergänglichkeit der Jugend.",
+          "Die zentrale Botschaft ... ist die Erkenntnis, dass die Jugendzeit unwiederbringlich vergangen ist und dass die Erfahrungen und Entscheidungen dieser Zeit Konsequenzen für das spätere Leben haben.",
+          "Die Verwendung der Metapher des Regens verdeutlicht die Unschuld und Frische der Jugendzeit.",
+          "Der Song kann auch als ein Kommentar zur kulturellen und gesellschaftlichen Situation der 1960er Jahre interpretiert werden.",
+          "Die Zeile ... verweist auf die libertäre und hedonistische Atmosphäre dieser Zeit.",
+          "Der Text kann auch als eine Kritik an der Oberflächlichkeit und dem Narzissmus der Jugendzeit gelesen werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und eine reflektierende Dimension, die den Hörer dazu einlädt, über die Bedeutung von Jugend, Zeit und Erfahrung nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Alle gemachten Aussagen lassen sich zumindest implizit aus dem Text ableiten; es gibt keine falschen Fakten.",
+          "Nennung konkreter Textstellen (z. B. „And only now I see how the years ran away“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine reflektierende und melancholische Betrachtung über die Vergangenheit und die Vergänglichkeit der Jugend.",
+          "Die zentrale Botschaft ... ist die Erkenntnis, dass die Jugendzeit unwiederbringlich vergangen ist und dass die Erfahrungen und Entscheidungen dieser Zeit Konsequenzen für das spätere Leben haben.",
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Die Verwendung von Naturelementen wie Regen und Abendwind unterstreicht die Vergänglichkeit und Unwiederholbarkeit der Jugendzeit.",
+          "Der Songtext zeigt auch eine emotionale Wirkung und affektive Dimension, indem er die Sehnsucht und Melancholie des Sängers nach der verlorenen Jugendzeit ausdrückt.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre gesehen werden.",
+          "Die 1960er Jahre waren eine Zeit des Umbruchs ... Der Songtext spiegelt diese Veränderungen wider, indem er die Suche nach Identität und Sinn in der Jugendzeit thematisiert.",
+          "Insgesamt zeigt der Song ... eine tiefere Bedeutungsebene, indem er die menschliche Erfahrung der Vergänglichkeit und der Reflexion über die Vergangenheit thematisiert."
+        ],
+        "positive_aspekte": [
+          "Klare Textbelege für zentrale Metaphern (Regen, Sand, „songs in me that won't be sung“).",
+          "Stetige Bezugnahme auf konkrete Zeilen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine reflektierende und melancholische Betrachtung über die Vergangenheit und die Vergänglichkeit der Jugend.",
+          "Der Song hat eine starke emotionale Wirkung und affektive Dimension.",
+          "Der Song spiegelt auch den kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre wider, in dem die Jugendbewegung und die Suche nach Freiheit und Selbstverwirklichung eine wichtige Rolle spielten.",
+          "Insgesamt zeigt der Song eine tiefe Bedeutungsebene und symbolische Ordnung, die die Vergänglichkeit der Jugend und die Bedeutung von Reflexion und Reue unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Umfangreiche Analyse von Metaphern (Regen, Spiel, Mond, Flammen).",
+          "Verknüpfung von Bildsprache mit emotionaler Wirkung (bitterer Geschmack, nicht gesungene Lieder).",
+          "Konsistente Argumentationsstruktur, die Textstellen systematisch heranzieht."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine reflektierende und melancholische Betrachtung über die Vergangenheit und die Vergänglichkeit der Jugend.",
+          "Die zentrale Botschaft ... ist die Erkenntnis, dass die Jugendzeit unwiderruflich vergangen ist und dass die Erfahrungen und Entscheidungen dieser Zeit Konsequenzen für das spätere Leben haben.",
+          "Der Song verwendet verschiedene literarische Stilmittel, wie Metaphern und Symbole, um die Erfahrungen und Emotionen der Jugendzeit zu beschreiben.",
+          "Die Verwendung von Nacht und Licht als Metaphern für die verschiedenen Phasen des Lebens unterstreicht die Ambivalenz von Jugend und Alter.",
+          "Die emotionale Wirkung des Songs ist von Melancholie und Nostalgie geprägt.",
+          "Der Song spiegelt auch den kulturellen und historischen Kontext der 1960er Jahre wider, in dem die Jugendbewegung und die Suche nach Freiheit und Selbstverwirklichung zentrale Themen waren.",
+          "Insgesamt zeigt der Song, dass die Jugendzeit eine Phase der Exploration und des Experiments ist, die jedoch auch Konsequenzen für das spätere Leben hat."
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse einzelner Metaphern (Regen, Sand, Nacht/Licht).",
+          "Klare Verknüpfung von Bildsprache und deren implizierter Bedeutung (Unsicherheit, Vergänglichkeit).",
+          "Durchgängige Textbelege, keine spekulativen biografischen Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen die Grundaussage von Reue und Vergänglichkeit, unterscheiden sich jedoch stark im Detailgrad. Die Variation ist moderat; keine Interpretation enthält falsche Fakten, aber die Tiefe schwankt von oberflächlich (2,5) bis substanziell (1,3,4).",
+    "empfehlung": "Interpretation 3 bietet die beste Balance aus Texttreue und analytischer Tiefe, gefolgt von 1 und 4. Für zukünftige Bewertungen sollte man darauf achten, vage Allgemeinplätze zu reduzieren und mehr konkrete Textanalysen zu liefern."
+  }
+}

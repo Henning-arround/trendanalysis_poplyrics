@@ -1,0 +1,99 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Imperativen wie 'Come on, let's go' und 'Let's escape, girl' unterstreicht die Aufforderung, sich dem Moment hinzugeben."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Betonung der Bedeutung des aktuellen Moments und die Aufforderung, das Leben in vollen Zügen zu genießen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer hedonistischen und individualistischen Jugendkultur interpretiert werden, die sich durch die Betonung von Spontanität, Freiheit und Selbstverwirklichung auszeichnet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Nacht wird als ein Moment der Freiheit und des unbeschränkten Genusses dargestellt, in dem 'alles alright' ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die kulturelle und historische Bedeutung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics 'We live the best life' und 'This is the best night of my life' verdeutlichen diese Haltung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Betonung der Bedeutung des aktuellen Moments, der als 'die beste Nacht' beschrieben wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel und die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer hedonistischen Jugendkultur interpretiert werden, die sich durch die Suche nach Freiheit, Spaß und unbeschwerten Erfahrungen auszeichnet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung der Einzigartigkeit der Nacht ('This is the best night of my life') kann zudem als Ausdruck einer narcissistischen Selbstinszenierung und der Sehnsucht nach unvergesslichen Momenten gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die kulturelle und historische Bedeutung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'And we'll start over, I want to do it all again' lässt zudem eine gewisse Leere und Unzufriedenheit mit der gegenwärtigen Situation andeuten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der wiederholten Aussage 'This is the best night of my life' zusammenfassen, die eine Atmosphäre unbeschwerter Freude und Ekstase vermittelt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel und die emotionale Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und diskutiert die kulturelle und historische Bedeutung des Songs."
+  }
+}

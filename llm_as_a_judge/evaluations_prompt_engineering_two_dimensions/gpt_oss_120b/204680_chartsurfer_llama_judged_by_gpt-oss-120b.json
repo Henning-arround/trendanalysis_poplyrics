@@ -1,0 +1,106 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Musik und des Gesangs verstärkt, die eine sentimentale und romantische Stimmung erzeugt."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich eindeutig aus dem Songtext ableiten.",
+          "Analytisch tiefgehend – behandelt Metaphern, Besitzergreifung und Vergänglichkeit.",
+          "Berücksichtigt Ambivalenzen (z. B. Spannung zwischen Liebe und Besitz) und bleibt textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von den sozialen Normen und Erwartungen der 1950er Jahre, in denen die Monogamie und die Exklusivität in Beziehungen als Ideal galten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Musik und des Gesangs verstärkt, die eine sentimentale und romantische Stimmung erzeugt.",
+          "Diese Spannung bleibt im Song ungelöst und hinterlässt eine offene Frage nach der Natur der Beziehung und der Bedeutung der Exklusivität."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge und nachvollziehbare Interpretationen der wiederholten Motive.",
+          "Erkennt die Ambivalenz zwischen Exklusivität und Freiheit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der aus der Broadway‑Produktion \"Say Darling\" stammt, gibt Aufschluss über die gesellschaftlichen Normen und Erwartungen an Beziehungen in den 1950er Jahren.",
+          "Die Betonung der Exklusivität und Treue in der Beziehung spiegelt die traditionellen Werte und Ideale der Zeit wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Musik und des Gesangs verstärkt, die eine sentimentale und romantische Stimmung erzeugt."
+        ],
+        "positive_aspekte": [
+          "Verknüpft den Song mit seiner Broadway‑Ursprungsproduktion.",
+          "Erkennt die thematische Verbindung von Tanz und emotionaler Verbundenheit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von den sozialen Normen und Erwartungen der 1950er Jahre, in denen die Monogamie und die Exklusivität in Beziehungen hoch geschätzt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Musik und des Gesangs verstärkt, die eine sentimentale und romantische Stimmung erzeugt."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der wiederholten Textpassagen und ihrer Bedeutung.",
+          "Behandelt die Balance zwischen Exklusivität und Freiheit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der aus der Broadway‑Produktion \"Say Darling\" stammt, gibt Aufschluss über die gesellschaftlichen Normen und Erwartungen an Beziehungen in den 1950er Jahren.",
+          "Die Betonung der Exklusivität und Treue in der Beziehung spiegelt die traditionellen Werte und Ideale der Zeit wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Musik und des Gesangs verstärkt, die eine sentimentale und romantische Stimmung erzeugt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge und klare Argumentationsstruktur.",
+          "Erkennt die thematische Rolle des Tanzes als Symbol für Verbundenheit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑5 wiederholen stark dieselben Grundthesen, wodurch die Varianz gering ist. Nur Interpretation 3 liefert zusätzliche, textbasierte Tiefe ohne Halluzinationen.",
+    "empfehlung": "Ein Ansatz, der strikt am Text bleibt und gleichzeitig tiefere, mehrschichtige Analysen (wie Interpretation 3) bietet, ist am erfolgversprechendsten. Vermeiden Sie allgemeine kulturhistorische Aussagen ohne Textbezug, da sie die Halluzinationsbewertung erhöhen."
+  }
+}

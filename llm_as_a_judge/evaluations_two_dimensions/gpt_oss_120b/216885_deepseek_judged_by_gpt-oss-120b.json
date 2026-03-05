@@ -1,0 +1,101 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine komplexe und ambivalente Beziehung, in der beide Partner aneinander gebunden sind, obwohl sie sich voneinander lösen möchten.",
+          "Der Song ist ein emotionaler Ausdruck der Sehnsucht und der Hoffnung, dass die Beziehung doch noch funktioniert."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textstellen werden konkret zitiert (z. B. „Our fading love takes us back to yesterday“, „Every day I’ll wait“).",
+          "Die Interpretation verbindet diese Zitate mit plausiblen Bedeutungen (Sehnsucht, Hoffnung, innere Unsicherheit)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song die Komplexität von Beziehungen und die Schwierigkeit, loszulassen, wenn die Liebe noch vorhanden ist."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse einzelner Zeilen (z. B. „paper walls“, „first one“).",
+          "Erklärt, wie wiederkehrende Motive (z. B. das Warten) emotionale Themen transportieren."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art Liebeserklärung interpretiert werden, in der der Sänger seine Partnerin bittet, zu ihm zurückzukehren und die Beziehung zu retten.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Verletzlichkeit und die Sehnsucht nach einer intakten Beziehung."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich gezielt auf mehrere Textzeilen (z. B. „The bed is cold from our mistakes“, „No one's gonna know you better“).",
+          "Verknüpft die wiederholte Phrase „Every day I’ll wait“ mit einer klaren Aussage über die Haltung des Sängers."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine komplexe und ambivalente Beziehung, in der beide Partner aneinander gebunden sind, obwohl sie sich voneinander lösen möchten.",
+          "Der Song ist ein emotionaler Ausdruck der Sehnsucht und der Hoffnung, dass die Beziehung doch noch funktioniert."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textzitaten mit den Themen Unsicherheit, Zweifel und Hoffnung.",
+          "Erklärt die Bedeutung des Refrains als „Mantra“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine komplexe und vielschichtige Beziehung, die von Erinnerungen, Erfahrungen und Emotionen geprägt ist.",
+          "Der Sänger ist bereit, auf seine Partnerin zu warten und sie zu lieben, auch wenn die Beziehung schwierig ist."
+        ],
+        "positive_aspekte": [
+          "Erkennt und interpretiert das Motiv der „paper walls“ als Hinweis auf äußere Zwänge.",
+          "Verbindet die Zeile „I was your first one“ mit der Idee einer prägenden ersten Liebe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      1,
+      5
+    ],
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben textnah und erfinden keine biografischen Fakten. Die Varianz liegt hauptsächlich im Anteil oberflächlicher Schlussfolgerungen – Interpretation 1 und 5 zeigen die höchste inhaltliche Tiefe, während 2‑4 stärker zu allgemeinen Aussagen neigen.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man die Detailgenauigkeit von Interpretation 1 bzw. 5 mit der strukturierten, aber weniger redundanten Argumentation von Interpretation 2 kombinieren. So entsteht eine Interpretation, die sowohl texttreu als auch tiefgehend ist, ohne unnötige Allgemeinplätze."
+  }
+}

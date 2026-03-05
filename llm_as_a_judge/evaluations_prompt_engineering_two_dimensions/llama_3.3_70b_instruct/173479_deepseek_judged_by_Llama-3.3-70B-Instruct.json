@@ -1,0 +1,98 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs wird durch die Darstellung von Einsamkeit, Verunsicherung und Resignation geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Songtexts und seiner Themen",
+          "Die Verwendung von Metaphern und die Darstellung von Einsamkeit und Isolation werden gut erläutert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erfahrung von Krieg und Gewalt hatte zu einer tiefen Verunsicherung und Sinnkrise geführt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs wird durch die Darstellung von Einsamkeit und Isolation deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die Themen des Songs",
+          "Die Verwendung von Metaphern wird erwähnt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs wird durch die Darstellung von Einsamkeit, Verunsicherung und Resignation geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Songtexts und seiner Themen",
+          "Die Verwendung von Metaphern und die Darstellung von Einsamkeit und Isolation werden gut erläutert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erfahrung von Krieg und Gewalt hatte zu einer tiefen Verunsicherung und Sinnkrise geführt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs wird durch die Darstellung von Einsamkeit und Isolation deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die Themen des Songs",
+          "Die Verwendung von Metaphern wird erwähnt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs wird durch die Darstellung von Einsamkeit, Verunsicherung und Resignation geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Songtexts und seiner Themen",
+          "Die Verwendung von Metaphern und die Darstellung von Einsamkeit und Isolation werden gut erläutert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 3 und 5 sind sehr konsistent und bieten eine tiefe Analyse des Songtexts",
+    "empfehlung": "Die Interpretationen 1, 3 und 5 sind empfehlenswert, da sie eine detaillierte Analyse des Songtexts und seiner Themen bieten"
+  }
+}

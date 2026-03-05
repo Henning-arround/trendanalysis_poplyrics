@@ -1,0 +1,134 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song scheint auf den ersten Blick ein fröhliches, vielleicht sogar ein bisschen skurriles Lied zu sein.",
+          "Es handelt sich um eine subtile Kritik an der Langeweile und Oberflächlichkeit der modernen Gesellschaft.",
+          "Die Zeile \"Saturday Night Nothing To Do\" beschreibt die Situation einer Gruppe von Menschen, die an einem Samstagabend nichts zu tun haben und sich daher auf oberflächliche Aktivitäten einlassen.",
+          "Die Zeilen \"Chose A Bra And Then Shine Your Shoes\" und \"I Lose My Liver In The Liverpool\" deuten darauf hin, dass die Protagonisten versuchen, sich durch kosmetische Maßnahmen und exzessiven Alkoholkonsum die Langeweile zu vertreiben.",
+          "Die Zeile \"And The Girls Go Show Me Baby Where It Hurts\" kann als ein Ausdruck von Sehnsucht nach echter emotionaler Verbindung interpretiert werden, die jedoch durch die oberflächlichen Spiele und Ablenkungen nicht erreicht werden kann.",
+          "Der weitere Text \"Kissing Snowflakes For Desert\" und \"Licking Raindrops From Your Hat\" unterstreicht die Idee, dass die Protagonisten versuchen, sich durch kleine, bedeutungslose Handlungen die Zeit zu vertreiben.",
+          "Die Zeile \"Alison May Queen Of The Day\" könnte eine ironische Anspielung auf die Oberflächlichkeit der Gesellschaft sein."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als eine Kritik an der Oberflächlichkeit und Langeweile der modernen Gesellschaft interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederholte Zeile im Text und versucht, einzelne Bildungen zu deuten.",
+          "Er bleibt konsequent bei einer thematischen Linie (Kritik an Oberflächlichkeit)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Zeile \"Saturday Night Nothing To Do\" legt nahe, dass die Protagonisten Langeweile haben und nach etwas suchen, das ihre Nacht erhellt.",
+          "Die Textelemente \"Chose A Bra And Then Shine Your Shoes\" und \"Licking Raindrops From Your Hat\" deuten auf eine spielerische, vielleicht sogar ein bisschen ironische Herangehensweise an die Verabredung hin.",
+          "Es gibt Hinweise auf eine tiefere emotionale Verbindung, wie zum Beispiel \"Show Me Baby Where It Hurts\" und \"Show Me Baby Where It'S At\", die eine Sehnsucht nach echter Nähe und Verständnis ausdrücken.",
+          "Die Zeile \"Alison May Queen Of The Day\" könnte eine Referenz an eine Person sein, die den Tag oder vielleicht sogar das Leben der Protagonisten beherrscht.",
+          "Der abschließende Aufruf \"Let'S Get It Up In Style\" könnte als ein Versuch interpretiert werden, die Langeweile zu vertreiben und die Nacht mit Stil und vielleicht sogar mit einer Prise Rebellion zu füllen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint auf den ersten Blick eine fröhliche, vielleicht sogar ein bisschen skurrile Beschreibung einer Samstagabend‑Verabredung zu sein.",
+          "Bei näherer Betrachtung jedoch offenbart sich eine tiefere Schicht von Sehnsüchten, Verführungen und der Suche nach echten Emotionen.",
+          "Insgesamt lässt der Song eine Interpretation zu, die von Langeweile und Oberflächlichkeit bis hin zu tieferen Sehnsüchten und emotionalen Bedürfnissen reicht."
+        ],
+        "positive_aspekte": [
+          "Er erwähnt mehrere konkrete Textzeilen und versucht, ihnen Bedeutungen zuzuordnen.",
+          "Er erkennt die mögliche Ambivalenz zwischen Oberflächlichkeit und tieferen Gefühlen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song scheint auf den ersten Blick ein fröhliches, vielleicht sogar ein bisschen skurriles Lied zu sein.",
+          "Es handelt sich um eine subtile Kritik an der Langeweile und Oberflächlichkeit der modernen Gesellschaft.",
+          "Die Zeile \"Saturday Night Nothing To Do\" beschreibt die Situation einer Gruppe von Menschen, die an einem Samstagabend nichts zu tun haben und sich daher auf oberflächliche Aktivitäten einlassen.",
+          "Die Zeilen \"Chose A Bra And Then Shine Your Shoes\" und \"I Lose My Liver In The Liverpool\" deuten darauf hin, dass die Protagonisten versuchen, sich durch kosmetische Maßnahmen und exzessiven Alkoholkonsum die Langeweile zu vertreiben.",
+          "Die Zeile \"And The Girls Go Show Me Baby Where It Hurts\" kann als ein Ausdruck von Sehnsucht nach echter emotionaler Verbindung interpretiert werden, die jedoch durch die oberflächlichen Spiele und Ablenkungen nicht erreicht werden kann.",
+          "Der weitere Text \"Kissing Snowflakes For Desert\" und \"Licking Raindrops From Your Hat\" unterstreicht die Idee, dass die Protagonisten versuchen, sich durch kleine, bedeutungslose Handlungen die Zeit zu vertreiben.",
+          "Die Zeile \"Alison May Queen Of The Day\" könnte eine ironische Anspielung auf die Oberflächlichkeit der Gesellschaft sein."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als eine Kritik an der Oberflächlichkeit und Langeweile der modernen Gesellschaft interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Konsistente thematische Linie (Kritik an Oberflächlichkeit).",
+          "Bezieht sich auf fast jede Textzeile."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile wird gleich zu Beginn zweimal wiederholt, was die Langeweile und die Suche nach Ablenkung oder Unterhaltung unterstreicht.",
+          "Die folgenden Zeilen \"Chose A Bra And Then Shine Your Shoes\" könnten eine ironische Aufforderung zur Vorbereitung auf einen Abend sein, der möglicherweise nicht besonders aufregend wird.",
+          "Der Hinweis \"I Lose My Liver In The Liverpool\" könnte als Hinweis auf exzessives Feiern oder Trinken interpretiert werden, das in Liverpool stattfindet, einer Stadt, die für ihre lebendige Musikszene bekannt ist.",
+          "Die wiederholte Aufforderung \"Show Me Baby Where It Hurts\" und \"Show Me Baby Where It'S At\" könnte ein Ausdruck von Neugier oder sogar von Provokation sein, der die Sehnsucht nach echten Emotionen oder intensiven Erfahrungen widerspiegelt.",
+          "Die Bilder von \"Kissing Snowflakes For Desert\" und \"Licking Raindrops From Your Hat\" erzeugen eine traumähnliche Atmosphäre, die die Grenzen zwischen Realität und Fantasie verwischt.",
+          "Die Nennung von \"Alison May Queen Of The Day\" könnte eine Hommage an eine Person sein, die in diesem Kontext eine besondere Rolle spielt, möglicherweise als Symbol für Unschuld oder für die Fähigkeit, den Tag mit positiver Energie zu krönen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint auf den ersten Blick ein fröhliches, vielleicht sogar ein bisschen belangloses Lied zu sein, das von einer Samstagabend‑Stimmung ohne besondere Pläne handelt.",
+          "Insgesamt lässt sich der Song als eine Art Hymne an die Langeweile und die Suche nach Bedeutung in alltäglichen Momenten interpretieren."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die Wiederholung der Titelzeile und bezieht sich darauf.",
+          "Er versucht, die surrealen Bildungen im Text zu erklären."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song scheint auf den ersten Blick ein fröhliches, vielleicht sogar ein bisschen skurriles Lied zu sein.",
+          "Es handelt sich um eine subtile Kritik an der Langeweile und Oberflächlichkeit der modernen Gesellschaft.",
+          "Die Zeile \"Saturday Night Nothing To Do\" beschreibt die Situation einer Gruppe von Menschen, die an einem Samstagabend nichts zu tun haben und sich daher auf oberflächliche Aktivitäten einlassen.",
+          "Die Zeilen \"Chose A Bra And Then Shine Your Shoes\" und \"I Lose My Liver In The Liverpool\" deuten darauf hin, dass die Protagonisten versuchen, sich durch kosmetische Maßnahmen und exzessiven Alkoholkonsum die Langeweile zu vertreiben.",
+          "Die Zeile \"And The Girls Go Show Me Baby Where It Hurts\" kann als ein Ausdruck von Sehnsucht nach echter emotionaler Verbindung interpretiert werden, die jedoch durch die oberflächlichen Spiele und Ablenkungen nicht erreicht werden kann.",
+          "Der weitere Text \"Kissing Snowflakes For Desert\" und \"Licking Raindrops From Your Hat\" unterstreicht die Idee, dass die Protagonisten versuchen, sich durch kleine, bedeutungslose Handlungen die Zeit zu vertreiben.",
+          "Die Zeile \"Alison May Queen Of The Day\" könnte eine ironische Anspielung auf die Oberflächlichkeit der Gesellschaft sein."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als eine Kritik an der Oberflächlichkeit und Langeweile der modernen Gesellschaft interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Konsistente Argumentationsstruktur.",
+          "Bezieht fast jede Textzeile in die Kritik ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 1.0,
+    "durchschnitt_tiefe": 2.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen ein sehr hohes Maß an Halluzination (≈75 % erfundene Aussagen) und nur geringe analytische Tiefe. Die Inhalte sind stark redundant – Interpretationen 3‑5 sind nahezu identisch.",
+    "empfehlung": "Ein besserer Ansatz müsste sich stärker an den konkreten Textzeilen orientieren, weniger spekulative Bedeutungen ohne Beleg anführen und mehr differenzierte, textbasierte Analysen bieten. Aktuell liefert kein Modell eine überzeugende, tiefgehende Interpretation."
+  }
+}

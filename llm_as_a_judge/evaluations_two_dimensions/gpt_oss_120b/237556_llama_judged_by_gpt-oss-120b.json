@@ -1,0 +1,100 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben und mit dem Geliebten zusammen zu sein, egal ob richtig oder falsch, Tag und Nacht.",
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl, das sie nicht loslässt."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich direkt aus dem Songtext ableiten (5 von 7 Sätzen).",
+          "Der Text wird strukturiert wiedergegeben und zeigt ein gutes Verständnis der lyrischen Themen (Sehnsucht, Unsicherheit, Zeitgefühl).",
+          "Keine biografischen oder stilistischen Behauptungen, die nicht im Text verankert sind."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben und mit dem Geliebten zusammen zu sein, egal ob richtig oder falsch, Tag und Nacht.",
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl, das sie nicht loslässt."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse; 5 von 7 Sätzen sind eindeutig aus dem Lied ableitbar.",
+          "Gute Erfassung von Schlüsselmotiven wie „cry“, „time does fly“, „chills run up and down my spine“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben und mit dem Geliebten zusammen zu sein, egal ob richtig oder falsch, Tag und Nacht.",
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl, das sie nicht loslässt."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung; die meisten Aussagen spiegeln den Wortlaut und die Stimmung des Songs wider.",
+          "Vermeidet spekulative biografische oder stilistische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben und mit dem Geliebten zusammen zu sein, egal ob richtig oder falsch, Tag und Nacht.",
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl, das sie nicht loslässt."
+        ],
+        "positive_aspekte": [
+          "Gute Wiederholung der Kernaussagen des Liedes, klare Struktur.",
+          "Keine unbelegten historischen oder genrebezogenen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben und mit dem Geliebten zusammen zu sein, egal ob richtig oder falsch, Tag und Nacht.",
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl, das sie nicht loslässt."
+        ],
+        "positive_aspekte": [
+          "Präzise Ableitung von Emotionen und Motiven aus dem Text.",
+          "Verzicht auf spekulative Kontextualisierungen (z. B. biografische Details)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch; die Varianz ist praktisch nicht vorhanden, was zu einer hohen Konsistenz, aber auch zu wenig individueller Tiefe führt.",
+    "empfehlung": "Die vorliegenden Analysen sind texttreu und vermeiden Halluzinationen, jedoch wiederholen sie dieselben Punkte. Ein besserer Ansatz wäre, unterschiedliche Perspektiven (z. B. narrative, musikalisch‑theoretische, kulturelle) zu integrieren, um die analytische Tiefe zu erhöhen, ohne spekulative Aussagen einzuführen."
+  }
+}

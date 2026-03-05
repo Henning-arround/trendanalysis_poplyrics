@@ -1,0 +1,99 @@
+{
+  "song": "On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Symbolen wie 'the flag pole' und 'the monkey wrapped its tail around the flag pole' erzeugt eine surreale Atmosphäre"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die positive Seite des Lebens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambiguitäten und Spannungen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Kommentar zu den materialistischen Werten der Gesellschaft interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textzeile 'I know why I've waited, I know why I've been blue' suggeriert, dass der Sänger lange Zeit auf jemanden gewartet hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die menschliche Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Komplexität von Emotionen und Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I know why my mother taught me to be true / She made me for someone exactly like you' kann als Hinweis auf die gesellschaftlichen Erwartungen an Beziehungen interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Metaphern wie 'the sunny side of the street' und 'gold dust 'round my feet' erzeugt eine Atmosphäre von Reichtum und Glück"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die menschliche Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambiguitäten und Spannungen im Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren"
+  }
+}

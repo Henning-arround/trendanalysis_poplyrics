@@ -1,0 +1,130 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in den Kontext post‑digitaler Urbanität einordnen, in der das Individuum zwischen permanenter Sichtbarkeit („showcase“) und innerer Leere schwankt."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des knochlosen Rückens suggeriert sowohl körperliche Schwäche als auch das Fehlen einer stabilen Achse, was die zentrale Botschaft einer unendlichen, fast sinnlosen Suche nach Zugehörigkeit oder Liebe verdeutlicht.",
+          "Gleichzeitig bleibt unklar, ob das „baby“ ein geliebter Mensch, ein Ideal oder ein gesellschaftliches Konstrukt ist („…til my baby's back“), wodurch die thematische Komplexität zwischen persönlicher Sehnsucht und kollektiver Entfremdung entsteht.",
+          "Die Metapher der „Dummies“ als lachende Beobachter erzeugt eine Spannung zwischen dem Sprecher, der sich exponiert fühlt, und einer anonymen Gesellschaft, die ihn zugleich verspottet und marginalisiert.",
+          "Die wiederholte Betonung des „walking“ als notwendiger Akt, um nicht zu „feel like my back ain't got no bone“ zu werden, spiegelt ein modernes Narrativ von Durchhaltevermögen in einer Gesellschaft wider, die gleichzeitig Erschöpfung glorifiziert und das Bedürfnis nach Hilfe stigmatisiert.",
+          "Die Widersprüche zwischen Selbstaufopferung und dem Wunsch nach Rettung bleiben offen, was den Song zu einem Spiegelbild ambivalenter zeitgenössischer Identitätskonfigurationen macht."
+        ],
+        "positive_aspekte": [
+          "Klare Analyse von formalen Elementen (Wiederholungen, fragmentarische Narrative).",
+          "Gute Verknüpfung von Textbeispielen mit einer nachvollziehbaren Interpretation von Sichtbarkeit vs. Unsichtbarkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in die postmoderne Ära einordnen, in der Identität als fragmentiert und mobil erlebt wird.",
+          "Das Motiv des Regens und der nächtlichen Stadt erinnert an urbane Subkulturen, die in der Nacht nach Sinn suchen, während die körperlose Wirbelsäule als Metapher für die Entkörperung des Selbst in einer digital‑mediatisierten Gesellschaft gelesen werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild einer „back that ain’t got no bone“ fungiert als Symbol für Entkräftung, aber zugleich für eine Art übernatürliche Belastbarkeit: Der Sprecher will „walkin' … til my back ain't got no bone“, also bis zur völligen Auflösung der physischen Grenze.",
+          "Diese Doppeldeutigkeit erzeugt eine Spannungszone zwischen Schwäche und Durchhaltevermögen, die nicht eindeutig aufgelöst wird.",
+          "Gleichzeitig bleibt unklar, ob das „baby“ ein geliebter Mensch, ein Ort oder ein inneres Selbst ist („…til my baby's back“), was die Ambiguität des Zielobjekts verstärkt.",
+          "Die wiederholten Aufrufe nach Hilfe … kontrastieren mit der Selbstbehauptung, weitergehen zu müssen, und verdeutlichen ein inneres Spannungsfeld zwischen Hilflosigkeit und Selbstüberwindung.",
+          "Die wiederholte Unschärfe von Ziel, Objekt und Sprecher lässt den Song offen für multiple Deutungen, ohne eine definitive Lesart zu privilegieren."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konsequent die zentralen Wiederholungen und deren mögliche Bedeutungen.",
+          "Verknüpft die Bildsprache des Songs mit einer nachvollziehbaren Diskussion über Ambivalenz und Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in die post‑pandemische Ära einordnen, in der körperliche Vulnerabilität und das Bedürfnis nach sozialer Verbindung zugleich betont werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Phrase fungiert zugleich als Bild für körperliche Schwäche und als Symbol für die Entgrenzung von Identität: Der Rücken, traditionell Träger von Lasten, verliert seine Struktur, während der Sprecher unaufhörlich „walkin’“ bleibt.",
+          "Die wiederholte Bedingung ... erzeugt ein Spannungsfeld zwischen Dauerhaftigkeit des Leidens und der Möglichkeit, dass die Nacht das Ende der Qual markieren könnte, bleibt jedoch offen.",
+          "Die Stadt wird zum Labyrinth, in dem jede Frau „like you“ erscheint, was die Projektion des Verlorenen auf das Andere verdeutlicht, während die „Dummies“ als gesellschaftliche Masken fungieren, die gleichzeitig lachen und zum Verstecken auffordern ...",
+          "Diese Ambivalenz zwischen Sichtbarkeit und Verstecken bleibt ungelöst und erzeugt ein Gefühl der Entfremdung.",
+          "Der wiederholte Aufruf „Somebody help me“ und das Bild des Arztes ... spiegeln ein kollektives Verlangen nach professioneller Intervention wider, das jedoch nie konkretisiert wird.",
+          "Die ständige Wiederholung von „I gotta keep walking“ erzeugt eine fast rituelle Beschwörung von Durchhaltevermögen, während die offene Endung – das Fehlen eines klaren Ausstiegs ... betont die strukturelle Unsicherheit moderner Subjektivität."
+        ],
+        "positive_aspekte": [
+          "Gute Beobachtung der formalen Wiederholungen und der fragmentarischen Erzählweise.",
+          "Erkennt die Mehrdeutigkeit des Motivs „back ain’t got no bone“."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Assurance verschiebt das Bild einer schmerzhaften, knöchernen Belastung in einen Zustand der Entgrenzung, wobei das Fehlen von Knochen zugleich Befreiung und Gefahr impliziert.",
+          "Die Zeile eröffnet ein Spannungsfeld zwischen urbaner Anonymität und dem Versuch, durch sexuelle Begegnungen Identität zu rekonstruieren, während das wiederholte ... die Projektion des verlorenen „Baby“ auf fremde Frauen andeutet.",
+          "Kulturell lässt sich das Werk in die post‑moderne Ära einordnen, in der Identität als fluide, fragmentiert und durch digitale Selbstdarstellung (die „showcase“-Metapher) vermittelt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das Motiv des Regen‑ und Kälteeindrucks … mit einer fortlaufenden, fast rituellen Wanderung, die als Metapher für ein unbegrenztes Suchen nach Zugehörigkeit und körperlicher Stabilität fungiert.",
+          "Symbolisch werden „Dummies in a showcase“ zu lebendigen Beobachtern, die das lyrische Ich verspottend auffordern, sich zu verstecken …",
+          "Diese Gegenüberstellung von öffentlichen Schaufenstern und privatem Schmerz erzeugt eine Ambiguität zwischen Sichtbarkeit und Unsichtbarkeit, die nicht eindeutig aufgelöst wird.",
+          "Auch die wiederholte Anrufung von Hilfe … bleibt offen, ob sie medizinische, psychologische oder soziale Unterstützung meint.",
+          "Der Regen, das nächtliche Wandern und das Fehlen von Knochen können als Allegorien für das Gefühl der Entwurzelung in einer globalisierten Stadtlandschaft gelesen werden, wobei die Spannung zwischen dem Wunsch nach Stabilität und dem gleichzeitigen Verlangen nach Auflösung bestehen bleibt, ohne dass der Text eine klare Lösung anbietet."
+        ],
+        "positive_aspekte": [
+          "Verwendet Fachbegriffe (Enjambements, fragmentarische Syntax) und bezieht sich konkret auf Textstellen.",
+          "Erkennt die wiederholte Struktur und die mögliche Symbolik der „Dummies“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Phrase fungiert als Symbol für ein Durchhalte‑ und Selbstaufopferungs‑Narrativ, das in der Pop‑Kultur häufig mit romantischer Loyalität verbunden wird („…til my baby’s back“).",
+          "Die „Dummies in a showcase“ werden personifiziert … was auf die Konstruktion von Identitäten in einer medial gesättigten Stadtlandschaft hinweist.",
+          "Das Lachen der Figuren … fungiert als ironisches Gegenstück zur eigenen Beharrlichkeit und lässt einen kulturellen Diskurs über Performativität und Selbstinszenierung erkennen.",
+          "Historisch lässt sich das Motiv des nächtlichen Stadtwanderns in der Tradition der „noir“‑Ästhetik verorten, während die moderne Referenz zu „doctor“ und „showcase“ auf zeitgenössische Gesundheits‑ und Konsumkulturen anspielt."
+        ],
+        "oberflächliche_aussagen": [
+          "Gleichzeitig erzeugt die Bildsprache von Regen und Kälte … eine Atmosphäre der Entfremdung, die das Subjekt zwischen urbaner Anonymität … und einer idealisierten Geliebten hin‑ und hergerissen lässt.",
+          "Emotional erzeugt das wiederholte „Somebody help me“ ein Gefühl von Dringlichkeit, das jedoch durch die gleichzeitige Beharrung im Gehen paradox bleibt.",
+          "Die Diskrepanz zwischen dem Wunsch nach Rettung und dem Festhalten am eigenen Marsch erzeugt eine affektive Spannung, die das lyrische Ich zugleich als Opfer und als Akteur positioniert.",
+          "Diese offenen Widersprüche lassen den Song als ein vielschichtiges Spiegelbild urbaner Identitätskrisen gelten."
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die formalen Wiederholungen und Imperative.",
+          "Verknüpft Textstellen mit einer möglichen kulturellen Lesart (noir‑Ästhetik, Pop‑Kultur)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass alle Interpretationen stark auf Wiederholungen des Refrains fokussieren, jedoch stark variieren in der Menge an erfundenen bzw. oberflächlichen Aussagen. Die Halluzinations‑Rate ist insgesamt moderat (Durchschnitt ~2‑3), während die Tiefen‑Scores eher niedrig bis mittel liegen.",
+    "empfehlung": "Interpretation 4 bietet die ausgewogenste Mischung aus textnaher Analyse und substantieller Tiefe, ohne zu viele spekulative oder rein oberflächliche Behauptungen. Für zukünftige Modelle sollte der Fokus stärker auf belegbare Textbeobachtungen gelegt werden, während spekulative kulturelle Kontextualisierungen klar als Hypothesen gekennzeichnet werden."
+  }
+}

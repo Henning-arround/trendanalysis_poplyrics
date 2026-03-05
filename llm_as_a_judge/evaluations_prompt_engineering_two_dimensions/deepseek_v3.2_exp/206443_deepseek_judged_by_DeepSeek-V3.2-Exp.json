@@ -1,0 +1,87 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von Unsicherheit, Schmerz und Resignation geprägt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Unsicherheiten und Ängste einer Generation interpretiert werden, die mit den Herausforderungen von Beziehungen und Identitätsfindung konfrontiert war."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die zentrale Botschaft des Songs und die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die symbolische Ordnung des Songs ist von der Spannung zwischen dem Wunsch nach Liebe und dem Wissen um die Endlichkeit von Beziehungen geprägt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs, analysiert die literarischen Stilmittel und erwähnt die Ambivalenz zwischen Vernunft und Emotion."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Unsicherheit und des Umbruchs in den Beziehungen und Gesellschaften jener Zeit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die zentrale Botschaft des Songs und die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs, analysiert die literarischen Stilmittel und erwähnt die Ambivalenz zwischen Vernunft und Emotion."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der zentralen Botschaft und der literarischen Stilmittel, aber variieren in der Tiefe der Analyse.",
+    "empfehlung": "Die beste Interpretation ist die Nummer 5, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

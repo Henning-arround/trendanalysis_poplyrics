@@ -1,0 +1,99 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liverpool-Metapher selbst bleibt vage und lädt zu Spekulationen ein."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf Langeweile und die Suche nach Ablenkung oder Erregung hinzuweisen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik der frühen 2000er Jahre war geprägt von einer Vielzahl von Stilen und Einflüssen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf Langeweile und die Suche nach Ablenkung oder Erregung hinzuweisen"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der kulturellen und historischen Kontextualisierung ist ein positiver Aspekt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die ritualisierte Vorbereitung ('Chose A Bra And Then Shine Your Shoes')"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf Langeweile und die Suche nach Ablenkung oder Erregung hinzuweisen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik der frühen 2000er Jahre war geprägt von einer Vielzahl von Stilen und Einflüssen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf Langeweile und die Suche nach Ablenkung oder Erregung hinzuweisen"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der kulturellen und historischen Kontextualisierung ist ein positiver Aspekt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik der frühen 2000er Jahre war geprägt von einer Vielzahl von Stilen und Einflüssen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf Langeweile und die Suche nach Ablenkung oder Erregung hinzuweisen"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der kulturellen und historischen Kontextualisierung ist ein positiver Aspekt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in Bezug auf die Analyse der Metaphern und Symbole, jedoch variieren die Halluzinations- und Tiefe-Scores zwischen den Interpretationen",
+    "empfehlung": "Es ist ratsam, die Interpretationen zu überarbeiten, um die Halluzinations-Rate zu reduzieren und die Tiefe der Analyse zu erhöhen"
+  }
+}

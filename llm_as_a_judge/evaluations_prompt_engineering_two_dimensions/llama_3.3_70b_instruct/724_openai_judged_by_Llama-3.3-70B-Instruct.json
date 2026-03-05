@@ -1,0 +1,99 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielung auf post-kalter Krieg-Optimismus"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die späte 1990er-Deutschpunk- und Synth-Wave-Szene"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textstruktur und der Verwendung von Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zuordnung zu EBM- und Industrial-Milieu ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'ironisch-optimistische Wiederholung' ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegenüberstellung von 'Wir schweben gerne' und 'Instrumente versagen'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der 'kosmischen Reise' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'post-industrielle Gesellschaft'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Verwendung von Paradoxien und Ambivalenzen im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der 'technologischen Ästhetik' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'kulturelle Entfremdung' ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von Metaphern und Bildsprache"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine offensichtlichen Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'späten 1990er-Deutsch-Synth-Szene'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textstruktur und der Verwendung von Metaphern"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textstruktur und der Verwendung von Metaphern, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Fähigkeit, Ambivalenzen und Mehrdeutigkeiten im Text zu erkennen und zu analysieren"
+  }
+}

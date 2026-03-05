@@ -1,0 +1,110 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im Kontext der LGBTQ+-Bewegung und der Clubkultur gelesen werden, in der die Nacht und die Musik eine Möglichkeit bieten, sich selbst zu entfalten und zu befreien."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, eine Atmosphäre der Freiheit und des Ausbruchs zu schaffen.",
+          "Die Ambiguität des Songs liegt in seiner offenen Interpretation, die sowohl eine individuelle als auch eine kollektive Befreiung suggeriert."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Analyse von „Standing in the shadows“ und den Widersprüchen).",
+          "Berücksichtigt Mehrdeutigkeit und bietet einen kulturhistorischen Kontext (LGBTQ+, Clubkultur)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Idee der Selbstentfaltung und des Ausbruchs aus gesellschaftlichen Normen.",
+          "Diese Tiefere Bedeutungsebene und symbolische Ordnung des Songs lädt den Zuhörer ein, sich mit den eigenen Grenzen und Möglichkeiten auseinanderzusetzen und sich selbst zu befreien."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge, z. B. Analyse von Unsichtbarkeit vs. Sichtbarkeit.",
+          "Verknüpft Mode (Jimmy Choo) mit Selbstpräsentation, was im Text vorkommt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der Idee der Selbstbefreiung und der Ausbreitung von Freiheit und Gleichheit verbunden.",
+          "Der Song kann als ein Produkt der zeitgenössischen Popkultur gesehen werden, die sich durch ihre Fokussierung auf Individualität und Selbstentfaltung auszeichnet.",
+          "Die tiefere Bedeutungsebene des Songs liegt in seiner Fähigkeit, die Zuhörer zu ermutigen, ihre eigenen Grenzen zu überschreiten und sich ihrer eigenen Identität und Freiheit bewusst zu werden.",
+          "Die symbolische Ordnung des Songs, die durch die Verwendung von Metaphern und Symbolen konstruiert wird, trägt dazu bei, die Zuhörer in eine Welt der Selbstbefreiung und des Genusses zu entführen."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Metaphern (z. B. „fine ass on the floor“, „Jimmy Choo’s“).",
+          "Konsistente Interpretation des Refrains als Aufruf zum Ausbruch."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Idee der Selbstbefreiung und der Ausbreitung von Freiheit und Gleichheit.",
+          "Der Song kann als ein Produkt der zeitgenössischen Popkultur gesehen werden, die sich durch ihre Fokussierung auf die individuelle Freiheit und den Genuss des Lebens auszeichnet.",
+          "Die tiefere Bedeutungsebene ... liegt in seiner Fähigkeit, die Zuhörer zu ermutigen, ihre eigenen Grenzen zu überschreiten und sich selbst zu entfalten, was durch die Zeile ... deutlich wird."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, insbesondere zu den Widersprüchen im Song.",
+          "Durchgängige Argumentation, dass der Song ein Aufruf zur Selbstbefreiung ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der Idee der Selbstbefreiung und der Ausbreitung von Freiheit und Gleichheit verbunden.",
+          "Der Song kann als ein Produkt der zeitgenössischen Popkultur gesehen werden, die sich durch ihre Fokussierung auf Individualität und Selbstentfaltung auszeichnet.",
+          "Die tiefere Bedeutungsebene des Songs liegt in seiner Fähigkeit, die Zuhörer zu ermutigen, ihre eigenen Grenzen zu überschreiten und sich ihrer eigenen Identität und Freiheit bewusst zu werden.",
+          "Die symbolische Ordnung des Songs, die durch die Verwendung von Metaphern und Symbolen konstruiert wird, trägt dazu bei, die Zuhörer in eine Welt der Freiheit und Selbstentfaltung zu entführen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Analyse der Metaphern und ihrer Symbolik.",
+          "Verknüpft den Refrain klar mit dem Motiv des „Ausbruchs“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das Grundthema des Ausbruchs und der Selbstbefreiung; die Variation liegt hauptsächlich im zusätzlichen kulturellen Kontext (z. B. LGBTQ+ bei Interpretation 3). Die meisten Aussagen sind textbasiert, wenige Halluzinationen (nur Interpretation 3).",
+    "empfehlung": "Interpretationen 1, 2, 4 und 5 zeigen eine gute Balance aus Texttreue und analytischer Tiefe. Interpretation 3 liefert zusätzlichen kulturhistorischen Kontext, enthält jedoch eine spekulative Aussage. Für eine fundierte, aber nicht übermäßig spekulative Analyse empfiehlt sich Interpretation 4, da sie keine Halluzinationen enthält und gleichzeitig eine solide, textbezogene Tiefe bietet."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Reise, Reise\" von Rammstein aus dem Jahr 2004 ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die Wiederholung des Refrains \"Reise, Reise, Seemann, Reise\" kann als eine Art hypnotische Beschwörung interpretiert werden, die den Hörer in die Welt des Songs hineinzieht.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, kann auch eine Rolle bei der Interpretation spielen.",
+          "Der Song kann als eine Art Kritik an der Verherrlichung von Gewalt und Krieg interpretiert werden, wie sie in einigen Gesellschaften und Kulturen üblich ist.",
+          "Die Zeilen \"Jeder tut's auf seine Weise / Der eine stößt den Speer zum Mann / Der andere zum Fische dann\" können als eine Art Kommentar zu den verschiedenen Formen von Gewalt und Krieg interpretiert werden, die in der Welt existieren.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen zulässt und den Hörer dazu anregt, über die Themen Gewalt, Tod und Krieg nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche textbezogene Analysen (z. B. Metaphern, Wiederholungen) sind korrekt aus dem Songtext abgeleitet.",
+          "Keine erfundenen biografischen oder historischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Reise, Reise\" von Rammstein aus dem Jahr 2004 ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die Wiederholung des Refrains \"Reise, Reise, Seemann, Reise\" kann als eine Art hypnotische Beschwörung interpretiert werden, die den Hörer in die Welt des Songs hineinzieht.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen von Gewalt, Tod und der Auseinandersetzung mit der Natur können als allgemein menschliche Erfahrungen interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Kritik an der menschlichen Existenzweise interpretiert werden, die von Gewalt und Zerstörung geprägt ist.",
+          "Insgesamt zeigt der Song ... eine komplexe, vielschichtige Struktur, die verschiedene Interpretationen zulässt."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen konkreten Textbezügen (Metaphern, Bildsprache) und weiterführenden Interpretationen.",
+          "Keine unbelegten biografischen oder historischen Fakten."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Reise, Reise\" von Rammstein aus dem Jahr 2004 ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die Wiederholung des Refrains \"Reise, Reise, Seemann, Reise\" kann als eine Art hypnotische Beschwörung interpretiert werden, die den Hörer in die Welt des Songs hineinzieht.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, kann auch eine Rolle bei der Interpretation spielen.",
+          "Der Song kann als eine Art Kritik an der Verherrlichung von Gewalt und Krieg interpretiert werden, wie sie in einigen Gesellschaften und Kulturen üblich ist.",
+          "Die Zeilen \"Jeder tut's auf seine Weise / Der eine stößt den Speer zum Mann / Der andere zum Fische dann\" können als eine Art Kommentar zu den verschiedenen Formen von Gewalt und Krieg interpretiert werden, die in der Welt existieren.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen zulässt und den Hörer dazu anregt, über die Themen Gewalt, Tod und Krieg nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei den meisten Analysepunkten (z. B. Metapher des Speers, Bildsprache von Blut und Meer).",
+          "Keine erfundenen Fakten über den Künstler oder den historischen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Reise, Reise\" von Rammstein aus dem Jahr 2004 ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die Wiederholung des Refrains \"Reise, Reise, Seemann, Reise\" kann als eine Art hypnotische Beschwörung interpretiert werden, die den Hörer in die Welt des Songs hineinzieht.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, kann auch eine Rolle bei der Interpretation spielen.",
+          "Der Song kann als eine Art Kritik an der Verherrlichung von Gewalt und Krieg interpretiert werden, wie sie in einigen Gesellschaften und Kulturen üblich ist.",
+          "Die Zeilen \"Jeder tut's auf seine Weise / Der eine stößt den Speer zum Mann / Der andere zum Fische dann\" können als eine Art Kommentar zu den verschiedenen Formen von Gewalt und Krieg interpretiert werden, die in der Welt existieren.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen zulässt und den Hörer dazu anregt, über die Themen Gewalt, Tod und Krieg nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche korrekte Textbezüge (z. B. „Auf den Wellen wird gefochten“, „In ihrem Blute steckt ein Speer“).",
+          "Keine erfundenen biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen von Gewalt, Tod und der dunklen Seite der menschlichen Natur lassen sich in die Tradition der deutschen Literatur und Musik einordnen, die sich mit diesen Themen auseinandersetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Reise, Reise\" von Rammstein aus dem Jahr 2004 ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die Wiederholung des Refrains \"Reise, Reise, Seemann, Reise\" kann als eine Art hypnotische Beschwörung interpretiert werden, die den Hörer in die Welt des Songs hineinzieht.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Kritik an der menschlichen Natur und der Gesellschaft interpretiert werden, die immer wieder in Gewalt und Zerstörung mündet.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen zulässt."
+        ],
+        "positive_aspekte": [
+          "Starke textbezogene Analyse (Metaphern, Bildsprache, Wiederholungen).",
+          "Nur ein einziger erfundener Kontextbezug, der klar als spekulativ erkennbar ist."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, wodurch die Varianz gering ist. Kreativität fehlt, aber die Texttreue ist hoch.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus faktentreuer Analyse und tiefergehender, textbasierter Interpretation. Für zukünftige Aufgaben sollten Modelle stärker auf differenzierte, textgestützte Einsichten setzen und gleichzeitig vage Allgemeinplätze vermeiden."
+  }
+}

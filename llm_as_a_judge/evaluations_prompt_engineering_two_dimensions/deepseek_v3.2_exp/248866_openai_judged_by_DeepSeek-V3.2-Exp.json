@@ -1,0 +1,114 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Faszination des frühen 21. Jahrhunderts für das Groteske und das Monster als Pop-Ikone",
+          "post-9/11-Unsicherheiten und die wachsende digitale Anonymität"
+        ],
+        "oberflächliche_aussagen": [
+          "eine mehrschichtige Warnung vor verborgenen Bedrohungen",
+          "das Unausweichliche des Unbekannten"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der stilistischen Mittel wie Metaphern und symbolischen Elemente",
+          "die Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "die Tradition des finnischen Hard-Rock-Theaters",
+          "Stigmatisierung, psychische Belastungen"
+        ],
+        "oberflächliche_aussagen": [
+          "eine ambivalente Warnung vor unsichtbaren Bedrohungen",
+          "ein paradoxes Verantwortungsgefühl"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der linguistischen Mittel wie Metaphern und Bildsprache",
+          "die Berücksichtigung der kulturellen Einordnung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "die finnische Heavy-Metal-Tradition von Lordi",
+          "nationale Identität durch das Spiel mit dem 'Anderen'"
+        ],
+        "oberflächliche_aussagen": [
+          "eine mehrschichtige Angst vor dem Unsichtbaren",
+          "das Unheimliche zeitlich verankert"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der stilistischen Mittel wie Metaphern und Symbolik",
+          "die Berücksichtigung der kulturellen Einordnung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-9/11-Unsicherheit",
+          "Terror, digitale Bedrohungen"
+        ],
+        "oberflächliche_aussagen": [
+          "eine allgemeine Angst vor dem Unsichtbaren",
+          "das 'Böse' tatsächlich nur nachts existiert oder ob es lediglich durch die Tageslicht-Normalität maskiert wird"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der literarischen Mittel wie Metaphern und Bildsprache",
+          "die Berücksichtigung der kulturellen Einordnung und historischen Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "die Tradition der Horror-Rock-Ästhetik der frühen 2000er",
+          "gesellschaftliche Ängste vor dem Unbekannten und dem 'Anderen'"
+        ],
+        "oberflächliche_aussagen": [
+          "das Motiv des nächtlichen Unbekannten als Bedrohung des 'perfekten' Alltags",
+          "eine latente Faszination für das Verbotene"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der stilistischen Mittel wie Metaphern und Bildsprache",
+          "die Berücksichtigung der kulturellen Einordnung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die vierte Interpretation ist die tiefste und ausgewogenste, da sie eine detaillierte Analyse der literarischen Mittel mit einer sinnvollen kulturellen Einordnung verbindet."
+  }
+}

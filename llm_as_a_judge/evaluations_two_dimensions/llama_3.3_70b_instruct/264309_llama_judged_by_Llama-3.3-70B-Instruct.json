@@ -1,0 +1,99 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Unbeschwertheit und Freiheit von den Zwängen und Erwartungen der Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die universelle Erfahrung, dass jeder Mensch Geheimnisse und Verstecktes in sich trägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Everybody's got something to hide' und die Interpretation des 'Monkey' als Symbol für die eigene Intuition oder das Unterbewusstsein"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Unbeschwertheit und Freiheit von den Zwängen und Erwartungen der Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die universelle Erfahrung, dass jeder Mensch Geheimnisse und Verstecktes in sich trägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Everybody's got something to hide' und die Interpretation des 'Monkey' als Symbol für die eigene Intuition oder das Unterbewusstsein"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kindliche Unschuld und die Fähigkeit, authentisch und unverstellt zu sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bedeutung von Freude und Entspannung in einer Welt, in der die Menschen oft von ihren Geheimnissen und Sorgen belastet werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'The deeper you go, the higher you fly / The higher you fly, the deeper you go' und die Interpretation der Paradoxa wie 'Your inside is out when your outside is in'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kindliche Unschuld und die Fähigkeit, authentisch und unverstellt zu sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bedeutung von Freude und Entspannung in einer Welt, in der die Menschen oft von ihren Geheimnissen und Sorgen belastet werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'The deeper you go, the higher you fly / The higher you fly, the deeper you go' und die Interpretation der Paradoxa wie 'Your inside is out when your outside is in'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Unbeschwertheit und Freiheit von den Zwängen und Erwartungen der Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die universelle Erfahrung, dass jeder Mensch Geheimnisse und Verstecktes in sich trägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Everybody's got something to hide' und die Interpretation des 'Monkey' als Symbol für die eigene Intuition oder das Unterbewusstsein"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die dritte, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

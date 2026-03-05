@@ -1,0 +1,99 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpreten spielen mit der Idee, dass die Kunst eine Möglichkeit ist, die Zeit zu überwinden und die Vergänglichkeit zu überwinden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit der Aussage 'You ain't dead', was darauf hindeutet, dass die Seele oder der Geist des Künstlers auch nach dem Tod weiterlebt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Themen des Songs ein und analysiert die Verbindung zwischen Zeit, Vergänglichkeit und Unsterblichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpreten spielen mit der Idee, dass die Kunst eine Möglichkeit ist, die Zeit zu überwinden und die Vergänglichkeit zu überwinden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich mit den tiefsten Fragen des menschlichen Daseins auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Hörer dazu anregen, über die Bedeutung von Kunst, Zeit und Unsterblichkeit nachzudenken."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpreten spielen mit der Idee, dass die Kunst eine Möglichkeit ist, die Zeit zu überwinden und die Vergänglichkeit zu überwinden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich mit den großen Fragen des Lebens und der Kunst auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht auf die Verbindung zwischen Zeit, Vergänglichkeit und Unsterblichkeit ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist auch voller autobiografischer Anspielungen und Reflexionen über das Leben und die Karriere der Interpreten"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit der Aussage 'You ain't dead', was darauf hindeutet, dass die Seele oder der Geist des Künstlers auch nach dem Tod weiterlebt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die autobiografischen Anspielungen und Reflexionen im Text und geht auf die Verbindung zwischen Zeit, Vergänglichkeit und Unsterblichkeit ein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Benjamin's Button' und 'Time Travel' deutet auf die Idee hin, dass die Zeit relativ ist und dass man sie manipulieren kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige Reflexion über die Zeit, die Vergänglichkeit des Lebens und die Unsterblichkeit der Kunst"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verbindung zwischen Zeit, Vergänglichkeit und Unsterblichkeit und geht auf die autobiografischen Anspielungen und Reflexionen im Text ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die beste Interpretation (Nr. 5) balanciert Textreue mit analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die die Verbindung zwischen Zeit, Vergänglichkeit und Unsterblichkeit analysiert und auf die autobiografischen Anspielungen und Reflexionen im Text eingeht."
+  }
+}

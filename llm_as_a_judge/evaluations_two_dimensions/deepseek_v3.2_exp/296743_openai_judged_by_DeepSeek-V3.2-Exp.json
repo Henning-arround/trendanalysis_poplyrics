@@ -1,0 +1,103 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Machtgefälle",
+          "leere Versprechungen"
+        ],
+        "oberflächliche_aussagen": [
+          "innerer Zerrissenheit",
+          "emotionale Verhüllung"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse von 'cloud up my reasoning'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Balanceakt zwischen Anziehung und Abgrenzung"
+        ],
+        "oberflächliche_aussagen": [
+          "stürmische Gefühle"
+        ],
+        "positive_aspekte": [
+          "Analyse von 'we get along so we shouldn't argue'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Ungleichgewicht in einer Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "innerer Zerrissenheit"
+        ],
+        "positive_aspekte": [
+          "Analyse von 'Believe in ignorance as my best defense'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Ungleichgewicht in einer Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "innerer Zerrissenheit",
+          "Spannungsfeld"
+        ],
+        "positive_aspekte": [
+          "Analyse von 'cloud up my reasoning'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "passive Akzeptanz"
+        ],
+        "oberflächliche_aussagen": [
+          "innerer Zerrissenheit"
+        ],
+        "positive_aspekte": [
+          "Analyse von 'Will not roll over on anyone'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Textinhalte, jedoch mit Variationen in der Tiefe und den Halluzinationen.",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

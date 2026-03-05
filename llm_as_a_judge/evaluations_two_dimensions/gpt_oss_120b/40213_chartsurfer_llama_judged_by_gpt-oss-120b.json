@@ -1,0 +1,92 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Aussagen",
+          "Wenig bis keine spekulativen Behauptungen",
+          "Klare Strukturierung der Themen (Jugend, Spiel, Konsequenzen, Reue)"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Ableitung aus dem Songtext",
+          "Keine unnötigen Verallgemeinerungen",
+          "Gute Balance zwischen Zusammenfassung und Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Bitte um Vergebung“ – Der Text fordert den Protagonisten nicht explizit zur Bitte um Vergebung auf."
+        ],
+        "oberflächliche_aussagen": [
+          "„die wahre Bedeutung des Lebens nicht erfasst hat“ – vage, nicht konkret aus dem Text ableitbar",
+          "Allgemeine Formulierungen wie „bewegendes Bekenntnis zu den Fehlern der Vergangenheit“"
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind dennoch textnah (z. B. Sand, flüchtige Träume, bitterer Geschmack)",
+          "Versucht, die emotionale Tiefe des Liedes zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identisch zur Interpretation 1, also ebenfalls texttreu und fundiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Der Song ist eine bewegende und nachdenkliche Betrachtung … die Wichtigkeit, das Leben bewusst und verantwortungsvoll zu leben.“ – moralische Schlussfolgerung, die nicht im Text verankert ist"
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Wiedergabe von Bildsprache (z. B. „sandigen Grundlagen“, „bitterer Geschmack der Tränen“)",
+          "Gute Verbindung zwischen einzelnen Textzeilen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die ersten drei Interpretationen sind nahezu identisch und zeigen hohe Konsistenz; die letzten beiden weichen leicht ab und enthalten vereinzelte vage bzw. erfundene Elemente.",
+    "empfehlung": "Interpretationen, die fast ausschließlich aus dem Songtext ableitbare Aussagen liefern und dabei gleichzeitig auf Ambivalenzen (z. B. das Spiel‑Motiv, das Bild vom Sand) eingehen, erzielen die besten Scores. Vermeiden Sie generische Moral‑ oder Vergebungs‑Behauptungen, die nicht im Text verankert sind."
+  }
+}

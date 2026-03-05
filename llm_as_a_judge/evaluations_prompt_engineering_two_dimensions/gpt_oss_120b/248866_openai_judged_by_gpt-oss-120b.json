@@ -1,0 +1,101 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "2006, dem Jahr des Eurovision‑Sieges, war das Bild des nächtlichen Monsters ein Mittel, nationale Identität durch das Spiel mit dem „Anderen“ zu verhandeln."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr genaue Textbezüge (Metaphern, Wiederholungen, Ich‑Perspektive).",
+          "Klare Analyse der Spannungsfelder zwischen „perfect world“ und nächtlichem Chaos.",
+          "Einbindung des kulturellen Kontextes der finnischen Heavy‑Metal‑Tradition ohne spekulative Überdehnung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die nächtliche Symbolik lässt sich auf post‑9/11‑Unsicherheiten und die wachsende digitale Anonymität beziehen, wobei das „Biss‑Gefahr“-Motiv sowohl für reale Gewalt als auch für virtuelle Bedrohungen (Hacker, Trolls) stehen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene Ambiguität des Textes lässt Raum für multiple Deutungen, ohne eine definitive Auflösung zu bieten, und hält damit die Hörer in einem dauerhaften Zustand der interpretativen Unruhe."
+        ],
+        "positive_aspekte": [
+          "Umfassende stilistische Analyse (Alliteration, Lautmalerei, Bildsprache).",
+          "Verknüpfung von Songinhalt mit dem Eurovision‑Sieg 2006, was faktisch korrekt ist.",
+          "Erkenntnis der fragmentarischen Erzählstruktur und des Mantra‑Charakters des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch reflektiert es die post‑9/11‑Unsicherheit, in der Bedrohungen als unsichtbar und plötzlich auftretend wahrgenommen wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Durchgängigkeit bei der Analyse von Wiederholungen und deren ritueller Wirkung.",
+          "Klare Unterscheidung zwischen Angst und Faszination im Text.",
+          "Gute Einordnung in die Horror‑Rock‑Ästhetik der frühen 2000er."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in die Tradition des finnischen Hard‑Rock‑Theaters einordnen, das mit Monstermotiven gesellschaftliche Ängste maskiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Textbelege für jede interpretative Aussage.",
+          "Ausführliche Betrachtung von Klangbildern (hypnotische, rituelle Atmosphäre).",
+          "Verbindung von lyrischen Elementen zu sozialen Konflikten (Stigmatisierung, psychische Belastungen)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 2000‑er‑Jahre‑Hard‑Rock‑ und Horror‑Metal‑Genres spiegelt das Lied die post‑9/11‑Unsicherheit wider, in der das Unsichtbare (Terror, digitale Bedrohungen) als nächtliche, kaum greifbare Gefahr wahrgenommen wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Leitmotiv, Wiederholungen und Imperativen.",
+          "Klare Darstellung der Ambiguität zwischen Handlungsfähigkeit und Ohnmacht.",
+          "Stilistische Analyse (Metaphern, gotische Traditionen) bleibt textnah."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein ähnliches Niveau: wenige erfundene Aussagen (≈11 % jeder) und keine nennenswerten oberflächlichen Floskeln. Die Varianz ist gering, was auf konsistente Bewertungskriterien hinweist.",
+    "empfehlung": "Die Interpretationen balancieren gut zwischen Texttreue und analytischer Tiefe. Für zukünftige Bewertungen sollte man darauf achten, spekulative historische Bezüge (z. B. post‑9/11) klar zu kennzeichnen, um den Halluzinations‑Score weiter zu senken."
+  }
+}

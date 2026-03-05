@@ -1,0 +1,99 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Oxymorons unterstreicht die Spannung zwischen Schein und Sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Texte beschreiben eine Welt, in der alles kontrolliert und manipuliert wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Metaphern und Symbole ein"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Person mit einem öffentlichen Gesicht und einem privaten Auge sucht nach Antworten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Phrase 'Hear no evil, See no evil, Speak no evil' kann als Hinweis auf die Verdrängung von Wahrheit interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine chaotische Szene, in der ein Detektiv nach Hinweisen sucht"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten scheinen jedoch nicht in der Lage zu sein, sich an die Wahrheit zu erinnern oder sie zu akzeptieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Texte sind voller Hinweise auf Verbrechen und Schuld"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Welt, in der die Grenzen zwischen Wahrheit und Lüge verwischt sind"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zweite Hälfte des Songs wird zunehmend surrealer"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Phrase 'Hear no evil, See no evil, Speak no evil' unterstreicht die These, dass diese Art von Verdrängung und Selbstzensur ein Teil des Problems ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Welt, in der die Wahrheit schwer zu finden ist"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene, in der eine 'hat check girl' mit einem Siamese-Zwilling 'necking' ist, wirkt wie ein surrealer Traum"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Texte sind voller Hinweise auf Verbrechen und Schuld"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Welt, in der die Wahrheit oft verschleiert wird"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und Ambivalenzen"
+  }
+}

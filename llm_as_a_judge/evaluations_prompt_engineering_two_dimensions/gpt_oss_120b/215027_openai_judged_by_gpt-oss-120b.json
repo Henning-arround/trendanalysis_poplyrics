@@ -1,0 +1,105 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1972 im Kontext der Nach‑68‑Bewegung, in der Liebe als politisches Prinzip und Gemeinschaftsprojekt idealisiert wurde.",
+          "Das „Festival“ erinnert an die damals populären Musik‑ und Friedensfestivals, die als Mikrokosmen einer neuen Gesellschaft galten."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambivalenz zwischen individueller Liebe und globaler Utopie bleibt bewusst offen, ohne eine definitive Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Textbezüge (Metaphern, Wiederholungen, Spannungsfeld zwischen Sorge und Versöhnung).",
+          "Erkennt die Mehrdeutigkeit des Wortes „Probe“ und verknüpft es sinnvoll mit dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1972 im Kontext der Nach‑1968‑Bewegung zu verorten, in dem kollektive Lebensformen und Friedensideale populär wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambivalenz – das gleichzeitige Betonen von Inklusion und Exklusion, von persönlicher Glückseligkeit und globaler Verantwortung – bleibt ungelöst und eröffnet einen Raum für kritische Reflexion über die Grenzen utopischer Liebesideale."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse von Stil, Symbolik und narrativer Dualität.",
+          "Verknüpft Textstellen konsequent mit einer kritischen Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1972, im Kontext der Nach‑1968‑Bewegung, der Hippie‑Kultur und der wachsenden Friedens- und Liebesideale.",
+          "Das „Festival“ erinnert an Ereignisse wie Woodstock, die als Symbol für kollektive Befreiung galten."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguitäten lassen das Lied sowohl als hoffnungsvolle Hymne als auch als kritische Reflexion über die Grenzen romantischer Utopien erscheinen."
+        ],
+        "positive_aspekte": [
+          "Klare Aufschlüsselung von Metaphern (Wolken, Straße, Oh‑oh‑ah‑ah).",
+          "Erkennt das Spannungsfeld zwischen exklusiver Gemeinschaft und universeller Einladung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1972 im Kontext der Nach‑68‑Bewegung und der aufkommenden Hippie‑Kultur zu verorten, in der Liebe und Gemeinschaft als Gegenentwurf zu politischen Spannungen propagiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Dennoch bleibt unklar, ob das „Festival“ als Kritik an der Konsumgesellschaft oder als reine Flucht in private Glückseligkeit zu verstehen ist."
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Refrain‑Motiven mit der Idee einer flüchtigen Erfahrung.",
+          "Gute Differenzierung zwischen kollektiver Symbolik und persönlicher Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1972 im Kontext der Nach‑1968‑Bewegung, in der Liebe und Gemeinschaft als Gegenentwurf zu autoritären Strukturen propagiert wurden.",
+          "Gleichzeitig spiegelt es die Pop‑Kultur‑Tendenz der frühen 70er‑Jahre wider, persönliche Glückseligkeit in einfachen, eingängigen Refrains zu verpacken."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ausführliche Analyse der performativen Interaktion („Wir grüßen die Menschen und sie winken zurück“).",
+          "Konsistente Verknüpfung von formalen Elementen (Metaphern, Leitmotiv) mit inhaltlichen Spannungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2 und 4 zeigen eine hohe Konsistenz: Sie wiederholen zentrale Beobachtungen (Festival‑Idee, Wiederholungen, Spannungsfeld zwischen Sorge und Versöhnung) und ergänzen sie jeweils mit eigenen, aber textnahen Analysen. Interpretation 3 und 5 enthalten mehr spekulative historische Bezüge, was die Varianz erhöht.",
+    "empfehlung": "Interpretation 4 bietet die beste Balance aus Texttreue und analytischer Tiefe bei moderaten Halluzinationen. Für zukünftige Bewertungen sollte darauf geachtet werden, historische Kontextualisierungen nur dann zu nutzen, wenn sie klar aus dem Text ableitbar sind, um die Halluzinations‑Rate zu senken."
+  }
+}

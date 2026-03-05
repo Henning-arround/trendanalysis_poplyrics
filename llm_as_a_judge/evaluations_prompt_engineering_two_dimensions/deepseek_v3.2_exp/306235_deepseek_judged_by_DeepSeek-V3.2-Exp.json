@@ -1,0 +1,99 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "postmoderne Sehnsucht nach Verbindung und Sinn"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Verwendung von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "postmoderne Sehnsucht nach Verbindung und Sinn"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Verwendung von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "postmoderne Sehnsucht nach Verbindung und Sinn"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Verwendung von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Verwendung von Vokalphrasen wie 'Ooh' und 'Ah'"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Verwendung von Symbolen und Metaphern",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Verwendung von Vokalen wie 'Ooh' und 'Ah'"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Verwendung von Symbolen und Metaphern",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      4,
+      5
+    ],
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-3 sind sehr ähnlich und wiederholen sich stark, während die Interpretationen 4 und 5 eine höhere Varianz aufweisen.",
+    "empfehlung": "Die Ansätze von Interpretationen 4 und 5 sind empfehlenswert, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweisen."
+  }
+}

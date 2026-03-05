@@ -1,0 +1,94 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der wahre Frieden liegt nicht im äußeren Kampf, sondern im Finden des stillen Zentrums, das jeder Mensch in sich tragen kann."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Sturms und des Auges des Sturms",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine Ablehnung der dichotomen Moral, die häufig Konflikte legitimiert"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Sturms und des Auges des Sturms",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ein Spannungsfeld zwischen äußerer Turbulenz und innerer Suche nach einem friedlichen Kern",
+          "die Sehnsucht nach einer Welt ohne endlose Kriege und die Verantwortung jedes Einzelnen, sich für ein gemeinsames, besseres Leben einzusetzen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Sturms und des Auges des Sturms"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine Ablehnung der dichotomen Moral, die häufig Konflikte legitimiert"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Sturms und des Auges des Sturms",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ein innerer Frieden, den er seit seiner Geburt sucht"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Sturms und des Auges des Sturms",
+          "Textbezogene Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Metapher des Sturms und des Auges des Sturms",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einbindung japanischer Zählwörter bricht die sprachliche Erwartungshaltung und symbolisiert das bewusste Durchbrechen kultureller Grenzen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft ist, dass wahre Veränderung erst entsteht, wenn man den Mut hat, aus dem Strom auszubrechen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert den Spannungsbogen zwischen gesellschaftlichem Anpassungsdruck und dem Wunsch nach individueller Selbstverwirklichung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die fast hypnotische 'da da da'-Sequenz fungiert als musikalischer Schleier, der die Botschaft von Konformität und Rebellion zugleich trägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft ist, dass wahre Innovation erst entsteht, wenn man den Mut hat, aus dem Strom auszubrechen und neue Wege zu beschreiten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ermutigt zum Experimentieren und zur Selbstverwirklichung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einbindung japanischer Zählwörter symbolisiert das bewusste Durchbrechen kultureller Grenzen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft ist, dass wahre Veränderung erst entsteht, wenn man den Mut hat, aus dem Strom auszubrechen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert den Druck, sich in vorgegebene soziale Normen einzufügen, und zugleich die Möglichkeit, durch individuelle Entscheidungen neue Wege zu eröffnen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten 'da da da' und das japanische Zählen 'Ichi, Ni, San' dienen nicht nur als rhythmische Elemente, sondern symbolisieren die universelle, fast mechanische Struktur von Trends"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft ist, dass wahre Innovation erst entsteht, wenn man den Mut hat, aus dem Strom auszubrechen und neue Wege zu beschreiten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ermutigt zum Experimentieren und zur Selbstverwirklichung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten 'Da-da'- und 'Ichi, Ni, San'-Passagen wirken wie rhythmische Befreiungsrufe, die das monotone Kopieren von Stilen durchbrechen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft ist, dass wahre Führungspositionen erst entstehen, wenn man den Mut hat, abseits des Mainstreams zu handeln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert den Druck, sich in vorgegebene soziale Normen einzufügen, und zugleich die Möglichkeit, durch individuelle Entscheidungen neue Wege zu eröffnen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt und die zentrale Botschaft des Songs thematisiert"
+  }
+}

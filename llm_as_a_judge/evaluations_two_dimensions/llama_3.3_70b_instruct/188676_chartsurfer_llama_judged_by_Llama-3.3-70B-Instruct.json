@@ -1,0 +1,99 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Luxus und Exklusivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Idee, dass in diesem Raum alles in Ordnung ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ablehnung von Kameras im 'big room'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Luxus und Exklusivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Idee, dass in diesem Raum alles in Ordnung ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ablehnung von Kameras im 'big room'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Luxus und Exklusivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Idee, dass in diesem Raum alles in Ordnung ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ablehnung von Kameras im 'big room'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Luxus und Exklusivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Idee, dass in diesem Raum alles in Ordnung ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ablehnung von Kameras im 'big room'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Luxus und Exklusivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Idee, dass in diesem Raum alles in Ordnung ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ablehnung von Kameras im 'big room'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich, was auf eine mangelnde Vielfalt in den Analysen hinweist",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu diversifizieren und mehr textbasierte Analysen durchzuführen, um eine tiefere Einsicht in den Songtext zu gewinnen"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbole der 'Speakers so loud, they 'bout to blow' und des 'Rock n' Roll' repräsentieren die Energie und die Ekstase der Partykultur.",
+          "Die narrative Struktur des Songs, die sich um die Erzählung einer unvergesslichen Nacht dreht, schafft eine emotionale Verbindung zum Hörer und betont die Bedeutung von Erinnerungen und Erfahrungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs, 'This is the best night of my life', suggeriert eine Idealisierung des Moments und eine Sehnsucht nach unbeschwerter Freude.",
+          "Der Song spiegelt die Sehnsucht nach Freiheit und Selbstverwirklichung in einer Gesellschaft wider, die oft von Stress, Druck und Verantwortung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Songtext in einen kulturellen und historischen Kontext zu setzen.",
+          "Die Analyse der literarischen Stilmittel ist ansatzweise."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Let's start that rock n' roll / Speakers so loud, they 'bout to blow' kann als eine Metapher für die Befreiung von Hemmungen und die Hingabe an die Musik und den Moment interpretiert werden.",
+          "Der Song thematisiert auch die Bedeutung von sozialen Beziehungen und Gemeinschaft, wie in den Zeilen 'You, your friends and all of us / You came to party, we came to party' deutlich wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs, 'This is the best night of my life', suggeriert eine Idealisierung des Moments und eine Sehnsucht nach unbeschwerten Erlebnissen.",
+          "Der Song kann als ein Produkt der globalen Popkultur und der Clubszene der 2010er Jahre verstanden werden, in der die Idee von Vergnügen und Selbstverwirklichung durch Musik und Tanz eine zentrale Rolle spielt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Analyse der Songtexte.",
+          "Die Einordnung in den kulturellen Kontext ist nachvollziehbar."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Let's start that rock n' roll / Speakers so loud, they 'bout to blow' kann als eine Metapher für die Befreiung von Hemmungen und die Hingabe an die Musik und den Moment interpretiert werden.",
+          "Der Song thematisiert auch die Bedeutung von sozialen Beziehungen und Gemeinschaft, wie in den Zeilen 'You, your friends and all of us / You came to party, we came to party' deutlich wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs, 'This is the best night of my life', suggeriert eine Idealisierung des Moments und eine Sehnsucht nach unbeschwerten Erlebnissen.",
+          "Der Song kann als ein Produkt der globalen Popkultur und der Clubszene der 2010er Jahre verstanden werden, in der die Idee von Vergnügen und Selbstverwirklichung durch Musik und Tanz eine zentrale Rolle spielt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist konsistent mit den vorherigen Analysen.",
+          "Die Schlussfolgerungen sind nachvollziehbar."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'We live the best life' kann als eine Metapher für die Idee des 'Carpe Diem' interpretiert werden, die die Hörer auffordert, das Leben zu genießen und nicht zu vergeuden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs, 'This is the best night of my life', suggeriert eine Intensivierung des Erlebens und eine Konzentration auf den Moment."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textnah und liefert konkrete Analysen.",
+          "Die Einordnung in den kulturellen Kontext ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs, 'This is the best night of my life', suggeriert eine Idealisierung des gegenwärtigen Moments und eine Sehnsucht nach unbeschwerten und sorglosen Erfahrungen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textnah und liefert konkrete Analysen.",
+          "Die Schlussfolgerungen sind überzeugend und nachvollziehbar."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 1.6,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Songtexte, jedoch variiert die Tiefe der Analyse.",
+    "empfehlung": "Die Interpretationen 4 und 5 sind aufgrund ihrer Textnähe und analytischen Tiefe zu empfehlen."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In kultureller und historischer Hinsicht kann der Song als Ausdruck der sexuellen Revolution der 1970er Jahre interpretiert werden.",
+          "Die expliziten Anspielungen … deuten auf eine Liberalisierung der Sexualität hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind jedoch auch von Ambiguitäten und Spannungen geprägt.",
+          "Diese Fragen deuten auf eine tiefer liegende Unsicherheit und Verletzlichkeit in der Beziehung hin.",
+          "Die Verwendung von Ausrufen … verleiht dem Song eine affektive Dimension.",
+          "Gleichzeitig jedoch bleibt der Song in seiner Bedeutung mehrdeutig und lässt Raum für verschiedene Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (Metapher des Rückenkratzens, wiederholte Fragen, Ausrufe).",
+          "Mischung aus konkreten Beobachtungen und offenen, mehrdeutigen Deutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen und historischen Kontext der 1970er Jahre kann der Song als Beitrag zur Diskussion über die sexuelle Revolution interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Ausrufen verleiht dem Song eine emotionale und fast schon ekstatische Note, die auf eine intensive, möglicherweise auch sexuelle Erfahrung hindeutet.",
+          "Die direkte Ansprache und die insistierende Frageweise erzeugen eine Spannung, die auf eine Dynamik von Verführung und Exploration schließen lässt.",
+          "Diese Elemente deuten darauf hin, dass der Song nicht nur eine simple Botschaft von Gegenseitigkeit vermittelt, sondern auch eine komplexe emotionale und möglicherweise sexuelle Dynamik thematisiert.",
+          "Wiederholung der Bitte … erzeugen eine Atmosphäre der Sehnsucht, die über eine simple Aufforderung hinausgeht.",
+          "Der Song kann als Exploration der Grenzen von Beziehungen … interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig auf Textstellen zurückführen (Fragen, Metapher, Wiederholungen).",
+          "Wenig erfundene Kontextualisierungen – nur ein einziger historischer Verweis."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In kultureller und historischer Hinsicht kann der Song als Ausdruck der sexuellen Revolution der 1970er Jahre interpretiert werden.",
+          "Die expliziten Anspielungen … deuten auf eine Liberalisierung der Sexualität hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind jedoch auch von Ambiguitäten und Spannungen geprägt.",
+          "Diese Fragen deuten auf eine tiefer liegende Unsicherheit und Verletzlichkeit in der Beziehung hin.",
+          "Die Verwendung von Ausrufen … verleiht dem Song eine affektive Dimension.",
+          "Gleichzeitig jedoch bleibt der Song in seiner Bedeutung mehrdeutig und lässt Raum für verschiedene Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen konkreten Textbezügen und offenen, mehrdeutigen Interpretationsmöglichkeiten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In kultureller und historischer Hinsicht kann der Song als Ausdruck der sexuellen Revolution der 1970er Jahre interpretiert werden.",
+          "Die expliziten Anspielungen … deuten auf eine Liberalisierung der Sexualität hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind jedoch auch von Ambiguitäten und Spannungen geprägt.",
+          "Diese Fragen deuten auf eine tiefer liegende Unsicherheit und Verletzlichkeit in der Beziehung hin.",
+          "Die Verwendung von Ausrufen … verleiht dem Song eine affektive Dimension.",
+          "Gleichzeitig jedoch bleibt der Song in seiner Bedeutung mehrdeutig und lässt Raum für verschiedene Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textanalyse, klare Struktur, wiederholte Bezugnahme auf zentrale Motive."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In kultureller und historischer Hinsicht kann der Song als Ausdruck der sexuellen Revolution der 1970er Jahre interpretiert werden.",
+          "Die expliziten Anspielungen … deuten auf eine Liberalisierung der Sexualität hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind jedoch auch von Ambiguitäten und Spannungen geprägt.",
+          "Die Ausrufe erzeugen eine emotionale Wirkung, die zwischen Verzweiflung und Ekstase schwankt.",
+          "Die repetitive Struktur des Songs und die Verwendung von Imperativen verstärkt die emotionale Dimension.",
+          "Der Song bleibt ambivalent und wirft Fragen nach der Nachhaltigkeit und den Grenzen solcher Beziehungen auf.",
+          "Insgesamt zeigt das Lied eine komplexe und vielschichtige Thematik."
+        ],
+        "positive_aspekte": [
+          "Verweist explizit auf wiederholte Textstellen und Imperative, was die Analyse konkret macht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (gegenseitige Unterstützung, sexuelle Revolution). Die Varianz liegt hauptsächlich im Anteil oberflächlicher bzw. erfundener Aussagen – Interpretation 5 ist am wenigsten erfunden, Interpretation 2 enthält die meisten oberflächlichen Formulierungen.",
+    "empfehlung": "Ein Ansatz, der wenige erfundene Kontextualisierungen liefert und gleichzeitig konkrete Textbezüge mit offenen, mehrdeutigen Deutungen kombiniert, ist am überzeugendsten. Interpretation 1 (bzw. 3 / 4) erfüllt dieses Kriterium am besten."
+  }
+}

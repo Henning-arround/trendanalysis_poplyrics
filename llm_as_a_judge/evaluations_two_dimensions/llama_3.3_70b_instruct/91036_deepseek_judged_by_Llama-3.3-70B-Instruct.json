@@ -1,0 +1,99 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gesellschaft, in der Menschen leichtfertig mit ihren Emotionen und Beziehungen umgehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Oberflächlichkeit und Leichtigkeit, mit der Menschen heutzutage Beziehungen und Emotionen behandeln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Zeile 'Pull out your heart to make the being alone' als Schutz vor weiteren Verletzungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gesellschaft, in der Menschen leichtfertig mit ihren Emotionen und Beziehungen umgehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Oberflächlichkeit und Leichtigkeit, mit der Menschen heutzutage Beziehungen und Emotionen behandeln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Zeile 'Pull out your heart to make the being alone' als Schutz vor weiteren Verletzungen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gesellschaft, in der Menschen leichtfertig mit ihren Emotionen und Beziehungen umgehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Oberflächlichkeit und Leichtigkeit, mit der Menschen heutzutage Beziehungen und Emotionen behandeln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Zeile 'Pull out your heart to make the being alone' als Schutz vor weiteren Verletzungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gesellschaft, in der Menschen leichtfertig mit ihren Emotionen und Beziehungen umgehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Oberflächlichkeit und Leichtigkeit, mit der Menschen heutzutage Beziehungen und Emotionen behandeln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Zeile 'Pull out your heart to make the being alone' als Schutz vor weiteren Verletzungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gesellschaft, in der Menschen leichtfertig mit ihren Emotionen und Beziehungen umgehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Oberflächlichkeit und Leichtigkeit, mit der Menschen heutzutage Beziehungen und Emotionen behandeln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Zeile 'Pull out your heart to make the being alone' als Schutz vor weiteren Verletzungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich, was auf eine mangelnde Vielfalt in den Interpretationen hinweist",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und Vielfalt zu erreichen"
+  }
+}

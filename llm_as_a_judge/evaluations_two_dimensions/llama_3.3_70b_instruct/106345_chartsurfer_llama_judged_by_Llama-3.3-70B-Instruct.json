@@ -1,0 +1,99 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Grenzen zwischen Gut und Böse, Leben und Tod, völlig verwischt sind"
+        ],
+        "oberflächliche_aussagen": [
+          "eine dystopische Welt, in der Angst und Gewalt dominieren"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Panic is the rule I make' ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Menschen sind gezwungen, in einem Klima der Angst und des Terrors zu leben"
+        ],
+        "oberflächliche_aussagen": [
+          "eine Welt, in der die Regeln von Angst und Verzweiflung diktiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der 'Armed Guard of Punishment' ist plausibel"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frage nach dem Zustand der Welt, in der man durch 'Straßen der Angst' geht, deutet auf eine Art von Einwilligung hin"
+        ],
+        "oberflächliche_aussagen": [
+          "eine Welt, in der Macht und Gewalt die Oberhand gewonnen haben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des 'energisierenden Ray' ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Menschen sind gezwungen, in einem Klima der Angst und des Terrors zu leben"
+        ],
+        "oberflächliche_aussagen": [
+          "eine Welt, in der die Regeln von Angst und Verzweiflung diktiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der 'Armed Guard of Punishment' ist plausibel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Grenzen zwischen Gut und Böse verwischt sind"
+        ],
+        "oberflächliche_aussagen": [
+          "eine dystopische Welt, in der Angst und Gewalt dominieren"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Panic is the rule I make' ist gut durchdacht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind teilweise sehr ähnlich, was auf eine gewisse Konsistenz hinweist, aber auch auf eine mangelnde Vielfalt in den Analysen",
+    "empfehlung": "Es wäre ratsam, die Interpretationen nochmals zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Schönheit verknüpft das Tanzen mit ästhetischen Idealen, die in der Popkultur jener Zeit stark präsent waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er-Jahre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verbindet textbezogene Analyse mit kulturellen Kontexten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung des Körpers als 'beautiful' und die Verheißung, dass er sich 'in return' bedanken wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er-Jahre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Balance zwischen Textanalyse und kultureller Einordnung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung des Körpers als 'beautiful' und die Versprechen, dass er sich 'thank you in return' zeige"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er-Jahre",
+          "zeitlos",
+          "universell"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text und bietet einige gute Analysepunkte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 80er-Jahre als Ära feiert, in der Körperkultur, Popmusik und soziale Integration eng miteinander verwoben waren"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr gute Balance zwischen Texttreue und analytischer Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verbindet die aufkommende Fitness- und Aerobic-Kultur mit der Leichtigkeit des Disco-Pop"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er-Jahre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text und bietet einige gute Analysepunkte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine gute Analyse des Songs",
+    "empfehlung": "Die vierte Interpretation bietet die beste Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

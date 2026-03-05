@@ -1,0 +1,99 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'Erster' und 'Letzter' suggeriert eine zeitlose Bindung, die Anfang und Ende zugleich umfasst und damit die Kontinuität von Leben und Liebe symbolisiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Licht im Dunkeln, Sonne im Regen, steht für die Fähigkeit des Gegenübers, Trost und Klarheit zu spenden, selbst wenn Worte unzureichend bleiben."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und identifiziert wichtige Themen wie die zeitlose Bindung und die Fähigkeit des Gegenübers, Trost zu spenden."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Naht, die plötzlich reißt, lässt die beiden Gegensätze – Freude und Leid – ineinander übergehen und verdeutlicht, dass das Dasein von Widersprüchen durchdrungen ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Licht im Dunkeln, Sonne im Regen, fungiert als Metapher für Trost und Erlösung, die aus der Bindung erwachsen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Thematik der Widersprüche im Leben und die Rolle der Bindung bei der Überwindung von Herausforderungen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stimme aus der Vergangenheit als Anker, ein unverrückbarer Bezugspunkt, den der Sprecher nicht loslassen kann; sie verkörpert das Verlorene, das zugleich Trost spendet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'du bist das Erste, du bist das Letzte' suggeriert eine zyklische Vollständigkeit, in der Anfang und Ende in einer einzigen Beziehung zusammenfließen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine nuancierte Analyse der Rolle der Stimme aus der Vergangenheit und ihrer Bedeutung für die Gegenwart."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Frage 'Where are you now?' richtet sich an eine verlorene Stimme, die einst Vertrautheit schenkte und nun unentbehrlich bleibt; sie wird zum Anker in einer Welt, die sich ständig weiterbewegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Licht im Dunkeln, Sonne im Regen, symbolisiert die Fähigkeit des Anderen, Trost und Klarheit zu spenden, bis schließlich Befreiung und Wahrheit erreicht sind – ein Zustand, den Worte nicht fassen können, weil er intuitiv erlebt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Thematik der Verlust und der Suche nach Vertrautheit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stimme aus der Vergangenheit als Anker, ein unverrückbarer Bezugspunkt, den der Sprecher nicht loslassen kann; sie verkörpert das Vertraute, das trotz aller äußeren Unwägbarkeiten bleibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von 'Erster' und 'Letzter' suggeriert eine zeitlose Bindung, die Anfang und Ende überschreitet und damit die Kontinuität von Liebe und Vertrauen betont."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und identifiziert wichtige Themen wie die zeitlose Bindung und die Fähigkeit des Gegenübers, Trost zu spenden."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Identifizierung wichtiger Themen und die Analyse des Textes.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse des Textes bietet und wichtige Themen wie die zeitlose Bindung und die Fähigkeit des Gegenübers, Trost zu spenden, identifiziert."
+  }
+}

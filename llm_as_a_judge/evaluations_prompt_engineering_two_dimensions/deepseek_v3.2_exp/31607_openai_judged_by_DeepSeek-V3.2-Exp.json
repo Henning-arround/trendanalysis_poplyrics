@@ -1,0 +1,97 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrede an die Mutter fungiert als Bindeglied zwischen persönlicher Geschichte und kollektiver Erinnerung"
+        ],
+        "oberflächliche_aussagen": [
+          "Emotional wirkt das Stück ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das Motiv des Aufstiegs mit einer fragmentarischen Lebensgeschichte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur der jungen Frau spiegelt die Mobilität und den Aufstieg des amerikanischen Mittelstands wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt Springsteen repetitive Refrains"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambivalenz des Aufstiegs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählung springt zwischen Ich- und Dritte-Person-Perspektive"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine detaillierte Analyse der Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin verkörpert ein weibliches Subjekt, das zwischen ökonomischer Not, sexueller Objektifizierung und krimineller Agency schwankt"
+        ],
+        "oberflächliche_aussagen": [
+          "Formell nutzt Springsteen ein simples Reimschema"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das Motiv des Aufstiegs mit einer fragmentarischen Lebensgeschichte"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft bleibt ambivalent"
+        ],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext des frühen 21. Jahrhunderts spiegelt das Stück die anhaltende Ideologie des 'self-made' in den USA"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine detaillierte Analyse der Symbole und Metaphern"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die Interpretation 3 liefert eine ausgewogene Analyse des Songs"
+  }
+}

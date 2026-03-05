@@ -1,0 +1,101 @@
+{
+  "song": "It’s Alright - The Osmonds (1973)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs könnte in der Suche nach Sinn und Erkenntnis in einer sich schnell verändernden Welt liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Überraschung, Verwirrung und Akzeptanz."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Blitzes und Donners ist gut durchdacht und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs könnte in der Suche nach Sinn und Erkenntnis in einer sich schnell verändernden Welt liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Überraschung, Verwirrung und Akzeptanz.",
+          "Der Song entstand in einer Zeit des sozialen und kulturellen Wandels"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern wird gut analysiert."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann in diesem Kontext als eine Art von spiritueller oder philosophischer Suche interpretiert werden, die sich mit den tieferen Bedeutungsebenen und symbolischen Ordnungen des Lebens auseinandersetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Überraschung, Verwirrung und Akzeptanz."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist gut durchdacht und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann in diesem Kontext als eine Art von spiritueller oder existenzieller Suche interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Überraschung, Verwirrung und Akzeptanz."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Blitzes und Donners ist gut durchdacht und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann in der Auseinandersetzung mit der Unbekannten, dem Unerwarteten und der Suche nach Sinn und Erklärung gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Überraschung, Verwirrung und Akzeptanz.",
+          "Der Song entstand in einer Zeit des sozialen und kulturellen Wandels"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern wird gut analysiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Keine Interpretation ragt deutlich heraus, da alle eine ähnliche Balance zwischen Halluzination und Tiefe aufweisen.",
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in ihrer Analyse, aber es gibt auch Wiederholungen und ähnliche Aussagen.",
+    "empfehlung": "Um die Interpretationen zu verbessern, sollten die Autoren sich auf eine tiefere Analyse des Textes konzentrieren und weniger auf allgemeine Aussagen und spekulative Interpretationen eingehen."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Kontextualisierung in die Nachkriegsdeutschland-Debatte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Imperativform erzeugt ein Spannungsfeld"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik der 'Knarre'",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturelle Einordnung in das Nachkriegsdeutschland der späten 1950er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die 'Knarre' steht für Gewalt und Selbstbehauptung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der fragmentarischen Erzählstruktur",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Einordnung in die Nachkriegsstimmung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain wirkt wie ein Mantra"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik und Metaphern",
+          "Berücksichtigung von Widersprüchen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft Kriegserfahrung mit einer wiederkehrenden Aufforderung"
+        ],
+        "positive_aspekte": [
+          "Sehr textbezogene Interpretation",
+          "Gute Analyse der Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Einordnung in das Nachkriegsdeutschland der späten 1950er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Kern des Liedes ist ein Appell zur Entwaffnung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der fragmentarischen Erzählstruktur",
+          "Berücksichtigung von Widersprüchen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die vierte Interpretation zeigt eine sehr gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

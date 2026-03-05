@@ -1,0 +1,91 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Mischung aus \"macaroons and scarves and rattles\" suggeriert ein Fest, das gleichzeitig kindlich und politisch aufgeladen ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verwebt eine Reihe von urbanen Bildfragmenten zu einer Collage, die zugleich das Alltägliche und das surreale Glasgow der frühen 1990er‑Jahre reflektiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von Feier (\"cheering\") und Gewalt (\"picks his teeth with old rusty meat hooks\") erzeugt einen unaufgelösten Widerspruch, der die komplexe Identität einer Stadt im Wandel – zwischen industriellem Erbe, sozialer Solidarität und individueller Entfremdung – offenlegt, ohne eine abschließende Deutung zu liefern."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verwebt eine Reihe von urbanen Bildfragmenten zu einer Collage, die zugleich das Alltägliche und das surreale Glasgow der frühen 1990er‑Jahre reflektiert."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"The wind nearly pulled my Breeches off\" spielt mit körperlicher Demütigung und dem Verlust von Kontrolle."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft persönliche Erinnerung mit einer Collage städtischer Referenzen, wodurch die zentrale Botschaft – das gleichzeitige Festhalten an einer zerfallenden Gemeinschaft und das Ausloten ihrer Identität – mehrschichtig wird."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Gegenüberstellung von konkreten Orten, Berufsbezeichnungen und absurden Details lässt offene Widersprüche entstehen – etwa die gleichzeitige Präsenz von \"cheering\" und \"graveyard\", von \"fireworks\" und \"rusty meat hooks\" – die den Hörer in einem Zustand permanenter Unsicherheit zurücklassen, ohne eine eindeutige Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verwebt eine Reihe von urbanen Bildfragmenten zu einer Collage, die zugleich das Alltägliche und das surreale Glasgow der frühen 1990er‑Jahre reflektiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text bleibt bewusst widersprüchlich: Die romantische Geste von Ann Kelly kollidiert mit der rauen, fast grotesken Darstellung von Billy, und das feierliche \"cheering\" aus Hampden steht im Kontrast zu den düsteren Bildern von Gräbern und rostigen Haken."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannungen verhindern eine eindeutige Deutung; sie öffnen stattdessen einen Raum, in dem Glasgow als Ort von Verlust, Gemeinschaft, Gewalt und flüchtiger Freude simultan erlebt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verwebt eine Reihe von urbanen Bildfragmenten zu einer Collage, die zugleich das Alltägliche und das surreale Glasgow der frühen 1990er‑Jahre reflektiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songtextes, jedoch variiert die Tiefe und der Halluzinationsscore.",
+    "empfehlung": "Die Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher die empfehlenswerteste."
+  }
+}

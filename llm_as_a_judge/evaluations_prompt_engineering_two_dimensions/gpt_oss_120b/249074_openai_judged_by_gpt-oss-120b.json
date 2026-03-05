@@ -1,0 +1,89 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Analyse‑Punkte lassen sich eindeutig aus dem vorliegenden Text ableiten.",
+          "Sehr differenzierte Betrachtung von Symbolik, Rollenbildern und historischer Einordnung.",
+          "Durchgehend textbezogene Argumentation ohne spekulative Biografien."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretatorischen Aussagen.",
+          "Umfassende historische Kontextualisierung, die faktisch korrekt ist.",
+          "Gute Balance zwischen Analyse von Metaphern und Diskussion von Ambivalenzen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Aufschlüsselung von Bildsprache und deren Mehrdeutigkeit.",
+          "Stimmige Verknüpfung von historischen Fakten mit dem Songinhalt.",
+          "Durchgängige Texttreue, keine spekulativen Ergänzungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gut strukturierte Gegenüberstellung von Freiheit und häuslicher Rolle.",
+          "Konsistente Nutzung von Textbeispielen zur Untermauerung der Analyse.",
+          "Historische Einordnung ist korrekt und relevant."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ausführliche Betrachtung von Wiederholungen und deren funktionaler Bedeutung.",
+          "Stimmige Interpretation von Symbolen (Stern, Cottage, Pillow).",
+          "Historischer Kontext wird sachlich und passend eingebunden."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen nahezu identische inhaltliche Schwerpunkte und vermeiden spekulative Ergänzungen – die Varianz ist praktisch null.",
+    "empfehlung": "Die drei‑bis‑fünf‑Punkte‑Interpretationen erreichen die ideale Balance aus Texttreue und analytischer Tiefe. Für zukünftige LLM‑Interpretationen sollte das Vorgehen beibehalten werden: jede Aussage klar aus dem Text ableiten, historische Fakten prüfen und unnötige Verallgemeinerungen vermeiden."
+  }
+}

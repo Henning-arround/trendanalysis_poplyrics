@@ -1,0 +1,99 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Don't walk away from love\" wird zu einem flehlichen Mantra, das die Verzweiflung und die Sehnsucht der Sängerin nach der Liebe und der Nähe ihres Partners ausdrückt.",
+          "Durch die Wiederholung dieser Zeilen wird die Intensität der Emotionen und die Dringlichkeit der Situation noch verstärkt, was den Song zu einem herzzerreißenden und eindringlichen Plädoyer für die Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Alle wesentlichen Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. Appell, Bitte nicht zu gehen, wiederholte Fragen, Zitierung konkreter Zeilen).",
+          "Der Text wird strukturiert und nachvollziehbar wiedergegeben, wodurch ein gutes Grundverständnis entsteht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Don't walk away from love\" wird zu einem flehlichen Mantra, das die Verzweiflung und die Sehnsucht der Sängerin nach der Liebe und der Nähe ihres Partners ausdrückt.",
+          "Durch die Wiederholung dieser Zeilen wird die Intensität der Emotionen und die Dringlichkeit der Situation noch verstärkt, was den Song zu einem herzzerreißenden und eindringlichen Plädoyer für die Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse ohne spekulative Biografie‑ oder Genre‑Angaben.",
+          "Gute Balance zwischen Wiederholung von Kernaussagen und konkreten Textbeispielen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Don't walk away from love\" wird zu einem flehlichen Mantra, das die Verzweiflung und die Sehnsucht der Sängerin nach der Liebe und der Nähe ihres Partners ausdrückt.",
+          "Durch die Wiederholung dieser Zeilen wird die Intensität der Emotionen und die Dringlichkeit der Situation noch verstärkt, was den Song zu einem herzzerreißenden und eindringlichen Plädoyer für die Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Alle interpretativen Punkte sind durch Zitate aus dem Text belegt.",
+          "Der Text bleibt bei den im Song vorhandenen Motiven und übertreibt nicht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Don't walk away from love\" wird zu einem flehlichen Mantra, das die Verzweiflung und die Sehnsucht der Sängerin nach der Liebe und der Nähe ihres Partners ausdrückt.",
+          "Durch die Wiederholung dieser Zeilen wird die Intensität der Emotionen und die Dringlichkeit der Situation noch verstärkt, was den Song zu einem herzzerreißenden und eindringlichen Plädoyer für die Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung, keine erfundenen biografischen Details.",
+          "Erklärt, wie wiederholte Fragen und Bildsprache die Verzweiflung verdeutlichen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Don't walk away from love\" wird zu einem flehlichen Mantra, das die Verzweiflung und die Sehnsucht der Sängerin nach der Liebe und der Nähe ihres Partners ausdrückt.",
+          "Durch die Wiederholung dieser Zeilen wird die Intensität der Emotionen und die Dringlichkeit der Situation noch verstärkt, was den Song zu einem herzzerreißenden und eindringlichen Plädoyer für die Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Vollständig textbasiert, keine spekulativen Kontextualisierungen.",
+          "Gibt klare Belege für jede zentrale Aussage aus dem Songtext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich identisch, wodurch die Varianz praktisch null ist. Die Bewertung ist daher sehr konsistent.",
+    "empfehlung": "Die vorliegenden Interpretationen sind faktentreu und zeigen eine solide, textbasierte Analyse. Für zukünftige Aufgaben sollte jedoch darauf geachtet werden, mehr differenzierte, tiefere Analysen zu erzeugen (z. B. durch das Aufzeigen von Mehrdeutigkeiten oder kontrastierenden Bildmotiven), um den Tiefen‑Score weiter zu erhöhen."
+  }
+}

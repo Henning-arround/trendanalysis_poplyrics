@@ -1,0 +1,95 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lautet, dass Beziehungen nicht immer einfach sind, aber dass sie es wert sind, für sie zu kämpfen"
+        ],
+        "positive_aspekte": [
+          "Die Metapher 'Rosen kommen mit ihren Dornen' wird korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'People talk too much' kritisiert die Neigung, Beziehungen von außen zu bewerten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lautet, dass Beziehungen nicht immer einfach sind, aber dass sie es wert sind, für sie zu kämpfen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Metapher 'Rosen kommen mit ihren Dornen' und die Analyse der narrativen Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'It ain't like the movies' unterstreicht die Diskrepanz zwischen der idealisierten Darstellung von Beziehungen in den Medien und der Realität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lautet, dass Beziehungen nicht immer einfach sind, aber dass sie es wert sind, für sie zu kämpfen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der narrativen Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You might cry / Then we won't talk / Then we right back to the start' zeigt die Ambiguitäten und Spannungen in Beziehungen auf"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lautet, dass Beziehungen nicht immer einfach sind, aber dass sie es wert sind, für sie zu kämpfen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Metapher 'Rosen kommen mit ihren Dornen' und die Analyse der emotionalen Wirkung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und bietet eine tiefgehende Analyse der literarischen Stilmittel und der narrativen Struktur"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der zentralen Botschaft und der literarischen Stilmittel",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie faktentreu ist und eine tiefgehende Analyse bietet"
+  }
+}

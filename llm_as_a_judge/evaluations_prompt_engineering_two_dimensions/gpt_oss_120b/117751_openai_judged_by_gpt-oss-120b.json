@@ -1,0 +1,109 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Entstanden 1962, spiegelt das Stück die Nachkriegszeit wider, in der das Bild des klaren Himmels als Symbol für Hoffnung und Wiederaufbau diente, gleichzeitig jedoch die Unsicherheit des Kalten Krieges widerspiegelte.",
+          "Die unaufgelöste Dualität von „Gold“ und „Silber“, von „Wacht“ und „Weg“, lässt Raum für multiple Deutungen: Sie kann als Ausdruck einer kollektiven Sehnsucht nach Stabilität, aber auch als Hinweis auf die Fragmentierung individueller Identitäten in einer sich wandelnden Gesellschaft gelesen werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Motive, Wiederholungen, Bildsprache).",
+          "Die Analyse geht detailliert auf Symbolik und strukturelle Wiederholungen ein.",
+          "Wenig spekulative Kontextualisierung, dafür fundierte Textbeobachtungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1962 im Kontext des Nachkriegs‑Wohlstands und der Aufbruchsstimmung des Wirtschaftswunders, wo Himmelssymbole häufig als Metaphern für Hoffnung und Fortschritt dienten.",
+          "Gleichzeitig spiegelt die lyrische Unbestimmtheit die Unsicherheit einer Generation wider, die zwischen Tradition und Moderne schwankt."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese offene Struktur erlaubt vielfältige Deutungen und hält die symbolische Ordnung bewusst in Spannung."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich direkt auf eine Textstelle beziehen.",
+          "Gute Balance zwischen Beschreibung (Was steht im Text?) und Interpretation (Welche Wirkung könnte das haben?).",
+          "Nur wenige spekulative Historien, dafür klare Belege aus dem Song."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1962 im Kontext des Nachkriegs‑Wohlstands und der beginnenden Popkultur, in der Optimismus und Fernweh häufig in leicht zugänglichen Schlagerformen verarbeitet wurden.",
+          "Die Verwendung von kosmischen Symbolen spiegelt das wachsende Interesse an Raumfahrt und dem „Weltall“ als neue Grenze wider, während die lyrische Unbestimmtheit („Meine Worte werden für Sie bald zu einer Glücksmelodie“) die Ambivalenz zwischen persönlicher Ausdrucksfreiheit und kommerzieller Erwartungshaltung des Musikmarktes offenbart."
+        ],
+        "oberflächliche_aussagen": [
+          "So bleibt der Song ein vielschichtiges Artefakt, das sowohl romantische Idealisierung als auch die Spannungen seiner Zeit in sich trägt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse (Metaphern, Wiederholungen, Bildsprache).",
+          "Erkennt die Mehrschichtigkeit des Motivs und benennt mögliche Deutungsfelder.",
+          "Erfindungen sind klar gekennzeichnet und begrenzt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1962 im Kontext des Nachkriegs‑Wohlstands und der beginnenden Popkultur, in der romantisierte Himmelssymbole als Gegenmittel zu den noch spürbaren Trümmern dienten.",
+          "Gleichzeitig reflektiert es die damalige Sehnsucht nach einer stabilen, fast mythischen Ordnung („ewige Wacht“), während die wiederholte Unbestimmtheit („Sternengold und Silbermond, die wohnen über mir“) eine latente Kritik an der Unausweichlichkeit des Fortschritts birgt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr strukturiert: jede Textstelle wird systematisch analysiert.",
+          "Erkennt die Ambivalenz zwischen Fernheit und Intimität und verknüpft sie mit dem Wortlaut.",
+          "Nur zwei spekulative Historien, die klar als Kontextangaben erkennbar sind."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild der „ewigen Wacht“ … ein typisches Stilmittel der 1960er‑Schlager, das Optimismus und Konsumkultur verknüpft.",
+          "Historisch entstand das Stück im Kontext des Nachkriegs‑Wohlstands und der wachsenden Medienkultur Westdeutschlands, wo Sterne als Symbol für Fortschritt und kosmische Ordnung dienten.",
+          "Gleichzeitig spiegelt die lyrische Unbestimmtheit … die Unsicherheit einer Generation wider, die zwischen traditioneller Romantik und moderner Entfremdung pendelt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert klar wiederkehrende Motive und deren strukturelle Funktion.",
+          "Verknüpft Textanalyse mit einer übergeordneten kulturellen Lesart (Liturgie‑ähnliche Struktur).",
+          "Weniger erfundene Fakten als bei manchen anderen Interpretationen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Modelle wiederholen zentrale Beobachtungen (Wiederholung des Refrains, Symbolik von Sternen und Mond, Bild der Glücksmelodie). Unterschiede liegen vor allem im Umfang historischer Kontextualisierung – Interpretation 4 bleibt am textnahesten, während 1,2,3,5 stärker spekulative Hintergrundinformationen einfließen.",
+    "empfehlung": "Ein Ansatz, der primär am Text bleibt, aber gezielt historische Einordnungen nur dann einbringt, wenn sie klar belegt sind, erzielt das beste Gleichgewicht. Interpretation 2 liefert die tiefste, textbasierte Analyse mit nur moderatem spekulativem Anteil und ist daher am empfehlenswertesten."
+  }
+}

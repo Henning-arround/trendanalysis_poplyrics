@@ -1,0 +1,97 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'Ich hab dich ja so lieb / Du Arschgesicht' zusammenfassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Text detailliert und identifiziert die zentrale Botschaft des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich hab dich ja so lieb / Du Arschgesicht' kann jedoch auch als ironische oder sarkastische Aussage interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zu den gesellschaftlichen und kulturellen Erwartungen an Schönheit und Attraktivität interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Ambivalenz in der Aussage und diskutiert mögliche Interpretationen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich hab dich ja so lieb / Du Arschgesicht' kann jedoch auch als ironische oder sarkastische Aussage interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zu den gesellschaftlichen und kulturellen Erwartungen an Schönheit und Attraktivität interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Ambivalenz in der Aussage und diskutiert mögliche Interpretationen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich hab dich ja so lieb / Du Arschgesicht' kann jedoch auch als ironische oder sarkastische Aussage interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zu den gesellschaftlichen und kulturellen Erwartungen an Schönheit und Attraktivität interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Ambivalenz in der Aussage und diskutiert mögliche Interpretationen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich hab dich ja so lieb / Du Arschgesicht' kann jedoch auch als ironische oder sarkastische Aussage interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zu den gesellschaftlichen und kulturellen Erwartungen an Schönheit und Attraktivität interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Ambivalenz in der Aussage und diskutiert mögliche Interpretationen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-5 sind sehr ähnlich und zeigen eine geringe Varianz in ihrer Analyse.",
+    "empfehlung": "Die erste Interpretation bietet die detaillierteste und tiefgehendste Analyse des Songs und sollte als Vorlage für weitere Interpretationen dienen."
+  }
+}

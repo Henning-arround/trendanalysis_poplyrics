@@ -1,0 +1,105 @@
+{
+  "song": "On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Metaphern wie „gold dust ’round my feet“ ... implizieren eine kritische Haltung gegenüber kommerzieller Kultur.",
+          "Historisch verortet sich das Werk in der Nachkriegszeit … als Symbol für Freiheit und soziale Durchmischung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textkonstruktion lässt offene Widersprüche … bewusst bestehen, sodass jede Interpretation nur ein Teilbild … liefert."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse von Stil, Wiederholungen und Metaphern.",
+          "Klare Textbelege werden konsequent genutzt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fragmentierung erzeugt ein kaleidoskopisches Narrativ, das sowohl jazztypische Improvisation als auch die post‑war‑amerikanische Werbeästhetik von 1957 reflektiert.",
+          "Der Text kritisiert zugleich die Konsumkultur, die das gleiche Stück gleichzeitig befeuert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen dem optimistischen Aufruf … bleibt ungelöst, ebenso wie das Verhältnis von persönlicher Liebe … zu kollektiver Ideologie."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textstellen mit einer übergeordneten Interpretation von Optimismus vs. Sehnsucht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück in der Nachkriegszeit der 1950er Jahre zu verorten, einer Phase, in der amerikanische Popkultur Optimismus als Gegenmittel zu wirtschaftlicher Unsicherheit verkörperte.",
+          "Die ironische Selbstinszenierung spiegelt die wachsende Konsumgesellschaft wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textfragmente lassen somit mehrere Deutungen zu: ein Aufruf zur positiven Selbstinszenierung, eine subtile Kritik an materialistischer Glücksdefinition …"
+        ],
+        "positive_aspekte": [
+          "Konsistente Beobachtungen zu Wiederholungen, Metaphern und der Ambivalenz von „Sunny side“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fragmentierung erzeugt ein kaleidoskopisches Narrativ, das sowohl Jazz‑Improvisation als auch post‑moderne Collage‑Techniken reflektiert.",
+          "Metaphorisch steht das „sunny side“ für ein kulturelles Ideal des amerikanischen Optimismus der 1950er Jahre, während die wiederholte Bezugnahme auf die Mutter eine patriarchale Erziehungsnorm verankert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist ein Spiegel der Nachkriegs‑USA, in dem das Streben nach Glück zugleich von Unsicherheit … durchdrungen ist."
+        ],
+        "positive_aspekte": [
+          "Klare Gegenüberstellung von optimistischen und melancholischen Elementen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich die Mischung aus Jazz‑Standard‑Referenz … mit einer gleichzeitig wachsenden Subkultur der Selbstfindung verknüpfen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz zwischen öffentlicher Positivität … bleibt ungelöst; die Textfragmente erzeugen ein Spannungsfeld … kein klares Happy‑Ende …"
+        ],
+        "positive_aspekte": [
+          "Wenig Halluzinationen, fast alle Aussagen lassen sich direkt aus dem Text ableiten.",
+          "Stilistische Beobachtungen (Wortspiele, Wiederholungen) sind präzise und textnah."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen ähnliche Grundstruktur (Einleitung, Stil‑Analyse, Kontext), jedoch variiert die Menge an erfundenen Kontextualisierungen stark. Interpretation 4 ist am konsistentesten, weil sie fast ausschließlich textbasierte Aussagen nutzt.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus stärker auf nachweisbare Textbelege gelegt werden, während historische oder kulturelle Kontextualisierungen nur dann eingebracht werden, wenn sie klar aus dem Text ableitbar sind. Interpretation 4 demonstriert das optimale Gleichgewicht zwischen Texttreue und analytischer Tiefe."
+  }
+}

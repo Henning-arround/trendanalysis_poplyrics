@@ -1,0 +1,100 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ich-Erzählerin warnt den Mann davor, dass er blind werden wird, wenn er nicht aufhört, sich selbst zu täuschen, und macht ihm klar, dass er nicht gut genug für sie ist, da er zu sehr auf sich selbst fixiert ist und nicht die notwendige Tiefe und Echtheit besitzt.",
+          "Der Song kann als eine Art Befreiungsschlag der Ich-Erzählerin interpretiert werden, die sich von den Avancen des Mannes befreit und ihre Unabhängigkeit und Selbstständigkeit betont.",
+          "Der Text ist auch eine Kritik an der Oberflächlichkeit und dem Narcissmus des Mannes, der mehr an seinem eigenen Image interessiert ist als an einer echten Beziehung."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen, die sich direkt auf den Text beziehen (z. B. „cool“, „lucky loser“, „blind“, „not good enough“), sind korrekt belegt.",
+          "Die Interpretation folgt konsequent dem narrativen Verlauf des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine feministische Hymne interpretiert werden, in der die Frau ihre Unabhängigkeit und Selbstbestimmung betont und sich nicht von den Erwartungen und Verführungsversuchen von Männern beeinflussen lässt."
+        ],
+        "positive_aspekte": [
+          "Sehr viele konkrete Textbezüge (z. B. „cool“, „lucky loser“, „not good enough“, „get yourself someone“).",
+          "Die Analyse geht über reine Zusammenfassung hinaus und erkennt die Ablehnung und Selbstbehauptung der Sprecherin."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ich-Erzählerin warnt den Mann davor, dass er blind werden wird, wenn er nicht aufhört, sich selbst zu täuschen, und macht ihm klar, dass er nicht gut genug für sie ist, da er zu sehr auf sich selbst fixiert ist und nicht die notwendige Tiefe und Echtheit besitzt.",
+          "Der Song kann als eine Art Befreiungsschlag der Ich-Erzählerin interpretiert werden, die sich von den unechten Avancen des Mannes befreit und ihre eigene Würde und Selbstachtung behauptet."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Schlüsselphrasen des Textes (z. B. „lucky loser“, „not good enough“, „get yourself someone“).",
+          "Erkennt die zentrale Botschaft der Ablehnung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ich-Erzählerin warnt den Mann davor, dass er blind werden wird, wenn er nicht aufhört, sich selbst zu täuschen, und macht ihm klar, dass er nicht gut genug für sie ist, da er zu sehr auf sich selbst fixiert ist und nicht die notwendige Tiefe und Echtheit besitzt.",
+          "Der Song kann als eine Art Befreiungsschlag der Ich-Erzählerin interpretiert werden, die sich von den unechten Avancen des Mannes befreit und ihre eigene Würde und Selbstachtung behauptet."
+        ],
+        "positive_aspekte": [
+          "Stimmt gut mit den im Text vorkommenden Motiven überein (z. B. „blind“, „not good enough“, „lucky loser“).",
+          "Bietet eine nachvollziehbare Lesart der Sprecherin als selbstbewusste Ablehnung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ich-Erzählerin warnt den Mann davor, dass er blind werden wird, wenn er nicht aufhört, sich selbst zu täuschen, und macht ihm klar, dass er nicht gut genug für sie ist, da er zu sehr auf sich selbst fixiert ist und nicht die notwendige Tiefe und Echtheit besitzt.",
+          "Der Song kann als eine Art Befreiungsschlag der Ich-Erzählerin interpretiert werden, die sich von den Avancen des Mannes befreit und ihre Unabhängigkeit und Selbstständigkeit betont.",
+          "Der Text ist auch eine Kritik an der Oberflächlichkeit und dem Narcissmus des Mannes, der mehr an seinem eigenen Image interessiert ist als an einer echten Beziehung."
+        ],
+        "positive_aspekte": [
+          "Alle textbezogenen Aussagen (z. B. „cool“, „lucky loser“, „blind“, „not good enough“, „get yourself someone“) sind korrekt belegt.",
+          "Erfasst die Grundstimmung von Ablehnung und Selbstbehauptung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2‑5 wiederholen fast identisch dieselben Punkte, wodurch die Varianz gering ist. Interpretation 1 sticht durch zusätzliche, gut begründete Analyse und weniger oberflächliche Aussagen hervor.",
+    "empfehlung": "Ein Ansatz, der konsequent Textbelege nutzt und gleichzeitig tiefere, aber klar begründete Interpretationsansätze (wie Interpretation 1) liefert, ist am effektivsten. Wiederholungen ohne neue Einsichten sollten vermieden werden."
+  }
+}

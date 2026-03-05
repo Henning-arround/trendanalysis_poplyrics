@@ -1,0 +1,99 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von \"no regrets\" und \"let’s make tonight the night\" verdeutlicht die Ideologie des Hedonismus"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zur sofortigen, ungefilterten Euphorie"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Rolle der Wiederholung im Song und ihre Wirkung auf das Publikum"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song nutzt einfache, eingängige Phrasen und ein hohes Maß an Wiederholung, um eine hypnotische Wirkung zu erzeugen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zur Gegenwart"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verbindung von individuellem Erleben und gemeinschaftlicher Identität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sprache ist dabei bewusst simpel und repetitiv"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Bild von jugendlicher Gemeinschaft und temporärer Flucht aus dem Alltag"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine detaillierte Analyse der Bildsprache und ihrer Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrenden Aufrufe zum Aufstehen, zu den Händen, die \"up and up\" gehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song porträtiert eine Nacht als temporäres Paradies"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Rolle der Musik in der Inszenierung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textelemente \"we live the best life\" und \"we’re alright\" suggerieren ein bewusstes Ignorieren von Alltagssorgen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zelebriert das flüchtige Glück einer einzigen Nacht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verbindung von Gemeinschaft und individuellem Erleben"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren und weniger auf allgemeine Aussagen"
+  }
+}

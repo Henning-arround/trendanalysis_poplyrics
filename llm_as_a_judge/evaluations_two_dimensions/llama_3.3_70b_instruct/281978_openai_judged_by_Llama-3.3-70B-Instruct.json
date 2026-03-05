@@ -1,0 +1,99 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nachkriegszeit als spezifischer Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die universelle Erfahrung von Verlust und Wiederkehr"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Textstruktur und -bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rhythm-and-Blues-Tradition als direkter Einfluss"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Unruhe des Protagonisten ohne spezifische Textbelege"
+        ],
+        "positive_aspekte": [
+          "Erkennung der hypnotischen Wirkung durch Wiederholung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Post-Krieg-Romantik als spezifischer kultureller Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die typische Post-Krieg-Romantik ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rhythm-and-Blues-Tradition als direkter Einfluss"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Direktheit ohne spezifische Textbelege"
+        ],
+        "positive_aspekte": [
+          "Erkennung der Verbindung zwischen Text und emotionaler Resonanz"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rhythm-and-Blues-Tradition als direkter Einfluss"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Direktheit als charakteristisch für Fats Domino"
+        ],
+        "positive_aspekte": [
+          "Erkennung der Verbindung zwischen Text und emotionaler Resonanz"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, wobei die ersten und dritten Interpretationen eine höhere Tiefe und geringere Halluzinationsrate aufweisen.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf textbasierten Analysen liegen, wobei die Erkennung von Metaphern, Wiederholungen und ihrer Bedeutung für die emotionale Resonanz im Vordergrund steht."
+  }
+}

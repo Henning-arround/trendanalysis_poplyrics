@@ -1,0 +1,90 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild des Tanzens fungiert als Metapher"
+        ],
+        "positive_aspekte": [
+          "Textbezogen",
+          "Analytisch tief"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das lyrische Ich strebt nach Wiederaufbau"
+        ],
+        "positive_aspekte": [
+          "Textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textbezogen",
+          "Tief analytisch"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild des Tanzens fungiert als Metapher"
+        ],
+        "positive_aspekte": [
+          "Textbezogen",
+          "Analytisch tief"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Verlangen nach einer zeitlosen Umarmung"
+        ],
+        "positive_aspekte": [
+          "Textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Hohe Konsistenz",
+    "empfehlung": "Interpretation 3 zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

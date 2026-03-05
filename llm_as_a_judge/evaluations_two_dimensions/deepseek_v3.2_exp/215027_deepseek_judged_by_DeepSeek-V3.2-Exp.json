@@ -1,0 +1,94 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein Festival der Liebe ist ein fröhlicher und optimistischer Song"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "richtige Interpretation des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein Festival der Liebe ist ein euphorischer und optimistischer Beitrag zur Hymne der Liebe",
+          "Der Song appelliert an die Zuhörer"
+        ],
+        "positive_aspekte": [
+          "Gute Zusammenfassung des Songtextes"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein Festival der Liebe ist ein fröhlicher und optimistischer Song"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "richtige Interpretation des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein Festival der Liebe ist ein fröhlicher und optimistischer Song"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "richtige Interpretation des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein Festival der Liebe ist ein fröhlicher und optimistischer Song"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "richtige Interpretation des Refrains"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr ähnlich und wiederholen sich stark",
+    "empfehlung": "Es wäre ratsam, die Interpretationen stärker zu diversifizieren und tiefer in den Text einzutauchen"
+  }
+}

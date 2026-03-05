@@ -1,0 +1,111 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrenden „Whoa“-Vokalisen fungieren als nonverbale Verstärker der Euphorie, zugleich aber als leere Signatur, die die inhaltliche Tiefe verschleiert.",
+          "Kulturell verortet sich das Stück in der australischen Pop‑ und Dance‑Szene der frühen 2010er‑Jahre, wo „best life“ und „no regrets“ zentrale Mantras einer konsumorientierten Freizeitkultur bilden.",
+          "Die Betonung des gemeinsamen Erlebens reflektiert ein post‑individualistisches Gemeinschaftsideal, das jedoch im Widerspruch zu der impliziten Kurzlebigkeit des Erlebnisses steht.",
+          "Diese Ambivalenz zwischen dauerhafter Identitätsstiftung … bleibt offen, ohne aufgelöst zu werden."
+        ],
+        "positive_aspekte": [
+          "Sehr gute Textbezüge: fast jede Aussage lässt sich klar aus den Songzeilen ableiten.",
+          "Systematische Analyse von Stilmitteln (Anaphern, Imperative, Metaphern).",
+          "Erkennt die strukturelle Ambivalenz des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz zu „JC in the place“ verankert die Gruppe in einer lokalen Szene, während die globale Sprache transkulturelle Vernetzung signalisiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Kulturell lässt sich das Werk in die Post‑2010‑Pop‑Kultur einordnen, in der Club‑ und Festival‑Rituale als Identitäts‑ und Gemeinschafts‑Rituale fungieren.",
+          "Gleichzeitig bleibt unklar, ob das „beste“ eine dauerhafte Lebensphilosophie oder ein temporäres Konsum‑Ritual darstellt – ein Widerspruch, der die Ambivalenz zwischen authentischer Freude und performativem Glücks‑Marketing offenlässt.",
+          "Diese Mehrschichtigkeit lässt den Song sowohl als Ausdruck jugendlicher Feierkultur als auch als Spiegel gesellschaftlicher Erwartungshaltungen an permanente Positivität fungieren."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse von Wiederholungen und Imperativen.",
+          "Erkennt Spannungsfelder zwischen Glückseligkeit und Flüchtigkeit.",
+          "Verknüpft Text mit möglichen kulturellen Kontexten (Post‑2010‑Pop)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext von 2012, einer Zeit intensiver Club‑ und Festival‑Kultur, reflektiert der Text den neoliberalen Idealismus, der das Hier‑und‑Jetzt als höchstes Lebensziel feiert („no regrets“, Zeile 71).",
+          "Die wiederholte Gegenüberstellung von „we“ und „you“ … lässt jedoch eine latente Spannung zwischen kollektiver Zugehörigkeit und individueller Selbstbehauptung erkennen, die den Song zugleich als Manifest und als kritische Reflexion seiner eigenen Partykultur positioniert."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Argumentation mit vielen konkreten Zeilenbezügen.",
+          "Vielschichtige Analyse von Stil, Symbolik und emotionaler Wirkung.",
+          "Erkennt und diskutiert Ambiguitäten und mögliche kritische Lesarten des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Kulturell verortet sich das Stück in der Club‑ und Festivalkultur des frühen 2010er‑Jahre, geprägt von digitaler Vernetzung und einer Konsum‑Ästhetik, die das „Jetzt“ monetarisch inszeniert.",
+          "Die Zeile … reflektiert ein post‑modernes Begehren nach Authentizität innerhalb einer stark inszenierten Partyszene.",
+          "Gleichzeitig bleibt unaufgelöst, ob das wiederholte „best“ ein genuine Selbstbestätigung oder ein ironischer Kommentar zur Oberflächlichkeit des Feierns ist – ein Spannungsfeld, das den Song offen für mehrdeutige Interpretationen lässt."
+        ],
+        "positive_aspekte": [
+          "Klare Herausarbeitung von Wiederholungen und deren rhetorischer Wirkung.",
+          "Gute Verknüpfung von Textstellen mit möglichen Bedeutungsfeldern (Hedonismus, Ambivalenz).",
+          "Erkennt die offene Frage nach Ironie vs. Aufrichtigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Gemeinschaft und das Bild des „funk“ verweisen auf afro‑amerikanische Tanztraditionen, die im australischen Kontext von Justice Crew neu verhandelt werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Kulturell lässt sich das Werk in die Post‑2010‑Pop‑Kultur einordnen, in der Club‑ und Festival‑Erfahrungen als kollektive Identitätsquelle fungieren."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge zu Wiederholungen, Imperativen und Bildsprache.",
+          "Erkennt das Spannungsfeld zwischen zeitloser Gegenwart und persönlicher Authentizität.",
+          "Verknüpft Text mit möglichen kulturellen Referenzen (Funk, afro‑amerikanische Traditionen)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass alle Interpretationen solide Textbezüge besitzen; Halluzinationen liegen zwischen 0 % und 12,5 %, wobei Interpretation 5 komplett faktentreu ist. Die Tiefen‑Scores liegen überwiegend im Bereich 4‑5, was auf konsistent substantielle Analysen hindeutet.",
+    "empfehlung": "Interpretation 5 liefert die ausgewogenste Mischung aus faktentreuer Textanalyse und tiefgehender, nuancierter Interpretation. Für zukünftige Bewertungen sollte man darauf achten, kulturelle Einordnungen klar zu begründen, um Halluzinationen zu minimieren."
+  }
+}

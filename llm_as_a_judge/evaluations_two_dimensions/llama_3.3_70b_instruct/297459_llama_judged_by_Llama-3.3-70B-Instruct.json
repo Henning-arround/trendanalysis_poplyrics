@@ -1,0 +1,101 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die transformative Kraft der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Trost und Geborgenheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'I'll come skipping like a stone'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Flucht in eine andere Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Trost und Geborgenheit",
+          "Die transformative Kraft der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung von 'shadows of love'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Angst vor dem Verlust der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Trost und Geborgenheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'I don't want to let you go'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Welt der Liebe und der Beziehungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Trost und Geborgenheit",
+          "Die transformative Kraft der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung von 'where no one goes'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die transformative Kraft der geliebten Person"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Trost und Geborgenheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Ooh, she changes people now'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Themen und Motive, aber variieren in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch wichtig, die Interpretationen kritisch zu bewerten und die Halluzinationsrate und die Tiefe zu berücksichtigen."
+  }
+}

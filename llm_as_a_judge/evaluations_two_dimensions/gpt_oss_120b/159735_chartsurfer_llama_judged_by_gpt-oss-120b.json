@@ -1,0 +1,118 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … ist ein romantischer und idyllischer Ausdruck der Sehnsucht und Liebe.",
+          "Die Textzeilen … schaffen eine Atmosphäre der Stille und Erwartung, in der die Welt stillsteht und auf den neuen Tag wartet.",
+          "Die Wiederholung dieser Zeilen … betont die Unabänderlichkeit der Liebe.",
+          "Die Naturbilder … dienen als Symbol für die Schönheit und den Frieden der Natur, der sich mit den Gefühlen des Sängers verbindet.",
+          "Die Zeile „And my heart is calling you“ wird zum Refrain, der die zentrale Botschaft des Liedes unterstreicht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend Bezugnahme auf die im Text vorkommenden Bildmotive (Rose, Dämmerung, Drossel).",
+          "Konsistente Argumentationsstruktur, die die wiederholten Zeilen des Songs nutzt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … ist ein romantischer und idyllischer Ausdruck der Sehnsucht und Liebe.",
+          "Die Textzeilen … schaffen eine Atmosphäre der Stille und Erwartung, in der die Welt stillsteht und auf den neuen Tag wartet.",
+          "Gleichzeitig wird jedoch die Aufmerksamkeit auf die innere Welt des Sängers gelenkt, in der … die Liebe und Sehnsucht nach einer bestimmten Person überwiegen.",
+          "Die Wiederholung dieser Zeilen unterstreicht die Intensität dieser Gefühle und betont die Unabänderlichkeit der Liebe.",
+          "Die Naturbilder … dienen als Symbol für die universelle und natürliche Ordnung der Dinge, in der die Liebe eine zentrale Rolle spielt.",
+          "Die Stimme des Sängers … wird zum Echo der natürlichen Geräusche, und die Liebe wird somit zu einem Teil der natürlichen Welt.",
+          "Durch diese Verbindung … wird die Liebe zu einem unvermeidlichen und notwendigen Teil des Lebens."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Bildungen beziehen sich eindeutig auf Textstellen des Songs.",
+          "Erklärt, wie die wiederholten Motive im Text miteinander verknüpft werden."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … ist ein romantischer und idyllischer Ausdruck der Sehnsucht und Liebe.",
+          "Die Textzeilen … schaffen eine friedliche und natürliche Atmosphäre, in der die Welt stillsteht und auf den neuen Tag wartet.",
+          "Die Naturbilder … dienen als Symbol für die Schönheit und Reinheit der Liebe, während die „sleepy mate“ des Vogels die Idee der Verbundenheit und des Wartens auf den geliebten Menschen verstärkt.",
+          "Die Zeile „And my heart is calling you“ wird zum Refrain, der die zentrale Botschaft des Liedes – die unstillbare Sehnsucht nach der geliebten Person – hervorhebt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die Vogel‑Metapher mit dem Motiv des Wartens, was im Text vorkommt.",
+          "Stellt die wiederholte Zeile als Refrain dar – ein nachvollziehbarer struktureller Hinweis."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … ist ein romantischer und idyllischer Ausdruck der Sehnsucht und Liebe.",
+          "Die Textzeilen … schaffen eine Atmosphäre der Stille und Erwartung, in der die Welt stillsteht und auf den neuen Tag wartet.",
+          "Gleichzeitig wird jedoch die Aufmerksamkeit auf die innere Welt des Sängers gelenkt, in der … die Liebe und Sehnsucht nach einer bestimmten Person überwiegen.",
+          "Die Wiederholung dieser Zeilen unterstreicht die Intensität dieser Gefühle und betont die Unabänderlichkeit der Liebe.",
+          "Die Naturbilder … dienen als Symbol für die universelle und natürliche Ordnung der Dinge, in der die Liebe eine zentrale Rolle spielt.",
+          "Die Stimme des Sängers … wird zum Echo der natürlichen Geräusche, und die Liebe wird somit zu einem Teil der natürlichen Welt.",
+          "Durch diese Verbindung … wird die Liebe zu einem unvermeidlichen und notwendigen Teil des Lebens."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Nutzung aller im Song vorkommenden Motive.",
+          "Klare, lineare Argumentationskette, die die Wiederholungen des Textes erklärt."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … ist ein romantischer und idyllischer Ausdruck der Sehnsucht und Liebe.",
+          "Die Textzeilen … schaffen eine Atmosphäre der Stille und Erwartung, in der die Welt stillsteht und auf den neuen Tag wartet.",
+          "Gleichzeitig wird jedoch die Aufmerksamkeit auf die innere Welt des Sängers gelenkt, in der … die Liebe und Sehnsucht nach einer bestimmten Person überwiegen.",
+          "Die Wiederholung dieser Zeilen unterstreicht die Intensität dieser Gefühle und betont die Unabänderlichkeit der Liebe.",
+          "Die Naturbilder … dienen als Symbol für die universelle und natürliche Kraft der Liebe, die auch in der Stille der Nacht und im Warten auf den neuen Tag vorhanden ist.",
+          "Die Stimme des Sängers und die musikalische Begleitung von Les Paul & Mary Ford verstärken diese emotionale Botschaft und schaffen eine intime und vertrauliche Atmosphäre, in der die Zuhörer die tiefe Sehnsucht und Liebe des Sängers nachvollziehen können."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um einen Hinweis auf die musikalische Begleitung, was im Kontext des Duos relevant ist.",
+          "Verbindet die Bildsprache des Textes mit einer konkreten emotionalen Wirkung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein sehr hohes Maß an Halluzination (nahezu 100 % erfundene Aussagen) und nur geringe inhaltliche Tiefe; die Varianz ist praktisch nicht vorhanden.",
+    "empfehlung": "Ein besserer Ansatz wäre, Aussagen klar als Textzitate zu kennzeichnen und nur solche Interpretationen zu formulieren, die unmittelbar aus den Bildmotiven des Songs ableitbar sind. Das Hinzufügen von spekulativen Emotionen, historischen Kontexten oder musikalischen Beschreibungen ohne Textbezug sollte vermieden werden, um Halluzinationen zu reduzieren und die analytische Tiefe zu erhöhen."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt damit ein eindringlicher Bericht über das Zerreißen zwischen Erinnerung, Identität und dem Versuch, trotz des Fehlens weiterzublicken."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Lied ableiten.",
+          "Klare Analyse von Metaphern (Zeitstillstand, Freienfall, Nichts).",
+          "Erkennt die Ambivalenz zwischen Verzweiflung und möglicher Akzeptanz."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik gleichzeitig einen Raum für Katharsis schafft, in dem das Unausgesprochene endlich benannt wird.",
+          "Der Song bleibt damit ein eindringlicher Bericht über Verlust, Identitätsverlust und den mühsamen Weg zurück zu einem eigenen, wiedergefundenen Selbst."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Verknüpfung von Bildsprache und emotionaler Lage des Ichs.",
+          "Gute Struktur – Einleitung, Analyse der Metaphern, Schlussfolgerung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einem inneren Dialog, in dem Trauer, Selbstverlust und die langsame Wiedergewinnung von Orientierung miteinander verwoben sind."
+        ],
+        "positive_aspekte": [
+          "Konsistente Nutzung des Songtextes als Basis für jede Interpretation.",
+          "Erklärt die Symbolik von „halbem Leben“ und „Nichts“ sehr präzise."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das wiederholte Eingeständnis … fungiert als kathartischer Akt, der das Bewusstsein für das eigene Versinken in die Leere verstärkt, während das wiederholte „Immer mehr“ die zunehmende Intensität des Verlusts betont.",
+          "So wird der Song zu einem inneren Monolog, in dem Trauer, Identitätsverlust und der verzweifelte Versuch, aus der Stagnation herauszutreten, miteinander verwoben sind."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textstellen mit psychologischen Prozessen (Katharsis, Selbstreflexion).",
+          "Gute Balance zwischen wörtlicher Analyse und interpretativer Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Am Ende gesteht das Ich offen, dass das Fehlen des Anderen das eigene Versinken bedeutet, wodurch die zentrale Botschaft entsteht: … das nur durch das Eingeständnis des Schmerzes zu überleben droht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Durcharbeitung aller Songabschnitte.",
+          "Stellt die Wechselwirkung von Verlust und Identitätskrise klar heraus."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben eng am Text; die Varianz liegt hauptsächlich im Anteil erfundener bzw. oberflächlicher Aussagen. Drei Interpretationen erreichen die Höchstpunktzahl (5) für Halluzinations‑Score, was auf sehr hohe Texttreue hinweist.",
+    "empfehlung": "Interpretationen 2, 3 und 5 kombinieren die höchste Texttreue mit substantieller Analyse. Besonders Interpretation 2 besticht durch klare Struktur und tiefgehende, aber textbasierte Deutungen, weshalb sie als insgesamt beste Bewertung gilt."
+  }
+}

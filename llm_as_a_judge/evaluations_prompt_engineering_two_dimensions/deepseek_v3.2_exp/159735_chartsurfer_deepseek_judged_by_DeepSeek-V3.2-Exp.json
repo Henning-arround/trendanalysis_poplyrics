@@ -1,0 +1,96 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1950er Jahre erlebten eine Phase des wirtschaftlichen Aufschwungs und der kulturellen Blüte"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische und optimistische Hymne"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musikindustrie war stark von der romantischen und sentimentalen Musik beeinflusst"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische und optimistische Hymne"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Welt, die auf den Sonnenaufgang wartet, ist ein Symbol für Hoffnung und Neuanfang"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der literarischen Stilmittel im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische und optimistische Hymne",
+          "Die Ambiguität des Songs liegt darin, dass die Welt auf den Sonnenaufgang wartet, aber die eigentliche Sehnsucht des Sängers nach seiner Geliebten nicht erfüllt ist"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der zentralen Botschaft des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die westliche Welt erlebte eine Phase des wirtschaftlichen Aufschwungs und der kulturellen Blüte"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische und optimistische Hymne"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

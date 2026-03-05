@@ -1,0 +1,97 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1960er Jahre waren eine Zeit der sozialen und kulturellen Veränderungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe als eine Art 'alte schwarze Magie'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die metaphorische Bedeutung von 'alte schwarze Magie' und deren Auswirkungen auf den Sänger"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Darstellung der Liebe als eine Art von Befreiung und Selbstentdeckung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe als eine Art 'alte schwarze Magie'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1960er Jahre waren eine Zeit der sozialen und kulturellen Veränderungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe als eine Art 'alte schwarze Magie'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die metaphorische Bedeutung von 'alte schwarze Magie' und deren Auswirkungen auf den Sänger"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe als eine Art 'alte schwarze Magie'",
+          "zeitlos",
+          "universell"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1960er Jahre waren eine Zeit der sozialen und kulturellen Veränderungen"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der Textstruktur und - bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die fünfte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

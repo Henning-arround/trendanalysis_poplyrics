@@ -1,0 +1,107 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Morgen wird als Symbol für Befreiung und Neubeginn dargestellt.",
+          "Die wiederholte Verheißung fungiert als mantraartiger Anker, der die Sehnsucht nach einem zukünftigen Zustand ausdrückt.",
+          "Der Übergang von Erinnerung zu Leere suggeriert das Auflösen von Selbstzweifeln.",
+          "Musikalisch, im Kontext des Jahres 1975, verknüpft Winter rockige Elemente mit einer fast spirituellen Leichtigkeit.",
+          "Die Wiederholungen erzeugen ein hypnotisches Gefühl von Zeitstillstand."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf mehrere Textstellen (z. B. „dreams of yesterday“, „nothing will be left to destroy“).",
+          "Bietet eine zusammenhängende, wenn auch spekulative, Interpretation des Gesamtkontexts."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein meditativer Bekenntnisakt, in dem das Morgen als Symbol für Befreiung und Neubeginn dient.",
+          "Die wiederholte Verheißung fungiert als mantraartiger Anker, der die Last der Vergangenheit verblassen lässt.",
+          "Der Chorus kündigt ein kollektives Gleichgewicht an, wenn beide Träume wahr werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text bleibt bewusst vage, sodass er sowohl als persönlicher Aufbruch als auch als kollektiver Aufruf gelesen werden kann."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholende Struktur des Songs und versucht, deren Bedeutung zu erklären."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Morgen wird als Symbol für Befreiung und Neubeginn dargestellt.",
+          "Die repetitive Struktur des Textes erzeugt Erwartungshaltung für das unvermeidliche Morgen.",
+          "Der Refrain verschiebt den Fokus von individueller Erlösung zu kollektiver Verwirklichung.",
+          "Musikalisch verankert die repetitive Struktur des Textes die Erwartungshaltung."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verbindet Textanalyse mit einer übergeordneten Aussage über das 1970er‑Jahre‑Manifest."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein meditativer Aufbruch aus einer Phase des Stillstands hin zu einer erwarteten Befreiung.",
+          "Das wiederholte „One day tomorrow“ fungiert als Mantra, das die Spannung zwischen Gegenwart und noch nicht eingetretenen Hoffnung hält.",
+          "Die Zeilen deuten darauf hin, dass das lyrische Ich die Gegenwart als belastend empfindet."
+        ],
+        "oberflächliche_aussagen": [
+          "Somit wird das Morgen zu einer Projektion von Hoffnung, Erneuerung und gemeinschaftlicher Verantwortung."
+        ],
+        "positive_aspekte": [
+          "Bezieht konkrete Textzeilen („Things are gonna seem worthwhile“, „I will face the world with a smile“) in die Interpretation ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein meditativer Schwur, das gegenwärtige Unbehagen in ein zukünftiges Versprechen zu verwandeln.",
+          "Die Zeile „Things are gonna seem worthwhile“ deutet auf ein vorübergehendes Gefühl von Sinnlosigkeit hin.",
+          "Der Refrain betont die Idee einer gemeinsamen Zukunft, in der individuelle Träume sich verweben."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erklärt die wiederholte Phrase „There’ll be everything for us to do“ als Hinweis auf neue Möglichkeiten."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das gleiche Grundthema, jedoch variieren sie stark im Detailgrad. Die Varianz ist hoch – einige liefern nur vage Aussagen, andere gehen detaillierter auf Textstellen ein.",
+    "empfehlung": "Interpretationen, die konkrete Textstellen nutzen und gleichzeitig eine differenzierte, aber textbasierte Analyse bieten (wie Interpretation 3), erzielen die beste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vergangenheit erscheint als eine Zeit der Unschuld und des Leichtsinns"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des Sandes, auf dem er seine Träume und Pläne aufbaute, verdeutlicht die Vergänglichkeit und Unsicherheit seiner damaligen Existenz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Themen der Jugend, der Vergänglichkeit und der Reue ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Seine Träume und Pläne waren zahlreich, aber sie basierten auf schwankendem Grund, da er sich von seinen Emotionen und Impulsen leiten ließ, ohne die Konsequenzen zu bedenken"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erinnerungen an seine Jugend sind bittersüß"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Themen der Jugend und der Reue"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Seine Jugend und sein Leben waren geprägt von einer gewissen Arroganz und einem Mangel an Selbstreflexion"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lieder, die er nicht mehr singen wird, und die Tränen, die er jetzt weint, sind ein Zeichen dafür, dass er nun die bittere Realität seiner Vergangenheit erkennen muss"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Themen der Jugend und der Reue ab"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Seine Jugend war geprägt von Sorglosigkeit und Leichtsinn, aber auch von Schmerz und Verlust, den er jedoch nicht wahrhaben wollte"
+        ],
+        "oberflächliche_aussagen": [
+          "Jetzt, im Rückblick, erkennt der Sänger, dass seine Jugend und seine Zeit davongelaufen sind"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Themen der Jugend und der Reue"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vergangenheit erscheint als eine Zeit der Unschuld und der Naivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des Sandes, auf dem er seine Träume und Pläne aufbaute, verdeutlicht die Vergänglichkeit und Unsicherheit seiner damaligen Existenz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Themen der Jugend, der Vergänglichkeit und der Reue ab"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (1 und 5) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die Interpretationen 1 und 5 sind die besten, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigen. Es ist jedoch wichtig, die Halluzinationsrate und die Tiefe jeder Interpretation sorgfältig zu bewerten, um die beste Interpretation zu finden."
+  }
+}

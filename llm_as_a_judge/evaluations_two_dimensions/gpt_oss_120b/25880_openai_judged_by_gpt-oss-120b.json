@@ -1,0 +1,107 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "In diesem Zustand der Entfremdung und des Hasses sucht der Protagonist nach einem Anker, der ihn aus der Leere befreit.",
+          "Die Wiederholung des Motivs „Augen in der Menschenmasse“ betont, dass die Begegnung nicht zufällig, sondern zielgerichtet ist; sie durchbricht die zuvor erlebte Anonymität und eröffnet einen persönlichen, intimen Raum.",
+          "Durch das Gegenüber wird das innere Feuer neu entfacht, nicht mehr als zerstörerische Flamme, sondern als lebensspendende Liebe, die tief im Inneren verankert ist.",
+          "Der Refrain, der die Wiederholung von … nutzt, fungiert als Bekenntnis, dass die ersehnte Erfüllung nicht in äußeren Umständen, sondern im inneren Erleben einer authentischen Verbindung liegt.",
+          "So wird das Lied zu einer Allegorie über das Durchbrechen von Schicksals‑ und Selbstzweifeln durch die transformative Kraft einer tiefen, unverfälschten Liebe."
+        ],
+        "positive_aspekte": [
+          "Alle wesentlichen Bildungen des Textes (Roulette‑Metapher, rollende Kugel, Hohn & Hass, das innere Feuer, die Augen in der Menge, der Nebel der Traurigkeit) werden korrekt wiedergegeben.",
+          "Die Interpretation erkennt den strukturellen Wendepunkt (die Augen) und verbindet ihn logisch mit dem Motiv der Rettung durch Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Motivs verstärkt die Idee, dass Liebe nicht nur ein Gefühl, sondern ein rettender Leitfaden ist, der aus der Dunkelheit der Hoffnungslosigkeit herausführt.",
+          "Der Nebel der Traurigkeit, der durch die Wärme der Haut des Gegenübers verdampft, illustriert die transformative Kraft der Liebe: Sie löst das erstickende Grau des inneren Schmerzes auf und schenkt Befreiung.",
+          "Der Refrain, in dem die Worte … mehrfach betont werden, fungiert als Bekenntnis, dass die Begegnung nicht nur äußere Rettung, sondern auch eine innere Wiederentdeckung des eigenen, unverfälschten Selbst bedeutet.",
+          "So wird das Lied zu einer Allegorie über das Durchbrechen des Schicksals durch authentische zwischenmenschliche Verbindung, die das innere Feuer neu entzündet und den Protagonisten aus der existenziellen Leere befreit."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Zuordnung der Textpassagen zu den jeweiligen Symbolen (Roulette, Kugel, Feuer, Augen, Nebel).",
+          "Klare Struktur: Einführung → Konflikt → Wendepunkt → Auflösung, was die Analyse nachvollziehbar macht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain verstärkt die Idee, dass Liebe nicht nur ein flüchtiges Gefühl, sondern ein tief verwurzeltes, heilendes Element ist, das das innere Feuer neu entzündet.",
+          "Insgesamt schildert Westernhagen einen Übergang von existenzieller Verlorenheit zu einer befreienden Erkenntnis, dass ein einziger, intensiver Blick – ein Akt der Anerkennung und Verbundenheit – das Schicksal umkehren und das innere Dunkel in Licht verwandeln kann."
+        ],
+        "positive_aspekte": [
+          "Alle Bildsprache des Originals wird exakt wiedergegeben und logisch verknüpft.",
+          "Die Interpretation bleibt textnah, vermeidet unnötige Spekulationen und liefert dennoch eine tiefgehende Deutung des Motivs „Augen als Leitstern“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von kaltem Schicksal und wärmender, menschlicher Nähe erzeugt einen Kontrast, der die transformative Kraft der Liebe betont:",
+          "Die wiederholte Betonung von „Liebe tief in mir“ suggeriert, dass die wahre Liebe nicht nur extern, sondern zugleich ein wiedererwecktes inneres Feuer ist, das durch die Anerkennung und das Vertrauen des Gegenübers neu entfacht wird.",
+          "Der Song schließt im Kreis, indem er die Augen erneut als Leitmotiv nutzt, um zu verdeutlichen, dass die Rettung aus der inneren Leere nicht durch äußere Umstände, sondern durch die authentische Verbindung zu einem anderen Menschen geschieht, die das eigene Selbst wieder mit Sinn und Wärme erfüllt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Analyse des Spannungsbogens zwischen Schicksal und menschlicher Rettung.",
+          "Gute Verknüpfung von Bildsprache und emotionaler Entwicklung des Erzählers."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Motivs verstärkt die Idee, dass Liebe nicht nur ein Gefühl, sondern ein rettender Leitfaden ist, der aus der Dunkelheit der Hoffnungslosigkeit herausführt.",
+          "Der Nebel der Traurigkeit, der durch die Wärme der Haut des Gegenübers verdampft, illustriert die transformative Kraft der Liebe: Sie löst das erstickende Grau des inneren Schmerzes auf und schenkt Befreiung.",
+          "Der Sprecher erkennt, dass er nun fähig ist, in diese Augen zu blicken, was zugleich ein Akt des Vertrauens und der Selbstoffenbarung ist.",
+          "Die abschließende Wiederholung von … betont, dass die Begegnung nicht nur äußere Rettung, sondern auch eine innere Wiederentdeckung des eigenen, unverfälschten Selbst bedeutet."
+        ],
+        "positive_aspekte": [
+          "Sehr gründliche Aufschlüsselung aller zentralen Metaphern des Songs.",
+          "Klare Herausarbeitung des Wendepunkts und seiner Bedeutung für die emotionale Wende des Protagonisten."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben textnah und wiederholen keine widersprüchlichen Aussagen; die Varianz liegt hauptsächlich im Grad der analytischen Tiefe.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance aus faktentreuer Textwiedergabe und tiefgehender, aber präziser Analyse, ohne unnötige Allgemeinplätze. Für zukünftige Modelle sollte der Fokus auf solche strukturierten, textbasierten Analysen gelegt werden."
+  }
+}

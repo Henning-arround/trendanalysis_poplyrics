@@ -1,0 +1,128 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer affektiven Dimension, die durch die Verwendung von Wiederholungen und einfachen, aber effektiven Melodien erzeugt wird.",
+          "Im kulturellen und historischen Kontext kann der Song als eine Reaktion auf die zunehmende Komplexität und Unsicherheit der modernen Welt gesehen werden, in der die Suche nach Liebe und Verbindung eine wichtige Rolle spielt."
+        ],
+        "oberflächliche_aussagen": [
+          "Eine nähere Analyse des Songs offenbart jedoch eine tiefere Bedeutungsebene.",
+          "Diese Darstellung der Liebe als universelle Kraft wirft jedoch auch Fragen nach der Spezifität und Einzigartigkeit der geliebten Person auf, was eine gewisse Spannung im Text erzeugt.",
+          "Der Song kann als eine Art Hymne an die Liebe interpretiert werden, die die Zuhörer*innen zu einer positiven und optimistischen Sicht auf die Welt einladen soll.",
+          "Insgesamt zeigt sich, dass der Song ... eine Vielzahl von Bedeutungsebenen und symbolischen Ordnungen aufweist, die eine tiefergehende Interpretation erforderlich machen."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (Metapher Sonne, Wiederholungen von „Love is…“).",
+          "Versucht, Spannungen zwischen universeller und individueller Liebe zu benennen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer affektiven Dimension, die durch die Verwendung von Wiederholungen und einfachen, aber effektiven Melodien erreicht wird.",
+          "Der Song kann als eine Art Hymne auf die Liebe interpretiert werden, die in einem kulturellen, historischen und gesellschaftlichen Kontext zu sehen ist, in dem Liebe und Beziehungen eine zentrale Rolle spielen.",
+          "Die Tatsache, dass der Song 2019 veröffentlicht wurde, lässt darauf schließen, dass er in einer Zeit entstand, in der soziale Medien und die digitale Kommunikation die Art und Weise, wie wir uns verlieben und Beziehungen führen, stark beeinflusst haben."
+        ],
+        "oberflächliche_aussagen": [
+          "Eine nähere Analyse des Songs offenbart jedoch eine tiefere Bedeutungsebene.",
+          "Die Sonne als Symbol für Leben, Wärme und Licht unterstreicht die Bedeutung der Liebe als fundamentale menschliche Erfahrung.",
+          "Insgesamt zeigt \"Number One\" von Laid Back eine komplexe und vielschichtige Auseinandersetzung mit dem Thema Liebe, die sowohl individuelle als auch universelle Aspekte umfasst."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Ambivalenz zwischen persönlicher Anrede und universeller Liebesmetapher.",
+          "Verknüpft Textstellen zu einer kohärenten Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Laid Back ist eine dänische Band, die in den 1970er Jahren gegründet wurde und für ihre entspannte, Reggae-inspirierte Musik bekannt ist.",
+          "Die Veröffentlichung eines neuen Songs im Jahr 2019 kann als eine Art Revival oder Rückkehr zur Musik der Vergangenheit interpretiert werden.",
+          "Der Song \"Number One\" selbst kann als eine Art Hymne an die Liebe verstanden werden, die in einer Zeit, in der oft von Krisen und Herausforderungen gesprochen wird, eine positive und aufbauende Botschaft vermittelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Eine nähere Analyse des Songs offenbart jedoch eine tiefere Bedeutungsebene.",
+          "Diese Metapher unterstreicht die lebensspendende und positive Kraft der Liebe.",
+          "Diese Aussagen erzeugen eine emotionale Wirkung, die durch die affirmative und optimistische Grundstimmung des Songs noch verstärkt wird.",
+          "Der Song kann auch im kulturellen und historischen Kontext betrachtet werden.",
+          "Insgesamt zeigt sich, dass der Song ... eine Vielzahl von Bedeutungsebenen und symbolischen Ordnungen aufweist, die ihn zu einem vielschichtigen und interpretationsfähigen Text machen."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge zu Metaphern (Sonne, Charts).",
+          "Ergänzt Hintergrundinfos zur Band (auch wenn nicht im Text enthalten)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Laid Back ist eine dänische Band, die in den 1970er Jahren gegründet wurde und für ihre entspannte, Reggae-inspirierte Musik bekannt ist.",
+          "Die Veröffentlichung eines neuen Songs im Jahr 2019 kann als eine Art Revival oder Rückkehr zur Musik der Vergangenheit interpretiert werden.",
+          "Der Song \"Number One\" selbst kann als eine Art Hymne an die Liebe verstanden werden, die in Zeiten von Unsicherheit und Komplexität eine positive und verbindende Kraft darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "Eine nähere Analyse des Songs offenbart jedoch eine tiefere Bedeutungsebene.",
+          "Diese Metapher unterstreicht die lebensspendende und positive Kraft der Liebe.",
+          "Diese Aussagen erzeugen eine emotionale Wirkung, die durch die affirmative und optimistische Grundstimmung des Songs noch verstärkt wird.",
+          "Der Song kann auch im kulturellen und historischen Kontext betrachtet werden.",
+          "Insgesamt zeigt sich, dass der Song ... eine Vielzahl von Bedeutungsebenen und symbolischen Ordnungen aufweist, die ihn zu einem vielschichtigen und interpretationsoffenen Text machen."
+        ],
+        "positive_aspekte": [
+          "Klare Analyse der wiederholten Sonnenmetapher.",
+          "Verknüpft Text mit möglichem kulturellem Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Wiederholungen und einfachen, aber effektiven Melodien erzeugt.",
+          "Im kulturellen und historischen Kontext kann der Song als eine Art Hommage an die traditionelle Liebeslyrik interpretiert werden, die jedoch durch die Verwendung moderner Elemente wie der Chart-Metapher eine zeitgenössische Note erhält."
+        ],
+        "oberflächliche_aussagen": [
+          "Eine nähere Analyse des Songs offenbart jedoch eine tiefere Bedeutungsebene.",
+          "Diese Darstellung der Liebe als eine Art kosmische Kraft unterstreicht ihre Bedeutung und Wichtigkeit.",
+          "Die affektive Dimension des Songs kann als eine Art emotionaler Wärme und Zuneigung beschrieben werden, die durch die Verwendung von positiven Begriffen wie \"Love\" und \"Number One\" erzeugt wird.",
+          "Insgesamt kann \"Number One\" als ein Song interpretiert werden, der die universelle Kraft der Liebe und ihre Bedeutung im Leben des Einzelnen hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Stetige Bezugnahme auf Textzitate (Sonne, Charts).",
+          "Versucht, die kosmische Dimension der Liebe zu betonen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundbeobachtungen (Metapher Sonne, Chart‑Vergleich). Die Varianz liegt hauptsächlich in den zusätzlichen, teils spekulativen Kontextualisierungen, wodurch die inhaltliche Konsistenz hoch, aber die Originalität gering ist.",
+    "empfehlung": "Interpretation 5 liefert die tiefgründigste, textbasierte Analyse und balanciert gut zwischen faktentreuer Beobachtung und weiterführender Interpretation, ohne zu stark in unbelegte Spekulationen abzudriften. Für zukünftige Aufgaben sollten Modelle darauf achten, spekulative Kontextualisierungen zu minimieren und stattdessen mehr differenzierte, textgestützte Ambivalenzen zu entwickeln."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird die Liebe selbst zu einer Art schwarzer Magie, die den Protagonisten in einen endlosen, aber begehrenswerten Tanz aus Verlangen und Hingabe zieht."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Textbezüge (Metaphern, Aufzug, Feuer, Schicksal).",
+          "Klare Strukturierung der Bildhaftigkeit des Songs.",
+          "Nur ein einziger oberflächlicher Schluss‑Satz, sonst reine Textanalyse."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird Liebe hier als eine Art dunkle Magie porträtiert, die den Protagonisten zugleich verführt, berauscht und in einen endlosen, spiralförmigen Rausch zieht."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Argumentation.",
+          "Gute Verknüpfung von Bildsprache (Eisfinger, Aufzug, Blatt).",
+          "Wenig Wiederholungen, klare analytische Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Schluss betont, dass diese „schwarze Magie“ letztlich die Liebe selbst ist, ein Zauber, der das Leben des Erzählers bestimmt und ihn in einen süßen, aber unaufhaltsamen Wirbel zieht."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich direkt aus dem Songtext ableiten.",
+          "Systematischer Durchlauf aller Bildmotive (Magie, Eisfinger, Aufzug, Feuer, Schicksal).",
+          "Keine spekulativen biografischen oder historischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, detailreiche Analyse jedes Bildes im Text.",
+          "Verknüpft Metaphern mit konkreten Textstellen (z. B. „so gut webt“, „runter‑ und rundgehen“).",
+          "Stilistisch variierte Formulierungen, die dennoch immer textgebunden bleiben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain, in dem das „alte schwarze Magie‑Gefühl“ erneut betont wird, schließt den Kreis: Liebe wird hier als ein Zauber dargestellt, der zugleich verführerisch, gefährlich und unvermeidlich ist."
+        ],
+        "positive_aspekte": [
+          "Präzise Zuordnung aller lyrischen Bilder zum jeweiligen Symbolgehalt.",
+          "Klare Unterscheidung von Gefahr und Verlangen, gestützt durch Zitate.",
+          "Keine erfundenen biografischen oder historischen Kontextualisierungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben stark textgebunden und wiederholen keine rein oberflächlichen Phrasen; Unterschiede liegen nur im Grad der abschließenden Generalisierung.",
+    "empfehlung": "Interpretation 2 liefert die ausgewogenste Mischung aus faktentreuer Textbindung und tiefgehender, differenzierter Analyse. Für zukünftige Bewertungen sollte man darauf achten, dass Schluss‑Sätze nicht zu allgemein werden, um den Tiefen‑Score zu maximieren."
+  }
+}

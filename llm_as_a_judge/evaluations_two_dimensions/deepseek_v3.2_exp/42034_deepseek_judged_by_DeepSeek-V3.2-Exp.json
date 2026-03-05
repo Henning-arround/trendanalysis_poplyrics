@@ -1,0 +1,99 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'There is no other day' unterstreicht die Bedeutungslosigkeit der Zeit und die Vergänglichkeit von Emilys Erfahrungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Welt von Surrealität und Traum, in der die Protagonistin Emily nach Freiheit und Selbstentdeckung sucht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den Songtext und liefert eine plausible Erklärung für die Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Kritik an der Gesellschaft und ihren Auswirkungen auf die individuelle Freiheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bilder von Emily, die durch Bäume schaut, in Trauer versinkt und in einem Kleid, das den Boden berührt, auf einem Fluss schwimmt, unterstreichen ihre Verletzlichkeit und ihre Sehnsucht nach Freiheit und Unbeschwertheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine klare und nachvollziehbare Analyse der Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Float on a river / Forever and ever, Emily' kann als Sehnsucht nach Freiheit und Ewigkeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt 'See Emily Play' eine Welt, in der die Grenzen zwischen Realität und Fantasie verwischen und die Suche nach Identität und Sinn zum Spiel wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Erklärung für die Symbolik und berücksichtigt den Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Kritik an der Gesellschaft und ihren Auswirkungen auf die individuelle Freiheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bilder von Emily, die durch Bäume schaut, in Trauer versinkt und in einem Kleid, das den Boden berührt, auf einem Fluss schwimmt, unterstreichen ihre Verletzlichkeit und ihre Sehnsucht nach Freiheit und Unbeschwertheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine klare und nachvollziehbare Analyse der Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains und der Zeile 'There is no other day' unterstreicht die Zyklik von Emilys Erfahrungen und die Unfähigkeit, aus ihrer Situation auszubrechen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als eine Kritik an der Oberflächlichkeit und der Leere der modernen Gesellschaft interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Erklärung für die Symbolik und berücksichtigt den Songtext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Symbolik und der Themen des Songs.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

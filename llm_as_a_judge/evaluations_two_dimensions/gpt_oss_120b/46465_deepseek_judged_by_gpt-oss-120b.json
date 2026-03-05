@@ -1,0 +1,92 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Natur interpretiert werden, die nach gegenseitiger Befriedigung und Anerkennung strebt."
+        ],
+        "positive_aspekte": [
+          "Alle Kernaussagen lassen sich klar aus dem vorliegenden Text ableiten.",
+          "Erweiterte Analyse von Wiederholungen und emotionaler Intensität.",
+          "Konsistente Argumentationskette ohne unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Saubere, textbasierte Interpretation ohne spekulative Ausschmückungen.",
+          "Klare Struktur und Wiederholung der zentralen Idee (gegenseitige Unterstützung)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Zusätzliche Analyse des emotionalen Tons (Verzweiflung, Frustration).",
+          "Verknüpfung von Textstellen mit einer differenzierten Lesart der Beziehungssicherheit.",
+          "Keine vagen oder generischen Aussagen, alles aus dem Text abgeleitet."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Natur interpretiert werden, die nach gegenseitiger Befriedigung und Anerkennung strebt."
+        ],
+        "positive_aspekte": [
+          "Erweiterte Interpretation, die Langeweile, Routine und das Streben nach neuen Erfahrungen einbezieht.",
+          "Beobachtung der Wiederholung von Refrains und Ausrufen als Hinweis auf emotionale Intensität."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Natur interpretiert werden, die nach gegenseitiger Befriedigung und Anerkennung strebt."
+        ],
+        "positive_aspekte": [
+          "Umfassende, textbasierte Analyse mit Hinweisen auf Beziehungsdynamik und emotionale Dringlichkeit.",
+          "Gute Balance zwischen konkreter Textbeobachtung und weiterführender Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen im Wesentlichen dieselbe Grundthese (gegenseitiger Tausch/Beziehung). Unterschiede liegen in der Tiefe der Analyse und dem Vorhandensein vager Metaphern. Die Varianz ist gering; nur die erste Interpretation ist etwas oberflächlicher.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance aus faktentreuer Textbezug und analytischer Tiefe, ohne unnötige vage Metaphern. Für zukünftige Bewertungen sollte darauf geachtet werden, vage Generalisierungen zu vermeiden und jede Aussage klar aus dem Text abzuleiten."
+  }
+}

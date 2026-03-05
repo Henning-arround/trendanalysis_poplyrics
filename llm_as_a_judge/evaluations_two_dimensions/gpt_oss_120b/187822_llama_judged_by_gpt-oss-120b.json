@@ -1,0 +1,102 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Es wird angedeutet, dass die Ex‑Partnerin von Anfang an gewusst haben könnte, dass die Beziehung nicht von Dauer sein würde, was den Sänger noch mehr verletzt."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche direkte Bezüge zu einzelnen Zeilen des Textes (z. B. „You said 'I love you / But I can't be your one and only girl'“, „I remember all the sleepless nights we spent“).",
+          "Klare Struktur: jede Textstelle wird erklärt und in den Gesamtkontext eingebettet.",
+          "Wenig vage Allgemeinplätze, die Analyse bleibt eng am Wortlaut."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Es wird angedeutet, dass die Ex‑Partnerin von Anfang an gewusst haben könnte, dass die Beziehung nicht von Dauer sein würde, was den Sänger noch mehr verletzt."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah, fast jede Strophe wird mit einer kurzen Interpretation versehen.",
+          "Erkennt die Ambivalenz zwischen „love you“ und dem Unvermögen, die exklusive Beziehung einzugehen.",
+          "Verknüpft wiederholte Refrain‑Zeilen sinnvoll mit den vorherigen Beobachtungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Es wird deutlich, dass die Beziehung von Anfang an von der anderen Person manipuliert und kontrolliert wurde, wie die Zeile ... nahelegt.",
+          "Der Sänger war offensichtlich blind für die wahren Absichten der anderen Person und fiel ... was seine Verletzung und Enttäuschung noch verstärkt.",
+          "Die Erinnerung an die gemeinsam verbrachte Zeit und die Frage, ob die andere Person bereits von Anfang an geplant hatte, die Beziehung zu beenden, quälen den Sänger und lassen ihn nicht los."
+        ],
+        "positive_aspekte": [
+          "Gute Nutzung von Schlüsselzeilen („I still, wake up…“, „Did you know the ending…“).",
+          "Erklärt die wiederholte Frage nach dem „Breaking my heart“ als Ausdruck von Verwirrung und Schmerz."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Es wird deutlich, dass die Beziehung von Anfang an von der anderen Person manipuliert und kontrolliert wurde, wie die Zeile ... nahelegt.",
+          "Der Sänger war offensichtlich blind für die wahren Absichten der anderen Person und fiel ... was seine Verletzung und Enttäuschung noch verstärkt.",
+          "Die Erinnerung an die gemeinsam verbrachte Zeit und die Frage, ob die andere Person bereits von Anfang an geplant hatte, die Beziehung zu beenden, quälen den Sänger und lassen ihn nicht los."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textpassagen mit der zentralen Thematik des Herzschmerzes.",
+          "Erkennt die wiederholte rhetorische Frage als zentrales Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Es wird deutlich, dass die Beziehung von Anfang an von der anderen Person manipuliert und kontrolliert wurde, wie die Zeile ... nahelegt.",
+          "Der Sänger war offensichtlich blind für die wahren Absichten der anderen Person und fiel ... was seine Verletzung und Enttäuschung noch verstärkt.",
+          "Die Erinnerung an die gemeinsam verbrachte Zeit und die Frage, ob die andere Person bereits von Anfang an geplant hatte, die Beziehung zu beenden, quälen den Sänger und lassen ihn nicht los."
+        ],
+        "positive_aspekte": [
+          "Starke Betonung der emotionalen Wiederholung im Refrain.",
+          "Verknüpft die Zeile „completely under your spell“ mit dem Gesamtthema des Machtverlustes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Variation liegt im Detailgrad. Die Scores zeigen, dass keine Halluzinationen vorkommen, aber die Tiefe schwankt zwischen oberflächlicher Wiederholung (Score 3) und tieferer, textnaher Analyse (Score 4).",
+    "empfehlung": "Interpretationen, die jede Textzeile konkret benennen und deren mögliche Mehrdeutigkeit diskutieren (wie Interpretation 2 und 4), erzielen die höchste Tiefe bei voller Faktentreue. Künftige Modelle sollten darauf achten, vage Behauptungen zu vermeiden und stattdessen jede Aussage klar auf den Wortlaut zu beziehen."
+  }
+}

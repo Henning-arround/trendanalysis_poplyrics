@@ -1,0 +1,94 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Emotionale und expressive Darstellung von Verzweiflung, Sehnsucht und körperlicher Erschöpfung"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Identifizierung von wiederkehrenden Motiven"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Emotionale und expressive Darstellung von Verzweiflung, Sehnsucht und körperlicher Erschöpfung"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Identifizierung von wiederkehrenden Motiven"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Dummies in a showcase' symbolisieren die Leere und die Unwirklichkeit der Welt um ihn herum"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Tiefere Analyse der Symbolik",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Puppen in der Auslage, die zum Leben erwachen, symbolisieren die Art und Weise, wie die Realität für den Protagonisten verzerrt wird"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Textelemente",
+          "Berücksichtigung von Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Metapher für die Suche nach Liebe und Verbundenheit interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textbezogene Analyse",
+          "Tiefere Interpretation der Motive und Symbole"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die fünfte Interpretation ist die tiefste und textbezogenste, aber auch die anderen Interpretationen liefern wertvolle Einsichten in den Song"
+  }
+}

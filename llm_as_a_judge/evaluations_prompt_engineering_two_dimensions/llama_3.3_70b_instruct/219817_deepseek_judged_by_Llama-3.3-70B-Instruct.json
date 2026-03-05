@@ -1,0 +1,99 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich war da, wo ihr noch nie wart' wird als Symbol für die eigene Überlegenheit interpretiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint eine Darstellung von Macht, Überlegenheit und einer gewissen Lässigkeit gegenüber Kritik und Neid zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel und ihre Bedeutung im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'Pyramidengruß' wird als Symbol für die Zerstörung von Hierarchien interpretiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint eine Mischung aus Selbstbehauptung, Provokation und einer gewissen Verachtung gegenüber anderen zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Rolle von Luxusmarken im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Nennung von Luxusmarken dient möglicherweise als Statussymbol und Ausdruck von Reichtum und Erfolg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung und affektive Dimension des Songs sind stark von Aggression, Verachtung und einer gewissen Lüsternheit geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Konstruktion von Identität, Macht und Überlegenheit im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Ich fick' jeden, den du liebst' erzeugen eine Atmosphäre der Bedrohung und des Hasses"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint eine Mischung aus Selbstbehauptung, Provokation und einer gewissen Verachtung gegenüber anderen zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung und affektive Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'Pyramidengruß' wird als Symbol für die Zerstörung von Hierarchien interpretiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint eine Mischung aus Selbstbehauptung, Provokation und einer gewissen Verachtung gegenüber anderen zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Rolle von Luxusmarken im Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt und weniger halluziniert als die anderen Interpretationen"
+  }
+}

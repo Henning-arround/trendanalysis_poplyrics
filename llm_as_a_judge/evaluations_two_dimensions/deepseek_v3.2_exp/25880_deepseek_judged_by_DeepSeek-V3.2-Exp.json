@@ -1,0 +1,93 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Augen der geliebten Person"
+        ],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft der Liebe"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Augen symbolisieren die Hoffnung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach echter Liebe"
+        ],
+        "positive_aspekte": [
+          "Einige textbezogene Aussagen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft der Liebe"
+        ],
+        "positive_aspekte": [
+          "Sehr textbezogene Analyse, tiefgehende Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe, die er in diesen Augen sieht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft der Liebe"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Tiefgehende, textbezogene Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Einige Variationen in der Qualität",
+    "empfehlung": "Modell sollte Fokus auf textbezogene Analysen legen"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Arschgesicht\" von Udo Lindenberg aus dem Jahr 1996 ist eine vielschichtige und ambige Auseinandersetzung mit Schönheit, Selbstakzeptanz und gesellschaftlichen Erwartungen.",
+          "Insgesamt zeigt der Song ... eine komplexe Auseinandersetzung ... die nicht eindeutig aufgelöst werden kann."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem vorliegenden Text ableiten – keine biografischen oder genre‑bezogenen Spekulationen.",
+          "Die Analyse ist durchgehend textbezogen, verweist auf konkrete Zeilen und interpretiert deren Bedeutung.",
+          "Trotz Wiederholungen bleibt die Interpretation substantiell und bietet mehrere Blickwinkel (Ironie, Kritik, Ambivalenz)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Arschgesicht\" von Udo Lindenberg aus dem Jahr 1996 ist eine vielschichtige und ambige Auseinandersetzung mit Schönheit, Selbstakzeptanz und gesellschaftlichen Erwartungen.",
+          "Insgesamt zeigt \"Arschgesicht\" eine komplexe Auseinandersetzung ... regt zur Reflexion über diese Themen an."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Verweise auf Textstellen (Zeilennummern) und deren Interpretation.",
+          "Erklärt einzelne Stilmittel (Metaphern, Symbolik) und verknüpft sie mit der übergeordneten Thematik.",
+          "Bietet eine klare Argumentationskette von Beobachtung zu Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Arschgesicht\" von Udo Lindenberg aus dem Jahr 1996 ist eine vielschichtige und ambige Auseinandersetzung mit Schönheit, Selbstakzeptanz und gesellschaftlichen Erwartungen.",
+          "Insgesamt zeigt der Song ... eine komplexe Auseinandersetzung ... die nicht eindeutig aufgelöst werden kann."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, keine spekulativen biografischen Angaben.",
+          "Erkennt und erklärt die Ambivalenz zwischen Spott und Zuneigung.",
+          "Verknüpft die wiederholte Zeile über die Vergänglichkeit von Schönheit mit einer tieferen Aussage über Beständigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Arschgesicht\" von Udo Lindenberg aus dem Jahr 1996 ist eine vielschichtige und ambige Auseinandersetzung mit Schönheit, Selbstakzeptanz und gesellschaftlichen Erwartungen.",
+          "Insgesamt zeigt der Song ... eine komplexe Auseinandersetzung ... die nicht eindeutig aufgelöst werden kann."
+        ],
+        "positive_aspekte": [
+          "Verweist konkret auf Zeilen und interpretiert deren ironischen bzw. sarkastischen Gehalt.",
+          "Erklärt die Bildsprache (Pflaume, Experiment) und deren kritische Funktion.",
+          "Betont die Ambivalenz der Haltung des Sängers gegenüber Schönheit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Arschgesicht\" von Udo Lindenberg aus dem Jahr 1996 ist eine vielschichtige und ambige Auseinandersetzung mit Schönheit, Selbstakzeptanz und gesellschaftlichen Erwartungen.",
+          "Insgesamt zeigt der Song ... eine komplexe Auseinandersetzung ... die nicht eindeutig aufgelöst werden kann."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse ohne spekulative Ergänzungen.",
+          "Identifiziert und diskutiert zentrale Motive (Pflaume, Experiment, Schönheit vs. Arschgesicht).",
+          "Stellt die kritische Haltung gegenüber gesellschaftlichen Schönheitsnormen heraus."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Alle Interpretationen erreichen identische Höchstwerte bei Halluzination (5) und hohe Tiefe (4). Damit gibt es keinen eindeutigen Spitzenreiter – sie sind gleichwertig.",
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die fünf Modelle liefern nahezu identische Analysen; die Varianz ist minimal. Alle wiederholen dieselben Kernpunkte, was die Bewertung als konsistent, aber wenig diversifiziert erscheinen lässt.",
+    "empfehlung": "Für zukünftige Aufgaben sollte das Modell ermutigt werden, mehr differenzierte Perspektiven (z. B. historische Einordnung, musikalische Analyse) zu integrieren, solange diese klar aus dem Text ableitbar sind. Das erhöht die analytische Tiefe, ohne die Faktentreue zu gefährden."
+  }
+}

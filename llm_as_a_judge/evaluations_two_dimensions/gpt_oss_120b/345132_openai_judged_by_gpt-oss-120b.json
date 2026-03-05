@@ -1,0 +1,99 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Letztlich schildert das Lied einen endlosen Marsch durch Kälte und Verzweiflung, bei dem das Aufgeben gleichbedeutend wäre mit dem völligen Verlust der eigenen Substanz."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analysen (Regen, Rücken‑Metapher, „baby“, Dummies).",
+          "Klare Interpretation der wiederholten Motive als Metaphern für Erschöpfung und Selbstaufopferung.",
+          "Wenig bis keine spekulativen Biografie‑ oder Genre‑Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird der Song zu einem eindringlichen Porträt von endloser, fast ritueller Selbstüberwindung im Angesicht einer unerreichbaren Liebe."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Auslegung der Bildsprache (Regen, kalter Schauer, „back ain’t got no bone“).",
+          "Verknüpfung von Refrain‑Elementen (Doctor, Somebody help me) mit dem Motiv der Selbstheilung.",
+          "Keine unbelegten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Letztlich schildert das Stück den Kampf eines Menschen, der trotz aller Anstrengungen das Gefühl hat, seine Stütze verloren zu haben, und dessen einzige Rettung in der Anerkennung und Unterstützung von außen liegen könnte."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung aller wiederholten Textpassagen mit dem Bild der Erschöpfung.",
+          "Klare Herausarbeitung des Mantras‑Charakters von „if it takes me all night long…“.",
+          "Keine spekulativen Angaben zu Genre, Produktion oder Tom Jones‘ Biografie."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird der Song zu einer Parabel über das Durchhalten in einer kalten, gleichgültigen Welt, in der das Weiterziehen das einzige Mittel ist, um die eigene Substanz – sei es körperlich oder seelisch – nicht vollständig zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Ausführliche Analyse der Metapher „Rücken ohne Knochen“ als Bild für strukturellen Zusammenbruch.",
+          "Verbindung von Stadt‑ und Dummy‑Motiven mit gesellschaftlicher Oberflächlichkeit.",
+          "Vollständig textbasierte Interpretation ohne erfundene Kontextualisierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch diese Bildsprache wird ein Zustand beschrieben, in dem das Weitergehen zur einzigen Möglichkeit wird, das eigene Zerfallen zu überleben."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung aller zentralen Bildmotive (Regen, kalter Wind, Rücken‑Metapher, Dummies).",
+          "Gute Balance zwischen konkreter Textanalyse und Offenheit für mehrdeutige Bedeutungen.",
+          "Keine unbelegten Annahmen über den Künstler oder das musikalische Genre."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen eine konsistente, textbasierte Herangehensweise mit kaum erfundenen Aussagen; die Varianz liegt nur im Stil der Formulierung, nicht in der Substanz.",
+    "empfehlung": "Die Modelle liefern insgesamt sehr faktentreue Interpretationen. Für eine noch höhere Tiefe könnte man darauf achten, die wenigen oberflächlichen Zusammenfassungen zu reduzieren und stattdessen weitere differenzierte Textbelege einzubringen."
+  }
+}

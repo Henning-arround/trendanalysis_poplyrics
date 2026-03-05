@@ -1,0 +1,130 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Gegenüberstellung von Zerbrechlichkeit ... und unerschütterlicher innerer Kraft ... suggeriert, dass das lyrische Ich trotz einer möglichen Trennung nicht bereit ist, seine Identität zu verlieren.",
+          "Der Refrain ... betont die Endlichkeit ... während das wiederholte „then we'll do it one more time“ den Wunsch nach einem letzten, vielleicht verzweifelten Versuch ausdrückt, das Vergangene zu verlängern.",
+          "Die Zeile „You can shut the lights but you can't take the sunshine from me“ verstärkt das Motiv des inneren Lichts ...",
+          "Durch die Kombination von elektronischen Beats und einer fast hymnischen Gesangsführung entsteht ein Spannungsbogen, der das Hörerlebnis zwischen Euphorie und melancholischer Reflexion balanciert.",
+          "Der Song lässt sich als Hymne an die Resilienz interpretieren ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … verknüpft … tanzbare Leichtigkeit … tiefe emotionale Ambivalenz … Spannungsfeld zwischen Abschied und Durchhaltevermögen auslotet.",
+          "Das Bild des Tanzens bis zum Morgengrauen fungiert dabei als Metapher für ein temporäres, aber intensives Festhalten an dem Moment …"
+        ],
+        "positive_aspekte": [
+          "Klare Bezugnahme auf konkrete Textstellen (z. B. Refrain‑Phrasen).",
+          "Versucht, ein zentrales Motiv (Resilienz) zu benennen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das lyrische Ich erkennt die Möglichkeit des Scheiterns, weigert sich jedoch, sich von ihr definieren zu lassen.",
+          "Diese Wiederholung ist kein bloßes Festhalten an der Vergangenheit, sondern ein bewusster Akt, das Vergängliche zu transzendieren …",
+          "Die wiederholte Bitte um Nähe … verleiht dem Stück eine intime Dringlichkeit …",
+          "Insgesamt vermittelt der Song eine Botschaft von Resilienz …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … verknüpft … tanzbare Leichtigkeit … tiefe emotionale Ambivalenz … Spannungsfeld zwischen Abschied und Durchhaltewillen auslotet.",
+          "Das Bild des Tanzens … fungiert dabei als Metapher für das aktive Durchleben des Moments:",
+          "„Watch me dance the night into the morning“ suggeriert, dass das Feiern des Augenblicks die Dunkelheit überbrücken kann,",
+          "während das Licht – das Symbol für Hoffnung – selbst bei erloschenen Lampen nicht entzogen werden kann („you can't take the sunshine from me“)."
+        ],
+        "positive_aspekte": [
+          "Gute Struktur: Einleitung, Analyse von Motiven, Refrain‑Interpretation, Gesamtaussage.",
+          "Verknüpft mehrere Textstellen zu einem kohärenten Bild von Widerstand und Wiederholung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Gegenüberstellung von Zerbrechlichkeit … und Unbeugsamkeit … stellt das zentrale Motiv des Widerstands gegen das Ende einer Beziehung dar; das lyrische Ich erkennt den Schmerz, weigert sich jedoch, sich von ihm definieren zu lassen.",
+          "Das Bild des Tanzens … Metapher für das aktive Überwinden von Trauer …",
+          "Die wiederholte Aufforderung „hold me like it was forever“ offenbart das Verlangen nach einer zeitlosen Umarmung …",
+          "Gleichzeitig erzeugt die Phrase „This is our last song, last night, last sunset“ ein Bild von Endlichkeit, das jedoch durch das wiederholte „then we’ll do it one more time“ paradox aufgelöst wird …",
+          "Die Zeile „you can shut the lights but you can’t take the sunshine from me“ verstärkt das Motiv des inneren Lichts …",
+          "So wird das Lied zu einem Manifest der Resilienz …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … verknüpft … tanzbare Leichtigkeit … tiefe emotionale Ambivalenz … Spannungsfeld zwischen Abschied und Durchhaltewillen auslotet."
+        ],
+        "positive_aspekte": [
+          "Durchgehend Bezug zu den wiederholten Textmotiven (Herz, Licht, „last song“, „one more time“).",
+          "Stellt das Lied klar als „Manifest der Resilienz“ dar."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Gegenüberstellung von Verletzlichkeit … und unerschütterlicher innerer Kraft … suggeriert ein Selbstverständnis, das trotz schmerzhafter Trennungen nicht resigniert, sondern aktiv nach Wiederaufbau strebt.",
+          "Die wiederholte Phrase … erzeugt ein Gefühl von Endlichkeit, das jedoch durch das wiederholte „Then we'll do it one more time“ paradox aufgelöst wird.",
+          "Dieser Refrain impliziert, dass das Finale nicht endgültig ist, sondern ein weiterer Versuch, das Vergangene zu verlängern …",
+          "Die Zeile „Last kiss, goodbye ain't done yet“ verstärkt das Bild einer Beziehung, die sich im Übergang befindet, aber noch nicht vollständig losgelassen ist.",
+          "Insgesamt schildert der Text einen inneren Konflikt zwischen dem unvermeidlichen Ende und dem menschlichen Drang, das Jetzt zu festhalten …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … verknüpft … tanzbare Leichtigkeit … tiefe emotionale Ambivalenz … Spannungsfeld zwischen Abschied und Durchhaltevermögen auslotet.",
+          "Das Bild des Tanzens … Metapher für das Überwinden von Dunkelheit …"
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Gegenüberstellung von Herz‑ und Geist‑Motiven.",
+          "Betont das Spannungsfeld zwischen Endlichkeit und dem Wunsch nach Wiederholung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Gegenüberstellung von Zerbrechlichkeit … und unerschütterlicher Lebenskraft … suggeriert, dass das lyrische Ich trotz einer schmerzhaften Trennung nicht resigniert, sondern aktiv nach Wiederaufbau strebt.",
+          "Das Bild des Tanzens … Metapher für das Überwinden von Dunkelheit … impliziert, dass das Individuum die Nacht … in Licht und Neubeginn verwandelt.",
+          "Diese Dualität spiegelt das menschliche Bedürfnis wider, das Vergangene noch einmal zu erleben, um es zu verarbeiten …",
+          "Die Zeile „You can shut the lights but you can't take the sunshine from me“ verstärkt das Motiv der inneren Resilienz …",
+          "Durch die wiederholte Wiederholung des Wortes „one more time“ entsteht ein hypnotischer Effekt … während die pulsierenden Beats das Bild einer unaufhörlichen, fast rituellen Bewegung erzeugen.",
+          "So wird der Song zu einem musikalischen Manifest, das den Konflikt zwischen Abschiedsschmerz und dem unnachgiebigen Drang, das Leben weiterzutanzen, in einer einzigen, wiederholbaren Schleife einfängt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … verknüpft … tanzbare Leichtigkeit … tiefe emotionale Ambivalenz … Spannungsfeld zwischen Abschied und Durchhaltewillen auslotet."
+        ],
+        "positive_aspekte": [
+          "Nutzt konkrete Textzitate, um den Refrain‑Konflikt zu beschreiben.",
+          "Erklärt die Wirkung der Wiederholung („one more time“) auf den Hörer."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1.2,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Tanz‑Metapher, Resilienz, Endlichkeit). Die inhaltliche Varianz ist gering; nur Interpretation 1 liefert mehr differenzierte, teils begründete Analysen, während die anderen stark von generischen Aussagen und spekulativen Deutungen geprägt sind.",
+    "empfehlung": "Für zukünftige Bewertungen sollte der Fokus auf klar belegbare Textbezüge gelegt werden, kombiniert mit einer tieferen, aber textnahen Analyse. Interpretation 1 zeigt, wie man diese Balance erreichen kann – sie bleibt am nächsten am Songtext und bietet zugleich eine substanzielle, aber nicht übertriebene Interpretation."
+  }
+}

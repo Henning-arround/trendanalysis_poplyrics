@@ -1,0 +1,120 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist in den 1990er Jahren angesiedelt, einer Zeit, in der die Popmusik von einer Vielzahl von Stilen und Genres geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Traurigkeit und Verzweiflung, die durch die affektive Dimension der Texte erzeugt wird.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Reflexion über die menschliche Erfahrung von Liebe, Verlust und Sehnsucht interpretiert werden.",
+          "Die symbolische Ordnung des Songs ist geprägt von einer Spannung zwischen der Sehnsucht nach Liebe und der Erfahrung von Schmerz und Enttäuschung."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. Metaphern, Symbolik, zentrale Botschaft).",
+          "Die Interpretation geht über reine Oberflächlichkeit hinaus und verknüpft Textstellen miteinander, wodurch ein zusammenhängendes Bild entsteht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist in den 1990er Jahren angesiedelt, einer Zeit, in der die Popmusik von einer Vielzahl von Stilen und Genres geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Traurigkeit und Verzweiflung, die durch die affektive Dimension der Texte erzeugt wird.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Reflexion über die menschliche Erfahrung von Liebe, Verlust und Sehnsucht interpretiert werden.",
+          "Die symbolische Ordnung des Songs ist geprägt von einer Spannung zwischen der Sehnsucht nach Liebe und der Erfahrung von Schmerz und Enttäuschung."
+        ],
+        "positive_aspekte": [
+          "Klare Textbelege für die meisten Aussagen (Metaphern, Symbolik, zentrale Botschaft).",
+          "Strukturierte Analyse, die sowohl formale als auch inhaltliche Aspekte berücksichtigt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen und historischen Kontext der 1990er Jahre verortet werden.",
+          "Die Musik von Blue System ist typisch für die Eurodance- und Popmusik der 1990er Jahre, die oft von einfachen, aber einprägsamen Melodien und Texten geprägt war.",
+          "Der Song thematisiert auch die Unsicherheiten und Herausforderungen von Beziehungen, die in den 1990er Jahren zunehmend diskutiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern und Symbolen.",
+          "Insgesamt zeigt der Song … eine komplexe und vielschichtige Darstellung von Liebe und Beziehungen, die sowohl die emotionale als auch die kulturelle Dimension berücksichtigt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind textnah (z. B. „Love is not a game, love is desire“, „little girl / little guy“).",
+          "Versucht, den Song in einen breiteren kulturellen Kontext zu stellen, was bei korrekter Evidenz wertvoll wäre."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist in den 1990er Jahren angesiedelt, einer Zeit, in der die Popmusik von einer Vielzahl von Stilen und Genres geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Traurigkeit und Verzweiflung, die durch die affektive Dimension der Texte erzeugt wird.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Reflexion über die menschliche Erfahrung von Liebe, Verlust und Sehnsucht interpretiert werden.",
+          "Die symbolische Ordnung des Songs ist geprägt von einer Spannung zwischen der Sehnsucht nach Liebe und der Erfahrung von Schmerz und Enttäuschung."
+        ],
+        "positive_aspekte": [
+          "Gute Textbelege für zentrale Metaphern und Symbolik.",
+          "Konsistente Argumentationslinie, die die wiederkehrende Thematik des Songs hervorhebt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1990er Jahre interpretiert werden.",
+          "Die Musik der 1990er Jahre war geprägt von einer Rückkehr zu romantischen und emotionalen Themen.",
+          "Der Song \"Here I Go Again\" kann als ein Beispiel für die populäre Musik dieser Zeit gesehen werden, die sich mit Themen wie Liebe, Verlust und Sehnsucht auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern und Symbolen.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Darstellung der menschlichen Erfahrung von Liebe und Schmerz gesehen werden, die universell und zeitlos ist.",
+          "Die symbolische Ordnung des Songs kann als eine Darstellung der menschlichen Verletzlichkeit und der Suche nach Verbindung und Liebe interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Wiederholung von „Here I go again“, Symbolik von „little girl\"/\"little guy\").",
+          "Erkennt die narrative Wiederholung und interpretiert sie als zentrales Motiv."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Variation liegt hauptsächlich im Umfang der kontextualisierenden (teils erfundenen) Aussagen. Die Qualität schwankt zwischen rein textnahen Analysen (Interpretation 3) und stärker spekulativen Kontextualisierungen (Interpretationen 4 & 5).",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man die textbasierte Substanz beibehalten und spekulative historische oder genrebezogene Aussagen nur einsetzen, wenn sie durch klare Belege gestützt werden. Interpretation 3 liefert die beste Balance aus Texttreue und analytischer Tiefe."
+  }
+}

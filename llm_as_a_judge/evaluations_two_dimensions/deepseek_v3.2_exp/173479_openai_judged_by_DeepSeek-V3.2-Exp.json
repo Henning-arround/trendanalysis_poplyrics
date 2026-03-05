@@ -1,0 +1,99 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen über das \"Rum, das der Käpt’n aussoff\" und das \"Smutje\", das lachend die Waffe verkennt, zeigen, wie das Milieu des Krieges die Menschen in eine zynische Resignation treibt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wird damit zu einer kritischen Reflexion über die Nachkriegsgesellschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, auch werden Ambivalenzen in der Interpretation aufgezeigt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text schildert die innere Zerrissenheit eines Kriegsveteranen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wird damit zu einer kritischen Reflexion über die Nachkriegsgesellschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist überwiegend textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten Dialoge, in denen andere Figuren die Waffe als Gefahr benennen, kontrastieren mit dem inneren Zögern des Protagonisten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Interpretation ist teilweise oberflächlich, da einige Aussagen vage bleiben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zeigt einige textbezogene und konkrete Aspekte auf"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das wiederholte Aufrufen, die \"Knarre\" abzulegen, fungiert als Symbol für die Ablehnung von Gewalt und die Sehnsucht nach innerer Befreiung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Interpretation ist überwiegend textbezogen und konkret"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zeigt einige textbezogene und konkrete Aspekte auf und ist offen für Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die fehlende Orientierung – kein leuchtendes Ziel, kein klarer Zweck – spiegelt die innere Leere des Kriegers wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Interpretation ist überwiegend textbezogen und konkret"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zeigt einige textbezogene und konkrete Aspekte auf und ist offen für Ambivalenzen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Halluzinations- und Tiefenbewertung",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe am besten"
+  }
+}

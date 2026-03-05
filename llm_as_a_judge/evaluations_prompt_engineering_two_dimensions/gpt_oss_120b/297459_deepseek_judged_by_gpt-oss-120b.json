@@ -1,0 +1,120 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von einfachen, fast kindlichen Melodien und Texten kann als eine Art Gegenbewegung zu der Komplexität und Beschleunigung der modernen Welt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach menschlicher Verbindung und Trost in Zeiten von Einsamkeit und Verunsicherung zu sein.",
+          "Die Verwendung literarischer Stilmittel ist ein wichtiger Aspekt des Songs.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und eine vielschichtige Bedeutungsebene, die zur Interpretation einlädt."
+        ],
+        "positive_aspekte": [
+          "Enthält eine klare, textbasierte Analyse der wiederholten Zeilen („When you feel…“).",
+          "Verknüpft einzelne Textstellen mit konkreten Interpretationsansätzen (z. B. Metapher, Mantra)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach menschlicher Verbindung und Trost in Zeiten der Einsamkeit und Verunsicherung zu sein.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die emotionale Wirkung des Songs.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und eine vielschichtige Bedeutungsebene, die zum Nachdenken und zur Reflexion anregt."
+        ],
+        "positive_aspekte": [
+          "Nur eine einzige unbelegte Aussage (keine Halluzinationen).",
+          "Bezieht sich konsequent auf konkrete Textstellen und erklärt deren mögliche Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von einfachen, fast kindlichen Melodien und Texten kann als eine Art Gegenbewegung zu der Komplexität und Beschleunigung der modernen Welt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach menschlicher Verbindung und Trost in Zeiten von Einsamkeit und Verunsicherung zu sein.",
+          "Die Verwendung literarischer Stilmittel ist ein wichtiger Aspekt des Songs.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und eine vielschichtige Bedeutungsebene, die zur Interpretation einlädt."
+        ],
+        "positive_aspekte": [
+          "Bietet eine konkrete Textbeobachtung (Zeile „When you feel…“).",
+          "Erkennt die Wiederholung als stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von einfachen, fast kindlichen Melodien und Texten kann als eine Art Gegenbewegung zu der Komplexität und Beschleunigung der modernen Welt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach menschlicher Verbindung und Trost in Zeiten von Einsamkeit und Verunsicherung zu sein.",
+          "Die Verwendung literarischer Stilmittel ist ein wichtiger Aspekt des Songs.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und eine vielschichtige Bedeutungsebene, die zur Interpretation einlädt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die Zeilen, die Verzweiflung ausdrücken, und verknüpft sie mit der Stimmung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von einfachen, fast kindlichen Melodien und Texten kann als eine Art Gegenbewegung zu der Komplexität und Beschleunigung der modernen Welt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach menschlicher Verbindung und Trost in Zeiten von Einsamkeit und Verunsicherung zu sein.",
+          "Die Verwendung literarischer Stilmittel ist ein wichtiger Aspekt des Songs.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und eine vielschichtige Bedeutungsebene, die zur Interpretation einlädt."
+        ],
+        "positive_aspekte": [
+          "Verweist auf die wiederholte Zeile „I don't want to let you go“ als Hinweis auf Angst vor Verlust."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben generischen Aussagen; nur Interpretation 1 verzichtet vollständig auf erfundene Fakten, was sie konsistenter und faktentreuer macht.",
+    "empfehlung": "Eine Interpretation, die sich strikt an den Text hält und nur wenige, klar belegbare Aussagen macht (wie Interpretation 1), liefert die beste Balance zwischen Faktentreue und analytischer Tiefe. Zukunftige Modelle sollten vermeiden, unbegründete Aussagen über Melodie, Genre oder gesellschaftliche Trends zu erfinden."
+  }
+}

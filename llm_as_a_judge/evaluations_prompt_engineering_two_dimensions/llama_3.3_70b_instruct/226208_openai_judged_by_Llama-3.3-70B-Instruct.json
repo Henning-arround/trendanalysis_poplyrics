@@ -1,0 +1,99 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No race for another war' reflektiert das globale Verlangen nach Frieden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt offen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Sturms ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No race for another war' impliziert eine neue, nicht-rassistische Konfliktdynamik"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Dualität erzeugt ein Spannungsfeld zwischen äußerer Bedrohung und innerer Sehnsucht"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der rhetorischen Fragen ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Right from the day I was born' verknüpft persönliche Existenz mit kollektiver Geschichte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegenüberstellungen ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No race for another war' fungiert als Appell"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Struktur bleibt fragmentarisch"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der Metapher des Sturms ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Will we try together for a better life' stellt die kollektive Entscheidung zwischen Kooperation und dauerhafter Bedrohung in den Vordergrund"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt und die Metapher des Sturms detailliert analysiert"
+  }
+}

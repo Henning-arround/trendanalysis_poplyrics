@@ -1,0 +1,99 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft ein Bewusstsein von Vergänglichkeit mit einer paradoxen Unsterblichkeit, ohne dass dies explizit im Text genannt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Your whole life was a damn concert' kontrastiert das öffentliche Spektakel mit der privaten, fast schon nihilistischen Feststellung 'You ain't dead'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Metaphern und Bildsprache im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von '산천을 화폭에 담은 화가' und '정선의 산수' kulturelle Referenzen auf traditionelle koreanische Malerei und Mathematik herstellt, ohne dass dies explizit im Text genannt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile '죽을 땐 빌린 이 몸 흙이 되는 time table' stellt den Tod als unvermeidliche, aber gleichzeitig temporär geliehene Existenz dar"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der thematischen Komplexität und der emotionalen Spannung im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft das Motiv der rückwärtslaufenden Zeit mit dem Wunsch nach einer unsterblichen Seele, ohne dass dies explizit im Text genannt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile '시간이 말해줄 원인 결과의 법칙' die Unausweichlichkeit von Ursache-Wirkung betont"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr detaillierte und tiefgehende Analyse der Metaphern, Bildsprache und thematischen Komplexität im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft ein Bewusstsein von Vergänglichkeit mit einer paradoxen Forderung nach Unsterblichkeit, ohne dass dies explizit im Text genannt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile '죽을 땐 빌린 이 몸 흙이 되는 time table' stellt den Tod als unvermeidliche, aber gleichzeitig temporär geliehene Existenz dar"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der thematischen Komplexität und der emotionalen Spannung im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft ein Bewusstsein von Vergänglichkeit mit einer paradoxen Unsterblichkeit, ohne dass dies explizit im Text genannt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'This album be the last, but it will forever last' stellt ein Widerspruch zwischen Endlichkeit des Werkes und seiner angeblichen Unsterblichkeit dar"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr detaillierte und tiefgehende Analyse der Metaphern, Bildsprache und thematischen Komplexität im Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine gute Analyse des Textes.",
+    "empfehlung": "Die Interpretationen 3 und 5 bieten die beste Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

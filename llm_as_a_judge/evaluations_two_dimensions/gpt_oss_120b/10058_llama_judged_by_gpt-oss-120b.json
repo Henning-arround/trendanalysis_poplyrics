@@ -1,0 +1,95 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"cosmic error\" deutet auf eine Art von Irrtum oder Fehlverständnis hin, das die Menschheit in ihrer Wahrnehmung des Kosmos und ihrer eigenen Rolle darin begangen hat."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich fast Zeile für Zeile auf den Songtext.",
+          "Verknüpft zentrale Motive (Sterne, Paradoxon, Serpent, schwarze Aura) mit einer kohärenten Bildsprache.",
+          "Zeigt ein durchgängiges Verständnis des Textes ohne unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"cosmic error\" deutet auf eine Art von Irrtum oder Fehlverständnis hin, das die Menschheit in ihrer Wahrnehmung des Kosmos und ihrer eigenen Rolle darin begangen hat."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Bildsprache und möglicher Symbolik (z. B. höhere Bewusstseinsebene).",
+          "Klare Struktur: Einleitung, Analyse einzelner Passagen, Schlussfolgerung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"cosmic error\" deutet auf eine Art von Irrtum oder Fehlverständnis hin, das die Menschheit in ihrer Wahrnehmung des Kosmos und ihrer eigenen Rolle darin begangen hat."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogen, kaum spekulative Abschweifungen.",
+          "Erkennt die wiederholte Refrain‑Struktur und deren Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"cosmic error\" deutet auf eine Art von Irrtum oder Fehlverständnis hin, das die Menschheit in ihrer Wahrnehmung des Kosmos und ihrer eigenen Rolle darin begangen hat."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verbindet die Phrase „forgotten masters“ sinnvoll mit dem Bild einer höheren Dimension.",
+          "Stellt die innere Wandlung des Protagonisten klar heraus."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"cosmic error\" deutet auf eine Art von Irrtum oder Fehlverständnis hin, das die Menschheit in ihrer Wahrnehmung des Kosmos und ihrer eigenen Rolle darin begangen hat."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Analyse aller Schlüsselbegriffe des Textes.",
+          "Erklärt die Ambivalenz zwischen Staunen und Verwirrung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen nahezu identische Struktur und inhaltliche Tiefe, was zu einer sehr geringen Varianz (Score‑Spread 0) führt.",
+    "empfehlung": "Da alle Modelle dieselbe Texttreue und Substanz erreichen, reicht es, eine kompakte Version zu wählen. Eine leicht gekürzte Fassung, die die wesentlichen Bildungen (Sterne, Paradoxon, Serpent, schwarze Aura) beibehält, wäre am effizientesten."
+  }
+}

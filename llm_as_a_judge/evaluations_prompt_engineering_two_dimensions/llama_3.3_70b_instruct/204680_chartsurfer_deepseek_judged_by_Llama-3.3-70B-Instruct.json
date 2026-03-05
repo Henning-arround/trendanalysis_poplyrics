@@ -1,0 +1,97 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Freiheit und Selbstbestimmung in der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach exklusiver emotionaler und physischer Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung literarischer Stilmittel wie Metaphern und Symbole",
+          "Die Betonung der affektiven Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die exklusive Forderung nach Nähe und Liebe mit der Endlichkeit der gemeinsamen Erfahrung kontrastiert wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach exklusiver emotionaler und physischer Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung literarischer Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Freiheit und Selbstbestimmung in der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach exklusiver emotionaler und physischer Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung literarischer Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach exklusiver Liebe und Gemeinsamkeit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung literarischer Stilmittel wie Metaphern und Symbole",
+          "Die Betonung der affektiven Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung literarischer Stilmittel wie Metaphern und Symbole",
+          "Die Betonung der affektiven Dimension des Songs",
+          "Die Berücksichtigung des kulturellen und historischen Kontexts"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.9,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die affektive Dimension des Songs. Es gibt jedoch Variationen in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine Balance zwischen Textreue und analytischer Tiefe findet. Es ist wichtig, die Verwendung literarischer Stilmittel und die affektive Dimension des Songs zu berücksichtigen, ohne dabei in Spekulationen oder allgemeine Aussagen zu verfallen."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird mit der Sonne verglichen, was auf ihre lebensspendende und wärmende Kraft hinweist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist das zentrale Thema des Liedes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der geliebten Person und die Allgegenwärtigkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird mit der Sonne verglichen, was auf ihre lebensspendende und wärmende Kraft hinweist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist das zentrale Thema des Liedes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der geliebten Person und die Allgegenwärtigkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird mit der Sonne verglichen, was auf ihre lebensspendende und wärmende Kraft hinweist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist das zentrale Thema des Liedes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der geliebten Person und die Allgegenwärtigkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird mit der Sonne verglichen, was auf ihre lebensspendende und wärmende Kraft hinweist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist das zentrale Thema des Liedes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der geliebten Person und die Allgegenwärtigkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird mit der Sonne verglichen, was auf ihre lebensspendende und wärmende Kraft hinweist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist das zentrale Thema des Liedes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der geliebten Person und die Allgegenwärtigkeit der Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und wiederholen ähnliche Punkte",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und betont die Bedeutung der geliebten Person und die Allgegenwärtigkeit der Liebe"
+  }
+}

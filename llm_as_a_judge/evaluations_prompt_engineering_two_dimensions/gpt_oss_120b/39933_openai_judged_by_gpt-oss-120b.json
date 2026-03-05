@@ -1,0 +1,99 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher „Pure as the heaven's rain“ verbindet das Himmlische mit einer reinigenden, aber zugleich flüchtigen Kraft; Regen ist in vielen Kulturen Symbol für Erneuerung, doch die Formulierung lässt offen, ob die Reinheit dauerhaft wirkt oder nur momentane Klarheit schenkt.",
+          "Historisch ist das Stück im Kontext der späten 2000er‑Jahre zu sehen, einer Phase, in der Rockbands vermehrt nostalgische Reflexionen mit zeitgenössischen Unsicherheiten kombinierten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge (z. B. Analyse von „hole in the sun“, „clouds in the open sea“).",
+          "Klare Darstellung von Ambivalenz und Mehrdeutigkeit, die direkt aus den Lyrics abgeleitet wird."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die westliche Romantik interpretiert das Bild „clouds in the open sea“ als Zeichen des Unbewussten.",
+          "Historisch lässt sich das Werk in die späte Phase des Progressive‑Rock einordnen, in der Nostalgie für frühere Ära‑Ideale … mit post‑modernen Skepsis … kombiniert wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Bildpaaren und deren Spannungsfeld.",
+          "Gute Verknüpfung von wiederkehrenden Motiven mit einer interpretativen Gesamtaussage."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die späte Phase der klassischen Rock‑Ära (2008) einordnen, in der Nostalgie für frühere „goldene Zeiten“ … mit einer kritischen Reflexion moderner Unsicherheit gekoppelt wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text reflektiert damit ein post‑modernes Bewusstsein, das nach Sinn in einer fragmentierten Welt sucht, ohne jedoch definitive Antworten zu liefern."
+        ],
+        "positive_aspekte": [
+          "Konsistente Benennung aller wiederkehrenden Textstellen.",
+          "Klare Unterscheidung zwischen konkreten Bildanalysen und den vagen, aber erkennbaren, thematischen Tendenzen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die späte Phase von Uriah Heep (2008) einordnen, einer Zeit, in der Rockbands vermehrt nach spirituellen und transzendentalen Themen suchten, um sich von der post‑9/11‑Unsicherheit zu distanzieren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textstellen mit stilistischen Gegenüberstellungen.",
+          "Ausgewogene Diskussion von Mehrdeutigkeit ohne übermäßige Spekulation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Stilistisch nutzt Heep stark bildhafte Metaphern: „hole in the sun“ … Symbol für unklare Grenzen zwischen Bewusstsein und Unterbewusstsein darstellt.",
+          "Historisch lässt sich das Stück in die späte Phase der klassischen Rock‑Ära (2008) einordnen, in der Nostalgie für vergangene Ideale mit post‑modernen Skepsis verschmilzt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Strukturierung der Analyse (Motiv, Stil, Historie).",
+          "Erkenntnisreiche Interpretation der wiederholten Refrains und ihrer möglichen Bedeutungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernbilder (good fortune, kingdom of beautiful stories, hole in the sun) auf, variieren jedoch stark im Umfang spekulativer Kontextualisierungen. Die Varianz liegt vor allem bei historischen und kulturellen Bezügen, die bei manchen Analysen stärker extrapoliert werden.",
+    "empfehlung": "Interpretation 2 (und ebenfalls Interpretation 5) bietet die beste Balance zwischen Texttreue und analytischer Tiefe. Sie bleibt größtenteils bei den Lyrics verankert, fügt nur ein einziges, klar erkennbares historisches Spekulations‑Element ein und liefert eine substanzielle, aber nicht übertriebene, Bildanalyse."
+  }
+}

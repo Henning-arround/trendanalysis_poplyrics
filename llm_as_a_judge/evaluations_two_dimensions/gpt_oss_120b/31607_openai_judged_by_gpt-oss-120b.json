@@ -1,0 +1,129 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Einstieg mit dem rhythmischen „one two three four“ wirkt wie ein Metronom, das das unaufhaltsame Voranschreiten ihres Lebens markiert.",
+          "Spannung zwischen persönlicher Freiheit und gesellschaftlichem Erwartungsdruck offenlegt.",
+          "Symbolisiert die nüchterne Realität, in der Träume erst in kleinen, alltäglichen Handlungen Gestalt annehmen.",
+          "Fungiert als Mantra, das Hoffnung und Selbstversicherung zugleich vermittelt, während sie gleichzeitig die Last der Verantwortung trägt.",
+          "Kritisiert die Oberflächlichkeit moderner Beziehungen.",
+          "Hinweis auf die Vergänglichkeit der Errungenschaften.",
+          "Versuch, das Bild von „Himmel in der Sonne“ zu konstruieren, während die Gewalt die dunkle Kehrseite des Aufstiegs enthüllt.",
+          "Suggerieren ein gestörtes Verhältnis zu Kontrolle und Freiheit.",
+          "Interpretation, dass kleine Anfänge große, aber nicht immer erlösende Konsequenzen nach sich ziehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeichnet ein kaleidoskopisches Bild einer jungen Frau, die aus einer ländlichen Perspektive in das Versprechen des amerikanischen Traums aufbricht."
+        ],
+        "positive_aspekte": [
+          "Enthält viele konkrete Textbezüge (Alter, Job, Brief, Umzug nach Tampa, Schuss).",
+          "Versucht, stilistische Mittel (Metaphern, Symbolik) zu analysieren."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Getrieben von Frustration und einer wachsenden Unzufriedenheit",
+          "Der Mord wird als impulsive Reaktion auf das „Fahren“ des Mannes dargestellt, was auf tiefere Macht‑ und Kontrollkonflikte hindeutet.",
+          "Der wiederholte Refrain wirkt wie ein zynischer Trost, der die Diskrepanz zwischen dem romantisierten Versprechen des Aufstiegs und der harten Realität von Gewalt, Verlust und ungewollter Verantwortung offenlegt.",
+          "Insgesamt kritisiert das Lied die Illusion des amerikanischen Erfolgs, indem es zeigt, wie kleine Träume in einem Umfeld voller Unsicherheit und Brutalität leicht in Tragödien umschlagen können."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein Bild vom amerikanischen Traum, das zugleich von Hoffnung und Gewalt durchdrungen ist."
+        ],
+        "positive_aspekte": [
+          "Klare Strukturierung der Handlung (Schulabbruch, Job, Liebe, Umzug, Mord, Konsequenzen).",
+          "Verknüpft wiederkehrende Motive (Refrain, Haus am Hügel) mit einer kritischen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Fungieren als Mantra, das Hoffnung spendet, aber zugleich die Erwartung einer linearen Erfolgskurve verankert.",
+          "Symbolisiert das verlockende Versprechen von Liebe und Stabilität, das jedoch schnell zerbricht.",
+          "Verdeutlichen die Oberflächlichkeit des erlangten Wohlstands, das auf einer wankenden Basis ruht.",
+          "Die Tat wird als impulsive Reaktion auf ein vermeintlich unerträgliches Verhalten dargestellt und offenbart, wie schnell das Versprechen von „großen Dingen“ in Gewalt umschlagen kann.",
+          "Schließen den Kreis: das Leben setzt sich trotz des Blutvergießens fort, während das Mantra weiterhallt.",
+          "So kritisiert das Lied die narzisstische Selbsttäuschung, die aus kleinen, scheinbar harmlosen Entscheidungen große, oft zerstörerische Konsequenzen entstehen lässt, und stellt die Frage, ob das Versprechen des Aufstiegs überhaupt realisierbar ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein Bild von der amerikanischen Traumillusion, in der das Versprechen von Aufstieg und Glück zugleich als trügerische Verheißung wirkt."
+        ],
+        "positive_aspekte": [
+          "Zieht konsequent Verbindungen zwischen den Briefen an die Mutter und einer kritischen Sicht auf den „amerikanischen Traum“.",
+          "Bezieht die konkreten Details (Eldorado Grand, Tampa) in die Analyse ein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Ihr Job ... symbolisiert die harte, oft unsichtbare Arbeit, die viele junge Menschen leisten, um sich nach oben zu kämpfen.",
+          "Florida steht für Freiheit und Neuanfang, wird aber zugleich zum Schauplatz von Gewalt.",
+          "Der Mord verknüpft das Bild des sonnigen Südens mit dunklen, zerstörerischen Impulsen, was die Zerbrechlichkeit des Traums unterstreicht.",
+          "Der Refrain bleibt ein zynisches Echo …",
+          "Der Song kritisiert damit die Ideologie des Aufstiegs, indem er zeigt, dass kleine Schritte nicht zwangsläufig zu Glück führen, sondern auch in dunkle Pfade münden können."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein Bild vom amerikanischen Traum, das zugleich von Hoffnung und Gewalt durchdrungen ist."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textstellen mit gesellschaftlichen Konzepten (Arbeit, Aufstieg, Gewalt).",
+          "Erkennt die wiederkehrende Symbolik des Hauses am Hügel."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene steht für den klassischen Aufstieg aus bescheidenen Verhältnissen.",
+          "Symbolisiert das verlockende Versprechen von Liebe und Stabilität, das jedoch nur von kurzer Dauer ist.",
+          "Trügerische Leichtigkeit, die das „Heaven in the sun“ betont.",
+          "Offenbart die dunkle Kehrseite des amerikanischen Traums: das Streben nach Aufstieg kann in Gewalt und Verzweiflung enden.",
+          "Verknüpft persönliche Frustration mit gesellschaftlichen Spannungen.",
+          "Die zyklische Natur von Hoffnung, Verlust und dem unaufhörlichen Warten auf das große Ereignis unterstreicht, das aus kleinen Anfängen erwächst."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeichnet ein Bild von amerikanischer Sehnsucht, das zugleich von Hoffnung und Gewalt durchdrungen ist."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung der Handlung (Schulabbruch → Job → Liebe → Umzug → Mord → Konsequenzen).",
+          "Verwendet den Refrain als Leitmotiv für die Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das Grundgerüst der Geschichte, unterscheiden sich jedoch stark im Anteil spekulativer Aussagen. Die Halluzinationsrate liegt zwischen 40 % und 53 %, wobei Interpretation 1 den geringsten Anteil erfundener Inhalte aufweist.",
+    "empfehlung": "Interpretation 1 bietet die beste Balance aus Texttreue und analytischer Tiefe. Sie bleibt weitgehend bei nachweisbaren Textstellen und liefert zugleich eine kritische, aber begründete Lesart. Für zukünftige Analysen sollten LLMs darauf achten, spekulative Deutungen klar zu kennzeichnen und den Anteil unbelegter Aussagen zu reduzieren."
+  }
+}

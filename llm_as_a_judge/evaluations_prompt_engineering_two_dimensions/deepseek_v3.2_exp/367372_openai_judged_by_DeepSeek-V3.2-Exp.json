@@ -1,0 +1,99 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Tanz als Befreiungsmittel spiegelt die Diskursverschiebung von politischem Aktivismus zu persönlicher Selbstverwirklichung wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen dem Wunsch nach Zugehörigkeit und der Angst vor Ablehnung bleibt offen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs, das bewusste 'Geben' von sich selbst im Tanz-Ritual"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text reflektiert die Dynamik der Disco-Ära, in der afro-amerikanische Clubs als Räume für soziale Integration und sexuelle Befreiung dienten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Doppeldeutigkeit von 'give it up' – als Loslassen, aber auch als Aufgeben – bleibt ungelöst"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation arbeitet die Spannung zwischen Passivität und Aktivität heraus"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textpassage 'Everybody's groovin' on like a fool' spiegelt die gesellschaftliche Wahrnehmung von Tanzkulturen als 'verrückt' wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erzählung bleibt fragmentarisch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz zwischen öffentlicher Ekstase und persönlicher Unsicherheit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von 'groovin'' und 'party' spiegelt die urbanen Club-Räume wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität zwischen Selbstbestimmung und Objektifizierung bleibt bestehen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation arbeitet die Spannung zwischen persönlicher Lust und sozialer Erwartung heraus"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text verknüpft das individuelle Überwinden von Schüchternheit mit einer kollektiven Feier des Tanzes als Befreiungsritual"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Doppeldeutigkeit erzeugt Spannung zwischen persönlicher Selbstverwirklichung und dem Druck, sich dem kollektiven Groove zu unterwerfen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz einer Szene, die gleichzeitig Befreiung und Kommodifizierung von Körperlichkeit verkörpert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Auseinandersetzung mit dem Songtext"
+  }
+}

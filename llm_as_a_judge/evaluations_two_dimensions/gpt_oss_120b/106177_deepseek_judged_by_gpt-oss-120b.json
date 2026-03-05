@@ -1,0 +1,118 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin stand unter Druck und Stress.",
+          "Sie hat erkannt, dass ihr Herz ihr wahres Zuhause ist.",
+          "Sie möchte jede Sekunde der Zugehörigkeit schätzen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Reflexion über veränderte Werte interpretiert werden.",
+          "Dies ist ein Zeichen für Reife und Wachstum der Sängerin.",
+          "Insgesamt drückt der Song eine tiefe Sehnsucht nach Zugehörigkeit aus."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive des Textes (Erinnerungen, Freiheit, Atem).",
+          "Verknüpft den Refrain mit dem Konzept von Zugehörigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin hatte Schwierigkeiten in ihrer Familie und wünschte Flucht.",
+          "Sie ist sich bewusst, dass die Vergangenheit nicht zurückkehren kann.",
+          "Sie möchte die vergangene Zeit schätzen und bewahren."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt drückt der Song eine tiefe Sehnsucht nach einem Ort aus, an dem man sich selbst finden und akzeptiert fühlen kann."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Textstellen (z. B. „Home is where my heart is“).",
+          "Gute Strukturierung der Analyse in Einleitung, Refrain‑Deutung und Fazit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin ist dankbar für die Chance, den Ort wiederzufinden.",
+          "Sie möchte jede Sekunde davon schätzen.",
+          "Sie könnte fern vom Heimatort sein und will zurück."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Hymne an die Sehnsucht nach Heimat, die viele Menschen nachvollziehen können.",
+          "Die melancholische Atmosphäre unterstreicht die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft den Refrain mit emotionaler Bindung.",
+          "Erkennt die wiederkehrenden Themen von Erinnerung und Zugehörigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin hatte familiäre Schwierigkeiten und suchte Flucht.",
+          "Sie ist sich bewusst, dass die Vergangenheit nicht zurückkehrt.",
+          "Sie möchte die vergangene Zeit schätzen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt drückt der Song eine tiefe Sehnsucht nach einem Ort aus, an dem man sich selbst finden und akzeptiert fühlen kann."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge zum Refrain und zu den Motiven „Freiheit“ und „Atmen“.",
+          "Konsistente Argumentationslinie von Sehnsucht zu Zugehörigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin hatte Schwierigkeiten in ihrer Familie und wünschte Flucht.",
+          "Sie ist dankbar für die Chance, den Ort wiederzufinden.",
+          "Sie möchte jede Sekunde davon schätzen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Hymne an die Sehnsucht nach Heimat und Zugehörigkeit interpretiert werden.",
+          "Die melancholische Atmosphäre unterstreicht die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft den Refrain mit einer emotionalen Bindung zum Ort.",
+          "Erkennt und betont das wiederkehrende Motiv des „Loslassens“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthemen; die Varianz ist gering, was auf ein hohes Maß an Redundanz hinweist.",
+    "empfehlung": "Die besten Analysen (z. B. Interpretation 1) balancieren Texttreue mit einer moderaten Tiefe. Zukünftige Modelle sollten weniger spekulative (erfundene) Aussagen einbauen und mehr differenzierte, textbasierte Analysen liefern, um sowohl Halluzinationen zu reduzieren als auch die analytische Tiefe zu erhöhen."
+  }
+}

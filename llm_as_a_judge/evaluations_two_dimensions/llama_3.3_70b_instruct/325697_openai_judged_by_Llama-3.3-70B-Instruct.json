@@ -1,0 +1,99 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen äußerlicher Zärtlichkeit und innerer Leere verdeutlicht, dass wahre Nähe nicht durch Gesten, sondern durch ein authentisches, tiefes Band entsteht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „My Life“ offenbart eine tiefe Sehnsucht nach einer verbindlichen, unverbrüchlichen Liebe, die das eigene Dasein erst vollständig macht."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Diskrepanz zwischen äußerer Zuneigung und innerer Leere ist gut durchdacht und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe für ihn nicht bloß ein Gefühl, sondern ein moralisches Fundament ist, das sein Handeln legitimiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song „My Life“ offenbart eine tiefe Sehnsucht nach einer verbindlichen, unverbrüchlichen Liebe, die das eigene Dasein erst vollständig macht."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Bedeutung von Liebe als moralischem Fundament ist interessant, aber nicht vollständig textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Wortes „miracle“ betont, dass ein solches Glück als außergewöhnlich und fast übernatürlich empfunden wird, ein Ereignis, das das eigene Schicksal neu definiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song „My Life“ von Nat King Cole aus dem Jahr 1960 ist ein zärtliches Bekenntnis an die Sehnsucht nach einer vollkommenen, unverbrüchlichen Liebe, die das eigene Dasein erhellt und von allen Schatten befreit."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Wortes „miracle“ ist gut durchdacht und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe für den Sänger nicht nur ein Gefühl, sondern ein moralisches und existenzielles Prinzip ist, das sein Handeln bestimmt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „My Life“ offenbart eine tiefe Sehnsucht nach einer verbindlichen, unverbrüchlichen Liebe, die das eigene Dasein erst vollständig legitimiert."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Bedeutung von Liebe als existenziellem Prinzip ist interessant, aber nicht vollständig textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen äußeren Gesten und innerem Leeren verdeutlicht die Angst, in einer Beziehung zu verharren, die nur Schein ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sprecher beginnt mit einem kindlichen Traum, in dem er sich vorstellt, dass Zuneigung ihm das Fundament für ein selbstloses Opfer liefert – er wäre bereit, „viel mehr als sein Leben“ zu geben, sobald die Liebe erwidert wird."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Diskrepanz zwischen äußeren Gesten und innerem Leeren ist gut durchdacht und textbezogen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Tiefe der Analyse, aber variieren in der Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

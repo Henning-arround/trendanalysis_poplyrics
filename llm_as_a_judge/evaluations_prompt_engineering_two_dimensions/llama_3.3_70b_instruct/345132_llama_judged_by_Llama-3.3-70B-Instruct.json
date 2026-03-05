@@ -1,0 +1,99 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Dummies in a showcase / They all seem to come alive' kann beispielsweise als Symbol für die Leere und Oberflächlichkeit der modernen Gesellschaft interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der emotionalen Verfassung des Protagonisten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher 'my back ain't got no bone' und ihre Bedeutung für die emotionale Schwäche und Verletzlichkeit des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bilder von 'Dummies in a showcase', die 'all seem to come alive' und 'laughing, sayin' 'You ought to go out there somewhere and hide'' schaffen eine surreale Atmosphäre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Wiederholung von 'I'll be walkin' 'til my back ain't got no bone' als refrainartigen Ausdruck der Entschlossenheit des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Dummies in a showcase / They all seem to come alive' kann beispielsweise als Symbol für die Leere und Unwirklichkeit der Welt ohne die Geliebte interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der emotionalen Verfassung des Protagonisten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher 'my back ain't got no bone' und ihre Bedeutung für die emotionale Schwäche und Verletzlichkeit des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung der 'Knochen' gesehen werden, wo der Körper als Träger von Emotionen und Erfahrungen dient"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Darstellung der Verzweiflung und des Schmerzes des Protagonisten erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Kontraste zwischen der körperlichen und emotionalen Erschöpfung des Protagonisten und seiner Entschlossenheit, weiter zu gehen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Call me a doctor / 'Til my back ain't got no bone' deuten auf eine Art von emotionaler und physischer Heilung hin, die notwendig ist, um die Trennung zu überwinden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann auch in der symbolischen Ordnung von Körper und Seele gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die narrative Struktur des Songs und ihre Bedeutung für die emotionale Intensität und die Notwendigkeit der Bewegung und des Handelns"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Symbole im Songtext",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und diskutiert die Bedeutung der Metaphern und Symbole im Songtext"
+  }
+}

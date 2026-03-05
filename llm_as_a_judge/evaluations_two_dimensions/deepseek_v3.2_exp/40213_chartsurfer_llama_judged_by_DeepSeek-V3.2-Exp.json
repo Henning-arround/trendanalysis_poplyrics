@@ -1,0 +1,87 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist blickt zurück auf seine Vergangenheit und erkennt, dass er das Leben als ein Spiel betrachtet hat"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt die Reue und die bittere Erkenntnis des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist blickt zurück auf seine Vergangenheit und erkennt, dass er das Leben als ein Spiel betrachtet hat"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt die Reue und die bittere Erkenntnis des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist blickt zurück auf seine Vergangenheit und erkennt, dass er das Leben als ein Spiel betrachtet hat"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt die Reue und die bittere Erkenntnis des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist hat seine Träume und Pläne auf sandigen Grundlagen aufgebaut"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt die Reue und die bittere Erkenntnis des Protagonisten, sehr textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Text beschreibt die Reue und die bittere Erkenntnis des Protagonisten, sehr textbezogen und tiefgehend"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-3 sind sehr ähnlich und oberflächlich, während die Interpretationen 4 und 5 tiefergehend sind",
+    "empfehlung": "Es ist ratsam, die Interpretationen 4 und 5 als Grundlage für weitere Analysen zu verwenden, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten"
+  }
+}

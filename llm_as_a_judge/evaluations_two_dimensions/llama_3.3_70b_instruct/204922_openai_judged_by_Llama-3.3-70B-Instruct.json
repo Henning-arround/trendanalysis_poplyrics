@@ -1,0 +1,89 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sprecherin erkennt die Täuschung und bezeichnet ihn als „lucky loser“"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Thematik der Selbstüberschätzung und der Entlarvung von Oberflächlichkeit gut ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erzählerin beschreibt zunächst die äußere Erscheinung des Mannes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die innere Gewissheit der Protagonistin und ihre Ablehnung der Oberflächlichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sprache ist provokativ und zugleich spielerisch"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Mischung aus Ärger und Lust am Triumph"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Entlarvung von Oberflächlichkeit und das Durchschauen von Manipulation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sprecherin positioniert sich klar als Gegenpol"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation unterstreicht die Ironie und die Selbstbestimmung der Protagonistin"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende Analyse der Dynamik der toxischen Verführungsbeziehung und der Selbstbehauptung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Thematik, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie eine umfassende und tiefe Analyse des Songtexts bietet, ohne halluzinative Elemente zu enthalten"
+  }
+}

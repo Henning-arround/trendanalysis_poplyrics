@@ -1,0 +1,93 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach menschlicher Verbindung und Trost in Zeiten von Einsamkeit und Verunsicherung zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, auch wenn einige Aussagen allgemein gehalten sind."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von einfachen, fast kindlichen Melodien und Texten kann als eine Art Gegenbewegung zu der Komplexität und Beschleunigung der modernen Welt interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen, aber einige Aussagen sind vage."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Erfahrungen und Gefühle einer Generation interpretiert werden, die in einer zunehmend digitalisierten und globalisierten Welt lebt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen, aber einige Aussagen sind vage."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Refrains wie 'I don't want to let you go / I don't want to lose your love' unterstreicht die emotionale Wirkung des Songs und die Sehnsucht nach menschlicher Verbindung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen, aber einige Aussagen sind sehr allgemein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ooh, she changes people now' kann als Hinweis auf die transformative Kraft von Beziehungen oder Erfahrungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Erfahrungen und Gefühle einer Generation interpretiert werden, die in einer zunehmend digitalisierten und globalisierten Welt lebt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen, aber einige Aussagen sind sehr allgemein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt sind sie weitgehend textbezogen.",
+    "empfehlung": "Die erste Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

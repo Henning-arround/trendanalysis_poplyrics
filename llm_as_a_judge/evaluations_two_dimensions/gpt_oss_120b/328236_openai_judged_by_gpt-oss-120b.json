@@ -1,0 +1,104 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Das Bild des ‚consuming it all before they take it all away‘ suggeriert ein verzweifeltes Bedürfnis, das Leben in seiner Gesamtheit zu verschlingen, bevor es von einer übermächtigen, vielleicht gesellschaftlichen oder inneren, Kontrolle erstickt wird.“",
+          "„Die Zeile ‚Insane to be caged, when you're to blame‘ wirft die Schuld auf das eigene Gefangensein, das aus Selbstzweifeln entsteht, und fordert zugleich ein Durchbrechen der ‚Insanity‘, um schließlich das eigene ‚praise‘ zu finden.“",
+          "„Die Wiederholungen verstärken das Gefühl von Beklemmung und gleichzeitig von unaufhörlicher Hoffnung, die Welt noch als lebendig zu erfahren.“"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgängige, detaillierte Analyse einzelner Textpassagen",
+          "Klare Strukturierung der Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese ‚sie‘ könnten gesellschaftliche Normen, Erwartungen oder ein übermächtiges System symbolisieren, das das Individuum zu ersticken droht.“",
+          "„Durch die ständige Wiederholung der Refrains entsteht ein hypnotischer Rhythmus, der die Unausweichlichkeit des inneren Kampfes betont.“",
+          "„Der Song schildert somit nicht nur einen äußeren Konflikt, sondern vor allem den ständigen, sich selbst wiederholenden Kampf zwischen Selbstverleugnung und Selbstakzeptanz…\""
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfangreiche Interpretation verschiedener Motive (caged, insanity, etc.)",
+          "Verknüpfung von Textwiederholungen mit emotionaler Wirkung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Das Bild des ‚other side‘ suggeriert eine fremde, vielleicht gesellschaftliche oder psychische Ebene, aus der ein Urteil oder ein Druck herüberdringt…\"",
+          "„Das Motiv des Käfigs symbolisiert die innere Gefangenschaft, die durch Schuldzuweisungen (‘when you're to blame’) verstärkt wird.\"",
+          "„Der Refrain, der immer wieder die gleiche Struktur wiederholt, erzeugt ein Gefühl von Zwang und Endlosschleife, das die Angst vor dem Verlust von Kontrolle und Identität widerspiegelt.\""
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Verwendung von Schlüsselbegriffen des Songs",
+          "Erklärung des Refrain‑Aufbaus in Bezug auf das Thema"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der Protagonist verabscheut das Leid, doch er ist unfähig, es loszulassen, weil es ihm zugleich Identität verleiht.\"",
+          "„Das ‚caged‘‑Motiv die Selbstgefängnis‑Mentalität betont, die aus Schuld und Selbstvorwürfen entsteht.\"",
+          "„Der Wunsch, ‚break free from insanity‘ und gleichzeitig zu ‚praise you‘ deutet darauf hin, dass die Befreiung nur durch Akzeptanz des eigenen Wahnsinns möglich ist.\""
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpfung von Textzeilen mit psychologischen Konzepten",
+          "Klare Darstellung des inneren Konflikts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Das Bild des ‚caged‘ Seins, das zugleich Schuldzuweisung (‘when you're to blame’) und Befreiung (‘break free from insanity’) beinhaltet, verdeutlicht den inneren Konflikt zwischen Selbstbeschuldigung und dem Wunsch nach geistiger Freiheit.\"",
+          "„Das wiederholte Fragen, ob die Welt noch lebt, spiegelt eine existenzielle Unsicherheit wider, die durch das ständige Aufschieben des Handelns verstärkt wird.\"",
+          "„Insgesamt zeichnet der Song ein Bild von innerer Schlacht, in der Schmerz, Angst und das Verlangen nach Kontrolle miteinander ringen…\""
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ausführliche Betrachtung des Motivs ‚caged‘",
+          "Verbindung von Textwiederholungen mit existenziellen Fragen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1.0,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen ein sehr hohes Maß an Halluzination (100 % erfundene Aussagen) und vergleichbare mittlere Tiefe. Die Varianz ist gering, was auf eine konsistente, aber stark spekulative Herangehensweise aller Modelle hinweist.",
+    "empfehlung": "Die aktuelle Herangehensweise liefert detaillierte, aber kaum textbasierte Analysen. Für bessere Bewertungen sollten die Modelle stärker auf direkte Textbelege setzen und spekulative Aussagen klar als Interpretation kennzeichnen, um den Halluzinations‑Score zu senken und die analytische Tiefe zu erhöhen."
+  }
+}

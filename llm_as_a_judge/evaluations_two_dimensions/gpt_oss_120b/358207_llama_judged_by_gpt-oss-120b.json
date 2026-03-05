@@ -1,0 +1,102 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"You Are The Reason\" von Air Supply handelt von einer tiefen emotionalen Verbindung zwischen zwei Menschen, die über die Zeit und trotz aller Widrigkeiten Bestand hat.",
+          "Die Zeile \"You are the future from the past\" deutet darauf hin, dass die Vergangenheit und die Gegenwart in dieser Person zusammenlaufen und dass sie die Schlüsselfigur für die Zukunft ist.",
+          "Der Gesamteindruck des Liedes ist einer tiefen Hingabe und einer unerschütterlichen Treue, die über alle Hindernisse und Widrigkeiten hinweghält."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Songtext ableitbar (z. B. die Beschreibung von Schmerz und Vergnügen, die Stimme, die nicht losgelassen werden kann, der Chorus‑Inhalt).",
+          "Die Interpretation liefert konkrete Bildhaftigkeit (Licht in der Dunkelheit, Sonne durch den Regen) und verbindet diese mit dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"You Are The Reason\" von Air Supply handelt von einer tiefen emotionalen Verbindung zwischen zwei Menschen, die über die Zeit und trotz aller Widrigkeiten Bestand hat.",
+          "Der Song ist eine Hymne an die unwiderrufliche Liebe und die unverbrüchliche Verbindung zwischen zwei Seelen."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei fast allen Aussagen (z. B. „A tear in the seam of pleasure and pain“, „You are the first, You are the last“, „I could never let you go“).",
+          "Gute Balance zwischen wörtlicher Analyse und interpretativer Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"You Are The Reason\" von Air Supply handelt von einer tiefen emotionalen Verbindung zwischen zwei Menschen, die über die Zeit und trotz aller Widrigkeiten Bestand hat.",
+          "Der Song ist eine Hymne an die unwiderrufliche Liebe und die unerschütterliche Treue, die zwei Menschen miteinander verbindet."
+        ],
+        "positive_aspekte": [
+          "Sechs der acht Aussagen sind eindeutig aus dem Text ableitbar, darunter die wiederholte Zeile „You are the first, You are the last“.",
+          "Die Interpretation bleibt textnah und vermeidet unbegründete Kontextualisierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"You Are The Reason\" von Air Supply handelt von einer tiefen emotionalen Verbindung zwischen zwei Menschen, die über die Zeit und trotz aller Widrigkeiten Bestand hat.",
+          "Die Wiederholung des Choruses und die Variationen in den Texten verstärken die Idee, dass diese Beziehung von einer tiefen, vielleicht sogar mystischen Verbindung geprägt ist, die über die Zeit und räumliche Trennung hinausreicht.",
+          "Die Zeile \"You are the future from the past\" suggeriert, dass die andere Person nicht nur die Gegenwart, sondern auch die Vergangenheit und die Zukunft des Sängers prägt, was die zentrale Rolle unterstreicht, die sie in seinem Leben spielt."
+        ],
+        "positive_aspekte": [
+          "Alle inhaltlichen Aussagen lassen sich aus dem Songtext ableiten; es gibt keine spekulativen biografischen Angaben.",
+          "Die Interpretation geht über reine Wiederholungen hinaus, indem sie die mögliche „mystische“ Dimension des Textes anspricht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"You Are The Reason\" von Air Supply handelt von einer tiefen emotionalen Verbindung zwischen zwei Menschen, die über die Zeit und trotz aller Widrigkeiten Bestand hat.",
+          "Die Zeile \"You are the future from the past\" deutet darauf hin, dass die Vergangenheit und die Gegenwart in dieser Person zusammenlaufen und dass sie die Schlüsselfigur für die Zukunft ist.",
+          "Durchgängig wird die Idee vermittelt, dass diese Beziehung von einer tiefen, unerschütterlichen Verbundenheit geprägt ist, die über alle Hindernisse und Erklärungsversuche hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Fünf der acht Aussagen sind klar textbasiert, darunter die Bildsprache von Licht, Dunkelheit und dem „fernen Horizont“.",
+          "Die Analyse bleibt bei den im Text vorhandenen Motiven und vermeidet unbelegte Kontextualisierungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen eine sehr hohe Konsistenz: sie wiederholen dieselben Kernaussagen und vermeiden spekulative Fakten. Die Varianz liegt hauptsächlich im Umfang der oberflächlichen, generischen Formulierungen.",
+    "empfehlung": "Die besten Ergebnisse erzielen Interpretationen, die fast ausschließlich textbasierte Aussagen liefern (z. B. Interpretation 1). Ein geringerer Anteil an vagen, generischen Formulierungen erhöht die Tiefenbewertung, während das völlige Fehlen von Halluzinationen den Halluzinations‑Score maximiert."
+  }
+}

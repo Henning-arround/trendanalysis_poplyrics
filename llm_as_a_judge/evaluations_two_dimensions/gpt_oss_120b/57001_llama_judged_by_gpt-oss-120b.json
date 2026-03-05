@@ -1,0 +1,93 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Jede Aussage lässt sich klar aus dem Songtext ableiten",
+          "Keine vagen oder spekulativen Formulierungen"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Die Protagonistin scheint in einer Welt zu leben, die von Oberflächlichkeit und Entfremdung geprägt ist, in der sie sich selbst verloren hat.“ – sehr allgemeine Aussage ohne konkrete Textbelege."
+        ],
+        "positive_aspekte": [
+          "Viele konkrete Bezüge zu einzelnen Zeilen (7‑Eleven, car‑crash, Satelliten‑TV, Radio, Angel‑Zeile)",
+          "Gute Verknüpfung von wiederholtem Refrain „Stay“ mit möglichen Bedeutungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Die Protagonistin scheint in einer Welt zu leben, die von Oberflächlichkeit und Entfremdung geprägt ist, in der sie sich selbst verloren hat.“ – vage, nicht direkt aus dem Text ableitbar."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der Bildsprache (Angel, Car‑Crash, 7‑Eleven)",
+          "Konsistente Interpretation des Refrains „Stay“"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Die Songtexte malen ein Bild von einer Person, die in einer Welt der Entfremdung und des Schmerzes gefangen ist und nach einer Art von Erlösung oder Flucht sucht.“ – sehr allgemeine, nicht textlich belegte Formulierung."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um „talk shows“, „Dämonen“ und „Engel“, die im Text vorkommen",
+          "Verknüpft die Zeile „Faraway, so close up with the static and the radio“ mit einer konkreten Sehnsuchtsdeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Die Protagonistin scheint in einer Welt zu leben, die von Oberflächlichkeit und Entfremdung geprägt ist, in der sie sich selbst verloren hat.“ – vage, nicht eindeutig aus dem Text ableitbar."
+        ],
+        "positive_aspekte": [
+          "Starke Fokussierung auf wiederkehrende Motive (Hit‑und‑Feel‑Alive, Angel‑Bild)",
+          "Klare Verbindung zwischen den geografischen Referenzen und dem Gefühl von Isolation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen im Wesentlichen dieselbe Grundthese (toxische Beziehung, Isolation, Symbolik von Angel/Car‑Crash). Die Variation liegt nur in wenigen zusätzlichen Details (Talk‑Shows, Dämonen) und in der Tiefe der Analyse. Die Varianz ist gering, was auf ein hohes Maß an Redundanz hinweist.",
+    "empfehlung": "Interpretation 3 liefert die präziseste, texttreue und tiefgehendste Analyse. Für zukünftige Bewertungen sollte darauf geachtet werden, dass Interpretationen nicht nur wiederholen, sondern jeweils neue, textbasierte Einsichten bieten, um die Varianz zu erhöhen und Oberflächlichkeit zu vermeiden."
+  }
+}

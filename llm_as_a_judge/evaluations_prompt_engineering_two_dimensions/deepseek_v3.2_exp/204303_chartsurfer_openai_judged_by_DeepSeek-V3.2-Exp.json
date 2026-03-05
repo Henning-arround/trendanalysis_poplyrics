@@ -1,0 +1,99 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach einem 'nur für mich'-Lied spiegelt die post-war-Entfremdung und das Bedürfnis nach individueller Identität in einer zunehmend uniformierten Gesellschaft wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der zentrale Impuls des Liedes liegt in der Bitte um ein exklusives musikalisches Erlebnis"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation arbeitet mit textbezogenen Analysen und bietet eine plausible Deutung der Ambivalenz zwischen persönlicher Intimität und sozialer Isolation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur 'Mr. C.' steht symbolisch für die Autorität des Rundfunks"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sprecher verlangt ein persönliches Lied, das zugleich das 'Warten' betont"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine differenzierte Analyse der stilistischen Mittel und ihrer Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität des Adressaten 'Mr. C.' – als mögliche Selbstreferenz des Sängers Perry Como, als archetypischer Crooner oder als paternal-ähnliche Figur"
+        ],
+        "oberflächliche_aussagen": [
+          "Der zentrale Impuls des Liedes ist das Verlangen nach einer exklusiven, fast sakralen Darbietung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr textbezogene und tiefgehende Analyse der stilistischen Mittel und ihrer Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Lied kann als Ausdruck einer Generation gelesen werden, die nach Stabilität und persönlicher Geborgenheit sucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sprecher verlangt ein persönliches Lied, das zugleich das 'Warten' betont"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Deutung der Ambivalenz zwischen persönlicher Intimität und sozialer Isolation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Verlangen nach einem 'song … just for me' spiegelt das Aufkommen von Medien, die private Unterhaltung in den Vordergrund stellten"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Kern des Liedes besteht in einer intensiven Wunschvorstellung nach einer persönlichen, exklusiven Darbietung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine differenzierte Analyse der stilistischen Mittel und ihrer Wirkung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die Interpretation 3 bietet eine sehr textbezogene und tiefgehende Analyse der stilistischen Mittel und ihrer Wirkung und ist daher die beste Interpretation."
+  }
+}

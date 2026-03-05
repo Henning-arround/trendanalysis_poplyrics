@@ -1,0 +1,106 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Turn, Turn, Turn\" von The Simon Sisters aus dem Jahr 1964, nicht 1966, und ursprünglich von Pete Seeger geschrieben",
+          "Der abschließende Satz \"A time for peace, I swear it's not too late\" gibt dem Song eine optimistische Note und ruft zum Handeln für eine bessere Welt auf."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Zahlreiche textbezogene Aussagen (z. B. Hinweis auf den biblischen Ursprung, Aufzählung der gegensätzlichen Paare im Text)",
+          "Klare Analyse der Wiederholungen und ihrer Bedeutung",
+          "Durchgehend textbasierte Interpretation ohne unnötige Abschweifungen"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Turn, Turn, Turn\" von The Simon Sisters aus dem Jahr 1964, nicht 1966, und ursprünglich von Pete Seeger geschrieben",
+          "Der abschließende Satz \"A time for peace, I swear it's not too late\" gibt dem Song eine optimistische Note und ruft zum Handeln für eine bessere Welt auf."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verknüpfung von biblischem Kontext und lyrischer Analyse",
+          "Ausführliche Beschreibung der im Text vorkommenden Gegenüberstellungen",
+          "Stimmige Interpretation der wiederholten Phrasen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Turn, Turn, Turn\" von The Simon Sisters aus dem Jahr 1964, nicht 1966, und ursprünglich von Pete Seeger geschrieben, basiert auf einem Bibelvers aus dem Buch Prediger, Kapitel 3, Vers 1-8.",
+          "Die Botschaft des Songs ist eine der Akzeptanz und des Glaubens, dass es nie zu spät ist, sich für Frieden und Liebe zu entscheiden, wie im Refrain \"A time for peace, I swear it's not too late\" zum Ausdruck kommt."
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die Verwendung von Kontrasten und der Betonung der Zeitlichkeit aller Dinge fordert der Song den Hörer auf, die Vergänglichkeit und die Bedeutung jeder Erfahrung im Leben zu reflektieren."
+        ],
+        "positive_aspekte": [
+          "Präzisere Angabe der Bibelstelle (Kapitel 3, Verse 1‑8)",
+          "Erweiterte Formulierung der Wiederholungen im Text",
+          "Versucht, eine Handlungsaufforderung an den Hörer zu formulieren"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Turn, Turn, Turn\" von The Simon Sisters aus dem Jahr 1964, nicht 1966, und ursprünglich von Pete Seeger geschrieben",
+          "Der abschließende Satz \"A time for peace, I swear it's not too late\" gibt dem Song eine optimistische Note und ruft zum Handeln für eine bessere Welt auf."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identische inhaltliche Tiefe wie bei Interpretation 1",
+          "Klare Strukturierung der Analyse",
+          "Starke Verknüpfung von Text und übergeordneter Botschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Turn, Turn, Turn\" von The Simon Sisters aus dem Jahr 1964, nicht 1966, und ursprünglich von Pete Seeger geschrieben",
+          "Der abschließende Satz \"A time for peace, I swear it's not too late\" gibt dem Song eine optimistische Note und ruft zum Handeln für eine bessere Welt auf."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, textbasierte Interpretation",
+          "Gute Balance zwischen Fakten und Analyse",
+          "Keine unnötigen Abschweifungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle vier ersten Interpretationen sind inhaltlich nahezu identisch, was zu einer geringen Varianz führt. Die fünfte Interpretation weicht leicht ab, enthält zusätzliche Oberflächlichkeiten und eine genauere Quellenangabe, dafür aber mehr erfundene Details.",
+    "empfehlung": "Interpretationen, die strikt am Text bleiben, wenig spekulative Jahresangaben machen und gleichzeitig mehrere konkrete Textbezüge herstellen, erzielen die höchste Punktzahl. Ein Ansatz, der zusätzliche, nicht belegbare Fakten einbringt, wird stark bestraft, selbst wenn er etwas mehr narrative Tiefe bietet."
+  }
+}

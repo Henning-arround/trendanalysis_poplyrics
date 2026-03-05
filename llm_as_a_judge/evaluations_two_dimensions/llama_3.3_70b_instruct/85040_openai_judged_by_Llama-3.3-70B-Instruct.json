@@ -1,0 +1,93 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Your innocence all but fades' wird als Beispiel für die Zerbröckelung der äußeren Fassade genannt, ohne weitere Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Metapher der 'two-faced barricades' und ihrer Bedeutung im Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation erwähnt die 'Angst vor dem Unbekannten im Menschen', ohne dass dies direkt im Text belegt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'die Gefahr thematisiert, sich von einer scheinbar harmlosen Maske blenden zu lassen' ist zu allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Zeilen 'Schizophrenic basic needs / Fools me into complacency'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'die Dualität menschlicher Natur thematisiert' ist zu allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Metapher des 'caged inside you' und ihrer Bedeutung im Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation erwähnt den 'psychologischen Machtkampf', ohne dass dies direkt im Text belegt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'den psychologischen Kampf schildert, den ein Mensch führt, wenn er versucht, die wechselhafte, dunkle Seite eines Mitmenschen zu durchschauen' ist zu allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Zeilen 'Rage consumes you every night / Caged inside you / Trying to get out'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'den psychologischen Kampf schildert, den ein Mensch führt, wenn er versucht, die wechselhafte, dunkle Seite eines Mitmenschen zu durchschauen' ist zu allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Metapher des 'monster snarls' und ihrer Bedeutung im Kontext des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metaphern und der Zeilen, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Metaphern und der Zeilen bietet und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "selbstaufopfernde Haltung",
+          "Unsicherheit durchdrungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Verlangen nach Verweilen",
+          "Angst vor dem Alleinsein"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analytische Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "verzweifelter Dialog",
+          "Mantra der Hoffnung"
+        ],
+        "oberflächliche_aussagen": [
+          "Verlangen nach Nähe",
+          "Angst vor dem Abschied"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Emotionale Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ambivalente Haltung",
+          "Verlangen nach Intimität"
+        ],
+        "positive_aspekte": [
+          "Texttreue",
+          "Tiefgehende Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "zerrissenes Verlangen",
+          "Spannung zwischen Sehnsucht und Bindung"
+        ],
+        "oberflächliche_aussagen": [
+          "Verlangen nach Nähe",
+          "Angst vor dem Abschied"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analytische Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "innerer Monolog",
+          "Schuldgefühl"
+        ],
+        "oberflächliche_aussagen": [
+          "Verlangen nach Verweilen",
+          "Angst vor dem Alleinsein"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Emotionale Tiefe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die dritte Interpretation zeigt eine ausgewogene Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

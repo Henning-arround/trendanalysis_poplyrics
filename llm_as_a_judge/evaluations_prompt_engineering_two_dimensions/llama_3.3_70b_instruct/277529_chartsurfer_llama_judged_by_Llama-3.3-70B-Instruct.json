@@ -1,0 +1,99 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von gesellschaftlichen Erwartungen und der Rolle der Frauen in den 1950er Jahren ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass das Lied die Veränderung einer Person durch äußere Einflüsse thematisiert, ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Erkenntnis, dass die emotionale Wirkung des Liedes durch Kontraste zwischen positiven und negativen Bildern erzeugt wird"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Aussage über gesellschaftliche Erwartungen und die Rolle der Frauen ohne neue Erkenntnisse"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Symbolik des 'Herzens aus Stein' für die Verlust der emotionalen Authentizität steht, ohne tiefere Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambiguität und des Widerspruchs zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von gesellschaftlichen Erwartungen und der Rolle der Frauen in den 1950er Jahren ohne direkten Textbezug, ähnlich wie in Interpretation 1"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass das Lied die Veränderung einer Person durch äußere Einflüsse thematisiert, ohne spezifische Textanalyse, ähnlich wie in Interpretation 1"
+        ],
+        "positive_aspekte": [
+          "Die Erkenntnis, dass die emotionale Wirkung des Liedes durch Kontraste zwischen positiven und negativen Bildern erzeugt wird, ähnlich wie in Interpretation 1"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Tell me, was it a man' deutet auf eine mögliche männliche Einflussnahme hin, ohne jedoch eine klare Antwort zu geben, was als moderate Erfindung gewertet wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Veränderung der Person nicht eindeutig zu bewerten ist, ohne tiefere Analyse"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Kontraste zwischen positiven Bildern und negativen Assoziationen, die die emotionale Wirkung des Liedes erzeugen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von gesellschaftlichen Erwartungen und der Rolle der Frauen in den 1950er Jahren ohne direkten Textbezug, ähnlich wie in Interpretation 1"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass das Lied die Veränderung einer Person durch äußere Einflüsse thematisiert, ohne spezifische Textanalyse, ähnlich wie in Interpretation 1"
+        ],
+        "positive_aspekte": [
+          "Die Erkenntnis, dass die emotionale Wirkung des Liedes durch Kontraste zwischen positiven und negativen Bildern erzeugt wird, ähnlich wie in Interpretation 1"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Identifizierung der zentralen Themen und der emotionalen Wirkung des Liedes, jedoch variiert die Tiefe und die Halluzinationsrate zwischen den Interpretationen",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf einer detaillierten Textanalyse liegen, die die Kontraste und Ambiguitäten im Lied hervorhebt, ohne dabei in Spekulationen oder allgemeine Aussagen zu verfallen"
+  }
+}

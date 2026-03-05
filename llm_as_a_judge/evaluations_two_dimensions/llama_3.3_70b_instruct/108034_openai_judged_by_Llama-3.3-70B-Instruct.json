@@ -1,0 +1,93 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Anspielung auf Seesterne, die mit der Flut kommen, verankert das Bild in einem natürlichen Zyklus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Identitätsfluktuation und der Ambivalenz in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur in der fluiden, fast mythischen Unterwelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen öffnen einen Dialog über Besitz und Spiel"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Unsicherheit einer Beziehung, die von ständiger Verwandlung geprägt ist"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Mischung aus Fisch, Delfin und Wal symbolisiert eine hybride Existenz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare Analyse der Verbindung zwischen dem lyrischen Ich und dem anderen Wesen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verschmelzung von Arten symbolisiert ein Wesen, das nicht festgelegt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen verdeutlichen ein ambivalentes Begehren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Flüchtigkeit von Intimität und die Unbeständigkeit von Zuständen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Metapher des Seesterns, der mit der Flut kommt, verstärkt das Bild einer passiven, vom Schicksal getriebenen Existenz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der symbiotischen Verbindung von Wahnsinn und Normalität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bieten eine solide Analyse des Songtexts",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte und textgetreue Analyse bietet, ohne zu viele unbelegte Aussagen zu machen"
+  }
+}

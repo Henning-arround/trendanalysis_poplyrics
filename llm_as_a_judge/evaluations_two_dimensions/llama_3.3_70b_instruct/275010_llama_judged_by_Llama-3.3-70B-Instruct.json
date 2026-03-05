@@ -1,0 +1,89 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, alles zu tun, um die Beziehung zu retten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Emotionen der Sängerin"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, alles zu tun, um die Beziehung zu retten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Emotionen der Sängerin"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, alles zu tun, um die Beziehung zu retten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Emotionen der Sängerin"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, alles zu tun, um die Beziehung zu retten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Emotionen der Sängerin"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin ist bereit, alles zu tun, um die Beziehung zu retten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Emotionen der Sängerin"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und textgetreu, aber könnten tiefer in die Analyse eintauchen",
+    "empfehlung": "Die Interpretationen sollten versuchen, mehr textbasierte Analyse und weniger Wiederholungen von Aussagen zu verwenden, um eine tiefere Einsicht in den Songtext zu gewinnen"
+  }
+}

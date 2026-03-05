@@ -1,0 +1,139 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA war dieser Song Teil einer breiteren christlichen Bewegung, die die Bedeutung von persönlicher Frömmigkeit und Gemeinde betonte.",
+          "In dieser Zeit war die christliche Kirche eine wichtige Institution in der amerikanischen Gesellschaft, und christliche Musik spielte eine bedeutende Rolle in der populären Musik.",
+          "Der Song \"Blessed Assurance\" kann als Ausdruck der Frömmigkeit und des Glaubens in dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist reich an literarischen Stilmitteln, wie Metaphern, Symbolen und Bildern.",
+          "Diese Metaphern verdeutlichen die Bedeutung von Jesus als Retter und Erlöser.",
+          "Diese Repetition unterstreicht die emotionale Wirkung des Songs und schafft eine affektive Dimension, die den Hörer zum Mitsingen und Mitfühlen einlädt.",
+          "Diese Bilder verweisen auf die christliche Taufe und die Bedeutung von Jesu Blut als Symbol der Vergebung.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude.",
+          "Insgesamt offenbart der Song eine komplexe Bedeutungsebene, die sowohl die persönliche Beziehung zum Glauben als auch die kulturelle und historische Kontextualisierung reflektiert."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textbelege werden korrekt zitiert (z. B. Zeilen 1‑2, 3‑4, 5‑6).",
+          "Erkennt die wiederholte Struktur des Refrains und verbindet sie mit einer affektiven Dimension.",
+          "Geht über reine Zusammenfassung hinaus, indem sie die Funktion von Wiederholung und Bildsprache analysiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA war dieser Song Teil einer breiteren christlichen Bewegung, die die Bedeutung von persönlicher Frömmigkeit und Gemeinde betonte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein christlicher Hymnus, der die persönliche Beziehung zwischen dem Sänger und Jesus Christus thematisiert.",
+          "Der Song ist reich an literarischen Stilmitteln, wie Metaphern, Symbolen und Bildern.",
+          "Diese Metaphern verdeutlichen die theologische Vorstellung, dass Jesus Christus durch seinen Tod und seine Auferstehung die Erlösung der Menschheit bewirkt hat.",
+          "Diese Bilder verweisen auf die christliche Taufe und die Bedeutung von Jesu Blut als Symbol der Vergebung.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude.",
+          "Insgesamt zeigt \"Blessed Assurance\" eine komplexe Verbindung von theologischen, emotionalen und kulturellen Elementen, die eine tiefere Bedeutungsebene eröffnen."
+        ],
+        "positive_aspekte": [
+          "Zitate aus dem Songtext werden exakt wiedergegeben und korrekt interpretiert.",
+          "Identifiziert zentrale Metaphern (z. B. „Erbe der Erlösung“, „geboren aus seinem Geist, gewaschen in seinem Blut“).",
+          "Verknüpft die wiederholte Zeile mit der persönlichen Bekenntnis‑Struktur des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA war dieser Song Teil einer breiteren religiösen und kulturellen Bewegung, die die Bedeutung von Glauben und Spiritualität in der amerikanischen Gesellschaft betonte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein christlicher Hymnus, der die persönliche Beziehung zwischen dem Sänger und Jesus Christus thematisiert.",
+          "Der Song ist reich an literarischen Stilmitteln, wie Metaphern, Symbolen und Bildern.",
+          "Diese Metaphern verdeutlichen die theologische Vorstellung, dass Jesus Christus durch seinen Tod und seine Auferstehung die Erlösung der Menschheit bewirkt hat.",
+          "Diese Bilder veranschaulichen die christliche Lehre von der Wiedergeburt und der Sakramenten.",
+          "Der Song hat eine starke emotionale Wirkung und affektive Dimension.",
+          "Diese Zeilen drücken die tiefe emotionale Bindung des Sängers an Jesus Christus aus und unterstreichen die Bedeutung des Glaubens in seinem Leben.",
+          "Insgesamt zeigt das Lied eine tiefe Verbindung zwischen dem Sänger und Jesus Christus und thematisiert die Bedeutung von Glauben und Erlösung in seinem Leben."
+        ],
+        "positive_aspekte": [
+          "Korrekte Nennung und Analyse der wiederholten Refrain‑Zeilen.",
+          "Erkennt die bildhafte Sprache („geboren aus seinem Geist, gewaschen in seinem Blut“).",
+          "Verbindet die Textausschnitte mit einer allgemeinen emotional‑spirituellen Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA war dieser Song Teil einer breiteren christlichen Bewegung, die die Bedeutung von persönlicher Frömmigkeit und Gemeinde betonte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein christlicher Hymnus, der die persönliche Beziehung zwischen dem Sänger und Jesus Christus thematisiert.",
+          "Der Song ist reich an literarischen Stilmitteln, wie Metaphern, Symbolen und Bildern.",
+          "Diese Metaphern verdeutlichen die theologische Vorstellung, dass Jesus Christus durch seinen Tod und seine Auferstehung die Erlösung der Menschheit bewirkt hat.",
+          "Diese Bilder verweisen auf die christliche Taufe und die Bedeutung von Jesu Blut als Symbol der Vergebung.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude.",
+          "Insgesamt zeigt \"Blessed Assurance\" eine komplexe Verbindung von theologischen, emotionalen und kulturellen Elementen, die eine tiefere Bedeutungsebene eröffnen."
+        ],
+        "positive_aspekte": [
+          "Exakte Zitate aus dem Text und klare Zuordnung zu den jeweiligen Zeilen.",
+          "Erkennt die zentrale Botschaft der „Versicherung der Erlösung“.",
+          "Verknüpft die wiederholte Refrain‑Zeile mit einer persönlichen Bekenntnis‑Struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA betrachtet werden.",
+          "In dieser Zeit war die christliche Kirche eine wichtige Institution in der amerikanischen Gesellschaft, und christliche Musik spielte eine bedeutende Rolle in der populären Musik."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein christlicher Hymnus, der die persönliche Beziehung zwischen dem Sänger und Jesus Christus thematisiert.",
+          "Der Song ist reich an literarischen Stilmitteln, wie Metaphern, Symbolen und Bildern.",
+          "Diese Metaphern verdeutlichen die theologische Vorstellung, dass Jesus Christus durch seinen Tod und seine Auferstehung die Erlösung der Menschheit bewirkt hat.",
+          "Hier wird die Symbolik der Wiedergeburt und des Blutes Christi verwendet, um die spirituelle Transformation des Sängers zu beschreiben.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude.",
+          "\"Blessed Assurance\" ist ein Beispiel für die Verbindung von christlicher Theologie und populärer Musik, die in dieser Zeit entstand.",
+          "Insgesamt zeigt der Song, wie die christliche Theologie und die persönliche Erfahrung des Sängers mit Jesus Christus eng miteinander verbunden sind und wie diese Verbindung in der Musik Ausdruck findet."
+        ],
+        "positive_aspekte": [
+          "Korrekte Textzitate und klare Zuordnung zu den jeweiligen Zeilen (z. B. Zeilen 1‑2, 3‑4, 5‑6).",
+          "Identifiziert die wiederholte Refrain‑Struktur und deren Bedeutung für das persönliche Bekenntnis.",
+          "Erkennt die bildhafte Sprache („geboren aus seinem Geist, gewaschen in seinem Blut“)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Grundthesen (Textbezug, Metaphern, Refrain‑Wiederholung) und unterscheiden sich kaum in Tiefe. Die Varianz ist gering; die meisten Aussagen sind entweder klar belegt oder oberflächlich/vage.",
+    "empfehlung": "Interpretation 1 (und die fast identischen Varianten 2, 4, 5) bieten die beste Balance zwischen Texttreue und analytischer Tiefe. Sie enthalten die meisten belegten Aussagen, nur wenige spekulative Kontextangaben und zeigen ein strukturiertes Vorgehen. Für zukünftige Bewertungen sollte man darauf achten, historische oder kulturelle Kontextualisierungen nur dann zu erwähnen, wenn sie durch den Text oder gesicherte Quellen gestützt werden."
+  }
+}

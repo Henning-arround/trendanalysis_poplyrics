@@ -1,0 +1,126 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das ... eine simple Rache- oder Vergeltungsfantasie auszudrücken scheint.",
+          "Diese Aussagen deuten darauf hin, dass der Sänger einen Lernprozess durchlaufen hat und nun in einer besseren Position ist.",
+          "Der Song ... spiegelt die emotionale Tiefe und die Fähigkeit zur Selbstreflexion wider, die für die Soul‑Musik dieser Ära charakteristisch waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden.",
+          "Insgesamt offenbart der Song eine komplexe emotionale Wirkung, die durch die Verbindung von Schmerz, Reue und Selbstbewusstsein geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Verweist konsequent auf konkrete Textzeilen (z. B. „Now it's your turn to cry over me“, „Every road must have a turning“, „fool that I used to be“).",
+          "Erkennt und benennt die Metaphern im Text.",
+          "Bietet einen nachvollziehbaren, wenn auch moderaten, Analyse‑Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das ... eine simple Rache‑ oder Vergeltungsfantasie auszudrücken scheint.",
+          "Diese Aussagen deuten darauf hin, dass der Sänger einen Prozess der Selbstfindung und des emotionalen Wachstums durchlaufen hat.",
+          "Der Song kann auch als Ausdruck der Erfahrung von Afroamerikanern in dieser Zeit gesehen werden, die oft mit Diskriminierung und Ungleichheit konfrontiert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Schmerz, Reue und letztlich einer gewissen Genugtuung.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist der der 1960er Jahre, eine Zeit des Umbruchs und der Veränderung in den USA.",
+          "Insgesamt zeigt \"I Cried for You\" eine komplexe emotionale Landschaft, die den Hörer zum Nachdenken über die Dynamiken von Beziehungen und die menschliche Erfahrung einlädt."
+        ],
+        "positive_aspekte": [
+          "Alle zentralen Textstellen werden korrekt zitiert und interpretiert.",
+          "Metaphern‑Analyse (z. B. „Every road must have a turning“) ist klar und textgebunden.",
+          "Die Bewertung bleibt im Rahmen des vorliegenden Textes, ohne übermäßige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das ... eine simple Rache‑ oder Vergeltungsfantasie auszudrücken scheint.",
+          "Der Song ... kann als Ausdruck der emotionalen Erfahrungen und Sehnsüchte der afroamerikanischen Bevölkerung in dieser Zeit gesehen werden.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner authentischen Darstellung von Schmerz, Reue und letztlich auch von Hoffnung und Neuanfang.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Landschaft, die den Hörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Korrekte Identifikation der Schlüsselzeilen und ihrer metaphorischen Bedeutung.",
+          "Einbindung historischer Kontext (Soul‑Musik‑Blütezeit, Ray Charles als prominenter Vertreter) ist faktisch korrekt.",
+          "Die Analyse bleibt textnah, obwohl sie gelegentlich in allgemeine Aussagen abgleitet."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das ... eine simple Rache‑ oder Vergeltungsfantasie auszudrücken scheint.",
+          "Diese Aussagen deuten darauf hin, dass der Sänger einen Prozess der Selbstfindung und emotionalen Reifung durchlaufen hat.",
+          "Der Song ... spiegelt die emotionalen und affektiven Dimensionen der Soul‑Musik wider und zeigt, wie der Sänger seine Emotionen und Erfahrungen in den Song einbringt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Auseinandersetzung mit den Themen Liebe, Verlust und Vergeltung interpretiert werden, die in der Soul‑Musik eine wichtige Rolle spielen."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textzeilen mit dem Genre‑Kontext (Soul‑Musik).",
+          "Metaphern‑Analyse ist präzise und textbasiert.",
+          "Ergänzt den rein textlichen Blick um einen gut belegten historischen Rahmen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das ... eine simple Rache‑ oder Vergeltungsfantasie auszudrücken scheint.",
+          "Der Song ... kann als Ausdruck der emotionalen Erfahrungen und Sehnsüchte der afroamerikanischen Bevölkerung in dieser Zeit gesehen werden.",
+          "Der Song ... kann als Ausdruck der Erfahrung von Afroamerikanern in dieser Zeit gesehen werden, die oft mit Diskriminierung und Ungleichheit konfrontiert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden.",
+          "Die emotionale Wirkung des Songs liegt in seiner authentischen Darstellung von Schmerz, Reue und letztlich auch von Hoffnung und Neuanfang.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Landschaft, die den Hörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Zitiert und interpretiert die wichtigsten Textstellen korrekt.",
+          "Verbindet den Song mit dem breiteren afroamerikanischen Kontext, was historisch plausibel ist.",
+          "Bietet eine ausgewogene Mischung aus textnaher Analyse und kulturellem Hintergrund."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen sind strukturell fast identisch und wiederholen dieselben Punkte; die Varianz ist gering, was auf ein hohes Maß an Redundanz hinweist.",
+    "empfehlung": "Die Interpretationen balancieren Texttreue und Analyse gut, jedoch fehlt es an origineller, tiefergehender Interpretation. Ein Ansatz, der stärker zwischen den Zeilen liest und mehr Ambivalenz zulässt, würde die Tiefe erhöhen, ohne die Halluzinationsrate zu steigern."
+  }
+}

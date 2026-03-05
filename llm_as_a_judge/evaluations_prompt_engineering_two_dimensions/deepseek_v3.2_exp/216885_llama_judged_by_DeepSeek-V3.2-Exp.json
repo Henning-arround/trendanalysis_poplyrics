@@ -1,0 +1,95 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Liedes kann in der Darstellung von Beziehungen und Liebe gesehen werden, die in der heutigen Gesellschaft oft von Unsicherheit und Veränderung geprägt sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Woke up home half drunk' deutet auf eine Kultur hin, in der Alkohol und Party als Flucht vor den Problemen dienen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Liedes und analysiert die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität und die Spannungen im Lied, wie die Gegenüberstellung von 'I'll stay' und 'you can go and have your fun', lassen darauf schließen, dass die Beziehung komplex und vielschichtig ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Woke up home half drunk' deutet auf eine Kultur hin, in der Alkohol als Flucht vor Problemen verwendet wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Liedes und analysiert die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Betonung der Vergangenheit und der Erinnerungen an die erste Liebe ('Cause I was your first one / Back when we were so young') kann als Kommentar zur gesellschaftlichen Erwartung an Beziehungen interpretiert werden, die oft von der Idee der 'ersten großen Liebe' geprägt sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Woke up home half drunk' deutet auf eine Kultur hin, in der Alkohol als Flucht vor Problemen verwendet wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Liedes und analysiert die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I was your first one / Back when we were so young' deutet auf eine starke emotionale Bindung hin, die durch die gemeinsame Vergangenheit und die ersten Erfahrungen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Liedes, analysiert die literarischen Stilmittel und zeigt eine hohe analytische Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I was your first one / Back when we were so young' deutet auf eine starke emotionale Bindung hin, die durch die gemeinsame Vergangenheit und die ersten Erfahrungen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Liedes, analysiert die literarischen Stilmittel und zeigt eine hohe analytische Tiefe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der zentralen Botschaft und der literarischen Stilmittel, aber eine Varianz in der Tiefe der Analyse und der Anzahl der halluzinierten Aussagen.",
+    "empfehlung": "Die Interpretationen 4 und 5 zeigen eine hohe analytische Tiefe und eine geringe Anzahl halluzinierter Aussagen. Diese Ansätze sollten weiterverfolgt werden."
+  }
+}

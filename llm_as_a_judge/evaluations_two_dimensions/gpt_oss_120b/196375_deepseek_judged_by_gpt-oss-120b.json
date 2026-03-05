@@ -1,0 +1,135 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein surreales und traumartiges Gebilde, das sich einer direkten Interpretation entzieht.",
+          "Der Text oszilliert zwischen verschiedenen Bildern und Szenarien, die sich nicht unbedingt zu einem logischen Ganzen zusammenfügen.",
+          "Die Sonne wird als Jugendstilkleid beschrieben, das am Rhein eine Stulle verzehrt – ein Bild, das die Verbindung von Natur und Kultur herstellt.",
+          "Die Wiederholung dieses Refrains und die Verwendung von Na‑Na‑Na‑Sequenzen am Ende des Songs erzeugen eine hypnotische Wirkung und unterstreichen die Traumartigkeit des Textes.",
+          "Die Szene mit den Schwaben … wirkt wie ein Fremdkörper, der die Idylle stört.",
+          "Insgesamt kann der Song als eine Art Traumprotokoll interpretiert werden …"
+        ],
+        "positive_aspekte": [
+          "Zieht konsequent Textstellen heran (z. B. Haferschiff, Geflüster des Orients, Brief an den Spiegel).",
+          "Erkennt die wiederkehrende Na‑Na‑Motivik und weist auf deren mögliche Wirkung hin."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Cary Grant wird hier als Symbolfigur verwendet, dessen Knochen als Baumaterial für ein Haus dienen sollen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein surreales und traumartiges Gebilde, das sich einer direkten Interpretation entzieht.",
+          "Der Text oszilliert zwischen verschiedenen Bildern und Szenarien, die sich nicht unbedingt zu einem logischen Ganzen zusammenfügen.",
+          "Die Anfangszeilen schaffen eine Atmosphäre der Ruhe und des Friedens.",
+          "Die Sonne trägt Jugendstilkleider und verzehrt eine Stulle am Rhein, was eine Art von Idylle und Harmonie vermittelt.",
+          "Dies kann als eine Art von Hommage oder Tribut an die Welt der Kunst und des Kinos interpretiert werden.",
+          "Das Haus aus Knochen kann auch als ein Symbol für die Vergänglichkeit und die Zerbrechlichkeit des Lebens gesehen werden.",
+          "Der Text ist von einer gewissen Ironie und einem spielerischen Umgang mit Sprache geprägt.",
+          "Der Song kann somit als eine Art von Collage oder Montage von Bildern und Ideen interpretiert werden.",
+          "Insgesamt bleibt der Song ein Rätsel, das sich der direkten Interpretation entzieht und den Hörer dazu einlädt, eigene Assoziationen zu finden."
+        ],
+        "positive_aspekte": [
+          "Zieht zahlreiche Textstellen exakt heraus (z. B. Kuckucksuhrengeschäft, Haferschiff, Brief an den Spiegel).",
+          "Erkennt die ironische Note in den Schwaben‑Passagen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein surreales und traumartiges Gebilde, das sich einer direkten Interpretation entzieht.",
+          "Der Text oszilliert zwischen verschiedenen Bildern und Szenarien, die sich nicht unbedingt zu einem logischen Ganzen zusammenfügen.",
+          "Die erste Strophe beschreibt eine idyllische Morgenstunde in einem Kuckucksuhrengeschäft …",
+          "Die wiederkehrende Aufforderung, ein Haus aus den Knochen von Cary Grant zu bauen, kann als eine Art surrealer Wunsch oder Obsession interpretiert werden.",
+          "Cary Grant wird hier möglicherweise als Symbol für eine bestimmte Art von Schönheit oder Eleganz verwendet.",
+          "Die Knochen als Baumaterial deuten auf eine Verbindung zwischen Leben und Tod hin.",
+          "Der Text ist von einer gewissen Ironie und Selbstironie geprägt, insbesondere in der zweiten Strophe, wo die Schwaben als „peinlichstes“ am Schwabenladen bezeichnet werden.",
+          "Die Wiederholung der Na‑Na‑Na‑Sequenz am Ende des Songs unterstreicht die Traumartigkeit und die Unverbindlichkeit des Textes.",
+          "Insgesamt kann der Song als eine Art Collage von Bildern und Assoziationen interpretiert werden, die sich einer festen Bedeutung entziehen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die Bildwelt des Textes (Knochen, Cary Grant, Schwaben) mit einer thematischen Gegenüberstellung von Leben und Tod.",
+          "Bezieht sich konkret auf wiederkehrende strukturelle Elemente (Brief, Refrain, Na‑Na‑Motiv)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Cary Grant wird hier als Symbolfigur verwendet, dessen Knochen als Baumaterial für ein Haus dienen sollen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein surreales und traumartiges Gebilde, das sich einer direkten Interpretation entzieht.",
+          "Der Text oszilliert zwischen verschiedenen Bildern und Szenarien, die sich nicht unbedingt zu einem logischen Ganzen zusammenfügen.",
+          "Die Anfangszeilen schaffen eine Atmosphäre der Ruhe und des Friedens.",
+          "Die Sonne trägt Jugendstilkleider und verzehrt eine Stulle am Rhein, was eine Art von Idylle und Harmonie vermittelt.",
+          "Dies kann als eine Art von Hommage oder Tribut an die Welt der Kunst und des Kinos interpretiert werden.",
+          "Das Haus aus Knochen kann auch als ein Symbol für die Vergänglichkeit und die Zerbrechlichkeit des Lebens gesehen werden.",
+          "Der Text ist von einer gewissen Ironie und einem spielerischen Umgang mit Sprache geprägt.",
+          "Der Song kann somit als eine Art von Collage oder Montage von Bildern und Ideen interpretiert werden.",
+          "Insgesamt bleibt der Song ein Rätsel, das sich der direkten Interpretation entzieht und den Hörer dazu einlädt, eigene Assoziationen zu finden."
+        ],
+        "positive_aspekte": [
+          "Zieht exakt Textstellen heraus (z. B. Brief an den Spiegel, Schwaben‑Passage).",
+          "Erkennt die ironische Tonalität des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein surreales und traumartiges Gebilde, das sich einer direkten Interpretation entzieht.",
+          "Der Text oszilliert zwischen verschiedenen Bildern und Szenarien, die sich nicht unbedingt zu einem logischen Ganzen zusammenfügen.",
+          "Die erste Strophe beschreibt eine idyllische Morgenstunde in einem Kuckucksuhrengeschäft …",
+          "Die wiederkehrende Aufforderung, ein Haus aus den Knochen von Cary Grant zu bauen, kann als eine Art surrealer Wunsch oder Obsession interpretiert werden.",
+          "Cary Grant wird hier möglicherweise als Symbol für eine bestimmte Art von Schönheit oder Eleganz verwendet.",
+          "Die Knochen als Baumaterial sind jedoch ein makabres und unheimliches Element, das die Schönheit des Traums untergräbt.",
+          "Der Text ist voller Referenzen auf die deutsche Kultur und Landschaft, wie dem Schwabenladen und dem Rhein, die jedoch nicht in einer offensichtlichen Weise verwendet werden.",
+          "Die Wiederholung der Na‑Na‑Na‑Sequenz am Ende des Songs unterstreicht die Traumartigkeit des Textes.",
+          "Insgesamt kann der Song als eine Art Collage von Bildern und Ideen interpretiert werden, die sich zu einem surrealen und faszinierenden Ganzen zusammenfügen."
+        ],
+        "positive_aspekte": [
+          "Analysiert das makabre Element der Knochen‑Metapher und verknüpft es mit der ästhetischen Bildsprache des Songs.",
+          "Bezieht sich konkret auf kulturelle Referenzen (Schwabenladen, Rhein) und deren ambivalente Funktion."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1 und 2 sind nahezu identisch und zeigen wenig Variation; 3‑5 bieten zunehmend mehr textbezogene Analyse und weniger erfundene Inhalte.",
+    "empfehlung": "Interpretation 4 liefert die beste Balance aus faktentreuer Textbezug (keine Halluzinationen) und analytischer Tiefe, gefolgt von Interpretation 5. Für zukünftige Bewertungen sollte man darauf achten, generische Floskeln zu vermeiden und stattdessen mehr konkrete, textbasierte Analysen zu liefern."
+  }
+}

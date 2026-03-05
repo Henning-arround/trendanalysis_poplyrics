@@ -1,0 +1,110 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der Rauchringe … dient als Symbol für die flüchtigen, aber hartnäckigen Erinnerungen an die verlorene Liebe.",
+          "Jeder Rauchring bringt die alten Gefühle zurück und hält die Sehnsucht nach der verlorenen Person am Leben.",
+          "Die Zigaretten, die er raucht, werden zu einem Ritual, das die Erinnerungen an die Vergangenheit heraufbeschwört und es ihm unmöglich macht, die Vergangenheit zu vergessen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive des Textes (Rauchringe, Zigaretten, anhaltende Sehnsucht).",
+          "Verknüpft die Zeilen „I try to pretend… But my heart tells me no“ mit einer klaren Interpretation des inneren Konflikts.",
+          "Schließt mit einer textnahen Aussage über das Weiterleben der Liebesgeschichte („Our love story goes on“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der Rauchringe … dient als Symbol für die flüchtigen, aber hartnäckigen Erinnerungen an die verlorene Liebe.",
+          "Jeder Rauchring bringt die alten Gefühle zurück und hält die Sehnsucht nach der verlorenen Person am Leben.",
+          "Die Zigaretten, die er raucht, werden zu einem Ritual, das die Erinnerungen an die Vergangenheit heraufbeschwört und es ihm unmöglich macht, die Vergangenheit zu vergessen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Struktur: Einleitung, Bildanalyse, Konfliktbeschreibung, Schlussfolgerung.",
+          "Verwendet konkrete Textstellen („I try to pretend… But my heart tells me no“, „Our love story goes on\").",
+          "Erkennt die wiederkehrende Symbolik von Rauch und Träumen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der Rauchringe … dient als Symbol für die flüchtigen, aber hartnäckigen Erinnerungen an die verlorene Liebe.",
+          "Jeder Rauchring bringt die alten Gefühle zurück und hält die Sehnsucht nach der verlorenen Person am Leben.",
+          "Die Zigaretten, die er raucht, werden zu einem Ritual, das die Erinnerungen an die Vergangenheit heraufbeschwört und es ihm unmöglich macht, die Vergangenheit zu vergessen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Argumentationslinie, die den gesamten Songtext durchzieht.",
+          "Verbindet die wiederholte Bildsprache (Rauchringe, Smoke‑Dreams) mit dem emotionalen Kern des Liedes.",
+          "Schließt mit einer texttreuen Aussage über das Fortbestehen der Liebesgeschichte."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der Rauchringe … dient als Symbol für die flüchtigen, aber hartnäckigen Erinnerungen an die verlorene Liebe.",
+          "Jeder Rauchring bringt die alten Gefühle zurück und hält die Sehnsucht nach der verlorenen Person am Leben.",
+          "Die Zigaretten, die er raucht, werden zu einem Ritual, das die Erinnerungen an die Vergangenheit heraufbeschwört und es ihm unmöglich macht, die Vergangenheit zu vergessen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erfasst die zentrale Thematik von Verlust und unerfüllter Sehnsucht.",
+          "Bezieht sich explizit auf die Textzeilen, die das innere Zögern des Protagonisten beschreiben.",
+          "Schließt mit einer klaren, textbasierten Schlussfolgerung über das Weiterleben der Liebesgeschichte."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der Rauchringe … dient als Symbol für die flüchtigen, aber hartnäckigen Erinnerungen an die verlorene Liebe.",
+          "Jeder Rauchring bringt die alten Gefühle zurück und hält die Sehnsucht nach der verlorenen Person am Leben.",
+          "Die Träume, die der Protagonist zu unterdrücken versucht, lassen sich nicht so leicht vertreiben und kehren mit jedem Rauchring zurück, der ihn an die Vergangenheit erinnert.",
+          "Durch die Wiederholung der Rauchringe … wird die Unfähigkeit des Protagonisten deutlich, sich von der Vergangenheit zu lösen und in die Gegenwart zu finden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Bildsprache von Rauch und Träumen.",
+          "Verbindet die Zeilen „Our love story goes on“ mit einer Aussage über das Fortbestehen der Gefühle.",
+          "Bietet einen etwas differenzierteren Blick auf das Motiv der Erinnerung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen fast identisch dieselben Punkte, was zu einer geringen Varianz führt. Nur Interpretation 4 weicht inhaltlich stärker ab und enthält mehr erfundene, nicht textbasierte Aussagen.",
+    "empfehlung": "Ein Ansatz, der die Kernbilder (Rauchringe, Smoke‑Dreams, das innere Zögern) klar benennt und gleichzeitig die Interpretation offen lässt, erzielt die beste Balance zwischen Texttreue und analytischer Tiefe. Varianten, die zu viele spekulative Metaphern einführen, erhalten niedrigere Scores."
+  }
+}

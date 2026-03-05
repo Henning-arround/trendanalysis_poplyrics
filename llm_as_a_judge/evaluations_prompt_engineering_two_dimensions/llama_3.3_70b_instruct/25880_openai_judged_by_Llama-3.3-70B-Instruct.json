@@ -1,0 +1,99 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textstelle lässt beide Lesarten offen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen öffentlicher Sichtbarkeit und dem Wunsch nach innerer, unverfälschter Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern des Feuers und des Nebels ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textstelle suggeriert ein Verpassen des Zufalls."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Bildfigur der 'Augen in der Menschenmasse' fungiert zugleich als Beobachter, Verfolger und Wegweiser."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität zwischen Zufall und Selbstbestimmung ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die narrative Spannung erzeugt eine thematische Komplexität."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von Hoffnungslosigkeit und Befreiung erzeugt einen inneren Widerspruch."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern des Spiels und des Feuers ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textstelle suggeriert ein Bild von Beobachtung und Verfolgung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von 'Hohn und Hass' und 'reiner Liebe' erzeugt einen inneren Widerspruch."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der lyrischen Bildsprache ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textstelle suggeriert ein ambivalentes Bild."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Referenz zu 'Augen in der Menschenmasse' erzeugt ein Spannungsfeld zwischen individueller Beobachtung und anonymem Publikum."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegenüberstellung von Feuer und Nebel ist detailliert und textbezogen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent in ihrer Tiefe und Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und Ambivalenzen."
+  }
+}

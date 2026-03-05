@@ -1,0 +1,99 @@
+{
+  "song": "On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die surreale Bildsprache bricht die lineare Erzählung und erinnert an den Jazz-Improvisationsgeist"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Sonnenlicht wird zum Symbol für das ersehnte innere Leuchten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verbindet zwei scheinbar gegensätzliche Stimmungen und analysiert die Texte detailliert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Goldstaubs an den Füßen verleiht dem Alltag eine fast märchenhafte Verheißung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des Affen um den Fahnenmast herum das Chaos des Alltags verspielt einbindet"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Absurdität des Versuches, Ordnung zu erzwingen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das wiederholte Motiv des Tanzes und der Musik miteinander verwoben sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Why should we spend money on a little show or two' kritisiert oberflächliche Unterhaltung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Texte detailliert und verbindet sie zu einem kaleidoskopischen Stimmungsbild"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die absurde Wortkette 'bop-doodly-bop-a-do-a-baby' lockert die Ernsthaftigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des Affen, der sich um den Fahnenmast windet, betont die spielerische Natur des Optimismus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Leichtigkeit des Optimismus"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Erwähnung der Mutter als Lehrerin der Wahrheit suggeriert, dass das Streben nach Authentizität tief in familiären Werten verwurzelt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Why should we spend money on a little show or two' kritisiert oberflächliche Ablenkungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Texte detailliert und verbindet sie zu einem Bild von Optimismus als bewusste Flucht aus innerer Schwere"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bieten eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und die Texte detailliert analysiert"
+  }
+}

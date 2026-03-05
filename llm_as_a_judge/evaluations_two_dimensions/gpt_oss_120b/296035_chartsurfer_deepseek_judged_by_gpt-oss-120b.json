@@ -1,0 +1,134 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine hymnische Liebeserklärung, die die transformative Kraft einer bedeutsamen Beziehung in den Vordergrund stellt.",
+          "Die Lyrics sind erfüllt von einer tiefen emotionalen Verbindung und einer unerschütterlichen Zuversicht, die durch die wiederkehrenden Aussagen ... unterstrichen wird.",
+          "Die Beziehung wird als eine Quelle der Inspiration und des Sinns dargestellt, die das Leben der Protagonisten mit neuer Bedeutung erfüllt.",
+          "Die Zeilen ... deuten auf eine tiefe Vertrauensbasis hin, während ... die zeitlose und universelle Natur ihrer Liebe betont.",
+          "Die wiederkehrende Metapher des ... symbolisiert die Wärme und das Leben, das die Beziehung in ihr Leben bringt.",
+          "Der Songtext durchzieht eine Brücke zwischen der deutschen und englischen Sprache, was die Universalität der Gefühle und Erfahrungen unterstreicht.",
+          "Die englischen Passagen ... fügen sich nahtlos in den deutschen Text ein und verstärken die emotionale Tiefe des Songs.",
+          "Insgesamt vermittelt ... eine Botschaft der Hoffnung, der Ermächtigung und der unbedingten Liebe.",
+          "Der Song feiert die Idee, dass mit der richtigen Person an der Seite alles möglich wird und dass Liebe die Kraft hat, das Leben zu verändern und ihm einen tieferen Sinn zu geben."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die mehrsprachigen Passagen und die wiederholten Phrasen „Ich will – ich kann / I can – I will“ im Text.",
+          "Bezieht sich auf konkrete Textzeilen (z. B. „Ein Wort, das alles trägt“, „Ein Atemzug der Ewigkeit“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine hymnische Liebeserklärung, die die transformative Kraft einer bedeutsamen Beziehung in den Vordergrund stellt.",
+          "Die Lyrics sind erfüllt von einer tiefen emotionalen Verbindung und einer unerschütterlichen Zuversicht, die durch die wiederkehrenden Aussagen ... unterstrichen wird.",
+          "Die Beziehung wird als eine Quelle der Inspiration und des Sinns dargestellt, die das Leben der Protagonisten mit neuer Bedeutung erfüllt.",
+          "Die Zeilen ... deuten auf eine tiefe Vertrauensbasis hin, während ... die zeitlose und universelle Natur ihrer Liebe betont.",
+          "Die wiederkehrende Metapher des ... symbolisiert die Wärme und das Leben, das die Beziehung in ihr Leben bringt.",
+          "Der Songtext durchzieht eine Brücke zwischen der deutschen und englischen Sprache, was die Universalität der Gefühle und Erfahrungen unterstreicht.",
+          "Die englischen Passagen ... fügen sich nahtlos in den deutschen Text ein und verstärken die emotionale Tiefe des Songs.",
+          "Insgesamt vermittelt ... eine Botschaft der Hoffnung, der Ermächtigung und der unbedingten Liebe.",
+          "Der Song feiert die Idee, dass mit der richtigen Person an der Seite alles möglich wird und dass Liebe die Kraft hat, das Leben zu verändern und ihm einen tieferen Sinn zu geben."
+        ],
+        "positive_aspekte": [
+          "Erkennt die bilinguale Struktur des Textes und die wiederholten Motivationen („Ich will – ich kann / I can – I will“).",
+          "Nutzt konkrete Textzitate, um die Analyse zu stützen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine hymnische Liebeserklärung, die die transformative Kraft einer bedeutsamen Beziehung in den Vordergrund stellt.",
+          "Die Lyrics sind erfüllt von einer tiefen emotionalen Verbindung und einer unerschütterlichen Zuversicht, die durch die wiederkehrenden Aussagen ... unterstrichen wird.",
+          "Die Beziehung wird als eine Quelle der Inspiration und des Sinns dargestellt, die das Leben der Protagonisten mit neuer Bedeutung erfüllt.",
+          "Die Zeilen ... deuten auf eine tiefe Vertrauensbasis hin, während ... die zeitlose und universelle Natur ihrer Liebe betont.",
+          "Die wiederkehrende Metapher des ... symbolisiert die Wärme und das Leben, das die Beziehung in ihr Leben bringt.",
+          "Der Songtext durchzieht eine Brücke zwischen den Kulturen, die die Gemeinsamkeit menschlicher Emotionen hervorhebt.",
+          "Die englischen Passagen ... fügen sich nahtlos in den deutschen Text ein und verstärken die emotionale Tiefe des Songs.",
+          "Insgesamt vermittelt ... eine Botschaft der Hoffnung, der Ermächtigung und der unbedingten Liebe.",
+          "Der Song feiert die Idee, dass mit der richtigen Person an der Seite alles möglich wird und dass Liebe die Kraft hat, das Leben zu verändern und ihm einen tieferen Sinn zu geben."
+        ],
+        "positive_aspekte": [
+          "Stellt klar die bilinguale Beschaffenheit des Songs heraus.",
+          "Bezieht sich auf zentrale Motive wie „Ein Atemzug der Ewigkeit“ und „Sonnenlicht in deinen Augen“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine hymnische Liebeserklärung, die die transformative Kraft einer bedeutsamen Beziehung in den Vordergrund stellt.",
+          "Die Lyrics sind erfüllt von einer tiefen emotionalen Verbindung und einer unerschütterlichen Zuversicht, die durch die wiederkehrenden Aussagen ... unterstrichen wird.",
+          "Die Beziehung wird als eine Quelle der Inspiration und des Sinns dargestellt, die das Leben der Protagonisten mit neuer Bedeutung erfüllt.",
+          "Die Zeilen ... deuten auf eine tiefe Vertrauensbasis hin, während ... die zeitlose und universelle Natur ihrer Liebe betont.",
+          "Die wiederkehrende Metapher des ... symbolisiert die Wärme und das Leben, das die Beziehung in ihr Leben bringt.",
+          "Der Songtext durchzieht eine Brücke zwischen der deutschen und englischen Sprache, was die Universalität der Gefühle und Erfahrungen unterstreicht.",
+          "Die englischen Passagen ... fügen sich nahtlos in den deutschen Text ein und verstärken die emotionale Tiefe des Songs.",
+          "Insgesamt vermittelt ... eine Botschaft der Hoffnung, der Ermächtigung und der unbedingten Liebe.",
+          "Der Song feiert die Idee, dass mit der richtigen Person an der Seite alles möglich wird und dass Liebe die Kraft hat, das Leben zu verändern und ihm einen tieferen Sinn zu geben."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Phrase „Ich will – ich kann / I can – I will“ als zentrales Motiv.",
+          "Verweist korrekt auf die Mischung aus deutschen und englischen Zeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine hymnische Liebeserklärung, die die transformative Kraft einer bedeutsamen Beziehung in den Vordergrund stellt.",
+          "Die Lyrics sind erfüllt von einer tiefen emotionalen Verbindung und einer unerschütterlichen Zuversicht, die durch die wiederkehrenden Aussagen ... unterstrichen wird.",
+          "Die Beziehung wird als eine Quelle der Inspiration und des Sinns dargestellt, die das Leben der Protagonisten mit neuer Bedeutung erfüllt.",
+          "Die Zeilen ... deuten auf eine tiefe Vertrauensbasis hin, während ... die zeitlose und universelle Natur ihrer Liebe betont.",
+          "Die wiederkehrende Metapher des ... symbolisiert die Wärme und das Leben, das die Beziehung in ihr Leben bringt.",
+          "Der Songtext durchzieht eine Brücke zwischen den Kulturen, die die Gemeinsamkeit menschlicher Emotionen hervorhebt.",
+          "Die englischen Passagen ... fügen sich nahtlos in den deutschen Text ein und verstärken die emotionale Tiefe des Songs.",
+          "Insgesamt vermittelt ... eine Botschaft der Hoffnung, der Ermächtigung und der unbedingten Liebe.",
+          "Der Song feiert die Idee, dass mit der richtigen Person an der Seite alles möglich wird und dass Liebe die Kraft hat, das Leben zu verändern und ihm einen tieferen Sinn zu geben."
+        ],
+        "positive_aspekte": [
+          "Betont korrekt die kulturelle Brücke zwischen Deutsch und Englisch.",
+          "Nutzt zentrale Textstellen als Analysegrundlage."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch, was zu einer sehr geringen Varianz führt (Halluzinations-Score konstant 5, Tiefe-Score konstant 2).",
+    "empfehlung": "Die vorliegenden Analysen sind faktentreu, aber stark oberflächlich. Ein besserer Ansatz wäre, konkrete Textstellen detaillierter zu untersuchen, mehrdeutige Passagen zu diskutieren und weniger generische Wertungen zu verwenden, um die analytische Tiefe zu erhöhen."
+  }
+}

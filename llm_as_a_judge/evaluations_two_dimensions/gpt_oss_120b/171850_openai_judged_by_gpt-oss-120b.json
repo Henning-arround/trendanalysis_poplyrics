@@ -1,0 +1,94 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Gute Struktur: Refrain, Bildsprache, Metaphern und Schluss werden klar analysiert.",
+          "Wenig bis keine vagen Verallgemeinerungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Drakes Stimme bleibt dabei zugleich selbstbewusst und verletzlich, ein Spiegel der modernen Rap‑Kultur, die zwischen Glanz und innerer Leere pendelt.“"
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse fast aller Textpassagen.",
+          "Verknüpft wiederholte Motive (Dank, Flucht, Rivalität) sinnvoll.",
+          "Nur ein einziger vager Kulturbezug, sonst sehr faktentreu."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Interpretation.",
+          "Erkennt die Ambivalenz zwischen „influential“‑Selbstwahrnehmung und Mentorrolle.",
+          "Gute Verknüpfung von Symbolen (Missing Key, Black Sheep)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Damit stellt er die Schnelllebigkeit der Hip‑Hop‑Kultur in den Vordergrund, in der Erfolge sofort konsumiert, aber ebenso rasch vergessen werden.“",
+          "„Abschließend bleibt das Bild eines Künstlers, der zwischen Selbstinszenierung und dem Bedürfnis nach authentischer Verbindung schwankt, und dessen Dankbarkeit zugleich ein Appell und ein Schutzmechanismus ist.“"
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textstellen zu Themen wie Mentorschaft und Wertschätzung.",
+          "Erkennt die Spannung zwischen materiellen Zeichen und nachhaltiger Anerkennung.",
+          "Nur wenige, klar erkennbare Oberflächlichkeits‑Passagen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend detailgenaue Ableitung aus dem Text.",
+          "Erklärt komplexe Metaphern (z. B. „shallow nigga but deep enough to have gone swimming“).",
+          "Verbindet alle wiederkehrenden Motive zu einer kohärenten, tiefgründigen Lesart."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben weitgehend konsistent im Bezug auf die Kerninhalte des Songs; Unterschiede liegen hauptsächlich im Grad der Oberflächlichkeit.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus faktentreuer Textbezug und tiefgehender Analyse. Für zukünftige Bewertungen sollten Modelle darauf achten, vage Kultur‑ oder Genre‑Verallgemeinerungen zu vermeiden, um den Halluzinations‑Score hoch zu halten, und gleichzeitig die Textbelege weiter zu vertiefen, um den Tiefe‑Score zu maximieren."
+  }
+}

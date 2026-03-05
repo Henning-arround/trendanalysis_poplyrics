@@ -1,0 +1,99 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der 'Atemzug der Ewigkeit' fungiert als Metapher für einen Moment, in dem Zeit und Unendlichkeit zusammenfließen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe als Quelle kontinuierlicher Erneuerung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verbindet das persönliche Liebesbekenntnis mit einer fast spirituellen Selbstbestätigung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das einleitende Bild 'Ein Wort, das alles trägt' suggeriert, dass Sprache und Versprechen zugleich das Fundament einer Beziehung bilden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'yes, I can – I will' das Motiv der Selbstermächtigung betont"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verbindet das klassische deutschsprachige Liebeslied mit einer fast hymnischen Selbstbestätigung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Wechsel zwischen deutschen und englischen Zeilen verstärkt das Gefühl einer universellen Botschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metaphern 'daily sunshine' und 'Paradies wird wahr' verdeutlichen, dass das Geliebte nicht nur ein Begleiter, sondern ein Quell von Licht und Sinn ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verbindet das persönliche Liebesbekenntnis mit einer fast spirituellen Selbstbestätigung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'Wort, das alles trägt' fungiert als Symbol für das Versprechen, das in einem einzigen Blick impliziert, aber nicht nur verspricht, sondern hält"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird zum ununterbrochenen, zeitlosen Puls, der das Individuum befähigt, sowohl zu wollen als auch zu können"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft in einer fast poetischen Dualität von Deutsch und Englisch das Motiv der beidseitigen Befähigung durch Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'Wort, das alles trägt' und der 'Blick, der nie verspricht, nur hält' fungieren als Metaphern für ein Versprechen, das nicht durch leere Zusicherungen, sondern durch beständige Präsenz definiert wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Ein Leben lang mit dir', 'Ein Leben voller Sinn' und das Bild des gemeinsamen Durchschreitens von Feuer und Ziel verdeutlichen ein partnerschaftliches Bündnis"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation schildert die Metamorphose des Individuums durch Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die erste Interpretation liefert eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz für weitere Analysen dienen"
+  }
+}

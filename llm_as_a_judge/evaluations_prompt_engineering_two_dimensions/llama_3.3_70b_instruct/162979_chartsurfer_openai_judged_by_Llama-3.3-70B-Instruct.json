@@ -1,0 +1,99 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nachkriegs-USA als Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft lässt sich in der wiederholten Zeile zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und die Betonung der Ambivalenz zwischen Erwartung und Enttäuschung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die afro-amerikanische Erfahrung von Arbeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Diskrepanz zwischen Leistung und Belohnung"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der mehrschichtigen Botschaft und die Analyse der Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die amerikanische Ideologie des 'comfort food'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die humorvolle, aber zugleich irritierende Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und die Betonung der Ambivalenz zwischen Erwartung und Enttäuschung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die patriarchale Haushaltsstruktur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft lässt sich in der wiederholten Zeile zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und die Betonung der Ambivalenz zwischen Erwartung und Enttäuschung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wachsende Konsumkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Diskrepanz zwischen dem wachsenden Konsumideal und den anhaltenden ökonomischen Unsicherheiten"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und die Betonung der Ambivalenz zwischen Erwartung und Enttäuschung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und der Betonung der Ambivalenz zwischen Erwartung und Enttäuschung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Konsistenz in der Analyse der Metaphern und der Betonung der Ambivalenz zwischen Erwartung und Enttäuschung"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im Kontext der Folk‑Revival‑Bewegung und der gesellschaftlichen Umbrüche der 60er‑Jahre – Bürgerrechte, Vietnamkrieg und die wachsende Skepsis gegenüber autoritären Strukturen.“ (historische Einordnung, nicht im Text belegt)",
+          "„Die Zeile ‚a time for peace, I swear it’s not too late‘ fügt eine implizite Dringlichkeit hinzu, ohne jedoch einen konkreten historischen Bezug zu nennen.“ (Interpretation einer Dringlichkeit, die nicht aus dem Text hervorgeht)"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der zentrale Kern des Songs ist die zyklische Ordnung des Lebens.“ (allgemeine Aussage ohne nähere Textanalyse)",
+          "„Die Antithesen erzeugen eine thematische Komplexität, die nicht zu einer eindeutigen Wertung führt.“ (vage, wiederholt bereits genannte Idee)"
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge: erkennt die wiederholten Refrains und die Antithesen im Text.",
+          "Erklärt die Ambivalenz der Gegensätze und lässt Raum für mehrere Deutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Entstand 1966 im Kontext der Bürgerrechtsbewegung und der beginnenden Gegenkultur.“ (historischer Kontext, nicht im Text erwähnt)",
+          "„Bildlich wird das Universum als Uhrwerk dargestellt.“ (Metapher, die nicht im Songtext vorkommt)",
+          "„Doppelte Symbolschicht – säkular‑politisch und sakral‑existential.“ (Interpretationsrahmen ohne Textbeleg)"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der zentrale Kern des Liedes ist die zyklische Ordnung des Lebens.“ (allgemeine Feststellung)",
+          "„Die Wiederholung des Wortes ‚time‘ fungiert als metrisches und semantisches Gerüst.“ (wiederholt bereits genannte Beobachtung ohne Detail)"
+        ],
+        "positive_aspekte": [
+          "Identifiziert konsequent die Antithesen und die wiederholende Struktur.",
+          "Verknüpft den Text mit biblischer Quelle und erkennt die offene Hierarchie der Gegensätze."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im Kontext der Bürgerrechtsbewegung, Vietnamkrieg und der beginnenden Gegenkultur.“ (historische Einordnung, nicht im Text belegt)",
+          "„Die wiederholte Betonung von ‚time‘ statt von ‚choice‘ lässt Raum für Interpretationen, ob das Lied deterministische Schicksalsvorstellungen oder ein Plädoyer für bewusste Handlungsfähigkeit vermittelt.“ (Spekulative Aussage über Intention)"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der zentrale Kern des Songs ist die zyklische Ordnung des Lebens.“ (generische Aussage)",
+          "„Die Antithesen erzeugen Spannungen, die nicht aufgelöst, sondern bewusst nebeneinander gestellt werden.“ (wiederholt bereits genannte Idee ohne neue Analyse)"
+        ],
+        "positive_aspekte": [
+          "Klare Unterscheidung zwischen Textbezug und spekulativer Kontextualisierung.",
+          "Betont die Ambiguität zwischen Determinismus und Wahlfreiheit, was textbasiert ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im Kontext des Kalten Krieges und der wachsenden Antikriegs‑Bewegung 1966 als implizite politische Aussage gelesen werden kann.“ (historischer Kontext, nicht im Text erwähnt)",
+          "„Die Bürgerrechtsbewegung, die sexuelle Revolution und die Angst vor nuklearer Vernichtung erzeugen ein Umfeld, in dem die Frage nach dem richtigen Zeitpunkt für Handeln besonders drängend ist.“ (Spekulative Kontextualisierung)"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song verknüpft die biblische Weisheit aus Prediger 3 mit der 1960er‑Folktradition.“ (allgemeine Feststellung)",
+          "„Die emotionale Wirkung entsteht aus der Spannung zwischen dem beruhigenden, fast liturgischen Rhythmus und den provokanten Gegenüberstellungen.“ (vage, nicht konkret analysiert)"
+        ],
+        "positive_aspekte": [
+          "Erkennt die liturgische Rhythmik und die Antithesen im Text.",
+          "Verbindet den Text mit der historischen Stimmung, wenn auch spekulativ."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Entstand in einer Phase intensiver sozialer Umbrüche: die Bürgerrechtsbewegung, der Vietnamkrieg und die aufkommende Gegenkultur.“ (historischer Kontext, nicht im Text belegt)",
+          "„Das Bild des ‚turn‘ impliziert Rotation, also ein ständiges Zurückkehren, während die Zeile ‚a time to refrain from embracing‘ eine bewusste Zurückhaltung einführt, die das Bild der unaufhörlichen Bewegung unterbricht.“ (Interpretation, die über den Text hinausgeht)"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der zentrale Kern des Songs ist die zyklische Ordnung des Lebens.“ (generische Aussage)",
+          "„Die Antithesen fungieren zugleich als Metaphern für gesellschaftliche Doppeldeutigkeiten der 1960er‑Jahre.“ (vage, ohne konkrete Textbelege)"
+        ],
+        "positive_aspekte": [
+          "Identifiziert konsequent die wiederholenden Refrains und die Gegenüberstellungen.",
+          "Diskutiert die mögliche Spannung zwischen Zyklus und individueller Dringlichkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen die Grundthese (zyklische Ordnung, Antithesen, biblischer Ursprung). Die Varianz liegt vor allem in der Menge spekulativer historischer Kontextualisierungen – Interpretation 1, 2 und 4 enthalten deutlich mehr erfundene Aussagen, während 3 und 5 sparsamer damit umgehen.",
+    "empfehlung": "Eine gute Interpretation sollte den Text klar benennen (Antithesen, Refrains, biblische Quelle) und gleichzeitig nur vorsichtig historische oder emotionale Kontextualisierungen einbringen. Interpretation 5 balanciert Texttreue und analytische Tiefe am besten, weil sie wenige unbelegte Historien einfließen lässt und dennoch die Ambiguitäten des Textes herausarbeitet."
+  }
+}

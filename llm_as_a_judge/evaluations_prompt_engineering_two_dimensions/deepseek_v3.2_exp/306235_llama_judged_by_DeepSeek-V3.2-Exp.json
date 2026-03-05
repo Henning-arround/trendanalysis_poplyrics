@@ -1,0 +1,95 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs kann als eine Art von melancholischer Sehnsucht oder Nostalgie beschrieben werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Kontextualisierung des Songs könnte auf die Bedeutung von Musik als Ausdrucksmittel für emotionale Erfahrungen und die Suche nach Verbindung und Freiheit in der modernen Gesellschaft hinweisen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und bietet eine plausible Analyse der Metaphern und Symbole im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Flying in the long wide airplane / Looking at the world below' erweitern diese Metapher, indem sie die Perspektive des Protagonisten auf die Welt und seine Stellung in ihr thematisieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, eine Atmosphäre der Sehnsucht und des Verlangens zu erzeugen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare Analyse der Metaphern und Symbole im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität des Songs liegt in der Offenheit seiner Interpretation, die es dem Hörer ermöglicht, eigene Erfahrungen und Emotionen in den Text hineinzuprojizieren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und bietet eine plausible Analyse der Metaphern und Symbole im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'blauen' Farbe kann als Symbol für die Unendlichkeit und die Freiheit interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Kontextualisierung des Songs ist wichtig, um die thematischen Komplexitäten und die symbolischen Ordnungen zu verstehen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Analyse der Metaphern und Symbole im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs kann als eine Art von melancholischer Sehnsucht oder Nostalgie beschrieben werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und bietet eine plausible Analyse der Metaphern und Symbole im Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Halluzinations- und Tiefenbewertung, aber insgesamt bieten sie eine plausible Analyse des Songs",
+    "empfehlung": "Die Interpretationen sollten weiterhin auf ihre Textbezogenheit und analytische Tiefe überprüft werden, um eine optimale Interpretation zu finden"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musikalität der 1950er-Jahre verstärkt die Tragik"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Schuld und Verführung"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung zwischen zwei Menschen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Schuld und Manipulation"
+        ],
+        "positive_aspekte": [
+          "Erkennung der Kontraste zwischen Schönheit und Härte"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musikalität der 1950er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Schuld und Manipulation"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der emotionalen Zerrissenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zarte Schönheit der Protagonistin"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Schuld und Verführung"
+        ],
+        "positive_aspekte": [
+          "Erkennung der Rolle von Satan als Verführer"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die mythologische Sprache"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Schuld und Verlorenheit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Steins"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Symbolik, aber variieren in der Tiefe und der Anzahl der halluzinierten Aussagen.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf einer detaillierten, textbasierten Analyse der Metaphern und Symbolik liegen, ohne dabei in Spekulationen oder allgemeine Aussagen zu verfallen."
+  }
+}

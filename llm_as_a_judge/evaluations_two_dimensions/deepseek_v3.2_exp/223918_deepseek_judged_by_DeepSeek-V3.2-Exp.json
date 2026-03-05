@@ -1,0 +1,99 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte beschreiben eine Welt, in der alles kontrolliert und manipuliert wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kritik an der Gesellschaft und der Politik interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen Schein und Sein"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text beschreibt eine Person mit einem öffentlichen Gesicht und einem privaten Auge"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kritik an der Verdrängung von Wahrheit interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die wiederholte Phrase 'Hear no evil, See no evil, Speak no evil'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte sind voller Hinweise auf Verbrechen und Schuld"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kritik an der Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung von Symbolen wie dem 'paperweight' und dem 'ceiling fan'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zweite Hälfte des Songs wird zunehmend surrealer"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kritik an der Verdrängung von Wahrheit interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die wiederholte Phrase 'Hear no evil, See no evil, Speak no evil'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene, in der eine 'hat check girl' mit einem Siamese-Zwilling 'necking' ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kritik an der Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung von Symbolen und die Verdrängung von Wahrheit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf den Text beziehen und weniger spekulativ sein"
+  }
+}

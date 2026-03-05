@@ -1,0 +1,147 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"Sterne\", die \"uns hoch\" gebracht werden, können als Symbol für Erfolg, Freiheit oder Unabhängigkeit interpretiert werden",
+          "Die \"Glut am Heck\" möglicherweise auf Gefahr, Zerstörung oder Selbstzerstörung hinweist",
+          "Die Zeile \"Verglühen wir gerne / Behind the moon\" suggeriert eine Art von Selbstauflösung oder Flucht in eine andere Welt",
+          "Die kulturelle und historische Einordnung des Songs in die späten 1990er Jahre … könnte darauf hindeuten, dass der Song auch als Kommentar zur menschlichen Existenz in einer sich schnell verändernden Welt verstanden werden kann",
+          "Die Zeile \"Keine Sehnsucht / Nach Mutter Erde\" deutet auf eine Art von Entfremdung oder Loslösung von traditionellen Bindungen hin",
+          "Die wiederholte Aussage \"Uns geht's gut\" am Ende des Songs kann als ironische oder sogar dystopische Bemerkung verstanden werden",
+          "Durch die Identifizierung von Ambiguitäten und Widersprüchen im Text wird deutlich, dass der Song eine Vielzahl von Interpretationen und Lesarten zulässt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt",
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein",
+          "Die Verwendung von literarischen Stilmitteln … trägt zur thematischen Komplexität des Songs bei",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Optimismus und Pessimismus, Hoffnung und Verzweiflung"
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textstellen (z. B. „Uns geht's gut“, „Doch niemand ahnt“)",
+          "Versucht, Symbolik (Sterne, Glut, Verglühen) zu deuten",
+          "Bezieht den historischen Kontext (späte 1990er) ein"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"Sterne\", die \"uns hoch\" gebracht werden, können als Symbol für Erfolg, Freiheit oder Unabhängigkeit interpretiert werden",
+          "Die \"Glut am Heck\" möglicherweise auf Gefahr, Zerstörung oder Selbstzerstörung hinweist",
+          "Die Zeile \"Verglühen wir gerne / Behind the moon\" suggeriert eine Art von Selbstauflösung oder Flucht in eine andere Welt",
+          "Die kulturelle und historische Einordnung des Songs in die späten 1990er Jahre … könnte darauf hindeuten, dass der Song auch als Kommentar zur menschlichen Existenz in einer sich schnell verändernden Welt verstanden werden kann",
+          "Die Zeile \"Keine Sehnsucht / Nach Mutter Erde\" deutet auf eine Art von Entfremdung oder Loslösung von traditionellen Bindungen hin",
+          "Die wiederholte Aussage \"Uns geht's gut\" am Ende des Songs kann als ironische oder sogar dystopische Bemerkung verstanden werden",
+          "Durch die Identifizierung von Ambiguitäten und Widersprüchen im Text wird deutlich, dass der Song eine Vielzahl von Interpretationen und Lesarten zulässt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt",
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein",
+          "Die Verwendung von literarischen Stilmitteln … trägt zur thematischen Komplexität des Songs bei",
+          "Die emotionale Wirkung des Songs ist geprägt von einer anfänglichen Euphorie zu einer tieferen Unsicherheit und Ambiguität"
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Zeile „Doch niemand ahnt“ als Hinweis auf Diskrepanz",
+          "Verknüpft mehrere Bildmotive (Sterne, Glut, Verglühen) miteinander"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Sterne\" können als Symbol für Erfolg, Anerkennung oder Unendlichkeit interpretiert werden",
+          "\"Glut am Heck\" könnte auf Gefahr oder ein nicht wahrgenommenes Risiko hinweisen",
+          "\"Verglühen wir gerne / Behind the moon\" suggeriert Selbstzerstörung mit einer gewissen Akzeptanz oder Freude",
+          "Die emotionale Wirkung ist eine Ambiguität zwischen Optimismus und Pessimismus, Sicherheit und Unsicherheit",
+          "Die Wiederholung der Phrase kann als Selbstüberzeugung oder Verdrängung interpretiert werden",
+          "Der kulturelle und historische Kontext könnte auf Unzufriedenheit oder Desillusionierung mit der Gesellschaft hinweisen",
+          "Die tiefere Bedeutungsebene bleibt offen und variiert je nach Interpretation"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt",
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein",
+          "Diese Aussage wird durch die restlichen Textzeilen und die musikalische Atmosphäre in Frage gestellt"
+        ],
+        "positive_aspekte": [
+          "Nimmt die Kernzeile „Uns geht's gut“ und „Doch niemand ahnt“ als Ausgangspunkt",
+          "Versucht, die wiederholte Phrase als mögliche Form von Verdrängung zu deuten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Sterne\", \"am Heck die Glut\" und das \"Verglühen\" können als Symbole für die Sehnsucht nach Transzendenz und die Flucht aus der irdischen Realität interpretiert werden",
+          "Die Zeile \"Behind the moon\" suggeriert eine Art von Entrückung oder Flucht in eine andere Welt",
+          "Die emotionale Wirkung ist eine Mischung aus Optimismus und Pessimismus, Hoffnung und Verzweiflung",
+          "Die kulturelle und historische Einordnung in die späten 1990er Jahre könnte darauf hindeuten, dass der Song als Kommentar zur damaligen gesellschaftlichen Situation dient",
+          "Die Zeile \"Keine Sehnsucht / Nach Mutter Erde\" könnte als Kritik an der zunehmenden Globalisierung und der Entfremdung von der Natur gelesen werden",
+          "Die Ambiguitäten und Widersprüche lassen darauf schließen, dass der Song eine tiefergehende Reflexion über die menschliche Existenz und die Suche nach Sinn und Glück anbietet"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt",
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein",
+          "Die Verwendung von literarischen Stilmitteln … trägt zur thematischen Komplexität des Songs bei"
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textstellen und deren mögliche Bedeutungen",
+          "Bezieht den historischen Kontext (späte 1990er) ein"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Sterne\" können als Symbol für Sehnsucht nach Transzendenz und Unendlichkeit interpretiert werden",
+          "Diese Sehnsucht wird durch \"Keine Sehnsucht / Nach Mutter Erde\" konterkariert, was auf eine Ambiguität in der emotionalen Wirkung hinweist",
+          "\"Glut am Heck\" kann als Symbol für Zerstörung und Untergang interpretiert werden",
+          "Dies stellt die Aussage \"Uns geht's gut\" erneut in Frage",
+          "Die emotionale Wirkung ist eine Mischung aus Zuversicht und Unsicherheit",
+          "Der kulturelle und historische Kontext ist eine Zeit der Umbrüche und Veränderungen",
+          "Die tiefere Bedeutungsebene ist eine Auseinandersetzung mit der menschlichen Existenz und der Suche nach Sinn und Orientierung",
+          "Die symbolische Ordnung des Songs ist durch Ambiguitäten und Widersprüche gekennzeichnet"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt",
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein",
+          "Die Verwendung von literarischen Stilmitteln … trägt zur thematischen Komplexität des Songs bei"
+        ],
+        "positive_aspekte": [
+          "Erkennt die Zeile „Doch niemand ahnt“ als Hinweis auf Diskrepanz zwischen äußerer Wahrnehmung und innerer Realität",
+          "Versucht, Symbolik (Sterne, Glut) mit emotionaler Wirkung zu verknüpfen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen und zeigen hohe Ähnlichkeit; die Varianz ist gering, was auf ein gemeinsames, aber stark halluziniertes Grundgerüst hindeutet.",
+    "empfehlung": "Die aktuelle Generation von LLMs neigt dazu, viele spekulative Aussagen zu produzieren, die nicht im Text verankert sind. Für eine bessere Bewertung sollten Modelle stärker auf direkte Textbelege fokussieren und weniger unbegründete kulturelle oder historische Kontextualisierungen einbringen."
+  }
+}

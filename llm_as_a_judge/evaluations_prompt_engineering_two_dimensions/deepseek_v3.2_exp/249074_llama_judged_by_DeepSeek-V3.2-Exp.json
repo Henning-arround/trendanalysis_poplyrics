@@ -1,0 +1,97 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'She's awake now, this chick' am Ende des Songs kann als Hinweis auf die beginnende Emanzipation der Frau und ihre wachsende Selbstständigkeit gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song spiegelt die gesellschaftlichen Normen der Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante kulturwissenschaftliche Perspektive auf die Rolle der Frau in der Gesellschaft der 1950er Jahre"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'silbernen Sterne, die aus dem Blickfeld verschwinden' symbolisieren den Übergang von der Nacht zum Tag und damit auch den Übergang von der Freiheit zur Verantwortung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song fordert die Frau auf, ihre Tanznächte zu beenden und ein ruhiges Leben zu führen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Erklärung für die Symbolik im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'silbernen Sterne, die aus dem Blickfeld verschwinden' symbolisieren den Übergang von der Nacht zum Tag und damit auch den Übergang von der Freiheit zur Verantwortung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song spiegelt die Erwartungen an Frauen in den 1950er Jahren wider"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare Analyse der Songstruktur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'silbernen Sterne, die aus dem Blickfeld verschwinden' symbolisieren den Übergang von der Nacht zum Tag und damit auch den Übergang von der Freiheit zur Verantwortung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song fordert die Frau auf, ihre Tanznächte zu beenden und ein ruhiges Leben zu führen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Erklärung für die Symbolik im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song spiegelt die patriarchalischen Strukturen der 1950er Jahre wider"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine kurze und prägnante Analyse des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse des Songs",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

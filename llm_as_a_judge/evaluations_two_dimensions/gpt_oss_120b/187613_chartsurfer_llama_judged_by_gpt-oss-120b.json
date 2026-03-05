@@ -1,0 +1,84 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft fast jede Textzeile mit einer konkreten, textbasierten Interpretation.",
+          "Erwähnt Wortspiele, die im Text implizit vorkommen, und interpretiert die „Graduation“ als Lern‑/Reife‑Metapher – ein Hinweis auf mehrschichtige Bedeutung.",
+          "Durchgehend klar belegt, kaum vage Formulierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Analyse der Metaphern (Blackboard‑Himmel, ABC/XYZ, Stern‑Schrift).",
+          "Gute Balance zwischen Zusammenfassung und Detail‑Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Bedeutung von „Graduation“ als Symbol für Reife, bleibt dabei textnah.",
+          "Stellt die Bildsprache (Blackboard, Shooting‑Star) klar heraus."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Interpretation, ähnlich wie Interpretation 1.",
+          "Vermeidet unnötige Wiederholungen, bleibt fokussiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identisch zu Interpretation 1 – vollständig textgetreu und strukturiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind faktentreu (keine Halluzinationen) und zeigen eine vergleichbare, substanzielle Tiefe. Die Varianz ist gering; die Unterschiede liegen nur im Stil und in kleinen zusätzlichen Nuancen.",
+    "empfehlung": "Für zukünftige Bewertungen sollte das Modell darauf achten, nicht nur die offensichtlichen Bildungen zu wiederholen, sondern weiter nach mehrdeutigen oder kontrastierenden Lesarten zu suchen, um die Tiefe über das aktuelle Niveau (Score 4) hinaus zu heben."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auf den ersten Blick als ein simples, vielleicht sogar zynisches Lied über die Gleichgültigkeit und Resignation gegenüber dem Leben interpretiert werden.",
+          "Doch bei näherer Betrachtung offenbart sich eine komplexe thematische Struktur, die sich mit Fragen der Identität, des Lebenssinns und der emotionalen Befindlichkeit auseinandersetzt.",
+          "Die zentrale Botschaft des Songs scheint auf der Oberfläche eine Botschaft der Gleichgültigkeit und des Fatalismus zu sein, wie die Zeile \"Mach Dir keine Sorgen, es wird schon weitergehn\" verdeutlicht."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche direkte Zitate aus dem Songtext wurden korrekt als BELEGT markiert (z. B. \"Mach Dir keine Sorgen...\", \"Und höre auf zu fragen, wie dieser Film ausgeht\", \"Ginger Rodgers hat mit Fred Astaire gesteppt / Und ich kann über's Wasser gehn\").",
+          "Die Interpretation bleibt textnah und vermeidet unbegründete biografische oder historische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song erschien 1994, einer Zeit, in der die deutsche Gesellschaft mit den Herausforderungen der Wiedervereinigung und dem Wandel der politischen und wirtschaftlichen Strukturen konfrontiert war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auf den ersten Blick als ein simples Lied über Desillusionierung und Resignation interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint jedoch komplexer zu sein, wenn man die Textebene genauer betrachtet.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ],
+        "positive_aspekte": [
+          "Alle wörtlichen Zitate aus dem Text wurden korrekt als BELEGT gekennzeichnet.",
+          "Die Analyse liefert konkrete Textbeispiele (z. B. „Ginger Rodgers…“, „Keine Ahnung, keine Meinung, kein Konzept…“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song erschien 1994, einer Zeit, in der die deutsche Gesellschaft mit den Herausforderungen der Wiedervereinigung und dem Wandel der politischen und wirtschaftlichen Strukturen konfrontiert war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein simples Lied über Desillusionierung und Resignation interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint jedoch komplexer zu sein, wenn man die Textebene genauer analysiert.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ],
+        "positive_aspekte": [
+          "Mehrere Textstellen werden exakt zitiert und als BELEGT markiert (z. B. die Eröffnungszeilen, die Ginger‑Rogers‑Zeile, die „Keine‑Ahnung“-Zeile und die Michael‑Jackson‑Zeile).",
+          "Die Interpretation verbindet die Zitate mit plausiblen, wenn auch allgemeinen, Bedeutungsansätzen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auf den ersten Blick als ein simples, vielleicht sogar zynisches Lied über Gleichgültigkeit und Resignation interpretiert werden.",
+          "Doch bei näherer Betrachtung offenbart sich eine komplexe thematische Struktur, die sich mit Fragen der Identität, des Lebenssinns und der emotionalen Befindlichkeit auseinandersetzt.",
+          "Die zentrale Botschaft des Songs scheint auf der Oberfläche eine Botschaft der Gleichgültigkeit und des Fatalismus zu sein."
+        ],
+        "positive_aspekte": [
+          "Alle wörtlichen Zitate aus dem Songtext wurden korrekt als BELEGT gekennzeichnet.",
+          "Die Analyse bleibt bei den Textbezügen und fügt keine unbelegten historischen oder biografischen Behauptungen ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song erschien 1994, einer Zeit, in der die deutsche Gesellschaft mit den Herausforderungen der Wiedervereinigung und dem Wandel der politischen und wirtschaftlichen Strukturen konfrontiert war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auf den ersten Blick als ein simples, vielleicht sogar zynisches Lied über Gleichgültigkeit und Resignation interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint auf der Oberfläche eine Botschaft der Gleichgültigkeit und des Fatalismus zu sein.",
+          "Die emotionale Wirkung des Songs ist tief resignativ und gleichgültig, die auch als Schutzmechanismus interpretiert werden kann."
+        ],
+        "positive_aspekte": [
+          "Umfassende Textzitate (u. a. die Zeilen zu Ginger Rogers, Michael Jackson und der Wiederholung von „Es geht mir gut“) wurden korrekt als BELEGT markiert.",
+          "Die Interpretation geht über reine Oberflächlichkeit hinaus, indem sie die Mehrdeutigkeit der Zeilen (z. B. die Ambiguität zwischen Stars und Alltag) herausarbeitet."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Übereinstimmung bei den wörtlichen Zitat‑Erkennungen, unterscheiden sich jedoch stark im Anteil an vagen, nicht belegten Aussagen. Die Halluzinations‑Raten variieren von 0 % bis ca. 8 %, was auf unterschiedliche Strenge bei Kontextualisierungen hinweist.",
+    "empfehlung": "Interpretationen 2 und 3 erreichen die höchste Faktentreue (Score 5) und bieten gleichzeitig eine solide, wenn auch nicht tiefgehende Analyse. Für zukünftige Modelle sollte der Fokus darauf liegen, vage Allgemeinplätze zu reduzieren und mehr textbasierte, differenzierte Deutungen zu liefern, um sowohl Halluzinationen zu minimieren als auch die interpretative Tiefe zu erhöhen."
+  }
+}

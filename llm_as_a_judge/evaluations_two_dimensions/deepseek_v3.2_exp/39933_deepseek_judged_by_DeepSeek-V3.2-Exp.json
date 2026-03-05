@@ -1,0 +1,106 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine expliziten Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song geht um Transformation",
+          "Der Refrain symbolisiert eine idyllische Welt"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Korrektes Erkennen des Refrains als zentrales Element"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine expliziten Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von Transformation",
+          "Der Refrain symbolisiert Hoffnung"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Korrektes Erkennen des Refrains als zentrales Element"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine expliziten Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song geht um menschliche Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Sehr gute Textanalyse",
+          "Korrektes Erkennen von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine expliziten Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von Transformation durch Liebe"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Korrektes Erkennen des Refrains als zentrales Element"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine expliziten Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song geht um Hoffnung und Erneuerung"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Korrektes Erkennen von Symbolen und Metaphern"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songtextes, jedoch mit leichten Variationen in der Tiefe der Analyse.",
+    "empfehlung": "Die Interpretation 3 zeigt eine sehr gute Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen."
+  }
+}

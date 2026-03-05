@@ -1,0 +1,99 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "politische Unsicherheit und einer wachsenden Diskussion über mentale Gesundheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen innerer Gefangenschaft und dem Wunsch nach Befreiung"
+        ],
+        "positive_aspekte": [
+          "Analyse der Textstruktur und -wiederholungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "politische Polarisierung und digitaler Überwachung"
+        ],
+        "oberflächliche_aussagen": [
+          "ambivalentes Verhältnis zu Schmerz und Freundschaft"
+        ],
+        "positive_aspekte": [
+          "Analyse der Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "politische Umbrüche und einer wachsenden Angst vor Überwachung"
+        ],
+        "oberflächliche_aussagen": [
+          "ambivalentes Verhältnis zu Schmerz und Freundschaft"
+        ],
+        "positive_aspekte": [
+          "Analyse der Textstruktur und -wiederholungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "intensive politische Polarisierung und digitaler Überwachung"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen Kontrolle und Freiheit"
+        ],
+        "positive_aspekte": [
+          "Analyse der Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "politische Unsicherheit und digitaler Überwachung"
+        ],
+        "oberflächliche_aussagen": [
+          "ambivalentes Verhältnis zu Schmerz und Freundschaft"
+        ],
+        "positive_aspekte": [
+          "Analyse der Textstruktur und -wiederholungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Textstruktur und -wiederholungen, jedoch variieren sie in der Bewertung der kulturellen und historischen Kontextualisierung.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und gleichzeitig die kulturellen und historischen Kontextualisierungen angemessen berücksichtigt."
+  }
+}

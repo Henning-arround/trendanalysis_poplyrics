@@ -1,0 +1,101 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von „OJ's gloves“ wird als möglicher Verweis auf den umstrittenen Sportstar O.J. Simpson interpretiert – diese Verbindung ist nicht im Text belegt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte, textbezogene Analyse jeder Metapher und Bildgruppe.",
+          "Klare Unterscheidung zwischen wörtlicher Beobachtung und interpretativer Deutung.",
+          "Wenig bis keine spekulativen oder biografischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass die Zeile über „Prince Charles’ Amex account“ auf britische Elite‑Finanzierung verweist, ist nicht im Songtext begründet."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse der Symbolik (z. B. OJ‑Handschuhe, Mandala, Perlen‑vor‑Schweinen).",
+          "Stetige Verknüpfung von Bildmaterial mit der zentralen „Geben‑Thematik“.",
+          "Keine überflüssigen historischen oder biografischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung von Medien‑ und Promi‑Referenzen verankere den Text im frühen 21. Jahrhundert – der Song stammt 1999.",
+          "Die musikalisch wiederholte Refrain‑Struktur verstärke die affektive Wirkung einer drängenden Sehnsucht – über die Musik wird im Text nicht gesprochen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text sei ein Kommentar zur Globalisierung und zu postmodernen Identitätskrisen – eine sehr allgemeine kulturelle Deutung ohne konkrete Textbelege."
+        ],
+        "positive_aspekte": [
+          "Gute Erfassung der Bildpaare und Metaphern.",
+          "Erkennt die Mehrdeutigkeit des Refrains und des „Dings“ im Herzen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse ohne spekulative Ergänzungen.",
+          "Tiefe Interpretation von Symbolen (z. B. OJ‑Handschuhe, Mandala, Tigers/Lambs).",
+          "Klare Verknüpfung von Stil, Inhalt und historischer Einordnung (späte 1990er)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Rhythmus der Wiederholungen verstärke die hypnotische Wirkung – über die musikalische Gestaltung wird nicht berichtet.",
+          "Die Stadt sei möglicherweise Paris – diese Ortszuordnung fehlt im Text."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Werk sei ein Kommentar zur späten 1990er‑Jahre, an dem postmoderne Identitätsfragen und New‑Age‑Spiritualität zusammenkamen – eine sehr allgemeine Aussage."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Ambivalenz des Gebens.",
+          "Verbindet Textstellen mit einer plausiblem kulturellen Kontext (späte 1990er)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass Interpretationen mit wenig spekulativen Ergänzungen (z. B. #4) sowohl niedrige Halluzinationsraten als auch hohe Tiefenwerte erreichen. Modelle, die häufig historische oder musikbezogene Annahmen einfließen lassen, erhalten mittlere Scores.",
+    "empfehlung": "Für zukünftige Analysen sollte das Modell strikt am Text bleiben, unnötige biografische oder musiktheoretische Spekulationen vermeiden und stattdessen die im Text vorhandenen Metaphern und Bildpaare detailliert untersuchen. Das liefert die höchste Kombination aus Faktentreue und analytischer Tiefe."
+  }
+}

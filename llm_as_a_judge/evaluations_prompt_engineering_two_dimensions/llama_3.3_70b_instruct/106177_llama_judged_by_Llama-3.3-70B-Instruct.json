@@ -1,0 +1,99 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Metaphern wie 'Reflections of eyes shine bright' und 'Memories fade to dust' unterstreicht die thematische Komplexität des Songs, indem sie die Vergänglichkeit von Erinnerungen und die Bedeutung von zwischenmenschlichen Beziehungen hervorhebt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Home / To be free, just to breathe, only seen in the eyes that know me' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, und betont die Bedeutung von Erinnerungen und Beziehungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Is it wrong to miss the time that we had? / Now it's gone' zeigen die Ambiguität und den Schmerz, der mit der Erinnerung an verlorene Zeiten und Beziehungen einhergeht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin thematisiert auch die Spannung zwischen der Sehnsucht nach Freiheit und der Notwendigkeit, sich an einen Ort zu binden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung von Beziehungen und Erinnerungen und thematisiert die Frage, ob es falsch ist, die Vergangenheit zu vermissen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Bildern wie 'Walls around me' und 'Film that clouds it' unterstreicht die Gefühlslage der Sängerin und betont die Bedeutung von Raum und Umgebung für das Gefühl von Zuhause."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Home / To be free, just to breathe, only seen in the eyes that know me' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, und betont die Bedeutung von Erinnerungen und Beziehungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I'm grateful for the chance that it's mine / So I'll cherish every second of time' zeigen die Wertschätzung der Sängerin für die Zeit und die Erfahrungen, die sie gemacht hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin thematisiert auch die Spannung zwischen der Sehnsucht nach Freiheit und der Notwendigkeit, sich an einen Ort zu binden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung von Beziehungen und Erinnerungen und thematisiert die Frage, ob es falsch ist, die Vergangenheit zu vermissen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Bildern wie 'Memories fade to gray' und 'Take me to the place / Where I belong' zeigt die tiefe emotionale Bindung an Erinnerungen und Orte, die unsere Identität prägen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Home / To be free, just to breathe, only seen in the eyes that know me' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, und betont die Bedeutung von Erinnerungen und Beziehungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, und die Bedeutung von Erinnerungen und Beziehungen thematisiert, ohne zu viele unbelegte Aussagen zu machen."
+  }
+}

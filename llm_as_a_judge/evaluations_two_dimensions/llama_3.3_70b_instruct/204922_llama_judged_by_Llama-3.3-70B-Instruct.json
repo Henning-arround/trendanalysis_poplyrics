@@ -1,0 +1,99 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine feministische Hymne interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ich-Erzählerin ist sich ihrer eigenen Werte und Grenzen bewusst"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Hauptthemen des Songs ab, wie die Abweisung des Mannes und die Betonung der Selbstwahrnehmung und -achtung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ich-Erzählerin warnt den Mann davor, dass er blind werden wird, wenn er nicht aufhört, sich selbst zu täuschen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text beschreibt, wie der Mann versucht, das Ich-Erzähler mit seinem Aussehen und seiner Attitüde zu beeindrucken"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Dynamik zwischen dem Ich-Erzähler und dem Mann und ihre Reaktionen aufeinander"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Befreiungsschlag der Ich-Erzählerin interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ich-Erzählerin fordert ihn auf, sich jemand anderen zu suchen, der seiner Art entspricht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Unabhängigkeit und Selbstständigkeit der Ich-Erzählerin an"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist auch eine Kritik an der Oberflächlichkeit und dem Narcissmus des Mannes"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ich-Erzählerin macht ihm deutlich, dass sie zu gut für ihn ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation kritisiert die Einstellung des Mannes und betont die Selbstwahrnehmung der Ich-Erzählerin"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Befreiungsschlag der Ich-Erzählerin interpretiert werden, die sich von den unechten Avancen des Mannes befreit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ich-Erzählerin rät ihm, jemanden zu finden, der ähnlich wie er ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Beziehung zwischen dem Ich-Erzähler und dem Mann und die Reaktionen der Ich-Erzählerin"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (1, 2 und 5) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf die textbasierten Analysen konzentrieren und versuchen, die Ambivalenzen und Mehrdeutigkeiten im Songtext zu berücksichtigen"
+  }
+}

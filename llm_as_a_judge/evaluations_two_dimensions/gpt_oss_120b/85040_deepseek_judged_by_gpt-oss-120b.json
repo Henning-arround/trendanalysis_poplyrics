@@ -1,0 +1,89 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verweist konsequent auf konkrete Textzeilen (z. B. „Your innocence all but fades…“).",
+          "Erklärt die Symbolik von „two‑faced barricades“ und „schizophrenic basic needs“.",
+          "Stellt den Bezug zur literarischen Figur Jekyll/Hyde klar her."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Nutzt mehrere Textpassagen, um die gespaltene Persönlichkeit zu belegen.",
+          "Analysiert den Refrain und verbindet ihn mit der emotionalen Belastung des Sängers.",
+          "Gibt einen zusammenfassenden Überblick über das zentrale Thema des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, insbesondere zu den Motiven von Maske und Unberechenbarkeit.",
+          "Erklärt die „Dualität der Persönlichkeit“ anhand des Refrains.",
+          "Vermeidet spekulative biografische oder stilistische Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf die Zeile „When we peel the veneer away“.",
+          "Beschreibt die Symbolik der „two‑faced barricades“ klar und textnah.",
+          "Betont die Unmöglichkeit, die wahre Natur des Menschen zu durchschauen, was im Text impliziert wird."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt die Verbindung zwischen Titel und literarischer Figur eindeutig her.",
+          "Analysiert die wiederholte Thematik von Maske, Dunkelheit und Unberechenbarkeit.",
+          "Bleibt bei textbasierten Interpretationen ohne unbelegte Kontextualisierungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Kernaussagen; die Varianz ist minimal, was auf ein hohes Maß an Konsistenz, aber geringe kreative Diversität hinweist.",
+    "empfehlung": "Die vorliegenden Interpretationen sind faktentreu und textnah, jedoch wenig differenziert. Ein besserer Ansatz wäre, mehr Ambivalenzen und alternative Lesarten zu erkunden, um die analytische Tiefe zu erhöhen, ohne die Texttreue zu verlieren."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Struktur aus Aufwärmen- und Abkühlphasen spiegelt das Fitness-Modell der frühen 80er-Jahre wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine zweifache Kernbotschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Verweis auf 'Aerobic dancing has you on the hook' spiegelt die Kommerzialisierung von Körperkult"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine zweischichtige Botschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist teilweise textbezogen, aber auch vage"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Körperästhetik spiegelt den wachsenden Konsumismus und die Selbstoptimierung des Neoliberalismus wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine zweifache Botschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Betonung von 'your body' lässt das Individuum zum Objekt der Selbstoptimierung werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine zweischichtige Botschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist teilweise textbezogen, aber auch vage"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität liegt darin, dass das Lied einerseits Gesundheit und Selbstliebe propagiert, andererseits ein implizites Leistungsprinzip etabliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine zweifache Kernbotschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe"
+  }
+}

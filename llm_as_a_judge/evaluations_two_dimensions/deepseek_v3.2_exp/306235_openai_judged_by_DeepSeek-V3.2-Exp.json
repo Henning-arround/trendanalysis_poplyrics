@@ -1,0 +1,99 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "innerer Freiheit",
+          "transzendentaler Kommunikation"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Loslösung",
+          "innerer Klarheit"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Spiegel für innere Zustände",
+          "zärtliche Zuneigung"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "tranceartigen Zustand"
+        ],
+        "oberflächliche_aussagen": [
+          "Motiv des Schwebens",
+          "zärtliche Obsession"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Loslösung",
+          "transzendentaler Kommunikation"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse von Symbolen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Hohe Konsistenz",
+    "empfehlung": "Eine balance zwischen Textreue und analytischer Tiefe ist ideal"
+  }
+}

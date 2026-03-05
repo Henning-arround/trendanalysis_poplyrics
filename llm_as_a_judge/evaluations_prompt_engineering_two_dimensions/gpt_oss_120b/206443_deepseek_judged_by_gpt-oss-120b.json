@@ -1,0 +1,98 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Unsicherheit und des Umbruchs in den Beziehungen und Gesellschaften jener Zeit interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Erfahrung, dass Beziehungen nicht immer einfach sind und dass die Zukunft oft ungewiss ist."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Songtext ab (z. B. Themen, Metaphern, konkrete Zeilen).",
+          "Die Analyse enthält konkrete Textbezüge und vermeidet unbegründete biografische oder stilistische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Unsicherheit und des Umbruchs in den Beziehungen und Gesellschaften jener Zeit interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Erfahrung, dass Beziehungen komplex und oft widersprüchlich sind, …"
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Interpretation von Metaphern und emotionalen Aussagen.",
+          "Richtige Einordnung des historischen Kontextes (frühe 1990er Jahre)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Unsicherheit und des Umbruchs in den Beziehungen und Gesellschaften jener Zeit interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Erfahrung, dass Beziehungen komplex und oft widersprüchlich sind, …"
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der lyrischen Mittel (Metapher, Bildsprache).",
+          "Stimmige Verknüpfung von Textstelle und interpretierter Ambivalenz zwischen Vernunft und Emotion."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Unsicherheiten und Ängste einer Generation interpretiert werden, die mit den Herausforderungen von Beziehungen und Identitätsfindung konfrontiert war."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte, textbezogene Analyse mit konkreten Verweisen auf einzelne Zeilen.",
+          "Ergänzt die Interpretation um den gesellschaftlichen Kontext der Generation, bleibt dabei plausibel und textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Unsicherheit und des Umbruchs in den Beziehungen und Gesellschaften jener Zeit interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Erfahrung, dass Beziehungen nicht immer einfach sind und dass die Zukunft oft ungewiss ist."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, insbesondere bei der Analyse von Metaphern und paradoxen Zeilen.",
+          "Korrekte historische Einordnung ohne spekulative Genrezuweisungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt nur in wenigen zusätzlichen, teils oberflächlichen Aussagen. Die Konsistenz ist hoch, jedoch fehlt an Vielfalt in der Analyse.",
+    "empfehlung": "Interpretation 2 liefert die tiefste, textbasierte Analyse und verbindet sie sinnvoll mit einem gesellschaftlichen Kontext, ohne dabei spekulativ zu werden. Ein Ansatz, der klare Textbezüge mit gut begründeten, aber nicht zu allgemeinen, Kontextualisierungen kombiniert, ist am erfolgversprechendsten."
+  }
+}

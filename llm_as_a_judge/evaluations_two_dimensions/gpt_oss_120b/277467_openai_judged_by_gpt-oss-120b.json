@@ -1,0 +1,118 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Metapher steht für ein festgefahrenes Rollen‑ oder Erwartungsbild, das ihn umgibt",
+          "Das Café Kaldi … verweist auf die Oberflächlichkeit und das Spiel mit Macht‑Symbolen",
+          "Die Zeile … verdeutlicht, dass Wert erst durch das Teilen entsteht",
+          "Die wiederholte Aufforderung … wird von einer fast meditativen Bildsprache … begleitet",
+          "Der Song endet in einer paradoxen Dringlichkeit …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr genaue Wiedergabe der im Text genannten Bilder (Parrot, Bremsen, Prinz‑Charles‑Schlagzeile, österreichische Tracht, Punks, Touristen).",
+          "Klare Struktur: Einleitung → Bildanalyse → Refrain‑Deutung → Schluss‑Reflexion.",
+          "Zeigt Ambivalenz (Gefahr vs. Unschuld, Last vs. Befreiung) und verknüpft sie mit dem zentralen Motiv des Gebens."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Metapher steht für ein festgefahrenes Rollen‑ oder Erwartungsbild",
+          "Die wiederholten Bilder … verstärken das Spannungsfeld zwischen Wildheit und Sanftmut",
+          "Der Refrain … wird zu einem Aufruf zur aktiven Teilhabe",
+          "Insgesamt schildert Cockburn ein urbanes Kaleidoskop, in dem persönliche Befreiung und kollektive Heilung nur durch das bewusste Teilen von innerer Güte möglich sind"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, textnahe Analyse aller genannten Szenen (Kaldi’s Café, Parrot, Perlen‑vor‑die‑Säue, Tiger/Lämmer).",
+          "Verknüpft wiederholte Motive mit einer übergeordneten Botschaft, ohne zu verallgemeinern.",
+          "Stilistisch klar und kohärent, wenig Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Metapher für ein festgefahrenes Rollen‑ oder Identitätsmuster wird durch das frühe Aufstehen … verstärkt",
+          "Die wiederkehrende Gegenüberstellung … verdeutlicht das zentrale Motiv",
+          "Der Sprecher sitzt sowohl mit Tigern als auch mit Lämmern … Hinweis auf die Anonymität",
+          "Der Refrain … formuliert die Kernbotschaft",
+          "Die nachfolgenden Zeilen … verstärken das Bild einer meditativen, aber zugleich beunruhigenden Beobachtung des Alltags",
+          "Die abschließende Frage nach „Erleuchtung“ … schließen den Zyklus"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Vollständige Aufnahme aller lyrischen Elemente.",
+          "Klare Wiederholung des zentralen Refrains als Analyse‑Anker."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des unbeweglichen Handschuhs … suggeriert ein Festhalten an einer fremden Identität",
+          "Das Motiv von „Perlen vor die Säue“ … deutet auf die Umkehrbarkeit von Wert und Schande hin",
+          "Das Sitzen mit Tigern … symbolisiert die Begegnung mit widersprüchlichen, gefährlichen und unschuldigen Seiten des Lebens",
+          "Der Refrain … stellt das zentrale Motiv dar: ein inneres Geschenk, das nur durch Teilen lebendig wird",
+          "Die wiederholten Bilder … verweisen auf zyklische, meditative Prozesse",
+          "Die Zeilen zu internationalen Konflikten … verdeutlichen, dass das Teilen nicht nur persönliches, sondern auch kollektives Heil verspricht",
+          "Insgesamt schildert der Song ein urbanes Labyrinth …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgängige Bezugnahme auf fast jedes Bild des Textes.",
+          "Versucht, die gesellschaftliche Dimension (internationale Konflikte, Illumination) zu verknüpfen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeitung … verknüpft persönliche Alltäglichkeit mit globalen Machtstrukturen",
+          "Das Sitzen mit Tigern und Lämmern verdeutlicht die Begegnung mit gegensätzlichen Kräften, die den Sprecher nicht erkennen, weil er selbst noch nicht definiert ist",
+          "Der wiederkehrende Refrain … fungiert als moralisches Mantra",
+          "Die nachfolgenden Zeilen … verstärken das Bild einer inneren Spannung, die nur durch altruistisches Handeln aufgelöst werden kann",
+          "So wird das Lied zu einer Meditation über Identität, gesellschaftliche Fragmentierung und die transformative Kraft des Gebens"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Bildmaterial und moralischer Aussage.",
+          "Erkennt die Dualität von „Stadt der Heiligen und Narren“ und nutzt sie als Analyse‑Rahmen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen die gleichen Grundbilder, unterscheiden sich jedoch stark im Anteil spekulativer Aussagen. Die Halluzinationsrate ist bei allen maximal (Score 1), was auf eine generelle Tendenz zu erfundenen Deutungen hinweist.",
+    "empfehlung": "Die beste Balance zwischen Texttreue und analytischer Tiefe liefert Interpretation 1. Sie bleibt stark am Text verankert, liefert konkrete Bildanalysen und vermeidet übermäßige Abstraktion. Für zukünftige LLM‑Interpretationen sollte der Fokus stärker auf belegbare Textbezüge gelegt und spekulative Deutungen klar als mögliche Lesarten gekennzeichnet werden."
+  }
+}

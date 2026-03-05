@@ -1,0 +1,99 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von einer 'dystopischen urbanen Landschaft', was nicht direkt aus dem Text hervorgeht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied eine 'kritische Reflexion über die Mechanismen von Autorität' ist, bleibt etwas vage"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textpassagen und ihrer möglichen Bedeutungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation unterstellt dem Sprecher eine 'Rebellion gegen ein vorherbestimmtes, bedrückendes System', was nicht explizit im Text steht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song 'eine kritische Reflexion über die Mechanismen von Macht, Gewalt und der Selbstzerstörung einer Gesellschaft' ist, bleibt allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Ambivalenz zwischen Überleben und Selbstzerstörung zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von einer 'inneren Selbstüberwachung', die nicht direkt aus dem Text hervorgeht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'einen Kreislauf aus Macht, Angst und Selbstzerstörung' schildert, ist etwas allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine nuancierte Analyse der Rolle von Macht und Angst im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation unterstellt dem Protagonisten eine 'moralische Verkommenheit', was nicht explizit im Text steht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song 'eine kritische Reflexion über die Mechanismen von Macht und Gewalt' ist, bleibt vage"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Dynamik zwischen Unterwerfung und tyrannischer Selbstbehauptung zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von einer 'allgegenwärtigen Infrastruktur' der Angst, die nicht direkt aus dem Text hervorgeht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'eine Gesellschaft schildert, in der Angst zur Währung wird', ist etwas allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textpassagen und ihrer möglichen Bedeutungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Analyse der Textpassagen, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf eine detaillierte Analyse der Textpassagen konzentrieren und versuchen, die Ambivalenzen und Mehrdeutigkeiten im Text zu erfassen, ohne dabei in Spekulationen oder allgemeine Aussagen zu verfallen"
+  }
+}

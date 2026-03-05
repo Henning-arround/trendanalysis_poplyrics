@@ -1,0 +1,99 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in den Zeilen 'You'll lose your mind and play / Free games for May' zu liegen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Let's try it another way' könnte als Aufforderung zu einer alternativen Lebensweise oder einer Abkehr von den konventionellen Werten der Gesellschaft verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Struktur des Songs ist jedoch nicht linear, sondern eher fragmentarisch und assoziativ"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in den Zeilen 'You'll lose your mind and play / Free games for May' zu liegen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Freiheit und Nonkonformität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Struktur des Songs ist jedoch fragmentarisch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in den Zeilen 'You'll lose your mind and play / Free games for May' zu liegen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die beste Interpretation ist die Nummer 1, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

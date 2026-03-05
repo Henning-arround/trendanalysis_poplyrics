@@ -1,0 +1,109 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Home\" von Birdy handelt von der Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, wo man einfach atmen und sein kann, ohne von äußeren Einflüssen eingeengt zu werden.",
+          "Die Sängerin sehnt sich nach einem Ort, an dem sie ihre wahre Identität ausleben kann, ohne von anderen eingeschränkt zu werden.",
+          "Die Zeile \"Home is where my heart is\" wird wiederholt und betont die Idee, dass Zuhause nicht unbedingt ein physischer Ort ist, sondern ein Gefühl, das tief in einem verwurzelt ist.",
+          "Der Song ist eine emotionale und introspektive Reise, die die Zuhörer auffordert, über die Bedeutung von Zuhause und Identität nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Klare Bezugnahme auf konkrete Textstellen (z. B. „Memories fade to dust“, „Is it wrong to miss the time that we had?“, „I’m grateful for the chance that it’s mine“).",
+          "Wiederholungen im Text werden korrekt erkannt und erwähnt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Home\" von Birdy handelt von der Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, wo man einfach atmen und sein kann, ohne von äußeren Einflüssen eingeengt zu werden.",
+          "Die Sängerin sehnt sich nach einem Ort, an dem sie ihre wahre Identität ausleben kann, ohne von anderen eingeschränkt zu werden.",
+          "Die Zeile \"Home is where my heart is\" wird wiederholt und betont die Idee, dass Zuhause nicht unbedingt ein physischer Ort ist, sondern ein Gefühl, das tief in einem verwurzelt ist.",
+          "Der Song ist eine emotionale und introspektive Reise, die die Zuhörer auffordert, über die Bedeutung von Zuhause und Identität nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Richtige Identifikation von wiederkehrenden Motiven (Gedächtnisverlust, Frage nach dem Vermissen, Dankbarkeit).",
+          "Stimmige Zusammenfassung des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Home\" von Birdy handelt von der Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, wo man einfach atmen und sein kann, ohne von äußeren Einflüssen eingeengt zu werden.",
+          "Die Sängerin sehnt sich nach einem Ort, an dem sie ihre wahre Identität ausleben kann, ohne von anderen eingeschränkt zu werden.",
+          "Die Zeile \"Home is where my heart is\" wird wiederholt und betont die Idee, dass Zuhause nicht unbedingt ein physischer Ort ist, sondern ein Gefühl, das tief in einem verwurzelt ist.",
+          "Der Song ist eine emotionale und introspektive Reise, die die Zuhörer auffordert, über die Bedeutung von Zuhause und Identität nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Alle zentralen Textpassagen werden korrekt wiedergegeben.",
+          "Erkennt die wiederholte Frage nach dem „wrong to miss the time\"."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Home\" von Birdy handelt von der Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, wo man einfach atmen und sein kann, ohne von äußeren Einflüssen eingeengt zu werden.",
+          "Die Sängerin sehnt sich nach einem Ort, an dem sie ihre wahre Identität ausleben kann, ohne von anderen eingeschränkt zu werden.",
+          "Die Zeile \"Home is where my heart is\" wird wiederholt und betont die Idee, dass Zuhause nicht unbedingt ein physischer Ort ist, sondern ein Gefühl, das tief in einem verwurzelt ist.",
+          "Der Song ist eine emotionale und introspektive Reise, die die Zuhörer auffordert, über die Bedeutung von Zuhause und Identität nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die Kernthemen „Zugehörigkeit“ und „Dankbarkeit“ aus dem Text.",
+          "Verweist korrekt auf das wiederholte Motiv „Home is where my heart is“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Home\" von Birdy handelt von der Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt, wo man einfach atmen und sein kann, ohne von äußeren Einflüssen eingeengt zu werden.",
+          "Die Sängerin sehnt sich nach einem Ort, an dem sie ihre wahre Identität ausleben kann, ohne von anderen eingeschränkt zu werden.",
+          "Der Refrain \"Home is where my heart is\" unterstreicht die Idee, dass Zuhause nicht unbedingt ein physischer Ort ist, sondern vielmehr ein emotionaler Zustand, in dem man sich frei und geborgen fühlt.",
+          "Der Song ist eine emotionale und introspektive Reise, die die Zuhörer auffordert, über die Bedeutung von Zuhause und Identität nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Frage nach dem „wrong to miss the time\" und die wiederholte Dankbarkeitszeile.",
+          "Gibt einen leicht differenzierteren Hinweis auf den emotionalen Charakter des Refrains."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch; die Varianz ist minimal. Jeder Text wiederholt dieselben allgemeinen Aussagen, wodurch die Oberflächlichkeit hoch bleibt.",
+    "empfehlung": "Ein besserer Ansatz wäre, einzelne Textzeilen genauer zu analysieren, mehr auf Mehrdeutigkeiten und mögliche Gegeninterpretationen einzugehen und spekulative, nicht belegbare Aussagen zu vermeiden. So lässt sich die Tiefe erhöhen, ohne die Faktentreue zu gefährden."
+  }
+}

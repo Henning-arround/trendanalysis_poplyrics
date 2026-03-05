@@ -1,0 +1,99 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik schafft einen Raum für Katharsis"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied bleibt ein eindringlicher Bericht über Verlust"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Wunsch, die Zeit zurückzudrehen, wird zu einem fast rituellen Schwur"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wird zu einem inneren Monolog"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Zeitmetapher und des Verlusts"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Identitätskrise des Ich-Erzählers wird widerspiegelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied bleibt ein eindringlicher Bericht über Verlust"
+        ],
+        "positive_aspekte": [
+          "Gute Erklärung der Metapher des Stillstands"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik schafft einen Raum für Katharsis"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wird zu einem inneren Dialog"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach einer imaginären Rückkehr"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wird zu einem inneren Dialog"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Zeitmetapher und des Verlusts"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent und zeigen eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Metaphern und des Refrains bietet und eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

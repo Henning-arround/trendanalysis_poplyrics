@@ -1,0 +1,101 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von englischer Sprache und die Produktion des Songs durch internationale Künstler kann als ein Beispiel für die Globalisierung von Musik und Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem letzten Moment der Verbindung kann als ein universelles menschliches Gefühl interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Songtext und identifiziert die zentrale Botschaft des Songs.",
+          "Die Verwendung von literarischen Stilmitteln wird erläutert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Themen Trennung, Sehnsucht und Intimität sind universell und finden sich in vielen kulturellen und historischen Kontexten wieder."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Then we'll do it one more time' kann als ein Ausdruck der Sehnsucht nach einem letzten Moment der Ekstase und Verbindung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die emotionale Wirkung und affektive Dimension des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains 'One more time' kann auch als ein Ausdruck der menschlichen Neigung interpretiert werden, sich an vergangene Erfahrungen zu klammern und sie noch einmal zu erleben."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen Trennung, Sehnsucht und Resilienz sind universell und finden sich in vielen kulturellen und historischen Kontexten wieder."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Symbolen und ihre Bedeutung im Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song 'One More Time' kann als ein Ausdruck der aktuellen Sehnsucht nach menschlicher Verbindung und emotionaler Intimität in einer Welt, die zunehmend digital und isoliert ist, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Symbolen wie 'dancin'', 'sunshine' und 'heartbeat' unterstreicht die Bedeutung von Bewegung, Wärme und Lebenskraft in diesem Kontext."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Ambiguität und Spannung zwischen dem Wunsch nach einem letzten Moment der Verbindung und der gleichzeitigen Akzeptanz des Endes der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von englischer Sprache und die Produktion des Songs durch internationale Künstler kann als ein Beispiel für die Globalisierung von Musik und Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem letzten Moment der Verbindung kann als ein universelles menschliches Gefühl interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Songtext und identifiziert die zentrale Botschaft des Songs.",
+          "Die Verwendung von literarischen Stilmitteln wird erläutert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse des Songtexts und die Identifizierung der zentralen Botschaft.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate."
+  }
+}

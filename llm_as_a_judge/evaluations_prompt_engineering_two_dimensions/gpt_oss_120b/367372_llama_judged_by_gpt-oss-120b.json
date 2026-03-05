@@ -1,0 +1,104 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die in dem Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist wichtig."
+        ],
+        "positive_aspekte": [
+          "Viele konkrete Textbelege (z. B. Zitate aus dem Refrain).",
+          "Hinweis auf die Wiederholung des Refrains als Aufforderung.",
+          "Verknüpfung von Stilmitteln mit der thematischen Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen eine wichtige Rolle in der Konstruktion der emotionalen Wirkung des Songs.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Verknüpfung von Textstellen mit der Idee von Befreiung.",
+          "Analyse von Wiederholungen und ihrer hypnotischen Wirkung.",
+          "Einbettung in den historischen Disco‑Funk‑Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die in dem Song verwendet werden, ... tragen zur thematischen Komplexität des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Umfassende Kontextualisierung (Disco‑Kultur, Selbst‑ und Liebesausdruck).",
+          "Klare Textbelege für die Themen Freiheit und offene Liebe.",
+          "Berücksichtigung von Ambiguitäten und Spannungen im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die in dem Song verwendet werden, ... tragen zur thematischen Komplexität des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Tiefe Analyse von Metaphern, Symbolen und ihrer thematischen Funktion.",
+          "Explizite Benennung von Ambiguitäten und deren Bedeutung für Beziehungen.",
+          "Stilistische Verknüpfung von Text und 1970er‑Jugendkultur."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song spiegelt die Sehnsucht nach Freiheit und Selbstentdeckung wider, die in den 1970er Jahren, insbesondere in der afroamerikanischen Gemeinschaft, virulent war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die in dem Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden, in dem er entstand."
+        ],
+        "positive_aspekte": [
+          "Erkennt die narrative Struktur von Party‑Beschreibung zu Selbstreflexion.",
+          "Verknüpft den Song mit einem breiteren afroamerikanischen Kulturkontext.",
+          "Bezieht Wiederholungen und Refrains in die Analyse ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen zentrale Thesen (Befreiung, Tanz als Metapher). Die Varianz liegt vor allem im Detailgrad und in spekulativen kulturellen Zusätzen.",
+    "empfehlung": "Interpretationen 2 und 5 zeigen die optimale Balance aus faktentreuer Textbelegung und tiefgehender, textbasierter Analyse. Sie vermeiden unbegründete Spekulationen und bieten gleichzeitig eine differenzierte, mehrschichtige Deutung."
+  }
+}

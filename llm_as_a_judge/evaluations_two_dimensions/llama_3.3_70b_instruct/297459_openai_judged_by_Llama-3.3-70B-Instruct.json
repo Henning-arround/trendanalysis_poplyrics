@@ -1,0 +1,93 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild des springenden Steins fungiert als Metapher für einen flüchtigen, aber beständigen Impuls"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Songtexts und seiner Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'She changes people now' wirkt wie ein Hinweis auf eine transformative Kraft"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des springenden Steins symbolisiert einen flüchtigen Moment der Leichtigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Songtext und seine Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das wiederholte Versprechen 'I'll come skipping like a stone' fungiert als Versprechen, dass jemand die Last trägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Songtext-Metaphern und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I wanna go where no one goes' deuten auf den Wunsch nach einem unvertrauten, transformativen Raum hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des springenden Steins symbolisiert einen flüchtigen Moment der Leichtigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Songtext und seine Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das wiederholte 'I see the sun now' markiert einen Wendepunkt: nach dem endlosen Springen und Tanzen im Schatten bricht plötzlich Licht durch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Songtext-Metaphern und ihrer Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen bieten eine detaillierte Analyse des Songtexts und seiner Metaphern",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine detaillierte Analyse der Songtext-Metaphern und ihrer Bedeutung"
+  }
+}

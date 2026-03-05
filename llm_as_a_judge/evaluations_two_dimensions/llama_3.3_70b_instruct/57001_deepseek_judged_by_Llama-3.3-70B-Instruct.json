@@ -1,0 +1,103 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin fühlt sich ignoriert und unsichtbar, wenn ihr Partner mit ihr spricht oder sie berührt, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist von emotionaler Leere und Distanz geprägt, ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht auf die Metaphern und Symbole im Songtext ein, wie die '7-Eleven' und die 'satellite television'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin fühlt sich ignoriert und unsichtbar, wenn ihr Partner mit ihr spricht oder sie berührt, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist von emotionaler Leere und Distanz geprägt, ohne spezifische Textanalyse",
+          "Die Bitte 'Stay' kann als Versuch interpretiert werden, diese Beziehung aufrechtzuerhalten, ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die '7-Eleven' und die 'satellite television' als Symbole für die globale Vernetzung und emotionale Distanz"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin fühlt sich in einem Moment der Verzweiflung wieder, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist von emotionaler Distanz und Isolation geprägt, ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht auf die Zeile 'And when I touch you, you don't feel a thing' ein und unterstreicht die emotionale Leere",
+          "Die Interpretation des Refrains 'Stay' als Bitte oder Aufforderung, in der Beziehung zu bleiben, ist textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin ist in einer toxischen Beziehung, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist von emotionaler Leere und Distanz geprägt, ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht auf die Zeile 'Because when he hurts you you feel alive' ein und unterstreicht die toxische Dynamik",
+          "Die Interpretation der '7-Eleven' und der 'satellite television' als Symbole für die globale Vernetzung und emotionale Distanz ist textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin ist innen leer und verunsichert, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist von emotionaler Distanz und Selbstzerstörung geprägt, ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht auf die Zeile 'You don't smoke, don’t even want to' ein und unterstreicht die Selbstzerstörungstendenz",
+          "Die Interpretation der '7-Eleven' als Symbol für die innere Leere ist textbasiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber tendieren dazu, die emotionalen und symbolischen Aspekte des Songs zu betonen",
+    "empfehlung": "Eine Kombination aus textbasierter Analyse und tiefergehender Interpretation der Metaphern und Symbole im Songtext könnte zu einer umfassenderen und überzeugenderen Interpretation führen"
+  }
+}

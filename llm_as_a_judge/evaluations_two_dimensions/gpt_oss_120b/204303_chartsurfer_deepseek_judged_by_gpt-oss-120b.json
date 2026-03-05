@@ -1,0 +1,112 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext hat auch eine leicht nostalgische und melancholische Note, die durch die warme und sanfte Stimme von Perry Como unterstrichen wird.",
+          "Der Song kann als eine Hommage an die Vergangenheit interpretiert werden, in der die Menschen noch mehr Zeit für zwischenmenschliche Beziehungen hatten und die Kommunikation noch persönlicher und direkter war."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Sing to Me, Mr. C.\" ein herzlicher und emotionaler Song, der die Bedeutung von persönlicher Zuwendung und emotionaler Verbindung in unseren Beziehungen hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse der wiederholten Bitte „just for me“ und der Zeile „and everybody else will disappear“.",
+          "Verknüpft die Beobachtungen mit einer tieferen, aber nachvollziehbaren Interpretation von Nostalgie und kultureller Hommage.",
+          "Wenig erfundene Aussagen (nur 2 von 8 ≈ 25 %)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext hat auch eine leicht nostalgische und melancholische Note, da der Protagonist ein bestimmtes Lied hören möchte, das er offenbar schon lange nicht mehr gehört hat.",
+          "Die Bitte an Mr. C., das Lied zu singen, ist auch eine Bitte um eine Rückkehr in eine vergangene Zeit, in der die emotionale Verbindung zwischen den beiden noch intakt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Sing to Me, Mr. C.\" ein herzlicher und emotionaler Song, der die menschliche Sehnsucht nach Liebe und Verbindung aufgreift."
+        ],
+        "positive_aspekte": [
+          "Alle wesentlichen Aussagen lassen sich direkt aus dem kurzen Text ableiten.",
+          "Nur 2 von 9 Aussagen (≈ 22 %) sind erfunden, was zu einem mittleren Halluzinations‑Score führt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext hat auch eine leicht nostalgische und melancholische Note, da der Protagonist ein bestimmtes Lied hören möchte, das er offenbar schon lange nicht mehr gehört hat.",
+          "Die Bitte an Mr. C., das Lied zu singen, ist auch eine Bitte um eine Rückkehr in eine vergangene Zeit, in der die emotionale Verbindung zwischen den beiden noch intakt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Sing to Me, Mr. C.\" ein herzlicher und emotionaler Song, der die menschliche Sehnsucht nach Liebe und Verbindung aufgreift."
+        ],
+        "positive_aspekte": [
+          "Identisch zur Interpretation 1 – gleiche Stärken und Schwächen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist sehnt sich nach einer persönlichen und intimen Erfahrung, die ihn von den Sorgen und Problemen des Alltags ablenkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext suggeriert eine tiefe emotionale Verbindung zwischen den beiden Personen, die über eine oberflächliche Beziehung hinausgeht.",
+          "Die Bitte, ein bestimmtes Lied zu singen, kann auch als Metapher für die Sehnsucht nach emotionaler Nahrung und Trost interpretiert werden.",
+          "Insgesamt drückt der Song eine tiefe Sehnsucht nach menschlicher Verbindung und emotionaler Zuwendung aus, die in einer Welt, in der Menschen oft isoliert und allein sind, von großer Bedeutung ist."
+        ],
+        "positive_aspekte": [
+          "Alle Grundbehauptungen (Wer spricht? Was wird verlangt?) sind textbasiert.",
+          "Nur 1 von 8 Aussagen (≈ 12 %) ist erfunden – sehr niedriger Halluzinations‑Score."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext hat auch eine leicht nostalgische Note, da der Protagonist ein bestimmtes Lied hören möchte, das er offenbar schon lange nicht mehr gehört hat.",
+          "Die Bitte an Mr. C., das Lied zu singen, kann auch als eine Bitte um eine Rückkehr in eine vergangene Zeit interpretiert werden, in der die Dinge noch einfacher und unkomplizierter waren.",
+          "Die einfache, aber effektive Melodie und die warme Stimme von Perry Como unterstreichen die intime Atmosphäre des Songs und machen ihn zu einem zeitlosen Klassiker."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Metapher für die menschliche Sehnsucht nach emotionaler Nähe und Verbindung interpretiert werden.",
+          "Insgesamt ist \"Sing to Me, Mr. C.\" ein sentimentaler und emotionaler Song, der die menschliche Sehnsucht nach Verbindung, Nähe und emotionaler Zuwendung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse der Kernzeilen.",
+          "Trotz mehr erfundener Aussagen bleibt die Grundinterpretation konsistent."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen wiederholen dieselben Grundbeobachtungen (Wer spricht? Was wird verlangt?) und unterscheiden sich hauptsächlich in Zusatzbehauptungen. Die Varianz ist daher moderat: zwei Interpretationen (1 & 2) sind fast identisch, während 3, 4 und 5 zusätzliche spekulative Elemente einbringen.",
+    "empfehlung": "Interpretation 3 bietet die beste Balance zwischen Texttreue und analytischer Tiefe. Sie enthält nur wenige erfundene Aussagen und erweitert die Analyse um sinnvolle, textbezogene Reflexionen (Nostalgie, kulturelle Hommage), ohne in oberflächliche Allgemeinplätze abzurutschen."
+  }
+}

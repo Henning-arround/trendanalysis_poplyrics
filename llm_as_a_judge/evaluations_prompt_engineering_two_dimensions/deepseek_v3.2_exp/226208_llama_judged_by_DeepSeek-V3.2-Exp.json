@@ -1,0 +1,96 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Angst vor Krieg und Gewalt war in den späten 1980er Jahren vorherrschend"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Konflikt in der Welt",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern und Symbolen, wie dem 'Auge des Sturms', ist ein literarisches Stilmittel, das die zentrale Botschaft des Songs unterstreicht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Konflikt in der Welt"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern und Symbolen, wie dem 'Auge des Sturms', ist auffällig",
+          "Der Song bietet mehrere Deutungsebenen und symbolische Ordnungen, die eine tiefere Analyse ermöglichen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Konflikt in der Welt",
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, die Zuhörer zum Nachdenken über ihre eigene Rolle in der Gesellschaft anzuregen"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern und Symbolen, wie dem 'Auge des Sturms', ist auffällig"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern, wie dem 'Auge des Sturms', symbolisiert einen Ort der Ruhe und des Friedens inmitten von Chaos und Gewalt",
+          "Der Song thematisiert auch die Frage nach Recht und Unrecht"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Notwendigkeit, sich dieser Realität zu stellen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Konflikt in der Welt"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern und Symbolen, wie dem 'Auge des Sturms', ist ein literarisches Stilmittel, das die zentrale Botschaft des Songs unterstreicht",
+          "Die Ambiguität und Spannung zwischen der Sehnsucht nach Frieden und der Realität der Gewalt werden im Song nicht aufgelöst"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und keine unbelegten Aussagen enthält"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die dreifache Wiederholung von „Panic is the rule I make“ fungiert als Mantra, das sowohl die Selbstbestätigung des Protagonisten als auch die institutionalisierte Angst in einer post‑industrial‑Ära (späte 1970er/Frühe 1980er, Kalter Krieg, innerstaatliche Unruhen) widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song lässt offene Fragen nach der Legitimität von Gewalt und der Konstruktion von Angst, ohne sie zu klären, und spiegelt damit die kulturelle Angst vor autoritären Strukturen und individueller Entfremdung in einer Zeit politischer Unsicherheit wider.",
+          "Diese bewusste Nichtauflösung erzeugt ein anhaltendes Spannungsfeld zwischen Verführung und Ablehnung."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah, fast jede Aussage lässt sich klar auf eine Zeile zurückführen.",
+          "Gute Balance zwischen konkreter Analyse (Metaphern, Wiederholungen) und dem Aufzeigen von Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in das frühe 80er‑Jahre‑Klima einordnen, in dem kalter Krieg, innere Unruhen und die Auflösung traditioneller Autoritäten das kulturelle Bewusstsein prägten.",
+          "Die „streets of fear“ können als Metapher für das urbane Milieu der britischen Großstädte verstanden werden, in denen Polizeigewalt und soziale Spannungen sichtbar wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Bildsprache und Wiederholungen.",
+          "Erkennt die Ambiguität des Textes und diskutiert mögliche Sprecherrollen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das frühe 80er‑Jahre‑Milieu einordnen, in dem kalter Krieg, innerstaatliche Unruhen und die aufkommende digitale Ästhetik das kulturelle Klima prägten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textstellen mit einer klaren historischen Einordnung (auch wenn spekulativ).",
+          "Detailreiche Betrachtung von Symbolen wie „energising ray“ und deren mögliche Bedeutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in das frühe 80er‑Jahre‑Milieu einordnen, in dem kalter Krieg, innere Unruhen und die aufkommende Cyber‑Ästhetik das kulturelle Klima prägten."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese offenen Widersprüche verhindern eine eindeutige Deutung und lassen den Song als Spiegel einer unsicheren, von Macht‑ und Angststrukturen durchdrungenen Epoche fungieren."
+        ],
+        "positive_aspekte": [
+          "Starke Fokussierung auf wiederholte Motive und deren hypnotische Wirkung.",
+          "Verknüpft Textanalyse mit einer plausiblen, wenn auch spekulativen, historischen Kontextualisierung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das frühe 80er‑Jahre‑Klima einordnen, das von Kaltem Krieg, innerer Unruhe und dem Aufstieg neoliberaler Sicherheitsdiskurse geprägt war."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Analyse von Bildsprache, Imperativen und Wiederholungen.",
+          "Erklärt die Ambivalenz zwischen individueller Verantwortung und systemischer Gewalt sehr klar."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen behandeln dieselben Kernpunkte (Wiederholungen, Metaphern, Ambiguität) ähnlich; Unterschiede liegen hauptsächlich in der Menge spekulativer historischer Kontextualisierung. Die Varianz ist gering, was auf konsistente Grundanalyse hindeutet.",
+    "empfehlung": "Interpretation 2 bietet die beste Balance: sie bleibt fast vollständig textbasiert, liefert eine substanzielle, tiefgehende Analyse und weist nur minimale spekulative Elemente auf. Für zukünftige Bewertungen sollte der Fokus darauf liegen, historische Einordnungen nur dann zu nutzen, wenn sie klar aus dem Text ableitbar sind, um Halluzinations‑Score zu minimieren."
+  }
+}

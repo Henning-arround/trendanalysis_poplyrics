@@ -1,0 +1,100 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet sich das Stück 1961 in einer Nachkriegsphase, in der deutsche Identität durch Rückbesinnung auf traditionelle Speisen und Volkstänze neu verhandelt wurde."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich klar aus dem Lied ableiten.",
+          "Analytisch differenziert (Metaphern, Paradoxien, mögliche Kritik).",
+          "Wenig spekulative Kontextualisierung, dadurch niedrige Halluzinationsrate."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1961, einer Zeit, in der die deutschsprachige Popkultur nach dem Wirtschaftswunder nach leicht verdaulichen, heimatlich‑verankerten Themen suchte."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Symbol des Sauerkrauts fungiert als kulturelles Signet deutsch‑österreichischer Küche, zugleich aber als Metapher für das „Säuerliche“ im Alltag, das gleichzeitig „lustig“ macht."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen reiner Textbeschreibung und weiterführender Interpretation.",
+          "Verknüpft stilistische Beobachtungen (Reime, La‑Passagen) mit inhaltlicher Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Symbol Sauerkraut fungiert als kulturelles Signet deutsch‑österreichischer Küche, während die Polka als Tanzform die volkstümliche Festlichkeit evoziert; beide werden zu Metaphern für Identität („sauer“ = bitter‑süß, „lustig“ = heiter).",
+          "Emotional wirkt das Stück heiter‑beschwingt, doch die ständige Fixierung auf ein einziges Lebensmittel und einen einzigen Tanz erzeugt eine unterschwellige Monotonie, die an die Nachkriegs‑Heimatmusik der frühen 60er‑Jahre erinnert, als amerikanische Künstler wie Gus Backus deutsche Folklore für ein breites Publikum adaptierten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt die mögliche Ironie und Ambivalenz im Text.",
+          "Bezieht die wiederholten La‑Passagen in die Analyse ein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet sich das Stück in der frühen 1960‑Jahre‑Popkultur, in der amerikanische Künstler wie Gus Backus deutsche Schlagermotive adaptierten, um transkulturelle Identitäten zu inszenieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Symbolisch steht das Sauerkraut für deutsche Heimat und Tradition, die Polka für die tanzende, leichtexotische Kultur des 1950‑60er‑Jahre‑Wests."
+        ],
+        "positive_aspekte": [
+          "Verknüpft formale Strukturelemente (Refrains, Wiederholungen) mit inhaltlicher Bedeutung.",
+          "Erklärt mögliche gesellschaftliche Implikationen (Konsum‑ und Geschlechterrollen)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1961 in der Nachkriegszeit verortet, als deutsche Heimatmusik und volkstümliche Tänze als Identitätsanker dienten; Gus Backus, ein deutsch‑amerikanischer Sänger, vermittelt damit eine transkulturelle Brücke zwischen amerikanischer Pop‑Ästhetik und deutscher Folklore."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr präzise Analyse von Stilmitteln (Anaphern, Parallelismus, La‑Passagen).",
+          "Klare Darstellung der Ambivalenz zwischen Nostalgie und moderner Konsumkultur."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen die wiederholten Textpassagen ähnlich auf; die Varianz liegt hauptsächlich in der Menge an externen Kontextualisierungen. Die meisten halten die Halluzinationsrate niedrig (Score 4), nur Interpretation 5 weist mehr spekulative Aussagen auf.",
+    "empfehlung": "Interpretationen 1‑4 zeigen ein gutes Gleichgewicht zwischen Texttreue und analytischer Tiefe. Sie vermeiden übermäßige Spekulation und liefern fundierte, textbezogene Einsichten. Für zukünftige Bewertungen sollte man besonders darauf achten, historische oder kulturelle Kontextualisierungen nur dann einzubringen, wenn sie klar belegt sind, um die Halluzinationsrate niedrig zu halten."
+  }
+}

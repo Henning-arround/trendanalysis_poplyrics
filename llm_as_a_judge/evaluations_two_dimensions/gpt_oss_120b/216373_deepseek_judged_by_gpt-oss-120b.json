@@ -1,0 +1,127 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rauchringe dienen als Metapher für die flüchtigen und vergänglichen Momente, die die beiden Menschen miteinander geteilt haben.",
+          "Jede Zigarette, die sie raucht, bringt sie zurück zu den Erinnerungen an ihren ehemaligen Partner.",
+          "Die Sängerin erkennt, dass ihre Liebe Geschichte ist, aber die Erinnerungen und Gefühle, die sie damit verbindet, bleiben bestehen.",
+          "Der Rauch der Zigaretten wird zum Symbol für die ephemeren Momente, die die beiden Menschen miteinander geteilt haben, und die Sängerin kann nicht umhin, in diesen Rauchträumen zu versinken und ihre verlorene Liebe zu betrauern."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt, wie sie durch Rauchringe und den Geruch von Zigarettenrauch an ihren ehemaligen Partner erinnert wird.",
+          "Der Song ist auch eine Reflexion über die Vergänglichkeit von Liebe und die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive des Textes (Rauchringe, Zigaretten, unerwiderte Liebe).",
+          "Verknüpft Textzeilen mit einer klaren, wenn auch einfachen, Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rauchringe dienen als Metapher für die flüchtigen und vergänglichen Momente, die die beiden Menschen miteinander geteilt haben.",
+          "Jede Zigarette, die sie raucht, bringt sie zurück zu den Erinnerungen an ihren ehemaligen Partner.",
+          "Die Sängerin erkennt, dass ihre Liebe Geschichte ist, aber die Erinnerungen und Gefühle, die sie damit verbindet, bleiben bestehen.",
+          "Der Rauch der Zigaretten wird zum Symbol für die ephemeren Momente, die die beiden Menschen miteinander geteilt haben, und die Sängerin kann nicht umhin, in diesen Rauchträumen zu versinken und ihre verlorene Liebe zu betrauern."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt, wie sie durch Rauchringe und den Geruch von Zigarettenrauch an ihren ehemaligen Partner erinnert wird.",
+          "Der Song ist auch eine Reflexion über die Vergänglichkeit von Liebe und die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Stellt die Grundstimmung des Songs (Sehnsucht, Schmerz) klar heraus.",
+          "Verknüpft wiederkehrende Bildsprache (Rauch, Zigaretten) mit emotionaler Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rauchringe dienen als Metapher für die flüchtigen und vergänglichen Momente, die die beiden in ihrer Beziehung erlebt haben.",
+          "Jede Zigarette, die sie raucht, bringt sie zurück zu den Erinnerungen an ihren ehemaligen Partner.",
+          "Die Sängerin erkennt, dass ihre Liebe Geschichte ist, aber die Erinnerungen und Gefühle, die sie damit verbindet, bleiben bestehen.",
+          "Der Refrain \"Smoke dreams\" wird zu einem Mantra, das die Sängerin durch die schwierige Zeit trägt und ihr hilft, ihre Gefühle zu verarbeiten.",
+          "Trotz der Trennung geht die Geschichte ihrer Liebe weiter, ein Zeichen dafür, dass die Erinnerungen an die Vergangenheit nie wirklich vergehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt, wie sie durch Rauchringe und den Geruch von Zigarettenrauch an ihren ehemaligen Partner erinnert wird.",
+          "Der Song ist auch eine Reflexion über die Vergänglichkeit von Liebe und die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die Funktion des Refrains als „Mantra“, was eine konkrete Textbezug‑Interpretation darstellt.",
+          "Bezieht sich auf mehrere Textstellen (Rauchringe, Zigaretten, Träume) und verknüpft sie zu einem zusammenhängenden Bild."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rauchringe dienen als Metapher für die flüchtigen und vergänglichen Momente, die die beiden Menschen miteinander geteilt haben.",
+          "Jede Zigarette, die sie raucht, bringt sie zurück zu den Erinnerungen an ihren ehemaligen Partner.",
+          "Die Sängerin weiß, dass ihr Partner nicht mehr da ist, aber die Geschichte ihrer Liebe geht in ihren Träumen und Erinnerungen weiter.",
+          "Der Rauch der Zigaretten wird zum Symbol für die ephemere Natur der Liebe und die Unfähigkeit, die Vergangenheit loszulassen.",
+          "Durch die Wiederholung der Rauchringe und Rauchträume wird die Sehnsucht und der Schmerz der Sängerin immer wieder aufs Neue entfacht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt, wie sie durch Rauchringe und den Geruch von Zigarettenrauch an ihren ehemaligen Partner erinnert wird.",
+          "Der Song ist auch eine Reflexion über die Vergänglichkeit von Liebe und die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Erfasst die zentrale Bildsprache (Rauch, Wiederholung) und verbindet sie mit dem emotionalen Kern des Songs.",
+          "Nimmt die wiederholende Struktur des Textes in die Interpretation auf."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rauchringe dienen als Metapher für die flüchtigen und vergänglichen Momente, die die beiden in ihrer Beziehung erlebt haben.",
+          "Jede Zigarette, die sie raucht, bringt sie zurück zu den Erinnerungen an ihren ehemaligen Partner.",
+          "Der Refrain \"Smoke dreams from smoke rings\" verdeutlicht die Verbindung zwischen den Rauchringen und den Träumen, die die Sängerin von ihrem ehemaligen Partner hat.",
+          "Die Liebe ist zwar vorbei, aber die Geschichte ihrer Beziehung geht weiter in den Träumen und Erinnerungen der Sängerin.",
+          "Die Sängerin kann nicht loslassen und bleibt in den Erinnerungen an ihren ehemaligen Partner gefangen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt, wie sie durch Rauchringe und den Geruch von Zigarettenrauch an ihren ehemaligen Partner erinnert wird.",
+          "Der Song ist ein melancholischer Ausdruck der Sehnsucht und des Schmerzes, der nach einer gescheiterten Liebe zurückbleibt."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf den Refrain und interpretiert dessen Bedeutung, was den Textbezug vertieft.",
+          "Verknüpft die wiederholende Bildsprache mit einer konkreten emotionalen Wirkung (Gefangensein in Erinnerungen)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.0,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthemen (Sehnsucht, Rauchringe, Zigaretten). Die Varianz liegt hauptsächlich in der Tiefe der Analyse: Interpretation 4 und 5 bieten konkretere Textbezüge (Refrain‑Analyse, Mantra‑Konzept), während die anderen eher generisch bleiben.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus stärker auf textbasierte, nachweisbare Bildinterpretationen gelegt werden, gleichzeitig aber mehr Raum für mehrdeutige, aber begründete Lesarten geschaffen werden. Interpretation 4 zeigt, wie ein konkreter Bezug zum Refrain die Tiefe erhöht, ohne die Faktentreue zu gefährden."
+  }
+}

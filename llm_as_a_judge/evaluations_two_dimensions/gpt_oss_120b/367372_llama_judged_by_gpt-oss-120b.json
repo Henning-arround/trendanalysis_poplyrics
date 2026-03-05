@@ -1,0 +1,119 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Freiheit und den Ausdruck durch Tanz und Musik.",
+          "Dieser Moment der Befreiung markiert den Beginn einer Nacht voller Tanz, Romantik und Selbstentdeckung.",
+          "Der Refrain … kann als Aufforderung verstanden werden, sich den Momenten des Lebens hinzugeben, die Freiheit und Ekstase bieten, und sich nicht von Ängsten oder Zweifeln zurückhalten zu lassen.",
+          "Der Song ist auch eine Hymne an die Macht der Musik und des Tanzes, die Menschen zusammenbringen und sie in einen Zustand der Ekstase und des Glücks versetzen können.",
+          "Die Wiederholung von \"Let's dance, let's shout, get funky, what it's all about\" unterstreicht die Idee, dass Tanz und Musik eine universelle Sprache sind, die Menschen verbindet und sie in einen gemeinsamen Rausch versetzt.",
+          "Der Song endet mit der Aussage, dass die Party, die als Metapher für das Leben selbst dienen kann, niemals enden muss, solange man bereit ist, sich ihr hinzugeben und die Freiheit und den Ausdruck zu suchen, die sie bietet."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt den Protagonisten und dessen anfängliche Nervosität (Beleg aus dem Text).",
+          "Bezieht sich auf konkrete Textstellen wie die Wiederholung von \"Let's dance, let's shout, get funky...\"."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 1,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Freiheit und den Ausdruck durch Tanz und Musik.",
+          "Dieser Moment der Befreiung markiert den Beginn einer Nacht, in der alles möglich scheint, und die Grenzen zwischen den Menschen verschwimmen.",
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel, das es ermöglicht, sich ohne Worte zu verständigen und zu verbinden.",
+          "Der Refrain … kann als Aufforderung verstanden werden, sich den Momenten des Lebens hinzugeben, die Hemmungen abzulegen und sich der Ekstase des Tanzes und der Musik zu überlassen.",
+          "Der Song ist auch eine Hymne an die Schönheit und die Anziehungskraft der weiblichen Form, wie in den wiederholten Anrufungen der \"Dancing Lady\" deutlich wird.",
+          "Die Musik und der Text schaffen eine Atmosphäre der Ekstase und des kollektiven Ausdrucks, in der die Grenzen zwischen den Individuen aufgehoben sind und alle in einem gemeinsamen Rhythmus und einer gemeinsamen Bewegung vereint sind.",
+          "Der Song endet in einem Crescendo der Euphorie und des Ausdrucks, in dem die Worte und die Musik ineinander übergehen und die Zuhörer auffordern, sich dem Rhythmus und der Bewegung hinzugeben."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe der Grundhandlung (Nervosität, Aufstehen, Tanzen)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 1,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Freiheit und den Ausdruck durch Tanz und Musik.",
+          "Dieser Moment der Befreiung markiert den Beginn einer Nacht, in der alles möglich scheint, und die Grenzen zwischen den Menschen verschwimmen.",
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel, das es ermöglicht, sich ohne Worte zu verständigen und zu verbinden.",
+          "Der Refrain … kann als Aufforderung verstanden werden, sich den Momenten des Lebens hinzugeben, die Hemmungen abzulegen und sich der Ekstase des Tanzes und der Musik zu überlassen.",
+          "Der Song ist auch eine Hymne an die Schönheit und die Anziehungskraft der weiblichen Form, wie in den wiederholten Anrufungen der \"Dancing Lady\" deutlich wird.",
+          "Die Musik und der Text schaffen eine Atmosphäre der Ekstase und des kollektiven Ausdrucks, in der die Grenzen zwischen den Individuen aufgehoben sind und alle in einem gemeinsamen Rhythmus und einer gemeinsamen Bewegung vereint sind.",
+          "Der Song endet in einem Crescendo der Euphorie, in dem die Aufforderung, sich der Musik und dem Tanz hinzugeben, zu einem universalen Gebot wird, das über die Nacht und den Moment hinausreicht."
+        ],
+        "positive_aspekte": [
+          "Richtige Identifikation des Protagonisten und seiner Entwicklung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 1,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Freiheit und den Ausdruck durch Tanz und Musik.",
+          "Dieser Moment der Befreiung markiert den Beginn einer Nacht, in der alles möglich scheint, und die Grenzen zwischen den Menschen verschwimmen.",
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel, das es ermöglicht, sich ohne Worte zu verständigen und zu verbinden.",
+          "Der Refrain … kann als Aufforderung verstanden werden, sich den Momenten des Lebens hinzugeben, die Hemmungen abzulegen und sich der Ekstase des Tanzes und der Musik zu überlassen.",
+          "Der Song ist auch eine Hymne an die Schönheit und die Anziehungskraft der weiblichen Form, wie in den wiederholten Anrufungen der \"Dancing Lady\" deutlich wird.",
+          "Die Musik und der Text schaffen eine Atmosphäre der Ekstase und des kollektiven Ausdrucks, in der die Grenzen zwischen den Individuen aufgehoben sind und alle in einem gemeinsamen Rausch der Bewegung und des Klangs vereint sind.",
+          "Der Song endet in einem nicht enden wollenden Tanz, der die Nacht und den Tag überdauert, und in dem die Beteiligten sich immer wieder auffordern, sich der Musik und dem Moment hinzugeben."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe der Kernhandlung (Nervosität → Tanz)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 1,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Freiheit und den Ausdruck durch Tanz und Musik.",
+          "Dieser Moment der Befreiung markiert den Beginn einer Nacht, in der alles möglich scheint, und die Grenzen zwischen den Menschen verschwimmen.",
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel, das es ermöglicht, sich ohne Worte zu verständigen und sich hinzugeben.",
+          "Der Refrain … wird zu einem Mantra, das die Hörer auffordert, sich ihren Hemmungen und Ängsten zu entledigen und sich der Musik und dem Moment hinzugeben.",
+          "Der Song ist auch eine Hommage an die Schönheit und Anziehungskraft der weiblichen Tanzpartner, die mit ihren Bewegungen und ihrem Charme die Nacht zum Kochen bringen.",
+          "Durch die Wiederholung von Phrasen wie \"Let's dance, let's shout, get funky, what it's all about\" wird die Energie und Ekstase der Party noch verstärkt, und der Hörer wird in die Mitte des Geschehens gezogen.",
+          "Der Song endet mit dem Versprechen, dass die Party niemals enden wird, und dass die Musik und der Tanz immer da sein werden, um die Menschen zusammenzubringen und sie zu befreien."
+        ],
+        "positive_aspekte": [
+          "Erfasst exakt die Textstelle über das Aufstehen und Tanzen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 1.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben generischen Aussagen; nur Interpretation 3 liefert leicht mehr textbezogene Detail (Erwähnung konkreter Wiederholungen) und erreicht damit die höchste Tiefenbewertung.",
+    "empfehlung": "Ein Ansatz, der konkrete Textzitate (z. B. die wiederholten Phrasen) einbindet und daraus differenzierte, aber textbasierte Schlüsse zieht, liefert mehr analytische Tiefe, ohne Halluzinationen zu erzeugen. Interpretation 3 ist hier am besten, während die anderen zu oberflächlich bleiben."
+  }
+}

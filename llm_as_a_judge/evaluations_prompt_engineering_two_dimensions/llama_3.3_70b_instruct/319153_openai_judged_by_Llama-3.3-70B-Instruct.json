@@ -1,0 +1,99 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz zu Liverpool kann als Hinweis auf britische Popkultur verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt offen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Kritik an der Freizeitkultur der frühen 2000er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen Passivität und absurdem Aktivismus"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der surrealen Verknüpfungen ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Sinnkrise"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt mehrdeutig"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wortspiele und Metaphern ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die scheinbare Belanglosigkeit der Zeilen kann als Kritik an Oberflächlichkeit gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen Wunsch nach Orientierung und dem Fehlen einer festen Referenz"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der fragmentierten Identitäten ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die ironische Selbstinszenierung in der Popkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Mischung aus banaler Langeweile und exzentrischer Extravaganzen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der metaphorischen und symbolischen Bilder ist detailliert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Tiefe und Halluzination",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate"
+  }
+}

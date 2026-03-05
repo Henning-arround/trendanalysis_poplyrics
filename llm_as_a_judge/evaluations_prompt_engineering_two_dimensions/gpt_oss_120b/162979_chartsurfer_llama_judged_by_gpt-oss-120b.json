@@ -1,0 +1,129 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbole \"Fleisch\" und \"Kartoffeln\" können als Repräsentationen von Männlichkeit und Weiblichkeit interpretiert werden, wobei das Fleisch die männliche Arbeitskraft und die Kartoffeln die weibliche Pflege und Fürsorge symbolisieren.",
+          "Die Songtextzeilen können als Kommentar zu den gesellschaftlichen Erwartungen an Männer und Frauen in den 1950er Jahren interpretiert werden, in denen traditionelle Rollenbilder noch stark verankert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist geprägt von der affektiven Dimension der Unzufriedenheit und der Enttäuschung.",
+          "Der kulturelle und historische Kontext des Songs muss berücksichtigt werden, um die tiefere Bedeutungsebene des Songs zu verstehen.",
+          "Die Ambiguitäten und Spannungen im Song bleiben bestehen und laden den Hörer ein, eigene Interpretationen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Metapher und wiederholte Textstelle.",
+          "Erkennt den Dialog‑Charakter des Songs und verknüpft ihn mit Beziehungs‑Spannungen.",
+          "Bezieht sich konkret auf Textzeilen, die die Unzufriedenheit des Mannes ausdrücken."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbole \"Fleisch\" und \"Kartoffeln\" können als Repräsentationen von Männlichkeit und Weiblichkeit interpretiert werden, wobei das Fleisch die männliche Arbeitskraft und die Kartoffeln die weibliche Pflege und Fürsorge symbolisieren.",
+          "Die Songtextzeilen können als Kommentar zu den gesellschaftlichen Erwartungen an Männer und Frauen in den 1950er Jahren interpretiert werden, in denen traditionelle Rollenbilder noch stark verankert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist geprägt von der affektiven Dimension der Unzufriedenheit und der Enttäuschung.",
+          "Der kulturelle und historische Kontext des Songs muss berücksichtigt werden, um die tiefere Bedeutungsebene des Songs zu verstehen.",
+          "Die Ambiguitäten und Spannungen im Song bleiben bestehen und laden den Hörer ein, eigene Interpretationen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Gute Herausarbeitung der wiederholten Metapher \"All that meat and no potatoes\".",
+          "Verknüpft die Dialogform des Textes mit kommunikativen Problemen im Paar.",
+          "Bezieht sich konkret auf mehrere Textstellen, die die Erwartungshaltung des Mannes verdeutlichen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbole \"Fleisch\" und \"Kartoffeln\" können als Repräsentationen von Männlichkeit und Weiblichkeit interpretiert werden, wobei das Fleisch die männliche Arbeitskraft und die Kartoffeln die weibliche Pflege und Fürsorge symbolisieren.",
+          "Die Songtextzeilen können als Kommentar zu den gesellschaftlichen Erwartungen an Männer und Frauen in den 1950er Jahren interpretiert werden, in denen traditionelle Rollenbilder noch stark verankert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist geprägt von der affektiven Dimension der Unzufriedenheit und der Enttäuschung.",
+          "Der kulturelle und historische Kontext des Songs muss berücksichtigt werden, um die tiefere Bedeutungsebene des Songs zu verstehen.",
+          "Die Ambiguitäten und Spannungen im Song bleiben bestehen und laden den Hörer ein, eigene Interpretationen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Metapher und deren Wiederholung im Text.",
+          "Stellt die Dialogstruktur klar heraus und verbindet sie mit Beziehungs‑Dynamiken.",
+          "Bezieht sich auf konkrete Textzeilen, die die Frustration des Protagonisten ausdrücken."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbole \"Fleisch\" und \"Kartoffeln\" können als Repräsentationen von Männlichkeit und Weiblichkeit interpretiert werden, wobei das Fleisch die männliche Ernährung und die Kartoffeln die weibliche Pflege symbolisieren.",
+          "Die Songtextzeilen können als Kommentar zu den gesellschaftlichen Erwartungen an Männer und Frauen in den 1950er Jahren interpretiert werden, in denen traditionelle Rollenbilder noch stark verankert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist geprägt von der affektiven Dimension der Unzufriedenheit und der Enttäuschung.",
+          "Der kulturelle und historische Kontext des Songs muss berücksichtigt werden, um die tiefere Bedeutungsebene des Songs zu verstehen.",
+          "Die Ambiguitäten und Spannungen im Song bleiben bestehen und laden den Hörer ein, eigene Interpretationen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die wiederholte Metapher und verknüpft sie mit der Unzufriedenheit des Protagonisten.",
+          "Erkennt die Dialogform und deren Bedeutung für die Beziehungs‑Spannungen.",
+          "Bezieht sich auf mehrere Textstellen, die die Erwartungshaltung des Mannes verdeutlichen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbole \"Fleisch\" und \"Kartoffeln\" können als Repräsentationen von Männlichkeit und Weiblichkeit interpretiert werden, wobei das Fleisch die männliche Arbeitskraft und die Kartoffeln die weibliche Pflege symbolisieren.",
+          "Die Songtextzeilen können als Kommentar zu den gesellschaftlichen Erwartungen an Männer und Frauen in den 1950er Jahren interpretiert werden, in denen die Rolle des Mannes als Ernährer und die Rolle der Frau als Pflegerin stark verankert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist geprägt von der affektiven Dimension der Unzufriedenheit und der Enttäuschung.",
+          "Der kulturelle und historische Kontext des Songs muss berücksichtigt werden, um die tiefere Bedeutungsebene des Songs zu verstehen.",
+          "Die Ambiguitäten und Spannungen im Song bleiben bestehen und laden den Hörer ein, eigene Interpretationen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der wiederholten Metapher \"All that meat and no potatoes\".",
+          "Erkennt die Dialogstruktur und verbindet sie mit kommunikativen Problemen im Paar.",
+          "Bezieht sich konkret auf Textstellen, die die Frustration des Mannes ausdrücken."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen nahezu identische Struktur und denselben Anteil an erfundenen bzw. oberflächlichen Aussagen (je 16,7 % Halluzination, 33,3 % Oberflächlichkeit). Die Varianz ist daher sehr gering.",
+    "empfehlung": "Die vorliegenden Analysen sind konsistent, aber sie bleiben auf einem mittleren Niveau. Für eine höhere Bewertung sollten zukünftige Interpretationen stärker textgebundene, differenzierte Analysen liefern und spekulative Symboldeutungen klar als mögliche Lesarten kennzeichnen, um den Halluzinations‑Score zu senken und die analytische Tiefe zu erhöhen."
+  }
+}

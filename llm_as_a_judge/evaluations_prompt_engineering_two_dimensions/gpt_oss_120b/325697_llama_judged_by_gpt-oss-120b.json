@@ -1,0 +1,131 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in einer Zeit, in der die traditionellen Rollenbilder und Beziehungsstrukturen in Frage gestellt wurden.",
+          "Die Textzeilen deuten auf eine Ambiguität und Spannung hin, die möglicherweise durch die gesellschaftlichen Erwartungen und Normen verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer echten und tiefen Liebe.",
+          "Diese Zeilen unterstreichen die thematische Komplexität ... das sich mit den menschlichen Emotionen und der Suche nach Authentizität in Beziehungen auseinandersetzt.",
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur emotionalen Wirkung des Liedes bei.",
+          "Diese Zeile symbolisiert die Sehnsucht nach einer umfassenden und exklusiven Liebe.",
+          "Die emotionale Wirkung wird durch die affektive Dimension verstärkt, die die Zuhörer dazu einlädt, sich in die Gefühle des Sängers hineinzuversetzen.",
+          "Diese Ambiguität bleibt im Lied ungelöst und lässt Raum für Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Metaphern und die wiederkehrende Ambiguität im Text.",
+          "Verknüpft die Textstelle mit einer möglichen gesellschaftlichen Lesart, was ein Ansatz zur Kontextualisierung ist."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes ist auch wichtig, da es in den 1960er Jahren entstand, einer Zeit, in der die traditionellen Rollen von Mann und Frau in der Gesellschaft noch stark verankert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer echten und tiefen Liebe.",
+          "Diese Zeilen zeigen auch die thematische Komplexität ... da sie die Frage nach der Bedingung für eine erfüllte Liebe aufwerfen.",
+          "Die literarischen Stilmittel, wie Metaphern und Bilder, tragen zur emotionalen Wirkung des Liedes bei.",
+          "Die Verwendung von Bildern ... schafft eine intensive emotionale Atmosphäre und betont die affektive Dimension des Liedes.",
+          "Die tiefere Bedeutungsebene ... kann in der symbolischen Ordnung der Liebe ... gesehen werden.",
+          "Diese Ambiguität bleibt im Lied bestehen und wird nicht aufgelöst, was die Komplexität und Tiefe des Liedes unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Bietet konkrete Textbelege für Metaphern und die zentrale Ambiguität.",
+          "Verknüpft die lyrische Bildsprache mit einer möglichen historischen Lesart, ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes ist auch wichtig, da es die gesellschaftlichen Normen und Erwartungen an Liebe und Beziehungen widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer echten und tiefen Liebe.",
+          "Diese Zeilen zeigen auch die thematische Komplexität ... da sie die Frage nach der Bedingung für eine erfüllte Liebe aufwerfen.",
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur emotionalen Wirkung des Liedes bei.",
+          "Die Verwendung von Bildern, wie \"kissing me, that it was something real\", unterstreicht die affektive Dimension ... betont die Intensität ...",
+          "Die tiefere Bedeutungsebene ... kann in der symbolischen Ordnung der Liebe ... gesehen werden.",
+          "Ambiguitäten und Spannungen ... bleiben jedoch bestehen und lassen Raum für Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Analysiert mehrere Textstellen (z. B. die Utopie‑Zeile) und verbindet sie mit einer kritischen Lesart der Liebe.",
+          "Erkennt und benennt die zentrale Ambiguität, ohne sie zu simplifizieren."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes ist auch wichtig, da es die gesellschaftlichen Normen und Erwartungen an Liebe und Beziehungen widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer echten und tiefen Liebe.",
+          "Diese Zeilen zeigen auch die thematische Komplexität ... da sie die Frage nach der Bedingung für eine erfüllte Liebe aufwerfen.",
+          "Die literarischen Stilmittel, wie Metaphern und Bilder, tragen zur emotionalen Wirkung des Liedes bei.",
+          "Die Verwendung von Bildern ... schafft eine intensive emotionale Atmosphäre und betont die affektive Dimension des Liedes.",
+          "Die tiefere Bedeutungsebene ... kann in der symbolischen Ordnung der Liebe ... gesehen werden.",
+          "Ambiguitäten und Spannungen ... bleiben jedoch bestehen und lassen Raum für Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Stützt seine Analyse stark auf konkrete Textzitate (z. B. „There'd be no day…“).",
+          "Verknüpft die lyrische Utopie mit einer kritischen Reflexion über die Grenzen romantischer Erwartungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in einer Zeit, in der die traditionellen Rollenbilder und Beziehungsstrukturen in Frage gestellt wurden.",
+          "Die Textzeilen deuten auf eine Ambiguität und Spannung hin, die möglicherweise durch die gesellschaftlichen Erwartungen und Normen verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer echten und tiefen Liebe.",
+          "Diese Zeilen unterstreichen die thematische Komplexität ... das sich mit den menschlichen Emotionen und der Suche nach Authentizität in Beziehungen auseinandersetzt.",
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur emotionalen Wirkung des Liedes bei.",
+          "Diese Zeile symbolisiert die Sehnsucht nach einer umfassenden und exklusiven Liebe.",
+          "Die emotionale Wirkung wird durch die affektive Dimension ... verstärkt, die die Zuhörer dazu einlädt, sich in die Gefühle des Sängers hineinzuversetzen.",
+          "Diese Ambiguität bleibt im Lied ungelöst und lässt Raum für Interpretationen ..."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Metapher und die wiederkehrende Ambiguität im Text.",
+          "Versucht, den historischen Kontext zu berücksichtigen, auch wenn die Aussagen spekulativ bleiben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Sehnsucht, Metaphern, Ambiguität). Die Varianz liegt vor allem im Umfang spekulativer Kontextualisierungen – Interpretation 3 und 5 enthalten die wenigsten unbelegten Aussagen und die tiefste Textanalyse.",
+    "empfehlung": "Interpretation 3 (und 5) zeigen, wie man Textbelege gezielt nutzt, um Mehrdeutigkeit zu beleuchten, ohne übermäßige spekulative Historisierung. Für zukünftige LLM‑Interpretationen sollte der Fokus auf konkrete Zeilenbezüge und differenzierte Ambiguitätsanalysen gelegt werden, während unbegründete kulturelle oder biografische Aussagen vermieden werden."
+  }
+}

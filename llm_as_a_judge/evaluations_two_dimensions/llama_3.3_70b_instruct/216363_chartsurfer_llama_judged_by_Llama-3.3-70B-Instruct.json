@@ -1,0 +1,99 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die simple, aber effektive Melodie und die markante Stimme von Ray Charles verstärken die emotionale Intensität des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist somit eine Art cathartischer Ausdruck der Befreiung und des Neuanfangs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Rollenveränderung und die emotionale Entwicklung des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist gibt zu, dass er in der Vergangenheit ein Narr war"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Entdeckung einer 'truer' und 'newer' Liebe symbolisiert den Wachstumsprozess"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Veränderung in der Dynamik der Beziehung und die neue Selbstsicherheit des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist hat diese Wende genommen, indem er seine alte Liebe hinter sich gelassen und eine neue gefunden hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Veränderung in der Dynamik der Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Akzeptanz von Veränderungen im Leben"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist hat seine alte Liebe hinter sich gelassen und eine neue gefunden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Entdeckung einer 'truer' und 'newer' Liebe symbolisiert den Wachstumsprozess"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Veränderung in der Dynamik der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist hat inzwischen eine neue, treuere Liebe gefunden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Every road must have a turning' deutet darauf hin, dass jeder Weg eine Wende nehmen muss"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Entwicklung des Protagonisten und die Veränderung in der Dynamik der Beziehung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz, aber es gibt einige Wiederholungen und oberflächliche Aussagen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet unnötige Wiederholungen und Erfindungen"
+  }
+}

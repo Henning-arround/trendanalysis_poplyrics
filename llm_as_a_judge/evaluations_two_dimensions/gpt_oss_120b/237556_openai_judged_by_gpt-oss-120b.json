@@ -1,0 +1,127 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„fast kindliche Direktheit“ – vage Charakterisierung ohne Textbeleg",
+          "„einseitige, emotionale Beziehung“ – spekulativ",
+          "„Distanz … psychisch belastend wirkt“ – Interpretation, nicht explizit im Text",
+          "„Mantra, das die gesamte Struktur des Stückes zusammenhält“ – allgemeine Metapher",
+          "„Gefühle unabhängig von moralischen Bewertungen“ – überinterpretierend"
+        ],
+        "positive_aspekte": [
+          "Identifiziert konkrete Textstellen (Weinen, Zeit fliegt, Chills, Wiederholungen)",
+          "Verknüpft wiederkehrende Phrasen mit möglichen Funktionen (Mantra, Hoffnung)",
+          "Bleibt bei rein textbezogenen Beobachtungen, vermeidet biografische Spekulationen"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Dusty Springfields warmes Timbre unterstreicht die Verletzlichkeit und den unerschütterlichen Optimismus“ – keine Angaben zur Produktion oder Klangfarbe im Ausgangstext"
+        ],
+        "oberflächliche_aussagen": [
+          "„fast kindliche Direktheit“ – vage Stilbeschreibung",
+          "„zartes Misstrauen“ – Interpretation ohne Beleg",
+          "„sinnliche Dimension“ – allgemeine Aussage",
+          "„Mantra, das die Dringlichkeit verstärkt“ – metaphorisch, nicht belegt",
+          "„bereit, jede Situation zu akzeptieren, solange die physische Nähe besteht“ – spekulativ"
+        ],
+        "positive_aspekte": [
+          "Zieht klare Bezüge zu konkreten Zeilen (Weinen, Zeit fliegt, Chills)",
+          "Analysiert die Wirkung von Wiederholungen im Text",
+          "Erkennt das zentrale Motiv der Hoffnung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Dusty Springfields sanfte Stimme untermalt …“ – Annahme über musikalische Umsetzung ohne Quelle"
+        ],
+        "oberflächliche_aussagen": [
+          "„fast kindliche Sprache“ – vage Stilangabe",
+          "„emotionale Ungleichgewicht zwischen den beiden Protagonisten“ – spekulativ",
+          "„Zeit … wird zur Qual, das Wiedersehen zum Fluchtpunkt aller Hoffnungen“ – allgemeine Metapher",
+          "„Mantra, das die Unsicherheit ausdrückt“ – nicht konkret belegt",
+          "„Liebe wird zum allgegenwärtigen Begleiter, unabhängig von äußeren Umständen“ – abstrakte Aussage"
+        ],
+        "positive_aspekte": [
+          "Erfasst die wiederholte Bitte „I just hope that we can get together soon“",
+          "Bezieht sich auf konkrete Bildsprache (Chills, Weinen, Time flies)",
+          "Diskutiert das Motiv von Gegenseitigkeit und Unsicherheit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Sie ist sich nicht sicher, ob ihre Liebe erwidert wird, doch das Bedürfnis nach Bestätigung bleibt unerschütterlich“ – nicht aus dem Text ableitbar",
+          "„Die Struktur des Liedes … verstärkt das Gefühl von Endlosschleife“ – Annahme über Form ohne Beleg"
+        ],
+        "oberflächliche_aussagen": [
+          "„fast kindliche Direktheit“ – vage",
+          "„innere Unsicherheit der Sprecherin betont“ – allgemeine Interpretation",
+          "„Kontrast zwischen emotionaler Leere und euphorischer Beschleunigung“ – abstrakt",
+          "„Mantra, das die Hoffnung in den Vordergrund stellt“ – metaphorisch",
+          "„Bildhafte Sprache lässt körperliche Reaktionen spüren“ – wenig konkret"
+        ],
+        "positive_aspekte": [
+          "Erkennt die Wiederholung von Schlüsselphrasen (I don’t know, wrong or right)",
+          "Verbindet die Bildsprache mit möglichen Gefühlslagen (Fernbeziehung, Achterbahn der Gefühle)"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Schmetterlingen im Bauch“ – kommt im Text nicht vor",
+          "„typisches Spannungsfeld von Liebe und Angst … in vielen Pop‑Balladen der späten 60er‑ und frühen 70er‑Jahre“ – historischer Kontext ohne Beleg"
+        ],
+        "oberflächliche_aussagen": [
+          "„fast kindliche Direktheit“ – vage",
+          "„persönliche, intime Note“ – allgemeine Bewertung",
+          "„hypnotischer Effekt … Mantraartig“ – spekulativ",
+          "„Beziehung nicht hinterfragt, sondern bedingungslos akzeptiert“ – Interpretation",
+          "„Song bleibt zeitlos, weil er das universelle Gefühl verkörpert“ – Klischee"
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Wiederholungen (boy, real soon, wrong or right)",
+          "Verknüpft Text mit dem Motiv von Hoffnung und Dringlichkeit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen hohe Ähnlichkeit in Grundbeobachtungen (Wiederholungen, Sehnsucht, Hoffnung). Unterschiede liegen vor allem im Umfang spekulativer Kontextualisierungen – einige Modelle fügen biografische oder historische Details ein, andere bleiben strikt textnah.",
+    "empfehlung": "Ein Ansatz, der ausschließlich auf den vorliegenden Text fokussiert, liefert die geringste Halluzinationsrate (Interpretation 3) und gleichzeitig eine solide analytische Tiefe. Modelle sollten vermieden, unbelegte biografische oder stilistische Aussagen zu erzeugen, und stattdessen konkrete Textstellen mit differenzierten, aber textbasierten Interpretationen verbinden."
+  }
+}

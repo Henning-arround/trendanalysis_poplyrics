@@ -1,0 +1,99 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach menschlicher Nähe und Verbindung in einer globalisierten Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als eine Mischung aus Besitzanspruch und Sehnsucht interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Einbettung in einen kulturellen Kontext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die ständige Wiederholung der Zeile 'You belong to me' erzeugt eine Spannung zwischen dem Wunsch nach Nähe und dem Anspruch auf Besitz"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem gemeinsamen Erlebnis und die Angst vor der Einsamkeit"
+        ],
+        "positive_aspekte": [
+          "Die Betrachtung der symbolischen Ordnung von Besitz, Sehnsucht und Nähe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Globalisierung und die digitale Revolution die Kommunikation und die Beziehungen zwischen Menschen veränderten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als eine Mischung aus Besitzanspruch und Sehnsucht interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Einbettung in einen kulturellen Kontext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Partnerin an den Sänger gebunden, indem er sie an das Versprechen erinnert, dass 'you belong to me'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem gemeinsamen Erlebnis und die Verwendung exotischer Orte als Kulisse für die Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Betrachtung der Spannung zwischen Freiheit und Besitzanspruch"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach menschlicher Nähe und Verbindung in einer globalisierten Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als eine Mischung aus Besitzanspruch und Sehnsucht interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Einbettung in einen kulturellen Kontext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Tiefe und die Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "song": "Pay The Man - The Offspring (1998)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Der 'Man' wird als eine Art Überwachungs- und Kontrollinstanz dargestellt, die das Leben der Menschen bestimmt und sie in eine bestimmte Richtung lenkt.\"",
+          "\"Die Wiederholung von 'In our souls' unterstreicht die Tiefe der Unterdrückung und die Auswirkungen auf die Seele und das Innere der Menschen.\"",
+          "\"Die Textzeilen ... deuten auf eine Art von Resignation und Verzweiflung hin, da die Menschen sich der Ausbeutung und Unterdrückung bewusst sind, aber keine Möglichkeit sehen, sich dagegen zu wehren.\"",
+          "\"Die Aufforderung 'Pay the man' wird zu einem Symbol für die Unterwerfung und die Kapitulation vor den Mächtigen.\"",
+          "\"Der Refrain 'Ho-ho, shut up, you talk too much' kann als eine Art von Zensur oder Unterdrückung der Meinungsfreiheit interpretiert werden.\"",
+          "\"Der Songtext enthält auch Anspielungen auf die Suche nach Freiheit und Unabhängigkeit ...\"",
+          "\"Der abschließende Teil ... kann als eine Art von Ironie oder Sarkasmus interpretiert werden, der die Oberflächlichkeit und die Ablenkung von den eigentlichen Problemen kritisiert.\""
+        ],
+        "oberflächliche_aussagen": [
+          "\"Der Song ... thematisiert die Unterdrückung und Ausbeutung durch die Gesellschaft und die Mächtigen.\""
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt konsistent im gesamten Text und greift fast jede Textzeile auf.",
+          "Sie liefert ein zusammenhängendes Bild von Macht und Unterdrückung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Die Textzeile ... suggeriert, dass die Lebenswege der Menschen miteinander verknüpft sind und von äußeren Faktoren beeinflusst werden.\"",
+          "\"Der 'Man' wird als eine Art Schicksal oder höhere Macht dargestellt, die über die Leben der Menschen bestimmt.\"",
+          "\"Die Zeile 'Jester in the corner laughs without a sound' deutet auf die Ironie und den Zynismus hin, mit dem die Mächtigen die Schwächen und Niederlagen der Menschen beobachten.\"",
+          "\"Die Textpassage 'All that I believe now, anything is possible' lässt darauf schließen, dass die Grenzen zwischen Gut und Böse verwischt sind und dass alles möglich ist, wenn man nur den richtigen Weg findet.\"",
+          "\"Die Wiederholung von 'In our souls' unterstreicht die Tiefe und Intensität der emotionalen und psychischen Auswirkungen, die die Unterdrückung auf die Menschen hat.\"",
+          "\"Der Refrain 'Pay the man' wird zu einem wiederkehrenden Motiv, das die Unausweichlichkeit und die Resignation gegenüber der Unterdrückung symbolisiert.\"",
+          "\"Die Zeile 'My life is for me now' deutet auf einen Wunsch nach Freiheit und Unabhängigkeit hin, der jedoch durch die bestehenden Machtstrukturen unterdrückt wird.\"",
+          "\"Der Song endet mit einer ironischen und provokativen Note, ... als Spott auf die Oberflächlichkeit und den Konformismus der Gesellschaft interpretiert werden kann.\""
+        ],
+        "oberflächliche_aussagen": [
+          "\"Der Song ... thematisiert die Unterdrückung und Ausbeutung durch die Gesellschaft und die Mächtigen.\""
+        ],
+        "positive_aspekte": [
+          "Versucht, fast jede Textzeile zu erklären und ein zusammenhängendes Narrativ zu bauen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Der 'Man' wird als eine Art Überwachungs- und Kontrollinstanz dargestellt, die das Leben der Menschen bestimmt und sie in eine bestimmte Richtung lenkt.\"",
+          "\"Die Wiederholung von 'In our souls' unterstreicht die Tiefe der Unterdrückung und die Auswirkungen auf die Seele und das Innere der Menschen.\"",
+          "\"Die Textzeilen ... deuten auf eine Art von Resignation und Verzweiflung hin, da die Menschen sich der Ausbeutung und Unterdrückung bewusst sind, aber keine Möglichkeit sehen, sich dagegen zu wehren.\"",
+          "\"Die Aufforderung 'Pay the man' wird zu einem Symbol für die Unterwerfung und die Kapitulation vor den Mächtigen.\"",
+          "\"Der Refrain 'Ho-ho, shut up, you talk too much' kann als eine Art von Zensur oder Unterdrückung der Meinungsfreiheit interpretiert werden.\"",
+          "\"Der Songtext enthält auch Anspielungen auf die Suche nach Freiheit und Unabhängigkeit ...\"",
+          "\"Der abschließende Teil ... kann als eine Art von Ironie oder Sarkasmus interpretiert werden, der die Oberflächlichkeit und die Ablenkung von den eigentlichen Problemen kritisiert.\"",
+          "\"... kritisiert den Konformismus der Gesellschaft.\""
+        ],
+        "oberflächliche_aussagen": [
+          "\"Der Song ... thematisiert die Unterdrückung und Ausbeutung durch die Gesellschaft und die Mächtigen.\""
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf die wiederkehrenden Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Der 'Man' wird als eine Art Überwachungs- und Kontrollinstanz dargestellt, die das Leben der Menschen bestimmt und sie in eine bestimmte Richtung lenkt.\"",
+          "\"Die Wiederholung von 'In our souls' unterstreicht die Tiefe der Unterdrückung und die Auswirkungen auf die Seele und das Innere der Menschen.\"",
+          "\"Die Textzeilen ... deuten auf eine Art von Resignation und Verzweiflung hin, da die Menschen sich der Ausbeutung und Unterdrückung bewusst sind, aber keine Möglichkeit sehen, sich dagegen zu wehren.\"",
+          "\"Die Aufforderung 'Pay the man' wird zu einem Symbol für die Unterwerfung und die Kapitulation vor den Mächtigen.\"",
+          "\"Der Refrain 'Ho-ho, shut up, you talk too much' kann als eine Art von Zensur oder Unterdrückung der Meinungsfreiheit interpretiert werden.\"",
+          "\"Der Songtext enthält auch Anspielungen auf die Suche nach Freiheit und Unabhängigkeit ...\"",
+          "\"Der abschließende Teil ... kann als eine Art von Ironie oder Sarkasmus interpretiert werden, der die Oberflächlichkeit und die Ablenkung von den eigentlichen Problemen kritisiert.\""
+        ],
+        "oberflächliche_aussagen": [
+          "\"Der Song ... thematisiert die Unterdrückung und Ausbeutung durch die Gesellschaft und die Mächtigen.\""
+        ],
+        "positive_aspekte": [
+          "Klare Struktur: Einführung, Analyse der wichtigsten Motive, Schlussfolgerung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Der 'Man' wird als eine Art Überwachungs- und Kontrollinstanz dargestellt, die das Leben der Menschen bestimmt und sie in eine bestimmte Richtung lenkt.\"",
+          "\"Die Wiederholung von 'In our souls' unterstreicht die Tiefe der Unterdrückung und die Auswirkungen auf die Seele und das Innere der Menschen.\"",
+          "\"Die Textzeilen ... deuten auf eine Art von Resignation und Verzweiflung hin, da die Menschen sich der Ausbeutung und Unterdrückung bewusst sind, aber keine Möglichkeit sehen, sich dagegen zu wehren.\"",
+          "\"Die Aufforderung 'Pay the man' wird zu einem Symbol für die Unterwerfung und die Kapitulation vor den Mächtigen.\"",
+          "\"Der Refrain 'Ho-ho, shut up, you talk too much' kann als eine Art von Zensur oder Unterdrückung der Meinungsfreiheit interpretiert werden.\"",
+          "\"Der Songtext enthält auch Anspielungen auf die Suche nach Freiheit und Unabhängigkeit ...\"",
+          "\"Der abschließende Teil ... kann als eine Art von Ironie oder Sarkasmus interpretiert werden, der die Oberflächlichkeit und die Ablenkung von den eigentlichen Problemen kritisiert.\""
+        ],
+        "oberflächliche_aussagen": [
+          "\"Der Song ... thematisiert die Unterdrückung und Ausbeutung durch die Gesellschaft und die Mächtigen.\""
+        ],
+        "positive_aspekte": [
+          "Durchgehend konsistente Interpretation des Motivs \"der Mann\"."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen nahezu identische Argumentationsmuster; die Varianz ist minimal, was auf ein hohes Maß an Redundanz und wenig kreativen Unterschied hinweist.",
+    "empfehlung": "Die Modelle erzeugen stark halluzinierte, aber oberflächliche Analysen. Ein besserer Ansatz wäre, sich stärker an konkreten Textstellen zu orientieren, weniger spekulative Rollen zuzuweisen und mehr Raum für mehrdeutige, textbasierte Deutungen zu lassen."
+  }
+}

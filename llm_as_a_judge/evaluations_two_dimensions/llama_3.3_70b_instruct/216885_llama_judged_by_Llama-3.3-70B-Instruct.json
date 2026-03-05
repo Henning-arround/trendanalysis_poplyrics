@@ -1,0 +1,89 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'We're trapped inside these paper walls' deutet darauf hin, dass die Partner sich in ihrer Beziehung eingeschlossen fühlen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Songtext detailliert und zieht logische Schlüsse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'We're trapped inside these paper walls' deutet darauf hin, dass die Partner sich in ihrer Beziehung eingeengt und gefangen fühlen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Beziehung und ihre Probleme"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'We're trapped inside these paper walls' deutet darauf hin, dass die Partner sich in ihrer Beziehung eingeschlossen fühlen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Songtext detailliert und zieht logische Schlüsse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'We're trapped inside these paper walls' deutet darauf hin, dass die Partner sich in ihrer Beziehung eingeengt und gefangen fühlen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Beziehung und ihre Probleme"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'We're trapped inside these paper walls' deutet darauf hin, dass die Partner sich in ihrer Beziehung eingeengt und gefangen fühlen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Beziehung und ihre Probleme"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Analyse des Songtexts, aber variieren in ihrer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie den Songtext detailliert analysiert und logische Schlüsse zieht"
+  }
+}

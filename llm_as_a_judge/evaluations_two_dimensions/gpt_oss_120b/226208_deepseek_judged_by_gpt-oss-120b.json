@@ -1,0 +1,114 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Who's wrong, who's right / Don't want no fight\" deuten darauf hin, dass der Sänger ... Frieden und Harmonie bringt.",
+          "\"Just can't conform\" zeigt, dass er ... nach seinem eigenen Weg sucht.",
+          "Der Refrain ... unterstreicht die Sehnsucht nach einem sicheren Ort, den der Sänger seit seiner Geburt sucht.",
+          "\"Auge des Sturms\" symbolisiert einen Ort der Ruhe und des Friedens.",
+          "Der Song ist auch eine Kritik an der Gesellschaft und der Politik, die immer wieder zu Konflikten und Kriegen führt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert korrekt das zentrale Motiv von Gewalt im Text.",
+          "Verweist auf die wiederholte Zeile \"Will we try together for a better life / Or do we live forever on the edge of a knife\" als Frage aus dem Song."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Who's wrong, who's right / Don't want no fight\" deuten darauf hin, dass der Sänger ... Frieden und Harmonie bringt.",
+          "\"Just can't conform\" zeigt, dass er ... nach etwas Neuem und Anderem sucht.",
+          "Der Refrain ... deutet darauf hin, dass der Sänger nach einem Ort sucht, an dem er sich zu Hause fühlt, einem Ort, der ihn seit seiner Geburt begleitet.",
+          "\"Auge des Sturms\" symbolisiert einen Ort der Ruhe und des Friedens, an dem man sich vor den Turbulenzen der Welt schützen kann.",
+          "Der Song ist ein Aufruf zu einem besseren Leben, in dem Menschen zusammenarbeiten und nach Frieden streben."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt klar fest, dass der Text eine gewaltsame Welt beschreibt.",
+          "Erkennt die zentrale Frage‑Zeile des Refrains korrekt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Who's wrong, who's right / Don't want no fight\" deuten darauf hin, dass der Sänger ... Frieden und Harmonie bringt.",
+          "\"Just can't conform\" zeigt, dass er ... nach etwas Neuem und Anderem sucht.",
+          "Der Refrain ... deutet darauf hin, dass der Sänger nach einem Ort sucht, der ihm ein Gefühl von Sicherheit und Geborgenheit gibt.",
+          "\"Auge des Sturms\" symbolisiert möglicherweise einen Ort der Ruhe und des Friedens.",
+          "Insgesamt ist der Song ein Aufruf zu einer besseren Welt, in der Menschen zusammenarbeiten und nach Frieden streben."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Thematik von Gewalt und Unsicherheit im Text.",
+          "Bezieht die Zeile \"Will we try together for a better life / Or do we live forever on the edge of a knife\" korrekt ein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Who's wrong, who's right / Don't want no fight\" deuten darauf hin, dass der Sänger ... Frieden und Harmonie bringt.",
+          "\"Just can't conform\" zeigt, dass er ... nach seinem eigenen Weg sucht.",
+          "Der Refrain ... symbolisiert die Suche nach einem sicheren Ort inmitten des Chaos.",
+          "\"Auge des Sturms\" ist ein Symbol für Ruhe und Frieden.",
+          "Der Song kann auch als Kommentar zu den politischen und sozialen Zuständen der Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Richtiges Erkennen der Grundstimmung des Songs (Gewalt, Unsicherheit).",
+          "Nimmt die kritische Frage des Refrains korrekt auf."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "\"Who's wrong, who's right / Don't want no fight\" deuten darauf hin, dass der Sänger ... Frieden und Harmonie bringt.",
+          "\"Just can't conform\" zeigt, dass er ... nach seinem eigenen Weg sucht.",
+          "Der Refrain ... symbolisiert die Suche nach einem sicheren Ort inmitten des Chaos.",
+          "\"Auge des Sturms\" ist ein Symbol für Ruhe und Frieden.",
+          "Der Song kann auch als Kommentar zu den politischen und sozialen Zuständen der Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Thematik von Gewalt und dem Wunsch nach Sicherheit.",
+          "Bezieht die kritische Zeile über das gemeinsame Streben nach einem besseren Leben korrekt ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen nahezu dieselben generischen Aussagen; die Varianz ist gering, was auf ein hohes Maß an Redundanz und wenig originelle Analyse hindeutet.",
+    "empfehlung": "Ein besserer Ansatz wäre, stärker textbasierte Belege zu nutzen, spekulative Aussagen zu reduzieren und mehr differenzierte, mehrdeutige Analysen zu bieten, die konkrete Wortwahl und mögliche Gegeninterpretationen beleuchten."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von 'talent' als permanent präsente Ressource"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Idee einer Flucht aus dem echten Leben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Atmosphäre von Glamour und Exklusivität",
+          "Die Kritik an der Oberflächlichkeit der modernen Unterhaltungskultur"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Authentizität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die moderne Unterhaltungsindustrie als glänzender, kontrollierter Raum"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der ironischen Einladung",
+          "Die Kritik an der Verdrängung von Problemen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verlockung und die Oberflächlichkeit moderner Unterhaltungsorte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Idee einer kollektiven Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der glamourösen, aber anonymen Szene",
+          "Die Kritik an der Selbstzensur in solchen Räumen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verführung zu einer kollektiven Flucht aus dem Alltag"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Idee eines symbolischen Safe-Space"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der ironischen Einladung",
+          "Die Kritik an der Oberflächlichkeit der modernen Unterhaltungskultur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach einem geschützten Raum"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Idee einer kollektiven Illusion des Wohlbefindens"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der luxuriösen Location",
+          "Die Kritik an der Entfremdung in einer mediengesättigten Kultur"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Songtexte, aber es gibt auch einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist wichtig, die Ambivalenzen und Mehrdeutigkeiten im Text zu berücksichtigen und nicht zu sehr in die Oberflächlichkeit abzurutschen."
+  }
+}

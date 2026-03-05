@@ -1,0 +1,129 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Kritik an der Gesellschaft und ihren Illusionen.",
+          "Michael Jacksons dunkle Seite wird im Song angesprochen.",
+          "Die Referenzen dienen als Kontrast zu seiner eigenen Situation, in der er sich leer und ohne Konzept fühlt.",
+          "Der Song ist ein Kommentar zur Verunsicherung und Desillusionierung der Menschen in den 1990er Jahren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und resignierte Betrachtung des Lebens.",
+          "Die Zeile wiederholt sich wie ein Mantra und unterstreicht die Hilflosigkeit.",
+          "Insgesamt ist der Song ein Werk über Maske, Leere und Verzweiflung.",
+          "Der Protagonist scheint sich in einer Welt verloren zu haben, ohne Richtung oder Sinn."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt zentrale Textstellen (z. B. die Wiederholung von „Keine Ahnung, keine Meinung, kein Konzept“).",
+          "Erkennt die Diskrepanz zwischen der wiederholten Zeile „Es geht mir gut“ und den düsteren Inhalten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 1,
+      "gesamt_score": 1.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt zunächst sorglos, verbirgt aber Resignation, Zynismus und emotionale Erschöpfung.",
+          "Der Refrain ist eine Trotzreaktion, die wahre Müdigkeit und Orientierungslosigkeit verdeckt.",
+          "Die Lyrics seien voller sarkastischer Bemerkungen, die Pessimismus signalisieren.",
+          "Die Zeile über das Borgen sei ein zynischer Kommentar zur Flucht vor der Realität.",
+          "Die Frage nach dem Vergessen deutet auf emotionale Distanzierung hin.",
+          "Die Referenzen zu Ginger Rodgers und Michael Jackson heben die Diskrepanz zwischen Traumwelt und Realität hervor.",
+          "Der Song zeichnet das Bild einer Person in einer emotionalen Krise, die Gefühle durch Zynismus verbirgt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verwendet durchgehend Zitate aus dem Text (z. B. „Wir werden uns was borgen…“, „Keine Ahnung, keine Meinung, kein Konzept“).",
+          "Bleibt konsequent bei einer einheitlichen Interpretation (Zynismus/Resignation)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Kritik an den Illusionen, die Menschen über das Leben haben.",
+          "Der Vergleich mit historischen Figuren dient dazu, Doppelmoral und Heuchelei in der Gesellschaft zu kritisieren.",
+          "Die Zeile über Michael Jackson ist ein bitterer Kommentar zu doppelten Standards.",
+          "Der Song kann als Klage über eigene Verunsicherung und Verlust von Zielen gesehen werden.",
+          "Der Refrain wird als Selbsttäuschung interpretiert, um wahre Gefühle zu überdecken.",
+          "Der Song ist eine schonungslose und ehrliche Darstellung menschlicher Verletzlichkeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist melancholisch und resigniert.",
+          "Insgesamt ist das Werk eine ehrliche Darstellung der Schwierigkeiten des Lebens."
+        ],
+        "positive_aspekte": [
+          "Erkennt korrekt die wiederholte Zeile „Keine Ahnung, keine Meinung, kein Konzept“ und deren Bedeutung für Orientierungslosigkeit.",
+          "Bezieht sich konkret auf die kontroverse Zeile zu Michael Jackson."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Kritik an der Gesellschaft und ihren Illusionen.",
+          "Michael Jacksons dunkle Seite wird im Song thematisiert.",
+          "Die Referenzen dienen als Kontrast zu seiner eigenen leeren Situation.",
+          "Der Song kommentiert die Verunsicherung und Desillusionierung der 1990er‑Jahre."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist melancholisch und resigniert.",
+          "Die Zeile wirkt wie ein Mantra und unterstreicht Hilflosigkeit.",
+          "Insgesamt behandelt das Stück Maske, Leere und Verzweiflung.",
+          "Der Protagonist scheint ohne Richtung oder Sinn zu sein."
+        ],
+        "positive_aspekte": [
+          "Zitiert korrekt zentrale Textstellen (z. B. die Wiederholung von „Es geht mir gut“).",
+          "Erkennt die Diskrepanz zwischen der Fassade und den zugrundeliegenden Gefühlen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt zunächst sorglos, verbirgt aber Resignation, Zynismus und emotionale Erschöpfung.",
+          "Der Refrain ist eine Trotzreaktion, die wahre Müdigkeit und Orientierungslosigkeit verdeckt.",
+          "Die Zeile über das Borgen ist ein zynischer Kommentar zur Flucht vor der Realität und zur Sehnsucht nach verlorener Jugend.",
+          "Die Frage nach dem Vergessen deutet auf emotionale Distanzierung und den Wunsch nach Loslösung hin.",
+          "Die Referenzen zu Ginger Rodgers, Fred Astaire und Michael Jackson dienen als Kontrast zur inneren Leere des Sprechers.",
+          "Der Song ist ein Klagelied über emotionale und geistige Erschöpfung, das in Verdrängung und Zynismus mündet."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft mehrere Textstellen (z. B. „Keine Ahnung, keine Meinung, kein Konzept“, „Michael Jackson geht mit kleinen Jungs ins Bett“) zu einer kohärenten Interpretation.",
+          "Bietet eine differenzierte Sicht auf die Zeile über das Wasser‑Gehen als ironischen Gegenpol."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1.4,
+    "durchschnitt_tiefe": 1.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1 und 4 sind nahezu identisch und zeigen wenig Variation; 2, 3 und 5 wiederholen ähnliche Muster, jedoch mit leicht unterschiedlicher Detailtiefe. Insgesamt gibt es eine hohe Redundanz und geringe Varianz in den Kernthesen.",
+    "empfehlung": "Interpretationen, die klare Textbelege mit spezifischen, aber nicht übertrieben spekulativen Analysen verbinden (z. B. Interpretation 3), liefern das ausgewogenste Ergebnis. Modelle sollten darauf trainiert werden, jede Textzeile zu verankern, bevor sie weiterführende, aber begründete Schlüsse ziehen."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin macht deutlich, dass die andere Person nicht gut genug für sie ist und dass sie sich selbst nicht auf deren Niveau herablassen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song drückt eine selbstbewusste und unabhängige Haltung aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbasiert und erkennt die Fassade der angesprochenen Person."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Kritik an der Oberflächlichkeit und Selbstüberschätzung einiger Menschen interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der Songtexte und erkennt die Kritik an der angesprochenen Person."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine Botschaft von Selbstbewusstsein und Unabhängigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und erkennt die Fassade der angesprochenen Person."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine Botschaft von Selbstbewusstsein und Unabhängigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und erkennt die Fassade der angesprochenen Person."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine Botschaft von Selbstbewusstsein und Unabhängigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und erkennt die Fassade der angesprochenen Person."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3-5 sind sehr ähnlich und wiederholen die gleichen Punkte.",
+    "empfehlung": "Die zweite Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

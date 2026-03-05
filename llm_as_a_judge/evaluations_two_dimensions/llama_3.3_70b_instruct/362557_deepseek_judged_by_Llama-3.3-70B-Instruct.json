@@ -1,0 +1,92 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein typisches Produkt der 80er Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und zur körperlichen Bewegung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die zentrale Botschaft des Songs und die Bedeutung von Aerobic und Fitness"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein typisches Produkt der 80er Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und zur körperlichen Bewegung",
+          "Der Song ist ein Plädoyer für die Schönheit und Gesundheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die zentrale Botschaft des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und zur körperlichen Bewegung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Bedeutung von Aerobic und Fitness und die Anweisungen zum Tanzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und zur körperlichen Bewegung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Bedeutung von Aerobic und Fitness und die Anweisungen zum Tanzen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Bedeutung von Aerobic und Fitness, die Anweisungen zum Tanzen und die positive Wirkung auf den Körper und das Wohlbefinden"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine hohe Konsistenz in ihrer Analyse und Tiefe",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine tiefe Analyse des Songtexts bietet, ohne dabei spekulative oder oberflächliche Aussagen zu machen"
+  }
+}

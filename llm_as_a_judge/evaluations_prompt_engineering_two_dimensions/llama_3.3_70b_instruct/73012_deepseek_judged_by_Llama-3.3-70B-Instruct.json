@@ -1,0 +1,99 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Wo die schwarze Seele wohnt / Ist kein Licht am Horizont' kann als Hinweis auf die Abwesenheit von Hoffnung und Licht in einer Welt, die von Gewalt und Tod geprägt ist, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick die Darstellung von Gewalt und Tod auf hoher See zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Speers und die Wiederholung des Refrains als hypnotische Beschwörung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Kritik an der Verherrlichung von Gewalt und Krieg interpretiert werden, wie sie in einigen Gesellschaften und Kulturen üblich ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Gewalt, Tod und der Auseinandersetzung mit der Natur können als allgemein menschliche Erfahrungen interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der verschiedenen Formen von Gewalt und Krieg als Kommentar zu den verschiedenen Formen von Gewalt und Krieg."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Kritik an der Verherrlichung von Gewalt und Krieg interpretiert werden, wie sie in einigen Gesellschaften und Kulturen üblich ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Gewalt, Tod und der Auseinandersetzung mit der Natur können als allgemein menschliche Erfahrungen interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der verschiedenen Formen von Gewalt und Krieg als Kommentar zu den verschiedenen Formen von Gewalt und Krieg."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Wo die schwarze Seele wohnt / Ist kein Licht am Horizont' kann als eine Art Kommentar zu dieser Situation interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick die Darstellung von Gewalt und Tod auf hoher See zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Speers und die Wiederholung des Refrains als hypnotische Beschwörung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Kritik an der Verherrlichung von Gewalt und Krieg interpretiert werden, wie sie in einigen Gesellschaften und Kulturen üblich ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Gewalt, Tod und der Auseinandersetzung mit der Natur können als allgemein menschliche Erfahrungen interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der verschiedenen Formen von Gewalt und Krieg als Kommentar zu den verschiedenen Formen von Gewalt und Krieg."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in Bezug auf die Themen von Gewalt und Tod, aber es gibt auch Wiederholungen und oberflächliche Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet oberflächliche Aussagen."
+  }
+}

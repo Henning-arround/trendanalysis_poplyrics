@@ -1,0 +1,99 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'melancholischer, aber zugleich hoffnungsvoller Botschaft' ist nicht direkt im Text belegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage 'Der wahre Frieden liegt nicht im äußeren Kampf, sondern im Finden des stillen Zentrums' ist allgemein und nicht spezifisch auf den Text bezogen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Textes, die meisten Aussagen sind direkt aus dem Text ableitbar"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage 'die Menschheit in einem endlosen Wettlauf um Macht und Ideologie gefangen ist' ist nicht direkt im Text belegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'dichotomer Moral' ist nicht spezifisch genug"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metapher des Sturms und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage 'die Sehnsucht nach einer Welt ohne endlose Kriege' ist nicht direkt im Text belegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'gesellschaftlicher Verantwortung' ist allgemein und nicht spezifisch auf den Text bezogen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Textes, die meisten Aussagen sind direkt aus dem Text ableitbar"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage 'die Wiederholung historischer Gewaltzyklen' ist nicht direkt im Text belegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'kollektivem Bemühen um ein besseres Leben' ist allgemein und nicht spezifisch auf den Text bezogen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metapher des Sturms und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage 'die Sehnsucht nach einem inneren Frieden' ist nicht direkt im Text belegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'moralischer Orientierung' ist allgemein und nicht spezifisch auf den Text bezogen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Textes, die meisten Aussagen sind direkt aus dem Text ableitbar"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine gute Analyse des Textes",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine klare und strukturierte Analyse des Textes bietet und die meisten Aussagen direkt aus dem Text ableitbar sind"
+  }
+}

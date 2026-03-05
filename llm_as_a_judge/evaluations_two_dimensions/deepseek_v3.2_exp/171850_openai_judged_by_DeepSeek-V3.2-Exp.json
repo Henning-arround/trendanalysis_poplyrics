@@ -1,0 +1,99 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drakes Verweis auf 'hardest act to follow' und das Bild des 'black sheep' illustriert das Gefühl, einerseits als Vorbild zu gelten, andererseits aber ständig im Schatten von Erwartungen zu stehen, die er selbst kaum erfüllen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Selbstporträt, das Drakes Zwiespalt zwischen öffentlicher Erwartung und persönlicher Unsicherheit offenlegt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen der Vergänglichkeit von Anerkennung und der Oberflächlichkeit der Musikindustrie."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verknüpft Musik und Sport als Symbole des Wettbewerbs, wobei Idole schnell zu Rivalen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von 'Thank Me Now' ist ein Selbstporträt, das Drakes Zwiespalt zwischen öffentlicher Erwartung und innerer Unsicherheit offenlegt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Schnelllebigkeit der Hip-Hop-Kultur und Drakes Rolle als Vorbild."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verknüpft Musik und Sport als parallele Arenen des Wettbewerbs, in denen Idole zu Rivalen werden und das Überleben von strategischem 'A.I.'-Handeln abhängt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von 'Thank Me Now' ist ein Selbstporträt, das Drakes Zwiespalt zwischen öffentlicher Erwartung und innerer Unsicherheit offenlegt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet Drakes Selbstinszenierung als Außenseiter und seine Suche nach Sinn und Anerkennung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drakes Reflexion über Beziehungen – die guten Frauen, die 'schlechten' Freundinnen, die nun Freunde sind – offenbart ein Gefühl von Verlorenheit und das Bewusstsein, dass sein Lebensstil ihn von echter Nähe abschneidet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist ein Selbstgespräch, das Drakes ambivalente Haltung zu Erfolg, Verantwortung und persönlicher Leere offenlegt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Themen der Konkurrenz und der Vergänglichkeit von Ruhm."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenzen zu Partys, Alkohol und Miami-Reserven kontrastieren mit einer unterschwelligen Melancholie über verpasste Beziehungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von 'Thank Me Now' ist ein Selbstporträt, das Drakes Zwiespalt zwischen öffentlicher Erwartung und innerer Unsicherheit offenlegt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet Drakes Suche nach Sinn und Anerkennung und seine Selbstinszenierung als Außenseiter."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, zeigen aber insgesamt eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und beleuchtet die Themen der Vergänglichkeit von Anerkennung und der Oberflächlichkeit der Musikindustrie."
+  }
+}

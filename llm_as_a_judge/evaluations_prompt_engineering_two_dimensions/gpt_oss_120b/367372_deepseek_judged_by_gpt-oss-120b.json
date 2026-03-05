@@ -1,0 +1,118 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Songtext ist auch reich an literarischen Stilmitteln wie Metaphern und Symbolen.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre gesehen werden.",
+          "Die sexuelle Revolution und die Emanzipation der Afroamerikaner waren wichtige Themen in dieser Zeit.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen zulässt.",
+          "Durch die Analyse des Songtextes kann man die zentrale Botschaft und thematische Komplexität des Songs besser verstehen und die emotionale Wirkung und affektive Dimension des Songs nachvollziehen."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen, die sich auf den Text beziehen, sind korrekt belegt.",
+          "Keine erfundenen biografischen oder historischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls von Bedeutung.",
+          "Die 1970er Jahre waren eine Zeit des gesellschaftlichen Umbruchs und der sexuellen Liberalisierung.",
+          "Insgesamt kann ... als ein vielschichtiges Werk gesehen werden, das verschiedene emotionale und thematische Ebenen miteinander verbindet."
+        ],
+        "positive_aspekte": [
+          "Klare Textbelege für fast alle interpretativen Aussagen.",
+          "Gute Balance zwischen Textanalyse und Kontextualisierung ohne spekulative Fakten."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1977 veröffentlicht, einer Zeit, in der die sexuelle Revolution und die Bürgerrechtsbewegung in den USA ihren Höhepunkt erreichten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Songtext ist auch reich an literarischen Stilmitteln wie Metaphern und Symbolen.",
+          "Diese Ambiguität lässt den Zuhörer über die Bedeutung des Songs nachdenken und ihn auf verschiedenen Ebenen interpretieren.",
+          "Insgesamt kann ... als ein komplexes Werk interpretiert werden, das sowohl die Freude am Tanz und der Musik als auch die Ermöglichung von Selbstausdruck und sexueller Freiheit thematisiert."
+        ],
+        "positive_aspekte": [
+          "Viele Textbelege, insbesondere zu den wiederholten Imperativen und zur Symbolik der Tanzfläche.",
+          "Erkennt die mehrdeutige Natur der Zeilen und diskutiert mögliche Spannungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext ist auch von einer starken emotionalen Wirkung geprägt, die durch die soulige Stimme von Marvin Gaye und die mitreißende Musik unterstrichen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Songtext ist auch reich an literarischen Stilmitteln wie Metaphern und Symbolen.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre gesehen werden.",
+          "Die sexuelle Revolution und die Emanzipation von Minderheiten waren in dieser Zeit in vollem Gange, und der Song kann als ein Ausdruck dieser Veränderungen interpretiert werden.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige Struktur, die eine tiefere Analyse und Interpretation erfordert."
+        ],
+        "positive_aspekte": [
+          "Gute Textbelege für die meisten stilistischen Beobachtungen.",
+          "Erkennt die Spannung zwischen sexueller Freigabe und impliziter Zustimmung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1977 veröffentlicht, einer Zeit, in der die sexuelle Revolution und die Bürgerrechtsbewegung in den USA ihren Höhepunkt erreichten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Songtext ist auch reich an literarischen Stilmitteln wie Metaphern und Symbolen.",
+          "Diese Ambiguitäten und Spannungen sind charakteristisch für die komplexe und vielschichtige Natur des Songs.",
+          "Insgesamt kann ... als ein Ausdruck der Freude an Musik, Tanz und sexueller Freiheit interpretiert werden, der jedoch auch die Komplexität und die Ambiguitäten der menschlichen Erfahrung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Klare Belege für die wiederholten Imperative und die Symbolik der Tanzfläche.",
+          "Verknüpft Textanalyse mit historischer Kontextualisierung, ohne zu stark zu spekulieren (nur ein einziger historischer Fakt, der nicht im Text steht)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Mehrschichtigkeit, Imperative, Symbolik der Tanzfläche). Die Varianz liegt hauptsächlich im Anteil oberflächlicher bzw. erfundener Aussagen; Interpretation 1 ist am konsistentesten und faktentreu.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance aus Texttreue und analytischer Tiefe. Für zukünftige Modelle sollte der Fokus darauf liegen, oberflächliche Allgemeinplätze zu reduzieren und nur gut belegte Kontextualisierungen einzubringen, um Halluzinationen zu minimieren."
+  }
+}

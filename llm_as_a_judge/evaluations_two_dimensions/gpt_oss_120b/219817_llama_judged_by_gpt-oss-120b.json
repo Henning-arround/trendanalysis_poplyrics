@@ -1,0 +1,112 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Capital Bra präsentiert sich als eine Figur, die nicht nur finanziell erfolgreich, sondern auch in seiner sozialen Position unangreifbar ist.",
+          "Die Texte sind auch geprägt von einer Art von Selbstlegitimierung und einer Abgrenzung gegenüber anderen.",
+          "Die Erwähnung des LKA, das ermittelt, und die Aussage, dass er \"kein'n was bittet\", unterstreichen seine Unabhängigkeit und seine Weigerung, sich von anderen beeinflussen zu lassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt präsentiert sich Capital Bra in \"Ale Ale\" als eine selbstbewusste und aggressive Figur, die ihre Position und ihren Erfolg mit aller Macht verteidigt."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf wiederholte Textstellen (z. B. Luxusmarken, Städte, Aggression).",
+          "Erkennt die Machtdemonstration in der Zeile \"Ich fick' jeden, den du liebst\"."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Capital Bra präsentiert sich als eine Figur, die nicht nur finanziell erfolgreich, sondern auch in seiner sozialen Position unangreifbar ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song insgesamt kann als eine Art Selbstmanifestation ... interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Analysiert die Wiederholung des Refrains als „Mantra“ und verbindet das mit der Verstärkung der Botschaft.",
+          "Nutzt konkrete Textzitate (z. B. \"Ich würd gern diese Hurensöhne töten\")."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Capital Bra präsentiert sich als eine Figur, die nicht nur finanziell erfolgreich, sondern auch in seiner sozialen Position unangreifbar ist.",
+          "Die Texte sind auch geprägt von einer Art von Selbstlegitimierung, in der Capital Bra seine Position und seinen Erfolg als verdient und unangreifbar darstellt.",
+          "Er betont, dass er aus einer anderen Welt kommt und dass er immer liefert, was impliziert, dass er eine Art von Unternehmergeist und Erfolgswille hat, der ihn von anderen unterscheidet.",
+          "Die Erwähnung des LKA, das ermittelt, und die Aussage, dass er \"kein'n was bittet\", unterstreichen seine Unabhängigkeit und seine Weigerung, sich von anderen beeinflussen zu lassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt präsentiert sich Capital Bra in \"Ale Ale\" als eine selbstbewusste und aggressive Figur, die ihre Position und ihren Erfolg mit aller Macht verteidigt."
+        ],
+        "positive_aspekte": [
+          "Zieht klare Verbindungen zwischen den genannten Luxusmarken/Orten und dem Bild von Reichtum.",
+          "Identifiziert die wiederholte Drohung \"Ich fick' jeden, den du liebst\" als Machtdemonstration."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Capital Bra präsentiert sich als eine Figur, die nicht nur finanziell erfolgreich, sondern auch respektiert und gefürchtet ist.",
+          "Capital Bra stellt sich auch als jemand dar, der nicht um Anerkennung bittet und dessen Erfolg und Reichtum von anderen beneidet werden.",
+          "Der Song kann als eine Art Machtdemonstration ... in der Capital Bra seine Position als erfolgreicher Rapper und seine Unangreifbarkeit betont."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erwähnt explizit die afghanischen Wurzeln und die Tatsache, dass sogar die Frauen seiner Feinde seine Musik hören – ein konkreter Textbezug.",
+          "Bietet eine differenzierte Sicht auf die Machtdemonstration und die Abgrenzung gegenüber Kritikern."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Capital Bra präsentiert sich als eine Figur, die nicht nur finanziell erfolgreich, sondern auch in seiner sozialen Position unangreifbar ist.",
+          "Die Texte sind auch geprägt von einer Art von Selbstlegitimierung, in der Capital Bra seine Position und seinen Erfolg als verdient und unangreifbar darstellt.",
+          "Er betont, dass er aus einer anderen Welt kommt und dass er immer liefert, was impliziert, dass er eine Art von Unternehmer oder Künstler ist, der erfolgreich ist, weil er hart arbeitet und seine Ziele verfolgt.",
+          "Die Erwähnung des LKA, das ermittelt, und die Aussage, dass er \"kein'n was bittet\", unterstreichen seine Unabhängigkeit und seine Weigerung, sich von anderen beeinflussen zu lassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt präsentiert sich Capital Bra in \"Ale Ale\" als eine selbstbewusste und aggressive Figur, die ihre Position und ihren Erfolg mit aller Macht verteidigt."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die wiederholte Zeile \"Ich fick' jeden, den du liebst\" mit einer klaren Machtdemonstration.",
+          "Bezieht sich auf konkrete Marken und Orte, um den Reichtum zu illustrieren."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Aggression, Reichtum, Machtdemonstration). Unterschiede liegen in Detailtiefe und im Anteil erfundener Aussagen. Die Varianz ist moderat; Interpretation 5 weist die wenigsten Halluzinationen auf.",
+    "empfehlung": "Interpretation 5 liefert die ausgewogenste Analyse: sie bleibt größtenteils texttreu, vermeidet unnötige Spekulationen und bietet gleichzeitig eine tiefere, strukturelle Betrachtung (Wiederholungen, Mantra‑Effekt). Für zukünftige Bewertungen sollte das Modell darauf achten, inferenzielle Aussagen klar als Interpretation zu kennzeichnen und nicht als Fakt."
+  }
+}

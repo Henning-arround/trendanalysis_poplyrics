@@ -1,0 +1,112 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist intensiv, da er die Zuhörer auffordert, sich mit ihren eigenen Beziehungen auseinanderzusetzen und zu reflektieren, ob sie es wert sind, für sie zu kämpfen.",
+          "Der kulturelle und gesellschaftliche Kontext des Songs ist interessant, da er die Idee von Beziehungen als etwas Komplexes und Herausforderndes widerspiegelt.",
+          "Insgesamt bietet der Song eine komplexe und nuancierte Darstellung von Beziehungen, die sowohl die Herausforderungen als auch die Belohnungen hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem Songtext ableiten.",
+          "Metaphern und zentrale Zeilen werden korrekt identifiziert und interpretiert.",
+          "Widersprüchliche Elemente (z. B. „It ain’t like the movies“) werden thematisch verknüpft."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist intensiv, da er die Zuhörer auffordert, sich mit ihren eigenen Beziehungen auseinanderzusetzen und zu reflektieren, ob sie es wert sind, für sie zu kämpfen.",
+          "Der kulturelle und gesellschaftliche Kontext des Songs ist interessant, da er die Idee von Beziehungen als etwas Komplexes und Herausforderndes widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textstellen mit ihrer Bedeutung.",
+          "Klare Herausarbeitung der Metapher „Rosen kommen mit ihren Dornen“.",
+          "Erklärung, warum das Lied nicht wie ein Film ist, wird textbasiert begründet."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist intensiv, da er die Zuhörer auffordert, sich mit ihren eigenen Beziehungen auseinanderzusetzen und zu reflektieren, ob sie es wert sind, für sie zu kämpfen.",
+          "Der kulturelle und gesellschaftliche Kontext des Songs ist interessant, da er die Idee von Beziehungen als etwas Komplexes und Herausforderndes widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der wiederholten Refrains und ihrer Funktion.",
+          "Gute Verbindung zwischen Metapher und emotionaler Aussage des Textes.",
+          "Erkennt die Ambiguität der Zeile „It ain’t like the movies“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist intensiv, da er die Zuhörer auffordert, sich mit ihren eigenen Beziehungen auseinanderzusetzen und zu reflektieren, ob sie es wert sind, für sie zu kämpfen.",
+          "Der Song thematisiert auch den kulturellen und gesellschaftlichen Kontext, in dem Beziehungen oft idealisiert oder romantisiert werden.",
+          "Insgesamt bietet der Song eine komplexe und nuancierte Darstellung von Beziehungen, die sowohl die Herausforderungen als auch die Belohnungen hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die Zeile „People talk too much“ und deren kritische Funktion.",
+          "Verknüpft die Zeilen „You might cry …“ mit der Darstellung von Ambiguitäten.",
+          "Bleibt durchgehend textbasiert, ohne spekulative Biografien."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Die emotionale Wirkung des Songs ist intensiv, da er die Zuhörer auffordert, sich mit ihren eigenen Beziehungen auseinanderzusetzen und zu reflektieren, ob sie es wert sind, für sie zu kämpfen.",
+          "Der Song thematisiert auch den kulturellen und gesellschaftlichen Kontext, in dem Beziehungen oft idealisiert oder romantisiert werden.",
+          "Insgesamt bietet der Song eine komplexe und nuancierte Darstellung von Beziehungen, die sowohl die Herausforderungen als auch die Belohnungen hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Genaue Bezugnahme auf zentrale Textstellen.",
+          "Erklärt die Bedeutung von „It ain’t like the movies“ im Kontext von Realitätsbezug.",
+          "Behandelt die wiederholten Refrains als strukturelles Element."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich stark redundant; sie wiederholen dieselben Kernpunkte mit leicht variierenden Formulierungen. Die Varianz ist gering, was die Bewertung der Tiefe erschwert.",
+    "empfehlung": "Ein Ansatz, der die Textbelege klar kennzeichnet und gleichzeitig weniger allgemeine, oberflächliche Aussagen einbringt, liefert die überzeugendste Analyse. Interpretation 1 (und 5) erreichen dies am besten, weil sie die geringste Menge an vagen Aussagen enthalten."
+  }
+}

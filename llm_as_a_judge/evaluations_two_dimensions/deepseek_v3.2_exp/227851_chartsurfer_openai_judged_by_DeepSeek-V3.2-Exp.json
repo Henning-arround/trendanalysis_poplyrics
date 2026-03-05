@@ -1,0 +1,94 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein poetisches Bekenntnis"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein Spiegelbild von Hoffnung und Geduld"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Refrain-Funktion",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Naturmetaphern",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Biografische Details"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein Bild von Liebe"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein poetisches Bekenntnis"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern",
+          "Textbezogene Argumentation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die dritte Interpretation bietet die beste Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

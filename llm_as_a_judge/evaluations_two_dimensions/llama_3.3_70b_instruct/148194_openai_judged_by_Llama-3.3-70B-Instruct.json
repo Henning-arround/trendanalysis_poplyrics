@@ -1,0 +1,100 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als fast religiöse Entschuldigung für das Abweichen von Konventionen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied bleibt ein poetisches Porträt der Ambivalenz zwischen Glückseligkeit und Selbstgefährdung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'crescent moon' als Lächeln",
+          "Die Betonung des unvorhersehbaren Eingreifens der 'gods of love'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als berauschende Droge, die rationales Denken überlagert"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wirkt wie ein surrealer Traum"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der 'somewhat strangely familiar tune' als Hinweis auf bereits erlebte Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als transformative Kraft, die das Individuum aus dem Alltag reißt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert die Liebe als ekstatisches, fast göttliches Rauschmittel"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des Kontrasts zwischen 'day dreaming fever' und 'no misdemeanor stone cold sober'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als fast schon halluzinatorische Form zurückkehrt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wirkt wie ein surrealer Traum"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Metapher des 'crescent moon' als Lächeln"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als Entschuldigung für regelwidriges Verhalten"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert die Liebe als ekstatisches, fast göttliches Rauschmittel"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des Kontrasts zwischen 'day dreaming fever' und 'no misdemeanor stone cold sober'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Tiefe und Halluzination",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe, wie in Interpretation 1 und 3 zu sehen ist"
+  }
+}

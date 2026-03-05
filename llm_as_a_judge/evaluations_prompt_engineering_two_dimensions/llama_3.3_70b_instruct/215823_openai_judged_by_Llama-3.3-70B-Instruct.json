@@ -1,0 +1,99 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die historische Verortung in den frühen 1970er-Jahren ist teilweise spekulativ"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'Gegenkultur' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Bildsprache und der Metaphern ist detailliert und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'crazy questions' als Desorientierung ist nicht direkt textbasiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song 'das Aufbrechen traditioneller Moralvorstellungen' thematisiert, ist zu allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der dialektischen Spannung zwischen Autorität und Rebellion ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Behauptung, dass die Mutterfigur 'konservatives Moralverständnis' verkörpert, ist teilweise spekulativ"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'Gegenkultur' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität zwischen Verlockung und Ablehnung ist detailliert und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'stale perfume' als Symbol für 'moralische Verunreinigung' ist nicht direkt textbasiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song 'die aufkommende Hedonistik der Post-1960er-Generation' thematisiert, ist zu allgemein"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der Diskrepanz zwischen elterlicher Warnung und jugendlicher Neugierde ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Behauptung, dass der Song 'eine ambivalente Warnung vor exzessiver Partykultur' ist, ist teilweise spekulativ"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'Gegenkultur' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und sensorischen Bilder ist detailliert und textbasiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Textinhalte, jedoch variieren die Tiefe und die Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet spekulative Aussagen"
+  }
+}

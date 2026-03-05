@@ -1,0 +1,122 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die Verwendung von Verben wie „turn“ und „change“ unterstreicht die Dynamik…“ – das Verb „change“ kommt im Text nicht vor.",
+          "„Die Zeile … kann als ein Appell … im Kontext des Vietnamkriegs und der Bürgerrechtsbewegung … relevant war.“ – keine Text‑ oder Quellenbelege für diesen historischen Bezug."
+        ],
+        "oberflächliche_aussagen": [
+          "„Das Werk erscheint auf den ersten Blick als eine simple, fast schon philosophische Betrachtung…“",
+          "„Die Gegenüberstellung … erzeugt eine ambivalente Stimmung.“",
+          "„Die emotionale Wirkung … Melancholie und Resignation, aber auch Hoffnung und Sehnsucht nach Frieden.“",
+          "„Die Wiederholung … erzeugt eine hypnotische Wirkung, die den Hörer dazu einlädt…“"
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textpassagen (z. B. die Aufzählung von Gegensätzen) und verknüpft sie mit den Metaphern „Season“ und „Time“.",
+          "Zeigt ein Bewusstsein für die strukturelle Wiederholung im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die Verwendung von Verben wie „to mourn“ erzeugt …“ – das Verb „to mourn“ steht nicht im Originaltext.",
+          "„Der Song kann als Reaktion auf die großen sozialen und politischen Umbrüche 1966 interpretiert werden.“ – spekulative Kontextualisierung ohne Textbeleg."
+        ],
+        "oberflächliche_aussagen": [
+          "„Auf den ersten Blick als simple Beschreibung der zyklischen Natur des Lebens…“",
+          "„Die Verwendung von Gegensätzen schafft Spannung, die den Hörer zum Nachdenken anregt.“",
+          "„Die emotionale Wirkung ist von Melancholie und Resignation geprägt.“",
+          "„Die symbolische Ordnung fordert den Hörer auf, die Komplexität des Lebens zu akzeptieren.“"
+        ],
+        "positive_aspekte": [
+          "Erklärt klar, dass „Season“ und „Time“ als Metaphern fungieren.",
+          "Bezieht sich konkret auf Textstellen (z. B. „to weep“, „to laugh“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre verortet werden…“ – keine konkreten Textbelege für diese Einordnung."
+        ],
+        "oberflächliche_aussagen": [
+          "„Auf den ersten Blick als simple, fast schon philosophische Betrachtung…“",
+          "„Die Gegenüberstellungen erzeugen eine emotionale Wirkung, die sowohl nachdenklich als auch melancholisch stimmt.“",
+          "„Insgesamt zeigt sich, dass … ein vielschichtiges Werk ist, das sowohl philosophische als auch emotionale und kulturelle Aspekte umfasst.“"
+        ],
+        "positive_aspekte": [
+          "Gute Aufzählung der im Text vorkommenden Gegensätze (Geburt/Tod, Aufbauen/Abreißen, etc.).",
+          "Verknüpft die Textzeile „A time for peace, I swear it's not too late“ mit einer möglichen Hoffnung auf Veränderung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die Friedensbewegung und die Counterculture‑Bewegung jener Zeit suchten nach neuen Wegen…“ – spekulative historische Einordnung ohne Hinweis im Text."
+        ],
+        "oberflächliche_aussagen": [
+          "„Auf den ersten Blick als simple, fast schon philosophische Betrachtung…“",
+          "„Die Verwendung literarischer Stilmittel … unterstreicht die thematische Komplexität.“",
+          "„Die Gegenüberstellung erzeugt Spannung, die die Ambivalenz des Lebens hervorhebt.“",
+          "„Diese Ambiguitäten werden nicht aufgelöst, sondern als natürliche Bestandteile des menschlichen Daseins dargestellt.“",
+          "„Insgesamt zeigt sich, dass das Werk über die Zeit hinausgeht.“"
+        ],
+        "positive_aspekte": [
+          "Klare Benennung der zentralen Botschaft und ihrer Textbasis.",
+          "Erkennt die metaphorische Funktion von „Season“ und „Time“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die Verwendung von Verben wie „turn“ und „change“ …“ – das Verb „change“ fehlt im Originaltext.",
+          "„Der Songtext … kann als Kommentar zu den politischen und sozialen Unruhen der 1960er Jahre interpretiert werden.“ – spekulative Kontextualisierung."
+        ],
+        "oberflächliche_aussagen": [
+          "„Auf den ersten Blick als simple, fast schon philosophische Betrachtung…“",
+          "„Die Gegenüberstellung von Gegensätzen … erzeugt Spannung.“",
+          "„Diese Dichotomien erzeugen eine Spannung, die den Hörer dazu anregt, über die Natur des Lebens nachzudenken.“",
+          "„Insgesamt zeigt sich, dass das Werk auf verschiedenen Ebenen interpretiert werden kann.“"
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Textstruktur (Aufzählung von Gegensätzen).",
+          "Verweist korrekt auf die wiederholte Phrase „Turn, Turn, Turn“ als strukturelles Element."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Metaphern, Gegensätze, historischer Kontext). Die Varianz liegt hauptsächlich in der Menge spekulativer Kontextualisierungen – Interpretation 5 enthält die wenigsten Halluzinationen.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance zwischen Texttreue und analytischer Tiefe, da sie kaum erfundene Aussagen enthält und gleichzeitig konkrete Textanalysen liefert. Für zukünftige LLM‑Interpretationen sollte der Fokus stärker auf nachweisbare Textbelege gelegt und spekulative Geschichtseinordnungen reduziert werden."
+  }
+}

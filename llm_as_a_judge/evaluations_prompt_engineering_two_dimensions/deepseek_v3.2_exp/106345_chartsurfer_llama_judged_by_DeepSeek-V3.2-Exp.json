@@ -1,0 +1,89 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'Armed guard of punishment' kann als Hinweis auf die autoritären Strukturen und Machtverhältnisse der damaligen Zeit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentralen Themen des Songs wie Angst, Gewalt und Macht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'Armed guard of punishment' kann als Hinweis auf die autoritären Strukturen und Machtverhältnisse der damaligen Zeit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentralen Themen des Songs wie Angst, Gewalt und Macht."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'Armed guard of punishment' kann als Hinweis auf die autoritären Strukturen und Machtverhältnisse der damaligen Zeit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentralen Themen des Songs wie Angst, Gewalt und Macht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'Armed guard of punishment' kann als Hinweis auf die autoritären Strukturen und Machtverhältnisse der damaligen Zeit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentralen Themen des Songs wie Angst, Gewalt und Macht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'Armed guard of punishment' kann als Hinweis auf die autoritären Strukturen und Machtverhältnisse der damaligen Zeit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentralen Themen des Songs wie Angst, Gewalt und Macht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Songtexte, aber auch eine Tendenz zu oberflächlichen Aussagen.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf die textbasierte Analyse konzentrieren und weniger auf allgemeine Aussagen zurückgreifen."
+  }
+}

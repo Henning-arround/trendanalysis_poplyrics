@@ -1,0 +1,95 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stadt ist möglicherweise Paris"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Kommentar zur Globalisierung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Kommentar zur späten 1990er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song geht um Identitätsfragen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Refrain-Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stadt ist eine post-koloniale Metropole"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Kommentar zur postmodernen Identitätskrise"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song geht um Liebe/Leben"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der kontrastierenden Bildpaare"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kulturelles Artefakt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der urbanen Szenerie"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die dritte Interpretation bietet die beste Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

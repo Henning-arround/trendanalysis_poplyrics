@@ -1,0 +1,99 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von 'tomorrow' als rettender Horizont spiegelt das kollektive Verlangen nach einem Neustart nach den Krisen der 1970er wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Offenheit lässt Raum für multiple Deutungen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Hoffnung und Verlust ist gut durchdacht und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die implizite Ambivalenz – das Auflösen alter Träume versus das Versprechen neuer Aufgaben – die kulturelle Unsicherheit jener Zeit widerspiegelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Gegenüberstellung von 'dreams' und 'memories' erzeugt eine Ambiguität zwischen Fortschritt und Verlust"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern ist gut und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1975 entstandene Produktion fällt in eine Phase post-1960er-Utopien"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'There’ll be everything for us to do' eröffnet ein offenes Feld von Möglichkeiten"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der thematischen Komplexität zwischen Erwartung und Verlust ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass 'nothing will be left to destroy' nach Erfüllung aller Träume folgt, spiegelt ein post-optimistisches Weltbild wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Struktur lässt bewusst Raum für Widersprüche zwischen Optimismus und der impliziten Notwendigkeit, das Vergangene zu 'fade away'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität zwischen Fortschritt und Verlust ist okay"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass 'tomorrow' als unerreichbares Versprechen fungiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'There’ll be everything for us to do' wirkt wie ein choraler Appell"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Emotionen ist schwach und nicht textbasiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark in ihrer Qualität",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

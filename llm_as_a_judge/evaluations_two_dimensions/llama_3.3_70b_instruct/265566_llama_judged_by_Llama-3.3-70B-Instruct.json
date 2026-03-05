@@ -1,0 +1,99 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit und die Liebe nicht loslassen und gibt sich noch einmal der Illusion hin, dass alles wie früher sein könnte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Verzweiflung und die Sehnsucht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die spirituelle Stärke der Sängerin und ihre Fähigkeit, sich selbst aufzurichten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit und die Liebe nicht loslassen und gibt sich selbst und ihrem Partner noch einmal die Chance, die Nacht in vollen Zügen zu genießen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und tiefgründige Reflexion über die Endlichkeit von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Unzerstörbarkeit der inneren Lichtquelle und die Fähigkeit, auch in dunklen Zeiten Hoffnung und Freude zu finden"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit festhalten und noch einmal die Intensität und die Leidenschaft des Moments erleben"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und tief empfundene Ballade"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Tanzmetapher und die Freiheit und Ekstase des Moments"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit und die Liebe nicht loslassen und gibt sich selbst und ihrem Partner noch einmal die Chance, die Nacht in vollen Zügen zu genießen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und tiefgründige Reflexion über die Endlichkeit von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Unzerstörbarkeit der inneren Lichtquelle und die Fähigkeit, auch in dunklen Zeiten Hoffnung und Freude zu finden"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit und die Liebe nicht loslassen und gibt sich selbst und ihrem Partner noch einmal die Chance, die Nacht in vollen Zügen zu genießen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und tiefgründige Reflexion über die Endlichkeit von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Unzerstörbarkeit der inneren Lichtquelle und die Fähigkeit, auch in dunklen Zeiten Hoffnung und Freude zu finden"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind größtenteils konsistent, aber es gibt einige Wiederholungen und oberflächliche Aussagen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und betont die spirituelle Stärke der Sängerin und ihre Fähigkeit, sich selbst aufzurichten"
+  }
+}

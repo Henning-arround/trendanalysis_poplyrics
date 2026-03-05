@@ -1,0 +1,99 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Atmosphäre des Songs ist geprägt von einer Mischung aus Mystik, Romantik und Ekstase"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Einladung, die 'Spirits' hereinzulassen und den eigenen 'Geist singen' zu lassen, deutet auf eine Sehnsucht nach Transzendenz und Befreiung von den Fesseln der Welt hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Mischung aus textbezogener Analyse und tieferer Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Tore der Lust' und die 'Türen, hinter denen alle Scham verloren geht', symbolisieren den Übergang in eine Sphäre, in der die Grenzen zwischen Gut und Böse, Scham und Schuld, aufgehoben sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre des Songs ist geprägt von einer Mischung aus Dunkelheit, Leidenschaft und spiritueller Sehnsucht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der textlichen Elemente"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Tore der Lust' und die 'Türen, hinter denen alle Scham verloren geht', symbolisieren den Übergang in eine Sphäre, in der die Grenzen zwischen Gut und Böse, Scham und Schuld, aufgehoben sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre des Songs ist geprägt von einer Mischung aus Dunkelheit, Leidenschaft und spiritueller Sehnsucht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der textlichen Elemente"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'scarlet fever', die den Protagonisten durchströmt, symbolisiert die unkontrollierbare Leidenschaft und das Verlangen, das ihn antreibt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Einladung, die 'Spirits' hereinzulassen und den eigenen 'Geist singen' zu lassen, deutet auf eine Sehnsucht nach Transzendenz und Befreiung von den Fesseln der Welt hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Mischung aus textbezogener Analyse und tieferer Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'scarlet fever', die den Protagonisten durchströmt, symbolisiert die unkontrollierbare Leidenschaft und das Verlangen, das ihn antreibt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Einladung, die 'Spirits' hereinzulassen und den eigenen 'Geist singen' zu lassen, deutet auf eine Sehnsucht nach Transzendenz und Befreiung von den Fesseln der Welt hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Mischung aus textbezogener Analyse und tieferer Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der textlichen Elemente, jedoch gibt es einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine gute Mischung aus textbezogener Analyse und tieferer Interpretation"
+  }
+}

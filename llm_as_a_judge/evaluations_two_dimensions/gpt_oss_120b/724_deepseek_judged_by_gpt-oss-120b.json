@@ -1,0 +1,152 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden.",
+          "Der Text beginnt mit einer Countdown‑Sequenz, die den Start eines Raumschiffs oder einer Rakete symbolisiert.",
+          "Die Lyrics ... deuten darauf hin, dass die Protagonisten auf eine Reise ins Unbekannte geschickt werden, mit dem Ziel, neue Erfahrungen und Erkenntnisse zu sammeln.",
+          "Die Zeile ... offenbart jedoch, dass die Protagonisten ihre neue Situation genießen und sich frei fühlen.",
+          "Die Instrumente versagen, was auf eine gewisse Desorientierung und den Verlust von Kontrolle hinweist.",
+          "Die Glut am Heck der Rakete symbolisiert möglicherweise die letzte Verbindung zur Erde.",
+          "Der Refrain ... wird zu einer Art Mantra, das die Protagonisten wiederholen, um ihre Situation zu akzeptieren und sogar zu genießen.",
+          "Die Zeile ... zeigt, dass sie keine Nostalgie nach ihrem früheren Leben empfinden.",
+          "Stattdessen ... kosmische Ekstase …",
+          "Insgesamt kann der Song als eine Metapher für die menschliche Suche nach Freiheit und Selbstverwirklichung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederholte Phrase „Uns geht's gut / Wirklich gut“ im Text und bezieht sie ein.",
+          "Er versucht, verschiedene Bildlichkeiten (Rakete, Glut, Countdown) zu verknüpfen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden.",
+          "Der Song beginnt mit einer Countdown‑Sequenz, die den Start eines Raumschiffs oder einer Rakete symbolisiert.",
+          "Die Lyrics ... deuten darauf hin, dass die Protagonisten auf eine Reise ins Unbekannte geschickt werden, mit dem Ziel, neue Erfahrungen und Erkenntnisse zu gewinnen.",
+          "Die Zeile ... offenbart jedoch, dass die Protagonisten sich in ihrem Zustand befinden, in dem sie sich frei und unbeschwert fühlen.",
+          "Die Instrumente versagen, was auf eine Art von Kontrollverlust hindeutet, aber die Protagonisten scheinen sich daran nicht zu stören.",
+          "Die Zeile \"Am Heck die Glut\" könnte auf die Gefahr und Unsicherheit der Situation hinweisen, aber auch hier bleibt die Reaktion der Protagonisten gelassen.",
+          "Der Refrain ... wird zu einer Art von Mantra, das die Protagonisten wiederholen, um ihre Situation zu beschwichtigen.",
+          "Die Zeile ... deutet darauf hin, dass die Protagonisten keine Nostalgie oder Sehnsucht nach ihrer alten Welt haben.",
+          "Stattdessen \"verglühen wir gerne\" hinter dem Mond, was auf eine Art von Selbstzerstörung oder Auflösung hindeuten könnte.",
+          "Insgesamt kann der Song als eine Kritik an der menschlichen Tendenz interpretiert werden, sich in einer Welt der Unsicherheit und des Chaos zurechtzufinden.",
+          "Die Protagonisten scheinen sich in ihrer Situation eingerichtet zu haben und finden sogar Gefallen daran.",
+          "Der Song kann auch als eine Metapher für die menschliche Existenz gesehen werden, in der wir uns oft in unbekannten Territorien bewegen und uns an die Umstände anpassen müssen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er erwähnt explizit die Textzeile „Instrumente versagen“ und nutzt sie als Ausgangspunkt für weitere Überlegungen.",
+          "Er versucht, den wiederholten Refrain als Mantra zu deuten, was ein gewisses analytisches Bemühen zeigt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden.",
+          "Der Text beginnt mit einer Countdown‑Sequenz, die den Start eines Raumschiffs oder einer Rakete symbolisiert.",
+          "Die Lyrics ... deuten darauf hin, dass die Protagonisten auf eine Reise ins Unbekannte geschickt werden, mit dem Ziel, neue Erfahrungen und Erkenntnisse zu sammeln.",
+          "Die Zeile ... offenbart jedoch, dass die Protagonisten ihre neue Situation genießen und sich frei fühlen.",
+          "Die Instrumente versagen, was auf eine gewisse Desorientierung und den Verlust von Kontrolle hinweist.",
+          "Die Glut am Heck der Rakete symbolisiert möglicherweise die letzte Verbindung zur Erde.",
+          "Der Refrain ... wird zu einer Art Mantra, das die Protagonisten wiederholen, um ihre Situation zu akzeptieren und sogar zu genießen.",
+          "Die Zeile ... zeigt, dass sie keine Nostalgie nach ihrem früheren Leben empfinden.",
+          "Stattdessen ... kosmische Ekstase …",
+          "Insgesamt kann der Song als eine Metapher für die menschliche Suche nach Freiheit und Selbstverwirklichung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er greift die wiederholte Phrase „Uns geht's gut / Wirklich gut“ korrekt auf.",
+          "Er verbindet die Bildsprache des Textes (Countdown, Glut, Rakete) zu einer zusammenhängenden Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden.",
+          "Der Song beginnt mit einer Countdown‑Sequenz, die den Start eines Raumschiffs oder einer Rakete symbolisiert.",
+          "Die Lyrics ... deuten darauf hin, dass die Protagonisten auf eine Reise ins Unbekannte geschickt werden, mit dem Ziel, neue Erfahrungen und Erkenntnisse zu gewinnen.",
+          "Die Zeile ... offenbart jedoch, dass die Protagonisten sich in ihrem Zustand befinden, in dem sie sich frei und unbeschwert fühlen.",
+          "Die Instrumente versagen, was auf eine Art von Kontrollverlust hindeutet, aber die Protagonisten scheinen sich daran nicht zu stören.",
+          "Die Zeile \"Am Heck die Glut\" könnte auf die Gefahr und Unsicherheit der Situation hinweisen, aber auch hier bleibt die Reaktion der Protagonisten gelassen.",
+          "Der Refrain ... wird zu einer Art von Mantra, das die Protagonisten wiederholen, um ihre Situation zu beschwichtigen.",
+          "Die Zeile ... deutet darauf hin, dass die Protagonisten keine Nostalgie oder Sehnsucht nach ihrer alten Welt haben.",
+          "Stattdessen \"verglühen wir gerne\" hinter dem Mond, was auf eine Art von Selbstzerstörung oder Auflösung hindeuten könnte.",
+          "Insgesamt kann der Song als eine Kritik an der Oberflächlichkeit und der Selbstzufriedenheit der modernen Gesellschaft interpretiert werden.",
+          "Der Song kann auch als eine Metapher für die menschliche Existenz gesehen werden, in der wir uns oft in unbekannten Territorien bewegen und uns an die Umstände anpassen müssen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er erweitert die Interpretation um einen gesellschaftskritischen Kontext (Oberflächlichkeit, Selbstzufriedenheit).",
+          "Er bezieht sich korrekt auf die Textzeile „Instrumente versagen“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden.",
+          "Der Text beginnt mit einer Countdown‑Sequenz, die den Start eines Raumschiffs oder einer Rakete symbolisiert.",
+          "Die Lyrics ... deuten darauf hin, dass die Protagonisten auf eine Reise ins Unbekannte geschickt werden, mit dem Ziel, neue Erfahrungen und Erkenntnisse zu gewinnen.",
+          "Die Zeile ... offenbart jedoch, dass die Protagonisten ihre neue Situation genießen und sich frei fühlen.",
+          "Die Instrumente versagen, was auf eine gewisse Desorientierung und den Verlust von Kontrolle hinweist.",
+          "Die Glut am Heck der Rakete symbolisiert möglicherweise die letzte Verbindung zur Erde.",
+          "Der Refrain ... wird zu einer Art Mantra, das die Protagonisten wiederholen, um ihre Situation zu akzeptieren und sogar zu genießen.",
+          "Die Zeile ... zeigt, dass sie keine Nostalgie nach ihrem früheren Leben empfinden.",
+          "Stattdessen ... kosmische Ekstase …",
+          "Insgesamt kann der Song als eine Metapher für die menschliche Suche nach Freiheit und Selbstverwirklichung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als eine surreale und ironische Betrachtung des menschlichen Zustands interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er greift die wiederholte Phrase „Uns geht's gut / Wirklich gut“ korrekt auf.",
+          "Er verbindet die Bildsprache des Textes (Countdown, Glut, Rakete) zu einer zusammenhängenden Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen nahezu dieselben Inhalte; die Varianz ist minimal, was auf ein hohes Maß an Redundanz und geringe Originalität hinweist.",
+    "empfehlung": "Die vorliegenden Interpretationen bleiben stark spekulativ und oberflächlich. Ein besserer Ansatz wäre, sich stärker an den konkreten Textzeilen zu orientieren, weniger erfundene Bildlichkeiten (z. B. Rakete) zu verwenden und mehr Raum für mehrdeutige, textbasierte Analysen zu lassen."
+  }
+}

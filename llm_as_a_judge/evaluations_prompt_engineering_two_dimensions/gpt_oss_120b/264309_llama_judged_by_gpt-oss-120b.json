@@ -1,0 +1,114 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des Wortes \"Monkey\" kann als Metapher für die eigene Seele oder das Unterbewusstsein interpretiert werden, was die Frage aufwirft, ob der Sprecher tatsächlich so unschuldig ist, wie er behauptet.",
+          "Die Zeile \"The deeper you go, the higher you fly / The higher you fly, the deeper you go\" kann als Symbol für die Wechselwirkung zwischen Innerem und Äußerem interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Everybody's Got Something To Hide Except Me And My Monkey\" von The Beatles aus dem Jahr 1968 bietet eine Vielzahl von Interpretationsmöglichkeiten.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig."
+        ],
+        "positive_aspekte": [
+          "Klare Bezugnahme auf konkrete Textstellen (z. B. die wiederholte Zeile „Everybody's got something to hide / Except for me and my monkey“).",
+          "Versucht, mehrschichtige Bedeutungen (Seele/Unterbewusstsein, Innen‑Außen‑Beziehung) zu erschließen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der \"Monkey\" kann als Symbol für die Unterdrückung von Trieben und Verlangen verstanden werden, die in der Gesellschaft nicht akzeptiert sind.",
+          "Die Zeile \"The deeper you go, the higher you fly / The higher you fly, the deeper you go\" suggeriert eine spirituelle oder psychedelische Erfahrung, die den Hörer in eine andere Dimension entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine Vielzahl von Interpretationsmöglichkeiten.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Art von Freiheit und Unbeschwertheit, die durch die Wiederholung von \"Come on\" und \"Take it easy\" ausgedrückt wird."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textpassagen und versucht, deren mögliche Bedeutungen zu erklären.",
+          "Verknüpft wiederholte Phrasen mit einer möglichen Stimmung (Freiheit, Unbeschwertheit)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der \"Monkey\" kann als Symbol für die Unterdrückung von Trieben und Verlangen verstanden werden, die in der Gesellschaft nicht akzeptiert sind.",
+          "Die Zeile \"The deeper you go, the higher you fly / The higher you fly, the deeper you go\" suggeriert eine spirituelle oder psychedelische Erfahrung, die den Hörer in eine andere Dimension entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine Vielzahl von Interpretationsmöglichkeiten.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Art von Freiheit und Unbeschwertheit, die durch die Wiederholung von \"Come on\" und \"Take it easy\" ausgedrückt wird."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf wiederkehrende Textmotive.",
+          "Versucht, die mögliche gesellschaftliche Bedeutung der Zeile \"Everybody's got something to hide\" zu erfassen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der \"Monkey\" kann als Symbol für die Unterdrückung von Trieben und Verlangen verstanden werden, die in der Gesellschaft nicht akzeptiert sind.",
+          "Die Zeile \"The deeper you go, the higher you fly / The higher you fly, the deeper you go\" suggeriert eine spirituelle oder psychedelische Erfahrung, die den Hörer in eine andere Dimension entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine Vielzahl von Interpretationsmöglichkeiten.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Art von Freiheit und Unbeschwertheit, die durch die Wiederholung von \"Come on\" und \"Take it easy\" ausgedrückt wird."
+        ],
+        "positive_aspekte": [
+          "Stellt die zentrale Botschaft des Songs klar heraus (Verstecken vs. Offenheit).",
+          "Verknüpft die paradoxen Zeilen mit einem möglichen „Paradoxon der menschlichen Erfahrung“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der \"Monkey\" kann als Symbol für die Unterdrückung von Trieben und Verlangen verstanden werden, die in der Gesellschaft nicht akzeptiert sind.",
+          "Die Zeile \"Your inside is out when your outside is in / Your outside is in when your inside is out\" suggeriert eine Identitätskrise oder Rollenverwirrung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine Vielzahl von Interpretationsmöglichkeiten.",
+          "Insgesamt bietet der Song eine Vielzahl von Deutungsmöglichkeiten und lädt den Hörer ein, sich mit den komplexen Themen und Symbolen auseinanderzusetzen."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Gegenüberstellung von Innen‑ und Außen‑Zuständen als zentrales Motiv.",
+          "Verbindet die Textzeile mit einer möglichen „Identitätskrise“, was eine tiefere Analyse anstrebt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Grundthesen (Vielzahl von Interpretationsmöglichkeiten, zentrale Zeile über Verstecken, Symbolik des 'Monkey'). Die Varianz ist gering; viele Aussagen sind in fast allen Versionen identisch, was auf geringe inhaltliche Diversität hinweist.",
+    "empfehlung": "Ein Ansatz, der konkrete Textstellen nutzt, aber spekulative Deutungen stark reduziert, erzielt die höchste Qualität. Zukunftige Modelle sollten stärker zwischen belegbaren Beobachtungen und rein spekulativen Interpretationen unterscheiden und dabei mehr differenzierte, textbasierte Analysen anbieten."
+  }
+}

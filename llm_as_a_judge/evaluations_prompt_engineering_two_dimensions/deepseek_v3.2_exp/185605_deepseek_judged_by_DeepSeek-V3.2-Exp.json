@@ -1,0 +1,95 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des Wortes 'all' unterstreicht die Einfachheit und zugleich die Tiefe dieser Sehnsucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' erkennbar."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Reaktion auf die zunehmende Isolation und Vereinsamung in der modernen Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' zusammengefasst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist teilweise textbezogen, aber auch etwas oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Reaktion auf die zunehmende Isolation und Vereinsamung in der modernen Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' zusammengefasst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist teilweise textbezogen, aber auch etwas oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Reaktion auf die zunehmende Isolation und Vereinsamung in der modernen Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' zusammengefasst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist teilweise textbezogen, aber auch etwas oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist durchgehend spezifisch und textanalytisch, aber auch offen für Ambivalenzen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-4 sind sehr ähnlich und teilweise oberflächlich.",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie durchgehend spezifisch und textanalytisch ist, aber auch offen für Ambivalenzen."
+  }
+}

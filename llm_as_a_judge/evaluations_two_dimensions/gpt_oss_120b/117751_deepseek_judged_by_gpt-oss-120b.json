@@ -1,0 +1,111 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine metaphorische Beschreibung der Liebe als eine Art von kosmischer Führung, die den Sänger zu seiner geliebten Person bringt.",
+          "Die Verwendung von Naturbildern wie Sternen und Mondlicht unterstreicht die Universalität und die Zeitlosigkeit der Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text hat eine poetische und träumerische Qualität, die die Sehnsucht und die Hoffnung des Sängers unterstreicht.",
+          "Die Melodie und der Text des Songs schaffen eine romantische Atmosphäre, die den Hörer in die Welt der Sehnsucht und der Liebe entführt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konkrete Textstellen (z. B. „leuchten wunderschön“ und „ewige Wacht“) und markiert sie als belegt.",
+          "Geht über reine Wiederholungen hinaus und führt neue, wenn auch spekulative, Bildinterpretationen ein (kosmische Führung)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine romantische Ballade, die die Sehnsucht nach einem geliebten Menschen ausdrückt.",
+          "Der Song ist eine Hommage an die Liebe und die Hoffnung, die Menschen in schwierigen Zeiten inspiriert und geleitet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext hat eine poetische und träumerische Qualität, die die Sehnsucht und die Hoffnung auf ein Wiedersehen mit der geliebten Person ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Markiert korrekt die wörtlichen Bildungen aus dem Text (z. B. „Glücksmelodie\" und „ewige Wacht\").",
+          "Bleibt bei einer klaren, wenn auch sehr allgemeinen, Interpretation des Liebesthemas."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine Metapher für die Liebe, die wie ein Leitstern in der Dunkelheit leuchtet und den Weg zu der geliebten Person weist.",
+          "Die Sternengold und Silbermond führen ihn den weiten Weg zu der geliebten Person und halten ihn in der Nacht ihre Wacht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext hat eine poetische und träumerische Qualität, die die Sehnsucht und die Hoffnung auf ein Wiedersehen mit der geliebten Person ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Erkennt und wiederholt die zentralen Bildmotive (Sternengold, Silbermond, Glücksmelodie).",
+          "Verknüpft die Bildsprache konsequent mit dem Motiv der Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine romantische Ballade, die die Sehnsucht nach einem geliebten Menschen ausdrückt.",
+          "Der Song ist eine Metapher für die Liebe, die wie ein Leitstern in der Dunkelheit leuchtet und den Weg zu der geliebten Person weist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext hat eine poetische und träumerische Atmosphäre, die die Sehnsucht und die Hoffnung auf ein Wiedersehen mit der geliebten Person ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Wiederholung der Kerninterpretation (Liebe als Leitstern).",
+          "Richtige Zuordnung der wörtlichen Textstellen zu den Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine metaphorische Beschreibung der Liebe als eine Art von kosmischer Führung, die den Sänger zu seiner geliebten Person bringt.",
+          "Die Verwendung von Naturbildern wie Sternen und Mondlicht unterstreicht die Universalität und die Zeitlosigkeit der Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text hat eine poetische und träumerische Qualität, die die Sehnsucht und die Hoffnung des Sängers unterstreicht.",
+          "Der Song ist eine Hommage an die Liebe und die Hoffnung, die Menschen in schwierigen Zeiten begleitet."
+        ],
+        "positive_aspekte": [
+          "Bietet zusätzliche konzeptuelle Ebenen (kosmische Führung, Universalität) die über reine Wiederholungen hinausgehen.",
+          "Erkennt und kennzeichnet die wörtlichen Bildungen aus dem Text korrekt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1.4,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen wiederholen stark dieselben Grundthesen (Liebe als Leitstern, poetische Qualität). Nur Interpretation 3 und 4 bringen zusätzliche, wenn auch spekulative, konzeptuelle Ebenen ein, was zu einer leicht höheren Tiefenbewertung führt. Die Halluzinationsrate ist insgesamt hoch, weil fast alle Aussagen nicht im Text belegt sind.",
+    "empfehlung": "Ein besserer Ansatz wäre, zunächst alle wörtlichen Textstellen zu extrahieren und dann nur daraus ableitbare Bild- und Bedeutungsaspekte zu diskutieren. Spekulative Metaphern sollten klar als Interpretation gekennzeichnet und nicht als Fakt präsentiert werden. So lässt sich die Balance zwischen Texttreue und analytischer Tiefe optimieren."
+  }
+}

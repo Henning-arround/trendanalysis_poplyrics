@@ -1,0 +1,85 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Idee vermittelt, dass man sich nicht von Ängsten oder Zweifeln zurückhalten lassen sollte"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die Befreiung und Selbstentfaltung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'You can't spend the night alone' und 'Let the music do you right' unterstreicht die Notwendigkeit, sich auf die Musik und die Energie des Moments einzulassen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der Selbstentfaltung und des Loslassens"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Idee vermittelt, dass es wichtig ist, sich nicht von Ängsten oder Zweifeln zurückhalten zu lassen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu, aber bietet wenig neue Einblicke"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textzeilen und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und bietet eine tiefe Analyse der Befreiung und Selbstentfaltung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber bleiben größtenteils textgetreu",
+    "empfehlung": "Die Interpretationen 4 und 5 bieten die besten Analysen, da sie textgetreu und tiefgehend sind"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In der musikalischen Umsetzung der 1950er‑Jahre, mit dem charakteristischen Bariton der Platters und dem sanften Orchesterhintergrund, verstärkt sich der Kontrast zwischen zarter Melodie und der harten, fast unüberwindlichen Metapher des steinernen Herzens, wodurch das Lied zu einer melancholischen Reflexion über die Zerbrechlichkeit von Vertrauen und die zerstörerische Kraft von Schuld und Verführung wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „Heart of Stone“ entfaltet ein düsteres Bild von Schuld und Manipulation, das sich wie ein Schatten über die zarte Schönheit der Protagonistin legt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Songtext ableitbar (z. B. die Analyse von „sunrays in your hair“, „gold“, „heart of stone“, die Wiederholung von „June roses“ und die Satan‑Referenz).",
+          "Die Interpretation bleibt textbezogen und bietet konkrete Bilddeutungen, ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In der musikalischen Umsetzung der 1950er‑Jahre, mit dem charakteristischen Bariton der Platters und dem sanften Orchesterarrangement, wird diese Tragödie zu einer melancholischen Ballade, die das Spannungsfeld zwischen äußeren Schönheiten und innerer Verhärtung eindringlich schildert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „Heart of Stone“ entfaltet ein düsteres Bild von Schuld und Manipulation, das sich wie ein Schatten über die Beziehung zwischen zwei Menschen legt."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textzeilen mit interpretativen Bedeutungen (z. B. Macht‑ und Manipulationsspiel, Symbolik von Gold, Stimme als „breeze“).",
+          "Wenig spekulative Aussagen, die meisten Punkte sind aus dem Text ableitbar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Heart of Stone“ entfaltet ein Bild von Schuld und Verlorenheit, das sich in einer fast mythologischen Sprache verankert."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich aus dem Songtext ableiten; es gibt keine erfundenen biografischen oder musikstilistischen Angaben.",
+          "Die Analyse ist detailliert und verbindet einzelne Bildmotive (Sonnenstrahlen, Gold, June‑Rosen, Satan) zu einem kohärenten Gesamtkonzept."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch verankert in den sanften Harmonien der 1950er‑Jahre, verstärkt die melancholische Melodie die Tragik einer Frau, die zwischen natürlicher Schönheit und einer von außen auferlegten, unnachgiebigen Härte gefangen ist, und lässt den Hörer über die Verantwortung für das Entstehen eines „Herzens aus Stein“ nachdenken."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „Heart of Stone“ entfaltet ein Bild von Schuld und Verführung, das in einer düsteren, fast mythologischen Atmosphäre verankert ist."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen sind klar aus dem Text ableitbar (z. B. Symbolik von Gold, Stimme als „breeze“, Satan‑Referenz).",
+          "Die Interpretation bietet eine durchgängige Bildsprache und verbindet die einzelnen Motive zu einer stimmigen Gesamtaussage."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Heart of Stone“ entfaltet ein Bild von Schuld und Manipulation, das sich wie ein dunkles Netz um die Protagonistin legt.",
+          "Dieser Gegensatz zwischen zartem Duft und dämonischer Macht verdeutlicht den Konflikt zwischen innerer Reinheit und erzwungener Härte.",
+          "Das Bild des steinernen Herzens bleibt als Mahnung, dass wahre Befreiung nur durch das Durchbrechen dieser fremden Pläne und das Wiedererlangen der eigenen emotionalen Wärme möglich ist."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen sind aus dem Songtext ableitbar; es gibt keine erfundenen Kontextinformationen.",
+          "Die Analyse geht über reine Wiederholungen hinaus und liefert differenzierte Interpretationsansätze (z. B. Netz‑Metapher, moralische Mahnung)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Die Interpretationen wiederholen viele zentrale Bildmotive (Schuld, Gold, Herz aus Stein, June‑Rosen, Satan). Die Tiefe variiert leicht, aber alle bleiben textnah; nur bei Interpretation 1 und 2 gibt es leichte Abschweifungen zu musikalischen Details, die nicht im Text stehen.",
+    "empfehlung": "Interpretationen 3 und 5 sind am faktentreuesten und gleichzeitig tiefgehend. Sie kombinieren präzise Textbezüge mit einer differenzierten Analyse, ohne unnötige spekulative Angaben. Für zukünftige Bewertungen sollte man darauf achten, musikstilistische oder biografische Details nur dann zu erwähnen, wenn sie im Ausgangsmaterial belegt sind."
+  }
+}

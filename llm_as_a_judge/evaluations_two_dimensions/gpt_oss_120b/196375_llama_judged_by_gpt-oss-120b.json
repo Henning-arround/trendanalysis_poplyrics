@@ -1,0 +1,129 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine surreale und traumhafte Erzählung, die sich zwischen Realität und Fantasie bewegt.",
+          "umgeben von den Geflüstern des Orients, die eine exotische und verlockende Atmosphäre schaffen.",
+          "Die Sonne ... verstärkt die Vorstellung von einer idyllischen, aber auch unwirklichen Welt.",
+          "Cary Grant, ein Symbol für Eleganz und Hollywood‑Glamour, wird hier in einem sehr ungewöhnlichen Kontext verwendet, was die Vorstellung von etwas Unmöglichem und Fantastischem unterstreicht.",
+          "der die Sehnsucht nach etwas Unerreichbarem und Exotischem ausdrückt.",
+          "scheint eine Art kulturelle oder regionale Anspielung zu sein, die jedoch im Kontext des Songs eher verwirrend und surreal wirkt.",
+          "schafft eine Art Zeitlosigkeit und träumhafte Atmosphäre, in der die Grenzen zwischen Realität und Fantasie verschwimmen.",
+          "die musikalische und emotionale Ekstase des Songs noch einmal unterstreichen und die Zuhörer in dieser surrealen Welt zurücklassen."
+        ],
+        "positive_aspekte": [
+          "Alle Fakten aus dem Text werden korrekt wiedergegeben (z. B. Kuckucksuhrengeschäft, Haferschiff, Brief an den Spiegel, Wiederholung des Refrains, Na‑Na‑Rufe).",
+          "Die Interpretation bleibt textnah und vermeidet unbelegte biografische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine surreale und traumhafte Erzählung, die sich zwischen Realität und Fantasie bewegt.",
+          "umgeben von den Geflüstern des Orients, die eine exotische und verlockende Atmosphäre schaffen.",
+          "Die Sonne ... verstärkt die Vorstellung von einer idyllischen, aber auch unwirklichen Welt.",
+          "Cary Grant, ein Symbol für Eleganz und Hollywood‑Glamour, wird hier in einem sehr ungewöhnlichen Kontext verwendet, was die Vorstellung von etwas Unmöglichem und Fantastischem unterstreicht.",
+          "der die Sehnsucht nach etwas Unerreichbarem und Exotischem ausdrückt.",
+          "scheint eine Art kulturelle oder regionale Anspielung zu sein, die jedoch im Kontext des Songs eher verwirrend und surreal wirkt.",
+          "schafft eine Art Zeitlosigkeit und träumhafte Atmosphäre, in der die Grenzen zwischen Realität und Fantasie verschwimmen.",
+          "die musikalische und emotionale Ekstase des Songs noch einmal unterstreichen und die Zuhörer in dieser surrealen Welt zurücklassen."
+        ],
+        "positive_aspekte": [
+          "Vollständige Wiedergabe aller im Text vorkommenden Bildungen.",
+          "Keine spekulativen biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine surreale und traumhafte Erzählung, die sich zwischen Realität und Fantasie bewegt.",
+          "was bereits auf eine Verbindung zwischen Alltäglichem und Exotischem hinweist.",
+          "verstärken diese Verbindung und schaffen eine Atmosphäre der Sehnsucht und des Fernwehs.",
+          "kann als Metapher für die Suche nach einem idealen, unerreichbaren Ort oder einer unerreichbaren Identität interpretiert werden.",
+          "ein Symbol für Eleganz und Hollywood‑Glamour ... Sehnsucht nach etwas Unvergleichlichem und Einzigartigem unterstreicht.",
+          "schaffen eine Art von Normalität, die jedoch durch die surrealen Elemente immer wieder durchbrochen wird.",
+          "Der Song scheint eine Art von innerer Welt zu beschreiben, in der Träume, Sehnsüchte und Alltäglichkeiten miteinander verschmelzen, und die Grenzen zwischen Realität und Fantasie verschwimmen.",
+          "können als Ausdruck einer Art von ekstatischer Verlorenheit oder einer Kapitulation vor der Unfassbarkeit der eigenen Träume und Wünsche interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Geht über reine Bildbeschreibung hinaus und bietet plausible, textbasierte Metaphern (z. B. Suche nach Identität).",
+          "Verknüpft einzelne Textstellen zu einer kohärenten inhaltlichen Analyse, ohne spekulative Fakten hinzuzufügen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine surreale und traumhafte Erzählung, die sich zwischen Realität und Fantasie bewegt.",
+          "umgeben von den Geflüstern des Orients, die eine exotische und verlockende Atmosphäre schaffen.",
+          "Die Sonne ... verstärkt die Vorstellung von einer idyllischen, aber auch unwirklichen Welt.",
+          "Cary Grant, ein Symbol für Eleganz und Hollywood‑Glamour, wird hier in einem sehr ungewöhnlichen Kontext verwendet, was die Vorstellung von etwas Unmöglichem und Fantastischem unterstreicht.",
+          "der die Sehnsucht nach etwas Unerreichbarem und Exotischem ausdrückt.",
+          "scheint eine Art kulturelle oder regionale Anspielung zu sein, die jedoch im Kontext des Songs eher verwirrend und surreal wirkt.",
+          "schafft eine Art Zeitlosigkeit und träumhafte Atmosphäre, in der die Grenzen zwischen Realität und Fantasie verschwimmen.",
+          "die musikalische und emotionale Ekstase des Songs noch einmal unterstreichen und die Zuhörer in dieser surrealen Welt zurücklassen."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe aller im Text vorkommenden Motive.",
+          "Keine unbelegten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine surreale und traumhafte Erzählung, die sich zwischen Realität und Fantasie bewegt.",
+          "umgeben von den Geflüstern des Orients, die eine exotische und verlockende Atmosphäre schaffen.",
+          "Die Sonne ... verstärkt die Vorstellung von einer idyllischen, aber auch unwirklichen Welt.",
+          "Cary Grant, ein Symbol für Eleganz und Hollywood‑Glamour, wird hier in einem sehr ungewöhnlichen Kontext verwendet, was die Vorstellung von etwas Unmöglichem und Fantastischem unterstreicht.",
+          "der die Sehnsucht nach etwas Unerreichbarem und Exotischem ausdrückt.",
+          "scheint eine Art kulturelle oder regionale Anspielung zu sein, die jedoch im Kontext des Songs eher verwirrend und surreal wirkt.",
+          "schafft eine Art Zeitlosigkeit und träumhafte Atmosphäre, in der die Grenzen zwischen Realität und Fantasie verschwimmen.",
+          "die musikalische und emotionale Intensität verstärken, ohne dass der Song eine klare Botschaft oder Auflösung bietet, sondern den Hörer in seiner surrealen Welt zurücklässt."
+        ],
+        "positive_aspekte": [
+          "Alle lyrischen Elemente (Kuckucksuhrengeschäft, Haferschiff, Brief, Na‑Na‑Refrain) werden korrekt wiedergegeben.",
+          "Keine spekulativen Angaben zu Genre, Produktion oder Künstlerbiografie."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben texttreu (keine Halluzinationen). Die Tiefe variiert leicht; Interpretation 4 liefert die tiefgründigste, textbasierte Analyse, während die anderen stärker wiederholende, oberflächliche Beschreibungen enthalten.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man den Ansatz von Interpretation 4 als Vorbild nehmen: strikt textnah, aber mit klaren, begründeten Metaphern und Zusammenhängen, ohne unnötige Wiederholungen oder vage Allgemeinplätze."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als ein Ausdruck der aktuellen Sehnsucht nach menschlicher Verbindung und emotionaler Intimität in einer Welt, die zunehmend digital und isoliert ist, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Die Themen Trennung, Sehnsucht und Intimität sind universell und finden sich in vielen kulturellen und historischen Kontexten wieder.",
+          "Insgesamt ..."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (z. B. Metapher, Wiederholungen, Symbolik).",
+          "Die Analyse geht über reine Oberflächlichkeit hinaus und liefert konkrete Textbezüge."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von englischer Sprache und die Produktion des Songs durch internationale Künstler unterstreichen die globale Relevanz und Verständlichkeit dieser Themen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Die Themen Trennung, Sehnsucht und Intimität sind universell und finden sich in vielen kulturellen und historischen Kontexten wieder.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige Auseinandersetzung ..."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei den meisten Aussagen (Metapher, Wiederholungen, Symbolik).",
+          "Gute Balance zwischen Beschreibung und Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von englischer Sprache und die Produktion des Songs durch internationale Künstler kann als ein Beispiel für die Globalisierung von Musik und Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Die Sehnsucht nach einem letzten Moment der Verbindung kann als ein universelles menschliches Gefühl interpretiert werden, das in verschiedenen kulturellen Kontexten unterschiedlich ausgedrückt wird.",
+          "Insgesamt zeigt der Song ... eine komplexe emotionale Wirkung ..."
+        ],
+        "positive_aspekte": [
+          "Alle inhaltlichen Punkte (Metapher, Wiederholung, Symbolik) sind aus dem Text ableitbar.",
+          "Die Interpretation bleibt textnah und vermeidet unnötige Spekulationen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von englischer Sprache und die Produktion des Songs durch internationale Künstler kann als ein Beispiel für die Globalisierung von Musik und Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Die Sehnsucht nach einem letzten Moment der Verbindung kann als ein universelles menschliches Gefühl interpretiert werden, das in verschiedenen kulturellen Kontexten unterschiedlich ausgedrückt wird.",
+          "Insgesamt zeigt der Song ... eine komplexe emotionale Wirkung ..."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Metapher, Wiederholungen, Symbolik).",
+          "Die Analyse liefert konkrete Beispiele aus dem Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Die Themen Trennung, Sehnsucht und Resilienz sind universell ...",
+          "Der Song kann als ein Ausdruck der menschlichen Erfahrung interpretiert werden, dass Beziehungen enden, aber die Erinnerung und die Emotionen, die mit ihnen verbunden sind, weiterleben.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und eine komplexe thematische Struktur ..."
+        ],
+        "positive_aspekte": [
+          "Alle inhaltlichen Behauptungen (Metapher, Wiederholung, Symbolik) lassen sich direkt aus dem Text ableiten.",
+          "Zusätzliche Nuancen (Atmosphäre von Freiheit, Neuanfang) erweitern die Interpretation, bleiben aber textbasiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Grundthesen, unterscheiden sich jedoch in der Menge an spekulativen bzw. oberflächlichen Aussagen. Die Varianz ist gering; Interpretation 3 sticht durch das Fehlen von Halluzinationen hervor.",
+    "empfehlung": "Interpretation 3 liefert die höchste faktentreue Analyse und bleibt gleichzeitig textnah. Für zukünftige Bewertungen sollte man darauf achten, spekulative Globalisierungs‑ oder Digitalisierungs‑Bezüge zu vermeiden, sofern der Songtext keine entsprechenden Anhaltspunkte liefert."
+  }
+}

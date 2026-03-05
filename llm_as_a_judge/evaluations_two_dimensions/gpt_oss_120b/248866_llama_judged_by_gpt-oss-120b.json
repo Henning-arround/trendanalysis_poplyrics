@@ -1,0 +1,115 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung, dass sie \"nur in der Nacht\" auftauchen, unterstreicht die Vorstellung, dass die Nacht eine Zeit der Gefahr und des Schreckens ist, in der die normalen Regeln und Sicherheiten nicht mehr gelten.",
+          "Die Erwähnung von \"bell that tolls\" und \"Flash at the edge of my sight\" suggerieren eine Art von Warnsignal oder Vorzeichen, das die Ankunft dieser Kreaturen ankündigt, aber auch, dass sie immer gerade außerhalb des direkten Blickfelds bleiben, was die Angst und Unsicherheit noch verstärkt.",
+          "Der Refrain wird zu einem hypnotischen Mantra, das die Botschaft der ständigen Bedrohung und der Notwendigkeit, wachsam zu bleiben, immer wieder betont.",
+          "Die Zeilen deuten auf Verzweiflung und Angst hin, die mit der Unsicherheit und der ständigen Bedrohung durch diese nächtlichen Wesen einhergehen."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen beruhen direkt auf Textzitaten (z. B. die Nennung von \"You feel 'em lurking...\" und \"venom like no other\").",
+          "Die Analyse geht über reine Wiederholungen hinaus und verbindet einzelne Bildungen (z. B. \"bell that tolls\") mit einer interpretativen Deutung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung, dass sie \"nur in der Nacht\" auftauchen, unterstreicht die Vorstellung, dass die Nacht eine Zeit der Gefahr und des Schreckens ist, in der die normalen Regeln und Sicherheiten nicht mehr gelten.",
+          "Der Refrain wird immer wieder wiederholt, was die hypnotische und beunruhigende Wirkung des Songs verstärkt und den Hörer in eine Atmosphäre der Angst und des Schreckens zieht.",
+          "Die Zeilen deuten darauf hin, dass der Protagonist sich in einer Situation der extremen Unsicherheit befindet, in der er ständig auf der Hut sein muss, um nicht von den nächtlichen Bedrohungen überwältigt zu werden."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich eindeutig aus dem Songtext ableiten (z. B. \"tricking trolls\", \"venom like no other\", \"silent evil\").",
+          "Die Interpretation bleibt textnah, liefert konkrete Bezüge und vermeidet unbegründete biografische oder stilistische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die \"tricking trolls\" sind metaphorische Wesen, die in den Schatten lauern und nur nachts aktiv werden, um Chaos und Zerstörung zu bringen.",
+          "Die Wiederholung des Refrains betont, dass diese dunklen Kräfte nur in der Dunkelheit aktiv sind und der Protagonist in ständiger Bedrohungslage ist.",
+          "Die Zeile zeigt Angst und Unsicherheit des Protagonisten, der nicht sicher ist, was die Troll‑Wesen wollen, aber spürt, dass sie näher kommen.",
+          "Der Aufruf, wach zu bleiben, unterstreicht die Notwendigkeit, wachsam zu bleiben, um diese dunklen Kräfte abzuwehren.",
+          "Der Song kann als Metapher für Ängste und Unsicherheiten des Lebens interpretiert werden, die sich in der Dunkelheit manifestieren und die Notwendigkeit betonen, wachsam zu sein."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen beruhen auf im Text vorkommenden Formulierungen (z. B. \"They only come out at night\", \"tricking trolls\").",
+          "Die Interpretation liefert eine klare, wenn auch sehr allgemeine, Lesart des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die \"tricking trolls\" sind metaphorische Wesen, die in den Schatten lauern und nur nachts aktiv werden, um Chaos und Zerstörung zu bringen.",
+          "Die Zeilen unterstreichen, dass diese Wesen immer präsent, aber unsichtbar sind, bis die Nacht hereinbricht.",
+          "Die Wiederholung des Refrains betont, dass die Nacht die Zeit ist, in der diese dunklen Kräfte am stärksten sind.",
+          "Der Protagonist ist sich der Gefahr bewusst und versucht, wach zu bleiben, um die \"tricking trolls\" zu vermeiden.",
+          "Die Zeilen zeigen die Angst und Unsicherheit des Protagonisten, der sich von den dunklen Kräften umgeben fühlt.",
+          "Der Song kann als Metapher für die Ängste und Unsicherheiten des Lebens interpretiert werden, die sich in der Dunkelheit manifestieren und die Menschen bedrohen."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf zentrale Textpassagen (z. B. \"They only come out at night\", \"tricking trolls\").",
+          "Stellt eine zusammenhängende, wenn auch sehr generische, Deutung bereit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt, wie er diese Wesen spürt und ihre Anwesenheit hört, aber niemand ihm glaubt, weil sie immer verschwinden, wenn die Sonne aufgeht.",
+          "Die Annahme, dass die \"tricking trolls\" immer verschwinden, wenn die Sonne aufgeht, ist nicht im Text enthalten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Atmosphäre der Angst und des Unheils, die sich in der Dunkelheit der Nacht manifestiert.",
+          "Die \"tricking trolls\" sind metaphorische Wesen, die in den Schatten lauern und nur nachts aktiv werden, um Chaos und Zerstörung zu verbreiten.",
+          "Die \"tricking trolls\" symbolisieren möglicherweise die dunklen Seiten der menschlichen Natur, die in der Nacht, wenn soziale Normen weniger streng sind, zum Vorschein kommen.",
+          "Der Refrain wird wiederholt, um die Idee zu betonen, dass diese dunklen Kräfte nur in der Dunkelheit aktiv sind und man sich davor schützen muss, indem man wachsam bleibt.",
+          "Der Song kann auch als Metapher für die Ängste und Unsicherheiten des Lebens interpretiert werden, wobei die \"tricking trolls\" unkontrollierbare Kräfte darstellen, die uns in der Nacht heimsuchen und uns zwingen, uns zu verteidigen."
+        ],
+        "positive_aspekte": [
+          "Enthält einige korrekte Textbezüge (z. B. \"They only come out at night\", \"tricking trolls\").",
+          "Versucht, eine tiefere symbolische Ebene (Menschliche Natur) anzusprechen, auch wenn diese nicht explizit im Text verankert ist."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark im Detailgrad; einige bleiben sehr textnah (1,3), während andere stark verallgemeinern (2,5) oder erfundene Details einbringen (4). Die Varianz ist hoch.",
+    "empfehlung": "Interpretationen, die den Text eng verfolgen und gleichzeitig konkrete, aber nicht übertriebene Analysen liefern (wie Interpretation 1), erzielen die beste Balance zwischen Faktentreue und analytischer Tiefe. Modelle sollten darauf trainiert werden, spekulative Metaphern zu vermeiden, wenn sie nicht im Text verankert sind, und gleichzeitig mehr als reine Wiederholungen zu bieten."
+  }
+}

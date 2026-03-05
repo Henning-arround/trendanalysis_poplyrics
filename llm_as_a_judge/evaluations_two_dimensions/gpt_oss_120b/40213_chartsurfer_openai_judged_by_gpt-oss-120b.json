@@ -1,0 +1,92 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Klare Ableitung jeder Aussage aus dem Originaltext",
+          "Verknüpfung von Metaphern (Regen, Sand, Kerzenflamme) mit deren Bedeutung",
+          "Berücksichtigung von Narzissmus, Freundschaftsverlust und Bühnenmetapher",
+          "Keine spekulativen biografischen oder stilistischen Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, aber präzise Interpretation aller Strophen",
+          "Jede Metapher wird mit konkretem Textbezug erklärt",
+          "Schlüssige Verknüpfung von Bildsprache und emotionaler Entwicklung des Sprechers",
+          "Keine unbelegten biografischen Details"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Deutung von Bildsprache und Motivik",
+          "Erklärung von „magischer Jugend“, „Flammen“, „Bitterer Geschmack“ ausschließlich aus dem Songtext",
+          "Keine spekulativen Aussagen über Genre, Produktion oder Aznavours Leben"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse der Selbstbezogenheit (Narzissmus) aus der Zeile über Gespräche",
+          "Verknüpfung von „blauer Mond“ und „magischer Jugend“ mit der Illusion von Unendlichkeit",
+          "Durchgängige Texttreue ohne externe Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare, textbasierte Erläuterungen aller Bildlichkeiten",
+          "Erkenntnisse zu Egozentrik, Freundschaftsverlust und Bühnenmetapher werden direkt aus dem Text abgeleitet",
+          "Keine untermauerten Annahmen über Stil, Genre oder biografische Hintergründe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen identische Qualität: keine Halluzinationen, sehr tiefe, textbasierte Analyse. Die Varianz ist praktisch null.",
+    "empfehlung": "Da alle Modelle exakt den Songtext wiedergeben und tiefgehend interpretieren, gibt es keinen klaren Sieger. Für zukünftige Aufgaben sollte man jedoch darauf achten, dass Modelle nicht in die Versuchung geraten, biografische oder stilistische Details zu erfinden, die nicht im Text verankert sind."
+  }
+}

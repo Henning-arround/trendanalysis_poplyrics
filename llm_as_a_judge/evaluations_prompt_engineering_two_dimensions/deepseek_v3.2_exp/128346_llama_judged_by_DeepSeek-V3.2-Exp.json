@@ -1,0 +1,89 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine tiefe Unsicherheit und Verwirrung hin"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine Suche nach Sicherheit und Zugehörigkeit hin"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Wiederholung von Zeilen und Phrasen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine tiefe Unsicherheit und Verwirrung hin"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der literarischen Stilmittel im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine Suche nach Sicherheit und Zugehörigkeit hin"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine tiefe Unsicherheit und Verwirrung hin"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Wiederholung von Zeilen und Phrasen im Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songtextes, aber auch eine gewisse Oberflächlichkeit in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich bemühen, tiefer in die Analyse des Songtextes einzusteigen und weniger allgemeine Aussagen zu treffen"
+  }
+}

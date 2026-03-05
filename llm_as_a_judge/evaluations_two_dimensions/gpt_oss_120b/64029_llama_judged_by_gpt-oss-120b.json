@@ -1,0 +1,84 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig aus dem Songtext ableiten (z. B. „Höhen und Tiefen einer Beziehung“, „nicht wie im Film\", „We’re worth it all\").",
+          "Die Interpretation geht über reine Wiederholungen hinaus und nennt mehrere unterschiedliche Textstellen, was zu einer mittleren analytischen Tiefe führt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stimmt inhaltlich mit dem Text überein (z. B. Komplexität der Beziehung, das Motiv „nicht wie im Film“).",
+          "Mehrere eigenständige Aussagen zeigen ein strukturiertes Verständnis des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Texttreue Interpretation ohne spekulative Biografie‑ oder Genre‑Angaben.",
+          "Gute Balance zwischen Wiederholung von Kernaussagen und konkreten Bezügen zum Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Vollständig aus dem Songtext ableitbare Aussagen (z. B. „Liebe ist auf und ab“, „Wir werden alles durchstehen“).",
+          "Keine unnötigen Spekulationen, dafür mehrere differenzierte Punkte."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, insbesondere das Motiv „nicht wie im Film“ und die Wiederholung des Refrains.",
+          "Ergibt eine solide, wenn auch nicht tiefgründige, Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch; die Varianz ist minimal. Sie zeigen durchweg faktentreue, aber nur mittlere analytische Tiefe.",
+    "empfehlung": "Die aktuelle Modelle erzeugen sehr texttreue, aber wenig differenzierte Analysen. Für höhere Tiefen‑Scores sollten zukünftige Modelle stärker auf konkrete Textstellen eingehen, Mehrdeutigkeiten herausarbeiten und unterschiedliche Interpretationsmöglichkeiten diskutieren, ohne dabei spekulative Biografien oder Genre‑Zuweisungen einzuführen."
+  }
+}

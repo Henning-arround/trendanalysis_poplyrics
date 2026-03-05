@@ -1,0 +1,89 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle 11 Aussagen lassen sich eindeutig aus dem vorliegenden Songtext ableiten.",
+          "Sehr konkrete Textbezüge (z. B. „silky skin“, „It’s all an illusion“, „I know we could turn it right“).",
+          "Keine spekulativen biografischen oder genrebezogenen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt drückt der Song die Komplexität menschlicher Beziehungen und die Schwierigkeit aus, loszulassen, wenn man einen geliebten Menschen zu verlieren droht."
+        ],
+        "positive_aspekte": [
+          "10 von 11 Aussagen sind klar textbasiert und detailliert.",
+          "Gute Analyse von Stimmung und Wiederholungen im Refrain."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck der Sehnsucht und Verzweiflung, die entsteht, wenn man einen geliebten Menschen verlieren könnte."
+        ],
+        "positive_aspekte": [
+          "Alle 10 Aussagen (außer einer generischen) beruhen direkt auf Textzeilen.",
+          "Berücksichtigt sowohl die melancholische als auch die resignierte Nuance des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Vollständige Textbezüge, inkl. Interpretation von „It’s all an illusion“ und „Easier said than done“.",
+          "Konsistente Darstellung von Hoffnung und Melancholie."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identisch zu Interpretation 2 – komplett textbasiert und detailliert.",
+          "Erfasst sowohl die emotionale Dringlichkeit als auch die philosophische Ambivalenz des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch und zeigen kaum Varianz; sie bleiben streng textnah und vermeiden spekulative Ergänzungen.",
+    "empfehlung": "Die Modelle liefern konsistent faktentreue und tiefgehende Analysen. Für zukünftige Aufgaben sollte man darauf achten, generische Wiederholungen zu reduzieren, um die Bewertung noch stärker in Richtung 'sehr tiefgehend' zu lenken."
+  }
+}

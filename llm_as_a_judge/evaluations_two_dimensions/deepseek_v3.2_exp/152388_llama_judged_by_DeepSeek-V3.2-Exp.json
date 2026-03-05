@@ -1,0 +1,89 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine von Freude, Hingabe und unbedingter Hingabe an die Liebe ausstrahlt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und hervorhebend der zentralen Themen Liebe und Priorität."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine optimistische und euphorische Stimmung ausstrahlt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist ähnlich wie die erste, aber mit einem anderen Ausdruck für die Atmosphäre des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine eindringliche und optimistische Hymne an die Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen, aber teilweise oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine Atmosphäre der Einfachheit und Ehrlichkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und hervorhebend der zentralen Themen Liebe und Priorität."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine eindringliche und optimistische Hymne an die Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen, aber teilweise oberflächlich."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent in ihrer Texttreue, aber variieren in ihrer Tiefe.",
+    "empfehlung": "Die erste und vierte Interpretation sind die stärksten, da sie eine gute Balance zwischen Texttreue und analytischer Tiefe bieten."
+  }
+}

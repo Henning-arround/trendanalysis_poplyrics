@@ -1,0 +1,99 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'Sodom' verweist auf moralischen Verfall und Selbstzerstörung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wird zu einer kritischen Allegorie über menschliche Hybris"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt viele Aspekte des Textes ab, wie die Verführung durch materielle Güter und die Warnung vor Konsequenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen über 'Habgier und Geiz' kritisieren die Ausbeutung und das moralische Verkommen einer Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des 'endlosen Meeres' und des 'Schlammens in den Untiefen' verdeutlicht das Ausgeliefertsein an die Geschichte"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berührt wichtige Themen wie Gier und moralischen Verfall"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'Sodom' ist ein Hinweis auf moralischen Verfall, ein Ort, der aus den guten Menschen selbst erschaffen wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des 'Schiffs der Narren' suggeriert, dass die Menschheit kollektiv in die Irre geführt wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende Analyse der Themen und Metaphern im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Wort 'pay' suggeriert ein moralisches Rechnungswesen, das erst in der Zukunft vollendet wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Das 'Schiff der Narren' wird zum Träger einer kollektiven Schuld"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Rolle von Gier und Schuld in der Gesellschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Schiff wird zum Sinnbild einer Gesellschaft, die sich selbst in 'endlosen Meeren' der Geschichte verliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Wunsch nach Rettung drückt das individuelle Bewusstsein aus, das sich von dieser kollektiven Irreführung abgrenzen will"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der textlichen Elemente und ihrer Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber alle bieten wertvolle Einblicke in den Text",
+    "empfehlung": "Für eine umfassende Analyse des Songs 'Ship Of Fools' von World Party sollten Interpretationen 1, 3 und 5 berücksichtigt werden, da sie eine gute Balance zwischen Texttreue und analytischer Tiefe bieten"
+  }
+}

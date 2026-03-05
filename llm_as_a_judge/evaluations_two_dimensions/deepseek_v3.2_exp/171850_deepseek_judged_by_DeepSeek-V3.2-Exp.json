@@ -1,0 +1,99 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake reflektiert über seine Vergangenheit und wie er sich von seinen Idolen zu seinen Rivalen entwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Selbstreflexion des Künstlers über seine Karriere, sein Leben und seine Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Der Song enthält auch eine tiefere Selbstreflexion über Drake's Beziehungen zu Frauen und seine eigene Identität."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake reflektiert über seine Vergangenheit und wie er sich von seinen Idolen zu seinen Rivalen entwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Selbstreflexion des Künstlers über seine Karriere, sein Leben und seine Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Der Song enthält auch eine tiefere Selbstreflexion über Drake's Beziehungen zu Frauen und seine eigene Identität."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake betont seine Rolle als Vorbild und Einflussgröße, insbesondere für junge Künstler, die versuchen, in der Musikindustrie Fuß zu fassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine selbstbewusste und reflektierende Hymne, in der der Künstler seine Erfolge und Einflüsse auf die Musikszene hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Drake thematisiert auch die Vergänglichkeit von Erfolg und die Bedeutung von Dankbarkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake erwähnt seine Crew, die OVO Clique, und seine Freunde, die ihn unterstützen, und betont, dass sie alle gemeinsam Erfolg haben wollen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine selbstbewusste und reflektierende Hymne, in der der Künstler seine Erfolge und Einflüsse auf die Musikszene hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Drake reflektiert auch über die Veränderungen in seinem Leben, insbesondere in Bezug auf Beziehungen und die Musikszene."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake erwähnt seine Crew, die OVO Clique, und seine Freunde, die ihn unterstützen, und betont, dass sie alle gemeinsam Erfolg haben wollen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine selbstbewusste und reflektierende Hymne, in der der Künstler seine Erfolge und Einflüsse auf die Musikszene hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Drake reflektiert auch über die Veränderungen in seinem Leben, insbesondere in Bezug auf Beziehungen und die Musikszene."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf den Text beziehen und weniger spekulativ sein."
+  }
+}

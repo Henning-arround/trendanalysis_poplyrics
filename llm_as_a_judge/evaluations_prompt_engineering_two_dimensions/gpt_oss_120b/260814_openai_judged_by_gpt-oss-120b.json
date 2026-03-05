@@ -1,0 +1,85 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse einzelner Bildungen (z. B. Metapher des Clydes, die Rolle von Billy)",
+          "Klare Verknüpfung von Textstellen mit interpretativen Schlüssen",
+          "Erkennt die Mehrdeutigkeit des Songs und bleibt dabei streng textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Bildfragmenten, sozialen Milieus und räumlichen Referenzen",
+          "Gute Balance zwischen Beschreibung und Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Betonung von Gegenüberstellungen (z. B. Ann Kelly vs. Billy)",
+          "Konsistente Textbezüge, keine spekulativen Biografiedetails"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Herausarbeitung von Spannungsfeldern zwischen sozialen Gruppen und Symbolen",
+          "Bleibt bei allen Aussagen eng am Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Bildsprache (z. B. Feuerwerk, Tizer, rustikale Haken)",
+          "Verknüpft Textstellen mit einer plausiblen städtischen Lesart"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben stark textgebunden, es gibt kaum Varianz in der Halluzinationsrate (0 % erfundene Aussagen). Die Tiefen‑Scores schwanken nur leicht (4‑5), was auf eine konsistente, aber nicht identische Detailtiefe hindeutet.",
+    "empfehlung": "Interpretation 3 liefert die tiefste, zugleich texttreue Analyse und sollte als Vorbild dienen. Für zukünftige Bewertungen empfiehlt es sich, die klare, textbasierte Argumentationsstruktur von Interpretation 3 mit der strukturellen Übersicht von Interpretation 1 zu kombinieren, um sowohl Tiefe als auch Übersichtlichkeit zu maximieren."
+  }
+}

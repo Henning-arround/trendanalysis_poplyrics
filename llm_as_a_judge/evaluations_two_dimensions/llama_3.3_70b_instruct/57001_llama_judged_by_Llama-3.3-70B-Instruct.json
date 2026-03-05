@@ -1,0 +1,99 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin scheint in einer Welt zu leben, die von Oberflächlichkeit und Entfremdung geprägt ist, in der sie sich selbst verloren hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'Stay' kann als ein Ausdruck des Wunsches interpretiert werden, in dieser Beziehung zu bleiben, trotz ihrer destruktiven Natur"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen 'You say when he hits you you don't mind, Because when he hurts you you feel alive' und deutet sie als perverse Form von Befriedigung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Dämonen' und 'Engeln' am Ende des Songs deutet auf eine Art von spiritueller oder emotionaler Krise hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Songtexte malen ein Bild von einer Person, die in einer Welt der Entfremdung und des Schmerzes gefangen ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die 'satellite television' und 'talk shows' als Teil der Oberflächlichkeit und Entfremdung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Just the bang and the clatter as an angel runs to ground' am Ende des Songs kann als ein Symbol für den Zusammenbruch der Protagonistin und ihre Verzweiflung interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'Stay' kann als ein Ausdruck des Wunsches interpretiert werden, in dieser Beziehung zu bleiben, trotz ihrer destruktiven Natur"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen 'You say when he hits you you don't mind, Because when he hurts you you feel alive' und deutet sie als perverse Form von Befriedigung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Just the bang and the clatter as an angel runs to ground' am Ende des Songs kann als ein Symbol für den Zusammenbruch der Protagonistin und ihre Verzweiflung interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'Stay' kann als ein Ausdruck des Wunsches interpretiert werden, in dieser Beziehung zu bleiben, trotz ihrer destruktiven Natur"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen 'You say when he hits you you don't mind, Because when he hurts you you feel alive' und deutet sie als perverse Form von Befriedigung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Just the bang and the clatter as an angel runs to ground' am Ende des Songs kann als ein Symbol für den Zusammenbruch der Protagonistin und ihre Verzweiflung interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'Stay' kann als ein Ausdruck des Wunsches interpretiert werden, in dieser Beziehung zu bleiben, trotz ihrer destruktiven Natur"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen 'You say when he hits you you don't mind, Because when he hurts you you feel alive' und deutet sie als perverse Form von Befriedigung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent in ihrer Analyse der Textzeilen und ihrer Deutung als perverse Form von Befriedigung",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Textzeilen am besten analysiert und ihre Deutung als perverse Form von Befriedigung am überzeugendsten begründet"
+  }
+}

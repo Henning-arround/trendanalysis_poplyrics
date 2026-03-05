@@ -1,0 +1,99 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität zwischen der persönlichen und universellen Dimension der Liebe bleibt jedoch bestehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die Wiederholung der Zeile 'You're my number one' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Love is like the sun' ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird hier als etwas dargestellt, das über den mainstream-Erfolg hinausgeht und eine tiefere Bedeutung hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel tragen zur emotionalen Wirkung des Songs bei"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Zeile 'Love is everywhere' ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität zwischen der persönlichen und der öffentlichen Ebene der Liebe bleibt jedoch bestehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Zeile 'On top of the charts' angedeutet"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung der Zeile 'Love is like the sun' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird hier als etwas dargestellt, das über den mainstream-Erfolg hinausgeht und eine tiefere Bedeutung hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel tragen zur emotionalen Wirkung des Songs bei"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Zeile 'Love is everywhere' ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität zwischen der persönlichen und der öffentlichen Dimension der Liebe bleibt jedoch bestehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Zeile 'On top of the charts' angedeutet"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung der Zeile 'Love is like the sun' ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und ähneln sich stark",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

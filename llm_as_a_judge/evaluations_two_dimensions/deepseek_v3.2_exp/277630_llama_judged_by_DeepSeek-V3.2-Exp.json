@@ -1,0 +1,95 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene wechselt zu einer Atmosphäre von Gelächter und Alkoholkonsum auf der Veranda, wo die Anwesenden so tun, als ob nichts passiert sei, und alle eine Unschuldsmaske tragen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wirft somit Fragen über die Oberflächlichkeit und die Verdrängung von Problemen in einer Gemeinschaft auf, in der niemand die Verantwortung übernehmen oder die Wahrheit ansprechen möchte."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist größtenteils textbasiert und beleuchtet die zentralen Themen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene wechselt zu einer Atmosphäre von Gelächter und Alkoholkonsum auf der Veranda, wo die Anwesenden so tun, als ob nichts passiert sei, und alle eine Unschuldsmaske tragen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song suggeriert, dass die Wahrheit möglicherweise vertuscht oder ignoriert wird, und dass die Oberflächlichkeit und das Desinteresse der Menschen es ermöglichen, dass solche Vorfälle unbeachtet bleiben."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist größtenteils textbasiert und beleuchtet die zentralen Themen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre ist geprägt von einer Mischung aus Unschuld und Verdrängung, da jeder so tut, als ob nichts passiert sei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbasiert und bietet eine tiefere Analyse des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text suggeriert, dass die Gemeinschaft möglicherweise in die Tat verwickelt ist oder zumindest etwas zu verbergen hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song könnte als Kommentar zu sozialen Problemen wie Gewalt, Korruption oder Vertuschung in kleinen Gemeinschaften interpretiert werden, in denen jeder vorgibt, nichts zu wissen, um die Wahrheit zu verbergen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse des Songs und beleuchtet mögliche soziale Probleme."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre ist geprägt von einer Mischung aus Unschuld und Schuld, da jeder einen Heiligenschein zu tragen scheint, aber niemand die Wahrheit preisgibt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbasiert und bietet eine tiefere Analyse des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber die besten Interpretationen (3, 5) bieten eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die Interpretationen sollten sich bemühen, eine gute Balance zwischen Textreue und analytischer Tiefe zu finden, ohne in Halluzinationen oder Oberflächlichkeit zu verfallen."
+  }
+}

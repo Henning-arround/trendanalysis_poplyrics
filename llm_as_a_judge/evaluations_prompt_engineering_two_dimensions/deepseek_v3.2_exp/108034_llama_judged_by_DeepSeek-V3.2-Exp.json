@@ -1,0 +1,95 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Nonkonformität."
+        ],
+        "oberflächliche_aussagen": [
+          "Es geht um Identität, Beziehungen und Emotionalität."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den Songtext und liefert eine plausible Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Nonkonformität."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Spiegelbild der Unsicherheiten und Verwirrungen dieser Zeit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine allgemeine Analyse des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Nonkonformität."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes und mehrschichtiges Werk."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine allgemeine Analyse des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert die Komplexität und Vielschichtigkeit von Beziehungen und Identitäten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und liefert eine plausible Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die Komplexität und Vielschichtigkeit von Beziehungen und Identitäten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und liefert eine plausible Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz.",
+    "empfehlung": "Die vierte Interpretation liefert eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In kulturellem, historischem und gesellschaftlichem Sinn kann der Song als Kommentar zu den sozialen und politischen Unruhen der späten 1960er Jahre interpretiert werden.",
+          "Die Flower‑Power‑Bewegung und die Anti‑Krieg‑Bewegung prägten die Jugendkultur jener Zeit.",
+          "Der Songtext könnte als Reaktion auf die Verunsicherung und die Forderung nach Authentizität in einer Zeit des Umbruchs verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick eine simple, fast naive Botschaft vermittelt.",
+          "Die zentrale Aussage könnte als Befreiung oder Ehrlichkeit interpretiert werden.",
+          "Der Affe könnte für die unschuld‑kindliche Seite des Menschen stehen oder das Unterbewusstsein symbolisieren.",
+          "Die Zeile über Innen‑/Außen‑Verkehrtheit betont die Komplexität von Wahrnehmung und Identität.",
+          "Die Wiederholung von „Come on, let’s take it easy“ kann als Einladung zur Entspannung gesehen werden.",
+          "Die affektive Dimension erzeugt eine Atmosphäre von Freude und Optimismus, die durch tiefere Bedeutungsebenen untergraben wird.",
+          "Der Song bleibt ambig und lässt Raum für vielfältige Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Bezieht mehrere Textstellen (z. B. die Paradox‑Zeile und das „Inside‑Outside“-Motiv) ein.",
+          "Erkennt die Mehrdeutigkeit des Textes und verweist auf den historischen Kontext, ohne zu stark zu spekulieren."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "1968 war ein Jahr der weltweiten sozialen und politischen Umbrüche.",
+          "Der Song kann als Reaktion auf die Konventionen und Erwartungen der damaligen Gesellschaft interpretiert werden, in der Authentizität und Individualität zunehmend wichtig wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als komplexe Auseinandersetzung mit Authentizität, Freiheit und gesellschaftlichen Erwartungen gelesen werden.",
+          "Die meisten Menschen verbergen etwas, während der Sprecher und sein Monkey keine Geheimnisse haben.",
+          "Der Monkey steht symbolisch für Freiheit, Unschuld oder eine andere Facette des Selbst.",
+          "Die Wiederholung von „Take it easy“ drückt eine Sehnsucht nach Entspannung und Authentizität aus.",
+          "Die Zeilen schaffen ein paradoxes Bild von Tiefe und Höhe, das menschliche Komplexität andeutet.",
+          "Der Song wirkt leicht und verspielt, verbirgt aber Unsicherheit und Fragilität.",
+          "Der Song ist ein Kommentar zu den gesellschaftlichen Konventionen der späten 1960er Jahre."
+        ],
+        "positive_aspekte": [
+          "Nutzt konkrete Textzitate (z. B. „Everybody's got something to hide…“).",
+          "Erkennt das wiederkehrende Motiv von Innen‑/Außen‑Verkehrtheit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Kommentar zu den sozialen Konventionen und Verhaltenserwartungen der späten 1960er Jahre gesehen werden.",
+          "Die Flower‑Power‑Bewegung und die Counterculture stellten traditionelle Werte in Frage.",
+          "Der Song könnte als Ausdruck dieser Aufbruchsstimmung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick eine simple, fast naive Botschaft vermittelt.",
+          "Die zentrale Aussage könnte als Befreiung oder Ehrlichkeit interpretiert werden.",
+          "Der Affe könnte für die unschuld‑kindliche Seite des Menschen stehen oder das Unterbewusstsein symbolisieren.",
+          "Die Zeile über Innen‑/Außen‑Verkehrtheit betont die Komplexität von Identität.",
+          "Der Song oszilliert zwischen Leichtigkeit und Tiefe und zwischen der Aufforderung, es easy zu nehmen, und tieferen Zusammenhängen.",
+          "Der Song ist ambivalent und lädt zu tieferer Reflexion über Identität, Authentizität und die Rolle des Individuums ein."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textstellen mit dem historischen Kontext der 1960er‑Jahre.",
+          "Erkennt das wiederholte Motiv von „Take it easy“ als möglicher Aufruf zur Befreiung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Reaktion auf die gesellschaftlichen Konventionen und Erwartungen der 1960er Jahre gesehen werden.",
+          "Die Beatles als Teil der Counterculture thematisierten Authentizität und Ehrlichkeit in einer scheinheiligen Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick eine simple, fast naive Botschaft vermittelt.",
+          "Die zentrale Aussage könnte als Befreiung oder Ehrlichkeit interpretiert werden.",
+          "Der Affe könnte für die unschuld‑kindliche Seite des Menschen stehen oder das Unterbewusstsein symbolisieren.",
+          "Die Zeile über Innen‑/Außen‑Verkehrtheit betont die Komplexität von Identität.",
+          "Die Wiederholung von „Come on, let’s take it easy“ könnte ein Aufruf zur Entspannung und Befreiung von gesellschaftlichen Zwängen sein.",
+          "Der Song zeigt viele Bedeutungsebenen und symbolische Ordnungen, die Authentizität, Identität und gesellschaftliche Konventionen herausfordern."
+        ],
+        "positive_aspekte": [
+          "Bezieht mehrere Textpassagen (z. B. das „Inside‑Outside“-Motiv) ein.",
+          "Erkennt die mögliche Verbindung zur Gegenkultur der 60er‑Jahre."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann im Kontext der kulturellen und gesellschaftlichen Veränderungen der 1960er Jahre in Großbritannien und weltweit interpretiert werden.",
+          "Die Hippie‑Bewegung und die Counterculture suchten nach neuen Wegen, die traditionellen Werte zu hinterfragen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick eine simple, fast naive Botschaft vermittelt.",
+          "Die zentrale Aussage könnte als Befreiungserklärung gelesen werden, dass nur der Sänger und sein Monkey nichts zu verbergen haben.",
+          "Der Monkey kann als Symbol für die unschuldige, natürliche Seite des Menschen oder als Wesen außerhalb gesellschaftlicher Normen gesehen werden.",
+          "Die Zeile über Tiefe/Höhe ist ein Paradoxon, das die Komplexität des menschlichen Daseins widerspiegelt.",
+          "Die Zeilen erzeugen eine emotionale Wirkung, die zwischen Freiheit und Verunsicherung schwankt.",
+          "Der Text betont „Take it easy“ und „Make it easy“ als Aufruf zur Befreiung von Normen.",
+          "Die Wiederholung von „Everybody's got something to hide“ kann als Kritik an Heuchelei und Verlogenheit der Gesellschaft gelesen werden.",
+          "Der Song zeigt tiefe Ambiguität und Komplexität und ist ein interessantes Objekt für weitere Analysen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert das zentrale Paradoxon („The deeper you go, the higher you fly…“).",
+          "Verknüpft den Text mit dem historischen Kontext der 60er‑Jahre, ohne zu stark zu spekulieren."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen ein ähnliches Muster: viele oberflächliche, textunabhängige Aussagen und nur geringe bis moderate Halluzinationen. Die Varianz der Scores ist gering (alle Halluzination‑Score = 3, Tiefe‑Score = 2).",
+    "empfehlung": "Ein Ansatz, der stärker textgebundene Analysen liefert (z. B. konkrete Wort‑ und Strukturuntersuchungen) und weniger allgemeine, nicht belegte Kontextualisierungen, würde sowohl die Halluzinations‑ als auch die Tiefen‑Scores verbessern. Interpretation 3 ist leicht überlegen, weil sie die paradoxen Textstellen am besten herausarbeitet, bleibt aber insgesamt auf einem ähnlichen Niveau wie die anderen."
+  }
+}

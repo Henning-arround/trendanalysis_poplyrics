@@ -1,0 +1,96 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Diskrepanz zwischen äußerlicher Zärtlichkeit und innerer Leere verdeutlicht, dass wahre Nähe nicht durch Gesten, sondern durch ein authentisches, tiefes Band entsteht."
+        ],
+        "positive_aspekte": [
+          "Der Sprecher beginnt mit einem kindlichen Traum, in dem er sich vorstellt, dass Zuneigung ihm das Gegenstück zu seiner eigenen Hingabe liefert",
+          "Der Refrain, in dem das Wort \"memorable\" wiederholt wird, fungiert als Mantra, das die Hoffnung auf ein endgültiges, unverrückbares Glück verankert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Idealvorstellung wird jedoch durch die Erfahrung einer Liebe, die \"failed to make me feel\", konterkariert;"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe für ihn nicht bloß ein Gefühl, sondern ein moralisches Fundament ist, das sein Handeln legitimiert"
+        ],
+        "positive_aspekte": [
+          "Der Wunsch nach einer \"guten und wahren\" Liebe wird zum Leitmotiv, das das Bild einer idealen Partnerschaft zeichnet",
+          "Der Höhepunkt liegt in der Vorhersage, dass der bedeutendste Moment im Leben genau dann eintritt, wenn die geliebte Person \"zu mir gehört\"."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"My Life\" von Nat King Cole aus dem Jahr 1960 ist ein zärtliches Bekenntnis an die Sehnsucht nach einer vollkommenen, unverbrüchlichen Liebe"
+        ],
+        "positive_aspekte": [
+          "Der Erzähler beginnt mit einem kindlichen Traum, in dem er sich vorstellt, dass Zuneigung ihm das höchste Geschenk – das eigene Leben – wert ist",
+          "Der Refrain erhebt die Liebe zu einer Art Wunder, das sämtliche Traurigkeit aus dem Alltag tilgt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erfahrung einer \"Liebe, die nicht fühlen lässt\" und dem Wunsch nach einer \"love that's good and true\" stellt die Erfahrung einer oberflächlichen Beziehung gegen das Ideal einer tiefen, authentischen Bindung"
+        ],
+        "positive_aspekte": [
+          "Der Sprecher beginnt mit einem kindlichen Traum, in dem er sich vorstellt, dass Zuneigung ihm das Recht gibt, sein Leben über das bloße Existieren hinaus zu opfern",
+          "Der Refrain erhebt die Liebe zu einer Art Wunder, das sämtliche Traurigkeit aus dem Alltag tilgt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von \"My Life\" offenbart ein zärtliches, aber zugleich von Unsicherheit durchdrungenes Bild einer Sehnsucht nach einer tiefen, verbindlichen Liebe"
+        ],
+        "positive_aspekte": [
+          "Der Sprecher beginnt mit einem kindlichen Traum, in dem er sich vorstellt, dass Zuneigung ihm das Fundament für ein selbstloses Opfer liefert",
+          "Der Höhepunkt des Gedichts liegt in der Vision, dass das \"wichtigste Ereignis\" das Moment ist, in dem der geliebte Mensch vollständig \"zu ihm gehört\"."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

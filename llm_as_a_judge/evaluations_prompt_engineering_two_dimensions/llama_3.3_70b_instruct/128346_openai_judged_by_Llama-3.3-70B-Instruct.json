@@ -1,0 +1,99 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-digitale Ära als kultureller Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung von Schuld und Amnesie"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und ihre Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-moderne Reflexion über Identitätsfluidität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem unveränderten Selbst"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion über die Ambiguität zwischen Schuld und Unschuld"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zerbrechlichkeit moderner Subjektivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem sicheren Rückzugsort"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-digitale Selbst- und Besitzkrise"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Fragilität moderner Identitätskonstrukte"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion über die Ambiguität zwischen Schuld und Unschuld"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zerbrechlichkeit von Online-Identitäten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem sicheren Rückzugsort"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und ihre Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metaphern und ihrer Bedeutung",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA war dieser Song Teil einer breiteren christlichen Bewegung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA war dieser Song Teil einer breiteren christlichen Bewegung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA betrachtet werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der repetitive Strukturen und der affektiven Dimension ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre in den USA betrachtet werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der theologischen Vorstellungen ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song hat eine starke emotionale Wirkung und affektive Dimension"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Dankbarkeit und Freude"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der christlichen Lehre und der Symbolik ist gut durchgeführt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die Interpretationen sollten mehr auf die Analyse der literarischen Stilmittel und der theologischen Vorstellungen fokussieren, um eine tiefere Einsicht in den Song zu gewinnen"
+  }
+}

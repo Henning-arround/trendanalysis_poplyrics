@@ -1,0 +1,143 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, kann als eine Zeit der Exploration und des Experimentierens mit Identitäten und Beziehungen gesehen werden.",
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Nonkonformität.",
+          "Der Song ... kann in diesem Kontext als eine Art von Spiegelbild der Unsicherheiten und Verwirrungen dieser Zeit gesehen werden, die sich in den Ambiguitäten und Widersprüchen des Songs widerspiegeln."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Exploration von Identität, Beziehungen und Emotionalität.",
+          "Die zentrale Botschaft ... liegt in der Frage nach der Konsistenz und Authentizität in Beziehungen.",
+          "Diese Ambiguität ... wird durch die Verwendung von Metaphern ... unterstrichen, die die Veränderlichkeit und Vielschichtigkeit der Identität des anderen betonen.",
+          "Die literarischen Stilmittel ... tragen zur Schaffung einer emotionalen und affektiven Dimension bei.",
+          "Die Wiederholung von \"We smile\" kann als eine Art Maskierung ... interpretiert werden.",
+          "Die Zeile \"Your madness fits in nicely with my own\" deutet auf eine Art von symbiotischer Beziehung hin.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Auseinandersetzung mit der Frage, wie wir uns in Beziehungen zueinander verhalten ..."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textstellen (z. B. Zitate aus dem Song).",
+          "Erkennt wiederkehrende Motive wie Metaphern und Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Einbettung des Songs in den Kontext der 1980er Jahre, einer Zeit der Selbstfindung und experimenteller Kultur, könnte die Betonung von Individualität und Nonkonformität im Song erklären."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Exploration von Identität, Beziehungen und Emotionalität.",
+          "Die zentrale Botschaft ... liegt in der Frage nach der Konsistenz und Authentizität in Beziehungen.",
+          "Diese Ambiguität ... wird durch die Verwendung von Metaphern ... symbolisieren, die Veränderlichkeit und Vielschichtigkeit der Identität des anderen.",
+          "Die literarischen Stilmittel ... tragen zur Schaffung einer emotionalen Wirkung und affektiven Dimension bei.",
+          "Die Bilder von ... erzeugen eine Atmosphäre von Verletzlichkeit und Abhängigkeit von äußeren Faktoren.",
+          "Die Zeile \"When you're drunk you're terrific\" deutet auf eine Spannung zwischen der Oberfläche und der Tiefe in Beziehungen hin, wo Alkohol als Katalysator für echte Gefühle dient, aber auch die Unsicherheit und Unberechenbarkeit des anderen unterstreicht.",
+          "Die Wiederholung von \"We smile\" könnte als eine Art soziale Maske gesehen werden, die die Unsicherheiten und Verwirrungen in Beziehungen verdeckt.",
+          "Die Zeile \"Your madness fits in nicely with my own\" legt nahe, dass die Akzeptanz und das Teilen von Emotionalität und Verletzlichkeit eine zentrale Rolle in der Beziehung spielt."
+        ],
+        "positive_aspekte": [
+          "Verknüpft mehrere Textzitate miteinander und versucht, ein zusammenhängendes Bild zu erzeugen.",
+          "Erkennt die wiederholte Phrase \"We smile\" als potenzielles Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, kann als eine Zeit der Exploration und des Experimentierens mit Identitäten und Beziehungen gesehen werden.",
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Individualität.",
+          "Der Song ... kann in diesem Kontext als eine Reflexion über die Komplexität und Vielschichtigkeit von Beziehungen und Identitäten verstanden werden, die sich in einer ständig verändernden Welt bewegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Exploration von Identität, Beziehungen und Emotionalität.",
+          "Die zentrale Botschaft ... liegt in der Frage nach der Konsistenz und Authentizität in Beziehungen.",
+          "Diese Ambiguität ... wird durch die Verwendung von Metaphern ... betonen, die die Veränderlichkeit und Vielschichtigkeit der Identität des anderen.",
+          "Die literarischen Stilmittel ... tragen zur Schaffung einer emotionalen und affektiven Dimension bei.",
+          "Die Wiederholung von \"We smile\" kann als eine Art Maskierung ... interpretiert werden.",
+          "Die Zeile \"Your madness fits in nicely with my own\" deutet auf eine Art von symbiotischer Beziehung hin, in der die Emotionalität und Verletzlichkeit beider Partner ineinander greifen.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Auseinandersetzung mit den Spannungen und Widersprüchen, die in jeder Beziehung entstehen, und der Suche nach einer Art von Verständnis und Akzeptanz, die diese Ambiguitäten anerkennt und integriert."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Phrase \"We smile\" und versucht, deren Funktion zu erklären.",
+          "Bezieht sich auf mehrere konkrete Metaphern aus dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, kann als eine Zeit der Exploration und des Experimentierens mit Identitäten und Beziehungen gesehen werden.",
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Nonkonformität.",
+          "Der Song ... kann in diesem Kontext als eine Art von Spiegelbild der Unsicherheiten und Verwirrungen dieser Zeit gesehen werden, die sich in den Ambiguitäten und Widersprüchen des Songs widerspiegeln."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Exploration von Identität, Beziehungen und Emotionalität.",
+          "Die zentrale Botschaft ... liegt in der Frage nach der Konsistenz und Authentizität in Beziehungen.",
+          "Diese Ambiguität ... wird durch die Verwendung von Metaphern ... betonen, die die Veränderlichkeit und Vielschichtigkeit der Identität des anderen.",
+          "Die literarischen Stilmittel ... tragen zur Schaffung einer emotionalen und affektiven Dimension bei.",
+          "Die Wiederholung von \"We smile\" kann als eine Art Maskierung ... interpretiert werden.",
+          "Die Zeile \"Your madness fits in nicely with my own\" deutet auf eine Art von symbiotischer Beziehung hin, in der die Emotionalität und Verletzlichkeit beider Partner miteinander verflochten sind.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Auseinandersetzung mit der Frage, wie wir uns in Beziehungen zueinander verhalten ..."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit einer übergeordneten Interpretation von Identität und Wandel.",
+          "Erkennt die Symbolik von Meerestieren als Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, kann als eine Zeit der Exploration und des Experimentierens mit Identitäten und Beziehungen gesehen werden.",
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Individualität.",
+          "Der Song ... kann in diesem Kontext als eine Reflexion über die Komplexität und Vielschichtigkeit von Beziehungen und Identitäten verstanden werden, die sich in einer ständig verändernden Welt bewegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Exploration von Identität, Beziehungen und Emotionalität.",
+          "Die zentrale Botschaft ... liegt in der Frage nach der Konsistenz und Authentizität in Beziehungen.",
+          "Diese Ambiguität ... wird durch die Verwendung von Metaphern ... betonen, die die Veränderlichkeit und Vielschichtigkeit der Identität des anderen.",
+          "Die literarischen Stilmittel ... tragen zur Schaffung einer emotionalen und affektiven Dimension bei.",
+          "Die Wiederholung von \"We smile\" kann als eine Art Maskierung ... interpretiert werden.",
+          "Die Zeile \"Your madness fits in nicely with my own\" deutet auf eine Art von symbiotischer Beziehung hin, in der die Emotionalität und Verletzlichkeit beider Partner ineinander greifen.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Auseinandersetzung mit den Spannungen und Widersprüchen, die in jeder Beziehung entstehen, und der Suche nach einer Art von Verständnis und Akzeptanz, die diese Ambiguitäten anerkennt und integriert."
+        ],
+        "positive_aspekte": [
+          "Stellt klare Verbindungen zwischen den Bildmotiven (Meerestiere, Mondlicht) und möglichen Themen (Veränderung, Identität) her.",
+          "Bezieht sich auf die wiederholte Phrase \"We smile\" und bietet eine mögliche Deutung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 2.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen fast identische Argumentationsmuster, was zu hoher Oberflächlichkeit führt; nur Interpretation 1 enthält weniger erfundene Kontextualisierungen und erzielt daher die höchste Halluzinations‑Bewertung.",
+    "empfehlung": "Ein besserer Ansatz wäre, stärker textnah zu bleiben, konkrete Textstellen zu analysieren und spekulative historische oder biografische Aussagen zu vermeiden. Gleichzeitig sollte die Analyse mehr differenzierte, begründete Interpretationsmöglichkeiten (z. B. Mehrdeutigkeit von Metaphern) bieten, um die Tiefen‑Bewertung zu erhöhen."
+  }
+}

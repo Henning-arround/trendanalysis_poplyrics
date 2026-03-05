@@ -1,0 +1,104 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Selbstporträt, das zugleich die Mechanismen von Macht, Identität und Überlebensstrategie im urbanen Rap‑Milieu beleuchtet.",
+          "Durch die wiederholte Anrede „Bra“ und das Aufrufen von „Bruder“ entsteht ein kollektives Band, das die Zugehörigkeit zu einer Subkultur betont, in der Loyalität und Rivalität eng verwoben sind.",
+          "Die Zeilen „Berlin lebt, Dubai lebt“ verknüpfen lokale Street‑Credibility mit globalem Luxus, wodurch ein Bild von Aufstieg und Expansion entsteht, das den Künstler als transnationalen Akteur positioniert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textstellen (z. B. „Bra“, „Berlin lebt, Dubai lebt“, Gewaltmetaphern).",
+          "Bietet eine zusammenhängende Analyse, die verschiedene Themen (Marken, Gewalt, Identität) verknüpft."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Selbstporträt, das zugleich die Mechanismen von Macht, Identität und Überlebensstrategie im urbanen Rap‑Milieu beleuchtet.",
+          "Die häufige Verwendung von Gewaltmetaphern dient weniger einer wörtlichen Drohung als einer stilistischen Überzeichnung, die das Gefühl von Bedrohung und die Notwendigkeit, sich zu behaupten, dramatisiert.",
+          "Der Refrain, in dem immer wieder betont wird, dass er „jeden, den du liebst“ ficken würde, wirkt provokativ und zeigt eine radikale Ablehnung von Empathie."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Nutzt viele direkte Zitate aus dem Song (z. B. „jeden, den du liebst“, „Hurensöhne töten“).",
+          "Erklärt die Funktion von Markenreferenzen und Gewaltmetaphern im Kontext des Rap‑Genres."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Selbstporträt, das zugleich die Mechanismen von Macht, Identität und Überlebensstrategie im urbanen Rap‑Milieu beleuchtet.",
+          "Gleichzeitig wird das Bild des „Kappis“ und der Marken als Statussymbole eingesetzt, um den eigenen sozialen Aufstieg zu markieren und die Distanz zu denjenigen zu betonen, die das Vermögen des Künstlers nur spekulieren.",
+          "Die wiederholte Phrase „Ich fick’ jeden, den du liebst“ wirkt als hyperbolische Drohung, die die Angst vor emotionaler Bindung und die Unnachgiebigkeit des Rap‑Selbstschutzes unterstreicht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit einer Analyse von Status und Selbstschutz.",
+          "Erkennt wiederkehrende Muster (Marken, Gewalt, Wiederholungen) im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Selbstporträt, das zugleich als Machtdemonstration und als Manifest der urbanen Überlebensästhetik fungiert.",
+          "Die Gegenüberstellung von „Berlin lebt, Dubai lebt“ verknüpft lokale Street‑Credibility mit globalem Luxus, wodurch ein Spannungsfeld zwischen Herkunft und Aufstieg entsteht.",
+          "Der Text spielt mit Identitätsfragmenten – „Afghan‑Afghan, Hero‑Hero, Marok‑Marok“ – und suggeriert eine multikulturelle Herkunft, die gleichzeitig als Stolz und als Mittel zur Differenzierung von Mitbewerbern dient."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert und diskutiert die multikulturellen Referenzen im Text.",
+          "Verbindet die Marken- und Luxusreferenzen mit einer möglichen Selbstdarstellung des Künstlers."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Selbstporträt, das zugleich als Manifest einer hypermaskulinen, von Status und Gewalt geprägten Identität fungiert.",
+          "Gewalt wird in einer fast spielerischen Weise inszeniert, während gleichzeitig ein Bedrohungs‑ und Machtvakuum aufgebaut wird, das die Hörer*innen in ein Spannungsfeld zwischen Faszination und Abstoßung zieht.",
+          "Die wiederholte Phrase wirkt als provokante Verneinung von Bindungen und als Ausdruck einer nihilistischen Haltung, die persönliche Beziehungen als schwächend abtut."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Geht über reine Textanalyse hinaus und diskutiert die zugrundeliegende hypermaskuline Ideologie.",
+          "Verbindet Marken- und Gewaltreferenzen mit einer kritischen Betrachtung von Identität und Selbstbehauptung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Selbstporträt, Macht, Marken, Gewalt) und unterscheiden sich kaum in ihrer Substanz; die Varianz ist gering.",
+    "empfehlung": "Interpretation 4 liefert die tiefste, kontextuell reflektierte Analyse, indem sie die hypermaskuline Ideologie und die Ambivalenz von Status und Gewalt explizit thematisiert, während sie dennoch textnah bleibt. Für zukünftige Bewertungen sollte ein stärkeres Augenmerk auf belegbare Textbezüge gelegt werden, um Halluzinationen zu reduzieren."
+  }
+}

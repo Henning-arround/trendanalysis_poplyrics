@@ -1,0 +1,121 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Zum Beispiel wird die Küche von Peggy als ein Ort der Ruhe und der Sicherheit dargestellt…“ – diese Bewertung des Küchenraums ist nicht im Text belegt."
+        ],
+        "oberflaechliche_aussagen": [
+          "„Der Song … ist ein Beispiel für die Kulturwissenschaft…“",
+          "„Die Musik und die Textzeilen vermitteln eine Atmosphäre von Unruhe und Spannung…“",
+          "„Die Metaphern … helfen, die Emotionen und die Spannung zu verstärken.“",
+          "„Die Emotionale Wirkung des Liedes wird durch die Verwendung von Bildern und Metaphern verstärkt.“",
+          "„Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist durch die Verwendung von Metaphern und Symbolen verdeutlicht.“",
+          "„Insgesamt zeigt das Lied … die komplexe Struktur der sozialen Realität…“"
+        ],
+        "positive_aspekte": [
+          "Identifiziert mehrere Textstellen (z. B. „bullet hole“, „noises in the hall“, „blaster on the back porch“) und leitet daraus plausible symbolische Bedeutungen ab."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist die Zeit der 1980er Jahre, in der die soziale und politische Situation in Kanada … durch Gewalt und Verwirrung geprägt war.“ – keine Textgrundlage."
+        ],
+        "oberflaechliche_aussagen": [
+          "„Der Song … ist ein Beispiel für eine kritische und reflexive Textanalyse aus kulturwissenschaftlicher Perspektive.“",
+          "„Die thematische Komplexität des Liedes liegt in der Kombination von alltäglicher Routine und dramatischen Ereignissen…“",
+          "„Die Metaphern und Symbole des Liedes sind vielschichtig und reflektieren die komplexe Struktur der sozialen Realität.“",
+          "„Die Emotionale Wirkung des Liedes ist stark und reflektiert die Spannungen und Widersprüche der sozialen Realität.“",
+          "„Die tiefere Bedeutungsebene des Liedes liegt in der Reflexion auf die Auswirkungen von Gewalt und Verwirrung…“",
+          "„Insgesamt ist … ein Beispiel für eine kritische und reflexive Textanalyse …“"
+        ],
+        "positive_aspekte": [
+          "Stellt klare Bezüge zu konkreten Bildmotiven des Textes her (Küche, Bullethole, Lachen wie Regen, Halo) und interpretiert deren symbolische Funktion."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist die Zeit der 1980er Jahre, in der die soziale und politische Situation in Kanada … durch Gewalt und Verwirrung geprägt war.“ – nicht aus dem Songtext ableitbar."
+        ],
+        "oberflaechliche_aussagen": [
+          "„Der Song … ist ein Beispiel für eine kritische und reflexive Textanalyse aus kulturwissenschaftlicher Perspektive.“",
+          "„Die thematische Komplexität … liegt in der Kombination von alltäglicher Routine und dramatischen Ereignissen…“",
+          "„Die Metaphern und Symbole des Liedes sind vielschichtig und reflektieren die komplexe Struktur der sozialen Realität.“",
+          "„Die Emotionale Wirkung des Liedes ist stark und reflektiert die Spannungen und Widersprüche der sozialen Realität.“",
+          "„Die tiefere Bedeutungsebene des Liedes liegt in der Reflexion auf die Auswirkungen von Gewalt und Verwirrung…“",
+          "„Insgesamt zeigt das Lied … die komplexe Struktur der sozialen Realität und die Auswirkungen von Gewalt und Verwirrung…“"
+        ],
+        "positive_aspekte": [
+          "Gute Detailgenauigkeit bei der Zuordnung von Symbolen (Küche, Bullethole, Lachen, Halo) zu möglichen Bedeutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Zum Beispiel wird die Küche von Peggy als ein Ort der Ruhe und der Sicherheit dargestellt…“ – diese Interpretation ist nicht im Text verankert."
+        ],
+        "oberflaechliche_aussagen": [
+          "„Der Song … ist ein Beispiel für die Kulturwissenschaft…“",
+          "„Die Musik und die Textzeilen vermitteln eine Atmosphäre von Unruhe und Spannung…“",
+          "„Die Metaphern und Symbole … helfen, die Emotionen und die Spannung zu verstärken.“",
+          "„Die Emotionale Wirkung des Liedes wird durch die Metaphern und Symbole verstärkt.“",
+          "Wiederholungen von Sätzen über „Blaster on the back porch“ und „Police arrive“ ohne neue Analyse.",
+          "„Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist durch die Metaphern und Symbole verdeutlicht.“"
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Bildmotive (Blaster, Police, Bullet Hole) und verbindet sie mit dem Thema Gewalt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflaechliche_aussagen": [
+          "„Der Song … ist ein Beispiel für eine kritische und reflexive Textanalyse aus kulturwissenschaftlicher Perspektive.“",
+          "„Die thematische Komplexität … liegt in der Kombination von Alltagsrealität und symbolischer Bedeutung…“",
+          "Mehrfache Wiederholungen der gleichen Analyse zu „noises in the hall“, „laughter falling down like rain“ und „halo“.",
+          "„Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist die soziale und kulturelle Umgebung…“",
+          "Lange Sätze, die die „komplexe Struktur der sozialen und kulturellen Kontexte“ beschreiben, ohne neue Einsichten."
+        ],
+        "positive_aspekte": [
+          "Stellt klare, textbasierte Interpretationen zu den Schlüsselbildern (Bullet Hole, Noises, Laughter, Halo) bereit und vermeidet unbelegte biografische oder historische Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Interpretationen 2 und 3 zeigen hohe Redundanz und viele oberflächliche Wiederholungen, was die Tiefe mindert. Interpretation 4 ist konsistenter, weil sie kaum Wiederholungen enthält und sich streng am Text orientiert.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man die Texttreue von Interpretation 4 mit der etwas tieferen, aber dennoch textbasierten Analyse von Interpretation 1 kombinieren. Das liefert sowohl geringe Halluzinationen als auch mehr differenzierte, substanzielle Einsichten."
+  }
+}

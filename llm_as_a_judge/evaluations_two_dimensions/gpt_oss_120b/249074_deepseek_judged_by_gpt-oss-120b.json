@@ -1,0 +1,116 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine charmante und nostalgische Ballade, die die Magie einer Nacht mit einer geliebten Person einfängt.",
+          "Der Text hat einen leicht patriarchalischen Unterton, aber die Gesamttonalität bleibt liebevoll und optimistisch.",
+          "Der Refrain ... unterstreicht die Idee, dass die Frau die Nacht zum Leben erweckt und der Sänger sich von ihr angezogen fühlt.",
+          "Die Wiederholung des Refrains und die Verwendung von Reimen und Metren erzeugen eine hypnotische Wirkung, die den Hörer in die Welt des Songs zieht.",
+          "Insgesamt ist \"Sleepy Time Gal\" ein zeitloser Klassiker, der die Schönheit einer Nacht mit einer geliebten Person einfängt und die Zuhörer in eine vergangene Ära entführt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. Tanz, Kuss, Bau eines Cottages, Kochen & Nähen).",
+          "Die Interpretation bleibt faktentreu und enthält keine erfundenen biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit und spiegelt die sozialen Normen und Erwartungen an Frauen in den 1950er Jahren wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine charmante und nostalgische Ballade, die die Magie einer Nacht mit einer geliebten Person einfängt.",
+          "Der Text hat einen leicht patriarchalischen Unterton, aber die Gesamttonalität des Songs ist eher süß und harmlos.",
+          "Der Refrain ... unterstreicht die Idee, dass die Frau die Nacht zum Leben erweckt und der Sänger sich von ihr angezogen fühlt.",
+          "Dennoch bleibt \"Sleepy Time Gal\" ein charmanter und unterhaltsamer Song, der die Zuhörer in eine vergangene Ära entführt."
+        ],
+        "positive_aspekte": [
+          "Alle faktischen Punkte (Tanz, Kuss, Cottage, Kochen & Nähen) sind textbasiert.",
+          "Erkennt den leicht patriarchalischen Unterton, was eine sinnvolle Kontextualisierung darstellt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und die Stimme von Bing Crosby tragen dazu bei, eine warme und intime Atmosphäre zu schaffen, die den Hörer in die Welt des Songs hineinzieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine charmante und nostalgische Ballade, die die Magie einer Nacht mit einer geliebten Person einfängt.",
+          "Der Text hat einen leicht patriarchalischen Unterton, aber die Gesamttonalität bleibt liebevoll und zärtlich.",
+          "Der Refrain ... unterstreicht die Frau's Fähigkeit, die Zeit zu vertreiben und die Nacht zu genießen.",
+          "Der Song ist ein Tribut an die Schönheit einer Nacht mit einer geliebten Person und die Hoffnung auf eine gemeinsame Zukunft."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Textstellen zu den Aussagen über Tanz, Kuss, Cottage, Kochen & Nähen.",
+          "Erwähnt den patriarchalischen Unterton, was eine kritische Analyse ermöglicht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine charmante und nostalgische Ballade, die die Magie einer Nacht mit einer geliebten Person einfängt.",
+          "Der Song hat eine warme und intime Atmosphäre, die die Zuneigung und Zärtlichkeit zwischen den beiden Personen widerspiegelt.",
+          "Der Refrain ... unterstreicht die Idee, dass die Frau die Nacht zum Leben erweckt und der Sänger sich von ihr angezogen fühlt.",
+          "Der Song ist auch ein Tribut an die Freude und Unbeschwertheit des Tanzens und der Nacht, die jedoch auch ein Ende haben muss.",
+          "Insgesamt ist \"Sleepy Time Gal\" ein zeitloser Klassiker, der die Schönheit einer Nacht mit einer geliebten Person einfängt und die Sehnsucht nach einem Zuhause und einer gemeinsamen Zukunft ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Alle faktischen Behauptungen (Tanz, Kuss, Cottage, Kochen & Nähen) sind direkt aus dem Text ableitbar.",
+          "Keine erfundenen historischen oder biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine charmante und nostalgische Ballade, die die Magie einer Nacht mit einer geliebten Person einfängt.",
+          "Der Song hat eine warme und intime Atmosphäre, die die Zuneigung und Zärtlichkeit zwischen den beiden Personen widerspiegelt.",
+          "Der Refrain ... unterstreicht die Idee, dass die Frau die Nacht zum Leben erweckt und der Sänger sich von ihr angezogen fühlt.",
+          "Der Song ist auch ein Tribut an die Freude und Unbeschwertheit des Tanzens und der Nacht, die jedoch auch ein Ende haben muss.",
+          "Insgesamt ist \"Sleepy Time Gal\" ein zeitloser Klassiker, der die Schönheit einer Nacht mit einer geliebten Person einfängt und die Sehnsucht nach einem Zuhause und einer gemeinsamen Zukunft ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Vollständig textbasierte Analyse ohne erfundene Fakten.",
+          "Gute Balance zwischen Beschreibung des Inhalts und allgemeiner Bewertung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundinhalte; die Varianz liegt hauptsächlich in der Menge an oberflächlichen bzw. erfundenen Aussagen. Diejenigen mit Score 5 (2,3,4) vermeiden Halluzinationen, während 1 und 5 je eine kleine erfundene Aussage enthalten.",
+    "empfehlung": "Interpretationen, die strikt am Text bleiben und keine zusätzlichen biografischen oder historischen Behauptungen einführen (z. B. Interpretation 2), erzielen die höchste Faktentreue. Für tiefere Analysen sollten mehr textbezogene Stil‑ und Struktur‑Beobachtungen (wie in Interpretation 3) ergänzt werden, ohne vage Allgemeinplätze zu verwenden."
+  }
+}

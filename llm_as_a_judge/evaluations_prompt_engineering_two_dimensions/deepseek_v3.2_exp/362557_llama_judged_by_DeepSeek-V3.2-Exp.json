@@ -1,0 +1,100 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Work it out let everybody dance' und 'To be beautiful' deuten auf die Idee hin, dass der Körper durch Tanz und Bewegung zu einem schönen und perfekten Objekt gemacht werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die Verbindung zwischen Tanz, Körper und Gesellschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Warming up' und 'Cooling down' können als eine Art von innerem Konflikt interpretiert werden, der den Hörer auffordert, sich zwischen der Anstrengung und der Entspannung zu entscheiden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit",
+          "Die Wiederholung von 'Shake a leg' und 'Dance, dance, dance' kann als eine Art von hypnotischer Aufforderung interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die Verbindung zwischen Tanz, Körper und Gesellschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'To be beautiful' deutet auf die Schönheitsideale der 1980er Jahre hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die Verbindung zwischen Tanz, Körper und Gesellschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Work it out let everybody dance' und 'To be beautiful' deuten auf die Idee hin, dass der Körper durch Tanz und Bewegung zu einem schönen und perfekten Objekt gemacht werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die Verbindung zwischen Tanz, Körper und Gesellschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Work it out let everybody dance' und 'To be beautiful' deuten auf die Idee hin, dass der Körper durch Tanz und Bewegung zu einem schönen und perfekten Objekt gemacht werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die Verbindung zwischen Tanz, Körper und Gesellschaft."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Berücksichtigung des historischen Kontexts und der Verbindung zwischen Tanz, Körper und Gesellschaft.",
+    "empfehlung": "Die Interpretationen sollten sich auf eine tiefere Analyse des Songtextes konzentrieren und weniger auf allgemeine Aussagen zurückgreifen."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben eine Landschaft, die von Schnee bedeckt ist, was metaphorisch für die Kälte und Leere steht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Hauptthemen des Songs wie Sehnsucht und Hoffnung ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben eine Landschaft, die von Schnee bedeckt ist, was metaphorisch für die Kälte und Leere steht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Hauptthemen des Songs wie Sehnsucht und Hoffnung ab"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe stark genug ist, um auch über große Entfernungen und Zeiträume hinweg Bestand zu haben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tiefer auf die emotionale Bindung zwischen den Liebenden ein"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe stark genug ist, um auch über große Entfernungen und Zeiträume hinweg Bestand zu haben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tiefer auf die emotionale Bindung zwischen den Liebenden ein"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe stark genug ist, um auch über große Entfernungen und Zeiträume hinweg Bestand zu haben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tiefer auf die emotionale Bindung zwischen den Liebenden ein"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine höhere Konsistenz in der Tiefe und Textreue",
+    "empfehlung": "Eine Kombination aus textgetreuer Analyse und tiefer emotionaler Interpretation, wie in Interpretation 3, 4 und 5, führt zu den überzeugendsten Ergebnissen"
+  }
+}

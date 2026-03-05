@@ -1,0 +1,99 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die informelle Anrede 'baby' und das kollektive 'We can get together' verweisen auf die damals verbreitete Popkultur‑Sprache"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Dualität – Befreiung im Ausdruck des Begehrens und gleichzeitige Verhaftung in einer romantischen Erwartungshaltung – bleibt ungelöst"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die stilistischen Elemente des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sprecherin schildert ihre Trennung als 'cry[ing]' und kontrastiert dies mit dem flüchtigen Glücksgefühl, wenn sie zusammen ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von 'Wrong or right' erzeugt ein Spannungsfeld zwischen moralischer Bewertung und reinem Verlangen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Zwiespältigkeit weiblicher Sexualität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anrede 'boy' und die Betonung von emotionaler Bedürftigkeit spiegeln einerseits das Fortbestehen klassischer Geschlechterrollen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Fehlen einer narrativen Entwicklung – das Lied bleibt in einer Schleife aus Hoffnung und Zweifel – erzeugt eine fast hypnotische Wirkung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die historischen und kulturellen Aspekte des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrede 'boy' fungiert sowohl als direkte Anrede als auch als Symbol für ein idealisiertes, jugendliches Liebesobjekt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Struktur des Refrains, in dem das Wort 'together' mehrfach isoliert wird, erzeugt ein hypnotisches Mantra"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Mehrdeutigkeit des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Dusty Springfields Stimme verkörpert einerseits das eigenständige Ausdrücken von Sehnsucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Das wiederholte 'hope' fungiert dabei nicht nur als emotionaler Antrieb, sondern auch als symbolische Handlungsfähigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse des Songs und seiner kulturellen Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die fünfte Interpretation bietet die tiefste und textbezogenste Analyse des Songs"
+  }
+}

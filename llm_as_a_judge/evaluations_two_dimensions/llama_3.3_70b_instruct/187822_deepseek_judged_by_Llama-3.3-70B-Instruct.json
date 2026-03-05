@@ -1,0 +1,99 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt, wie er immer noch mit den Erinnerungen an seine ehemalige Partnerin kämpft und ihren Namen im Schlaf flüstert, während sie offenbar bereits weitergelebt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Frage, wie sie es geschafft hat, sein Herz so leicht zu brechen, zieht sich wie ein roter Faden durch den Song."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die emotionale Verletzung und Verzweiflung des Sängers"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger glaubt, dass seine Partnerin bereits von Beginn an wusste, dass sie ihn nicht wirklich lieben konnte und dass er nur eine vorübergehende Episode in ihrem Leben war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung von Anfang an zum Scheitern verurteilt war."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Verblendung in der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger glaubt, dass seine Partnerin bereits von Beginn an wusste, dass sie ihn nicht wirklich lieben konnte und dass er nur eine vorübergehende Episode in ihrem Leben war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung von Anfang an zum Scheitern verurteilt war."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Verblendung in der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger fragt sich, ob er nur gesehen hat, was er sehen wollte, und ob seine Partnerin bereits plante, ihn zu verlassen, während sie gemeinsam Zeit verbrachten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist auch eine Reflexion über die Verblendung in der Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die emotionale Verletzung und Verzweiflung des Sängers und reflektiert über die eigene Verblendung in der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics lassen darauf schließen, dass der Sänger sich fragt, ob seine Partnerin von Anfang an geplant hatte, ihn zu verlassen, und ob sie ihn nur benutzt hat, um ihre eigenen Bedürfnisse zu befriedigen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erinnerung an die gemeinsamen Nächte und die Frage, ob sie bereits damals geplant hatte, ihn zu verlassen, unterstreichen den Schmerz und die Verwirrung des Sängers."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Verletzlichkeit und den Schmerz eines Menschen, der von einer Beziehung enttäuscht wurde"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die beste Interpretation (Interpretation 4) balanciert Textreue mit analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation ist die, die den Text am besten analysiert und die emotionale Verletzung und Verzweiflung des Sängers beschreibt, ohne zu viele unbelegte Aussagen zu machen."
+  }
+}

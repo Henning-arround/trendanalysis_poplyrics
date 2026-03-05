@@ -1,0 +1,116 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist im Kontext der frühen 2010‑Hip‑Hop‑Szene verortet, in der Selbst‑Branding, Markenkooperationen und das Spiel mit Authentizität zentrale Diskurse waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt ein paradoxes Verhältnis von Selbstinszenierung und Verantwortung.",
+          "Stilistisch nutzt Drake ein dichtes Netz aus Metaphern und kulturellen Referenzen."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Analysen zu „Mahalo…“, „Patron straight up“, Gegenüberstellung von „good girls“/„bad ones“, narrative Sprünge).",
+          "Die Interpretation bleibt textnah und liefert detaillierte, differenzierte Analysen ohne übermäßige Spekulation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Werk wird historisch in den frühen 2010‑Jahren verortet, in denen OVO Clique und Red Wing Boot Gang als Symbol für die wachsende Marken‑ und Netzwerk‑Ökonomie im Rap fungierten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Spannungsfeld zwischen Selbstinszenierung und kollektiver Erwartungshaltung.",
+          "Stilistisch nutzt Drake ein dichtes Netzwerk aus Metaphern und Pop‑Kultur‑Referenzen."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen sind direkt aus dem Text ableitbar (z. B. Analyse von „Mahalo“, „Patron“, „hardest act to follow“, die „game in which the cards are facing down“-Metapher).",
+          "Die Interpretation verbindet Textbelege mit einer konsistenten, tiefgehenden Analyse der Ambivalenz von Stolz und Selbstzweifel."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambivalenz spiegelt die post‑moderne Kultur des schnellen Konsums von Ruhm wider.",
+          "Kulturell verortet sich das Stück im Übergang von Hip‑Hop‑Machtstrukturen zu einer globalisierten Marken‑Identität.",
+          "Historisch lässt sich die Reflexion über das „Ritual“ des Dankes als Reaktion auf die digitale Ära lesen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Spannungsfeld zwischen Selbstinszenierung und kollektiver Erwartungshaltung.",
+          "Stilistisch nutzt Drake ein Kaleidoskop aus Metaphern und Pop‑Kultur‑Referenzen."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche konkrete Textbelege (z. B. „Mahalo…“, „Patron straight up“, „good girls“/„bad ones“, „poolside drinking…“, OVO‑ und ATF‑Referenzen) werden analysiert.",
+          "Die Interpretation liefert eine differenzierte Sicht auf die fragmentierte Ich‑Darstellung und die kulturelle Marken‑Ästhetik."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambivalenz spiegelt die post‑moderne Kultur der sofortigen Gratifikation wider.",
+          "Im historischen Kontext des Jahres 2010 verhandelt der Track Fragen von Authentizität, Kommerzialisierung und sozialer Verantwortung.",
+          "Die Zeile „I rep the ATF…“ verknüpft das Bild des Künstlers mit staatlicher Kontrolle."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Spannungsfeld zwischen Selbstinszenierung und kollektiver Erwartungshaltung.",
+          "Stilistisch nutzt Drake ein Kaleidoskop aus Metaphern, Symbolen und intertextuellen Anspielungen."
+        ],
+        "positive_aspekte": [
+          "Viele Analysen beruhen direkt auf Textstellen (z. B. „Mahalo…“, „flows for the Marilyn Monroes“, „hardest act“/„black sheep“, narrative Sprünge).",
+          "Die Interpretation verbindet diese Belege mit einer kritischen Betrachtung von Oberflächlichkeit und Selbstkritik."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambivalenz spiegelt die post‑moderne Kultur des schnellen Konsums von Ruhm wider.",
+          "Kulturell verortet sich das Werk im Übergang von Hip‑Hop‑Machtstrukturen zu einer globalisierten Marken‑Ästhetik.",
+          "Historisch lässt sich die Zeile „I feel like Nas…“ als Selbstpositionierung im Erbe des bewussten Rap interpretieren.",
+          "Die Aussage „I’m the black sheep but Chris Farley wears the crown“ betont die Ironie einer Außenseiter‑Identität."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Spannungsfeld zwischen Selbstinszenierung und kollektiver Erwartungshaltung.",
+          "Stilistisch nutzt Drake ein Kaleidoskop aus Metaphern und Pop‑Kultur‑Referenzen."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textbelege werden detailliert analysiert (z. B. „Mahalo…“, „Patron straight up“, „good girls“/„bad ones“, OVO‑ und ATF‑Referenzen).",
+          "Die Interpretation zeigt ein gutes Gespür für die fragmentierte Erzählstruktur und die Mehrdeutigkeit des Refrains."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen zentrale Kernthesen (Refrain‑Analyse, Marken‑Referenzen, Ambivalenz). Die Varianz liegt hauptsächlich im Umfang der historischen/kulturellen Kontextualisierung – einige gehen stärker spekulativ (Interpretationen 1, 2, 4) während 3, 5 stärker textnah bleiben.",
+    "empfehlung": "Interpretation 1 bietet die beste Balance aus Texttreue und analytischer Tiefe bei gleichzeitig geringem Halluzinationsanteil. Für zukünftige Analysen sollte der Fokus auf belegbare Textstellen bleiben und spekulative Kultur‑ oder Geschichtskontexte nur dann einfließen, wenn sie klar aus dem Text ableitbar sind."
+  }
+}

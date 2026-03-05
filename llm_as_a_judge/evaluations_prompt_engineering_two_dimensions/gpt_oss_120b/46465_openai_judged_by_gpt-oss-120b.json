@@ -1,0 +1,109 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Nach‑Stag‑Rock‑Ära der 1970er‑Jahre einordnen, in der Rockbands vermehrt Themen von Konsum, Selbstoptimierung und sozialer Transaktion thematisierten.",
+          "Die wiederholte Forderung nach „do it over and over again“ spiegelt die aufkommende Kultur des Wiederholkonsums und der Dauerwerbung wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit hält das Stück im Spannungsfeld zwischen Gemeinschafts‑ und Selbst‑Zweck."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich klar aus dem Songtext ableiten.",
+          "Gute strukturelle Analyse (Stil, Metaphern, Wiederholungen).",
+          "Erkennt die Ambivalenz von „mercy“/„lawdy“ und die wiederholte Frage nach Gegenwert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Metaphorisch wird das „Scratching“ zum Symbol für körperliche, aber auch psychische Befriedigung; gleichzeitig fungiert es als Bild für das „Zurückziehen“, das die Flüchtigkeit sozialer Bindungen in den 1970‑Jahren reflektiert.",
+          "Historisch lässt sich das Stück in die Post‑Hippie‑Ära einordnen, in der Konsens‑ und Tauschmodelle zunehmend hinterfragt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit eröffnet einen Raum für verschiedene Deutungen – von einer spielerischen, fast karikaturhaften Darstellung von Freundschaft bis hin zu einer kritischen Reflexion über die Konditionalität menschlicher Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft formale Merkmale (Wiederholungen, Lautmalerei) mit inhaltlichen Bedeutungen.",
+          "Erklärt, wie das Refrain‑Motiv sowohl Angebot als auch Forderung darstellt.",
+          "Bezieht die Zeile „there must be someone with enough“ in die Analyse von Ausbeutung ein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1976 in einer Phase post‑1960er‑Kritik an Konsum‑ und Beziehungsmodellen entstanden, in der gegenseitige Nutzenmaximierung zunehmend hinterfragt wurde.",
+          "Die offene Formulierung von „do it over and over“ reflektiert die damalige Popkultur‑Tendenz zu Wiederholungs‑ und Loop‑Strukturen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Nutzung von Zitaten aus dem Text zur Untermauerung der Analyse.",
+          "Erklärt das rhetorische „Mantra“ von „mercy mercy / lawdy lawdy“ und seine doppelte Funktion.",
+          "Verknüpft die fragmentarischen Fragen mit dem Motiv der ständigen Bestätigungssuche."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Nach‑1970er‑Jahre einordnen, in denen britische Rock‑Bands vermehrt Konsum‑ und Beziehungs‑Kritik thematisierten.",
+          "Die Textambiguitäten – etwa das gleichzeitige Versprechen von Unterstützung und das Eingeständnis, dass das Gegenüber „out of sight“ schnell vergessen wird – erzeugen Spannungen, die das Stück als Kommentar zu flüchtigen, vertraglichen Beziehungen im Kontext einer sich beschleunigenden Konsumgesellschaft offenlassen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Verknüpfung von formalen Elementen (Liturgie‑ähnliche Wiederholungen) mit inhaltlicher Ambivalenz.",
+          "Erklärt die Bedeutung von „lawdy“ als religiöse Verballhornung.",
+          "Analysiert die Zeile „there must be someone with enough“ als offene Frage nach Gegenwert."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1976 in einer Phase des wirtschaftlichen Umbruchs und der beginnenden Individualisierung im Vereinigten Königreich zu verorten; das Bild des wechselseitigen Kratzens kann als ironische Reflexion der damals wachsenden „self‑service“‑Kultur gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit hält das Stück im Spannungsfeld zwischen Gemeinschafts‑ und Selbst‑Zweck."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse von Metaphern (z. B. „Just a little bit higher“, „mercy“, „lawdy“).",
+          "Erklärt, wie Lautmalereien ein rituelles Mantra erzeugen.",
+          "Verbindet die Textstelle „when I’m out of sight then I’m out of mind“ mit dem bekannten Sprichwort und diskutiert deren Implikation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen eine relativ homogene Tiefe (alle 4‑Punkte) und nur leichte Schwankungen bei Halluzinationen (einzige Interpretation mit Score 4). Das deutet auf konsistente Textnähe hin, wobei Interpretation 4 die wenigsten erfundenen Kontextualisierungen enthält.",
+    "empfehlung": "Interpretation 4 ist am ausgewogensten: Sie bleibt fast ausschließlich beim Songtext, liefert eine gründliche form‑ und inhaltsbezogene Analyse und vermeidet unnötige historische Spekulationen. Für zukünftige Modelle sollte der Fokus auf textbasierte Evidenz gelegt werden, während spekulative Kontextualisierungen minimiert werden."
+  }
+}

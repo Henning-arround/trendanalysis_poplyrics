@@ -1,0 +1,93 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Erwähnung von Licht und Wacht betont die Beständigkeit und Zuverlässigkeit der Natur als Trostspender in der Dunkelheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik von Gold und Silber, sowie eine tiefe Einsicht in die emotionale Bedeutung des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Himmelskörper übernehmen die Rolle von Beschützern, die 'ewige Wacht' halten, was das Bild einer beständigen, übernatürlichen Fürsorge erzeugt und das Vertrauen in eine unsichtbare Ordnung stärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des Gesangs mit dem Akt des Schaffens von Glück"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Dualität von Gold und Silber, sowie eine Einsicht in die emotionale Bedeutung des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die nächtliche Szenerie wird zum Spiegel der inneren Gefühlswelt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik von Gold und Silber, sowie eine tiefe Einsicht in die emotionale Bedeutung des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambivalenz menschlicher Gefühle – das Verlangen nach Geborgenheit und das Bewusstsein der Vergänglichkeit – widerspiegelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild der 'ewigen Wacht' suggeriert, dass diese kosmischen Begleiter ununterbrochen über das Schicksal wachen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Symbolik von Gold und Silber, sowie eine Einsicht in die emotionale Bedeutung des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Motive verstärkt den meditativen Charakter des Liedes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik von Gold und Silber, sowie eine tiefe Einsicht in die emotionale Bedeutung des Liedes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Symbolik und der emotionalen Bedeutung des Liedes.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Symbolik von Gold und Silber bietet und eine tiefe Einsicht in die emotionale Bedeutung des Liedes gibt."
+  }
+}

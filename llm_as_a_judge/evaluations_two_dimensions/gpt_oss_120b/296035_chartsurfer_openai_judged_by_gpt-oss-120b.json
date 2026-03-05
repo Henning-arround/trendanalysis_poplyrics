@@ -1,0 +1,128 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song verbindet ... spirituelle Selbstbestätigung ... über das bloße Paarverhältnis hinausweist.",
+          "Das einleitende Bild ... suggeriert, dass das lyrische Ich ... eine neue, zeitlose Dimension erfährt.",
+          "Der Wechsel zwischen deutschen und englischen Zeilen verstärkt das Gefühl einer universellen Botschaft.",
+          "Der Refrain ... fungiert als Mantra, das aus der Liebe Kraft schöpft.",
+          "Die Metaphern „daily sunshine“ und „Paradies wird wahr“ verdeutlichen ...",
+          "Ein altruistischer Unterton ... das Paar wird zum Symbol für gemeinsames Widerstehen.",
+          "Die Zeile „Ich bleib’ ein Komödiant …“ weist darauf hin, dass das lyrische Ich ... die Leichtigkeit des Spiels bewahrt.",
+          "Abschließend wird das Bild eines „Herzschlags einer Zeit“ zu einem Bild für die Unvergänglichkeit der Verbindung."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogen, keine erfundenen biografischen Details.",
+          "Konsistente Analyse der wiederkehrenden Metaphern und Motive."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song verbindet ... spirituelle Selbstbestätigung, die über das rein romantische Verlangen hinausweist.",
+          "Das einleitende Bild ... suggeriert, dass das Gegenüber ... ein verlässlicher Anker ist.",
+          "Der „Atemzug der Ewigkeit“ fungiert als Metapher für einen Moment, in dem Zeit und Unendlichkeit zusammenfließen.",
+          "Die wiederholte Gegenüberstellung ... verdeutlicht den Übergang von Wunsch zu Handlung.",
+          "Der Refrain ... stellt die Liebe als Quelle kontinuierlicher Erneuerung dar.",
+          "Die Zeilen ... erweitern das Bild, indem sie die Partnerschaft als gemeinschaftliche Kraft darstellen.",
+          "Der Schluss ... offenbart eine spielerische Selbstwahrnehmung."
+        ],
+        "positive_aspekte": [
+          "Klare Struktur, jede Aussage bezieht sich auf ein konkretes Textsegment.",
+          "Vermeidet spekulative biografische oder historische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text verknüpft ... poetische Doppelstruktur ... um die transzendente Kraft einer Begegnung zu schildern.",
+          "Das „Wort, das alles trägt“ ... fungieren als Metaphern für ein Versprechen, das ... durch beständige Präsenz definiert wird.",
+          "Die wiederkehrenden Motive von „Atemzug der Ewigkeit“ und „sunshine in your eyes“ verbinden das Zeitlose mit dem Alltäglichen.",
+          "Die Gegenüberstellung von „yes, I can – I will“ ... verdeutlicht den inneren Wandel.",
+          "Die Zeilen ... verdeutlichen ein partnerschaftliches Bündnis, das ... moralische Verantwortung impliziert.",
+          "Der Sprecher bleibt dabei „ein Komödiant mit Blick ins Märchenland“ ... spielerische, fast märchenhafte Haltung.",
+          "Insgesamt schildert das Lied die Metamorphose des Individuums durch Liebe."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textnah, keine externen Kontextualisierungen.",
+          "Erkennt und benennt zentrale Wiederholungen (z. B. „Atemzug der Ewigkeit“, „Komödiant“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song erinnert an die Selbsthilfe‑Mantras der 80er‑Jahre."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verbindet ... klassisches deutschsprachiges Liebeslied mit einer fast hymnischen Selbstbestätigung.",
+          "Das einleitende Bild ... suggeriert, dass Sprache und Versprechen zugleich das Fundament einer Beziehung bilden.",
+          "Der „Blick, der nie verspricht, nur hält“ verdeutlicht, dass das Gegenüber ... im Hier‑und‑Jetzt verankert ist.",
+          "Der Refrain wechselt zwischen Deutsch und Englisch und verstärkt die Universalität des Gefühls.",
+          "Die Phrase „Ein Atemzug der Ewigkeit“ verknüpft das Persönliche mit dem Zeitlosen.",
+          "Im weiteren Verlauf wird das Paar als gemeinsamer Kämpfer dargestellt.",
+          "Die Zeile „Ich bleib’ ein Komödiant …“ offenbart eine spielerische Selbstwahrnehmung.",
+          "Der Schluss, in dem das Ich sich „reborn“ fühlt, fasst die Transformation zusammen."
+        ],
+        "positive_aspekte": [
+          "Erkennt die bilingualen Wechselwirkungen und verknüpft sie mit dem Motiv der Selbstermächtigung.",
+          "Nutzt konkrete Textzitate, um die Analyse zu stützen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text verknüpft ... poetische Dualität ... Motiv der beidseitigen Befähigung durch Liebe ... fast sakralen Bildsprache.",
+          "Das „Wort, das alles trägt“ fungiert als Symbol für das Versprechen, das ... hält – ein Bild für die Verlässlichkeit einer Beziehung.",
+          "Der Sprecher beschreibt den Moment, in dem er „zu leben anfing“ durch das Gegenüber, was die Idee einer existenziellen Wiedergeburt suggeriert.",
+          "Die wiederholte Gegenüberstellung ... betont das Wechselspiel von Wunsch und Fähigkeit.",
+          "Das Bild des „Komödianten mit Blick ins Märchenland“ deutet an, dass das Leben ... spielerisch und märchenhaft zugleich sein kann.",
+          "Die Zeilen ... erweitern das persönliche Glück zu einer gemeinschaftlichen Verantwortung.",
+          "Der Refrain, in dem das „Ein Atemzug der Ewigkeit“ wiederkehrt, schließt den Kreis: Die Liebe wird zum ununterbrochenen, zeitlosen Puls."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung der wiederkehrenden Motive (Wort, Atemzug, Komödiant).",
+          "Vermeidet spekulative biografische Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen fokussieren sich stark auf die wiederkehrenden Bildmotive (z. B. „Wort, das alles trägt“, „Atemzug der Ewigkeit“, „Komödiant“). Die Varianz liegt hauptsächlich im Vorhandensein einer erfundenen historischen Kontextualisierung (Interpretation 2). Insgesamt zeigen die Analysen eine konsistente, wenn auch teils oberflächliche, Textbindung.",
+    "empfehlung": "Interpretationen 1, 3, 4 und 5 erreichen die höchste Faktentreue (Halluzination‑Score 5) und bieten gleichzeitig eine solide, textbezogene Analyse. Sie sind vorzuziehen gegenüber Interpretation 2, die unnötige, nicht belegte Kontextualisierungen einbringt. Für zukünftige Bewertungen sollte der Fokus auf konkrete Textbelege und die explizite Benennung von Mehrdeutigkeiten gelegt werden, um die Tiefen‑Score weiter zu erhöhen."
+  }
+}

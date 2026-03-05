@@ -1,0 +1,97 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das wiederholte Fragen „Is it wrong to miss the time that we had?“ offenbart Schuldgefühle gegenüber dem eigenen Vermissen, während das Eingeständnis „Didn’t plan for this“ die Unvorhersehbarkeit des Verlustes betont."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse jeder Bildsprache.",
+          "Klare Unterscheidung von Themen wie Distanz vs. Nähe.",
+          "Wenig vage Formulierungen, hoher Detailgrad."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Dualität deutet darauf hin, dass das Gefühl von Freiheit erst durch das Erleben von Entfremdung entsteht.",
+          "Die wiederkehrende Frage eröffnet ein moralisches Dilemma: Das Vermissen vergangener Momente wird gleichzeitig als legitim und als potenziell hinderlich dargestellt."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Grundthematik von Zugehörigkeit und Erinnerung.",
+          "Nutzt wiederholende Formulierungen, die den Songtext widerspiegeln."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain ... offenbart ein Schuldgefühl gegenüber der eigenen Nostalgie, das durch das Bild von Erinnerungen, die zu Staub und Grau werden, verstärkt wird."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Bildsprache und emotionaler Entwicklung.",
+          "Erklärt den Übergang von Flucht zu Akzeptanz klar."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen ... suggerieren, dass das Subjekt in der Kälte … ein Gefühl von Lebendigkeit sucht, weil das Aufgerissensein die Sinne schärft und das eigene Selbst spürbarer macht.",
+          "Der Refrain ... offenbart ein Schuldgefühl gegenüber dem Wunsch nach Rückkehr, das jedoch von der Erkenntnis begleitet wird, dass das Verlorene nicht geplant war."
+        ],
+        "positive_aspekte": [
+          "Stellt den emotionalen Anker des „Home“ klar heraus.",
+          "Verbindet Bildsprache mit einer nachvollziehbaren inneren Entwicklung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain ... verdeutlicht ein Schuldgefühl gegenüber der eigenen Nostalgie."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Metaphern (z. B. „eyes“, „cold“, „film“).",
+          "Konsistente Argumentationslinie vom Konflikt zur Akzeptanz."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselbe Grundstruktur, unterscheiden sich jedoch im Detailgrad und in der Oberflächlichkeit ihrer Aussagen. Die Variation ist moderat, wobei Interpretation 1 und 3 die tiefgründigste Analyse bieten.",
+    "empfehlung": "Interpretation 1 (und 3) liefern die beste Balance aus Texttreue und analytischer Tiefe. Für zukünftige Bewertungen sollte darauf geachtet werden, vage Schuld‑ oder Moral‑Interpretationen klar als spekulativ zu kennzeichnen, um die Oberflächlichkeit zu reduzieren."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Throw out the lunch you pay for' deutet auf die Konsumgesellschaft hin, in der man bereit ist, Dinge auszutauschen und wegzuschmeißen, anstatt sie wirklich zu schätzen.",
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, die Zuhörerinnen und Zuhörer zu einer Reflexion über ihre eigene Beziehung zur digitalen Welt und zur Einsamkeit anzuregen."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich klar aus dem Songtext ableiten.",
+          "Gute Analyse der Metapher „Herzausreißen“ und der wiederholten Nutzung von „Easy“.",
+          "Wenig vage Allgemeinplätze, dafür konkrete Bezüge zu Bildschirmen, Flows und Konsum."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile ... und die Verwendung von Metaphern ... schaffen eine emotionale Wirkung, die die Zuhörer dazu anregt, über die Themen ... nachzudenken.",
+          "Der Song thematisiert auch die Ambiguität zwischen der Suche nach Verbindung und der Flucht vor der Einsamkeit, was zu einer tiefen Reflexion über die menschliche Existenz und die Rolle der Technologie in unserem Leben anregt.",
+          "Die Zeile 'Throw out the lunch you pay for' kann als Symbol für die Oberflächlichkeit und den Konsumismus in unserer Gesellschaft verstanden werden, was die Frage aufwirft, ob wir wirklich das bekommen, was wir bezahlen, oder ob wir nur nach äußerlichen Lösungen suchen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Ableitung von Bildschirmen und Flows als digitale Ablenkungsmechanismen.",
+          "Klare Verbindung zwischen dem Refrain „Easy, easy“ und der Idee der vermeintlichen Leichtigkeit der Selbstentfremdung.",
+          "Wenig spekulative Biografie‑ oder Genre‑Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'Easy, easy' und die Verwendung von Metaphern ... schaffen eine emotionale Wirkung, die die Zuhörer dazu einlädt, über die Themen ... nachzudenken.",
+          "Die Ambiguität und die Spannungen im Text, wie die Gegenüberstellung von 'Easy' und 'Being alone', lassen Raum für Interpretationen und machen den Song zu einem komplexen und vielschichtigen Werk.",
+          "Die kulturelle und gesellschaftliche Relevanz des Songs liegt in seiner Auseinandersetzung mit den Auswirkungen der Digitalisierung auf die menschliche Beziehung und die emotionale Erfahrung."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Schlüsselbegriffen (Heart, Screens, Flows).",
+          "Erklärt, warum das Wort „easy“ ironisch wirkt, und verknüpft das mit der Thematik der Einsamkeit.",
+          "Keine unbelegten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile ... und die Verwendung von Metaphern ... schaffen eine emotionale Wirkung, die die Zuhörer dazu einlädt, über die Themen ... nachzudenken.",
+          "Die Ambiguität und Spannung zwischen der Suche nach Ablenkung und der tiefen Einsamkeit der Protagonistin bleiben im Song bestehen und laden die Zuhörer ein, ihre eigenen Interpretationen und Bedeutungen zu finden.",
+          "Die kulturelle und gesellschaftliche Relevanz des Songs liegt in seiner Auseinandersetzung mit den Auswirkungen der digitalen Welt auf unsere emotionalen und sozialen Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Starke Fokussierung auf die Bildschirme‑Metapher und deren symbolische Bedeutung.",
+          "Verknüpft das Wort „easy“ mit einer vermeintlichen Lösung, die im Text hinterfragt wird.",
+          "Keine erfundenen Fakten zu Produktion, Genre oder Künstlerbiografie."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Throw out the lunch you pay for' deutet auf die Konsumgesellschaft und die Oberflächlichkeit der Beziehungen hin, in der man sogar die grundlegendsten menschlichen Bedürfnisse wie Nahrung und Gesellschaft für eine illusorische Freiheit und Leichtigkeit opfert.",
+          "Diese Ambiguitäten und Spannungen im Text lassen darauf schließen, dass der Song eine komplexe Kritik an der modernen Gesellschaft und unseren digitalen Gewohnheiten übt."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der einzelnen Textzeilen (Heart, Screens, Poking, Lunch).",
+          "Erkennt ironische Nutzung von „Easy“ und verbindet sie mit einer kritischen Haltung gegenüber digitaler Oberflächlichkeit.",
+          "Keine spekulativen Angaben zu Genre, Produktion oder Künstlerleben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen ein hohes Maß an Texttreue (keine Halluzinationen). Die Tiefe variiert leicht; die meisten enthalten etwa 30 % oberflächliche Aussagen, während die restlichen Aussagen klar aus dem Text ableitbar sind.",
+    "empfehlung": "Interpretationen, die fast ausschließlich textbasierte Analysen liefern und nur wenige vage, allgemeine Kommentare enthalten, erzielen die höchste Bewertung. Modellvarianten sollten daher darauf trainiert werden, spekulative Allgemeinplätze zu minimieren und jede Aussage klar auf Textbelege zu stützen."
+  }
+}

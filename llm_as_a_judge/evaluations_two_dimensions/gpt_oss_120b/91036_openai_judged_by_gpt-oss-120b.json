@@ -1,0 +1,129 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des „Switch Screens“ verstärkt das Motiv der digitalen Ablenkung …",
+          "Die Zeilen … beschreiben das invasive Durchsuchen von Daten, Gefühle und Beziehungen …",
+          "Das „Throw out the lunch you pay for“ ist ein Bild für das Wegwerfen von Selbstfürsorge …",
+          "Durch die Wiederholung von „easy“ entsteht ein hypnotischer Rhythmus …",
+          "Die Stimme von Lorde, kalt und doch emotional, verleiht dem Text eine Distanz …",
+          "Der Song bleibt damit ein eindringlicher Kommentar zur Selbstentfremdung …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt wie ein Spiegel der modernen Selbstentfremdung, in dem das wiederholte „easy“ zugleich sarkastisch und resigniert klingt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Nutzung des Songtextes als Ausgangspunkt für Interpretation.",
+          "Erkannte wiederkehrende Motive (Herz, Bildschirme, „easy“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Ausstrecken des eigenen Herzens … führt zur Isolation, weil das Gegenüber das Offensichtliche nur als weitere Information verarbeitet.",
+          "Das Bild des „Switch Screens“ verstärkt das Motiv der ständigen Ablenkung …",
+          "Die Zeilen … beschreiben das invasive Durchsuchen von Daten, Gefühle und Identität durch eine digitale Öffentlichkeit …",
+          "Das wiederholte „Throw out the lunch you pay for“ kann als Metapher für das Wegwerfen von Selbstfürsorge verstanden werden …",
+          "Durch die minimalistische, fast mantraartige Struktur entsteht ein hypnotischer Rhythmus …",
+          "Der Song kritisiert damit die Illusion von Leichtigkeit, die digitale Kultur vorgibt …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt wie ein Spiegel der modernen Selbstentfremdung, in dem das wiederholte „easy“ zugleich sarkastisch und resigniert klingt."
+        ],
+        "positive_aspekte": [
+          "Erste klare Benennung des wiederholten „easy“ als zentrales Stilmittel.",
+          "Verknüpfung von Textpassagen mit einem übergeordneten Thema (digitale Entfremdung)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Motiv, das Herz herauszuziehen, ist ein Bild für das bewusste Öffnen der eigenen Verletzlichkeit …",
+          "Durch das „Pull out your heart to make the being alone“ wird suggeriert, dass das Zeigen von Schwäche paradoxerweise das Alleinsein verstärkt …",
+          "Der Refrain … verweist auf das ständige Wechseln zwischen Bildschirmen, sozialen Medien und Ablenkungen …",
+          "Das „poke around until they get what they want“ beschreibt das invasive Durchsuchen persönlicher Daten …",
+          "Das Bild des „Throw out the lunch you pay for“ symbolisiert das Wegwerfen von etwas, das man sich selbst gekauft hat …",
+          "Insgesamt zeichnet das Stück ein Bild von Selbstaufgabe und Oberflächlichkeit …",
+          "Die wiederholte, fast hypnotische Struktur des Textes verstärkt das Gefühl einer endlosen Schleife …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt wie ein Spiegel der modernen Entfremdung, in dem das wiederholte „easy“ sowohl sarkastisch als auch resigniert klingt."
+        ],
+        "positive_aspekte": [
+          "Systematischer Durchlauf aller wiederkehrenden Textphrasen.",
+          "Versuch, die metaphorische Bedeutung jedes Motivs zu erklären."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild, das Herz herauszuziehen, um „being alone“ zu erzeugen, suggeriert, dass das bewusste Öffnen der eigenen Verletzlichkeit … paradoxerweise zur Isolation führt …",
+          "Die Zeile „you switch the screens over the rest of your flows“ beschreibt das ständige Wechseln zwischen Bildschirmen …",
+          "Das „poking around until they get what they want“ verdeutlicht, wie andere … das Herz ausreizen …",
+          "Das Bild des „throw out the lunch you pay for“ symbolisiert das Wegwerfen von Selbstfürsorge …",
+          "Der Refrain … wird zu einem Kreislauf, in dem das Streben nach Einfachheit das Gegenteil bewirkt …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt wie ein Spiegel der modernen Entfremdung, in dem das wiederholte „easy“ als sarkastischer Mantra die Illusion von Leichtigkeit kritisiert …"
+        ],
+        "positive_aspekte": [
+          "Konsistente Verwendung des Begriffs „Kreislauf“ zur Beschreibung der Wiederholungen.",
+          "Erkenntnis, dass das Wort „easy“ sarkastisch eingesetzt wird."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile … suggeriert, dass das Ausstrecken des eigenen Herzens … paradoxerweise zur Einsamkeit führt …",
+          "Das Bild des „Switch Screens“ verweist auf das ständige Wechseln zwischen digitalen Oberflächen …",
+          "Die Zeile … verdeutlicht, wie andere … neugierig und ausbeuterisch nach den Schwächen des Einzelnen suchen …",
+          "Das Motiv des „Throw out the lunch you pay for“ ist ein Bild für das Wegwerfen von Selbstfürsorge …",
+          "Der Refrain … wird zu einer Art Mantra, das die Illusion von Leichtigkeit kritisiert …",
+          "So wird das Lied zu einer melancholischen Anklage gegen die Oberflächlichkeit einer vernetzten Welt …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … wirkt wie ein Spiegel der modernen Entfremdung, in dem das wiederholte „easy“ sowohl sarkastisch als auch resigniert klingt."
+        ],
+        "positive_aspekte": [
+          "Erweiterte Analyse des Refrains als „Mantra\".",
+          "Verknüpfung von Bildschirmen mit dem Konzept des „inneren Flusses\"."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Alle Interpretationen liegen gleichwertig (Halluzination‑Score 1, Tiefe‑Score 2).",
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Sehr hoch – alle fünf Analysen enthalten fast ausschließlich spekulative, nicht textbasierte Aussagen; die Varianz ist minimal.",
+    "empfehlung": "Zukünftige Analysen sollten stärker auf nachweisbare Textstellen setzen und weniger erfundene Bedeutungen einbringen. Eine ausgewogene Interpretation verbindet konkrete Textbelege (z. B. Wiederholung von „easy“, Bild des Herzens) mit offenen, aber begründeten Deutungen, anstatt generische, unbelegte Metaphern zu produzieren."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird als eine Art Rauschzustand dargestellt, der mit dem Zustand betrunken sein verglichen wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt, wie sie in einem Zustand der Ekstase und des Tagtraums ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin beschreibt, wie sie sich in einem Zustand befindet, in dem sie die Kontrolle über ihre Handlungen verliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird als eine Art Rauschzustand beschrieben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Spannung zwischen der individuellen Erfahrung der Liebe und den gesellschaftlichen Erwartungen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin beschreibt, wie sie von der Polizei angehalten wird, weil sie betrunken am Steuer sitzt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird als eine Art kosmische Erfahrung beschrieben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die literarischen Stilmittel, aber ohne tiefe Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin beschreibt, wie sie sich in einem Zustand befindet, in dem sie die Kontrolle über ihre Handlungen verliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird als eine Art Rauschzustand beschrieben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Spannung zwischen der individuellen Erfahrung der Liebe und den gesellschaftlichen Erwartungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 1,
+      "gesamt_score": 1,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin beschreibt, wie sie von der Polizei angehalten wird, weil sie betrunken am Steuer sitzt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird als eine Art kosmische Erfahrung beschrieben"
+        ],
+        "positive_aspekte": [
+          "Keine"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 sind sehr ähnlich und zeigen eine geringe Konsistenz",
+    "empfehlung": "Die erste Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

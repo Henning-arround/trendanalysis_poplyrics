@@ -1,0 +1,99 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, wie der Studentenbewegung und der sexuellen Revolution."
+        ],
+        "oberflächliche_aussagen": [
+          "Ein Festival der Liebe soll unser Leben sein / Und alle, die so sind wie wir, die laden wir gern ein"
+        ],
+        "positive_aspekte": [
+          "Der Song spricht von einer utopischen Vision, in der Liebe und Freude die Welt vereinen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte 'Wir grüßen die Menschen und sie winken zurück' und 'Kein Wunder, wir sind ja auf der Straße ins Glück' deuten auf eine visionäre Hoffnung auf eine bessere, harmonischere Welt hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler und optimistischer Beitrag zur damaligen Diskussion um Liebe und Freiheit"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Zeit war geprägt von sozialen und kulturellen Veränderungen, der Studentenbewegung und der Suche nach neuen Formen der Freiheit und Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Ein Festival der Liebe soll unser Leben sein / Und alle, die so sind wie wir, die laden wir gern ein"
+        ],
+        "positive_aspekte": [
+          "Die Metapher 'Ich geh' wie auf Wolken und ich bin riesengroß' verdeutlicht das Gefühl der Leichtigkeit und des Glücks."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Zeit war geprägt von sozialen und kulturellen Veränderungen, einschließlich der sexuellen Revolution und der Friedensbewegung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler und optimistischer Beitrag zur damaligen Diskussion um Liebe und Freiheit"
+        ],
+        "positive_aspekte": [
+          "Die emotionale Wirkung des Songs liegt in seiner Aufforderung zur Versöhnung und zum Teilen von Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, die auch die Musikszene beeinflussten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine utopische Vision, in der Liebe und Harmonie die Welt bestimmen"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die emotionale Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die vierte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

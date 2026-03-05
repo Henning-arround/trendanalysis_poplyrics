@@ -1,0 +1,99 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist kann als Symbol für eine solche Machtfigur gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine düstere und bedrohliche Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Macht- und Kontrollstruktur im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist kann als Symbol für ein Individuum gesehen werden, das sich in einer solchen Welt zurechtfindet"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext lässt jedoch auch eine andere Interpretation zu"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Möglichkeit, dass der Protagonist ein Opfer ist"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist kann als Symbol für eine Person gesehen werden, die sich gegen die bestehenden Machtstrukturen auflehnt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine düstere und bedrohliche Welt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Macht- und Kontrollstruktur im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist kann als Symbol für eine Person gesehen werden, die sich gegen die bestehenden Machtstrukturen auflehnt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine düstere und bedrohliche Welt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Macht- und Kontrollstruktur im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist befindet sich in einer Position der Macht und des Terrors"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kritik an einer Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Bedeutung von Angst und Panik im Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nennung von 'four-five' und 'Southside' als Stadtteile ohne explizite Bestätigung im Text"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'post-pandemische deutsche Rap-Szene' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Symbolik im Text",
+          "Die Diskussion über die Ambiguität zwischen Selbstinszenierung und Selbstkritik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'four-five' und 'Southside' als spezifische Stadtteile ohne Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'Glorifizierung von Gewalt' ohne tiefe Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Spannung zwischen Selbstbewusstsein und Unsicherheit",
+          "Die Erwähnung der 'Flex-Culture' und ihrer Relevanz"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Annahme, dass der Protagonist 'Handsome' und 'Menace' ist, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'post-pandemische deutsche Rap-Szene' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und ihrer Bedeutung",
+          "Die Diskussion über die Ambivalenz zwischen Selbstinszenierung und Selbstkritik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'four-five' und 'Southside' als spezifische Orte ohne Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'Glorifizierung von Luxus' ohne tiefe Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Spannung zwischen Hedonismus und Gewalt",
+          "Die Erwähnung der 'post-digitalen deutschen Rap-Szene'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Annahme, dass der Protagonist zwischen digitaler Sichtbarkeit und realer Entfremdung schwankt, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'post-pandemische deutsche Rap-Szene' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Symbolik",
+          "Die Diskussion über die Ambiguität zwischen Selbstinszenierung und Selbstkritik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und der Ambiguität zwischen Selbstinszenierung und Selbstkritik, jedoch variieren sie in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf einer tieferen Analyse der Textmetaphern und -symbolik liegen, während gleichzeitig die Halluzinationsrate durch eine strengere Textbezugnahme reduziert wird."
+  }
+}

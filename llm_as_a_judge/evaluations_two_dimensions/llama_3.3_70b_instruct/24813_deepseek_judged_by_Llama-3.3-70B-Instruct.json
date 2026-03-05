@@ -1,0 +1,93 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Ich bin wie ausgestorben' verdeutlicht die emotionale Taubheit und Leere"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die emotionale Leere und Verzweiflung ein, die der Songtext beschreibt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics drücken eine tiefe Sehnsucht und Einsamkeit aus"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt die universelle Erfahrung des Verlusts und der Trauer"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Sehnsucht und Einsamkeit im Songtext an"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Ich bin wie ausgestorben' verdeutlicht die emotionale Taubheit und Leere"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zeigt, wie der Protagonist langsam beginnt, sich mit seiner neuen Situation auseinanderzusetzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt sich als 'ausgestorben' und 'nur noch halb'"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext schildert die Situation, in der die Zeit stillzustehen scheint"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die emotionale Leere und Verzweiflung im Songtext an"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist fühlt sich wie ausgestorben, nur noch halb und ohne Richtung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zeigt, wie der Protagonist versucht, nach vorne zu sehen und das Nichts als besser als gar nichts zu akzeptieren"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Variationen in der Tiefe und Halluzination",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

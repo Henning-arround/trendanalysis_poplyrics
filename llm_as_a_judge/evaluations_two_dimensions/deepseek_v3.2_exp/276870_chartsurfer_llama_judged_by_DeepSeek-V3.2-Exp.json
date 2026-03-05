@@ -1,0 +1,97 @@
+{
+  "song": "It’s Alright - The Osmonds (1973)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Wortes 'alright' kann als eine Art Selbstberuhigung oder Akzeptanz interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint auf den ersten Blick ein einfacher, wiederholender Refrain zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Songtext zu analysieren und eine tiefere Bedeutung zu finden"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Someday just by chance you see what I'm trying to say' lässt darauf schließen, dass er hofft, andere könnten seine Perspektive oder sein Verständnis teilen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint auf den ersten Blick ein einfacher, wiederholender Refrain zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Songtext zu analysieren und eine tiefere Bedeutung zu finden"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'alright' kann als eine Art Selbstberuhigung oder Akzeptanz interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und findet eine gute Balance zwischen Analyse und Offenheit für Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bemerkung, dass einige Menschen diese Art von Erkenntnis oder Glück finden, während andere es möglicherweise übersehen oder wegwerfen, unterstreicht die Idee, dass das Leben voller Zufälle und Gelegenheiten ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint auf den ersten Blick ein einfacher, wiederholender Refrain zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Songtext zu analysieren und eine tiefere Bedeutung zu finden"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bemerkung, dass einige Menschen diese Art von Erkenntnis oder Glück finden, während andere es möglicherweise übersehen oder wegwerfen, unterstreicht die Idee, dass das Leben voller Zufälle und Gelegenheiten ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint auf den ersten Blick ein einfacher, wiederholender Refrain zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Songtext zu analysieren und eine tiefere Bedeutung zu finden"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in ihrer Herangehensweise, aber die dritte Interpretation sticht durch ihre Textbezogenheit und analytische Tiefe hervor",
+    "empfehlung": "Die dritte Interpretation ist die stärkste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe findet und gleichzeitig offen für Ambivalenzen in der Interpretation bleibt"
+  }
+}

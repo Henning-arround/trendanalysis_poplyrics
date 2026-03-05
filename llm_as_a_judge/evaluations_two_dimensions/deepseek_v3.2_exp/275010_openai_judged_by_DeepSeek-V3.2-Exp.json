@@ -1,0 +1,98 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sprache ist simpel, aber emotional geladen, was die Dringlichkeit ihrer Botschaft verstärkt.",
+          "Musikalisch unterstützt ein treibender Beat die panische Wiederholung, während die Melodie die Sehnsucht nach Nähe betont."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt, dass Liebe nicht nur ein Wunsch, sondern ein existenzielles Bedürfnis ist, dessen Verlust das Selbstgefühl zu zerreißen droht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Angst vor Verlust und die Verzweiflung, die aus einer drohenden Trennung erwächst."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch untermalt die Wiederholung des Refrains die hypnotische Wirkung, während die steigende Intensität der Stimme das wachsende Verzweiflungspotenzial transportiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt jedoch nicht bei bloßer Klage; er fordert den Partner aktiv auf, nicht zu gehen, indem er die Konsequenzen – geistiger Zusammenbruch („lose my mind“) und das Unvermögen, das Leben zu bewältigen („how will I make it through“) – in den Vordergrund stellt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Abhängigkeitssituation der Sprecherin."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt lässt sich der Text als ein Bekenntnis zur emotionalen Abhängigkeit lesen, das die Angst vor dem Alleinsein in den Mittelpunkt stellt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text und beleuchtet die emotionale Abhängigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch untermalt die monotone Wiederholung der Refrains die Beklemmung und das Gefühl, in einer Endlosschleife gefangen zu sein, während die steigenden Gesangslinien das verzweifelte Flehen nach Rückkehr verstärken."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einem Porträt von Angst, Sehnsucht und dem verzweifelten Wunsch, das Band der Liebe nicht zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die existenzielle Krise der Sprecherin."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Selbstdefinition über das Gegenüber hinaus spiegelt ein starkes Bindungsbedürfnis wider, das an die Grenzen einer gesunden Beziehung stoßen kann, weil das eigene Selbstwertgefühl vollständig von der Zuwendung des Partners abhängt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text von „Without Love“ offenbart eine verzweifelte Bitte um emotionale Rettung, die sich in einer fast panischen Wiederholung des Motivs „don't walk away“ manifestiert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Instabilität der Sprecherin."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, zeigen aber insgesamt eine gute Analyse der Songtexte.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

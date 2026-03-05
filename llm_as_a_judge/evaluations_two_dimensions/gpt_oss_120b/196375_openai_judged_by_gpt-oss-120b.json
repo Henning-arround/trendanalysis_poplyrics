@@ -1,0 +1,95 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Viele konkrete Bilddeutungen (Kuckucksuhr, Haferschiff, Jugendstil‑Sonne etc.)",
+          "Klare Verknüpfung von Symbolen (Cary‑Grant‑Knochen, Haus) mit Identitäts‑Thematik",
+          "Widersprüchliche Elemente werden explizit als Spannungsfeld dargestellt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Hinweis auf die Ästhetik der 1920er‑Jahre bei den Jugendstil‑Kleidern (nicht im Text belegt)",
+          "Interpretation als „postmoderner Kommentar“ (zu allgemein, nicht aus dem Text ableitbar)"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt damit ein ironischer Kommentar … im postmodernen Zeitalter (zu vage, keine konkrete Textbasis)"
+        ],
+        "positive_aspekte": [
+          "Gute Detailarbeit bei Bilddeutungen (Kuckucksuhr, Haferschiff, Orient‑Flüstern)",
+          "Erkenntnis der paradoxen Symbolik von Cary Grant und den Knochen",
+          "Verknüpfung von Regionalität (Schwaben, Rhein) mit surrealen Elementen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr ausführliche, textnahe Analyse",
+          "Konsistente Interpretation der wiederkehrenden Motive (Kuckuck, Haferschiff, Orient, Jugendstil‑Sonne)",
+          "Klare Darstellung der paradoxen Wunschvorstellung (Haus aus Cary‑Grant‑Knochen) als Identitäts‑Metapher"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Symbolen (Kuckucksuhr, Haferschiff, Orient) mit Stimmung des Songs",
+          "Differenzierte Deutung des Refrains (Knochen‑Haus als Sehnsucht nach Authentizität)",
+          "Berücksichtigung von Regionalität (Schwaben, Rhein) und deren Surrealität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse aller Bildfelder des Textes",
+          "Starke Fokussierung auf das zentrale Paradoxon (Cary‑Grant‑Knochen‑Haus) und seine Bedeutung für Identitäts‑Konstruktion",
+          "Ausgewogene Betrachtung von Regionalität, Exotik und kindlicher Na‑Na‑Melodie"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen (1,3,4,5) zeigen sehr hohe Texttreue und Detailtiefe, nur Interpretation 2 enthält einige spekulative, nicht belegte Aussagen. Die Varianz ist gering, was auf konsistente Grundverständnisse des Songs hinweist.",
+    "empfehlung": "Interpretation 3 (und ebenfalls 1, 4, 5) bieten die beste Balance aus faktentreuer Analyse und tiefgehender, textbasierter Interpretation. Sie verbinden präzise Bilddeutung mit einer reflektierten, mehrschichtigen Bedeutungsarbeit, ohne unnötige Spekulationen."
+  }
+}

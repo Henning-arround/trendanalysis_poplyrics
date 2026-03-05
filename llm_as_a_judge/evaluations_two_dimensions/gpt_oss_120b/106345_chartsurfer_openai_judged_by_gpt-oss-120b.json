@@ -1,0 +1,100 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied einen Kreislauf aus Macht, Angst und Selbstzerstörung, in dem das Individuum sowohl Täter als auch Opfer einer von Panik dominierten Gesellschaft ist."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse",
+          "Klare Benennung von Symbolen (z. B. „armed guard of punishment“, „energising ray“)",
+          "Berücksichtigung von Ambivalenzen (z. B. Moral vs. Macht)",
+          "Keine spekulativen biografischen Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einer kritischen Reflexion über die Mechanismen von Autorität, die Verquickung von Furcht und Macht und die Gefahr, dass das Individuum selbst zum Architekten einer panischen Ordnung wird."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textzeilen mit interpretativen Aussagen",
+          "Erklärung der wiederholten Fragen und des Refrains",
+          "Ausgewogene Darstellung von Täter‑ und Opferrollen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeichnet der Song ein Bild von einer Gesellschaft, in der Angst zur Währung wird, Macht durch Terror legitimiert ist und das Individuum entweder zum Täter oder zum Opfer einer allgegenwärtigen, beängstigenden Ordnung wird."
+        ],
+        "positive_aspekte": [
+          "Konsistente Nutzung von Metaphern aus dem Songtext",
+          "Klare Herausarbeitung der Rolle von „Panic is the rule I make“ als Mantra",
+          "Keine unbelegten historischen oder biografischen Details"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird der Song zu einer kritischen Reflexion über die Mechanismen von Macht, Gewalt und der Selbstzerstörung einer Gesellschaft, die sich selbst in Angst und Chaos verstrickt."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der Wortwahl (z. B. „armed guard of punishment“, „energising ray“)",
+          "Erklärung der Wiederholung des Refrains als Mantra",
+          "Vermeidung von spekulativen Kontextualisierungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das wiederholte Mantra „Panic is the rule I make“ fungiert als Mantra der Selbstjustiz, das die Idee bestärkt, dass Angst nicht nur ein Symptom, sondern ein bewusstes Regelwerk ist, das die Gesellschaft strukturiert und den Einzelnen in ein permanentes Spannungsfeld zwischen Unterwerfung und tyrannischer Selbstbehauptung zwingt."
+        ],
+        "positive_aspekte": [
+          "Ausführliche Interpretation der Symbolik von „energising ray“",
+          "Verknüpfung von Gewaltmotiven mit Machtspiel-Thematik",
+          "Durchgehend textbasierte Argumentation ohne erfundene Fakten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen eine sehr hohe Konsistenz: sie enthalten dieselbe Anzahl von Aussagen, keine erfundenen Fakten und nur einen leicht oberflächlichen Schlusssatz. Die Varianz ist minimal.",
+    "empfehlung": "Alle Modelle liefern faktentreue, textbasierte Analysen. Die Interpretation 3 sticht leicht hervor, weil sie die inneren Widersprüche (Selbstüberwachung vs. staatliche Repression) besonders klar herausarbeitet und damit die größte analytische Tiefe bietet."
+  }
+}

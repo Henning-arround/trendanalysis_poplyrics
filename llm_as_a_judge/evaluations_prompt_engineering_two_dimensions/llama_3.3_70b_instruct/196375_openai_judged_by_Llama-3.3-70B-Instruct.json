@@ -1,0 +1,99 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität des Briefes an den Spiegel lässt Fragen nach Selbstreflexion und Fremdbild offen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt offen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der thematischen Mehrschichtigkeit und der stilistischen Dominanz fragmentarischer Narrative"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft bleibt offen, weil das 'Haus' gleichzeitig als Symbol für Sicherheit, Identität und als Zeichen von Zerfall fungiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die 'Sonne trägt Jugendstilkleider' verknüpft ein historisches Kunst-Motiv mit einer anthropomorphen Sonne"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Refrains und der fragmentarischen Narrative"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität des Briefes an den Spiegel verweist zugleich auf Selbstreflexion und mediale Selbstinszenierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen Schwaben-Stereotypen und orientalischen Anklängen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kulturellen Spannung zwischen regionaler Identität und globalen Einflüssen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft bleibt offen - ist es ein Kommentar zur Vergänglichkeit von Glamour, ein Spiel mit Konsum-Wünschen oder ein Ausdruck von Identitätskrise"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains erzeugt ein hypnotisches Mantra"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der fragmentarischen Narrative und der Bildsprache"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur Cary Grant - Symbol des klassischen Hollywood-Gentleman - dient als kulturelles Relikt, das zugleich Bewunderung und Entfremdung hervorruft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholungen erzeugen ein hypnotisches Mantra"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der thematischen Mehrschichtigkeit und der stilistischen Dominanz fragmentarischer Narrative"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der thematischen Mehrschichtigkeit und der stilistischen Dominanz fragmentarischer Narrative",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Konsistenz in der Analyse der thematischen Mehrschichtigkeit und der stilistischen Dominanz fragmentarischer Narrative"
+  }
+}

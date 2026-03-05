@@ -1,0 +1,87 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Zuhause ist ein emotionaler Zustand"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Dualität zwischen Kälte und Wärme, Freiheit und Gefangenschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Kälte steht für Klarheit"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Symbolik von Kälte und Wärme"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Zuhause ist ein inneres Gefühl"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Entwicklung von Flucht zu Akzeptanz"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Zuhause ist ein innerer Zustand"
+        ],
+        "positive_aspekte": [
+          "Gute Betonung der Dankbarkeit für das Erreichte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textinhalte",
+    "empfehlung": "Die dritte Interpretation zeigt eine sehr gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

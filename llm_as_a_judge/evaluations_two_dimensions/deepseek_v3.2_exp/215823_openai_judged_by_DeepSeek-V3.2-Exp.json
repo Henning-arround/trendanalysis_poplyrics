@@ -1,0 +1,98 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitlose Mahnung",
+          "wahre Freude nicht im Rausch"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "toxischer Selbstzerstörung",
+          "Verlust von Kontrolle"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "frühen 1970er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "gesellschaftliche Verirrungen",
+          "zeitlos"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "überbordenden, fast grotesken Party"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Desorientieren und die Überwältigung"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Symbolen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "hoch",
+    "empfehlung": "Interpretation 4 zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

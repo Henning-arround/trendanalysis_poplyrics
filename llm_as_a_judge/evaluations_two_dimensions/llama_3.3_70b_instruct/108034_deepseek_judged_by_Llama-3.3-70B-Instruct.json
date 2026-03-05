@@ -1,0 +1,89 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung wird als eine Art Spiel beschrieben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Beschreibung der Veränderlichkeit der Person ein und analysiert die Zeile 'When you're drunk you're terrific' als Hinweis auf die Intensität der Beziehung in Momenten der Ekstase oder des Rauschzustands."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung wird als eine Art Spiel beschrieben",
+          "Die Person wird als 'seasonal beast' bezeichnet"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation unterstreicht die Veränderlichkeit der Person und ihre Akzeptanz in der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile 'We smile' als eine Art Beschwichtigung oder Abwehrmechanismus gegenüber den Unsicherheiten und Veränderungen in der Beziehung und geht auf die zyklische Natur der Veränderungen ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung wird als eine Art Spiel beschrieben",
+          "Die Person wird als 'seasonal beast' bezeichnet"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation unterstreicht die Veränderlichkeit der Person und ihre Akzeptanz in der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung wird als eine Art Spiel beschrieben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Beschreibung der Veränderlichkeit der Person ein und analysiert die Zeile 'When you're drunk you're terrific' als Hinweis auf die Intensität der Beziehung in Momenten der Ekstase oder des Rauschzustands."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.7,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Veränderlichkeit der Person und ihrer Akzeptanz in der Beziehung, jedoch variieren sie in ihrer Tiefe und Oberflächlichkeit.",
+    "empfehlung": "Die beste Interpretation ist die dritte, da sie eine tiefe Analyse der Zeile 'We smile' und der zyklischen Natur der Veränderungen bietet, ohne oberflächliche oder erfundene Aussagen zu machen."
+  }
+}

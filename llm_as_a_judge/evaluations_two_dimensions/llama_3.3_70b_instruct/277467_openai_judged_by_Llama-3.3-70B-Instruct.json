@@ -1,0 +1,99 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft das Tragen von OJ's Handschuhen mit einem festgefahrenen Rollen- oder Erwartungsbild, ohne dass dies direkt im Text belegt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Stadt 'kosmopolitisch, aber zugleich zerrissen' ist, bleibt etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Bildsprache und der zentralen Botschaft des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Deutung des 'morosen jungen Mannes in alter österreichischer Tracht' als 'Spiegel für das Verharren in Traditionen' ist nicht direkt textbasiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der Stadt als 'Stadt der Heiligen und Narren' ohne weitere Erläuterung bleibt oberflächlich."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende Betrachtung der städtischen Szenerie und der Figuren."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zwischen dem 'Ding im Herzen' und der Notwendigkeit, es zu geben, um es lebendig zu machen, ist textbasiert, aber die Interpretation fügt eine emotionale Tiefe hinzu, die nicht explizit im Text steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Szene im Kaldi's Café 'Oberflächlichkeit und das Spiel mit Macht-Symbolen' zeigt, könnte spezifischer sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare Struktur und eine gute Balance zwischen textbasierter Analyse und Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Deutung der 'Tiger und Lämmer' als 'Begegnung mit widersprüchlichen, gefährlichen und unschuldigen Seiten des Lebens' ist eine Interpretation, die nicht direkt aus dem Text hervorgeht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der Stadt als 'Stadt der Heiligen und Narren' ohne weitere Analyse bleibt oberflächlich."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Beschreibung der städtischen Szenerie und der Figuren."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'Ding im Herzen' als 'Liebe, Mitgefühl oder kreative Energie' ist eine Deutung, die nicht direkt aus dem Text abgeleitet ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die 'Mandala des Deckenventilators' und das 'Studieren von Gesichtern und Karten' eine 'meditative, aber zugleich beunruhigende Beobachtung des Alltags' darstellen, könnte spezifischer sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende und tiefe Analyse der Songtexte und ihrer Bedeutungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Tiefe der Analyse, aber variieren in der Halluzinationsrate.",
+    "empfehlung": "Für zukünftige Interpretationen sollte der Fokus auf textbasierten Analysen liegen, um die Halluzinationsrate zu minimieren und die Tiefe der Interpretationen zu maximieren."
+  }
+}

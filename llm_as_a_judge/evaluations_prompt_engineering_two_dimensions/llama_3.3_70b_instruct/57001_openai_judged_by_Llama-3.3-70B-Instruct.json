@@ -1,0 +1,102 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-digitalen Ängste der 2010er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle Fragmentierung des 21. Jahrhunderts"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der paradoxen Beziehung von Nähe und Entfremdung",
+          "Die Betonung der Ambiguitäten im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von Flucht und Bindung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Ambivalenz zwischen Flucht und Bindung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der fragmentarischen Metaphern und räumlichen Sprünge"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'If I could stay, then the night would give you up / Stay, and the day would keep its trust' suggerieren, dass das Verharren zugleich Befreiung und Bindung bedeutet"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle Fragmentierung des 21. Jahrhunderts"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambivalenz zwischen Handlung und Passivität",
+          "Die Betonung der fluiden Rollen von Macht und Ohnmacht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von Anziehung und Ablehnung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Ambivalenz zwischen Anziehung und Ablehnung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der bildhaften Metaphern und der fluiden Identität"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'You say when he hits you you don’t mind / Because when he hurts you you feel alive' suggerieren eine gefährliche Verklärung von Gewalt als Lebensquelle"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle Fragmentierung des 21. Jahrhunderts"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der paradoxen Beziehung von Nähe und Distanz",
+          "Die Betonung der Ambiguitäten im Text"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Ambiguitäten und Paradoxien im Text",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und betont die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

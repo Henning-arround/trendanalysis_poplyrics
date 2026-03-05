@@ -1,0 +1,99 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin scheint zu sagen, dass die Zeit alle Beziehungen verändert und dass die Menschen ihre Gefühle und Bindungen nicht aufrechterhalten können."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird bereits in der ersten Strophe deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Vergänglichkeit der Zeit und die Veränderlichkeit menschlicher Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Wanda Jackson war eine der ersten Frauen, die im Country- und Rockabilly-Genre erfolgreich waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird bereits in der ersten Strophe deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Vergänglichkeit der Zeit und die Veränderlichkeit menschlicher Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin trifft einen ehemaligen Geliebten wieder und fragt nach seinem neuen Leben"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Feststellung, dass die Zeit schnell vergeht und Menschen sich verändern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Vergänglichkeit der Zeit und die Veränderlichkeit menschlicher Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin, Wanda Jackson, war eine der ersten Frauen im Country- und Rockabilly-Genre und repräsentierte eine neue Generation von Frauen, die ihre Unabhängigkeit und Selbstständigkeit betonten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Feststellung, dass die Zeit schnell vergeht und Menschen sich verändern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Vergänglichkeit der Zeit und die Veränderlichkeit menschlicher Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin trifft einen ehemaligen Geliebten wieder und fragt nach seinem neuen Leben"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Feststellung, dass die Zeit schnell vergeht und Menschen sich verändern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Vergänglichkeit der Zeit und die Veränderlichkeit menschlicher Beziehungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Vergänglichkeit der Zeit und die Veränderlichkeit menschlicher Beziehungen thematisiert und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

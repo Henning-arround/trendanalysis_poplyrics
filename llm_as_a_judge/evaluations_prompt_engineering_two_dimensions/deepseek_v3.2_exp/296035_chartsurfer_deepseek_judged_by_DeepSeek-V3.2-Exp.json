@@ -1,0 +1,97 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs verweist auf die symbolische Ordnung einer Sehnsucht nach Einheit und Ganzheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der literarischen Stilmittel und der emotionalen Wirkung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer neuen Selbstfindung und Individualisierung interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert eine romantische Liebesbeziehung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der transformativen Kraft einer zwischenmenschlichen Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von englischen und deutschen Textpassagen erzeugt eine spannende Ambiguität"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fokussierung auf zwischenmenschliche Beziehungen und persönliche Entwicklung könnte als Reaktion auf die gesellschaftlichen und politischen Herausforderungen jener Zeit gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert eine romantische Liebesbeziehung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der emotionalen Wirkung und affektiven Dimension"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich bleib' ein Komödiant / Mit Blick ins Märchenland' lässt darauf schließen, dass die Beziehung auch eine Flucht vor der Realität in eine idealisierte Welt der Liebe darstellt"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der literarischen Stilmittel und der emotionalen Wirkung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Free games for May' könnten ein Symbol für die unbeschwerte und sorglose Natur der Kindheit sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Figur Emily, die in einer Welt der Fantasie und des Traums lebt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und liefert konkrete Beispiele"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung 'See Emily play' wird zu einer Art Mantra"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Figur Emily, die in einer Welt der Fantasie und des Traums lebt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und liefert konkrete Beispiele"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art von Ode an die Fantasie und die Freiheit des Traums interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und liefert tiefgehende Analysen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Free games for May' könnten ein Symbol für die unbeschwerte und sorglose Natur der Kindheit sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Figur Emily, die in einer Welt der Fantasie und des Traums lebt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und liefert konkrete Beispiele"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art von Ode an die Fantasie und die Freiheit des Traums interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und liefert tiefgehende Analysen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      3,
+      5
+    ],
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen 3 und 5 sind aufgrund ihrer Textbezogenheit und tiefgehenden Analysen empfehlenswert"
+  }
+}

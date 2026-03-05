@@ -1,0 +1,99 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bildsprache von \"crashing through the cigar smoke\" und \"walls have ears\" verstärkt das Gefühl von Bedrohung und Überwachung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied bleibt ein Spiegel der menschlichen Tendenz, Oberflächen zu präsentieren, während tiefere Wahrheiten im Schatten bleiben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Diskrepanz zwischen öffentlicher Fassade und innerer Beobachtung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild einer \"leaking pen\" und eines \"broken jaw\" lässt an das Scheitern von Kommunikation und Ausdruck denken"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wirkt wie ein kaleidoskopisches Puzzle aus scheinbar zusammenhanglosen Bildern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert Identitätsfragmentierung und gesellschaftliche Maskerade"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung von Alltagsgegenständen fungiert als Metaphern für mechanische, aber zugleich zerbrechliche Verbindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Motiv der drei \"no evil\"-Reime erinnert an die bekannten Affen, die das Böse ignorieren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation vermittelt ein Bild einer Gesellschaft, in der Oberflächen und Geheimnisse untrennbar verwoben sind"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen \"A body blow / On the table waiting / A paperweight\" vermitteln das Bild einer festgehaltenen, unbeweglichen Gewalt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das öffentliche Gesicht bleibt maskiert, das private Auge bleibt wach"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Zerrissenheit zwischen öffentlicher Fassade und innerer Beobachtung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das \"allen key\" als Werkzeug, das \"turning\" bewirkt, suggeriert, dass das Rätsel nur durch das richtige Ansetzen von Hebeln gelöst werden kann"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Rätsel nie vollständig gelöst wird; es bleibt ein endloses Spiel aus Hinweisen, Verbergen und dem ständigen Wechsel zwischen öffentlicher Maske und privatem Ermittler"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Diskrepanz zwischen öffentlicher Fassade und innerer Beobachtung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet kreative Erfindungen ohne Textbezug"
+  }
+}

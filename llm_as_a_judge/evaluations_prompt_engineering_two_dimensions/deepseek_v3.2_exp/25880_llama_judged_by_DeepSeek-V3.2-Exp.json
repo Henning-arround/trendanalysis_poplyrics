@@ -1,0 +1,97 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Themen der Einsamkeit und der Suche nach Verbindung in einer anonymen Menschenmasse deutlich."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen Licht und Dunkel, Hoffnung und Verzweiflung verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft der Suche nach wahrer Liebe in einer Welt, die vom Schicksal und von negativen Emotionen geprägt ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Suche nach Sinn und Verbindung in einer oft sinnlosen und kalten Welt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität und Spannung zwischen der negativen Welt des Schicksals und der positiven Welt der Liebe werden im Song nicht aufgelöst, sondern bleiben bestehen, um die Komplexität der menschlichen Erfahrung zu unterstreichen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und ihre emotionale Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die literarischen Stilmittel wie die Augen, die 'mich nicht loslassen', und die 'Menschenmasse' schaffen ein Bild der Überwachung und des Gefangenseins."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen der dunklen, hoffnungslosen Welt und der warmen, liebenden Beziehung bleibt im Song bestehen und lässt den Hörer über die Komplexität der menschlichen Erfahrung nachdenken."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Bedeutungsebene der Suche nach Authentizität und menschlicher Verbindung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Augen der geliebten Person spielen eine zentrale Rolle in dem Song und dienen als Symbol für die Liebe und die Hoffnung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen der dunklen, hoffnungslosen Welt und der warmen, liebenden Beziehung bleibt im Song bestehen und lässt den Hörer über die Komplexität der menschlichen Erfahrung nachdenken."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft der Suche nach wahrer Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Und der Nebel meiner Traurigkeit / Verdampft an deiner warmen Haut' verdeutlicht diese Kontraste und betont die heilende Wirkung der Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine komplexe und mehrschichtige Darstellung der menschlichen Erfahrung und der Suche nach wahrer Liebe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt bieten sie eine gute Analyse des Songs.",
+    "empfehlung": "Die fünfte Interpretation ist die tiefste und faktentreueste, sie balanciert Textreue mit analytischer Tiefe."
+  }
+}

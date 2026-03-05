@@ -1,0 +1,99 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambivalenz der 1960er-Jugendkultur zwischen Experimentierfreude und Angst vor Kontrollverlust"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textambiguitäten lassen offen, ob Emily als Symbol für individuelle Freiheit, kollektive Träume oder als Opfer einer überfordernden Moderne zu verstehen ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der verwendeten Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur Emily kann als Allegorie für die junge Frau in einer sich wandelnden Gesellschaft gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung schwankt zwischen melancholischem 'Emily cries' und dem fast kindlichen 'See Emily play'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verschiedenen Themen und Motive im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur Emily kann als Symbol für das kollektive Jugend-Ich gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textambiguitäten lassen offen, ob Emily als Symbol für individuelle Freiheit, kollektive Träume oder als Opfer einer überfordernden Moderne zu verstehen ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der verwendeten Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Free games for May' verknüpft das Spiel mit einem saisonalen, fast rituellen Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Spannung zwischen Aktivität und Passivität spiegelt das damalige Ringen junger Frauen um Selbstbestimmung in einer von männlich dominierten Musikwelt wider"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verschiedenen Themen und Motive im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Free games for May' verweisen auf das Fest des Frühlings und damit auf ein kollektives Streben nach Befreiung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die mehrschichtige Symbolik lässt Raum für Interpretationen, die von einer Kritik an der Oberflächlichkeit des 'Spiels' bis zu einer poetischen Darstellung von Emily als Archetyp einer Generation im Übergang reichen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der verwendeten Metaphern."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Textstruktur und der verwendeten Metaphern.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Textstruktur und der verwendeten Metaphern bietet und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

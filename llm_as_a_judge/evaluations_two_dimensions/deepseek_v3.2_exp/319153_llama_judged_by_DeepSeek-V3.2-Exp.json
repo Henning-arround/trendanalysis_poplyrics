@@ -1,0 +1,100 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Chose A Bra And Then Shine Your Shoes' deutet darauf hin, dass man sich für die Nacht fein macht und bereit ist, loszulassen.",
+          "Die Anwesenheit von Frauen und die Aufforderung 'Show Me Baby Where It Hurts' suggeriert eine sexuelle Anziehung und ein Verlangen nach Intimität."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint eine Ode an die Freiheit und den Genuss des Moments zu sein, in dem man alle Sorgen und Hemmungen fallen lässt und sich der Ekstase und dem Vergnügen hingibt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Langeweile, Ekstase und Intimität."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Handlungen, wie das Anziehen eines BHs und das Putzen der Schuhe, scheinen ritualartig und können als Vorbereitung auf ein unbestimmtes Ereignis oder eine unbestimmte Begegnung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Nacht, in der Langeweile und Sehnsucht nach Abenteuern und Erlebnissen in eine Welt der Fantasie, des Exzesses und der Intimität münden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine ausgewogene Analyse von Langeweile, Sehnsucht und Ekstase."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielungen auf weibliche Figuren, wie die Aufforderung 'Show Me Baby Where It Hurts', deuten auf eine sexuelle oder zumindest flirtende Atmosphäre hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text spiegelt eine Sehnsucht nach Befreiung, Ekstase und dem Verlassen der alltäglichen Routine wider."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Langeweile, Ekstase und Intimität."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die surrealen Bilder, wie 'Kissing Snowflakes For Desert' oder 'Licking Raindrops From Your Hat', suggerieren eine Welt, in der die Grenzen zwischen Realität und Fantasie verschwimmen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text spiegelt eine Sehnsucht nach Befreiung, Ekstase und dem Verlassen der alltäglichen Routine wider."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine ausgewogene Analyse von Langeweile, Sehnsucht und Ekstase."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nennung von 'Alison May Queen Of The Day' und der Aufruf 'Let'S Get It Up In Style' suggerieren eine Art von Feier oder Zeremonie, bei der die Protagonistin oder ein bestimmtes Ereignis im Mittelpunkt steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist geprägt von einer Mischung aus Langeweile, Sehnsucht und dem Verlangen nach intensiven Erlebnissen, die die Monotonie des Alltags durchbrechen können."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Langeweile, Ekstase und Intimität."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Themen und Motive.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren und weniger auf spekulative Aussagen."
+  }
+}

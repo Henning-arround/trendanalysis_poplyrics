@@ -1,0 +1,114 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein humorvolles Manifest der deutschen Volkskultur, das in den frühen 1960‑Jahren die Sehnsucht nach einfacher, bodenständiger Identität ausdrückt.",
+          "Sauerkraut symbolisiert das herzhafte, leicht säuerliche Wesen der deutschen Küche, Polka verkörpert Lebensfreude und Gemeinschaftsbindung.",
+          "Die Braut Edeltraud wird als Idealpartnerin dargestellt, die dieselben Vorlieben teilt.",
+          "Die Passage im Gasthaus verdeutlicht die Klarheit des eigenen Selbstbildes und die Ablehnung fremder Einflüsse.",
+          "Musikalisch unterstützt die eingängige Melodie mit la‑la‑Refrains die Leichtigkeit des Textes."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Struktur und klare Argumentationslinie.",
+          "Verwendet wiederkehrende Motive aus dem Text (Sauerkraut, Polka, Edeltraud)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein humorvolles Manifest der deutschen Volkskultur, das in den frühen 1960‑Jahren die Sehnsucht nach einfacher, bodenständiger Identität ausdrückt.",
+          "Durch die Verknüpfung von Sauerkraut, Polka und der fiktiven Braut Edeltraud entsteht ein Bild von Alltagstraditionen als sichere Anker im wirtschaftlichen Aufschwung.",
+          "Sauerkraut steht symbolisch für das herzhafte, leicht säuerliche Wesen der deutschen Küche, Polka für ausgelassene Geselligkeit.",
+          "Die lyrische Ich‑Perspektive betont ein fast kindliches Festhalten an diesen Gewohnheiten.",
+          "Die Passage im Gasthaus verdeutlicht die Klarheit des eigenen Ziels und die Ablehnung fremder Einflüsse."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Wiederholung der zentralen Bildsprache des Liedes.",
+          "Erklärt die Symbolik von Sauerkraut und Polka."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Sauerkraut wird als Symbol für traditionelle Küche und Heimat, Polka als tanzbarer Rhythmus in vielen deutschen Regionen dargestellt.",
+          "Edeltraud wird als Bewahrerin von Kultur und Genuss positioniert, die Rolle der Frau wird hervorgehoben.",
+          "Der Refrain wirkt fast mantraartig und zieht das Publikum in einen gemeinsamen Rhythmus.",
+          "Die Passage im Gasthaus verdeutlicht eine entschlossene Einfachheit und das Reduzieren des Lebens auf das Wesentliche.",
+          "Musikalisch unterstützt die eingängige Polka‑Melodie die Leichtigkeit des Textes."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Einbeziehung von Gender‑ und Rollenanalysen, die über die reine Textwiedergabe hinausgehen.",
+          "Differenzierte Betrachtung des Refrains als „mantraartig\"."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein humorvolles Manifest der deutschen Volkskultur, das in den frühen 1960‑Jahren die Sehnsucht nach einfacher, bodenständiger Identität ausdrückt.",
+          "Sauerkraut symbolisiert das herzhafte, leicht säuerliche Wesen der deutschen Küche, Polka verkörpert das lebensfrohe Gemeinschaftsgefühl aus Mitteleuropa.",
+          "Edeltraud wird als Idealpartnerin dargestellt, die sowohl kulinarisch als auch tänzerisch kompatibel ist und die kulturelle Identität erweitert.",
+          "Die Passage im Gasthaus verdeutlicht Klarheit und Selbstsicherheit, die aus der Vertrautheit mit eigenen Traditionen erwächst.",
+          "Das Stück fungiert als ironischer Selbst‑ und Fremdspiegel, der die Einfachheit feiert und gleichzeitig kulturelle Klischees karikiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Komplexere Reflexion über Selbst‑ und Fremdwahrnehmung.",
+          "Betont die Balance zwischen Nostalgie und kritischer Ironie."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein humorvolles Manifest der deutschen Volkskultur, das in den frühen 1960‑Jahren die Sehnsucht nach einfacher, bodenständiger Identität ausdrückt.",
+          "Durch die Verknüpfung von Sauerkraut, Polka und der fiktiven Braut Edeltraud entsteht ein Bild von Alltagstraditionen als sichere Anker im wirtschaftlichen Aufschwung und kultureller Neuorientierung.",
+          "Sauerkraut steht symbolisch für das herzhafte, leicht säuerliche Wesen der deutschen Küche, Polka für Lebensfreude und Gemeinschaftsbindung.",
+          "Die Braut Edeltraud verkörpert eine harmonische, kulturell homogene Partnerschaft.",
+          "Die Passage im Gasthaus verdeutlicht die Klarheit des eigenen Selbstbildes und die Ablehnung fremder Einflüsse."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare, konsistente Argumentationsstruktur.",
+          "Wiederholte Bezugnahme auf zentrale Motive des Liedes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch in Detailgrad und Nuancierung. Die Varianz ist gering, was auf ein hohes Maß an inhaltlicher Redundanz hinweist.",
+    "empfehlung": "Interpretationen, die über reine Wiederholungen hinausgehen und zusätzliche analytische Ebenen (z. B. Gender‑Rollen, Selbst‑/Fremdspiegel) einbringen, erzielen höhere Tiefen‑Scores, obwohl sie ebenfalls stark halluziniert bleiben. Für zukünftige Bewertungen sollte der Fokus stärker auf textbasierte Evidenz gelegt werden, um Halluzinationen zu reduzieren, während gleichzeitig mehr differenzierte, textgebundene Analysen gefördert werden."
+  }
+}

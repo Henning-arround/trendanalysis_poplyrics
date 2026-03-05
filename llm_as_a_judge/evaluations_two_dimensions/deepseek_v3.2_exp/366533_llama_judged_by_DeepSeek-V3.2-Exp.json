@@ -1,0 +1,95 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin bittet ihren Geliebten, sie festzuhalten und nie loszulassen, was ihre tiefe Verbundenheit und Abhängigkeit von ihm verdeutlicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck der Sehnsucht und Zuneigung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Intimität und Zärtlichkeit in der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Liedes ist einer tiefen emotionalen Verbindung und einer unerschütterlichen Hingabe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin bittet ihren Geliebten, sie festzuhalten und nie loszulassen, was eine tiefe Verbindung und ein Verlangen nach körperlicher und emotionaler Nähe ausdrückt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der romantischen Sehnsucht und der tiefen emotionalen Verbindung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Bedeutung von körperlicher Zuneigung und Intimität."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin bittet ihren Partner, sie festzuhalten und nie loszulassen, was ein Verlangen nach Sicherheit und Beständigkeit in der Beziehung ausdrückt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein eindringlicher Ausdruck der menschlichen Sehnsucht nach Liebe, Nähe und Verbundenheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Emotionen in dem Song sind raw und ehrlich."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf den Text beziehen und weniger spekulativ sein."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt das Bild einer langjährigen, aber erschöpften Beziehung, in der Erinnerungen und Sehnsucht gleichermaßen dominieren.",
+          "Die wiederholte Zeile … fungiert als Mantra des Festhaltens, das den Protagonisten an ein Versprechen bindet, trotz aller Schwierigkeiten präsent zu bleiben.",
+          "Insgesamt schildert das Lied die Ambivalenz zwischen dem Wunsch nach Beständigkeit und dem unvermeidlichen Verfall, wobei das tägliche Warten zum Symbol für die Hoffnung auf ein mögliches Wiederaufleben der einstigen Intimität wird."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (z. B. „cold bed“, „paper walls“, „first one“).",
+          "Gute Balance zwischen konkreter Analyse und interpretativer Reflexion."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt das Bild einer langjährigen, aber erschöpften Beziehung, in der Erinnerungen und Sehnsucht gleichermaßen dominieren.",
+          "Die wiederholte Zeile … fungiert als Mantra des Festhaltens, das den Protagonisten an ein unverrückbares Versprechen bindet, trotz aller Konflikte und Distanz zu bleiben.",
+          "Insgesamt zeichnet der Text ein Bild von Loyalität, die an die Grenzen der eigenen Identität stößt, und von einer Liebe, die mehr aus Gewohnheit und Erinnerung als aus gegenwärtiger Leidenschaft besteht."
+        ],
+        "positive_aspekte": [
+          "Mehrere textbasierte Interpretationen (z. B. Symbolik von „cold bed“, „paper walls“).",
+          "Erkennt die Ambivalenz zwischen Besitzanspruch und Selbstaufopferung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song schildert das Spannungsfeld zwischen Erinnerung und Gegenwart einer langjährigen Beziehung, die von Unsicherheit, Sehnsucht und dem Wunsch nach Beständigkeit geprägt ist.",
+          "Die wiederholte Zeile … fungiert als Mantra, das das zentrale Motiv des Ausharrens betont: Trotz wiederholter Fehltritte und kalter Nächte bleibt der Sprecher bereit, zu warten und zu halten, was auf ein tief verwurzeltes emotionales Band hinweist.",
+          "Insgesamt vermittelt der Text ein Bild von Liebe, die trotz wiederholter Stolpersteine und äußeren Versuchungen durch ein beharrliches Warten und das Bewahren gemeinsamer Erinnerungen überlebt."
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textstellen mit interpretativen Aussagen (z. B. „paper walls“, „half drunk“).",
+          "Erkennt die Toleranz gegenüber individueller Freiheit im Kontext der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song schildert das Spannungsfeld zwischen Erinnerung und Gegenwart einer langjährigen, aber erschöpften Beziehung, die von Sehnsucht, Schuld und dem Wunsch nach Beständigkeit durchdrungen ist.",
+          "Die wiederholte Zeile … fungiert als Mantra, das das Festhalten an einer gemeinsamen Geschichte trotz wiederholter Fehltritte symbolisiert.",
+          "Insgesamt vermittelt der Song ein melancholisches Bild von Liebe, die trotz wiederholter Fehler und innerer Leere durch ein tiefes, fast ritualisiertes Warten am Leben bleibt, wobei das tägliche Wiederholen des Wartens sowohl Trost als auch Gefangenschaft bedeutet."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Textbezüge (z. B. „cold bed“, „paper walls“, „first one“).",
+          "Erkennt die doppelte Funktion des Wartens als Trost und Gefangenschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt das Bild einer langjährigen, aber erschöpften Beziehung, in der Erinnerungen und Sehnsucht gleichermaßen dominieren.",
+          "So wird das Lied zu einer Reflexion über das Gleichgewicht zwischen persönlicher Autonomie und dem Wunsch, an einer gemeinsamen Geschichte festzuhalten, selbst wenn diese von Wiederholungen, Fehlern und einer immer wiederkehrenden Sehnsucht nach Nähe geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse fast jeder Zeile (z. B. „cold bed“, „empty seat“, „half drunk“, „paper walls“, „you can go and have your fun“).",
+          "Erkennt und erklärt die paradoxen Elemente (Stagnation vs. Loyalität, Freiheit vs. Bindung).",
+          "Keine spekulativen oder biografischen Angaben – rein textbasiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben textnah und enthalten keine erfundenen Fakten; Unterschiede liegen hauptsächlich im Grad der analytischen Tiefe. Die Varianz ist gering, wobei Interpretation 4 die höchste Detailtiefe aufweist.",
+    "empfehlung": "Interpretation 4 ist am überzeugendsten, weil sie die größte inhaltliche Tiefe mit strikt textbasierten Aussagen kombiniert. Für zukünftige Analysen sollte man den Ansatz von Interpretation 4 als Vorbild nehmen: jede Textzeile gezielt einbinden, Mehrdeutigkeiten benennen und gleichzeitig Oberflächlichkeiten vermeiden."
+  }
+}

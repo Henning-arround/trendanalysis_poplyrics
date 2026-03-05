@@ -1,0 +1,100 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sprecher wünscht sich, dass die Musik nur für ihn gespielt wird, und dass alle anderen Anwesenden in den Hintergrund treten, um ihm eine ungeteilte Aufmerksamkeit zu ermöglichen.",
+          "Die Musik wird hier zu einem Mittel, um eine Art von Einsamkeit oder Isolation zu überwinden und eine direkte, emotionale Verbindung herzustellen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare, gut strukturierte Argumentationskette.",
+          "Verwendet konkrete Textzitate als Ausgangspunkt.",
+          "Zeigt ein gewisses Maß an analytischer Tiefe durch das Einbringen von Konzepten wie Isolation und emotionaler Verbindung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine charmante und intime Aufforderung an den Künstler, ein persönliches Konzert zu geben.",
+          "Durch die einfache, aber eindringliche Sprache und die sanfte Melodie schafft Perry Como eine Stimmung der Nähe und des Vertrauens."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute sprachliche Ausführung und flüssiger Stil.",
+          "Alle Aussagen beziehen sich konsequent auf die vier Zeilen des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sprecher wünscht sich, dass die Musik nur für ihn gespielt wird, und dass alle anderen Anwesenden in den Hintergrund treten, um ihm eine ungeteilte Aufmerksamkeit zu ermöglichen.",
+          "Durch diese Interpretation wird der Song zu einem Ausdruck der menschlichen Sehnsucht nach Verbindung und emotionaler Nähe."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die Textzeilen mit einer übergeordneten menschlichen Thematik (Sehnsucht nach Nähe).",
+          "Verwendet konsistente Terminologie, was die Lesbarkeit erhöht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anrede \"Mr. C\" gibt der Aufforderung eine formelle, aber gleichzeitig vertrauliche Note, was die Intimität des Moments unterstreicht.",
+          "Die simple, aber eindringliche Bitte um ein Lied wird so zu einem Ausdruck tiefer emotionaler Sehnsucht und Verbindung."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stilistisch einheitlich und leicht verständlich.",
+          "Betont die emotionale Komponente der Bitte."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik wird hier zu einem Mittel, um eine Art von Einsamkeit oder Isolation zu überwinden und eine direkte, ungestörte Kommunikation zwischen dem Sprecher und dem Künstler herzustellen.",
+          "Durch diese Interpretation wird der Song zu einem Ausdruck der menschlichen Sehnsucht nach Verbindung und Intimität durch die Musik."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erweitert die Analyse um das Motiv der „un­gestörten Kommunikation“.",
+          "Bleibt konsequent beim Fokus auf die vier Zeilen des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch kaum in inhaltlicher Substanz; die Varianz ist gering.",
+    "empfehlung": "Ein Ansatz, der die Textzeilen als Ausgangspunkt nutzt, aber stärker auf belegbare Textbezüge und weniger spekulative Annahmen setzt, liefert die ausgewogenste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

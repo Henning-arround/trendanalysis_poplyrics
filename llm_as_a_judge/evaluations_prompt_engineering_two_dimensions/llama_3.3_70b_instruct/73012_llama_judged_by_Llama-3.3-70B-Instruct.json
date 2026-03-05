@@ -1,0 +1,99 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Reise, Reise, Seemann, Reise' kann als Anspielung auf die maritime Geschichte und die Seefahrt interpretiert werden, die in Deutschland eine lange Tradition hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Darstellung von Gewalt und Konflikt zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'Wellen, die weinen leise' und die Bilder von 'Fisch und Fleisch zur See geflochten'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Hol weg, hol weg' am Anfang und Ende des Songs kann als ritueller Akt verstanden werden, der die Zuhörer in eine andere Welt entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Darstellung von Gewalt und Konflikt zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'Wellen, die weinen leise' und die Bilder von 'Fisch und Fleisch zur See geflochten'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Hol weg, hol weg' am Anfang und Ende des Songs kann als ritueller Akt verstanden werden, der die Zuhörer in eine andere Welt entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Darstellung von Gewalt und Konflikt zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'Wellen, die weinen leise' und die Bilder von 'Fisch und Fleisch zur See geflochten'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv, da er die Hörer mit den Bildern von Gewalt und Tod konfrontiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Darstellung von Gewalt und Konflikt zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'Wellen, die weinen leise'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Reise, Reise, Seemann, Reise' kann als Anspielung auf die maritime Geschichte und die Seefahrt interpretiert werden, die in Deutschland eine lange Tradition hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Darstellung von Gewalt und Konflikt zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'Wellen, die weinen leise' und die Bilder von 'Fisch und Fleisch zur See geflochten'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

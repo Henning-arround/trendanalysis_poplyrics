@@ -1,0 +1,96 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des Jahres 2014, einer Phase intensiver digitaler Selbstinszenierung, lässt sich das Motiv des „thing“ als Metapher für persönliche Marken‑ oder Online‑Identitäten deuten, die bei einem einzigen Fehltritt (z. B. Datenleck, Shitstorm) verloren gehen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Analyse‑Punkte lassen sich klar auf Textstellen zurückführen (z. B. Wiederholungen, Metaphern, Schuld‑ und Erinnerungs‑Motiv).",
+          "Die Interpretation balanciert konkrete Textbeobachtungen mit einer tiefgehenden, aber textbasierten Diskussion von Ambivalenz und emotionaler Spannung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in die post‑digitale Ära einordnen, in der Individualität häufig als flüchtiges Gut erlebt wird; das Motiv des „slip“ spiegelt die Angst vor dem schnellen Verlust von Online‑Identitäten wider.",
+          "Historisch verweist die Betonung von Schuld und „blood on my hands“ auf traditionelle christliche Sündenbekenntnisse, während die moderne Wiederholungsstruktur an digitale Meme‑Kultur erinnert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Aufschlüsselung von Wiederholungen und Bildkontrasten (Razor vs. Fire).",
+          "Erkennt die mehrdeutige Lesart des Vergessens als möglichen Schutzmechanismus."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des Jahres 2014, einer Phase intensiver digitaler Selbstinszenierung, lässt sich das Lied als Reflexion über die Zerbrechlichkeit von Online‑Identitäten deuten, die bei einem einzigen Fehltritt („minor flaw“) kollabieren können."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textstellen mit einer breiteren, aber textgestützten Diskussion über digitale Identitätskrisen.",
+          "Klare Herausarbeitung von Antinomien (Feuer als Wärme und Zerstörung) und deren emotionale Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext lässt sich das Werk in die post‑moderne Reflexion über Identitätsfluidität und die Angst vor dem Verlust von Authentizität einordnen, die seit den 2010er‑Jahren in der Pop‑ und Elektronikmusik vermehrt thematisiert wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Balance zwischen textnaher Analyse (Wiederholungen, Metaphern) und einer weiterführenden, aber begründeten kulturellen Einordnung.",
+          "Erklärt die Wirkung der Wiederholungen auf den Hörer und verbindet sie mit dem Motiv der permanenten Ungewissheit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext lässt sich das Werk als Reflexion der post‑digitalen Selbst‑ und Besitzkrise lesen, in der materielle und emotionale Eigentumsverhältnisse durch flüchtige Interaktionen (ein „slip“) leicht aufgelöst werden.",
+          "Historisch verortet die Betonung von Schuld und Unwissenheit an die Nachkriegs‑ und Klimakrise‑Diskurse, in denen kollektive Verantwortung oft diffus bleibt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Analyse aller zentralen Bildmotive (Haus, Razor, Fire) und ihrer kontextuellen Bedeutungen.",
+          "Verknüpft die strukturelle Spannung des Songs mit der Hörer‑Erfahrung von Unruhe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Verlust, Schuld, Wiederholungen), unterscheiden sich jedoch im Umfang der spekulativen Kontextualisierung. Die Varianz im Halluzinations‑Score ist moderat (3‑4), was auf eine insgesamt konsistente, aber leicht variierende Einbindung von nicht‑textbasierten Kontexten hinweist.",
+    "empfehlung": "Interpretationen 2, 3 und 5 bieten die beste Balance aus Texttreue und analytischer Tiefe. Insbesondere Interpretation 2 punktet durch klare, textbasierte Argumentation und nur eine einzige spekulative Aussage, weshalb sie als empfehlenswertes Modell für zukünftige LLM‑Interpretationen gilt."
+  }
+}

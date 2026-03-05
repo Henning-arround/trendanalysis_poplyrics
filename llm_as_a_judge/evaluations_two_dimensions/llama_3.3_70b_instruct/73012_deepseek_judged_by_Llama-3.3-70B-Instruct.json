@@ -1,0 +1,98 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'In ihrem Herzen steckt ein Speer' deutet auf eine tiefe Verletzung hin, die nicht nur physisch, sondern auch emotional ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Aufforderung 'Reise, Reise, Seemann, Reise' kann als eine Art von dunkler Verlockung interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die dunkle Seite der menschlichen Natur und die Zerstörung, die wir in der Welt anrichten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Jeder tut's auf seine Weise' deutet darauf hin, dass jeder Mensch seine eigene Art von Gewalt und Zerstörung auslebt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist auch von einer tiefen Melancholie und Trauer geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Szene, in der ein Kampf zwischen Menschen und Fischen stattfindet"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'In ihrem Herzen steckt ein Speer' deutet auf eine tiefe Verletzung hin, die nicht nur den Körper, sondern auch die Seele betrifft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Aufforderung 'Reise, Reise, Seemann, Reise' kann als eine Art von dunkler Verlockung interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die dunkle Seite der menschlichen Natur und die Zerstörung, die wir in der Welt anrichten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Jeder tut's auf seine Weise' deutet darauf hin, dass jeder Mensch seine eigene Art von Gewalt und Zerstörung auslebt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist auch von einer tiefen Melancholie und Trauer geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Szene, in der ein Kampf zwischen Menschen und Fischen stattfindet"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wellen, die leise weinen, symbolisieren die Trauer und den Schmerz, der durch den Tod und die Zerstörung entsteht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die dunkle Seite der menschlichen Natur und die Zerstörung, die wir in der Welt anrichten",
+          "Die Metapher des Speers, der in Fleisch und Meer ertrinkt, symbolisiert die Gewalt und den Tod"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die beste Interpretation (Nr. 5) zeigt eine hohe Texttreue und analytische Tiefe",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine hohe Texttreue und analytische Tiefe aufweist, wie Interpretation Nr. 5"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Drunk On Love\" von Basia handelt von der überwältigenden Erfahrung der Liebe, die das Leben des Protagonisten auf den Kopf stellt.",
+          "Der Song porträtiert die Liebe als eine überwältigende und unkontrollierbare Kraft, die das Leben des Protagonisten verändert und ihn in einen Zustand der Euphorie und des Glücks versetzt."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem vorliegenden Text ableiten.",
+          "Die Interpretation geht auf einzelne Bildungen (z. B. „dizzy heights“, „crescent moon“) ein und erklärt deren mögliche Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Drunk On Love\" von Basia handelt von der überwältigenden Erfahrung der Liebe, die das Leben des Protagonisten auf den Kopf stellt."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textstellen werden konkret analysiert (z. B. Trance‑Zustand, Euphorie, Symbolik des Lächelns).",
+          "Widersprüchliche oder mehrdeutige Passagen werden nicht ignoriert, sondern als mögliche Symbolik dargestellt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Drunk On Love\" von Basia handelt von der überwältigenden Erfahrung der Liebe, die das Leben des Protagonisten auf den Kopf stellt."
+        ],
+        "positive_aspekte": [
+          "Stellt einen klaren Zusammenhang zwischen den Textzeilen und der Idee einer „Verzückung“ her.",
+          "Erklärt die Verwendung von „clemency“ im Kontext des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Drunk On Love\" von Basia handelt von der überwältigenden Erfahrung der Liebe, die das Leben des Protagonisten auf den Kopf stellt."
+        ],
+        "positive_aspekte": [
+          "Geht detailliert auf die Bildsprache ein (z. B. „open books“, „hooks“).",
+          "Verknüpft die Bitte um Gnade mit der Selbstwahrnehmung des Protagonisten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Drunk On Love\" von Basia handelt von der überwältigenden Erfahrung der Liebe, die das Leben des Protagonisten auf den Kopf stellt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Trance‑Metapher und verbindet sie mit dem Handeln des Protagonisten.",
+          "Bezieht die wiederholte Refrain‑Zeile in die Analyse ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im Detailgrad. Die Wiederholungen führen zu einer hohen Oberflächlichkeit bei generischen Aussagen, während die textbezogenen Analysen konsistent bleiben.",
+    "empfehlung": "Eine gute Interpretation sollte die klaren Textbezüge beibehalten, aber gleichzeitig mehr differenzierte, textbasierte Einsichten bieten, ohne sich in allgemeinen Floskeln zu verlieren. Interpretation 1 erreicht diesen Mittelweg am besten, da sie sowohl faktentreu als auch analytisch tiefgehend ist."
+  }
+}

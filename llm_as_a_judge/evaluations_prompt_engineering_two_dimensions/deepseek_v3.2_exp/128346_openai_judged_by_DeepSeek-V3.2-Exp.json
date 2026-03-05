@@ -1,0 +1,108 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-digitale Ära",
+          "Angst vor dem schnellen Verlust von Online-Identitäten"
+        ],
+        "oberflächliche_aussagen": [
+          "zeitlos",
+          "universell"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-moderne Reflexion über Identitätsfluidität"
+        ],
+        "oberflächliche_aussagen": [
+          "Es geht um Verlust und Schuld"
+        ],
+        "positive_aspekte": [
+          "Kontrastierende Metaphern",
+          "Ambivalente Bildwelt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Phase intensiver digitaler Selbstinszenierung"
+        ],
+        "oberflächliche_aussagen": [
+          "zeitlos",
+          "universell"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kontrastierende Bildsprache"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-digitale Selbst- und Besitzkrise"
+        ],
+        "oberflächliche_aussagen": [
+          "Es geht um Verlust und Schuld"
+        ],
+        "positive_aspekte": [
+          "Wiederholungen und kontrastierende Bildsprache",
+          "Ambivalente Affektlage"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Reflexion über die Zerbrechlichkeit von Online-Identitäten"
+        ],
+        "oberflächliche_aussagen": [
+          "zeitlos",
+          "universell"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kontrastierende Metaphern"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbezogene Analysen konzentrieren und weniger auf allgemeine Aussagen"
+  }
+}

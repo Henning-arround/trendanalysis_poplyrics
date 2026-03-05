@@ -1,0 +1,114 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der Nachkriegszeit in Deutschland verbunden.",
+          "Der Song thematisiert die Erfahrungen von Soldaten, die aus dem Krieg zurückkehren und mit den Herausforderungen der Wiederintegration in die Zivilgesellschaft konfrontiert sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Die abschließenden Zeilen ... können als ein resignativer Hinweis ... interpretiert werden, aber auch als ein Plädoyer für die Hoffnung auf eine gewaltfreie Zukunft.",
+          "Der Song kann auch im kulturellen und historischen Kontext der Nachkriegszeit in Deutschland interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textzitate werden exakt wiedergegeben.",
+          "Metaphern wie „Karten stechen … kein Atout“ werden konkret mit Sinnlosigkeit des Lebens nach dem Krieg verknüpft.",
+          "Die Analyse erkennt Ambivalenz zwischen Resignation und Hoffnung, was dem mehrdeutigen Charakter des Textes gerecht wird."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der Nachkriegszeit in Deutschland verbunden.",
+          "Der Song kann als ein Kommentar zu den Erfahrungen von Soldaten und Zivilisten in dieser Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song ... eine tiefere Bedeutungsebene, die über die simple Aufforderung zur Gewaltabkehr hinausgeht.",
+          "Der Song lädt zu einer Reflexion über die Bedeutung von Gewaltverzicht und menschlicher Kommunikation ein."
+        ],
+        "positive_aspekte": [
+          "Alle zentralen Textstellen werden zitiert.",
+          "Die wiederholte Aufforderung „Leg die Knarre weg“ wird konsequent als Appell interpretiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der Nachkriegszeit in Deutschland verbunden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs wird durch die Darstellung von Einsamkeit, Verunsicherung und Resignation geprägt.",
+          "Insgesamt zeigt der Song ... eine tiefere Bedeutungsebene, die über die simple Aufforderung zur Gewaltabkehr hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textzeilen mit den Themen Krieg, Sinnlosigkeit und Gewaltverzicht.",
+          "Mehrere Textzitate belegen die Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist des Songs, ein Kriegsveteran, kehrt in eine Welt zurück, die sich grundlegend verändert hat.",
+          "Die Verwendung von Metaphern wie \"Die Karten stechen alle nicht / Im Spiel ist kein Atout\" unterstreicht die Sinnlosigkeit und Ziellosigkeit des Lebens nach dem Krieg."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Aufforderung ... kann als Mahnung zur Gewaltabkehr verstanden werden, aber auch als Ausdruck der inneren Stimme des Protagonisten.",
+          "Insgesamt zeigt der Song ... eine tiefere Bedeutungsebene, die über die simple Aufforderung zur Gewaltabkehr hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Zitate aus dem Song werden exakt wiedergegeben.",
+          "Die Analyse erkennt die wiederholte Struktur des Refrains und verbindet sie mit dem Thema Gewaltverzicht."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist des Songs, ein Kriegsveteran, kehrt in eine Welt zurück, die sich grundlegend verändert hat.",
+          "Die Metapher \"Karten stechen … kein Atout\" wird als Hinweis auf die Sinnlosigkeit des Lebens nach dem Krieg interpretiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Aufforderung ... kann als Mahnung zur Gewaltabkehr verstanden werden, aber auch als Ausdruck der inneren Stimme des Protagonisten.",
+          "Insgesamt zeigt der Song ... eine tiefere Bedeutungsebene, die über die simple Aufforderung zur Gewaltabkehr hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Textbelege stärken die Argumentation.",
+          "Die Analyse bleibt beim Text und vermeidet unbegründete biografische Details."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich in der Tiefe der Analyse. Die meisten Aussagen sind textbasiert, jedoch gibt es einen moderaten Anteil an spekulativen bzw. oberflächlichen Formulierungen.",
+    "empfehlung": "Eine Interpretation, die konkrete Textzitate mit einer differenzierten, aber textgebundenen Analyse kombiniert (wie Interpretation 4), erzielt das beste Gleichgewicht zwischen Faktentreue und interpretativer Tiefe. Modelle sollten darauf achten, spekulative historische oder biografische Aussagen zu vermeiden und stattdessen mehrschichtige, textbasierte Deutungen zu liefern."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Nachkriegszeit einordnen, in der amerikanische Popkultur vermehrt Themen von Identität, Schuld und moralischer Verantwortung behandelte.",
+          "Die Figur des „Satan“ kann als Metapher für die wachsende Angst vor ideologischer Manipulation in einer Ära des Kalten Krieges gelesen werden, während das „heart of stone“ zugleich die gesellschaftliche Erwartung an emotionale Härte reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von „Who's to blame“ und die offene Frage erzeugen ein Gefühl der Unsicherheit und lassen den Hörer im affektiven Zwiespalt zwischen Mitgefühl und Distanz zurück.",
+          "Die Textpassagen bleiben bewusst mehrdeutig – Schuld, Scham und die Quelle des „Steins“ bleiben offen, was die Interpretation zu einem fortwährenden kulturellen Dialog macht."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge und klare Analyse der zentralen Metaphern (Herz aus Stein, Sonne, Rosen, Satan).",
+          "Stellt die Ambivalenz von Schuld und Fremdbestimmung deutlich heraus."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Nachkriegszeit einordnen, in der amerikanische Popmusik häufig romantische Ideale mit unterschwelligen Ängsten vor sozialer Entfremdung verband.",
+          "Die wiederholte Unschärfe („Tell me, was it a man“) lässt das Subjekt sowohl als Opfer als auch als Täter erscheinen, was die kulturelle Spannung zwischen individueller Freiheit und struktureller Determination reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten des Textes – etwa die gleichzeitige Präsenz von „breeze“ und „stone“ – verhindern eine eindeutige Deutung und öffnen den Raum für multiple, widersprüchliche Lesarten."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Bildsprache (Sonne, Gold, Rosen, Satan) mit der zentralen Aussage des „heart of stone“.",
+          "Konsistente Analyse der Gegenüberstellung von Leichtigkeit und Härte."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in das Nachkriegs‑ und Früh‑Cold‑War‑Umfeld von 1956 einordnen, einer Zeit, in der gesellschaftliche Normen nach außen hin glänzten („gold“, „sunrays“), während innere Unsicherheiten und ideologische Ängste – verkörpert durch das Bild des „Satan“ – unterschwellig wirkten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Unschärfe der Figuren („someone“, „a man“, „Satan“) verhindert eine eindeutige Zuordnung von Schuld und lässt den Hörer in einem Feld von Mehrdeutigkeiten verharren, das die kulturelle Spannung zwischen öffentlicher Fassade und privatem, möglicherweise erstarrtem Selbst reflektiert."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der doppelten Metaphern und der Spannung zwischen Natur‑ und Stein‑Symbolik.",
+          "Verknüpft Textanalyse mit einem plausiblen, wenn auch spekulativen, historischen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück in einer Nachkriegszeit entstanden, in der amerikanische Popkultur häufig moralische Dualismen (Gut vs. Böse, Freiheit vs. Konformität) verarbeitete.",
+          "Die Figur des „heart of stone“ kann als Allegorie für gesellschaftliche Starrheit oder rassische Diskriminierung gelesen werden, wobei die Textzeilen bewusst keine klare Ursache benennen („Tell me, was a man“)."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguitäten lassen die emotionale Wirkung schwanken zwischen Mitgefühl für das leidende Subjekt und einer kritischen Distanz gegenüber der dargestellten Schuldzuweisung.",
+          "Diese Offenheit erzeugt ein anhaltendes Spannungsfeld: Der Hörer bleibt zwischen der Suche nach einem Schuldigen und der Akzeptanz einer unauflösbaren inneren Härte gefangen."
+        ],
+        "positive_aspekte": [
+          "Detaillierte Metapherninterpretation (Schatten, Sonne, Gold, Rosen, Satan).",
+          "Gute Verknüpfung von Bildsprache und möglicher gesellschaftlicher Allegorie."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Lied in die Nachkriegszeit einordnen, in der amerikanische Popkultur häufig moralische Dualismen (Sünde vs. Erlösung) verarbeitete.",
+          "Die Verwendung von religiösen Motiven und Naturbildern spiegelt zugleich die Suche nach Identität in einer Gesellschaft wider, die zwischen traditioneller Moral und aufkommender Individualität schwankt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten – etwa die unbestimmte „someone“, das undefinierte „master“ und die gleichzeitige Verquickung von Schönheit und Verdammnis – verhindern eine eindeutige Lesart und lassen den Hörer im Spannungsfeld zwischen Empathie für das Opfer und Kritik an dessen innerer Starrheit verharren."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der Bildsprache (Scham, Stimme, Gold, Satan).",
+          "Klare Unterscheidung zwischen Symbolen und deren möglicher Bedeutung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen moderate Varianz: Halluzinationsraten liegen zwischen 20 % und 25 %, Tiefe‑Scores zwischen 3 und 4. Alle Analysen greifen die Kernmetaphern des Textes auf, unterscheiden sich jedoch im Umfang historischer Kontextualisierungen.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance aus Texttreue und analytischer Tiefe bei gleichzeitig geringster Halluzinationsrate. Für zukünftige Bewertungen sollte man spekulative Geschichtseinordnungen klar kennzeichnen oder weglassen, um die Halluzinations‑Score zu senken, während die bereits solide Metaphernanalyse beibehalten wird."
+  }
+}

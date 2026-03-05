@@ -1,0 +1,101 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des späten 1990‑Jahre‑Britpop‑ und R&B‑Durchbruchs spiegelt das Lied die damalige Populärkultur wider, die emotionale Extreme und dramatisierte Liebesbeziehungen glorifizierte.",
+          "Historisch lässt sich die Betonung von „survival“ und „lost“ in einer postmodernen Gesellschaft verorten, in der Identität zunehmend über Beziehungen definiert wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr konkrete Textbezüge (Wiederholungen, Metaphern, Bildsprache).",
+          "Klare Analyse von Anaphern und deren Wirkung.",
+          "Erkennt die Ambivalenz von Liebe vs. Abhängigkeit und bleibt dabei textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des späten 1990‑Jahre‑Britannien spiegelt das Lied die Pop‑Ballade‑Tradition, die persönliche Vulnerabilität in den Vordergrund stellt, während gleichzeitig gesellschaftliche Diskurse über emotionale Selbstständigkeit und die Kritik an romantischer Ideologie aufkommen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft stilistische Mittel (Anaphern, Wiederholungen) mit inhaltlicher Bedeutung.",
+          "Erklärt die doppelte Symbolik von „love“ als Rettung und Falle.",
+          "Bietet einen gut strukturierten kulturellen Rahmen, der jedoch größtenteils spekulativ bleibt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext der späten 1990‑Jahre, geprägt von Pop‑Balladen und einer wachsenden Individualisierung, reflektiert das Stück die gender‑spezifische Erwartung, dass Frauen ihre emotionale Stabilität über die Beziehung definieren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detaillierte Analyse von Wiederholungen und Parallelismen.",
+          "Erkennt subtile Machtspiel‑Dynamiken im Text.",
+          "Verbindet Textanalyse mit einer differenzierten Sicht auf Ambivalenz zwischen Sehnsucht und Manipulation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des späten 1990‑Jahre‑Pop, geprägt von Balladen, die persönliche Krise in großem Stil darstellen, reflektiert der Song das postmoderne Narrativ von Selbstidentität, das stark an zwischenmenschliche Bindungen geknüpft ist.",
+          "Historisch folgt er der Tradition der „Love‑or‑death“-Motivation, doch die wiederholte Betonung von „I can’t get you out of my mind“ und das Fehlen einer Gegenstimme erzeugen einen inneren Widerspruch."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende stilistische Analyse (Anaphern, Metaphern, narrative Fragmentierung).",
+          "Verknüpft Textmerkmale mit einer breiteren postmodernen Interpretation.",
+          "Erkennt die Mehrdeutigkeit zwischen Rettungsanker und Gefängnis."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des späten 1990‑Jahre‑Pop, in dem Balladen häufig weibliche Verletzlichkeit inszenierten, reflektiert das Stück die damalige Ideologie von romantischer Unverzichtbarkeit und gleichzeitigem Wunsch nach individueller Autonomie."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textstellen (Zeilennummern) mit Analyse.",
+          "Klare Darstellung von thematischer Mehrschichtigkeit (Lebensrettung vs. Erdrückung).",
+          "Stilistische Beobachtungen (Anaphern, Fragmentarität) sind gut belegt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen behandeln dieselben Kernpunkte (Wiederholungen, Anaphern, Ambivalenz von Liebe/Abhängigkeit). Die Varianz liegt hauptsächlich im Umfang spekulativer kultureller Kontextualisierungen – Interpretation 2 und 3 enthalten die meisten unbelegten Kontext‑Aussagen, wodurch ihr Halluzinations‑Score niedriger ist.",
+    "empfehlung": "Für eine ausgewogene Bewertung sollte man Interpretationen bevorzugen, die stark textbezogen bleiben und nur minimal spekulative Kontextualisierungen einfließen lassen. Interpretation 2 bietet die tiefste Analyse bei gleichzeitig geringstem Halluzinationsanteil und ist daher am empfehlenswertesten."
+  }
+}

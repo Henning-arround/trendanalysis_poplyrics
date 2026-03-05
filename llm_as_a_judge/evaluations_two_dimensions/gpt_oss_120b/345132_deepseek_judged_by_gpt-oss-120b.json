@@ -1,0 +1,125 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... beschreibt die emotionale Qual und Verzweiflung eines Menschen, der von seiner Partnerin verlassen wurde.",
+          "Die Stadt, durch die er stolpert, scheint leer und sinnlos, jede Frau, die er sieht, erinnert ihn an seine verlorene Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain ... wird zu einem Mantra der Verzweiflung, das seine unermüdliche Suche nach Trost und Ablenkung ausdrückt.",
+          "Gegen Ende des Songs wird die Hilflosigkeit des Protagonisten immer deutlicher, er ruft nach einem Arzt, nach jemandem, der ihm helfen kann, seine emotionalen Schmerzen zu lindern.",
+          "Die Wiederholung von \"somebody help me\" und \"I gotta keep walking\" unterstreicht die Dringlichkeit seiner emotionalen Not.",
+          "Der Song ist eine Klage über die Zerstörung durch Liebesschmerz und die Suche nach einem Weg, mit dieser Last umzugehen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Bildsprache des Textes (Regen, Kälte, Stadt, Puppen, Wiederholungen).",
+          "Verknüpft wiederkehrende Zeilen („til my back ain’t got no bone“) mit einer plausiblen Interpretation (Erschöpfung).",
+          "Bleibt weitgehend textnah und vermeidet unbegründete biografische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... beschreibt die emotionale Qual und Verzweiflung eines Menschen, der von seiner Partnerin verlassen wurde.",
+          "Die Stadt, durch die er stolpert, scheint leer und sinnlos, jede Frau, die er sieht, erinnert ihn an seine verlorene Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain ... wird zu einem Mantra der Verzweiflung, das seine unermüdliche Suche nach Trost und Ablenkung ausdrückt.",
+          "Gegen Ende des Songs wird die Hilflosigkeit des Protagonisten immer deutlicher, er ruft nach einem Arzt, nach jemandem, der ihm helfen kann, seine emotionalen Schmerzen zu lindern.",
+          "Die Wiederholung von \"somebody help me\" und \"I gotta keep walking\" unterstreicht die Dringlichkeit seiner emotionalen Not.",
+          "Der Song ist eine Klage über die Zerstörung durch Liebesschmerz und die Suche nach einem Weg, mit dieser Last umzugehen."
+        ],
+        "positive_aspekte": [
+          "Gute Beobachtung der wiederholten Motive (Regen, Kälte, „back ain’t got no bone“).",
+          "Verknüpft Textstellen mit einer konsistenten Lesart (Verzweiflung, Hilflosigkeit)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... beschreibt die emotionale Qual und Verzweiflung eines Menschen, der von seiner Partnerin verlassen wurde.",
+          "Die Stadt, durch die er stolpert, scheint leer und sinnlos, jede Frau, die er sieht, erinnert ihn an seine verlorene Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain verdeutlicht seine Hartnäckigkeit und seinen Willen, nicht aufzugeben, selbst wenn es die ganze Nacht dauert.",
+          "Der Song wird zunehmend dringlicher und verzweifelter, der Protagonist ruft nach Hilfe, fühlt sich verloren und verlangt nach Unterstützung.",
+          "Die Wiederholung des Satzes \"somebody help me\" wird zu einem Schreien nach Erlösung.",
+          "Der Song ist eine Klage über die emotionale Leere und den Schmerz, der durch eine gescheiterte Beziehung entstanden ist."
+        ],
+        "positive_aspekte": [
+          "Erfasst die zentrale Wiederholung von „Call me a doctor“ und „Somebody help me“.",
+          "Bietet eine nachvollziehbare Lesart, die die Dringlichkeit des Sprechers betont."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... beschreibt die emotionale Qual und Verzweiflung eines Menschen, der von seiner Partnerin verlassen wurde.",
+          "Die Stadt, durch die er stolpert, scheint leer und sinnlos, jede Frau, die er sieht, erinnert ihn an seine verlorene Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wird zunehmend dringlicher und verzweifelter, der Protagonist ruft nach Hilfe, nach einem Arzt, nach jemandem, der ihm beisteht.",
+          "Die Wiederholung des Satzes \"somebody help me\" wird zu einem Schreien nach Erlösung.",
+          "Die Zeile \"I gotta keep walking\" zeigt, dass er sich nicht stoppen lassen kann, solange er nicht gefunden hat, was er sucht.",
+          "Der Song ist eine Klage über die emotionale Leere und den Schmerz, der durch eine gescheiterte Liebe verursacht wurde."
+        ],
+        "positive_aspekte": [
+          "Verbindet Textzitate mit einer klaren, wenn auch etwas generischer, Interpretation.",
+          "Erkennt die wiederholte Bitte um Hilfe als zentrales Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... beschreibt die emotionale Qual und Verzweiflung eines Menschen, der von seiner Partnerin verlassen wurde.",
+          "Die Stadt, durch die er stolpert, scheint leer und sinnlos, jede Frau, die er sieht, erinnert ihn an seine verlorene Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain ... wird zu einem Mantra der Verzweiflung, das seine unermüdliche Suche nach Trost und Ablenkung ausdrückt.",
+          "Gegen Ende des Songs wird die Hilflosigkeit des Protagonisten immer deutlicher, er ruft nach einem Arzt, nach jemandem, der ihm helfen kann, und fleht um Unterstützung.",
+          "Der Song endet mit der resignierten Erkenntnis, dass er weiterlaufen muss, um nicht völlig zusammenzubrechen.",
+          "Der Song ist eine Klage über die dunkle Seite der Liebe und die emotionale Zerstörung, die durch eine Trennung entstehen kann."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die wiederkehrende Metapher des „rückens ohne Knochen“ als Symbol für Erschöpfung.",
+          "Bezieht sich auf mehrere Textstellen (Regen, Stadt, Puppen, Wiederholungen) und bleibt dabei textnah."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen ein sehr ähnliches Muster von 2 erfundenen, 3 belegten und 4 oberflächlichen Aussagen, was zu einer geringen Varianz (Score‑Spanne 3–3) führt.",
+    "empfehlung": "Die Modelle liefern konsistent moderate Qualität: sie bleiben größtenteils textnah, erzeugen aber viele vage, nicht belegte Aussagen. Für eine höhere Tiefe sollten zukünftige Modelle stärker zwischen belegbaren Textbelegen und spekulativen Interpretationen differenzieren und weniger generische Klagen über „Liebesschmerz“ ohne konkrete Textunterstützung einbringen."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung ist am Ende, aber noch nicht bereit, loszulassen"
+        ],
+        "oberflächliche_aussagen": [
+          "Sie sind in einer Art Stillstand gefangen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung ist zum Stillstand gekommen"
+        ],
+        "oberflächliche_aussagen": [
+          "Sie geben immer mehr von sich selbst, um die Beziehung am Leben zu erhalten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung ist somit zum Stillstand gekommen"
+        ],
+        "oberflächliche_aussagen": [
+          "Sie sind in einer Situation, in der sie sich gegenseitig wehtun"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung ist somit zum Stillstand gekommen"
+        ],
+        "oberflächliche_aussagen": [
+          "Sie geben immer mehr von sich selbst, um die Beziehung am Leben zu erhalten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung ist somit zum Stillstand gekommen"
+        ],
+        "oberflächliche_aussagen": [
+          "Sie sind in einer Situation, in der sie sich gegenseitig wehtun"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und wiederholen sich in ihren Aussagen",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

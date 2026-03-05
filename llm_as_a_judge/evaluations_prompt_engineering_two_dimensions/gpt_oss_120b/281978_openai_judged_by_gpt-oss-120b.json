@@ -1,0 +1,131 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Kern des Liedes ist ein unmittelbares Verlangen nach Nähe, das zugleich als persönliche Notlage und als kollektives Symbol für das Wiederaufleben nach dem Krieg gelesen werden kann.",
+          "Die wiederholte Anrede „Lordy, Lordy, …“ (Zeile 1) fungiert als fast liturgischer Aufruf, während die Zeile „She says I need your loving and I need it very bad“ (Zeile 2) das Bedürfnis nach emotionaler und körperlicher Zuwendung betont.",
+          "Die Aussage „You know I miss you, don't you mean I want to kiss you“ (Zeile 3‑4) verdoppelt das Motiv des Vermissens und des Kusses, lässt jedoch offen, ob das „you“ die Geliebte, das Publikum oder ein abstraktes Ideal ist – eine Ambiguität, die Spannung zwischen individueller Sehnsucht und gesellschaftlicher Erwartung erzeugt.",
+          "Stilistisch dominieren Wiederholungen („You know I miss you…“, „The sky is getting clearer…“) und einfache Bildhaftigkeit, die zugleich als Metapher für Klarheit und Annäherung dient („The sky is getting clearer, I know she's getting nearer“, Zeile 5‑6).",
+          "Das Bild des klaren Himmels kann als Symbol für das Ende der Nachkriegsdunkelheit gelesen werden, während das „coming home“ (Zeile 7) sowohl Heimkehr einer Partnerin als auch Rückkehr zu einer kulturellen Heimat impliziert.",
+          "Die narrative Struktur bleibt fragmentarisch: Es gibt keinen klaren Anfang oder Abschluss, was die offene, fast improvisatorische Form des frühen Rock‑’n‑Roll widerspiegelt.",
+          "Historisch verortet sich das Stück 1952 im Aufstieg des Rhythm‑and‑Blues, einer Musikform, die afro‑amerikanische Erfahrungen von Sehnsucht, Mobilität und sozialer Integration artikulierte.",
+          "Die wiederholte Betonung von „need“ und „miss“ spiegelt die post‑war‑generationale Unsicherheit wider, während die Versprechen von körperlicher Nähe („hold her tight in my arms“) gleichzeitig traditionelle Geschlechterrollen bestärken und zugleich durch die lockere, fast spielerische Sprache die beginnende Emanzipation von Sexualität andeuten.",
+          "Die Textwidersprüche – etwa das gleichzeitige Bekenntnis zu intensiver Liebe und die unbestimmte Identität des „you“ – bleiben ungelöst und öffnen einen Raum für multiple Deutungen, die das Lied zu einem kulturellen Spiegel seiner Zeit machen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Textanalyse mit vielen konkreten Bezügen zu einzelnen Zeilen.",
+          "Erkennt und diskutiert Mehrdeutigkeiten und Ambiguitäten im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Kern des Liedes ist ein intensives Verlangen nach Nähe, das zugleich als einfache Liebesbotschaft und als Ausdruck einer tieferen Sehnsucht nach sozialer Zugehörigkeit gelesen werden kann.",
+          "Die wiederholte Anrede „Lordy, Lordy, …“ (Zeile 1) eröffnet einen fast liturgischen Ton.",
+          "Die Zeilen „She says I need your loving and I need it very bad“ und „You know I miss you, don't you know I want to kiss you“ (Zeilen 2‑4) betonen das unmittelbare Begehren nach körperlicher Zuwendung.",
+          "Gleichzeitig bleibt unklar, wer „she“ ist – ein Partner, eine metaphorische Figur oder das Publikum – was die thematische Komplexität erhöht, weil das Subjekt des Verlangens nicht eindeutig definiert ist.",
+          "Stilistisch dominieren Wiederholungen („You know I miss you…“, „The sky is getting clearer…“) und einfache Bildsprache, die jedoch mehrdeutig wirkt.",
+          "Die Metapher „The sky is getting clearer, I know she's getting nearer“ verbindet Wetter mit Annäherung, suggeriert aber zugleich eine mögliche Auflösung von Unsicherheit und gleichzeitig das Fortbestehen von Distanz, weil das „Klarwerden“ des Himmels nicht zwangsläufig das Erreichen der Geliebten garantiert.",
+          "Das Bild des Umarmens („I'm gonna hold her tight in my arms“) wirkt als emotionaler Höhepunkt, doch die Vorhersehbarkeit der Phrase erzeugt eine Spannung zwischen Erwartung und möglicher Enttäuschung, die das Lied bewusst offen lässt.",
+          "Im historischen Kontext von 1952, einer Zeit des Nachkriegsoptimismus und gleichzeitig anhaltender Rassentrennung in den USA, spiegelt das Stück die Sehnsucht nach persönlicher und gesellschaftlicher Nähe wider, die in afro‑amerikanischen Rhythm-and-Blues‑Traditionen häufig kodiert ist.",
+          "Die wiederholte Bitte nach „loving“ (Zeile 2) kann als Hinweis auf die marginalisierte Suche nach emotionaler Anerkennung interpretiert werden, während die unaufgelöste Ambiguität zwischen „she“ und dem Sprecher ein Spannungsfeld zwischen individueller Liebe und kollektiver Identität eröffnet, das bewusst im Unausgesprochenen verharrt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Wiederholungen und Bildsprache.",
+          "Verknüpfung von Textmerkmalen mit einem breiteren gesellschaftlichen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Kern des Liedes ist ein intensives Verlangen nach Nähe, das zugleich in einer fast rituellen Wiederholung verankert ist: „She says I need your loving and I need it very bad“ und das wiederholte „You know I miss you, don't you know I want to kiss you“ stellen das Bedürfnis nach körperlicher Zuwendung in den Vordergrund, während das wiederholte „Lordy“ als lautmalerischer Aufruf die Dringlichkeit betont.",
+          "Gleichzeitig bleibt unklar, wer „she“ ist – ein konkreter Partner, ein Ideal oder ein Symbol für das verlorene Glück – was die thematische Komplexität erhöht, weil das Subjekt des Begehrens nicht eindeutig definiert ist.",
+          "Stilistisch dominieren Wiederholungen („You know I miss you…“, „The sky is getting clearer…“) und einfache Bildsprache, die jedoch mehrdeutig wirkt: „The sky is getting clearer, I know she's getting nearer“ verbindet ein natürliches Phänomen mit der Annäherung einer Person, wobei das Bild des klaren Himmels sowohl Hoffnung als auch das Durchdringen von Distanz suggeriert.",
+          "Die Zeile „And when she comes home I'm gonna hold her tight in my arms“ bildet einen narrativen Abschluss, der jedoch im Kontrast zu den vorherigen, fast stummen Wiederholungen steht und damit Spannung zwischen Erwartung und Erfüllung erzeugt.",
+          "Emotional erzeugt das Stück durch die monotone Wiederholung ein Gefühl von Sehnsucht, das zugleich beruhigend und quälend wirkt; die Wiederholungen verstärken die affektive Intensität, ohne sie zu lösen.",
+          "Historisch lässt sich das 1952 veröffentlichte Lied in den Kontext der Nachkriegszeit einordnen, in der romantische Balladen häufig als Ausdruck von Wiederherstellung persönlicher und gesellschaftlicher Stabilität dienten, während traditionelle Geschlechterrollen das Bild des wartenden Mannes („I’m gonna hold her tight“) bestärken.",
+          "Die Ambiguität zwischen öffentlicher Darbietung (die repetitive Struktur) und privatem Verlangen (die intime Ansprache) bleibt ungelöst und offenbart ein Spannungsfeld zwischen individueller Sehnsucht und den normativen Erwartungen der damaligen Popkultur."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textwiederholungen mit emotionaler Wirkung.",
+          "Berücksichtigung historischer Rahmenbedingungen, wenn auch spekulativ."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Kern des Liedes ist ein unmittelbares Verlangen nach Nähe, das sich in den wiederholten Zeilen manifestiert.",
+          "Diese Aussage wird durch die doppelte Betonung von „need your loving“ und „need it very bad“ verstärkt, wodurch das lyrische Ich nicht nur Sehnsucht, sondern ein fast zwingendes Bedürfnis ausdrückt.",
+          "Gleichzeitig bleibt die Botschaft ambivalent, weil das „she“ im Refrain sowohl als konkrete Geliebte als auch als abstrakte Idee von Liebe gelesen werden kann, was die thematische Komplexität erhöht.",
+          "Stilistisch nutzt der Text einfache Wiederholungen („Lordy, Lordy…“, „The sky is getting clearer, I know she's getting nearer“) als rhythmische und symbolische Mittel.",
+          "Die Metapher des klarer werdenden Himmels suggeriert eine Auflösung von Ungewissheit, während das Bild des „coming home“ und des „hold her tight in my arms“ eine Rückkehr in ein vertrautes, geschütztes Gefüge evoziert.",
+          "Die Wiederholung erzeugt jedoch auch eine Spannung zwischen der Erwartung von Klarheit und der persistierenden Unsicherheit, die im wiederholten „need it very bad“ mitschwingt.",
+          "Historisch verortet sich das Stück 1952 im Aufbruch der Rock‑‘n‑Roll‑Ära, einer Zeit, in der jugendliche Sehnsüchte und emotionale Direktheit zunehmend musikalisch artikuliert wurden.",
+          "In diesem Kontext kann das Lied als Ausdruck einer post‑Kriegsgeneration gelesen werden, die nach stabilen Bindungen sucht, während gleichzeitig gesellschaftliche Normen noch stark von traditionellen Rollenmustern geprägt waren.",
+          "Die offene Formulierung von Bedürftigkeit und das Fehlen einer klaren Auflösung („when she comes home…“) lassen Raum für eine symbolische Ordnung, in der das „home“ sowohl ein physischer Ort als auch ein emotionaler Zustand sein kann, dessen Erreichbarkeit jedoch nie endgültig bestätigt wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Strukturierung der Analyse nach Text, Stil und historischem Kontext.",
+          "Erkennt und diskutiert die Mehrdeutigkeit der Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Aussagekern des Liedes ist ein intensives Verlangen nach Nähe, das zugleich als Bedürfnis nach emotionaler und körperlicher Zuwendung formuliert wird („She says I need your loving and I need it very bad“, „You know I miss you, don't you know I want to kiss you“).",
+          "Die Wiederholung der Refrains verstärkt die Monotonie des Begehrens und lässt zugleich Raum für Mehrdeutigkeit: Während das „Loving“ als liebevolle Zuwendung gelesen werden kann, suggeriert die Formulierung „very bad“ eine fast pathologische Dringlichkeit, die das Verhältnis zwischen Sehnsucht und Abhängigkeit offenlässt.",
+          "Stilistisch dominieren einfache, fast kindliche Wiederholungen („Lordy, Lordy…“, „The sky is getting clearer, I know she's getting nearer“) und bildhafte Metaphern, die das Wetter als Symbol für emotionale Klarheit nutzen.",
+          "Der Himmel, der „klarer“ wird, fungiert als Bild für das Aufkommen der Geliebten, doch die Gleichsetzung von Wetter und zwischenmenschlicher Nähe erzeugt eine Spannung zwischen Natur und menschlicher Beziehung, die nicht eindeutig aufgelöst wird.",
+          "Die Zeile „And when she comes home I'm gonna hold her tight in my arms“ verknüpft das Heimkehren mit körperlicher Umarmung, lässt jedoch offen, ob das „Home“ ein physischer Ort oder ein innerer Zustand ist.",
+          "Historisch entstand das Stück 1952 im Kontext des aufkommenden Rhythm‑and‑Blues, einer Musikform, die afro‑amerikanische Ausdrucksformen in den Mainstream brachte und gleichzeitig soziale Normen von Geschlechterrollen und emotionaler Offenheit hinterfragte.",
+          "Die explizite Bekenntnis­formulierung („I need your loving“) widerspricht der damaligen öffentlichen Zurückhaltung, während die repetitive Struktur an traditionelle Arbeitslieder erinnert und damit eine kulturelle Dualität zwischen persönlicher Leidenschaft und kollektiver Rhythmik erzeugt.",
+          "Diese Ambivalenz bleibt bewusst offen, sodass das Lied sowohl als Liebesbekenntnis als auch als Kommentar zu den Zwängen der Nachkriegs‑Gesellschaft gelesen werden kann."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Stil, Bildsprache und möglicher kultureller Dualität.",
+          "Verknüpfung von Textmerkmalen mit historischen Entwicklungen des Rhythm‑and‑Blues."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein hohes Maß an inhaltlicher Tiefe, jedoch überschreiten sie konsequent die Grenze zur Halluzination, da sie kaum faktisch belegbare Aussagen enthalten. Die Varianz der Scores ist gering – Halluzination immer 1, Tiefe immer 4.",
+    "empfehlung": "Ein guter Ansatz für die Interpretation von Songtexten sollte stärker an den tatsächlich vorhandenen Textzeilen verankert sein und spekulative historische oder biografische Kontextualisierungen nur dann einbringen, wenn sie durch externe, verlässliche Quellen belegt sind. Die Interpretation mit der Nummer 3 ist am überzeugendsten, weil sie die meisten Textdetails nutzt und die Mehrdeutigkeiten besonders klar herausarbeitet, obwohl sie ebenfalls halluziniert."
+  }
+}

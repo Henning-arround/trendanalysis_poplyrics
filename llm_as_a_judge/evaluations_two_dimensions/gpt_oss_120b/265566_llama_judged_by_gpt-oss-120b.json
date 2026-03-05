@@ -1,0 +1,113 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains \"Then we'll do it one more time\" unterstreicht die Verzweiflung und die Sehnsucht nach diesem letzten gemeinsamen Erlebnis.",
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit festhalten und noch einmal die Intensität und die Leidenschaft des Moments erleben, bevor es zu spät ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und tief empfundene Ballade, die die universelle Sehnsucht nach Liebe und Verbindung ausdrückt.",
+          "Die Musik und der Gesang verstärken die emotionale Wirkung des Textes und schaffen eine intensive und berührende Atmosphäre."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die im Text genannten Motive (letzter Abend, letzte Nacht, letzter Sonnenuntergang).",
+          "Verknüpft die wiederholte Zeile \"one more time\" mit dem Thema des letzten gemeinsamen Moments."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains ... unterstreicht die Verzweiflung und die Sehnsucht nach diesem letzten gemeinsamen Erlebnis.",
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit und die Liebe nicht loslassen und gibt sich noch einmal der Illusion hin, dass alles wie früher sein könnte, auch wenn dies nur für einen kurzen Moment ist.",
+          "Durch die Tanzmetapher ... wird die Freiheit und die Ekstase des Moments unterstrichen, in dem die Sängerin sich von ihren Sorgen und Ängsten befreit und einfach lebt.",
+          "Die wiederholte Betonung des \"one more time\" wird zu einem Mantra, das die unstillbare Sehnsucht nach diesem letzten gemeinsamen Erlebnis ausdrückt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt die Kernaussagen des Textes (Herz‑ und Geist‑Stärke, letzte Nacht/Sonnenuntergang) klar heraus.",
+          "Verwendet konkrete Textzitate, um die Interpretation zu verankern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains ... unterstreicht die Verzweiflung und die Sehnsucht nach diesem letzten gemeinsamen Erlebnis.",
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit und die Liebe nicht loslassen und gibt sich selbst und ihrem Partner noch einmal die Chance, die Nacht in vollen Zügen zu genießen.",
+          "Die Zeile \"You can shut the lights, but you can't take the sunshine from me\" symbolisiert die Unzerstörbarkeit der inneren Lichtquelle und die Fähigkeit, auch in dunklen Zeiten Hoffnung und Freude zu finden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und tiefgründige Reflexion über die Endlichkeit von Beziehungen und die Sehnsucht nach einem letzten, unvergesslichen Moment."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf die Textzeile über das Licht und interpretiert sie im Kontext von Hoffnung.",
+          "Erkennt die wiederholte Struktur des Refrains als zentrales Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains ... unterstreicht die Verzweiflung und die Sehnsucht nach diesem letzten gemeinsamen Erlebnis.",
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit und die Liebe nicht loslassen und gibt sich selbst und ihrem Partner noch einmal die Chance, die Nacht in vollen Zügen zu genießen.",
+          "Die Zeile \"You can shut the lights, but you can't take the sunshine from me\" symbolisiert die Unzerstörbarkeit der inneren Lichtquelle und die Fähigkeit, auch in dunklen Zeiten Hoffnung und Freude zu finden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und tiefgründige Reflexion über die Endlichkeit von Beziehungen und die Sehnsucht nach einem letzten, unvergesslichen Moment."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die Licht‑Metapher mit einem positiven, hoffnungsvollen Unterton.",
+          "Erfasst die zentrale Botschaft von „letztem“ und „noch einmal“ im Refrain."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains ... unterstreicht die Verzweiflung und die Sehnsucht nach diesem letzten gemeinsamen Erlebnis.",
+          "Die Sängerin will die Erinnerung an die gemeinsame Zeit und die Liebe nicht loslassen und gibt sich selbst und ihrem Partner noch einmal die Chance, die Nacht in vollen Zügen zu genießen.",
+          "Die Zeile \"You can shut the lights, but you can't take the sunshine from me\" symbolisiert die Unzerstörbarkeit der inneren Lichtquelle und die Fähigkeit, auch in dunklen Zeiten Hoffnung und Freude zu finden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und tiefgründige Reflexion über die Endlichkeit von Beziehungen und die Sehnsucht nach einem letzten, unvergesslichen Moment."
+        ],
+        "positive_aspekte": [
+          "Gute Verbindung zwischen Textzitat und interpretativem Kontext.",
+          "Erkennt die wiederholte Phrase \"one more time\" als zentrales Motiv."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2.0,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im Detailgrad der Analyse. Die Halluzinationsraten schwanken stark (1‑3), was auf inkonsistente Tiefe hinweist.",
+    "empfehlung": "Eine Interpretation, die sowohl texttreu bleibt (geringe Halluzinationsrate) als auch mehrere konkrete Textbezüge liefert, erzielt die höchste Qualität. Modellvarianten sollten darauf trainiert werden, spekulative Bedeutungszuweisungen zu kennzeichnen und zu minimieren, während sie gleichzeitig mehr differenzierte, textbasierte Analysen anbieten."
+  }
+}

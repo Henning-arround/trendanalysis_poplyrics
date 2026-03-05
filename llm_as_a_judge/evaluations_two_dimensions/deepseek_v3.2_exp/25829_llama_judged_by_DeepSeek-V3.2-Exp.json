@@ -1,0 +1,99 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fähigkeit, 'über's Wasser zu gehn', kann metaphorisch für die Fähigkeit gesehen werden, sich über die Probleme und Sorgen des Lebens hinwegzusetzen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sprecher scheint sich von der Welt um ihn herum abgekoppelt zu haben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Ironie in der wiederholten Aussage 'Es geht mir gut'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Er beobachtet die Welt um ihn herum, ohne sich aktiv einzubringen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sprecher befindet sich in einem Zustand der Apathie"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Resignation und das Desinteresse des Sprechers"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Er beobachtet die Welt um ihn herum, ohne sich aktiv einzubringen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sprecher befindet sich in einem Zustand der Apathie"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Resignation und das Desinteresse des Sprechers"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Mach Dir keine Sorgen, es wird schon weitergehn' suggeriert eine gewisse Resignation und Akzeptanz"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text gibt auch einen Hauch von Zynismus und Ironie wieder"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Ambivalenzen in der Aussage 'Es geht mir gut'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Er beobachtet die Welt um ihn herum, ohne sich aktiv einzubringen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sprecher befindet sich in einem Zustand der Apathie"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Resignation und das Desinteresse des Sprechers"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Beschreibung des Sprechers als resigniert und desinteressiert, aber variieren in der Tiefe der Analyse",
+    "empfehlung": "Die vierte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

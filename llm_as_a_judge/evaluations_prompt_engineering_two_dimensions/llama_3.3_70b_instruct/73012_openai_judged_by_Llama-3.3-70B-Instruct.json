@@ -1,0 +1,104 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-9/11-Ängste vor kollektiver Gewalt"
+        ],
+        "oberflächliche_aussagen": [
+          "kulturell lässt sich das Stück in die Tradition deutscher Romantik einordnen"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der Ambivalenz zwischen Krieg und Reise"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des Seemanns als wandernder Krieger spiegelt deutsche Traditionen von Seefahrt und Kriegsgeschichte wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Stück reflektiert post-9/11-Ära"
+        ],
+        "positive_aspekte": [
+          "Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der Ambivalenz zwischen Abenteuerlust und Gewalt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textstruktur lässt bewusst Widersprüche offen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Stück lässt sich in die deutsche Romantik einordnen"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der Ambivalenz zwischen Krieg und Reise"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Stück spiegelt die kulturelle Unsicherheit einer global vernetzten, aber zugleich zerrissenen Gesellschaft wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Stück reflektiert post-9/11-Ära"
+        ],
+        "positive_aspekte": [
+          "Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der Ambivalenz zwischen Abenteuerlust und Gewalt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambivalenz zwischen Reise als Befreiung und als Zwang bleibt ungelöst"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Stück lässt sich in den Kontext der deutschen Nachkriegsgeneration einordnen"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der Ambivalenz zwischen Krieg und Reise"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Metaphern und Symbolik, aber variieren in der Bewertung der Halluzinationen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

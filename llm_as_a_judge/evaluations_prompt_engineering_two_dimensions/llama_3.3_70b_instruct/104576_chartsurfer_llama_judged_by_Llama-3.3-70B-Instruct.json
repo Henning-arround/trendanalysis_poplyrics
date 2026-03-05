@@ -1,0 +1,99 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs kann in der Ironisierung und Humorisierung deutscher Kultur und Identität gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie die Wiederholung von 'Ich esse gerne Sauerkraut und tanze gerne Polka', schaffen eine rhythmische und einprägsame Struktur."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von literarischen Stilmitteln und ihre Wirkung auf den Hörer."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Widersprüche und Ambiguitäten im Song, wie die gleichzeitige Darstellung von Tradition und Ironie, können als eine Art Reflexion über die Komplexität deutscher Identität und Kultur verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Freude am Essen von Sauerkraut und Tanzen der Polka zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Nostalgie und Rückbesinnung auf traditionelle deutsche Kultur verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vor allem die Wiederholung und die Verwendung von Refrains."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Refrains und ihre Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Bedeutung des Songs kann im Kontext der Nachkriegszeit in Deutschland verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Freude am Essen von Sauerkraut und Tanzen der Polka zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt den Kontext der Nachkriegszeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 1,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Nostalgie und Rückbesinnung auf traditionelle deutsche Kultur verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vor allem die Wiederholung und die Verwendung von Refrains."
+        ],
+        "positive_aspekte": [
+          "Keine."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark in ihrer Qualität und Tiefe.",
+    "empfehlung": "Es ist ratsam, Interpretationen zu bevorzugen, die eine gute Balance zwischen Textreue und analytischer Tiefe aufweisen."
+  }
+}

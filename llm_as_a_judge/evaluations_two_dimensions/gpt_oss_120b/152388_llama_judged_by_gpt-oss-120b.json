@@ -1,0 +1,111 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Liebe, die als zentrales Thema des Liedes dargestellt wird.",
+          "Die Erwähnung von \"On top of the charts\" kann metaphorisch interpretiert werden, dass die Liebe nicht nur im Herzen des Sängers, sondern auch in seinem ganzen Leben die höchste Priorität hat.",
+          "Diese Vergleichbarkeit mit einem natürlichen Phänomen wie der Sonne betont die Unvermeidlichkeit und Allgegenwärtigkeit der Liebe.",
+          "Durch die Wiederholung von \"Love is like the sun\" und \"You know that love is in my heart\" wird die Tiefe und Beständigkeit der Liebe hervorgehoben, was den Song zu einer eindringlichen und optimistischen Hymne an die Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen, die sich direkt auf den Text beziehen (z. B. Wiederholungen, konkrete Zeilen), wurden korrekt als belegt markiert.",
+          "Keine erfundenen Fakten oder unbegründeten biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Liebe, die als zentrales Thema des Liedes dargestellt wird.",
+          "Die Erwähnung von \"On top of the charts\" kann metaphorisch interpretiert werden, dass die Liebe nicht nur im Herzen des Sängers, sondern auch in seinem ganzen Leben die höchste Priorität hat.",
+          "Diese Vergleichbarkeit mit einem natürlichen Phänomen, das allgegenwärtig und konstant ist, betont die Unveränderlichkeit und Universalität der Liebe.",
+          "Der Refrain … unterstreicht die Tiefe und Echtheit der Gefühle des Sängers, während die gesamte Atmosphäre des Liedes eine von Freude, Hingabe und unbedingter Hingabe an die Liebe ausstrahlt."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (z. B. Wiederholungen von \"Love is like the sun\" und \"Love is everywhere\") wurden korrekt als belegt gekennzeichnet.",
+          "Keine falschen biografischen oder stilistischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 1,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Liebe, die als zentrales Thema des Liedes dargestellt wird.",
+          "Die Erwähnung von \"On top of the charts\" kann metaphorisch interpretiert werden, dass die Liebe nicht nur im Herzen des Sängers, sondern auch in seinem ganzen Leben die höchste Priorität hat.",
+          "Diese Vergleichbarkeit mit einem natürlichen Phänomen wie der Sonne betont die Unvermeidlichkeit und Allgegenwärtigkeit der Liebe.",
+          "Der Refrain \"Love is everywhere\" unterstreicht diese Allgegenwart und suggeriert, dass die Liebe überall im Leben des Sängers präsent ist.",
+          "Durch die Wiederholung von \"Love is like the sun\" und \"You know that love is in my heart\" wird die Tiefe und Beständigkeit der Liebe hervorgehoben, was den Song zu einer eindringlichen und optimistischen Hymne an die Liebe macht."
+        ],
+        "positive_aspekte": [
+          "Alle textnahen Beobachtungen (Wortwiederholungen, konkrete Zeilen) wurden korrekt als belegt eingestuft."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die simple, aber effektive Struktur und die wiederholten Refrains schafft Laid Back eine hypnotische und einprägsame Melodie, die die Botschaft der Liebe und ihrer zentralen Rolle im Leben des Sängers noch verstärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Liebe, die als zentrales Thema des Liedes dargestellt wird.",
+          "Die Erwähnung von \"On top of the charts\" kann metaphorisch interpretiert werden, dass die Liebe nicht nur im Herzen des Sängers, sondern auch in seinem ganzen Leben die höchste Priorität hat.",
+          "Diese Vergleichbarkeit mit einem natürlichen Phänomen, das allgegenwärtig und konstant ist, betont die Unveränderlichkeit und Universalität der Liebe.",
+          "Der Song strahlt eine optimistische und euphorische Stimmung aus, die die transformative und erhebende Kraft der Liebe hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Gute Unterscheidung zwischen rein textbasierten Beobachtungen und spekulativen Aussagen über Stimmung und Melodie."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die simple, aber effektive Struktur des Liedes verstärkt die emotionale Botschaft und schafft eine Atmosphäre der Einfachheit und Ehrlichkeit, die die universelle Sprache der Liebe zum Ausdruck bringt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine Ode an die Liebe, die als zentrales Thema des Liedes dargestellt wird.",
+          "Die Erwähnung von \"On top of the charts\" kann metaphorisch interpretiert werden, dass die Liebe an erster Stelle in seinem Leben steht, ähnlich wie ein Nummer‑eins‑Hit in den Musikcharts.",
+          "Die ständige Wiederholung von \"Love is like the sun\" und \"You know that love is in my heart\" betont die Tiefe und das Ausmaß der Gefühle, die der Sänger für die geliebte Person empfindet."
+        ],
+        "positive_aspekte": [
+          "Neben den belegten Textbezügen werden weiterführende, aber noch textnah begründete Interpretationen (z. B. Metapher „On top of the charts“) angeboten.",
+          "Weniger reine Allgemeinplätze als in den anderen Versionen, wodurch die Substanz etwas höher ist."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Liebe, Sonne, Nummer 1). Die Varianz liegt hauptsächlich in zusätzlichen, teils erfundenen Aussagen zu Stimmung und Songstruktur. Die Unterschiede in Halluzinations‑ und Tiefenscores spiegeln diese Varianz wider.",
+    "empfehlung": "Interpretation 4 bietet die beste Balance: Sie bleibt weitgehend texttreu, fügt aber substanzielle, textbasierte Metaphern hinzu, ohne zu viele unbegründete Behauptungen. Für zukünftige Analysen sollte man darauf achten, spekulative Aussagen klar zu kennzeichnen und Oberflächlichkeiten zu reduzieren."
+  }
+}

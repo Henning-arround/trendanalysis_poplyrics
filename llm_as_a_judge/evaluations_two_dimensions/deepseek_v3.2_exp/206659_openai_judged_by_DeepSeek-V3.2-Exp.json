@@ -1,0 +1,102 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine Allegorie"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Konkret auf den Song bezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "utopische Versprechen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist gesellschaftskritisch"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Metaphern",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "trügerische Versprechen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine Warnung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "moralische Zerstörung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine Kritik an der Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Metaphern",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "sinnliche Ablenkungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist eine Warnung vor den Konsequenzen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik",
+          "Bezug zum Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse des Songtextes",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

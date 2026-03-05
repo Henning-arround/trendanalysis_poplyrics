@@ -1,0 +1,91 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine humorvolle und ironische Ode"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Thematisierung von Individualität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kritisiert gesellschaftliche Schönheitsideale"
+        ],
+        "positive_aspekte": [
+          "Betonung von Authentizität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine humorvolle und ironische Ode"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Thematisierung von Individualität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textbezogen",
+          "Thematisierung von Relativität von Schönheit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine feierliche Hymne"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Thematisierung von Unvollkommenheit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren leicht in ihrer Tiefe und Halluzinationsrate, zeigen aber insgesamt eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Interpretation 4 zeigt eine sehr gute Balance zwischen Textbezogenheit und analytischer Tiefe und ist daher zu empfehlen."
+  }
+}

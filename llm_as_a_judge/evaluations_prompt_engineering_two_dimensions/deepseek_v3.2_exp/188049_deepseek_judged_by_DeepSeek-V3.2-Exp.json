@@ -1,0 +1,89 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Kritik und Faszination."
+        ],
+        "positive_aspekte": [
+          "Der Songtext ist reich an Metaphern und Symbolen, die die Thematik der Unterhaltungsindustrie und der Konstruktion von Identität unterstreichen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Kritik an der Kommerzialisierung von Kunst und Unterhaltung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Songtext ist reich an Metaphern und Symbolen, die die Thematik der Unterhaltungsindustrie und der Konstruktion von Identität unterstreichen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Lyrics sind reich an Metaphern und Symbolen, die auf die Thematik der Inszenierung und der Veräußerlichung von Identität hinweisen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Kritik und Resignation."
+        ],
+        "positive_aspekte": [
+          "Der Songtext ist reich an Metaphern und Symbolen, die die Thematik der Unterhaltungsindustrie und der Konstruktion von Identität unterstreichen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als ein Kommentar zu den gesellschaftlichen und kulturellen Bedingungen der späten 1980er und frühen 1990er Jahre interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Lyrics sind reich an Metaphern und Symbolen, die auf die Thematik der Inszenierung und der Veräußerlichung von Identität hinweisen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die dritte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Erwähnung von spezifischen Emotionen/Intentionen, die dem Künstler unterstellt werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Phrasen wie 'kulturelles Artefakt seiner Zeit' ohne Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Aussagen, die den Songtext gut interpretieren"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einige Aussagen über den Künstler und seine Intentionen"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeinplätze wie 'zeitlos', 'universell', 'menschliche Erfahrung'"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Songtexte, aber einige Allgemeinplätze"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine erkennbaren Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Einige vage Aussagen, aber überwiegend textbezogen"
+        ],
+        "positive_aspekte": [
+          "Sehr textbezogene Interpretation mit guter Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einige Aussagen über den Künstler und seine Intentionen"
+        ],
+        "oberflächliche_aussagen": [
+          "Viele Allgemeinplätze und vage Aussagen"
+        ],
+        "positive_aspekte": [
+          "Einige gute Ansätze, aber insgesamt oberflächlich"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einige Aussagen über den Künstler und seine Intentionen"
+        ],
+        "oberflächliche_aussagen": [
+          "Einige Allgemeinplätze, aber überwiegend textbezogen"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Songtexte, aber einige Allgemeinplätze"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten haben eine ähnliche Struktur",
+    "empfehlung": "Die beste Interpretation ist die Nummer 3, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

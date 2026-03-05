@@ -1,0 +1,99 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert auch die Freiheit und die Befreiung von Hemmungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und Feiern."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Text und identifiziert die Aufforderung, sich zu bewegen und die Nacht zu genießen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song hat auch eine sexuelle Konnotation, wie die Zeile 'Get your fine ass on the floor' zeigt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen, Feiern und Selbstausdruck."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der Zeile 'You can't spend the night alone'."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Freiheit und die Befreiung von Selbstzweifeln und Hemmungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein energiegeladener und motivierender Song."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Text und identifiziert die Aufforderung, sich selbst zu befreien und die Nacht zu genießen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Freiheit und die Befreiung von Selbstzweifeln und Hemmungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf, die Nacht zu genießen und sich von der Musik treiben zu lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der Zeile 'I know your hear your song'."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song hat auch eine sexuelle Konnotation, insbesondere in den Zeilen 'Get your fine ass on the floor' und 'Time to work you Jimmy Choo's'."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck von Selbstbefreiung und joie de vivre."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Text und identifiziert die Aufforderung, sich zu bewegen und die Nacht zu genießen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Variationen in der Tiefe und Halluzination.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

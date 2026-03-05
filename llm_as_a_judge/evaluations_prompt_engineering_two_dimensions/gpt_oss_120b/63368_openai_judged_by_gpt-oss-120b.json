@@ -1,0 +1,114 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ verhandelt ein ambivalentes Verhältnis zu körperlicher Undankbarkeit und sozialer Ästhetik.",
+          "Historisch ist das Werk im Kontext der 1990er‑Jahre zu verorten, einer Phase, in der deutsche Popkultur vermehrt postmoderne Selbstironie und Kritik an Medien‑Schönheitsnormen entwickelte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile … spiegelt den Diskurs um die Auflösung klassischer Ästhetik in einer zunehmend mediengesättigten Gesellschaft wider.",
+          "Diese Widersprüche bleiben offen, was den Song zu einem Spiegelbild der kulturellen Spannungen zwischen Konformität und individueller Selbstakzeptanz macht."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbelege (z. B. Anaphern, Wortspiele, medizinische Anspielungen).",
+          "Verknüpft stilistische Mittel konsequent mit inhaltlichen Aussagen.",
+          "Erkennt und erklärt komplexe Bildfelder (Experiment, Schöpfer, Movie‑Stars)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück im Kontext der 1990er‑Jahre zu sehen, einer Phase, in der deutsche Popkultur vermehrt postmoderne Selbstironie und Kritik an Medienidealen entwickelte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die offenen Widersprüche … lassen den Song als Spiegel gesellschaftlicher Unsicherheiten fungieren."
+        ],
+        "positive_aspekte": [
+          "Stichhaltige Analyse von Anaphern, Metaphern und umgangssprachlichen Elementen.",
+          "Verbindet Textstruktur mit gesellschaftlicher Bedeutung (Schönheitsdruck, Hollywood‑Ideale).",
+          "Balanciert Texttreue mit einer tiefgehenden, aber textbasierten Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ verhandelt ein ambivalentes Verhältnis zu körperlicher Undankbarkeit und sozialer Ästhetik.",
+          "Historisch ist das Stück im Kontext der 1990er‑Jahre zu sehen, einer Phase, in der deutsche Popkultur vermehrt Körpernormen und Medienkritik thematisierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Gleichzeitig wird das Gegenüber als „‘ne Pflaße“ beschrieben, ein Bild, das sowohl Fruchtbarkeit als auch Unreife suggeriert.",
+          "Diese Mehrdeutigkeit lässt den Hörer zwischen Empathie … schwanken, ohne dass der Text eine klare Auflösung anbietet."
+        ],
+        "positive_aspekte": [
+          "Gute Aufzählung von konkreten Textstellen (Zeilenangaben).",
+          "Erkennt die ironische Verherrlichung des „Arschgesichts“ und verknüpft sie mit Gegenkultur‑Ideen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ verhandelt ein ambivalentes Verhältnis zu körperlicher Undankbarkeit und sozialer Ästhetik.",
+          "Kulturell verortet sich das Werk im deutschen Pop der 1990‑er, einer Phase, in der Selbstironie und das Aufbrechen von Schönheitsnormen stark präsent waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt Lindenberg eine Reihe von Metaphern und Bildsprache, die das Subjekt entwerten und zugleich humanisieren.",
+          "Die Ambiguitäten … bleiben offen, was den Song zu einer kritischen Reflexion … macht."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit einer klaren Analyse von Wiederholungen und Wortspielen.",
+          "Erklärt die Bedeutung der Zeile über Schmerzensgeld im Kontext von psychischer Belastung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song „Arschgesicht“ verhandelt ein ambivalentes Verhältnis zu körperlicher Undankbarkeit und sozialer Ästhetik.",
+          "Historisch ist das Stück im Kontext der 1990er‑Jahre zu sehen, einer Phase, in der deutsche Popkultur vermehrt Schönheitsnormen kritisierte und postmoderne Identitätsfragen thematisierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt Lindenberg eine Reihe von Metaphern und Bildsprache, die das Subjekt entwerten und zugleich humanisieren.",
+          "Die Ambiguitäten … bleiben offen und erzeugen ein anhaltendes Spannungsfeld, das den Hörer zur Reflexion … einlädt."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Bezüge zu einzelnen Textstellen (z. B. „Schmerzensgeld von der AOK“, „glatten Movie‑Stars“).",
+          "Erklärt die symbolische Funktion des „Schöpfers“ als göttliche Nachlässigkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen die Grundthese (Ambivalenz zwischen Ablehnung und Zuneigung). Die Varianz liegt vor allem im Anteil erfundener bzw. oberflächlicher Aussagen – Interpretation 1 ist am texttreuesten, während 2‑5 mehr spekulative Kontextualisierungen enthalten.",
+    "empfehlung": "Interpretation 1 bietet die beste Balance aus Texttreue und analytischer Tiefe. Für zukünftige Bewertungen sollte man besonders auf unbelegte historische Kontextualisierungen achten, da diese die Halluzinations‑Score stark erhöhen."
+  }
+}

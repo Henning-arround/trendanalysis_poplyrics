@@ -1,0 +1,115 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin trifft ihren ehemaligen Partner nach langer Zeit wieder und fragt nach seinem Befinden, während sie gleichzeitig ihre eigenen Gefühle und Erinnerungen an die Beziehung aufarbeitet.",
+          "Die Zeile \"Ain't it funny how time slips away\" wird wiederholt und unterstreicht die flüchtige Natur der Zeit, die unbeachtet vorbeizieht, während die Erinnerungen an die Vergangenheit noch immer lebendig sind.",
+          "Die Sängerin zeigt sich auch ein wenig bitter, als sie hört, dass ihr ehemaliger Partner seiner neuen Liebe das gleiche Versprechen gemacht hat, das er einst ihr gegeben hatte, nämlich sie bis zum Ende der Zeit zu lieben.",
+          "Die Sängerin kündigt an, dass sie bald wieder gehen muss, aber ihre Worte sind auch eine Warnung an den ehemaligen Partner, dass er eines Tages für seine Taten bezahlen wird, und dass die Zeit, die uns zur Verfügung steht, begrenzt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Melancholie und die Wehmut, die in dem Song mitschwingen, unterstreichen die Vergänglichkeit der Liebe und der Zeit."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die wiederholte Zeile und die Grundthematik des Wiedersehens nach langer Zeit.",
+          "Erfasst die im Text vorhandene Drohung („du wirst irgendwann bezahlen“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin trifft ihren ehemaligen Partner nach langer Zeit wieder und fragt nach seinem Befinden, während sie gleichzeitig ihre eigenen Gefühle und Erinnerungen an die Beziehung aufarbeitet.",
+          "Die Zeile \"Ain't it funny how time slips away\" wird wiederholt und unterstreicht die flüchtige Natur der Zeit, die unbeachtet vorbeizieht, während die Erinnerungen an die Vergangenheit noch immer lebendig sind.",
+          "Die Sängerin zeigt sich auch ein wenig bitter, als sie hört, dass ihr ehemaliger Partner seiner neuen Liebe das gleiche Versprechen gemacht hat, das er einst ihr gegeben hatte, nämlich sie bis zum Ende der Zeit zu lieben.",
+          "Die Sängerin kündigt an, dass sie bald wieder gehen muss, aber ihre Worte sind auch eine Warnung an den ehemaligen Partner, dass er eines Tages für seine Taten bezahlen wird, und dass die Zeit, die uns zur Verfügung steht, begrenzt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Melancholie und die Wehmut, die in dem Song mitschwingen, unterstreichen die Vergänglichkeit der Liebe und der Zeit."
+        ],
+        "positive_aspekte": [
+          "Richtige Wiedergabe der wiederholten Refrains und der zentralen Drohung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin trifft ihren ehemaligen Partner nach langer Zeit wieder und fragt nach seinem Befinden, während sie gleichzeitig ihre eigenen Gefühle und Erinnerungen an die Beziehung aufarbeitet.",
+          "Die Zeile \"Ain't it funny how time slips away\" wird wiederholt und unterstreicht die flüchtige Natur der Zeit, die unbeachtet vorbeizieht, während die Erinnerungen an die Vergangenheit noch immer lebendig sind.",
+          "Die Sängerin zeigt sich auch ein wenig bitter, als sie hört, dass ihr ehemaliger Partner seiner neuen Liebe das gleiche Versprechen gemacht hat, das er einst ihr gegeben hatte, nämlich sie bis zum Ende der Zeit zu lieben.",
+          "Die Sängerin kündigt an, dass sie bald wieder gehen muss, aber ihre Worte sind auch eine Warnung an den ehemaligen Partner, dass er eines Tages für seine Taten bezahlen wird, und dass die Zeit, die uns zur Verfügung steht, begrenzt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Melancholie und die Wehmut, die in dem Song mitschwingen, unterstreichen die Vergänglichkeit der Liebe und der Zeit."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Kernbotschaft des Songs (Wiedersehen, Versprechen, Drohung)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin trifft ihren ehemaligen Partner nach langer Zeit wieder und fragt nach seinem Befinden, während sie gleichzeitig ihre eigenen Gefühle und Erinnerungen an die Beziehung aufarbeitet.",
+          "Die Zeile \"Ain't it funny how time slips away\" wird wiederholt und unterstreicht die flüchtige Natur der Zeit, die unbeachtet vorbeizieht, während die Erinnerungen an die Vergangenheit noch immer lebendig sind.",
+          "Die Sängerin zeigt sich auch ein wenig bitter, als sie hört, dass ihr ehemaliger Partner seiner neuen Liebe das gleiche Versprechen gemacht hat, das er einst ihr gegeben hatte, nämlich sie bis zum Ende der Zeit zu lieben.",
+          "Die Sängerin kündigt an, dass sie bald wieder gehen muss, aber ihre Worte sind auch eine Warnung an den ehemaligen Partner, dass er eines Tages für seine Taten bezahlen wird, und dass die Zeit, die sie miteinander geteilt haben, nicht vergessen ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Melancholie und die Wehmut, die in dem Song mitschwingen, unterstreichen die Vergänglichkeit der Liebe und der Zeit."
+        ],
+        "positive_aspekte": [
+          "Stellt die wiederholte Zeile und die zentrale Drohung korrekt dar."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin trifft ihren ehemaligen Partner nach langer Zeit wieder und fragt nach seinem Befinden, während sie gleichzeitig ihre eigenen Gefühle und Erinnerungen an die Beziehung aufarbeitet.",
+          "Die Zeile \"Ain't it funny how time slips away\" wird wiederholt und unterstreicht die flüchtige Natur der Zeit, die unbeachtet vorbeizieht, während die Erinnerungen an die Vergangenheit noch immer lebendig sind.",
+          "Die Sängerin zeigt sich auch ein wenig bitter, als sie hört, dass ihr ehemaliger Partner seiner neuen Liebe das gleiche Versprechen gemacht hat, das er einst ihr gegeben hatte, nämlich sie bis zum Ende der Zeit zu lieben.",
+          "Die Sängerin kündigt an, dass sie bald wieder gehen muss, aber ihre Worte sind auch eine Warnung an den ehemaligen Partner, dass er eines Tages für seine Taten bezahlen wird, und dass die Zeit, die uns zur Verfügung steht, begrenzt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Melancholie und die Wehmut, die in dem Song mitschwingen, unterstreichen die Vergänglichkeit der Liebe und der Zeit."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Wiederholung und die Drohung im Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Keine – alle Interpretationen weisen dieselbe (niedrige) Qualität auf.",
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch; es gibt kaum Varianz in Inhalt oder Analyse.",
+    "empfehlung": "Ein besserer Ansatz sollte stärker zwischen belegbaren Textstellen und spekulativen Deutungen unterscheiden, konkrete Textbelege nutzen und tiefere, mehrschichtige Analysen (z. B. stilistische Mittel, narrative Perspektive) einbringen, anstatt wiederholende, vage Aussagen zu liefern."
+  }
+}

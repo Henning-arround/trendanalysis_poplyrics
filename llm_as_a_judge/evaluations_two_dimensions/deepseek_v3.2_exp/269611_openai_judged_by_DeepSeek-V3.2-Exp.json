@@ -1,0 +1,95 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aussage 'I can’t stand the rain' verdeutlicht die Unfähigkeit, den steten Strom von Erinnerungen zu ertragen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und tiefgehend, insbesondere die Analyse des Fensters als Schutzschicht und Spiegel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Wort 'know' als bewusstes Eingeständnis"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Protagonistin bleibt nach der Trennung ein schmerzhafter Raum zurück"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist überwiegend textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Regen symbolisiert das stetige Eindringen der Vergangenheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und tiefgehend, insbesondere die Analyse des Regens als Symbol für den Verlust"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Regenrauschen das rhythmische Pulsieren des Verlustes"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von 'sweet memories' und der gegenwärtigen Einsamkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist überwiegend textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Fenster fungiert als dünne Barriere zwischen Erinnerung und Gegenwart"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erinnerung ist zwar lieblich, aber zugleich schmerzhaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und tiefgehend, insbesondere die Analyse des Fensters als Barriere"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt sind sie textbezogen und tiefgehend",
+    "empfehlung": "Die erste Interpretation ist aufgrund ihrer textbezogenen und tiefgehenden Analyse die beste"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem Songtext ableiten (z. B. Selbstverwirklichung, Kritik an Konformität, Bedeutung des Refrains).",
+          "Die Interpretation bleibt faktentreu und verzichtet auf spekulative Biografiedetails."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext enthält auch Elemente japanischer Kultur, … die möglicherweise als eine Art Code oder ein Zeichen für die Einheit und Solidarität …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bietet zusätzliche Nuancen (z. B. Idee von „Code“ und „Solidarität“) und damit mehr analytische Tiefe.",
+          "Trotz einer einzigen spekulativen Aussage bleibt die Mehrheit der Punkte textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente, textnahe Interpretation ohne erfundene Fakten.",
+          "Klare Zuordnung von Schlüsselzeilen zu den Themen Selbstverwirklichung und Konformitätskritik."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Ableitung der Botschaft aus dem Text.",
+          "Vermeidet unnötige Spekulationen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Texttreue, alle Aussagen sind belegbar.",
+          "Gut strukturierte Zusammenfassung der Kernaussagen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Interpretationen 1‑4 sind nahezu identisch und zeigen sehr geringe Varianz; Interpretation 5 fügt zusätzliche, jedoch leicht spekulative, Nuancen hinzu.",
+    "empfehlung": "Für eine balancierte Analyse, die sowohl faktentreu als auch tiefgehend ist, empfiehlt sich Interpretation 5. Sie bleibt größtenteils textbasiert, bietet aber mehr interpretative Tiefe, während die anderen Interpretationen zwar vollkommen korrekt, aber etwas oberflächlicher sind."
+  }
+}

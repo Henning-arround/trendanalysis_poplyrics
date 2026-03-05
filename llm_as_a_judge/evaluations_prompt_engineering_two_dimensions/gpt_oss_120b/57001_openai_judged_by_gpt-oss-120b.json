@@ -1,0 +1,102 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in den Kontext der frühen 2010er‑Jahre einordnen, in denen digitale Kommunikation, Satellitenfernsehen und globale Mobilität neue Formen von Entfremdung schufen."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambivalenz zwischen Handlung und Passivität erzeugt ein Spannungsfeld, das die zentrale Botschaft von existenzieller Unsicherheit und dem Wunsch nach Stabilität zugleich betont."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage wird mit einer konkreten Textzeile belegt.",
+          "Umfangreiche Analyse von Metaphern (Car‑Crash, Vampire/Victim, Angel) und ihrer Mehrdeutigkeit.",
+          "Klare Strukturierung von Wiederholungen und deren möglicher Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die post‑digitalen Ängste der 2010er‑Jahre einordnen, in denen globale Vernetzung gleichzeitig Freiheit und Entfremdung erzeugt.",
+          "Diese offene Struktur spiegelt die fragmentierte Identität einer Generation wider, die zwischen physischer Präsenz und virtueller Distanz schwankt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Bildsprache und möglicher gesellschaftlicher Bedeutung.",
+          "Erkenntnisreiche Betrachtung der Wiederholungen und ihrer affektiven Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle Kontext des Jahres 2012, geprägt von der Verbreitung von Satellitenfernsehen und Streaming, spiegelt sich in der Zeile „With satellite television you can go anywhere“ wider und kritisiert zugleich die Oberflächlichkeit einer vernetzten Welt."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannung zwischen Schutz und Selbstzerstörung erzeugt ein Spannungsfeld, das weder eindeutig als Befreiung noch als Unterwerfung gelesen werden kann."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von urbanen Bildwelten und den abstrakten Metaphern des Songs.",
+          "Ausführliche Analyse der wiederholten Refrains und ihrer möglichen rituellen Funktion."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell spiegelt das Werk die post‑digitale Ära wider: Satelliten‑TV, statische Radio‑Frequenzen und die Möglichkeit, „anywhere“ zu sein, stehen für die allgegenwärtige Medienflut, die gleichzeitig Entfremdung erzeugt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Bildsprache, Wiederholungen und deren kontrastierender Wirkung.",
+          "Klare Herausarbeitung der Ambivalenz von „Stay“ als Versprechen und Bedrohung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in den Kontext der post‑digitalen Ära einordnen, in der „satellite television“ und „static and the radio“ sowohl globale Reichweite als auch akustische Fragmentierung symbolisieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannung zwischen Anziehung und Ablehnung bleibt ungelöst und erzeugt ein ständiges Pendeln zwischen Wunsch nach Nähe und Flucht."
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textzeilen mit den jeweiligen Bildmetaphern.",
+          "Gute Balance zwischen textbasierter Analyse und Hinweis auf mögliche gesellschaftliche Implikationen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass alle Interpretationen stark textbezogen sind, jedoch variieren sie im Anteil spekulativer kultureller Einordnungen. Die Halluzinations‑Scores liegen zwischen 2 und 4, was auf moderate bis wenige Erfindungen hindeutet. Die Tiefen‑Scores sind durchweg hoch (4), was auf eine konsistente, detailreiche Analyse schließen lässt.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance aus Texttreue (geringster Halluzinations‑Score) und analytischer Tiefe. Für zukünftige Bewertungen sollte darauf geachtet werden, kulturelle Kontextualisierungen nur dann zu verwenden, wenn sie klar aus dem Text ableitbar sind, um Halluzinations‑Scores weiter zu senken."
+  }
+}

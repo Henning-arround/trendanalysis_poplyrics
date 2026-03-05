@@ -1,0 +1,114 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und tragen zur emotionalen Wirkung und affektiven Dimension des Textes bei.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der frühen 2000er Jahre verortet werden, als die Pop- und Rockmusik von Themen wie Liebe, Schmerz und Selbstfindung geprägt war.",
+          "Die tiefe Bedeutungsebene des Songs kann als eine Auseinandersetzung mit der menschlichen Erfahrung von Schmerz, Verlust und der Suche nach einem Sinn interpretiert werden.",
+          "Diese Spannung bleibt im Song unaufgelöst und erzeugt eine ambivalente emotionale Wirkung beim Hörer."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (z. B. Metaphern zu Augen, Lächeln, Feuer, Flame, Crash and Burn).",
+          "Die Interpretation erkennt die zentrale Wiederholung von „Show me a reason“ und analysiert deren Funktion.",
+          "Sie balanciert konkrete Textbelege mit einer offenen Betrachtung von Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und tragen zur emotionalen Wirkung und affektiven Dimension des Textes bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, kann als ein Faktor für die thematische Ausrichtung des Songs betrachtet werden.",
+          "Die postmoderne Gesellschaft der frühen 2000er Jahre, geprägt von Individualisierung und einer zunehmenden Bedeutung von Beziehungen, kann als Hintergrund für die Thematik des Songs gesehen werden.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Darstellung der menschlichen Sehnsucht nach Verbindung und der gleichzeitigen Angst vor Verletzung und Ablehnung gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Klare Textbelege für Metaphern, Feuer‑Symbolik und die Spannung zwischen Verlangen und Trennung.",
+          "Erklärt die wiederholte Bitte „Show me a reason“ und verknüpft sie mit der emotionalen Dynamik des Songs.",
+          "Bietet eine differenzierte Sicht auf die Ambivalenz von Liebe und Schmerz, ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, kann Einfluss auf die Interpretation des Textes haben.",
+          "Der Song wurde im Jahr 2004 veröffentlicht, einer Zeit, in der die Popmusik von einer Vielzahl von Stilen und Themen geprägt war.",
+          "Die emotionale Intensität und thematische Komplexität des Songs können als ein Ausdruck der emotionalen Erfahrungen und Sehnsüchte der Jugendlichen in dieser Zeit interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Darstellung der menschlichen Erfahrung der Liebe und des Schmerzes gesehen werden, die als ein universelles und zeitloses Thema interpretiert werden kann."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Wiederholung von „Show me a reason“ und verknüpft sie mit einem Appell an den Partner.",
+          "Analysiert konkrete Bildsprache (Augen, Lächeln, Feuer) aus dem Text.",
+          "Stellt einen sinnvollen, wenn auch etwas allgemeinen, kulturellen Rahmen her."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und tragen zur emotionalen Wirkung und affektiven Dimension des Textes bei.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der frühen 2000er Jahre verortet werden, als die Pop- und Rockmusik von Themen wie Liebe, Schmerz und Selbstfindung geprägt war.",
+          "Die tiefe Bedeutungsebene des Songs kann als eine Auseinandersetzung mit der menschlichen Erfahrung von Schmerz, Verlust und der Suche nach einem Sinn interpretiert werden.",
+          "Diese Spannung bleibt im Song unaufgelöst und erzeugt eine ambivalente emotionale Wirkung beim Hörer."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich direkt auf eine Textstelle zurückführen.",
+          "Erkennt die strukturelle Wiederholung und deren Bedeutung für die emotionale Spannung.",
+          "Bietet eine ausgewogene Analyse von Metaphern, Symbolen und deren Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, kann Einfluss auf die Interpretation des Textes haben.",
+          "Der Song wurde im Jahr 2004 veröffentlicht, einer Zeit, in der die Popmusik von einer Vielzahl von Stilen und Themen geprägt war.",
+          "Die emotionale Intensität und thematische Komplexität des Songs können als ein Ausdruck der emotionalen Erfahrungen und Sehnsüchte der Jugendlichen und jungen Erwachsenen dieser Zeit interpretiert werden.",
+          "Insgesamt kann \"A Reason\" als ein vielschichtiger Text interpretiert werden, der die Komplexität menschlicher Emotionen und Beziehungen reflektiert."
+        ],
+        "positive_aspekte": [
+          "Klare Identifikation der Kernbotschaft „Show me a reason“.",
+          "Begründet die Interpretation von Feuer‑ und Augen‑Metaphern anhand des Textes.",
+          "Verknüpft den Song mit einem breiteren, wenn auch allgemeinen, kulturellen Kontext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Emotion, Liebe, Feuer‑Metaphern, Wiederholung von 'Show me a reason'). Die Tiefe variiert jedoch: drei Versionen (3,4,5) liefern mehr textbasierte Analysen, während 1 und 2 stärker zu allgemeinen, oberflächlichen Kontexten tendieren.",
+    "empfehlung": "Interpretationen, die den Text konkret zitieren und die Mehrdeutigkeit der Bildsprache herausarbeiten (z. B. Interpretation 3), bieten das beste Gleichgewicht zwischen Faktentreue und analytischer Tiefe. Zukunftige Modelle sollten generische Kultur‑ oder Geschichtsbeschreibungen vermeiden, wenn sie nicht unmittelbar aus dem Text ableitbar sind."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild einer 'Bra' und das 'Shine Your Shoes' suggerieren ein bewusstes Aufräumen des Äußeren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Protagonisten in eine nächtliche Suche nach Ablenkung treibt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'I Lose My Liver In The Liverpool' als ironischer Hinweis auf exzessiven Alkoholkonsum"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'Verlieren' des eigenen Lebers könnte für das Aufgeben von Hemmungen oder das Aufsaugen von Alkohol stehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die gewöhnlichen Grenzen von Raum und Zeit bewusst verwischt werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen 'Kissing Snowflakes For Desert' und 'Licking Raindrops From Your Hat' als Gegensätze"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des verlorenen 'Livers in Liverpool' symbolisiert ein übermäßiges Ausleben"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Verlangen nach einem Funken Leidenschaft das zentrale Motiv ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Show Me Baby Where It Hurts' als Bitte um Anleitung und Bestätigung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Verweis auf das 'Lose My Liver In The Liverpool' ist ein ironischer Hinweis auf exzessiven Alkoholkonsum"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile 'Saturday Night Nothing To Do' etabliert einen Rahmen von Langeweile und Leere"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen 'Show Me Baby Where It Hurts' und 'Kissing Snowflakes For Desert' als Verbindung von Schmerz und Zärtlichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'Verlieren der Leber' kann als Symbol für das Aufgeben von Hemmungen oder das Ausbluten von Emotionen gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der wiederkehrende Refrain 'Saturday Night Nothing To Do' suggeriert eine Leere"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen 'Kissing Snowflakes For Desert' und 'Licking Raindrops From Your Hat' als Gegensätze"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Texte, aber es gibt auch einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 1,
+      "gesamt_score": 1.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine Kritik an exzessivem Verhalten und einer entfremdeten Party‑Kultur interpretiert werden.",
+          "Die Mutter des Sängers warnt ihn vor einem Lebensstil, der durch Exzess und Dekadenz geprägt ist.",
+          "Die Verwendung von Fragen und Ausrufen unterstreicht die Überforderung und Verwirrung des Sängers.",
+          "Die literarischen Stilmittel des Songs, wie Metaphern und Symbole, tragen zur Verdeutlichung der thematischen Komplexität bei.",
+          "Die \"stale perfume\" … symbolisieren die Überwältigung …",
+          "Die \"radio\" … erzeugen eine Atmosphäre der Überreizung und des Chaos.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer affektiven Dimension der Angst, Überforderung und des Ekels.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist der Beginn der 1970er Jahre in den USA.",
+          "In dieser Zeit erlebte die Jugendkultur …",
+          "Der Song kann als eine Reaktion … interpretiert werden.",
+          "Die tiefere Bedeutungsebene … liegt in der Darstellung einer Spannung …",
+          "Die Wiederholung des Refrains … kann als ein Hinweis …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Korrekte Zitierung mehrerer Songzeilen.",
+          "Durchgängige Struktur, die den Text klar referenziert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … kann als eine Kritik an exzessivem Verhalten und einer entfremdeten Party‑Kultur interpretiert werden.",
+          "Die Mutter des Sängers warnt ihn vor einem Lebensstil, der durch Exzess und Dekadenz geprägt ist.",
+          "Die Verwendung von Fragen und Ausrufen unterstreicht die Überforderung und Verwirrung des Sängers.",
+          "Die literarischen Stilmittel des Songs, wie Metaphern und Symbole, tragen zur Verdeutlichung der thematischen Komplexität bei.",
+          "Die \"stale perfume\" … symbolisieren die Überwältigung …",
+          "Die \"radio\" … unterstreichen die chaotische und überfordernde Atmosphäre.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer affektiven Dimension der Angst, Überforderung und des Ekels.",
+          "Diese Zeilen verdeutlichen die emotionale Belastung und die Verunsicherung des Sängers.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist der Beginn der 1970er Jahre in den USA.",
+          "In dieser Zeit erlebte die amerikanische Gesellschaft eine Phase des Umbruchs und der kulturellen Veränderung.",
+          "Der Song kann als eine Reaktion auf die Exzesse der 1960er Jahre … interpretiert werden.",
+          "Die Mutter des Sängers repräsentiert möglicherweise die traditionellen Werte …"
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song … eine komplexe und vielschichtige Thematik."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textzitat und Interpretation.",
+          "Erwähnt historische Kontextualisierung (auch wenn spekulativ)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … kann als eine Kritik an exzessivem Verhalten und einer entfremdeten Party‑Kultur interpretiert werden.",
+          "Hier wird die Mutter als eine Instanz dargestellt, die den Protagonisten vor den negativen Konsequenzen einer wilden Party warnt.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Diese Bilder und Metaphern vermitteln eine Atmosphäre der Überwältigung und des Unbehagens.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre in den USA interpretiert werden.",
+          "Die Party‑Kultur und der Drogenkonsum waren in dieser Zeit weit verbreitet.",
+          "Der Song thematisiert die Spannung zwischen individuellem Vergnügen und sozialer Verantwortung.",
+          "Die Wiederholung des Refrains … kann als ein Hinweis auf die Verunsicherung … interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt spiegelt der Song die Ambivalenz und die Komplexität der Suche nach Identität und Vergnügen in einer sich verändernden Gesellschaft wider."
+        ],
+        "positive_aspekte": [
+          "Klare Zitierung von Schlüsselzeilen.",
+          "Verknüpft Textanalyse mit gesellschaftlichem Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … kann als eine Kritik an exzessivem Verhalten und einer entfremdeten Party‑Kultur interpretiert werden.",
+          "Hier wird die Mutter als eine Instanz dargestellt, die den Protagonisten vor den negativen Konsequenzen einer wilden Party warnt.",
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Diese Bilder und Metaphern vermitteln eine Atmosphäre der Überwältigung und des Unbehagens.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre in den USA interpretiert werden.",
+          "Die Party‑Kultur und der Drogenkonsum waren in dieser Zeit weit verbreitet.",
+          "Der Song thematisiert die Spannung zwischen individuellem Vergnügen und sozialer Verantwortung.",
+          "Die Wiederholung des Refrains … kann als ein Hinweis auf die Verunsicherung … interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt spiegelt der Song die Ambivalenz und die Komplexität der Suche nach Identität und Vergnügen in einer sich verändernden Gesellschaft wider."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textbeispielen mit einer gesellschaftlichen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song … kann als eine Kritik an exzessivem Verhalten und einer entfremdeten Party‑Kultur interpretiert werden.",
+          "Hier wird die Mahnung der Mutter … als eine Art von Warnung … dargestellt.",
+          "Die textuelle Oberfläche ist hierbei von einer ambivalenten Haltung geprägt, die zwischen der Faszination von der Party und der gleichzeitigen Ablehnung ihrer Exzesse schwankt.",
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, unterstreichen diese Interpretation.",
+          "Diese Bilder vermitteln eine Atmosphäre von Überwältigung und Unbehagen.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist der Beginn der 1970er Jahre in den USA.",
+          "Der Song erschien 1971, einer Zeit, in der die 1960er Jahre … in eine Phase der Desillusionierung und Rückbesinnung auf traditionelle Werte umschwenken.",
+          "Der Song kann als eine Reaktion auf die Exzesse der 1960er Jahre … interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt \"Mama Told Me Not To Come\" eine komplexe, vielschichtige Botschaft, die zwischen Kritik an exzessivem Verhalten, der Suche nach Vergnügen und der Mahnung zur Mäßigung schwankt."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit einer differenzierten Analyse von Ambivalenz.",
+          "Bietet einen etwas tieferen historischen Kontext, der über reine Jahresangabe hinausgeht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselbe Grundthese (Kritik an Party‑Exzess). Die Varianz liegt hauptsächlich im Detailgrad und in der Tiefe der Kontextualisierung; Interpretation 4 liefert die tiefste, am wenigsten oberflächliche Analyse.",
+    "empfehlung": "Für zukünftige Analysen sollte ein stärkeres Augenmerk auf textbasierte Evidenz gelegt werden, während spekulative historische oder biografische Aussagen klar als Interpretation gekennzeichnet werden. Interpretation 4 zeigt, wie man durch gezielte, textnahe Argumentation und differenzierte Kontextualisierung eine höhere Tiefenbewertung erreichen kann."
+  }
+}

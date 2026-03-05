@@ -1,0 +1,99 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik von Lostprophets ist in diesem Kontext zu sehen und reflektiert die emotionalen Erfahrungen und Unsicherheiten dieser Altersgruppe."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann als Auseinandersetzung mit der menschlichen Erfahrung des Verlusts und der Sehnsucht interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und ihre Wirkung auf die emotionale Dimension des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer Generation interpretiert werden, die sich mit den Herausforderungen der Moderne auseinandersetzt und nach emotionaler Verbindung und Verständnis sucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Musik von Lostprophets ist typisch für die Post-Hardcore- und Emo-Bewegung dieser Zeit, die sich durch ihre expressive und emotionale Art auszeichnet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Erfahrung von Verlust und Trennung in der Adoleszenz und jungen Erwachsenenalter."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann als Auseinandersetzung mit der Vergänglichkeit von Beziehungen und der Schwierigkeit, loszulassen, interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die symbolische Ordnung des Songs ist geprägt von der Spannung zwischen Nähe und Distanz, Verbindung und Isolation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Wiederholung der Phrase '4 AM forever' und ihre Bedeutung für die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2006 veröffentlicht, einer Zeit, in der die Popmusik von einer zunehmenden Emotionalität und Intimität geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Erfahrung des Verlusts und der Sehnsucht, die universell und zeitlos ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Erfahrung von Verlust und Trennung und die Sehnsucht nach emotionaler Verbindung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Jugendkultur der frühen 2000er Jahre war geprägt von Themen wie Identitätssuche, emotionaler Verletzlichkeit und sozialer Isolation."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität zwischen der Sehnsucht nach Verbindung und der Erfahrung von Isolation bleibt im Song unaufgelöst, was seine emotionale Wirkung und affektive Dimension unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die symbolische Ordnung der emotionalen Erfahrung und ihre Bedeutung für die emotionale Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und ihrer Wirkung auf die emotionale Dimension des Songs.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und thematisiert die Erfahrung von Verlust und Trennung in der Adoleszenz und jungen Erwachsenenalter."
+  }
+}

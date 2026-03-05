@@ -1,0 +1,103 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird somit zu einem Teil der natürlichen Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen schaffen eine Atmosphäre der Stille und Erwartung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Intensität der Gefühle und die Unabänderlichkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird somit zu einem Teil der natürlichen Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen schaffen eine Atmosphäre der Stille und Erwartung",
+          "Die Liebe ist eine zentrale Rolle in der natürlichen Ordnung der Dinge"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Intensität der Gefühle"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Naturbilder dienen als Symbol für die universelle und natürliche Kraft der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen schaffen eine Atmosphäre der Stille und Erwartung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Intensität der Gefühle und die Unabänderlichkeit der Liebe",
+          "Die Verbindung zwischen der inneren Welt des Sängers und der äußeren Natur wird herausgestellt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Naturbilder dienen als Symbol für die Schönheit und den Frieden der Natur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen schaffen eine Atmosphäre der Stille und Erwartung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Intensität der Gefühle und die Unabänderlichkeit der Liebe",
+          "Die Verbindung zwischen der inneren Welt des Sängers und der äußeren Natur wird herausgestellt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Naturbilder dienen als Symbol für die Schönheit und Reinheit der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen schaffen eine friedliche und natürliche Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Intensität der Gefühle und die Unabänderlichkeit der Liebe",
+          "Die Verbindung zwischen der inneren Welt des Sängers und der äußeren Natur wird herausgestellt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die Interpretationen 3, 4 und 5 sind die besten, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweisen"
+  }
+}

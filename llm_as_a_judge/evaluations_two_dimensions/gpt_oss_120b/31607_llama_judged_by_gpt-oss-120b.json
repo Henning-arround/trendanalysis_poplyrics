@@ -1,0 +1,110 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song endet mit der Vorstellung, dass die Kinder der Protagonistin herangewachsen sind und auf die Rückkehr ihrer Mutter warten, während der Vater auf Bewährung freigelassen wird, was darauf hindeutet, dass der Kreislauf des Lebens weitergeht und dass auch aus kleinen, vielleicht sogar tragischen Ereignissen, eines Tages etwas Gutes entstehen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens, in dem kleine Ereignisse und Entscheidungen zu großen Konsequenzen führen können.",
+          "Die wiederkehrende Zeile \"From small things, mama, big things one day come\" unterstreicht diese Idee und deutet an, dass die Protagonistin immer noch an die Hoffnungen und Träume ihrer Jugend glaubt, auch wenn ihr Leben nicht den erwarteten Verlauf genommen hat."
+        ],
+        "positive_aspekte": [
+          "Alle Kernelemente des Textes (Schulabbruch, Hamburger‑Stand, Heirat, Haus am Hügel, Kinder, Schuss in Florida) werden korrekt wiedergegeben.",
+          "Die Interpretation bleibt eng am Wortlaut und liefert konkrete Textbezüge."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song endet mit der Vorstellung, dass die Kinder der Protagonistin herangewachsen sind und auf die Rückkehr ihrer Mutter warten, während der Vater auf Bewährung freigelassen wird, was darauf hindeutet, dass der Kreislauf des Lebens weitergeht und dass auch aus kleinen, vielleicht sogar tragischen Ereignissen, eines Tages etwas Gutes entstehen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens, in dem kleine Ereignisse und Entscheidungen zu großen Konsequenzen führen können.",
+          "Die wiederkehrende Zeile \"From small things, mama, big things one day come\" unterstreicht diese Idee und deutet an, dass die Protagonistin immer noch an die Hoffnungen und Träume ihrer Jugend glaubt, auch wenn ihr Leben nicht den erwarteten Verlauf genommen hat."
+        ],
+        "positive_aspekte": [
+          "Vollständige Wiedergabe der narrativen Ereignisse des Songs.",
+          "Klare Strukturierung der Geschichte von Schulabbruch bis zum tragischen Ende."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song endet mit der Vorstellung, dass die Kinder der Protagonistin herangewachsen sind und auf die Rückkehr ihrer Mutter warten, während der Vater auf Bewährung freigelassen wird, was darauf hindeutet, dass der Kreislauf des Lebens weitergeht und dass auch aus kleinen, vielleicht sogar tragischen Ereignissen, eines Tages etwas Großes entstehen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens, in dem kleine Ereignisse und Entscheidungen zu großen Konsequenzen führen können.",
+          "Die wiederkehrende Zeile \"From small things, mama, big things one day come\" unterstreicht diese Idee und deutet an, dass die Protagonistin immer noch an die Hoffnungen und Träume ihrer Jugend glaubt, auch wenn ihr Leben nicht den erwarteten Verlauf genommen hat."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe aller im Text genannten Fakten.",
+          "Versucht, eine übergeordnete Botschaft zu formulieren."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song endet mit der Szene, in der der Vater der Kinder auf ihre Mutter wartet, die im Gefängnis sitzt, und die Kinder heranwachsen, während die Erinnerung an die Vergangenheit noch immer präsent ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens, in dem kleine Ereignisse und Entscheidungen zu großen Konsequenzen führen können.",
+          "Die wiederkehrende Zeile \"From small things, mama, big things one day come\" deutet an, dass die Protagonistin immer noch an die Worte ihrer Mutter glaubt, dass aus kleinen Anfängen große Dinge entstehen können.",
+          "Der Song ist eine Reflexion über die Unvorhersehbarkeit des Lebens und die Art und Weise, wie kleine Entscheidungen und Ereignisse unser Schicksal bestimmen können."
+        ],
+        "positive_aspekte": [
+          "Alle narrativen Eckpunkte des Songs werden genannt.",
+          "Enthält eine klare, wenn auch etwas generische, thematische Zusammenfassung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song endet mit der Szene, in der der Sohn der Protagonistin auf ihre Entlassung aus dem Gefängnis wartet, während ihre Kinder heranwachsen, und die Zeile ... wird noch einmal wiederholt, um die Hoffnung und die Unvorhersehbarkeit des Lebens zu betonen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens, in dem kleine Ereignisse und Entscheidungen zu großen Konsequenzen führen können.",
+          "Die wiederkehrende Zeile \"From small things, mama, big things one day come\" deutet an, dass die Protagonistin immer noch an die Worte ihrer Mutter glaubt, dass aus kleinen Anfängen große Dinge entstehen können."
+        ],
+        "positive_aspekte": [
+          "Vollständige Wiedergabe der im Text genannten Handlungen.",
+          "Versucht, die wiederholte Botschaft des Refrains zu interpretieren."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen nahezu dieselben Fakten; die Varianz liegt hauptsächlich in den zusätzlichen, teils erfundenen Details am Ende. Die Halluzinationsrate ist durchweg niedrig (≈14 %), was auf gute Texttreue hinweist, jedoch fehlt es an tiefgehender, differenzierter Analyse.",
+    "empfehlung": "Interpretationen, die sich streng an den Text halten und gleichzeitig mehr differenzierte, textbasierte Reflexionen (z. B. Interpretation 1) bieten das beste Gleichgewicht zwischen Faktentreue und analytischer Tiefe. Künftige Modelle sollten darauf achten, erfundene Details zu vermeiden und gleichzeitig mehr konkrete, textunterstützte Interpretationsansätze zu entwickeln."
+  }
+}

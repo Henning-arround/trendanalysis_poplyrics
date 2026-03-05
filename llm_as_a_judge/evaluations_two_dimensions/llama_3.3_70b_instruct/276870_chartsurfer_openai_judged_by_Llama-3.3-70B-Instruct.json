@@ -1,0 +1,99 @@
+{
+  "song": "It’s Alright - The Osmonds (1973)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählung beginnt mit einer unerwarteten Rückkehr nach Hause, ein Moment, in dem das Gewohnte plötzlich von etwas Ungewohntem durchbrochen wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt, dass das Unbekannte, sobald es akzeptiert wird, letztlich alright ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Songstruktur und des lyrischen Inhalts"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählung beginnt mit einer unerwarteten Rückkehr nach Hause, ein Moment, in dem das Gewohnte plötzlich von einer neuen, fast übernatürlichen Präsenz durchbrochen wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine Botschaft von Gelassenheit gegenüber dem Unbekannten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Bedeutung von Erkenntnis und Akzeptanz"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählung beginnt mit einer unerwarteten Rückkehr nach Hause, ein Moment, in dem das Gewohnte plötzlich von etwas Ungewohntem durchbrochen wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt einen inneren Wendepunkt, bei dem ein plötzliches, fast elektrisierendes Ereignis das Bewusstsein erschüttert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Songstruktur und des lyrischen Inhalts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher suggeriert nicht nur die Kraft und Plötzlichkeit des Moments, sondern auch eine fast spirituelle Offenbarung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine Botschaft von Gelassenheit gegenüber dem Unbekannten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Bedeutung von Erkenntnis und Akzeptanz"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene, in der der Protagonist nach Hause kommt und plötzlich etwas Unerwartetes vor seinen Augen sieht, lässt an ein plötzliches Erleuchtungs- oder Offenbarungserlebnis denken"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet, ohne eine definitive Auflösung zu geben, und lässt den Hörer mit dem beruhigenden Mantra zurück"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Songstruktur und des lyrischen Inhalts"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Songstruktur und des lyrischen Inhalts",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Songstruktur und des lyrischen Inhalts bietet und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

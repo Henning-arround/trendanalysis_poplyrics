@@ -1,0 +1,95 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Frage nach dem Urheber des Schusses fungiert als zentrales Motiv, das nicht nur nach einem Täter, sondern nach einer kollektiven Verantwortung sucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song nutzt das Bild einer beschädigten Küchenwand, um die Zerbrechlichkeit von Gemeinschaften zu symbolisieren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Symbolik des Songs und die Bedeutung der wiederholten Frage."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unfähigkeit der Figuren, Verantwortung zu übernehmen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt offen, weil die Antwort nicht in einem einzelnen Täter liegt, sondern im kollektiven Versagen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Bedeutung der kollektiven Verantwortung und die Oberflächlichkeit der gesellschaftlichen Moral."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Versuchung, das Unheil zu ignorieren und es als bloßen Traum abzutun"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse des Songs und beleuchtet die Bedeutung der wiederholten Frage."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen öffentlicher Fassade und privatem Schmerz"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt ein kritischer Kommentar zur Alltäglichkeit von Gewalt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Bedeutung der Symbolik des Songs und die Oberflächlichkeit der gesellschaftlichen Moral."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das System von Ignoranz und Komplizenschaft"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse des Songs und beleuchtet die Bedeutung der wiederholten Frage."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Bewertung der Symbolik des Songs und der Bedeutung der wiederholten Frage.",
+    "empfehlung": "Die Interpretationen 3 und 5 bieten eine tiefgehende Analyse des Songs und beleuchten die Bedeutung der wiederholten Frage. Die Interpretation 3 ist jedoch aufgrund ihrer geringeren Halluzinationsrate und höheren Tiefescore zu bevorzugen."
+  }
+}

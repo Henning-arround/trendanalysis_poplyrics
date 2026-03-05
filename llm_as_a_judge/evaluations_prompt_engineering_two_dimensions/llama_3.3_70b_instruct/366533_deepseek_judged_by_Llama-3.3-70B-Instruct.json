@@ -1,0 +1,99 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von der authentischen und verletzlichen Stimme von Brenda Lee"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Sehnsucht nach emotionaler Freiheit und Authentizität interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Imperative und repetitive Strukturen ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Popmusik war stark von der Rock-and-Roll-Bewegung geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song spiegelt die gesellschaftlichen Veränderungen und die zunehmende Liberalisierung der 1960er Jahre wider"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Metapher des Haltens und Umfassens ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Popmusik war stark von der Rock-and-Roll-Bewegung geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song spiegelt die gesellschaftlichen Veränderungen und die zunehmende Liberalisierung der 1960er Jahre wider"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Metapher des Haltens und Umfassens ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Wiederholungen unterstreicht die Intensität des Verlangens"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck einer Sehnsucht nach emotionaler Freiheit und Authentizität interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Imperative und repetitive Strukturen ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner authentischen und direkten Darstellung von Verlangen und Sehnsucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der zunehmenden Liberalisierung und des Wandels der Sexualmoral interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Metapher des Haltens und Umfassens ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2 und 3 sind sehr ähnlich und zeigen eine geringe Varianz",
+    "empfehlung": "Die Interpretationen 1, 4 und 5 zeigen eine gute Balance zwischen Textreue und analytischer Tiefe und sind daher empfehlenswert"
+  }
+}

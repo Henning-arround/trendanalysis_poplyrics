@@ -1,0 +1,95 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Phrasen wie 'düstere Kriegs- und Todesmotiv' sind vage, aber textbezogen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik, z.B. 'Die Lanze, die sowohl in den Mann als auch in den Fisch gestochen wird, verdeutlicht die Gleichwertigkeit von Krieg und Jagd'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "keine expliziten Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Einige Aussagen wie 'das Meer als Spiegel menschlicher Gewalt' sind vage"
+        ],
+        "positive_aspekte": [
+          "Gute Gegenüberstellung von 'Der eine sticht die Lanz im Heer / Der andre wirft sie in das Meer'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einige Phrasen wie 'rohe, fast rituelle Sprache' sind nicht direkt textbezogen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Dualität von Angriff und Ausstoß"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "keine expliziten Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Viele Aussagen wie 'das Meer als allumfassende Metapher für das Unausweichliche und das Unbekannte' sind vage"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik der Lanze"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "keine expliziten Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Viele Allgemeinplätze wie 'unentrinnbare Verquickung von Krieg, Ausbeutung und existenzieller Verlorenheit'"
+        ],
+        "positive_aspekte": [
+          "Einige gute Punkte, aber insgesamt sehr oberflächlich"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten zeigen eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Herangehensweise, indem sie textbezogen und tiefgehend analysiert"
+  }
+}

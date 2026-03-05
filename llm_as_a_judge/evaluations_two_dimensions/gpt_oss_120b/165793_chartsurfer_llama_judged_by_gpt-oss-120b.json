@@ -1,0 +1,104 @@
+{
+  "song": "On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeile \"I know why my mother taught me to be true\" suggeriert, dass die Mutter des Sängers ihn auf die Suche nach einer wahren Liebe vorbereitet hat, und dass er jetzt genau diese Person gefunden hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer der Freude, des Glücks und der Romantik, der die Zuhörer einlädt, sich auf die positive Seite des Lebens zu konzentrieren und die Schönheit der Liebe zu feiern."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zieht konsequent Textbelege heran (z. B. das Verlassen der Sorgen, der Kontrast zwischen Blues‑Vergangenheit und reichem Gefühl).",
+          "Sie verbindet die beiden Textteile logisch und erkennt die thematische Wendung zum romantischen Abschnitt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeile \"I know why my mother taught me to be true\" suggeriert, dass die Mutter des Sängers ihn auf die Suche nach einer wahren Liebe vorbereitet hat, und dass er jetzt genau diese Person gefunden hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer der Freude, des Glücks und der Romantik, der die Zuhörer einlädt, sich auf die positive Seite des Lebens zu konzentrieren und die Schönheit der Liebe zu feiern."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung und klare Strukturierung der Argumentation.",
+          "Erkennt die Gegenüberstellung von früheren Blues‑Gefühlen und dem jetzigen reichen Gefühl."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeile \"I know why my mother taught me to be true\" suggeriert, dass die Mutter des Sängers ihn auf die Suche nach einer wahren Liebe vorbereitet hat, und dass er jetzt genau diese Person gefunden hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer der Freude, des Glücks und der Romantik, der die Zuhörer einlädt, sich auf die positive Seite des Lebens zu konzentrieren und die Schönheit der Liebe zu feiern."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die beiden Textabschnitte (Sunny Side & Exactly Like You) sinnvoll.",
+          "Nutze konkrete Textstellen (z. B. \"I used to walk in the shade…\", \"I ain’t got a cent…\")."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeile \"I know why my mother taught me to be true\" suggeriert, dass die Mutter des Sängers ihn auf die Suche nach einer wahren Liebe vorbereitet hat, und dass er jetzt genau diese Person gefunden hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer der Freude, des Glücks und der Romantik, der die Zuhörer einlädt, sich auf die positive Seite des Lebens zu konzentrieren und die Schönheit der Liebe zu feiern."
+        ],
+        "positive_aspekte": [
+          "Konsistente Analyse, die sich eng am Wortlaut orientiert.",
+          "Erkennt die zentrale Gegenüberstellung von Sorgen‑ und Glücks‑Motiven."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeile \"I know why my mother taught me to be true\" suggeriert, dass die Mutter des Sängers ihn auf die Suche nach einer wahren Liebe vorbereitet hat, und dass er jetzt genau diese Person gefunden hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Songs ist einer der Freude, des Glücks und der Romantik, der die Zuhörer einlädt, sich auf die positive Seite des Lebens zu konzentrieren und die Schönheit der Liebe zu feiern."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezugnahme, klare Argumentationskette.",
+          "Behandelt beide thematischen Abschnitte des Liedes gleichwertig."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.0,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch; die Varianz ist extrem gering, was auf eine sehr hohe Konsistenz, aber auch auf mangelnde Vielfalt hinweist.",
+    "empfehlung": "Die vorliegenden Analysen sind texttreu und relativ tiefgehend, jedoch stark redundant. Zukünftige Modelle sollten versuchen, unterschiedliche Interpretationsansätze (z. B. historische Kontextualisierung, stilistische Analyse, mehrdeutige Lesarten) zu integrieren, um die Tiefe zu erhöhen, ohne neue Halluzinationen einzuführen."
+  }
+}

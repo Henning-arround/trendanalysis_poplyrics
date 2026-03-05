@@ -1,0 +1,116 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv, da er eine Vielzahl von Emotionen und Erfahrungen anspricht.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung, da er auf die koreanische Kultur und Gesellschaft Bezug nimmt und Themen wie die Bedeutung von Kunst und Musik in der Gesellschaft anspricht.",
+          "Die tiefere Bedeutungsebene des Songs liegt in seiner Fähigkeit, die Zeit und die Erfahrung zu reflektieren und zu kommentieren, und seine symbolische Ordnung ist geprägt von der Idee der Zeitlosigkeit und der Überwindung von Grenzen."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. Metaphern, Symbolik, wiederholte Zeilen).",
+          "Die Interpretation erkennt mehrere Textschichten (Metaphern, narrative Struktur, thematische Komplexität).",
+          "Sie bleibt faktentreu und enthält keine erfundenen biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich auf verschiedenen Ebenen interpretieren lässt."
+        ],
+        "positive_aspekte": [
+          "Sehr hohe Texttreue – fast jede Aussage bezieht sich auf konkrete Textstellen.",
+          "Umfassende Analyse von Symbolen, politischen Anspielungen und emotionalen Nuancen.",
+          "Gute Balance zwischen konkreter Textbeobachtung und offener Interpretation von Mehrdeutigkeiten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit der thematischen Komplexität und den literarischen Stilmitteln verbunden.",
+          "Der Song behandelt Themen wie die Vergänglichkeit des Lebens, die Macht der Kunst und die Zeitlosigkeit von Emotionen und Erfahrungen."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretativen Aussagen.",
+          "Erkennt mehrere Ebenen (Metaphern, Narrative, Themen).",
+          "Keine Halluzinationen, alle Behauptungen lassen sich im Text verorten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv, da er eine Vielzahl von Emotionen und Erfahrungen anspricht.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung, da er auf die koreanische Kultur und Gesellschaft Bezug nimmt und Themen wie die Bedeutung von Kunst und Musik in der Gesellschaft anspricht."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, besonders bei Symbolen und Metaphern.",
+          "Erkennt die narrative Komplexität des Songs.",
+          "Bleibt faktentreu, keine erfundenen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die Bilder, die im Song verwendet werden, sind oft kontrastreich und spannungsreich, wie zum Beispiel die Gegenüberstellung von \"폭풍의 눈\" und \"맑은 미세먼지 연기\".",
+          "Diese Ambiguitäten und Spannungen tragen zur emotionalen Wirkung des Songs bei und lassen den Zuhörer nachdenken.",
+          "Die emotionale Wirkung des Songs ist tiefgründig und affektiv, da er die Zuhörer auffordert, über die Bedeutung von Kunst und Musik in ihrem Leben nachzudenken.",
+          "Der Song ist auch tief in den kulturellen, historischen und gesellschaftlichen Kontext Südkoreas eingebettet, wie es in den Zeilen ... deutlich wird.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung, die die Zeitlosigkeit von Kunst und Musik als eine Art von Widerstand gegen die Vergänglichkeit des Lebens darstellt.",
+          "Wie RM ... sagt, ist das Leben ein Konzert, das immer weitergeht, auch wenn die Zeit vergeht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale wiederholte Zeile \"It's timeless\" korrekt.",
+          "Erkennt einige Bildmetaphern (z. B. \"time travel\", \"Play button\").",
+          "Keine erfundenen biografischen Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben faktentreu (Halluzinations-Score 5). Die Tiefe variiert stark: Interpretation 5 liefert die tiefste, textbasierte Analyse, während Interpretation 1 überwiegend oberflächliche Aussagen enthält.",
+    "empfehlung": "Für eine fundierte Songtext-Analyse sollte man dem Ansatz von Interpretation 5 folgen: enge Verknüpfung von Textstellen, detaillierte Symbol‑ und Kontextanalyse und Vermeidung von vagen, allgemeinen Aussagen."
+  }
+}

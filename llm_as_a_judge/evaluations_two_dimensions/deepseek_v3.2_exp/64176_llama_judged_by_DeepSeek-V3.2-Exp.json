@@ -1,0 +1,95 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und die Texte schaffen eine intensive und sinnliche Atmosphäre"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Ode an die Leidenschaft und die Hingabe"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird gut interpretiert, insbesondere die Sehnsucht und das Verlangen nach körperlicher und emotionaler Nähe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau ist jedoch auch unabhängig und selbstbewusst"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Ode an die Macht der Liebe und Leidenschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist gut strukturiert und beleuchtet verschiedene Aspekte des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und die Texte schaffen eine intensive und sinnliche Atmosphäre"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Ode an die Leidenschaft und die Hingabe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist ähnlich wie die erste, aber mit einigen neuen Aspekten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau ist jedoch auch unabhängig und selbstbewusst"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Ode an die Macht der Liebe und Leidenschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist fast identisch mit der zweiten Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und tiefgehend, ohne halluzinierte Aussagen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-4 sind sehr ähnlich und wiederholen sich stark, während die fünfte Interpretation herausragt",
+    "empfehlung": "Es ist ratsam, die fünfte Interpretation als Vorbild zu nehmen, da sie sehr textbezogen und tiefgehend ist"
+  }
+}

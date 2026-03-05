@@ -1,0 +1,136 @@
+{
+  "song": "Assistant's Cry - Yello (1980)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück im Kontext der frühen 80er‑Jahre zu sehen, einer Phase, in der elektronische Pop‑Acts wie Yello die wachsende Mediatisierung und das Aufkommen von Konsumkultur thematisierten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile eröffnet ein Motiv des ungeklärten Leidens, das zugleich anonym bleibt („they“).",
+          "Die Metapher des „Dreams“ … steht im Spannungsfeld zu den nachfolgenden Zeilen … das Streben nach einem unerreichbaren Ideal … suggerieren, während das Alltägliche … das Scheitern betont.",
+          "Stilistisch nutzt das Stück abruptes Wechseln zwischen narrativem Kommentar … und performativem Bühnen‑Ritual …",
+          "Die Wiederholungen von „Look at them“ und das abschließende „Same time / Same place“ erzeugen ein Zirkularitäts‑Muster, das zugleich Vertrautheit und Monotonie suggeriert.",
+          "Die scheinbare Absurdität … wirkt als sarkastischer Kommentar zur gesellschaftlichen Selbstinszenierung, bleibt jedoch ambivalent, weil das Lachen gleichzeitig Entlastung und Verstärkung der Angst sein kann.",
+          "Die Textambiguitäten … lassen offen, ob das lyrische Ich Empathie empfindet oder lediglich die Oberflächlichkeit der Masse kritisiert, wodurch ein mehrschichtiges Bild von Entfremdung und performativem Alltag entsteht."
+        ],
+        "positive_aspekte": [
+          "Klare Strukturierung der Beobachtungen aus dem Text.",
+          "Erkennt die wiederholten Muster (z. B. „Look at them“, „Same time / Same place\").",
+          "Verknüpft stilistische Mittel (Abrupte Wechsel, Wiederholungen) mit einer plausiblen Interpretation der Textambiguitäten."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Stilistisch nutzt Yello stark fragmentierte Narrative, die durch abruptes Wechseln von Bild zu Bild … eine kaleidoskopische Bildsprache erzeugen.",
+          "Historisch lässt sich das Stück in das späte Kalte‑Kriegs‑Milieu einordnen, in dem urbane Anonymität und das Aufkommen von Massenmedien das Gefühl verstärkten, Teil einer „showtime“ zu sein, ohne individuelle Identität zu besitzen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Ausrufe erzeugen ein Spannungsfeld zwischen öffentlicher Darbietung und innerer Verunsicherung, das die zentrale Botschaft … mehrdeutig offen lässt.",
+          "Während die Zeile … nach einem transzendentalen Wunsch nach Sinn strebt, kontrastiert das abschließende … mit einer fast zynischen Inszenierung des Alltags, die zugleich als Ritual und als Flucht erscheint.",
+          "Metaphern … fungieren als Symbol für unerreichbare Ideale, während das wiederholte „Look at them“ als direkte Anrede den Hörer in die Beobachterposition drängt.",
+          "Die Mischung aus lautem Lachen, hohem „ho ho, ho“ und dem Wort „cry“ erzeugt eine ambivalente Affektlage, die gleichzeitig Erheiterung und Beklemmung transportiert.",
+          "Die Zeile „They're all fucking crazy“ spiegelt dabei eine kritische Haltung gegenüber einer Gesellschaft wider, die durch Konsum und Performance definiert wird."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Bildmotive (Tränen, Sterne, Show‑Atmosphäre).",
+          "Verknüpft Textpassagen mit möglichen emotionalen Spannungen.",
+          "Bietet einen historischen Rahmen, der zumindest thematisch zum Text passen könnte."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in das späte Kalte‑Kriegs‑Milieu einordnen, in dem urbane Massen … gleichzeitig als Träger von Konsum‑ und Ideologie‑Flüsterungen fungierten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Ausrufe erzeugen ein Spannungsfeld zwischen öffentlicher Darbietung und innerer Verunsicherung, das die zentrale Botschaft … mehrdeutig offen lässt.",
+          "Die Metapher des Himmels … steht im Kontrast zu den „busy lives“, die „Can't find the one“, wodurch ein Widerspruch zwischen individueller Sehnsucht und gesellschaftlicher Hektik entsteht.",
+          "Stilistisch nutzt das Stück fragmentarische Narrative … und ein abruptes Wechseln zwischen Beobachtung … und Selbstironie …",
+          "Die Wiederholung von „Alright“ und die Ankündigung einer Show … fungieren als symbolische Rahmen, die das Publikum zugleich einbeziehen und ausklammern.",
+          "Die Mischung aus lautem Lachen und ernster Aussage erzeugt eine ambivalente affektive Ebene … das Leid wird durch das laute „Ha ha ha“ ins Lächerliche gezogen, was die emotionale Wirkung schwankt zwischen Empathie und Distanz.",
+          "Die Zeile „Same time / Same place“ erinnert an wiederkehrende Rituale der Medienkultur, während die offene Frage nach dem Grund des Weinens … eine latente Kritik an der Oberflächlichkeit des öffentlichen Diskurses impliziert."
+        ],
+        "positive_aspekte": [
+          "Zieht konsequent Verbindungen zwischen wiederholten Textmotiven und deren möglicher Bedeutung.",
+          "Erkennt die Ambiguität von „No tears / Just cries and fears“ und betont deren offene Natur.",
+          "Bietet einen zusammenhängenden Überblick über die strukturellen Elemente des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Stilistisch nutzt Yello eine Mischung aus gesprochenem Sprechgesang, lautem Lachen … und abrupten Anweisungen …",
+          "Historisch ist das Stück im Kontext der frühen 80er‑Jahre zu sehen, einer Phase, in der elektronische Musik und postmoderne Medienkritik zusammenkamen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile eröffnet ein Motiv des ungeklärten Leidens, das zugleich anonym bleibt („they“).",
+          "Die Metapher des „Dreams“ … steht im Spannungsfeld zu den nachfolgenden Zeilen … das Streben nach einem unerreichbaren Ideal … suggerieren, während das Alltägliche … das Scheitern betont.",
+          "Diese Gegenüberstellung erzeugt eine ambivalente Stimmung zwischen Hoffnung und Resignation, die nicht aufgelöst, sondern bewusst offen bleibt.",
+          "Das wiederholte „I can't believe it / Look at them“ fungiert als narrativer Kommentar, der die Distanz des Sprechers zu den „verrückten“ Menschen betont …",
+          "Diese Wortspiele und das bewusste Brechen von Satzstrukturen erzeugen ein Gefühl von Desorientierung, das die thematische Unsicherheit widerspiegelt.",
+          "Die Anspielung auf eine „showtime“ … kann als Hinweis auf die sich wiederholende Medienroutine und die Konsumkultur der Zeit gelesen werden …",
+          "Während die ironische Verneinung … die Skepsis gegenüber der Authentizität öffentlicher Emotionen ausdrückt.",
+          "Die offenen Widersprüche … bleiben bewusst unaufgelöst und fordern den Hörer auf, die Mehrdeutigkeit der modernen Gesellschaft zu spüren, ohne eine eindeutige Deutung zu erhalten."
+        ],
+        "positive_aspekte": [
+          "Erklärt strukturelle Wiederholungen (z. B. „showtime“, „Look at them\").",
+          "Verbindet Textpassagen mit möglichen kulturellen Kontexten der frühen 80er‑Jahre.",
+          "Identifiziert das Paradoxon von „No tears / Just cries and fears“."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das späte 1970‑bis‑frühe‑80er‑Jahre einordnen, eine Phase des wirtschaftlichen Umbruchs und der wachsenden Medienpräsenz, in der das Individuum zwischen kollektiver Masse … und individueller Entfremdung schwankt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Ausrufe erzeugen ein Spannungsfeld zwischen öffentlicher Darbietung und innerer Verzweiflung, das die zentrale Botschaft … mehrdeutig offen lässt.",
+          "Während die Zeile … nach einem unerfüllten Ideal verlangt, bleibt unklar, ob das „one“ ein Individuum, ein Ziel oder ein transzendentes Selbst ist; die Ambiguität wird durch das Gegenstück … das Tränen verneint, aber gleichzeitig Angst betont.",
+          "Metaphern … fungieren als Symbol für Sehnsucht, während die wiederholte Anrede … eine performative Distanz schafft, die zugleich Kritik und Selbstironie beinhaltet.",
+          "Die Aufzählung von Ritualen … erinnert an die Zyklen von Medien‑ und Konsumkultur, wobei das Wort „showtime“ die Inszenierung des Alltags suggeriert, ohne jedoch zu erklären, wer die Show tatsächlich dirigiert.",
+          "Die Textpassage … erzeugt einen Widerspruch zwischen Beobachter‑ und Teilhabeperspektive, der die affektive Wirkung – ein Mix aus Belustigung, Verunsicherung und resignierter Resignation – offenlässt, ohne eine eindeutige Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Kernbilder des Textes (Tränen, Sterne, Show‑Atmosphäre).",
+          "Betont die strukturelle Fragmentierung und deren mögliche Wirkung.",
+          "Zeigt ein Bewusstsein für die offene, mehrdeutige Natur des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen ähnliche Muster: wenige belegte Fakten, viele oberflächliche Analysen und nur geringe bis moderate Erfindungen. Die Varianz ist gering – die Scores liegen zwischen 2,5 und 3,0 Gesamt.",
+    "empfehlung": "Interpretation 3 (und ebenfalls 4 / 5) liefert die beste Balance aus Texttreue und analytischer Tiefe, weil sie nur eine einzige erfundene historische Behauptung enthält und gleichzeitig die strukturellen und thematischen Elemente des Songs klar herausarbeitet, ohne zu stark in spekulative Kontextualisierungen abzudriften."
+  }
+}

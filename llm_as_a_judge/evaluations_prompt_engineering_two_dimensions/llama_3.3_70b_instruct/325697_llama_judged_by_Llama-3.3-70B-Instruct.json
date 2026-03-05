@@ -1,0 +1,99 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'The most memorable moment in my life / Will be when you belong to me' kann als Metapher für die Erfüllung der Sehnsucht nach Liebe interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'If you would bring to my life / A love that's good and true' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und ihre Wirkung auf die emotionale Atmosphäre des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You gave me a love which failed to make me feel / Even with your kissing me, that it was something real' deuten auf eine Ambiguität und Spannung in der Beziehung hin, die möglicherweise durch die gesellschaftlichen Erwartungen und Normen verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied thematisiert die Sehnsucht nach einer echten und tiefen Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Liedes kann in der symbolischen Ordnung der Liebe als einem Zustand der Erfüllung und des Glücks gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel tragen zur emotionalen Wirkung des Liedes bei"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Ambiguitäten und Spannungen im Lied und ihre Bedeutung für die Tiefe des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textzeilen 'You gave me a love which failed to make me feel / Even with your kissing me, that it was something real' deuten auf eine Ambiguität und Spannung in der Beziehung hin, die möglicherweise durch die gesellschaftlichen Erwartungen und Normen verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied thematisiert die Sehnsucht nach einer echten und tiefen Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'There'd be no day in my life / That could be sad or blue' deutet auf eine Utopie der Liebe hin, in der alle Sorgen und Probleme gelöst sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'If you would bring to my life / A love that's good and true' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und ihre Wirkung auf die emotionale Atmosphäre des Liedes"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Tiefe und die Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt den kulturellen und historischen Kontext des Liedes."
+  }
+}

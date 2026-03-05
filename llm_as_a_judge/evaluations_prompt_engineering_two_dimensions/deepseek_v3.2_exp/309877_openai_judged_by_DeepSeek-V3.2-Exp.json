@@ -1,0 +1,100 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-pandemische Verschmelzung von Privat- und Berufsleben"
+        ],
+        "oberflächliche_aussagen": [
+          "Liebe wird zur Ressource"
+        ],
+        "positive_aspekte": [
+          "mehrschichtige Botschaft",
+          "Spannungsfeld zwischen Lust und Pflicht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "frühere Pop-Narrative, die weibliche Sexualität als Ressource für männliche Leistungsfähigkeit darstellen"
+        ],
+        "oberflächliche_aussagen": [
+          "paradoxe Verflechtung von Lust und Pflicht"
+        ],
+        "positive_aspekte": [
+          "spannende Gegenüberstellung von persönlicher Befriedigung und gesellschaftlicher Erwartung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-pandemische Arbeitsrealität"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannung zwischen erotischer Entschleunigung und produktivistischer Eile"
+        ],
+        "positive_aspekte": [
+          "Ambivalenz zwischen Verlangen und Pflicht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Verschmelzung von Home-Office-Ästhetik und traditionellen Geschlechterrollen"
+        ],
+        "oberflächliche_aussagen": [
+          "intime Selbstbestimmung und strukturelle Beschleunigung"
+        ],
+        "positive_aspekte": [
+          "Spiegel einer Gesellschaft, die intime Selbstbestimmung und strukturelle Beschleunigung unauflöslich miteinander verknüpft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Verquickung von Sexualität und Arbeit in der Pop-Musik der 2010er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Verhandlung von Fürsorge und ökonomischer Notwendigkeit"
+        ],
+        "positive_aspekte": [
+          "Ambivalenz zwischen Verlangen und Pflicht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse von Ambivalenzen und der Verbindung von Sexualität und Arbeit.",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und könnte als Vorbild für weitere Analysen dienen."
+  }
+}

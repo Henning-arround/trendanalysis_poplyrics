@@ -1,0 +1,95 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein kraftvoller Ausdruck des christlichen Glaubens"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung, dass dies seine Geschichte und sein Lied sei, unterstreicht die persönliche Natur seiner Erfahrung und seines Glaubens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Hauptthemen des Songs wie Erlösung und Hingabe ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein traditioneller christlicher Gospel-Song"
+        ],
+        "oberflächliche_aussagen": [
+          "Die erste Strophe setzt den Ton für den Rest des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Bedeutung von Jesus als Retter"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied drückt auch eine tiefe innere Ruhe und Frieden aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textstellen wie 'perfect submission' und 'perfect delight'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger bezeichnet sich als 'Heir of salvation' und 'purchase of God'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aussage 'This is my story, this is my song' unterstreicht die persönliche Natur des Glaubens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Sehnsucht nach geistlicher Vollkommenheit und Frieden"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein herzliches und aufrichtiges Zeugnis des Glaubens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die transformative Kraft des christlichen Glaubens"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.9,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bleiben textgetreu",
+    "empfehlung": "Die Interpretationen 3 und 5 bieten eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

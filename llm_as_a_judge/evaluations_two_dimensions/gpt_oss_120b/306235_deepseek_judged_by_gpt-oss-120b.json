@@ -1,0 +1,135 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Person fühlt sich verloren und driftet in Gedanken, während sie in Kreisen schwimmt.",
+          "Die Person denkt an eine andere Person, die sie \"My baby blue\" nennt, und sendet Gedanken an diese Person aus ihrem Kopf in den Himmel.",
+          "Der Refrain ... deutet darauf hin, dass die Person versucht, ihre Gedanken und Gefühle an die andere Person zu übermitteln, aber auch, dass sie sich von ihren eigenen Gedanken und Emotionen zu befreien versucht.",
+          "Auch hier fühlt sie sich verloren und driftet in Gedanken, während sie in Kreisen fliegt.",
+          "Die Wiederholung des Refrains und die Verwendung des Namens \"My baby blue\" unterstreichen die Sehnsucht und die emotionale Verbindung zu der anderen Person.",
+          "Die Verwendung des Bildes des blauen Himmels und des Pools symbolisiert möglicherweise die Weite und die Freiheit, aber auch die Einsamkeit und die Isolation."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Into The Blue\" von Rooney aus dem Jahr 2010 handelt von einer Person, die sich in einer melancholischen und kontemplativen Stimmung befindet.",
+          "Insgesamt kann der Song als eine melancholische und introspektive Reflexion über die eigene Situation und die Sehnsucht nach einer anderen Person interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die im Text genannten Szenen (Pool, Himmel, Flugzeug, Kreise).",
+          "Bietet eine konsistente, wenn auch spekulative, Deutung der wiederkehrenden Motive."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von der Sehnsucht und dem Vermissen einer geliebten Person.",
+          "Er fühlt sich leer und beschreibt sein Dasein als ein Dahintreiben in Kreisen.",
+          "Die wiederkehrenden Zeilen ... symbolisieren den Versuch, die Verbindung zur geliebten Person aufrechtzuerhalten.",
+          "Der Refrain \"My baby blue\" unterstreicht die tiefe emotionale Bindung und das intensive Vermissen.",
+          "Die zweite Strophe ... verdeutlicht das Gefühl der Isolation und Einsamkeit.",
+          "Trotz der Bewegung ... fühlt er sich weiterhin in Kreisen gefangen und sehnt sich nach der geliebten Person.",
+          "Die Verwendung des blauen Himmels als Symbol ... unterstreicht die Tiefe und die Unendlichkeit der Emotionen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische und introspektive Reflexion über die Erfahrung des Verlusts und der Sehnsucht."
+        ],
+        "positive_aspekte": [
+          "Alle im Text genannten Bildungen (Pool, Himmel, Flugzeug, Kreise) werden korrekt wiedergegeben.",
+          "Versucht, die Symbolik des „Blauen“ zu erklären, was über reine Textwiedergabe hinausgeht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Person fühlt sich verloren und driftet in Gedanken, während sie in Kreisen schwimmt.",
+          "Die Person denkt an eine andere Person, die sie \"My baby blue\" nennt, und sendet Gedanken an diese Person aus ihrem Kopf in den Himmel.",
+          "Der Refrain ... deutet darauf hin, dass die Person versucht, ihre Gedanken und Gefühle an die andere Person zu übermitteln, aber nicht direkt mit ihr kommunizieren kann.",
+          "Auch hier fühlt sie sich verloren und driftet in Gedanken, während sie in Kreisen fliegt.",
+          "Die Wiederholung des Refrains unterstreicht die Sehnsucht und die Verbindung, die die Person zu der anderen Person spürt.",
+          "Der Song kann als eine Art Liebesbrief interpretiert werden, in dem die Person ihre Gefühle und Gedanken an die andere Person richtet, ohne direkt mit ihr sprechen zu können."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Into The Blue\" von Rooney aus dem Jahr 2010 handelt von einer Person, die sich in einer melancholischen und kontemplativen Stimmung befindet.",
+          "Der Song ist eine melancholische und introspektive Reflexion über die menschliche Verbindung und die Sehnsucht nach einem anderen Menschen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Beschreibung der beiden Szenen (Pool und Flugzeug).",
+          "Erkennt die wiederholte Motivik von „Kreisen“ und „Verloren‑sein“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Person fühlt sich verloren und driftet in Gedanken, während sie in Kreisen schwimmt.",
+          "Die Person denkt an eine andere Person, die sie \"My baby blue\" nennt, und sendet Gedanken an diese Person aus ihrem Kopf in den Himmel.",
+          "Der Refrain ... deutet darauf hin, dass die Person versucht, ihre Gedanken und Gefühle an die andere Person zu übermitteln, aber nicht direkt mit ihr kommunizieren kann.",
+          "Auch hier fühlt sie sich verloren und driftet in Gedanken, während sie in Kreisen fliegt.",
+          "Die Wiederholung des Refrains unterstreicht die Sehnsucht und die Verbindung, die die Person zu der anderen Person spürt.",
+          "Der Song kann als eine Art Liebesbrief interpretiert werden, in dem die Person ihre Gefühle und Gedanken an die andere Person richtet, ohne direkt mit ihr sprechen zu können.",
+          "Der Titel \"Into The Blue\" symbolisiert die Unendlichkeit und die Freiheit, aber auch die Distanz und die Unsicherheit, die die Person empfindet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Into The Blue\" von Rooney aus dem Jahr 2010 handelt von einer Person, die sich in einer melancholischen und kontemplativen Stimmung befindet.",
+          "Der Song ist eine melancholische und introspektive Reflexion über die menschliche Verbindung und die Sehnsucht nach einem anderen Menschen."
+        ],
+        "positive_aspekte": [
+          "Erfasst alle im Text genannten Handlungsorte und wiederkehrenden Motive.",
+          "Bietet eine klare, wenn auch spekulative, Interpretation des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Person fühlt sich verloren und driftet in Gedanken, während sie in Kreisen schwimmt.",
+          "Die Person denkt an eine andere Person, die sie \"My baby blue\" nennt, und sendet Gedanken an diese Person aus ihrem Kopf in den Himmel.",
+          "Der Refrain ... deutet darauf hin, dass die Person versucht, ihre Gedanken und Gefühle an die andere Person zu übermitteln, aber auch, dass sie sich von ihren eigenen Gedanken und Emotionen zu befreien versucht.",
+          "Auch hier fühlt sie sich verloren und driftet in Gedanken, während sie in Kreisen fliegt.",
+          "Die Wiederholung des Refrains und die Verwendung des Namens \"My baby blue\" unterstreichen die Sehnsucht und die emotionale Verbindung zu der anderen Person.",
+          "Die Verwendung des Bildes des blauen Himmels und des Pools symbolisiert möglicherweise die Weite und die Freiheit, aber auch die Einsamkeit und die Isolation."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Into The Blue\" von Rooney aus dem Jahr 2010 handelt von einer Person, die sich in einer melancholischen und kontemplativen Stimmung befindet.",
+          "Insgesamt kann der Song als eine melancholische und introspektive Reflexion über die eigene Situation und die Sehnsucht nach einer anderen Person interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Gute Struktur: klare Trennung von Szenen und wiederholten Motiven.",
+          "Versucht, die symbolische Bedeutung von „Blau“ zu erfassen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen ein hohes Maß an Halluzination (≈60‑70% erfundene Aussagen) und geringe analytische Tiefe. Die Inhalte sind stark redundant, was die Oberflächlichkeit erhöht.",
+    "empfehlung": "Ein besserer Ansatz würde sich stärker auf nachweisbare Textstellen stützen, weniger spekulative Emotionen annehmen und mehr differenzierte, textbasierte Analysen (z. B. Bildsprache, Wiederholungen, mögliche Mehrdeutigkeiten) bieten."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Polizei wird gerufen und beginnt mit den Ermittlungen, indem sie den Tatort untersucht und die Nachbarn befragt.",
+          "Der Text lässt jedoch darauf schließen, dass die Ermittlungen nicht sehr erfolgreich sind, da alle Beteiligten scheinbar nichts gesehen oder gehört haben.",
+          "Der Songtext lässt darauf schließen, dass der Schütze möglicherweise ein Bekannter oder jemand aus der Gemeinschaft ist, da die Leute auf der Rückseite des Hauses \"Gin trinken und Witze machen\"."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt lässt der Song eine Atmosphäre der Unsicherheit und des Schweigens entstehen, in der niemand bereit ist, die Wahrheit zu sagen.",
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind und die Menschen lieber wegschauen, als die Wahrheit zu sagen."
+        ],
+        "positive_aspekte": [
+          "Zieht klare Bezüge zu den wiederholten Fragen im Refrain.",
+          "Identifiziert konkrete Bildsprache aus dem Text (z. B. \"Halo\").",
+          "Bietet eine kohärente Interpretation des narrativen Ablaufs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von einem mysteriösen Vorfall in einem kleinen, ländlichen Ort, bei dem ein Schuss in die Wand von Peggys Küche abgefeuert wurde.",
+          "Die Polizei wird gerufen und beginnt mit den Ermittlungen, aber es scheint, als ob niemand etwas gesehen oder gehört hat.",
+          "Die Nachbarn werden befragt, aber sie geben an, nichts zu wissen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song hat eine Atmosphäre der Verunsicherung und des Schweigens. Die Anwohner des Ortes scheinen sich bedeckt zu halten und niemand will etwas über den Vorfall wissen.",
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind, aber niemand dazu Stellung nehmen will."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf die Zeile \"It's a .38 for sure\" und verknüpft sie mit einer möglichen Beweislage.",
+          "Analysiert die Symbolik von \"halo\" und deren Bedeutung für das kollektive Schweigen.",
+          "Erkennt die strukturelle Wiederholung der Frage im Refrain und deren Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Polizei wird gerufen und beginnt mit den Ermittlungen, indem sie den Tatort untersucht und die Nachbarn befragt.",
+          "Der Text lässt jedoch darauf schließen, dass die Ermittlungen nicht sehr erfolgreich sind, da alle Beteiligten scheinbar nichts gesehen oder gehört haben.",
+          "Der Songtext lässt darauf schließen, dass der Schütze möglicherweise ein Bekannter oder jemand aus der Gemeinschaft ist, da die Leute auf der Rückseite des Hauses \"Gin trinken und Witze machen\"."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt lässt der Song eine Atmosphäre der Unsicherheit und des Schweigens entstehen, in der niemand bereit ist, die Wahrheit zu sagen.",
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind und die Menschen lieber wegschauen, als die Wahrheit zu sagen."
+        ],
+        "positive_aspekte": [
+          "Stellt die wiederholte Frage im Refrain klar heraus.",
+          "Verknüpft Textstellen wie \"halo\" und das Bild des Trinkens mit einer möglichen Gemeinschaftsdynamik.",
+          "Bietet einen zusammenhängenden narrativen Überblick."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von einem mysteriösen Vorfall in einem kleinen, ländlichen Ort, bei dem ein Schuss in die Wand von Peggys Küche abgefeuert wurde.",
+          "Die Polizei wird gerufen und beginnt mit den Ermittlungen, aber es scheint, als ob niemand etwas gesehen oder gehört hat.",
+          "Der Songtext lässt darauf schließen, dass die Polizei die Sache vertuschen will, indem sie die Nachbarn bedroht und die Spuren verwischt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text lässt darauf schließen, dass in diesem Ort eine Kultur der Schweigsamkeit und Vertuschung herrscht, in der niemand etwas weiß oder sieht.",
+          "Der Song kann auch als Metapher für die Verdrängung von Wahrheit und die Machtlosigkeit der Einzelnen gegenüber einer korrupten oder gleichgültigen Gesellschaft interpretiert werden.",
+          "Die wiederholte Frage nach dem Verantwortlichen ... wird zu einem Symbol für die Suche nach Wahrheit und Gerechtigkeit in einer Welt, in der diese Werte oft unterdrückt werden."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Frage des Refrains.",
+          "Verbindet die Textzeilen mit einer möglichen gesellschaftskritischen Lesart.",
+          "Zeigt ein Bewusstsein für das Motiv der Vertuschung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Polizei wird gerufen und beginnt mit den Ermittlungen, indem sie den Tatort untersucht und die Nachbarn befragt.",
+          "Der Text lässt jedoch darauf schließen, dass die Ermittlungen nicht sehr erfolgreich sind, da alle Beteiligten scheinbar nichts gesehen oder gehört haben.",
+          "Der Songtext lässt darauf schließen, dass der Schütze möglicherweise ein Bekannter oder jemand aus der Gemeinschaft ist, da die Leute auf der Rückseite des Hauses \"Gin trinken und Witze machen\"."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt lässt der Song eine Atmosphäre der Unsicherheit und des Schweigens entstehen, in der niemand bereit ist, die Wahrheit zu sagen.",
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind und die Menschen lieber wegschauen, als die Wahrheit zu sagen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die wiederholte Frage im Refrain und deren Bedeutung.",
+          "Bezieht sich auf konkrete Bildsprache (z. B. \"halo\", \"gin und jokes\").",
+          "Bietet einen klaren narrativen Rahmen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.0,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundschritte (Erzählung, Polizeieinsatz, Wiederholung der Frage). Die inhaltliche Varianz ist gering; nur Interpretation 5 liefert zusätzliche Textbezüge (z. B. .38, Halo‑Analyse) und damit mehr Tiefe.",
+    "empfehlung": "Interpretation 5 ist am ausgewogensten: sie bleibt faktentreu, nutzt konkrete Textstellen und liefert eine tiefere, aber noch textbasierte Analyse. Für zukünftige Modelle sollte der Fokus auf mehr differenzierte, textgestützte Deutungen gelegt werden, um Oberflächlichkeit zu reduzieren."
+  }
+}

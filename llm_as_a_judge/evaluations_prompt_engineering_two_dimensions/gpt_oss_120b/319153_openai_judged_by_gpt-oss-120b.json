@@ -1,0 +1,107 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von Imperativen erzeugt einen Rhythmus, der an Club‑Anweisungen erinnert, zugleich aber die lyrische Distanz verstärkt.",
+          "Im kulturellen Kontext des frühen 2000‑er‑Jahre‑Deutschrock‑Underground spiegelt das Stück die Fragmentierung digitaler Identitäten und die Suche nach Authentizität in einer konsumorientierten Gesellschaft wider."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbeobachtungen (Metaphern, Bildsprünge, Wiederholungen).",
+          "Klare Ableitung von Mehrdeutigkeit und Spannungsfeldern aus dem Text.",
+          "Wenig spekulative Kontextualisierung, dafür fundierte stilistische Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 2000‑er‑Jahre‑Deutschrock‑Underground spiegelt das Stück die postmoderne Fragmentierung von Identität und Medienlandschaft wider: die Referenz zu Liverpool kann als Hinweis auf britische Popkultur, die „Girls Go“ als Hinweis auf die damals verbreitete Club‑Szene, und das „Elevator“ als Metapher für soziale Auf‑ und Abstiege verstanden werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse, kaum unbelegte Behauptungen.",
+          "Gute Balance zwischen Beschreibung der Bildsprache und Interpretation ihrer Bedeutung.",
+          "Erkennt die offene, mehrdeutige Botschaft des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emotional wirkt das Lied durch die Mischung aus banaler Langeweile („Nothing To Do“) und exzentrischer Extravaganzen („Let'S Get It Up In Style“, Zeile 14) wie ein Spiegel der frühen 2000er‑Jahre, in denen postmoderne Ironie und das Spiel mit Oberflächlichkeit in der Popkultur verbreitet waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese stilistischen Mittel erzeugen ein kaleidoskopisches Bildfeld, das mehrdeutig bleibt."
+        ],
+        "positive_aspekte": [
+          "Umfassende Aufzählung und Analyse der einzelnen Bildfragmente.",
+          "Verknüpft sprachliche Mittel (Alliteration, Metaphern) mit ihrer Wirkung.",
+          "Erkennt und benennt die zentrale Ambiguität des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Spannung zwischen Passivität und absurdem Aktivismus deutet auf eine postmoderne Kritik an der Freizeitkultur der frühen 2000‑er‑Jahre hin, in der Konsumrituale oft bedeutungslose Routinen maskieren.",
+          "Diese Diskrepanz zwischen dem Wunsch nach echter Erfahrung und der Platzierung in surrealen Settings verdeutlicht die kulturelle Spannung zwischen dem Streben nach Sinn und der Allgegenwart von Oberflächlichkeit in einer digitalisierten, konsumorientierten Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Emotional bleibt der Song auf einer Ebene von ironischer Distanz, die gleichzeitig Neugier und Verwirrung auslöst.",
+          "Die offenen Widersprüche bleiben bewusst ungelöst und fordern den Hörer auf, die eigene Deutungsposition zu hinterfragen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Bildsprünge und deren mögliche Bedeutungen.",
+          "Verknüpft wiederholte Imperative mit einem möglichen Verlangen nach Authentizität.",
+          "Stellt den Song in einen breiteren kulturellen Kontext (Freizeitkultur, digitale Gesellschaft)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑Y2K‑Ära einordnen, in der digitale Fragmentierung und ironische Selbstinszenierung vorherrschten.",
+          "Die scheinbar zusammenhanglosen Bilder spiegeln die fragmentierte Medienlandschaft wider, während die wiederholte „Saturday Night“‑Motivation das Ritual des Wochenend‑Escapismus betont."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gründliche Analyse der einzelnen Zeilen und ihrer Bildlichkeit.",
+          "Erklärt die mögliche Symbolik von Liverpool, Alligator, etc.",
+          "Betont die bewusste Unauflösung der Bedeutung und die daraus resultierende Hörer‑Erfahrung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen moderate Varianz; Interpretationen 1 und 5 erreichen die höchste Gesamtnote, während Interpretation 2 am wenigsten tiefgehend und am meisten spekulativ ist.",
+    "empfehlung": "Interpretationen, die eng am Text bleiben, klare Bildanalysen liefern und nur minimal spekulative Kontextualisierungen einfließen lassen (wie 1 und 5), bieten die beste Balance aus Faktentreue und analytischer Tiefe."
+  }
+}

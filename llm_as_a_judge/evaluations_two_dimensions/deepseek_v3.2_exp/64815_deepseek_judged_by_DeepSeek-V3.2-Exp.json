@@ -1,0 +1,94 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song einen Moment des Übergangs und der Transformation"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt eine Atmosphäre des Umbruchs und der Veränderung",
+          "Die Metapher des Webens symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song einen Moment des Übergangs und der Transformation"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt eine Atmosphäre des Umbruchs und der Veränderung",
+          "Die Metapher des Webens symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song fordert die Zuhörer auf, sich von der Vergangenheit zu verabschieden"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt eine Atmosphäre des Umbruchs und der Veränderung",
+          "Die Zeile 'we'd better learn to say our goodbyes' ist ein Aufruf zur Akzeptanz"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song einen Moment des Übergangs und der Transformation"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt eine Atmosphäre des Umbruchs und der Veränderung",
+          "Die Metapher des Webens symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song einen Moment des Übergangs und der Transformation"
+        ],
+        "positive_aspekte": [
+          "Der Text beschreibt eine Atmosphäre des Umbruchs und der Veränderung",
+          "Die Metapher des Webens symbolisiert die Art und Weise, wie Menschen ihre Realität konstruieren"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songtextes",
+    "empfehlung": "Die Interpretationen sollten weiterhin auf einer ausgewogenen Analyse des Songtextes basieren und kreative Elemente mit Textbezug einbeziehen"
+  }
+}

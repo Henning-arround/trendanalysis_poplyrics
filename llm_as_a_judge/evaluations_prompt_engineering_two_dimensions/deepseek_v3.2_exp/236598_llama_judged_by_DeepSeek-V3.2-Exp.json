@@ -1,0 +1,97 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'time travel' und die Symbole des '바다' (Meer) und des '산' (Berg) schaffen eine komplexe narrative Struktur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist tiefgründig und affektiv"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen '하나 둘 (셋) 거꾸로 돌아가는 반주' und '산천을 화폭에 담은 화가에 나누기' deuten auf eine Vielzahl von Erzählungen und Erfahrungen hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song behandelt Themen wie die Vergänglichkeit des Lebens, die Macht der Kunst und die Zeitlosigkeit von Emotionen und Erfahrungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die narrative Struktur des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbole wie der 'Benjamin-Button' und die 'Play-Taste' dienen als Zeichen für die Macht der Kunst, die Zeit zu überwinden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen '꿈에 한가운데는 폭풍의 눈 아직 괴로운 / 주위를 맴돌지만 닿게 돼있어 나의 aim' deuten auf eine tiefe Sehnsucht und ein Streben nach Selbstverwirklichung hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song behandelt Themen wie die Vergänglichkeit des Lebens, die Macht der Kunst und die Zeitlosigkeit von Emotionen und Erfahrungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die narrative Struktur des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'time travel' und die Symbole des '바다' (Meer) und des '산' (Berg) schaffen eine komplexe narrative Struktur"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs, analysiert die literarischen Stilmittel und bietet eine tiefere Analyse der symbolischen Ordnung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der literarischen Stilmittel und der zentralen Botschaft des Songs",
+    "empfehlung": "Die fünfte Interpretation bietet eine sehr tiefe Analyse der symbolischen Ordnung und der literarischen Stilmittel, während die anderen Interpretationen teilweise oberflächlichere Aussagen treffen"
+  }
+}

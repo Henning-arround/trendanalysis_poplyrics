@@ -1,0 +1,119 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als \"tall and handsome\" zeigt, dass die Protagonistin von äußeren Attributen angezogen wird, was ihre Naivität und Unerfahrenheit unterstreicht.",
+          "Sie schießt ihn, um sich von ihrer unglücklichen Ehe zu befreien."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des \"Hamburger‑Stands\" kann als Symbol für die amerikanische Kultur und den Traum von einem besseren Leben verstanden werden.",
+          "Die Phrase kann als Trost und Hoffnung für die Protagonistin und ihre Familie verstanden werden.",
+          "Der Song thematisiert den American Dream und die Realität von Gewalt und Scheitern, bleibt aber vage."
+        ],
+        "positive_aspekte": [
+          "Zieht konsequent Textstellen heran (z. B. das Verlassen der Heimat, das Schießen).",
+          "Bietet eine klare, wenn auch teilweise spekulative, Analyse der Leitmotivik."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als \"tall and handsome\" zeigt, dass die Protagonistin von äußeren Attributen angezogen wird, was ihre Naivität und Unerfahrenheit unterstreicht.",
+          "Die kulturelle und historische Dimension lässt sich in der Darstellung der amerikanischen Gesellschaft der 1950er und 1960er Jahre sehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des \"Hamburger‑Stands\" kann als Symbol für die amerikanische Kultur und den Traum von einem besseren Leben verstanden werden.",
+          "Die Ambiguität und der Widerspruch lassen den Hörer über die Komplexität des menschlichen Lebens nachdenken – ein sehr allgemeiner Kommentar.",
+          "Die tiefere Bedeutungsebene kann in der Frage nach der Natur des Glücks und der Erfüllung gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Stellt die wiederkehrende Phrase als Leitmotiv klar heraus.",
+          "Verknüpft Textstellen mit einer nachvollziehbaren thematischen Aussage (Hoffnung vs. Gewalt)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als \"tall and handsome\" zeigt, dass die Protagonistin von äußeren Attributen angezogen wird, was ihre Naivität und Unerfahrenheit unterstreicht.",
+          "Die kulturelle und historische Dimension lässt sich in der Darstellung der amerikanischen Gesellschaft der 1950er und 1960er Jahre sehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des \"Hamburger‑Stands\" kann als Symbol für die amerikanische Kultur und den Traum von einem besseren Leben verstanden werden.",
+          "Ambiguität und Spannung entstehen durch Unvorhersehbarkeit – ein vager, nicht weiter ausgeführter Gedanke.",
+          "Die tiefere Bedeutungsebene bezieht sich auf das menschliche Streben – ein allgemeiner Platzhalter."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textstellen (z. B. Schulabbruch, Schießen).",
+          "Erkennt die kontrastierenden Bildwelten (Idylle vs. Gewalt)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als \"tall and handsome\" zeigt, dass die Protagonistin von äußeren Attributen angezogen wird, was ihre Naivität und Unerfahrenheit unterstreicht.",
+          "Sie schießt ihn, um sich von ihrer unglücklichen Ehe zu befreien."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des \"Hamburger‑Stands\" kann als Symbol für die amerikanische Kultur und den Traum von einem besseren Leben verstanden werden.",
+          "Die Phrase kann als Trost und Hoffnung für die Protagonistin und ihre Familie verstanden werden.",
+          "Der Song thematisiert den American Dream und die Realität von Gewalt und Scheitern, bleibt aber vage."
+        ],
+        "positive_aspekte": [
+          "Erklärt den plötzlichen Gewaltausbruch im Kontext der Erzählung.",
+          "Verbindet die wiederholte Phrase mit einer Hoffnungsperspektive."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als \"tall and handsome\" führt später zu Problemen.",
+          "Der kulturelle und historische Kontext des Songs spiegelt die amerikanische Gesellschaft der 2000er Jahre wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des \"Hamburger‑Stands\" kann als Symbol für die amerikanische Kultur und den Traum von einem besseren Leben verstanden werden.",
+          "Die Geschichte ist voller Ambiguitäten, die nicht aufgelöst werden.",
+          "Die tiefere Bedeutungsebene ist eine Kritik an der amerikanischen Traumvorstellung."
+        ],
+        "positive_aspekte": [
+          "Identifiziert den schockierenden Wendepunkt (Schuss) klar.",
+          "Betont die Ambivalenz zwischen Idylle und Gewalt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen fast dieselben Punkte; die Varianz ist gering. Nur Interpretation 4 weicht mit zusätzlichen (teils erfundenen) historischen Angaben ab.",
+    "empfehlung": "Interpretationen, die den Text eng anlehnen, klare Leitmotive herausarbeiten und gleichzeitig Ambivalenzen benennen (z. B. Interpretation 1), bieten das beste Gleichgewicht zwischen Faktentreue und analytischer Tiefe. Kreative, aber nicht textbasierte Ausschmückungen sollten vermieden werden."
+  }
+}

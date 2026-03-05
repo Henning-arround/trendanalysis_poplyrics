@@ -1,0 +1,87 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Thematik der Trennung und der emotionalen Abhängigkeit angesprochen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Abhängigkeit des Sängers und die Frage, wie der Partner so geschickt darin wurde, das Herz des Sängers zu brechen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Frage, wie jemand so geschickt darin werden kann, das Herz eines anderen zu brechen, berührt die tiefere Bedeutungsebene der menschlichen Beziehungen und der emotionalen Verletzlichkeit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs und die Verwendung von Bildern und Erinnerungen an die gemeinsame Zeit."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'You said 'I love you / But I can't be your one and only girl'' zeigen, dass der Partner des Sängers bereits von Anfang an klar war, dass er nicht bereit war, sich auf eine feste Beziehung einzulassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Abhängigkeit des Sängers und die Frage, wie der Partner so geschickt darin wurde, das Herz des Sängers zu brechen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs und die Verwendung von Bildern und Erinnerungen an die gemeinsame Zeit. Sie thematisiert auch die Frage nach der Verantwortung und der Schuld an der Trennung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Frage, wie Menschen in einer Beziehung mit dem Risiko umgehen, verletzt zu werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Abhängigkeit des Sängers und die Frage, wie der Partner so geschickt darin wurde, das Herz des Sängers zu brechen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der emotionalen Wirkung des Songs und der Frage nach der Verantwortung und der Schuld an der Trennung.",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine hohe Textreue mit analytischer Tiefe verbindet und die Frage nach der Verantwortung und der Schuld an der Trennung thematisiert."
+  }
+}

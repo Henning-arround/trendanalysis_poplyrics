@@ -1,0 +1,102 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die frühe 1960er-Jahre, eine Zeit des Übergangs von traditionellen Popballaden zu rockigeren Strömungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein Symbol für die Macht der Musik, individuelle Sehnsüchte zu kanalisieren"
+        ],
+        "positive_aspekte": [
+          "Der Text erzeugt eine fast vertrauliche Atmosphäre",
+          "Das Bedürfnis nach Exklusivität wird betont"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger wird zum Boten einer inneren Stimme, die das Herz beruhigt"
+        ],
+        "oberflächliche_aussagen": [
+          "Musik kann als intimer Dialog fungieren"
+        ],
+        "positive_aspekte": [
+          "Die Anrede 'Mr. C.' fungiert als Symbol für den vertrauensvollen Vermittler von Trost und Geborgenheit",
+          "Das 'just for me' erzeugt ein Gefühl von Exklusivität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein Akt der emotionalen Heilung"
+        ],
+        "positive_aspekte": [
+          "Das 'Sing to me' fungiert als Bitte um ein exklusives Erlebnis",
+          "Die Musik als Fluchtmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Eine Mischung aus Bewunderung für den Künstler, dem Wunsch nach individueller Anerkennung und dem Bedürfnis, durch Musik eine temporäre Verbindung herzustellen"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein romantisiertes Bild der Musik als Zufluchtsort"
+        ],
+        "positive_aspekte": [
+          "Das 'just for me' verstärkt den Wunsch nach Exklusivität",
+          "Die Musik als Brücke zwischen dem inneren Wunsch und dem äußeren Klang"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Ein Akt der Selbstbestätigung"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein Symbol für Trost und Flucht"
+        ],
+        "positive_aspekte": [
+          "Die Anrede 'Mr. C.' verleiht dem Gesang eine fast vertrauliche Qualität",
+          "Das 'just for me' betont das Verlangen nach einer individuellen Botschaft"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die dritte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und kaum halluziniert"
+  }
+}

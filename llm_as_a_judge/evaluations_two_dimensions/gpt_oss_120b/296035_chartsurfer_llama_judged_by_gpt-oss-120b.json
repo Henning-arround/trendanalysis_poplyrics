@@ -1,0 +1,135 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird als Quelle der Inspiration und des Mutigseins dargestellt, die es dem Sänger ermöglicht, sein volles Potenzial auszuschöpfen und seine Träume zu verwirklichen.",
+          "Der Song beschreibt auch die Schönheit und die Magie der Beziehung, die wie ein Paradies oder ein Wunder erlebt wird.",
+          "Die Liebe wird als Grundlage für ein erfülltes und sinnvolles Leben gesehen, in dem man gemeinsam mit dem Partner durch alle Herausforderungen geht und am Ende triumphiert.",
+          "Der Text ist auch durchzogen von einer tiefen Sehnsucht und einer unerschütterlichen Zuversicht, dass die Liebe alles überwinden kann und dass man mit dem Partner an seiner Seite alles erreichen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler und optimistischer Ausdruck der Liebe und des Lebens.",
+          "Der Text beschreibt die transformative Kraft einer Beziehung, die das Leben des Sängers verändert hat.",
+          "Ein einfacher Blick oder ein Wort kann alles verändern und ein neues Kapitel im Leben eröffnen.",
+          "Die Wiederholung des Refrains \"Ja ich will - ich kann\" unterstreicht die Entschlossenheit und das Selbstvertrauen, das die Liebe verleiht."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederholte Zeile \"Ja ich will - ich kann\" und verbindet sie mit einem Motiv der Entschlossenheit.",
+          "Er versucht, die Bildsprache des Textes (Atemzug, Ewigkeit, Paradies) in ein größeres Bild von Hoffnung und Mut zu überführen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird als Quelle der Inspiration und des Lebens dargestellt, die den Sänger dazu bringt, sein volles Potenzial auszuschöpfen und seine Träume zu verwirklichen.",
+          "Der Song beschreibt auch die Intensität und die Tiefe der Gefühle, die in einer solchen Beziehung erlebt werden, und wie sie das Leben zu einem Paradies machen kann.",
+          "Die Verbindung zwischen den beiden Partnern wird als unverbrüchlich dargestellt, und der Sänger ist bereit, alle Herausforderungen gemeinsam zu meistern.",
+          "Der Song endet mit dem Gefühl der Wiedergeburt und der Gewissheit, dass die Liebe alles möglich macht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler Ausdruck der Liebe und des Lebens.",
+          "Der Text beschreibt die transformative Kraft einer Beziehung, die das Leben des Sängers verändert hat.",
+          "Ein einfacher Blick oder ein Wort kann alles verändern und ein neues Kapitel im Leben eröffnen.",
+          "Die Wiederholung des Refrains \"Ja ich will - ich kann\" unterstreicht die Entschlossenheit und das Selbstvertrauen, das die Liebe verleiht."
+        ],
+        "positive_aspekte": [
+          "Er greift die wiederkehrenden Motive (Atemzug, Ewigkeit, Paradies) auf und verknüpft sie mit dem Bild einer „Wiedergeburt\".",
+          "Er erwähnt die Idee einer unverbrüchlichen Bindung, was im Text durch die wiederholten „Wir\"‑Formulierungen angedeutet wird."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird als Quelle der Inspiration und des Lebens dargestellt, die den Sänger dazu bringt, sein volles Potenzial auszuschöpfen und seine Träume zu verwirklichen.",
+          "Der Song beschreibt auch die Intimität und Verbundenheit der Beziehung, in der zwei Menschen zusammen durchs Leben gehen und sich gegenseitig unterstützen.",
+          "Die Liebe wird als ein Paradies und ein Wunder dargestellt, das den Sänger dazu bringt, sein Leben neu zu definieren und Sinn zu finden.",
+          "Durch die Liebe fühlt sich der Sänger wiedergeboren und ist bereit, alle Herausforderungen zu meistern, solange er die Unterstützung und Liebe seines Partners hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler Ausdruck der Liebe und des Lebens.",
+          "Der Text beschreibt die transformative Kraft einer Beziehung, die das Leben des Sängers verändert hat.",
+          "Ein einfacher Blick oder ein Wort kann alles verändern und ein neues Kapitel im Leben eröffnen.",
+          "Die Wiederholung des Refrains \"Ja ich will - ich kann\" unterstreicht die Entschlossenheit und das Selbstvertrauen, das die Liebe verleiht.",
+          "Der Song ist ein romantischer Tribut an die Kraft der Liebe und ihre Fähigkeit, Menschen zu verändern und ihr Leben zu bereichern."
+        ],
+        "positive_aspekte": [
+          "Er hebt die wiederholte Zeile \"Ja ich will - ich kann\" als Ausdruck von Entschlossenheit hervor.",
+          "Er spricht die Idee von Intimität und gegenseitiger Unterstützung an, was im Text durch die vielen „du/ich\"‑Wechsel impliziert wird."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird als Quelle der Inspiration und des Mutigseins dargestellt, die es dem Sänger ermöglicht, sein volles Potenzial auszuschöpfen und seine Träume zu verwirklichen.",
+          "Der Song beschreibt auch die Schönheit und die Magie der Beziehung, die wie ein Paradies oder ein Wunder erlebt wird.",
+          "Die Liebe wird als Grundlage für ein erfülltes und sinnvolles Leben gesehen, in dem man gemeinsam mit dem Partner durch alle Herausforderungen geht und am Ende triumphiert.",
+          "Der Text ist auch durchzogen von einer tiefen Sehnsucht und einer unerschütterlichen Zuversicht, dass die Liebe alles überwinden kann und dass man mit dem Partner an seiner Seite alles erreichen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler und optimistischer Ausdruck der Liebe und des Lebens.",
+          "Der Text beschreibt die transformative Kraft einer Beziehung, die das Leben des Sängers verändert hat.",
+          "Ein einfacher Blick oder ein Wort kann alles verändern und ein neues Kapitel im Leben eröffnen.",
+          "Die Wiederholung des Refrains \"Ja ich will - ich kann\" unterstreicht die Entschlossenheit und das Selbstvertrauen, das die Liebe verleiht."
+        ],
+        "positive_aspekte": [
+          "Er erkennt das Motiv von „Mutigsein\" und verknüpft es mit dem wiederholten Refrain.",
+          "Er betont die Idee von „Schönheit und Magie\" – Begriffe, die im Text durch die poetischen Bilder (z. B. „Atemzug der Ewigkeit\") angedeutet werden."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird als Quelle der Inspiration und des Lebens dargestellt, die den Sänger dazu bringt, sein volles Potenzial auszuschöpfen und seine Träume zu verwirklichen.",
+          "Durch die Liebe findet der Sänger seinen Sinn und seine Bestimmung, und er ist bereit, alle Herausforderungen zu überwinden, um sein Glück zu verwirklichen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler Ausdruck der Liebe und des Lebens.",
+          "Der Text beschreibt die transformative Kraft einer Beziehung, die das Leben des Sängers verändert hat.",
+          "Ein einfacher Blick oder ein Wort kann alles verändern und ein neues Kapitel im Leben eröffnen.",
+          "Die Wiederholung des Refrains \"Ja ich will - ich kann\" unterstreicht die Entschlossenheit und das Selbstvertrauen, das die Liebe verleiht.",
+          "Der Song beschreibt auch die Intensität und die Tiefe der Gefühle, die in einer solchen Beziehung erlebt werden, und wie sie das Leben zu einem Paradies machen kann.",
+          "Der Song ist ein Ausdruck der Dankbarkeit und der Hingabe an die Liebe, die das Leben bereichert und Sinn gibt."
+        ],
+        "positive_aspekte": [
+          "Er bezieht sich konkret auf die wiederholte Zeile \"Ja ich will - ich kann\" und interpretiert sie als Ausdruck von Entschlossenheit.",
+          "Er erwähnt das Motiv des „Paradieses\" und der „Intensität der Gefühle\", das im Text mehrfach auftaucht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.2,
+    "durchschnitt_tiefe": 2.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen (Liebe, Transformation, Refrain‑Motiv). Die inhaltliche Varianz ist gering; die meisten Aussagen sind oberflächlich und stark erfunden.",
+    "empfehlung": "Ein Ansatz, der stärker am konkreten Wortlaut des Textes bleibt (z. B. direkte Analyse von Bildsprichen wie „Atemzug der Ewigkeit“, „Ein Wort, das alles trägt“) und weniger spekulative Aussagen über die innere Motivation des Sängers liefert, erzielt höhere Texttreue und Tiefe. Interpretation 1 ist am wenigsten erfunden, aber alle Interpretationen benötigen mehr textbasierte Evidenz und weniger generische Klischees."
+  }
+}

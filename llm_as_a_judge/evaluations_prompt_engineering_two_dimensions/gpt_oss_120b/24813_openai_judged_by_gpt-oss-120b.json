@@ -1,0 +1,108 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Stück in die post‑2000er‑Deutschrock‑Szene einordnen, in der Themen von Individualität, psychischer Belastung und Selbstreflexion häufig verarbeitet werden.",
+          "Die Zeile \"Ohne dich bin ich ohne mich!\" spiegelt ein gesellschaftliches Bewusstsein für das Stigma von Einsamkeit und mentaler Instabilität, das in dieser Zeit verstärkt diskutiert wurde."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Bildsprache (Stillstand, Auf‑der‑Stelle‑Treten, Nichts‑Paradoxon).",
+          "Klare Verknüpfung von formalen Elementen mit inhaltlichen Spannungen.",
+          "Wenig spekulative Kontextualisierung, dafür fundierte Textbezüge."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Stück in den Kontext der deutschen Pop‑Punk‑Szene der frühen 2010er‑Jahre einordnen, die nach der Finanzkrise von 2008 vermehrt Themen von individueller Entfremdung und sozialer Unsicherheit bearbeitete."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannungen erzeugen eine affektive Dissonanz, die den Hörer zwischen Hoffnung und Resignation schwanken lässt.",
+          "Die Ambiguitäten … verdeutlichen, dass das Lied eher ein Spiegel gesellschaftlicher Fragmentierung als eine klare Lösung anbietet."
+        ],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Metaphern und Paradoxien im Text.",
+          "Gute Balance zwischen wörtlicher Analyse und Hinweis auf mehrschichtige Bedeutungen.",
+          "Erkennt die offene Natur des „Du“ und die daraus resultierende Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Stück in die post‑2000er‑Deutschrock‑Tradition einordnen, die häufig persönliche Krisen als Spiegel gesellschaftlicher Unsicherheit darstellt.",
+          "Die Betonung von Individualität und Selbstverlust reflektiert ein Zeitalter, in dem Identität zunehmend als fluide und durch äußere Beziehungen konstituiert verstanden wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textstellen mit den jeweiligen Metaphern (Freienfall, Stillstand, Rückwärtsgehen).",
+          "Klare Darstellung der Ambivalenz zwischen Rückwärts‑ und Vorwärtsbewegung.",
+          "Starke Argumentation, warum das Lied offen für mehrere Deutungen bleibt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Stück in den Kontext einer post‑modernen Gesellschaft einordnen, in der Individualität und soziale Bindungen zugleich zersplittert und neu verhandelt werden.",
+          "Die 2012 veröffentlichte Single erscheint in einer Phase zunehmender digitaler Entfremdung, was das Motiv des „Verstecks, das für mich jetzt richtig ist“ als Suche nach einem physischen Rückzugsort in einer zunehmend virtuellen Welt interpretiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit bleibt bewusst unaufgelöst und spiegelt die komplexe, widersprüchliche Erfahrung moderner Subjektivität wider."
+        ],
+        "positive_aspekte": [
+          "Gute Identifikation von Schlüsselmetaphern (Freienfall, Versinken).",
+          "Erkennt das Spannungsfeld zwischen Rückwärts‑ und Vorwärtsblick.",
+          "Verknüpft Text mit einem breiteren gesellschaftlichen Kontext (digitale Entfremdung)."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Stück in die post‑2000er‑Deutschrock‑Szene einordnen, die häufig Themen von Individualität, Entfremdung und psychischer Belastung behandelt.",
+          "Die Referenz an das „Zurückdrehen“ der Zeit spiegelt ein nostalgisches Verlangen nach früheren, vermeintlich stabileren sozialen Strukturen, das jedoch im Kontext einer zunehmend beschleunigten, digitalisierten Gesellschaft ambivalent bleibt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gründliche Analyse der Bildsprache (Halb‑Sein, Stillstand, Paradoxon).",
+          "Erklärt klar, warum das „Du“ mehrdeutig bleibt.",
+          "Verbindet formale Elemente mit einer möglichen gesellschaftlichen Lesart, ohne zu spekulieren."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen zentrale Beobachtungen (z. B. Leere, Rückwärts‑/Vorwärts‑Motiv). Die Variation liegt im Umfang der kulturellen Kontextualisierung – einige gehen stark spekulativ, andere bleiben textnah. Die Streuung der Halluzinations‑Scores (3‑4) zeigt moderate Inkonsistenz, die Tiefe‑Scores sind überwiegend hoch (3‑4).",
+    "empfehlung": "Interpretationen 3, 4 und 5 bieten die beste Balance aus Texttreue und analytischer Tiefe bei geringem Halluzinationsanteil. Für zukünftige Bewertungen sollte man besonders auf spekulative Kultur‑ und Geschichtskontexte achten und diese klar als Hypothesen kennzeichnen."
+  }
+}

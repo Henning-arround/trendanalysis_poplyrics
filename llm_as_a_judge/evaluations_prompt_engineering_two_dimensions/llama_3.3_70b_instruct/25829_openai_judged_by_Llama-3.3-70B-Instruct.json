@@ -1,0 +1,99 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielungen auf internationale Stars spiegeln die Durchdringung nationaler Kultur durch globale Pop-Ikonen wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ambivalent zwischen Trotz und Kapitulation schwankt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Diskrepanz zwischen äußerer Fassade und innerer Erschöpfung ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Schreib mir mal 'ne Karte, wenn Du da drüben bist' verweist auf räumliche und emotionale Distanz"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen dem beruhigenden Imperativ und der resignierten Aussicht auf verpasste Chancen erzeugt eine mehrschichtige Botschaft"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Metaphern ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Mischung aus persönlichen Erschöpfungsbildern und gesellschaftlichen Referenzen eröffnet eine symbolische Ordnung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz bleibt offen, weil der Sprecher weder erklärt, warum er sich gut fühlt, noch ob die Aussage als Selbstironie zu verstehen ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung von 'Keine Ahnung, keine Meinung, kein Konzept' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Schreib mir mal 'ne Karte, wenn Du da drüben bist' verweist auf die räumliche Trennung zwischen Ost- und Westdeutschland"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Diskrepanz zwischen dem Wortlaut und dem Tonfall erzeugt eine mehrschichtige Botschaft"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der popkulturellen Referenzen ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielungen auf internationale Stars reflektieren die Globalisierung der Popkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile 'Keine Ahnung, keine Meinung, kein Konzept / Keine Lust um aufzustehen' fungiert als narrativer Leerstelle"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

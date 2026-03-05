@@ -1,0 +1,99 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Gegenüberstellung von Hoffnungslosigkeit und Befreiung lässt offen, ob die Befreiung tatsächlich durch den anderen oder durch die eigene Projektion entsteht."
+        ],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext des Jahres 2014, einer Phase zunehmender digitaler Selbstinszenierung, reflektiert das Lied die Spannung zwischen öffentlicher Sichtbarkeit und dem Wunsch nach innerer, unverfälschter Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Mehrdeutigkeit des Textes und bietet eine tiefere Analyse der verwendeten Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Motiv der 'wahren, reinen Liebe' in der deutschen Popkultur der 2010er-Jahre als Gegenreaktion zu postmodernen Beziehungsmodellen deuten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Bildfigur der 'Augen in der Menschenmasse' fungiert zugleich als Beobachter, Verfolger und Wegweiser."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der stilistischen Mittel und ihrer Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Stück in den Kontext einer post-modernen Liebesideologie einordnen, in der Authentizität ('reiner Liebe') als Gegenpol zu einer von Zufall und Medien geprägten Wirklichkeit steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Gegenüberstellung von Hoffnungslosigkeit und Befreiung erzeugt ein persistierendes Spannungsfeld."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der verwendeten Metaphern und ihrer Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'Hohn und Hass' und 'reiner Liebe' erzeugt einen inneren Widerspruch, der nicht aufgelöst, sondern bewusst erhalten wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene Formulierung von 'Wahrer Liebe, reiner Liebe' ohne klare Definition lässt den Begriff als kulturelles Ideal, aber auch als potenziell hohle Phrase erscheinen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der stilistischen Mittel und ihrer Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die lyrische Bildsprache nutzt das Feuer als Symbol für verbliebene Leidenschaft, das jedoch von einem 'Nebel meiner Traurigkeit' erstickt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Kulturell verortet sich das Stück in einer post-modernen Sehnsucht nach authentischer, 'reiner' Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der verwendeten Metaphern."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

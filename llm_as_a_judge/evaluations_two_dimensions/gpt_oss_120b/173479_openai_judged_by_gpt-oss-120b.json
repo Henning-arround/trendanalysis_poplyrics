@@ -1,0 +1,98 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der abschließende Hinweis, dass es kein Ausweg aus dem „Dreck“ gibt, verstärkt die Tragödie einer Generation, die im Krieg gefangen bleibt und deren einzige Rettung – das Ablegen der Waffe – zugleich ein Akt der Verzweiflung und des Verlustes ist."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Liedtext ableiten.",
+          "Klare Strukturierung der einzelnen Bildabschnitte (Schiff, Camp, Schluss).",
+          "Wenig bis keine spekulativen Ergänzungen, dadurch hohe Faktentreue."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Letztlich stellt das Lied die Frage nach einem Ausweg aus dem „Dreck“ des Krieges und lässt offen, ob das Ablegen der Knarre tatsächlich den Weg zu einem sinnvollen, friedlichen Leben eröffnet."
+        ],
+        "positive_aspekte": [
+          "Durchgehend belegt durch Zitate aus dem Text.",
+          "Gute Analyse der wiederholten Aufforderung und ihrer Funktion als moralischer Anker.",
+          "Verknüpft einzelne Szenen (Schiff, Camp) zu einem kohärenten Bild der Gewaltspirale."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig aus dem Songtext ableiten – keine spekulativen Ergänzungen.",
+          "Sehr detaillierte, aber dennoch präzise Interpretation jedes Bildes (Schiff, Rum, Smutje, Camp).",
+          "Schließt mit einer klaren, textbasierten Deutung der Schlusszeile „nie“ ab."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des „großen Sieges“, der jedoch keine klare Perspektive mehr bietet, verdeutlicht die Desillusionierung einer Generation, die nach dem Zweiten Weltkrieg mit dem Verlust von Ziel und Zweck konfrontiert ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wird damit zu einer kritischen Reflexion über die Nachkriegsgesellschaft, die vergebliche Suche nach Orientierung und das dringende Verlangen, die Waffe – im wörtlichen wie im übertragenen Sinn – endlich niederzulegen.",
+          "Der Schluss, in dem das Leben „still dahin rann“ und dennoch „ganz und gar korrekt“ sei, spiegelt die resignierte Akzeptanz einer Generation, die trotz fehlender Sinnhaftigkeit weiterlebt, weil das Ablegen der Waffe das einzige mögliche Entrinnen aus dem „Dreck“ ist."
+        ],
+        "positive_aspekte": [
+          "Erkennt die historischen Parallelen (WWII) – obwohl spekulativ, liefert Kontext.",
+          "Verknüpft Zitate aus dem Text mit einer übergeordneten gesellschaftlichen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einer kritischen Reflexion über die Sinnlosigkeit von Krieg, die Verrohung des Individuums und die vergebliche Suche nach einem Ausweg aus dem Kreislauf der Gewalt."
+        ],
+        "positive_aspekte": [
+          "Starke Bildsprache, die alle Textstellen einbezieht.",
+          "Gute Balance zwischen konkreter Textanalyse und dem Aufzeigen von Mehrdeutigkeiten."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen bleiben sehr textnah; nur Interpretation 2 führt historische Kontextualisierungen ein, die nicht im Text verankert sind. Insgesamt ist die Varianz gering – fast alle Analysen erreichen hohe Faktentreue.",
+    "empfehlung": "Interpretation 5 ist das optimale Modell: sie kombiniert vollständige Texttreue mit tiefgehender, aber präziser Analyse und verzichtet auf spekulative oder oberflächliche Aussagen. Für zukünftige Bewertungen sollte das Augenmerk darauf liegen, jede Interpretation streng an den vorliegenden Text zu binden und Mehrdeutigkeiten explizit zu benennen, ohne unnötige historische oder biografische Spekulationen."
+  }
+}

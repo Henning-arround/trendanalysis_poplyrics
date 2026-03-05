@@ -1,0 +1,99 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zur kosmischen Realität ist ein zentrales Thema"
+        ],
+        "oberflächliche_aussagen": [
+          "Die menschliche Suche nach Sinn und Bedeutung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Themen des Songs wie Transzendenz und kosmisches Bewusstsein ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Transzendenz ist ein Hauptmotiv"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre der Sehnsucht und des Staunens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berührt die Themen des Songs, aber bleibt teilweise vage"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spirituelle Osmose ist ein zentraler Punkt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die menschliche Existenz und das Streben nach Transzendenz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der spirituellen Aspekte des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zur kosmischen Realität ist entscheidend"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Sinn und Bedeutung in einem scheinbar sinnlosen Universum"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Themen des Songs wie Transzendenz und kosmisches Bewusstsein ab"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Reise ins Unbekannte ist ein Hauptthema"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre der Sehnsucht und des Staunens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berührt die Themen des Songs, aber bleibt teilweise vage"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber bleiben insgesamt konsistent in ihrer Themenwahl",
+    "empfehlung": "Eine Kombination aus textgetreuer Analyse und kreativer Interpretation könnte zu einer noch tieferen und differenzierteren Einsicht in den Song führen"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historischer Kontext 1994 nach der Wiedervereinigung vor dem Aufstieg des Internets reflektiert ein kollektives Gefühl von Unsicherheit und Überforderung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text nutzt eine kaleidoskopische Erzählweise (vage, wenig konkret).",
+          "Die Referenzen fungieren als kulturelle Signaturen, die sowohl Nostalgie als auch Kontroverse einladen (zu allgemein)."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche textbezogene Analysen (z. B. Wiederholungen, Bildsprache, Pop‑Referenzen).",
+          "Erkennt die Ambivalenz zwischen Resignation und Trotz.",
+          "Verknüpft einzelne Zeilen klar mit ihrer interpretativen Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Werk 1994 entstand in einer Phase des deutschen Wiedervereinigungs‑ und Globalisierungsprozesses, in der Identitätskrisen und mediale Überflutung thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Anspielungen auf internationale Stars spiegeln die Durchdringung nationaler Kultur durch globale Pop‑Ikonen wider (zu allgemein).",
+          "Die wiederholte Leere kritisiert die postmoderne Sinnsuche (vage)."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse von Bildsprache und Wiederholungen.",
+          "Klare Verknüpfung von Textstellen mit ihrer möglichen Funktion (z. B. „über’s Wasser gehen“).",
+          "Berücksichtigt sowohl formale als auch inhaltliche Ebenen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk 1994 in einer Phase post‑kalten Krieg‑Unsicherheit und wachsender Medienkritik zu verorten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Balance zwischen textnaher Analyse und Einordnung in breitere gesellschaftliche Themen.",
+          "Erklärt die Paradoxie von „Über‑Wasser‑Gehen“ vs. „keine Lust aufzustehen“ sehr konkret.",
+          "Verwendet viele direkte Zitate, um Argumente zu stützen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk im Kontext des frühen 1990‑Deutschlands zu verorten, einer Phase nach der Wiedervereinigung, in der Fragen nach Identität, Generationenkonflikten und medialer Überflutung laut wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Extrem detailliert – jede Textstelle wird analysiert und in einen größeren kulturellen Kontext gestellt.",
+          "Verknüpft formale Mittel (Wiederholungen, Metaphern) mit inhaltlichen Bedeutungen.",
+          "Erkennt und benennt mehrschichtige Ambiguitäten sehr präzise."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch das Stück 1994 entstanden, einer Phase, in der deutsche Popkultur vermehrt mit globalen Medienereignissen und dem Aufkommen von Celebrity‑Skandalen spielte.",
+          "Die Zeile „Schreib mir mal 'ne Karte, wenn Du da drüben bist“ verweist auf die räumliche Trennung zwischen Ost‑ und Westdeutschland.",
+          "Die vage Zukunftsangabe „Wir werden und was borgen und wieder jung aussehen“ reflektiert die Ungewissheit der Wiedervereinigung."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Struktur: Erst Analyse, dann Stil, dann Historie.",
+          "Erkennt die zentrale Spannung zwischen Selbstbehauptung und Resignation.",
+          "Bezieht Pop‑Referenzen ein und erklärt deren mögliche Funktion."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass die Interpretationen trotz ähnlicher Grundstruktur stark variieren: Während Interpretation 2 sehr tiefgehend und textnah ist, enthalten Interpretation 4 mehrere spekulative historische Annahmen, was zu einer niedrigeren Halluzinations‑ und Tiefenbewertung führt. Insgesamt gibt es eine moderate Varianz, aber die meisten Analysen bleiben im Rahmen des Songtexts.",
+    "empfehlung": "Für künftige Bewertungen sollte ein Fokus auf direkte Textbelege gelegt werden, während spekulative historische oder biografische Kontextualisierungen klar als Annahmen gekennzeichnet werden. Interpretation 2 dient als Vorbild für eine balancierte, tiefgehende Analyse mit minimalen Halluzinationen."
+  }
+}

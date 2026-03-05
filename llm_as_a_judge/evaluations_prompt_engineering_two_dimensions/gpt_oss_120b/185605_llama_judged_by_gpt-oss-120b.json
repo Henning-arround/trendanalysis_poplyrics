@@ -1,0 +1,109 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann im kulturellen und gesellschaftlichen Kontext des frühen 21. Jahrhunderts gesehen werden, in dem die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, sind im Song subtil verwendet."
+        ],
+        "positive_aspekte": [
+          "Alle Analyse‑Punkte lassen sich eindeutig aus dem vorliegenden Text ableiten.",
+          "Mehrere konkrete Bild‑ und Metaphern‑Interpretationen (z. B. Herz‑Metapher, Schulter‑Wunde).",
+          "Verknüpfung der Wiederholung von „That's all i need“ mit einer inhaltlichen Aussage (Mantra, zentrale Botschaft)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann im kulturellen und gesellschaftlichen Kontext des frühen 21. Jahrhunderts gesehen werden, in dem die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, sind im Song subtil verwendet."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit deren möglicher Bedeutung.",
+          "Ausgewogene Mischung aus konkreten Textbezügen und weiterführender Interpretation.",
+          "Wiederholungen werden nicht nur wiederholt, sondern inhaltlich erklärt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann im kulturellen und gesellschaftlichen Kontext des frühen 21. Jahrhunderts gesehen werden, in dem die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, sind im Song subtil verwendet."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der Schlüsselzeilen (z. B. „Just a heart that's beating / With mine“).",
+          "Erkenntnis, dass materielle Aspekte abgelehnt werden, wird direkt aus dem Text gezogen.",
+          "Stilistisch konsistente Argumentation ohne unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann im kulturellen und gesellschaftlichen Kontext des frühen 21. Jahrhunderts gesehen werden, in dem die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, sind im Song subtil verwendet."
+        ],
+        "positive_aspekte": [
+          "Systematischer Aufbau: Thema → Stilmittel → Kontext → Botschaft.",
+          "Mehrere Textstellen werden jeweils mit einer konkreten Interpretation verknüpft.",
+          "Wiederholungen werden als stilistisches Mittel (Mantra) erkannt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann im kulturellen und gesellschaftlichen Kontext des frühen 21. Jahrhunderts gesehen werden, in dem die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, sind im Song subtil verwendet."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, die die zentrale Botschaft klar herausarbeiten.",
+          "Erklärung der Symbolik (Schulterwunde, Herz‑Metapher) anhand des Textes.",
+          "Verständliche Sprache, die die Analyse für Leser*innen nachvollziehbar macht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.0,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch; die Varianz ist praktisch nicht vorhanden, was auf ein hohes Maß an Wiederholung, aber gleichzeitig auf konsistente Texttreue hinweist.",
+    "empfehlung": "Der Ansatz, der konkrete Textstellen mit klaren, textbasierten Interpretationen verknüpft und dabei nur minimale, gut begründete Kontextualisierungen einbringt, liefert die ausgewogenste Bewertung. Zukunftige Modelle sollten darauf achten, spekulative kulturelle Einordnungen zu vermeiden oder klar als Hypothese zu kennzeichnen, um den Halluzinations‑Score zu senken."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau ist jedoch auch von Unsicherheit und Ängsten geplagt, was durch ihre Reaktionen und ihre Telefonate deutlich wird.",
+          "Der Sänger ist sich dieser Konflikte bewusst, aber er ist bereit, sie zu überwinden und die Beziehung zu intensivieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Musik und die Texte schaffen eine intensive und sinnliche Atmosphäre, die die Hörer in die Welt der beiden Protagonisten zieht.",
+          "Der Song ist eine Ode an die Leidenschaft und die Hingabe, die in einer Beziehung möglich sind, und er lädt die Hörer ein, sich auf diese Reise zu begeben.",
+          "Durch die Wiederholung des Refrains ... Ekstase endet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation greift viele konkrete Textstellen (Club, „Let me feel you“, Telefonat) auf und bleibt damit nah am Original.",
+          "Sie verbindet diese Beobachtungen mit einer nachvollziehbaren Analyse der wiederholten Refrain‑Motivation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau ist jedoch auch von Unsicherheit und Ängsten geplagt, was durch ihre Reaktionen und ihre Telefonate deutlich wird.",
+          "Der Sänger ist sich dieser Konflikte bewusst, aber er ist bereit, sie zu überwinden und die Beziehung zu intensivieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Musik und die Texte schaffen eine intensive und sinnliche Atmosphäre, die die Hörer in die Welt der beiden Protagonisten zieht.",
+          "Der Song ist eine Ode an die Leidenschaft und die Hingabe, die in einer Beziehung möglich sind, und er lädt die Hörer ein, sich dieser Gefühle hinzugeben und loszulassen.",
+          "Durch die Wiederholung des Refrains ... Hymne an die Liebe und die Leidenschaft."
+        ],
+        "positive_aspekte": [
+          "Klare Bezugnahme auf zentrale Textpassagen (Club, „Ride it“, „Let me feel you“, Telefonat).",
+          "Erklärt die wiederholte Aufforderung im Refrain ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau ist jedoch auch von Unsicherheit und Ängsten geplagt, was durch ihre Reaktionen und ihre Telefonate deutlich wird.",
+          "Der Sänger versucht, sie zu beruhigen und ihr zu zeigen, dass er für sie da ist, und am Ende gelingt es ihm, sie zu überzeugen, sich ihm hinzugeben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Ode an die Leidenschaft und die Intimität, die in einer Beziehung entstehen kann, und zeigt, wie zwei Menschen sich in einem Moment der Ekstase und des Loslassens finden können.",
+          "Durch die Wiederholung des Refrains ... intensive und emotionale Stimmung, die den Hörer in die Welt des Songs zieht."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf mehrere konkrete Szenen (Club, Telefon, „Ride it“, „Let me feel you“).",
+          "Versucht, die Entwicklung der Beziehung im Song narrativ zu erfassen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau ist jedoch auch unabhängig und selbstbewusst, was der Sänger anscheinend sehr anziehend findet.",
+          "Als ihre Vergangenheit und Probleme auftauchen, versucht der Sänger, Abstand zu gewinnen, aber die Frau gelingt es, ihn zurückzugewinnen, indem sie ihm verspricht, ihn zu trösten und seine Sorgen zu vergessen zu machen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Ride it\" wird zu einem Aufruf, sich der Leidenschaft und dem Moment hinzugeben, alle Kontrolle zu verlieren und sich der Intensität der Beziehung zu überlassen.",
+          "Der Song ist eine Ode an die Macht der Liebe und Leidenschaft, die Menschen dazu bringt, ihre Ängste und Sorgen zu überwinden und sich völlig aufeinander einzulassen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Wiederholung von „Let me feel you“ und „Ride it“ als Kernmotivation.",
+          "Stellt die Dynamik zwischen Verführung und emotionaler Unsicherheit dar."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau ist jedoch auch unabhängig und selbstbewusst, was der Sänger anscheinend sehr anziehend findet.",
+          "Als ihre Vergangenheit und Probleme auftauchen, versucht der Sänger, Abstand zu gewinnen, aber die Frau gelingt es, ihn zurückzugewinnen, indem sie ihm verspricht, ihn zu trösten und seine Sorgen zu vergessen zu machen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Ride it\" wird zu einem Aufruf, sich der Leidenschaft und dem Moment hinzugeben, alle Kontrolle zu verlieren und sich der Intensität der Beziehung zu überlassen.",
+          "Der Song ist eine Ode an die Macht der Liebe und Leidenschaft, die Menschen dazu bringt, ihre Ängste und Sorgen zu überwinden und sich völlig aufeinander einzulassen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die wiederholten Textzeilen mit einer klaren Interpretation der emotionalen Dynamik.",
+          "Bleibt bei den im Song genannten Szenen (Club, Telefon, Tanz)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen ein sehr ähnliches Muster: sie wiederholen dieselben Grundthesen und unterscheiden sich kaum in Detailgrad. Die Varianz ist gering, was auf ein hohes Maß an Redundanz hinweist.",
+    "empfehlung": "Da alle Modelle vergleichbare Halluzinations‑ und Tiefenscores erreichen, lohnt es sich, künftig stärker auf differenzierte Textanalysen zu setzen – z. B. durch genauere Untersuchung von Metaphern, Rhythmus und möglichen Mehrdeutigkeiten – anstatt generische Aussagen über \"Leidenschaft\" oder \"Ode\" zu wiederholen."
+  }
+}

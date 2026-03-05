@@ -1,0 +1,111 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Countdown … könnte metaphorisch … stehen könnte.",
+          "… was eine Mischung aus Optimismus und perhaps auch einer gewissen Verdrängung der Realität darstellen könnte.",
+          "Der Refrain … was die Überzeugung und das Selbstvertrauen der Raumfahrer hervorhebt, selbst angesichts der unbekannten Gefahren des Weltraums."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich eindeutig aus dem Text ableiten.",
+          "Der Text wird strukturiert analysiert (Countdown, „niemand ahnt“, Refrain).",
+          "Wenig spekulative Deutungen, dafür klare Textbezüge."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Countdown … könnte metaphorisch … stehen könnte.",
+          "… könnte auf technische Probleme … hindeuten, aber die Raumfahrer scheinen sich darüber nicht zu sorgen …",
+          "Die Wiederholung … unterstreicht die Gelassenheit und Zufriedenheit …",
+          "… zeigt, dass sie … wohl fühlen, was durch den Ausdruck „Behind the moon“ noch verstärkt wird …",
+          "Der Gesamteindruck … von Gelassenheit, Freiheit und der Sehnsucht nach dem Unendlichen …"
+        ],
+        "positive_aspekte": [
+          "Alle Grundinformationen (Countdown, „niemand ahnt“, Refrain) werden korrekt wiedergegeben.",
+          "Erkennt die wiederholte Aussage „Uns geht's gut“ als zentrales Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Befehl „Bringt uns Sterne“ könnte metaphorisch für die Erforschung des Unbekannten oder die Erreichung von Utopien stehen.",
+          "Der Satz „Verglühen wir gerne“ könnte bedeuten, dass sie bereit sind, Opfer zu bringen …"
+        ],
+        "oberflächliche_aussagen": [
+          "… betont, dass die Protagonisten sich in ihrer Situation wohl fühlen …",
+          "Der Gesamteindruck … von Entschlossenheit, Akzeptanz und einer gewissen Form von Fatalismus …"
+        ],
+        "positive_aspekte": [
+          "Gute Struktur: Countdown → Mission → Gefahr → Refrain.",
+          "Verknüpft mehrere Textstellen (Instrumente versagen, Glut, „niemand ahnt“) zu einer kohärenten Geschichte."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Illusion von Sicherheit und Kontrolle in einer von Technologie und Fortschritt geprägten Welt.",
+          "… „Behind the moon verglühen wir gerne“ … auf eine Art von Selbstzerstörung oder Opferung hindeutet."
+        ],
+        "oberflächliche_aussagen": [
+          "… wird zu einer Art Mantra oder einer Selbstverpflichtung macht.",
+          "… wird zu einer Art ironischer oder gar makabrer Aussage, die die Kluft zwischen der illusionären Sicherheit und der realen Gefahr betont."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Gegenüberstellung von Gefahr und dem Refrain „Uns geht's gut“.",
+          "Verbindet die Textstelle „Keine Sehnsucht nach Mutter Erde“ mit Entfremdung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Countdown … könnte metaphorisch … stehen könnte.",
+          "… was eine Mischung aus Optimismus und perhaps auch einer gewissen Verdrängung der Realität darstellen könnte.",
+          "Der Refrain … was die Überzeugung und das Selbstvertrauen der Raumfahrer hervorhebt, selbst angesichts der unbekannten Gefahren des Weltraums."
+        ],
+        "positive_aspekte": [
+          "Identisch zur Interpretation 3, also sehr textnah und strukturiert.",
+          "Wenig spekulativ, klare Bezüge zu den wiederholten Zeilen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3 und 4 sind nahezu identisch und zeigen hohe Konsistenz; die anderen Varianten variieren stark im Anteil spekulativer Aussagen.",
+    "empfehlung": "Interpretationen, die fast ausschließlich textbasierte Aussagen liefern (wie 3 und 4) erzielen die höchste Bewertung. Ein guter Ansatz ist, jede Textzeile zu verknüpfen, aber gleichzeitig offene Mehrdeutigkeiten zu benennen, ohne unnötige Spekulationen."
+  }
+}

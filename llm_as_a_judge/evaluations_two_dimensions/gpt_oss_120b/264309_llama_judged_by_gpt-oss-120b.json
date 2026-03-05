@@ -1,0 +1,120 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige Reflexion über die menschliche Natur und die Beziehungen zwischen den Menschen.",
+          "Die wiederholten Aufforderungen, es easy zu machen und sich zu entspannen, suggerieren eine Sehnsucht nach Einfachheit und Unbeschwertheit.",
+          "Die Ausnahme mit dem Monkey könnte für kindliche Unschuld stehen.",
+          "Der Satz 'The deeper you go, the higher you fly …' deutet auf eine spirituelle Reise hin.",
+          "Die Paradoxa 'Your inside is out when your outside is in' unterstreichen die Komplexität menschlicher Erfahrung.",
+          "Der Song kann als Aufforderung verstanden werden, sich von Masken zu befreien."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textzeilen (z. B. 'Everybody's got something to hide', 'The deeper you go, the higher you fly').",
+          "Erkennt die wiederholte Struktur des Refrains und die Gegenüberstellung von 'inside/outside'."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige Reflexion über die menschliche Natur und die Beziehungen zwischen den Menschen.",
+          "Die wiederholten Aufforderungen, es easy zu nehmen und sich zu entspannen, suggerieren eine Sehnsucht nach Unbeschwertheit und Freiheit von gesellschaftlichen Zwängen.",
+          "Die Zeile 'Everybody's got something to hide' deutet auf universelle Geheimnisse hin.",
+          "Der Monkey könnte ein Symbol für Intuition oder Unterbewusstsein sein.",
+          "Die Zeile 'Your inside is out when your outside is in' spielt mit der Idee von innerer und äußerer Identität.",
+          "Der Song fordert dazu auf, ehrlich und authentisch zu sein."
+        ],
+        "positive_aspekte": [
+          "Nutzt mehrere Textpassagen als Ausgangspunkt für die Interpretation.",
+          "Erkennt das Motiv des 'Monkey' als potenzielles Symbol."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige Reflexion über die menschliche Natur und die Beziehungen zwischen den Menschen.",
+          "Die wiederholten Aufforderungen, es easy zu nehmen und sich zu entspannen, suggerieren eine Sehnsucht nach Unbeschwertheit.",
+          "Die Zeile 'Everybody's got something to hide' weist auf universelle Geheimnisse hin.",
+          "Der Monkey könnte für Intuition oder Unterbewusstsein stehen.",
+          "Die Zeile 'Your inside is out when your outside is in' spielt mit innerer/äußerer Identität.",
+          "Der Song kann als Aufforderung verstanden werden, gesellschaftliche Zwänge zu überwinden."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf wiederholte Phrasen des Songs.",
+          "Erkennt das Motiv des 'Monkey' als potenzielles Symbol."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige Reflexion über die menschliche Natur und die Beziehungen zwischen den Menschen.",
+          "Die wiederholten Aufforderungen, es easy zu nehmen und sich zu entspannen, suggerieren eine Sehnsucht nach Unbeschwertheit und Freiheit von gesellschaftlichen Zwängen.",
+          "Die Zeile 'Everybody's got something to hide' deutet auf universelle Geheimnisse hin.",
+          "Der Monkey könnte ein Symbol für Intuition oder Unterbewusstsein sein.",
+          "Die Zeile 'Your inside is out when your outside is in' spielt mit der Idee von innerer und äußerer Identität.",
+          "Der Song fordert dazu auf, ehrlich und authentisch zu sein."
+        ],
+        "positive_aspekte": [
+          "Verweist konsequent auf zentrale Textstellen.",
+          "Erkennt das wiederholte Motiv 'Take it easy' als Hinweis auf das Thema Entspannung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige Reflexion über die menschliche Natur und die Beziehungen zwischen den Menschen.",
+          "Die wiederholten Aufforderungen, es easy zu machen und sich zu entspannen, suggerieren eine Sehnsucht nach Einfachheit und Unbeschwertheit.",
+          "Die Ausnahme mit dem Monkey könnte für kindliche Unschuld stehen.",
+          "Der Satz 'The deeper you go, the higher you fly …' deutet auf eine spirituelle Reise hin.",
+          "Die Wiederholung von 'Come on, it's such a joy' und 'Take it easy' unterstreicht die Bedeutung von Freude und Entspannung.",
+          "Die Zeile 'Your inside is out when your outside is in' wirft die Frage nach innerer vs. äußerer Wahrheit auf.",
+          "Der Song kann als Aufforderung verstanden werden, gesellschaftliche Zwänge zu überwinden und Authentizität zu finden."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf mehrere konkrete Textpassagen (z. B. 'Come on, it's such a joy', 'Take it easy').",
+          "Erkennt das wiederholte Motiv des Monkeys als potenzielles Symbol."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben generischen Aussagen; die Varianz ist gering, was auf ein hohes Maß an Redundanz und niedrige inhaltliche Tiefe hinweist.",
+    "empfehlung": "Ein besserer Ansatz wäre, konkrete Textstellen stärker zu analysieren, mehr auf Mehrdeutigkeiten einzugehen und weniger vage, allgemeine Aussagen zu machen. Dabei sollte die Interpretation stets klar als spekulativ gekennzeichnet werden, um Halluzinationen zu vermeiden."
+  }
+}

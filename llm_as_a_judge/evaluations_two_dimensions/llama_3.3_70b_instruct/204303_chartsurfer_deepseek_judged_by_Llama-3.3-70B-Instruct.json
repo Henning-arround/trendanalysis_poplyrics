@@ -1,0 +1,98 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bitte an Mr. C., das Lied zu singen, ist auch eine Bitte um eine Rückkehr in eine vergangene Zeit, in der die emotionale Verbindung zwischen den beiden noch intakt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine charmante und intime Ballade, die die Sehnsucht nach persönlicher Zuwendung und emotionaler Verbindung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile 'And everybody else will disappear' und ihre Bedeutung für die emotionale Verbindung zwischen dem Protagonisten und Mr. C."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bitte an Mr. C., das Lied zu singen, ist auch eine Bitte um eine Rückkehr in eine vergangene Zeit, in der die emotionale Verbindung zwischen den beiden noch intakt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine charmante und intime Ballade, die die Sehnsucht nach persönlicher Zuwendung und emotionaler Verbindung ausdrückt.",
+          "Der Song kann als eine Metapher für die menschliche Sehnsucht nach Liebe, Zuwendung und emotionaler Verbindung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation wiederholt wichtige Punkte, aber fügt wenig Neues hinzu."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Hommage an die Vergangenheit interpretiert werden, in der die Menschen noch mehr Zeit für zwischenmenschliche Beziehungen hatten und die Kommunikation noch persönlicher und direkter war."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Zeile 'and everybody else will disappear' und ihrer Bedeutung für die emotionale Verbindung zwischen dem Protagonisten und Mr. C.",
+          "Die Interpretation berücksichtigt auch die Rolle der Musik und der Stimme von Perry Como bei der Schaffung der intimen Atmosphäre."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bitte, ein bestimmtes Lied zu singen, kann auch als Metapher für die Sehnsucht nach emotionaler Nahrung und Trost interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Zeile 'and everybody else will disappear' und ihrer Bedeutung für die emotionale Verbindung zwischen dem Protagonisten und Mr. C.",
+          "Die Interpretation berücksichtigt auch die Bedeutung der Musik als Trost und emotionaler Nahrung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bitte an Mr. C., das Lied zu singen, kann auch als eine Bitte um eine Rückkehr in eine vergangene Zeit interpretiert werden, in der die Dinge noch einfacher und unkomplizierter waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine charmante und intime Ballade, die die Sehnsucht nach persönlicher Zuwendung und emotionaler Verbindung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile 'And everybody else will disappear' und ihre Bedeutung für die emotionale Verbindung zwischen dem Protagonisten und Mr. C."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (3 und 4) bieten eine detaillierte Analyse des Songtexts und seiner Bedeutung.",
+    "empfehlung": "Die Interpretationen 3 und 4 sind die besten, da sie eine detaillierte Analyse des Songtexts und seiner Bedeutung bieten, ohne zu viele unbelegte Aussagen zu machen. Es ist jedoch wichtig, die Interpretationen kritisch zu bewerten und unbelegte Aussagen zu identifizieren."
+  }
+}

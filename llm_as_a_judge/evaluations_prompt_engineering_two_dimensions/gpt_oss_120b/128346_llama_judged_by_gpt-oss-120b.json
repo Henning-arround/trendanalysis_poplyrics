@@ -1,0 +1,109 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Dimension des Songs wird durch die thematische Auseinandersetzung mit Verlust und Identität angesprochen.",
+          "Die Zeilen \"I don't remember anymore what I used to be\" und \"Where is the quiet piece of home where I could breathe?\" deuten auf eine tiefe Unsicherheit und Verwirrung hin, die in einer sich schnell verändernden Welt auftritt.",
+          "Die Wiederholung und die Betonung bestimmter Zeilen und Phrasen im Song unterstreichen die Ambiguitäten und Spannungen, die der Sänger erlebt, und lassen den Hörer die Komplexität seiner Emotionen und Erfahrungen nachvollziehen."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Songtext ableiten (7 von 10).",
+          "Die Analyse benennt konkrete Metaphern und wiederholte Motive.",
+          "Der Text wird strukturiert und nachvollziehbar interpretiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Dimension des Songs wird durch die thematische Auseinandersetzung mit Verlust und Identität angesprochen.",
+          "Die Zeilen \"I don't remember anymore what I used to be\" und \"Where is the quiet piece of home where I could breathe?\" deuten auf eine tiefe Unsicherheit und Verwirrung hin, die in einer sich schnell verändernden Welt auftritt.",
+          "Die Wiederholung und die Betonung bestimmter Zeilen und Phrasen im Song unterstreichen die Ambiguitäten und Spannungen, die der Sänger erlebt, und lassen den Hörer die Komplexität seiner Emotionen und Erfahrungen nachvollziehen."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretativen Aussagen.",
+          "Gute Erkennung von Stilmitteln (Metaphern, Symbolik).",
+          "Wenig spekulative Aussagen – fast vollständig textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Dimension des Songs wird durch die thematische Auseinandersetzung mit Verlust und Identität angesprochen.",
+          "Die Zeilen \"I don't remember anymore what I used to be\" und \"Where is the quiet piece of home where I could breathe?\" deuten auf eine tiefe Unsicherheit und Verwirrung hin, die in einer sich schnell verändernden Welt auftritt.",
+          "Die Wiederholung und die Betonung bestimmter Zeilen und Phrasen im Song unterstreichen die Ambiguitäten und Spannungen, die der Sänger erlebt, und lassen den Hörer die Komplexität seiner Emotionen und Erfahrungen nachvollziehen."
+        ],
+        "positive_aspekte": [
+          "Systematischer Aufbau: Botschaft → Stilmittel → gesellschaftlicher Kontext.",
+          "Zahlreiche Textbelege werden genannt.",
+          "Keine unbelegten biografischen oder genrebezogenen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Dimension des Songs wird durch die thematische Auseinandersetzung mit Verlust und Identität angesprochen.",
+          "Die Zeilen \"I don't remember anymore what I used to be\" und \"Where is the quiet piece of home where I could breathe?\" deuten auf eine Suche nach Sicherheit und Zugehörigkeit hin, die in einer sich schnell verändernden Welt verloren gegangen ist.",
+          "Die Wiederholung und die Betonung bestimmter Zeilen und Phrasen im Song unterstreichen die Ambiguitäten und Spannungen, die der Sänger erlebt, und lassen den Hörer die Komplexität seiner Emotionen und Erfahrungen nachvollziehen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Metapher „wave of guilt“ und deren Bedeutung.",
+          "Verknüpft Wiederholungen im Song mit emotionaler Wirkung.",
+          "Bleibt bei den im Text vorhandenen Informationen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Dimension des Songs wird durch die thematische Auseinandersetzung mit Verlust und Identität angesprochen.",
+          "Die Zeilen \"I don't remember anymore what I used to be\" und \"Where is the quiet piece of home where I could breathe?\" deuten auf eine Suche nach Sicherheit und Zugehörigkeit hin, die in einer sich schnell verändernden Welt verloren gegangen ist.",
+          "Die Wiederholung und die Betonung bestimmter Zeilen und Phrasen im Song unterstreichen die Ambiguitäten und Spannungen, die der Sänger erlebt, und lassen den Hörer die Komplexität seiner Emotionen und Erfahrungen nachvollziehen."
+        ],
+        "positive_aspekte": [
+          "Starke Textbelege für Metaphern und Wiederholungen.",
+          "Klare Argumentationskette von Text zu Interpretation.",
+          "Keine spekulativen biografischen Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen nahezu identische Struktur und inhaltliche Punkte, wodurch die Varianz sehr gering ist.",
+    "empfehlung": "Ein Ansatz, der konsequent Textbelege nutzt und gleichzeitig vage, nicht belegbare Generalisierungen minimiert, liefert die überzeugendste Analyse. Interpretation 1 erfüllt dieses Kriterium am besten, weil sie die meisten konkreten Textbezüge liefert und nur wenige oberflächliche Aussagen enthält."
+  }
+}

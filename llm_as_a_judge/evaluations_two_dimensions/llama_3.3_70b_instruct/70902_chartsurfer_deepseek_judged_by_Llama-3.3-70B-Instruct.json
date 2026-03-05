@@ -1,0 +1,100 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger glaubt, dass eines Tages die Dinge besser werden und er mit einem Lächeln in die Welt schauen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Liebeslied interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Sehnsucht nach einer besseren Zukunft"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger glaubt, dass eines Tages die Dinge besser werden und er mit einem Lächeln in die Welt blicken kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Liebeslied interpretiert werden",
+          "Die Wiederholung des Refrains unterstreicht die Bedeutung der Hoffnung und des Glaubens an eine bessere Zukunft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Sehnsucht nach einer besseren Zukunft"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger glaubt, dass eines Tages die Dinge besser werden und er mit einem Lächeln in die Welt blicken kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Liebeslied interpretiert werden",
+          "Die Wiederholung des Refrains unterstreicht die Bedeutung der Hoffnung und des Glaubens an eine bessere Zukunft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Sehnsucht nach einer besseren Zukunft"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die ständige Wiederholung des Refrains unterstreicht die Hoffnung und die Zuversicht, dass diese bessere Zukunft tatsächlich kommen wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Sehnsucht nach einer besseren Zukunft",
+          "Die Musik und der Gesang von Edgar Winter unterstreichen diese Botschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger glaubt, dass eines Tages die Dinge besser werden und er mit einem Lächeln in die Welt schauen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Liebeslied interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt eine Sehnsucht nach einer besseren Zukunft"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich",
+    "empfehlung": "Die beste Interpretation ist die vierte, da sie die meisten textbezogenen Aussagen enthält und am wenigsten halluziniert"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die späte Phase des Progressive‑Rock einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung erzeugt eine Spannung zwischen individueller Qual und einer universellen, fast altruistischen Strahlkraft"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -motiven"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die späte Phase von Uriah Heep (2008) einordnen, einer Zeit, in der Rockbands vermehrt nach spirituellen und transzendentalen Themen suchten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher verbindet das Himmlische mit dem Natürlichen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textsymbole und -metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück im Kontext der späten 2000er‑Jahre zu sehen, einer Phase, in der Rockbands vermehrt nostalgische Reflexionen mit zeitgenössischen Unsicherheiten kombinierten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bildsprache wechselt zwischen kosmischen und persönlichen Räumen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sprecher blickt zurück auf eine Vergangenheit, die von Dunkelheit und Unsicherheit geprägt war"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft persönliche Erinnerung mit einer mythischen Vision von Erlösung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textmotiven und -symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text reflektiert damit ein post‑modernes Bewusstsein, das nach Sinn in einer fragmentierten Welt sucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Zeile fungiert als narrativer Anker"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -ambivalenzen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Textstruktur und -motiven, jedoch eine hohe Varianz in der Bewertung der historischen und kulturellen Kontextualisierung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet unbegründete Aussagen"
+  }
+}

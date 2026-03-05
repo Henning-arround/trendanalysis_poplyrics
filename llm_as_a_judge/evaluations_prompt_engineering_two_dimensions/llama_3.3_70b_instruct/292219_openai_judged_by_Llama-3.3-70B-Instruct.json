@@ -1,0 +1,103 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-9/11-Stimmung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Angst vor Entfremdung in einer zunehmend vernetzten Welt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Text",
+          "Die Betonung der thematischen Komplexität zwischen persönlicher Trauer und existenzieller Isolation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-Britpop-Ära",
+          "Das late-night-Internet-Scrolling"
+        ],
+        "oberflächliche_aussagen": [
+          "Die digitale Vernetzung verstärkt das Gefühl der Entfremdung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und ihrer Bedeutung",
+          "Die Betonung der Ambiguitäten in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-moderne Angst vor Entfremdung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die nächtliche Stunde als Ort der authentischen Selbsterfahrung"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Symbole",
+          "Die Betonung der Unauflöslichkeit des Konflikts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Indie-Rock-Durchbruchsphase"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Entfremdung in einer digital vernetzten Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambivalenzen in der Beziehung",
+          "Die Betonung der inneren Spannung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die post-moderne Angst vor Entfremdung"
+        ],
+        "positive_aspekte": [
+          "Die sehr detaillierte und textbezogene Analyse",
+          "Die Betonung der dialektischen Spannung zwischen Erinnerung, Gegenwart und Zukunft"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen bieten eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine detaillierte und textbezogene Analyse bietet, ohne dabei in Spekulationen oder allgemeine Aussagen zu verfallen"
+  }
+}

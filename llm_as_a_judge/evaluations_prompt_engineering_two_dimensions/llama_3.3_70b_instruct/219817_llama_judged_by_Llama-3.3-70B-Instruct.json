@@ -1,0 +1,99 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenzen an Berlin und Dubai unterstreichen die globale und kosmopolitische Ausrichtung des Künstlers"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Selbstbehauptung und die Demonstration von Macht und Einfluss zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Luxusmarken wie Gucci und Dolce & Gabbana unterstreicht die Bedeutung von Konsum und Status in der Hip-Hop-Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Selbstbehauptung und das Überlegenheitsgefühl"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der 'Pyramidengruß' als Symbol für die Überwindung von Hindernissen ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Auseinandersetzung mit Fragen von Identität, Macht und Zugehörigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von Aggression und Selbstbewusstsein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der 'Afghan-Afghan, Hero-Hero, Marok-Marok, Zero-Zero'-Reihe ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenzen an Luxusmarken wie Gucci und Dolce & Gabbana unterstreichen die Bedeutung von Konsum und Status in der Hip-Hop-Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Selbstbehauptung und die Demonstration von Macht und Einfluss"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Orten wie Berlin und Dubai unterstreicht die globale und konsumorientierte Perspektive des Künstlers"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Selbstbehauptung und das Überlegenheitsgefühl"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der 'Pyramidengruß' als Symbol für die Überwindung von Hindernissen ist interessant"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten bieten eine gute Mischung aus Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die dritte, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und die tiefere Bedeutungsebene des Songs erschließt"
+  }
+}

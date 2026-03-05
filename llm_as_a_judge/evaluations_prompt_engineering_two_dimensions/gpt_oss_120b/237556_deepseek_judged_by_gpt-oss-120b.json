@@ -1,0 +1,111 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre interpretiert werden.",
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Wandels, in der traditionelle Normen und Werte in Frage gestellt wurden.",
+          "Der Song \"Let's Get Together Soon\" kann als Ausdruck der Sehnsucht nach emotionaler Verbindung und Nähe in einer Zeit des Umbruchs und der Unsicherheit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse von Metaphern (Weinen, Gänsehaut).",
+          "Hinweis auf Wiederholungen im Refrain und deren Bedeutung.",
+          "Konsistente Struktur: zentrale Botschaft, Stilmittel, Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre interpretiert werden.",
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Wandels, in der traditionelle Normen und Werte in Frage gestellt wurden.",
+          "Der Song \"Let's Get Together Soon\" kann als Ausdruck der Sehnsucht nach emotionaler Verbindung und Nähe in einer Zeit der Veränderung und Unsicherheit gesehen werden.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind geprägt von der authentischen und verletzlichen Darstellung der Emotionen durch Dusty Springfield, die eine tiefe Verbindung zum Hörer herstellt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, textnahe Interpretation von Metaphern und Bildsprache.",
+          "Verknüpfung von lyrischer Analyse mit einem historischen Überblick (auch wenn spekulativ).",
+          "Gute sprachliche Ausführung und klare Argumentationskette."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1960er Jahre gesehen werden.",
+          "Die Themen Liebe, Sehnsucht und Unsicherheit sind typisch für die Popmusik dieser Zeit.",
+          "Der Song kann auch als Ausdruck der emotionalen Verletzlichkeit und der Suche nach menschlicher Verbindung in einer Zeit des sozialen und kulturellen Umbruchs interpretiert werden.",
+          "Insgesamt zeigt \"Let's Get Together Soon\" eine komplexe emotionale Wirkung und affektive Dimension, die durch die literarischen Stilmittel und die kulturelle Kontextualisierung unterstrichen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist vor allem durch die authentische und verletzliche Darstellung ...",
+          "Insgesamt zeigt ... komplexe emotionale Wirkung ..."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Wiederholung der Zeile \"Wrong or right / Day and night, I miss you\" und verbindet sie mit der Idee von Beständigkeit.",
+          "Bezieht sich konkret auf die im Text vorkommenden Metaphern (Weinen, Gänsehaut)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre interpretiert werden.",
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Wandels, in der traditionelle Normen und Werte in Frage gestellt wurden.",
+          "Der Song \"Let's Get Together Soon\" kann als Ausdruck der Sehnsucht nach emotionaler Verbindung und Nähe in einer Zeit des Umbruchs und der Unsicherheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die Bedeutung der Wiederholung des Refrains.",
+          "Klare Trennung von Metaphern (Weinen, Gänsehaut) und deren Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1970er Jahre betrachtet werden.",
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs, in der traditionelle Normen und Werte in Frage gestellt wurden.",
+          "Der Song \"Let's Get Together Soon\" kann als Ausdruck der emotionalen und persönlichen Bedürfnisse in dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Hinweis auf die emotionale Dringlichkeit, die durch die Wiederholung von \"Wrong or right / Day and night, I miss you\" erzeugt wird.",
+          "Durchgängige, textbasierte Analyse von Metaphern und Bildsprache."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Sehnsucht, Hoffnung, Metaphern). Unterschiede liegen hauptsächlich im Umfang der spekulativen Kontextualisierung. Die Varianz ist gering; Halluzinationsraten bleiben konstant bei 2/5.",
+    "empfehlung": "Interpretationen 1‑4 zeigen ein gutes Gleichgewicht zwischen textnaher Analyse und Tiefe, wobei Interpretation 2 besonders durch die explizite Verknüpfung von Wiederholungen mit ihrer interpretativen Bedeutung hervorsticht. Zukunftige Modelle sollten spekulative historische Kontextualisierungen vermeiden oder klar als Hypothese kennzeichnen, um den Halluzinations‑Score zu senken."
+  }
+}

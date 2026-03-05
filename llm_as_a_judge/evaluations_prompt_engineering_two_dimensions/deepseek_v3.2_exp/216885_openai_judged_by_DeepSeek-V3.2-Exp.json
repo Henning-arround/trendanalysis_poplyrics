@@ -1,0 +1,98 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Beziehungskultur",
+          "digital geprägte Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen festgefahrener Erinnerung und dem Wunsch nach Weiterentwicklung"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und symbolischen Räumen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-digitale Jugendkultur",
+          "neoliberale Lebenslagen"
+        ],
+        "oberflächliche_aussagen": [
+          "paradoxes Motiv des Festhaltens in einer Beziehung"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und wiederkehrenden Bildern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen nostalgischer Bindung und dem Wunsch nach individueller Freiheit"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und literarischen Mitteln"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Generation-Z-Tendenz",
+          "digitale Erwartungshaltung"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen nostalgischer Bindung und dem Wunsch nach individueller Freiheit"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und literarischen Mitteln"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen nostalgischer Bindung und dem Drang nach individueller Freiheit"
+        ],
+        "positive_aspekte": [
+          "Analyse von Metaphern und literarischen Mitteln"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse von Metaphern und literarischen Mitteln, jedoch variiert die Tiefe der Analyse und die Anzahl der halluzinierten Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet halluzinierte Aussagen."
+  }
+}

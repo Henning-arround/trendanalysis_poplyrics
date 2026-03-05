@@ -1,0 +1,89 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Aussagen",
+          "Klare Verknüpfung von Zeilen mit Interpretation",
+          "Keine spekulativen biografischen oder historischen Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stimmige Zusammenfassung des Songtexts",
+          "Verwendung konkreter Textzitate als Beleg",
+          "Keine unbegründeten Zusatzinformationen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Interpretation über alle Zeilen hinweg",
+          "Gute Strukturierung der Argumentation",
+          "Vermeidung von Allgemeinplätzen ohne Textbezug"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Einbindung aktueller gesellschaftlicher Themen (Überwachung) als plausible Lesart",
+          "Klare Verknüpfung von Textpassagen mit Interpretation",
+          "Keine spekulativen biografischen Details"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stabile, textbasierte Argumentation",
+          "Wiederholung der Kernaussagen ohne unnötige Abschweifungen",
+          "Keine unbelegten historischen oder genrebezogenen Behauptungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen sind nahezu identisch; die Varianz ist minimal, was auf ein hohes Maß an Wiederholung, aber gleichzeitig auf konsistente Texttreue hinweist.",
+    "empfehlung": "Die vorliegenden Interpretationen zeigen eine solide Texttreue, jedoch fehlt tiefere analytische Differenzierung. Ein besserer Ansatz wäre, mehr Ambivalenzen und mögliche Mehrdeutigkeiten des Textes zu beleuchten, ohne dabei spekulative Fakten einzuführen."
+  }
+}

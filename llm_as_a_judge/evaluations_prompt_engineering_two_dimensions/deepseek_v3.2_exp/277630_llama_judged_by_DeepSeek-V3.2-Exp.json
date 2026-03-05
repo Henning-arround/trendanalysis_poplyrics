@@ -1,0 +1,95 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von sozialen und politischen Unruhen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gesellschaft ist von Gewalt und Verdrängung geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Frage nach Verantwortung und Wahrheit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gesellschaft oft blind gegenüber den wahren Problemen ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Frage nach dem Urheber der Schusswunde unterstreicht die Spannungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gesellschaft sich selbst von Schuld freispricht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambiguität und den Widerspruch der Ereignisse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die 1980er Jahre waren geprägt von sozialen Unruhen und politischer Instabilität"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Komplexität der Realität"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song mehrere Deutungsebenen hat"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Suche nach Wahrheit und Verantwortung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe"
+  }
+}

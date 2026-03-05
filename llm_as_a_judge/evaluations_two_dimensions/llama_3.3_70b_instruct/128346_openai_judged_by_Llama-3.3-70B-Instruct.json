@@ -1,0 +1,99 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des Hauses als Metapher für das innere Gefüge"
+        ],
+        "oberflächliche_aussagen": [
+          "Das lyrische Ich zwischen Besitzanspruch und Verlust schwankt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und ihre Bedeutung im Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zerbrechlichkeit einer selbst geschaffenen Identität"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des Feuers und der Sommerwärme als Hoffnungssymbol"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Selbstentfremdung und des Gedächtnisverlusts"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des Hauses als Symbol für das eigene Fundament"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von Feuer und Sommerwärme"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Zerrissenheit und des Verlangens nach einer zweiten Chance"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Selbstentfremdung als Gefühl der Entfremdung von sich selbst"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metaphern von Rasierklinge und Blut an den Händen"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der inneren Selbstgeißelung und des Verlangens nach Wiederherstellung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des Hauses als Symbol für das innere Gefüge"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Beteuerung als Reuegesang"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Zerrissenheit und des Verlangens nach einer zweiten Chance"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metaphern und der inneren Zerrissenheit",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Konsistenz in Bezug auf die Analyse der Metaphern und der inneren Zerrissenheit"
+  }
+}

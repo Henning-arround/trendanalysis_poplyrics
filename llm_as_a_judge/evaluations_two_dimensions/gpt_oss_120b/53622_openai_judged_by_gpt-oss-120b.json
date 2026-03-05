@@ -1,0 +1,115 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text mischt bewusst englische Phrasen … was die transkulturelle Identität des Künstlers betont und gleichzeitig ein Bild von Internationalität und Modernität erzeugt.",
+          "Metapher des „Training Day“ verleiht dem Alltag eine sportliche, fast spielerische Dimension, in der jede Begegnung ein Test der eigenen Dominanz ist.",
+          "Wiederkehrende Phrase „Ah‑ah“ den Song in einen fast hypnotischen Rhythmus fallen lässt, der die lyrische Oberflächlichkeit betont …",
+          "Insgesamt zeichnet das Stück ein Bild von Selbstvermarktung, das sowohl kritische Reflexion als auch unreflektierte Glorifizierung von Oberflächlichkeit und Machtdemonstration zugleich verkörpert."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. Clout‑Drinks, Luxus‑Symbole, Gewalt‑Metaphern).",
+          "Analytisch präzise Verknüpfungen zwischen wiederholten Motiven (z. B. „Hoes“, „Gang“, „four‑five“).",
+          "Erkennt Nuancen wie die ironische Selbstinszenierung und die Objektifizierung von Frauen, ohne zu überinterpretieren."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch die Mischung aus eingängigen Hook‑Elementen … entsteht ein Klangteppich, der die Oberflächlichkeit und den schnellen Konsum von Bild und Status betont.",
+          "Der Song fungiert damit als Selbstportrait eines Künstlers, der seine Identität über materielle Zeichen, digitale Sichtbarkeit und eine aggressive, aber zugleich spielerische Selbstdarstellung definiert."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufzählung aller im Text vorkommenden Status‑ und Gewalt‑Symbole.",
+          "Verknüpft formale Elemente (Hook‑Wiederholungen, „Ah‑ah“, „What, what?“) mit inhaltlichen Aussagen.",
+          "Bleibt faktentreu, keine spekulativen Biografiedetails."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Annahme, dass „four‑five“ ein Stadtteil oder ein Viertel sei (nicht im Text belegt)."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Track … überdrehten Selbstdarstellung das Bild einer nächtlichen Luxus‑ und Machtszene … (zu allgemein).",
+          "Insgesamt zeichnet der Song ein Bild von Überfluss, Selbstinszenierung und einer zugleich kritischen Distanz zu traditionellen Werten … (vage)."
+        ],
+        "positive_aspekte": [
+          "Klare Zuordnung von Textpassagen zu Themen wie Luxus, Gewalt und Konkurrenz.",
+          "Erkennt die Rolle von Marken‑ und Zahlen‑Codes als Szenen‑Signaturen.",
+          "Vermeidet übermäßige Biografie‑Spekulation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„four‑five“ sei ein Verweis auf das Viertel 45 in Berlin (Spekulation)."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft … Streben nach sozialer Sichtbarkeit mit einer übersteigerten Inszenierung von Luxus und Macht (zu allgemein).",
+          "Fler und Bass Sultan Hengzt als Verkörperungen einer urbanen Subkultur … (vage).",
+          "Der Mix aus Deutsch‑ und Englisch erzeugt ein hypnotisches, club‑typisches Klangbild … (nicht textbasiert).",
+          "Ein unterschwelliger Konflikt zwischen Wunsch nach echter Anerkennung und flüchtiger Bestätigung … (Interpretation ohne Textbeleg).",
+          "Der Song ist eine kritische, wenn auch selbstverherrlichende Reflexion der heutigen Rap‑Ästhetik (zu allgemein).",
+          "Der Mix aus Deutsch‑ und Englisch, das Einflechten von Pop‑Kultur‑Referenzen … (vage)."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt zentrale Motive: Clout, Drinks, Luxus‑Symbole, Gewalt‑Metaphern.",
+          "Erkennt die Mehrsprachigkeit des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„four‑five“ sei ein Stadtteil‑Code (nicht im Text belegt)."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Track … überdrehten Selbstdarstellung das Bild einer nächtlichen Luxus‑ und Machtszene … (zu allgemein).",
+          "Insgesamt zeichnet der Song ein Bild von Selbstinszenierung, materieller Überhöhung und einer stark gruppenbezogenen Identität … (vage)."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Zuordnung von Textstellen zu Themen (z. B. „Zwei Rolis“, „Money Stacks“, „Hunderttausend Euro ist ein Feature wert“).",
+          "Erklärt die Funktion von Wiederholungen („Ah‑ah“, „Bounce“) im Kontext des Club‑Settings.",
+          "Bleibt faktentreu, nur ein einzelnes spekulatives Detail."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Varianz: Während 1, 3, 4 und 5 weitgehend faktentreu sind, enthält Interpretation 2 die meisten vagen und spekulativen Aussagen. Die Halluzinations‑Raten liegen zwischen 0 % und ~12 %, was insgesamt eine gute Texttreue signalisiert.",
+    "empfehlung": "Interpretation 3 bietet die beste Balance aus faktischer Genauigkeit und analytischer Tiefe. Für zukünftige Analysen sollten Interpretationen darauf achten, spekulative Kontextualisierungen (z. B. Stadtteil‑Deutungen) zu kennzeichnen oder zu vermeiden und gleichzeitig mehr textbasierte Nuancen zu entwickeln, um die Tiefe zu erhöhen."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song spiegelt auch den kulturellen und gesellschaftlichen Kontext der frühen 1990er Jahre wider, in dem die Themen Liebe, Beziehungen und Trennungen in der Popkultur prominent waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität zwischen dem Wissen um die Notwendigkeit einer Trennung und der Unfähigkeit, sie durchzuführen, schafft eine Spannung, die den Song durchzieht.",
+          "Die Zeile \"Guess eventually / We'll just give up trying\" kann als Kommentar zur Resignation und Verzweiflung in einer toten Beziehung gesehen werden, die in diesem Kontext besonders relevant ist.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Exploration der menschlichen Erfahrung von Verlust und der Unfähigkeit, loszulassen, was durch die symbolische Ordnung der Beziehung und ihrer Entwicklung dargestellt wird."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche textbezogene Analysen (Metaphern, narrative Struktur, konkrete Zeileninterpretationen).",
+          "Klare Verknüpfung von Songtext‑Elementen mit interpretatorischen Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in den frühen 1990er Jahren entstand, kann als Teil der damaligen Diskussionen um Beziehungen und Partnerschaften gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der Ambiguitäten und Widersprüche in Beziehungen, die oft nicht eindeutig zu lösen sind."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Interpretation mit vielen konkreten Belegen aus dem Song.",
+          "Gute Balance zwischen Analyse von Stilmitteln und thematischer Deutung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in den frühen 1990er Jahren entstand, kann als Teil der damaligen Diskussionen um Beziehungen und Partnerschaften gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der Ambiguitäten und Widersprüche in Beziehungen, die oft nicht eindeutig zu lösen sind."
+        ],
+        "positive_aspekte": [
+          "Umfassende, aber präzise Analyse der Songtextelemente.",
+          "Klare Argumentationsstruktur, die die zentrale Botschaft des Songs herausarbeitet."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in den frühen 1990er Jahren entstand, kann als Teil der damaligen Diskussionen um Beziehungen und Partnerschaften gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der Ambiguitäten und Widersprüche in Beziehungen, die oft nicht eindeutig zu lösen sind."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textbelegen mit interpretatorischen Schlüssen.",
+          "Ausgewogene Betrachtung von Metaphern, Narrativ und emotionaler Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in den frühen 1990er Jahren entstand, kann als Teil der damaligen Diskussionen um Beziehungen und Partnerschaften gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der Ambiguitäten und Widersprüche in Beziehungen, die oft nicht eindeutig zu lösen sind."
+        ],
+        "positive_aspekte": [
+          "Vielzahl konkreter Textbezüge (z. B. direkte Zitate, Metaphern‑Analyse).",
+          "Gut strukturierte Argumentation, die sowohl thematische als auch stilistische Ebenen beleuchtet."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.0,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Kernthesen; nur Interpretation 3 weicht leicht ab und enthält mehr vage Aussagen, wodurch sie die geringste Tiefenbewertung erhält.",
+    "empfehlung": "Interpretationen 1, 2, 4 und 5 zeigen die beste Balance aus Texttreue und analytischer Tiefe. Für zukünftige Bewertungen sollte darauf geachtet werden, spekulative Kontextualisierungen klar zu kennzeichnen, um den Halluzinations‑Score zu senken."
+  }
+}

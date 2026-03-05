@@ -1,0 +1,104 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Du bist die Zukunft aus der Vergangenheit' verknüpft Erinnerung und Erwartung"
+        ],
+        "oberflächliche_aussagen": [
+          "eine tiefe, beinahe spirituelle Bindung"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Konkretisierung von Symbolen wie Licht im Dunkeln"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine zyklische Natur von Anfang und Ende"
+        ],
+        "oberflächliche_aussagen": [
+          "Trost und Erlösung"
+        ],
+        "positive_aspekte": [
+          "Verbindung von Zeit und Magie",
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine zyklische Vollständigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "eine tiefe, fast spirituelle Bindung"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine zeitlose Bindung"
+        ],
+        "oberflächliche_aussagen": [
+          "Trost und Klarheit"
+        ],
+        "positive_aspekte": [
+          "Verbindung von Vergangenheit und Zukunft",
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "ein Leitstern"
+        ],
+        "oberflächliche_aussagen": [
+          "eine tiefe Bindung"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse von Symbolen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse von Symbolen und Themen, jedoch variiert die Tiefe und der Halluzinationsgrad.",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

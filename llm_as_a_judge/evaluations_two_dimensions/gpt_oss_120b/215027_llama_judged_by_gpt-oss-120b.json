@@ -1,0 +1,105 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung dieser Zeilen und die einprägsamen Melodien verstärken die Botschaft des Liedes, dass Liebe die Grundlage für ein erfülltes und sinnvolles Leben ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" von Jürgen Marcus ist ein Ausdruck unbeschwerter und unverfälschter Liebe, die als zentrales Element des Lebens betrachtet wird."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse der einzelnen Zeilen.",
+          "Wenig spekulative Ergänzungen, nur ein einziger erfundener Hinweis auf die Melodie."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung dieser Zeilen und die einprägsamen Melodien verstärken die Botschaft des Liedes, dass Liebe die Grundlage für ein erfülltes und sinnvolles Leben ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" von Jürgen Marcus ist ein Ausdruck unbeschwerter und unverfälschter Liebe, die als zentrales Element des Lebens betrachtet wird."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textstellen mit einer übergeordneten Aussage über die Bedeutung der Liebe.",
+          "Nur ein einziger nicht belegter Hinweis auf die Melodie."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung dieser Zeilen und die einprägsamen Melodien verstärken die Botschaft des Liedes, dass Liebe die Grundlage für ein erfülltes und sinnvolles Leben ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" von Jürgen Marcus ist ein Ausdruck unbeschwerter und unverfälschter Liebe, die als zentrales Element des Lebens betrachtet wird."
+        ],
+        "positive_aspekte": [
+          "Konsistente, textnahe Interpretation.",
+          "Minimale Halluzination – nur ein Hinweis auf die Melodie, der nicht im Text steht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Themas und die einprägsamen Melodien verstärken die Botschaft, dass Liebe die grundlegende Komponente eines sinnvollen und glücklichen Daseins ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" von Jürgen Marcus ist ein Ausdruck unbeschwerter und überbordender Liebe, die das Leben der beiden Protagonisten zu einem unendlichen Fest macht.",
+          "Die Atmosphäre ist geprägt von einer tiefen Zufriedenheit und einem Gefühl der Unbesiegbarkeit, da die Anwesenheit des geliebten Menschen alles andere überstrahlt."
+        ],
+        "positive_aspekte": [
+          "Versucht, die emotionale Stimmung des Songs stärker zu beschreiben.",
+          "Bezieht sich auf fast alle Textzeilen und liefert damit eine umfassende Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung dieser Zeilen und die einprägsamen Melodien verstärken die Botschaft des Liedes, dass Liebe die Grundlage für ein erfülltes und sinnvolles Leben ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Ein Festival der Liebe\" von Jürgen Marcus ist ein Ausdruck unbeschwerter und unverfälschter Liebe, die als zentrales Element des Lebens betrachtet wird."
+        ],
+        "positive_aspekte": [
+          "Klare Struktur, jede Textzeile wird thematisch verknüpft.",
+          "Nur ein einziger nicht belegter Hinweis auf die Melodie."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen (1,2,3,5) sind nahezu identisch, was auf geringe Varianz und wenig kreative Differenzierung hinweist. Interpretation 4 weicht stärker ab, enthält mehr spekulative Aussagen und damit höhere Halluzinationsrate.",
+    "empfehlung": "Ein Ansatz, der textnahe Analysen mit wenigen, gut begründeten Zusatzinterpretationen (wie in Interpretation 1) liefert das beste Gleichgewicht zwischen Faktentreue und analytischer Tiefe. Zukunftige Modelle sollten darauf achten, spekulative Stimmungen (z. B. \"Gefühl der Unbesiegbarkeit\") klar zu kennzeichnen oder zu vermeiden, um die Halluzinationsrate niedrig zu halten."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über große Entfernungen hinweg Bestand hat."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person, die sich auf Reisen befindet."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über weite Entfernungen hinweg Bestand hat und die geliebte Person immer wieder an die gemeinsame Bindung erinnert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person, die sich auf Reisen befindet."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über große Entfernungen hinweg Bestand hat."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person, die sich auf Reisen befindet."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über große Entfernungen hinweg Bestand hat."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person, die sich auf Reisen befindet."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über große Entfernungen hinweg Bestand hat."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person, die sich auf Reisen befindet."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Beschreibung der Sehnsucht und des Verlangens nach einer geliebten Person, aber auch eine hohe Oberflächlichkeit in der Analyse.",
+    "empfehlung": "Die Interpretationen sollten sich bemühen, tiefer in die Analyse des Songtextes einzutauchen und weniger oberflächliche Aussagen zu treffen."
+  }
+}

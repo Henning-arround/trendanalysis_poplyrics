@@ -1,0 +1,99 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Aufruf, die Vergangenheit nicht zu vergessen, sondern sie als Chance zu sehen, die Beziehung wieder zu beleben und neue Erfahrungen zu sammeln."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Do you remember?' wird zu einem emotionalen Appell, die Erinnerungen wiederzubeleben und die Beziehung wieder aufzubauen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song hat eine nostalgische und romantische Atmosphäre, die durch die melodische Melodie und die sanften Rhythmen verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einer vergangenen Liebe und der Wunsch, diese wieder aufleben zu lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist kurz und prägnant."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Zusammenarbeit mit Sean Paul und Lil Jon wird der Song zu einem energiegeladenen und tanzbaren Track, der die Sehnsucht und die Hoffnung auf eine Wiederbelebung der Beziehung ausdrückt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Do you remember?' wird zu einem emotionalen Appell, die Erinnerungen wiederzubeleben und die Beziehung wieder aufzubauen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Aufruf, die Vergangenheit nicht zu vergessen, sondern sie als Chance zu sehen, die Beziehung wieder zu beleben und neue Erfahrungen zu sammeln."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Do you remember?' wird zu einem emotionalen Appell, die Erinnerungen wiederzubeleben und die Beziehung wieder aufzubauen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von der Sehnsucht nach einer vergangenen Beziehung und dem Wunsch, diese wieder aufleben zu lassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einer vergangenen Liebe und der Wunsch, diese wieder aufleben zu lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist kurz und prägnant."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe."
+  }
+}

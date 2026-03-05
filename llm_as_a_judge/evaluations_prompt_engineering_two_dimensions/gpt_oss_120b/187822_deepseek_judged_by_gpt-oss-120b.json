@@ -1,0 +1,111 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer postmodernen Gesellschaft verstanden werden, in der Beziehungen zunehmend fragil und von kurzer Dauer sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei der Interpretation.",
+          "Insgesamt zeigt der Song eine tiefere Bedeutungsebene, die auf die Verletzungen und Enttäuschungen hinweist, die durch gescheiterte Beziehungen entstehen können."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche textbezogene Analysen (Zeilenangaben, rhetorische Fragen, Metaphern).",
+          "Konsistente Verknüpfung von lyrischen Elementen mit einer klaren Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Art und Weise, wie Marx diese Thematik behandelt, ist jedoch charakteristisch für die Gegenwartskultur, in der emotionale Verletzungen und Beziehungsprobleme häufig thematisiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Die Thematik der gescheiterten Liebesbeziehung und des emotionalen Schmerzes ist ein universelles Thema, das in vielen Kulturen und zu verschiedenen Zeiten relevant ist.",
+          "Die Ambiguität und Spannung, die durch die offenen Fragen und die Selbstreflexion des Sprechers entstehen, bleiben im Song unaufgelöst und erzeugen eine tiefe emotionale Wirkung."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Zitierung von Songzeilen und deren unmittelbare Bedeutung.",
+          "Erklärung literarischer Stilmittel (Metaphern, rhetorische Fragen) mit konkreten Beispielen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von Trauer, Verzweiflung und Selbstzweifeln.",
+          "Diese Zeilen verdeutlichen die affektive Dimension des Songs, die von einer tiefen emotionalen Verletzlichkeit geprägt ist.",
+          "Im kulturellen und historischen Kontext kann der Song als Ausdruck der menschlichen Erfahrung von Liebeskummer und emotionaler Verletzlichkeit interpretiert werden.",
+          "Die Thematik des Songs ist universell und spricht eine breite Hörerschaft an."
+        ],
+        "positive_aspekte": [
+          "Fast ausschließlich Aussagen, die direkt aus dem Text ableitbar sind.",
+          "Umfangreiche Analyse von Metaphern, rhetorischen Fragen und konkreten Zeilen.",
+          "Keine spekulativen biografischen oder kulturhistorischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer postmodernen Gesellschaft verstanden werden, in der Beziehungen zunehmend fragil und von kurzer Dauer sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei der Interpretation.",
+          "Insgesamt zeigt der Song eine tiefere Bedeutungsebene, die auf die Verletzungen und Enttäuschungen hinweist, die durch gescheiterte Beziehungen entstehen können."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretatorischen Aussagen.",
+          "Erwähnung von gesellschaftlichen Tendenzen, die jedoch nur einmalig und nicht übertrieben eingebracht werden."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frage ... kann als metaphorische Ausdrucksform für die Unfähigkeit des Sprechers gesehen werden, die Zeichen des bevorstehenden Beziehungsendes zu erkennen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, jedoch kann die Thematik ... als universell und zeitlos betrachtet werden.",
+          "Die tiefere Bedeutungsebene des Songs kann in der Frage nach der Verletzlichkeit und der emotionalen Abhängigkeit in Beziehungen gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Umfangreiche Textbelege und detaillierte Analyse von Metaphern und emotionalen Nuancen.",
+          "Gute Balance zwischen konkreten Zeileninterpretationen und allgemeinen Aussagen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (reflektierende Auseinandersetzung, Metaphern, rhetorische Fragen). Unterschiede liegen in der Menge spekulativer Kontextualisierungen; Interpretation 5 bleibt am faktentreuesten.",
+    "empfehlung": "Interpretation 5 liefert die höchste Faktentreue bei gleichzeitig solider textbasierter Analyse. Für zukünftige Modelle sollte der Fokus auf direkte Textbelege gelegt werden, während spekulative kulturhistorische Einordnungen nur dann eingebracht werden, wenn sie klar aus dem Text ableitbar sind."
+  }
+}

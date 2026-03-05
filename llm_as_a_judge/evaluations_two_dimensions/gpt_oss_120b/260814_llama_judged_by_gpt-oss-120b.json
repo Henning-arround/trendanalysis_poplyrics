@@ -1,0 +1,119 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte beginnt mit dem Tod von Maxton, was möglicherweise auf den schottischen Politiker James Maxton hinweist, der 1946 starb und eine wichtige Figur in der schottischen Arbeiterbewegung war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... erzählt eine Geschichte, die tief in der schottischen Kultur und Geschichte verwurzelt ist.",
+          "Der Song scheint eine Nostalgie für eine bestimmte Zeit und einen bestimmten Ort auszudrücken, in dem die Gemeinschaft und die Arbeiterklasse eine wichtige Rolle spielen.",
+          "Die Verbindung von historischen und lokalen Elementen mit persönlichen Erinnerungen und Beobachtungen schafft eine dichte und vielschichtige Erzählung, die tief in der schottischen Kultur verwurzelt ist."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich klar aus dem Songtext ab (Ortsnennungen, Figuren, Szenen).",
+          "Die Interpretation liefert konkrete Bildanalysen (z. B. Atmosphäre von Chaos, Festlichkeit).",
+          "Wenig spekulative Biografie‑ oder Kontextinformationen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte beginnt mit dem Tod von Maxton, was möglicherweise auf den schottischen Politiker James Maxton hinweist, der 1946 starb und eine wichtige Figur in der schottischen Arbeiterbewegung war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... erzählt eine Geschichte, die tief in der schottischen Kultur und Geschichte verwurzelt ist.",
+          "Der Song scheint eine Nostalgie für eine bestimmte Zeit und einen bestimmten Ort auszudrücken, in dem die Gemeinschaft und die Arbeiterklasse eine wichtige Rolle spielen.",
+          "Die Verbindung von historischen und lokalen Elementen mit persönlichen Erinnerungen und Beobachtungen schafft eine dichte und vielschichtige Erzählung, die tief in der schottischen Kultur verwurzelt ist."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge zu Orten, Figuren und Symbolen.",
+          "Analytische Beschreibungen der Stimmungen (Unbeschwertheit, Chaos, Fest).",
+          "Nur ein einziger spekulativer Historienbezug (James Maxton)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte beginnt mit dem Tod von Maxton, was möglicherweise auf den schottischen Politiker James Maxton hinweist, der 1946 starb und eine wichtige Figur in der schottischen Arbeiterbewegung war.",
+          "Die Nennung von \"Fellow Hoodlums and Engineers\" … deutet auf eine starke Verbindung zur Arbeiterklasse und den Gewerkschaften hin, was in den 1990er Jahren in Schottland von großer Bedeutung war.",
+          "Die Szene … suggeriert eine Atmosphäre des Festes und der Feier, die möglicherweise mit Fußballspielen oder anderen wichtigen Ereignissen in Verbindung steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... erzählt eine Geschichte, die tief in der schottischen Kultur und Geschichte verwurzelt ist."
+        ],
+        "positive_aspekte": [
+          "Umfangreiche Textbezüge und konkrete Bildinterpretationen.",
+          "Ergänzende historische Kontextualisierung (1990er‑Jahre, Fußball) liefert zusätzliche Perspektiven, wenn auch spekulativ.",
+          "Mehrere differenzierte Stimmungsanalysen (Unbeschwertheit, Melancholie, Fest)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte beginnt mit dem Tod von Maxton, was möglicherweise auf den schottischen Politiker James Maxton hinweist, der 1946 starb und eine wichtige Figur in der schottischen Arbeiterbewegung war.",
+          "Die Nennung von \"Fellow Hoodlums and Engineers\" … deutet auf eine starke Verbindung zur Arbeiterklasse und den Gewerkschaften hin, was in den 1990er Jahren in Schottland von großer Bedeutung war.",
+          "Die Szene … suggeriert eine Atmosphäre des Festes und der Feier, die möglicherweise mit Fußballspielen oder anderen wichtigen Ereignissen in Verbindung steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... erzählt eine Geschichte, die tief in der schottischen Kultur und Geschichte verwurzelt ist."
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Bildsprache (z. B. Melancholie, Verfall).",
+          "Verknüpfung von Textdetails mit möglichen gesellschaftlichen Kontexten (1990er‑Arbeiterbewegung).",
+          "Klare Strukturierung von Szenen und deren Stimmungswirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte beginnt mit dem Tod von Maxton, was möglicherweise auf den schottischen Politiker James Maxton hinweist, der 1946 starb und eine wichtige Figur in der schottischen Arbeiterbewegung war.",
+          "Die Nennung von \"Fellow Hoodlums and Engineers\" … deutet auf eine starke Verbindung zur Arbeiterklasse und den Gewerkschaften hin, was in den 1990er Jahren in Schottland von großer Bedeutung war.",
+          "Die Szene … suggeriert eine Atmosphäre des Festes und der Feier, die möglicherweise mit Fußballspielen oder anderen wichtigen Ereignissen in Verbindung steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... erzählt eine Geschichte, die tief in der schottischen Kultur und Geschichte verwurzelt ist."
+        ],
+        "positive_aspekte": [
+          "Umfangreiche Textbezüge und konkrete Bildinterpretationen.",
+          "Einbindung von historischen Kontexten (1990er‑Jahre, Fußball) erweitert die Lesart.",
+          "Mehrere differenzierte Stimmungsanalysen (Unbeschwertheit, Melancholie, Fest)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen sind stark redundant; Interpretation 1‑3 sind fast identisch, während 2, 4 und 5 dieselben zusätzlichen spekulativen Elemente teilen. Die Varianz ist gering, was auf ein einheitliches, aber nicht besonders kreatives Modell hindeutet.",
+    "empfehlung": "Interpretationen 1 und 3 bieten das beste Verhältnis von Texttreue zu analytischer Tiefe, da sie kaum erfundene Fakten enthalten und gleichzeitig konkrete, textbasierte Analysen liefern. Modelle sollten ermutigt werden, spekulative Historien‑ oder Kontextangaben zu vermeiden, sofern sie nicht klar im Text verankert sind, und stattdessen mehr differenzierte, aber belegbare Textanalysen zu produzieren."
+  }
+}

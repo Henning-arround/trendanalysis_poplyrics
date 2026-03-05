@@ -1,0 +1,136 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Wiederholung entsteht ein hypnotischer Rhythmus, der das Herzklopfen des Sängers widerspiegelt und den Hörer in einen Zustand der Erwartung versetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein eindringliches Bekenntnis an die Sehnsucht nach Nähe und Geborgenheit, das zugleich die Zerbrechlichkeit einer jungen Liebe offenbart.",
+          "Die wiederholte Bitte … fungiert als Mantra, das die Dringlichkeit … betont.",
+          "Die Wortwahl ist bewusst simpel, doch die Intensität liegt im Klang der Wiederholungen … hier wird das Angstgefühl … deutlich.",
+          "Der Refrain … verbindet das sinnliche Vergnügen mit einer fast kindlichen Erwartungshaltung, als ob die Küsse das einzige Mittel seien, das innere Vakuum zu füllen.",
+          "Die Zeile … nutzt das Bild des Umschließens, das sowohl Schutz als auch Eingrenzung impliziert …",
+          "So entsteht ein Spannungsfeld zwischen dem Wunsch nach völliger Hingabe und der Furcht vor dem Verlust der eigenen Identität.",
+          "Insgesamt vermittelt der Song eine bittersüße Mischung …"
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge (Wiederholungen, zentrale Motive).",
+          "Erkennt das Spannungsfeld zwischen Nähe‑ und Kontrollangst.",
+          "Verknüpft einzelne Zeilen mit möglichen emotionalen Bedeutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wortwahl ist bewusst simpel, doch gerade diese Schlichtheit lässt die Dringlichkeit des Gesangs durchscheinen: Das „never let me go“ klingt wie ein Flehen, das die Angst vor Verlust und Verlassenheit ausdrückt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein eindringliches Bekenntnis an die Sehnsucht nach Nähe und Geborgenheit, das zugleich die Zerbrechlichkeit einer jungen Liebe offenbart.",
+          "Durch die wiederholte Aufforderung … entsteht ein rhythmisches Mantra, das den Wunsch nach körperlicher und emotionaler Umarmung immer wieder neu bekräftigt.",
+          "Die Wortwahl ist bewusst simpel, doch die Intensität liegt im Klang der Wiederholungen …",
+          "Gleichzeitig wird das Wort „love“ als Grund für das Verlangen nach Nähe genannt …",
+          "Die Zeile „Thrill me, let your kisses thrill me“ verbindet das sinnliche Erleben mit einer fast kindlichen Erwartungshaltung …",
+          "Das wiederholte Motiv des „tenderly infold“ suggeriert ein Bild von Schutz, als würde die Sängerin … ein Kokon finden …",
+          "Der Kontrast zwischen dem Wunsch, gehalten zu werden, und dem Hinweis, nicht „from you“ gehalten zu werden, offenbart eine innere Zerrissenheit …",
+          "Insgesamt vermittelt das Lied eine Mischung aus jugendlicher Verlangen, Angst vor Verlust und dem Streben nach einer zärtlichen, aber freien Bindung …"
+        ],
+        "positive_aspekte": [
+          "Erfasst die wiederholenden Motive (hold me, take me).",
+          "Stellt einen klaren Gegensatz zwischen Nähe‑ und Kontrollwunsch her."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Wiederholung entsteht ein hypnotischer Rhythmus, der das Herzklopfen des Sängers widerspiegelt und den Hörer in einen Zustand der Erwartung versetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein eindringliches Bekenntnis an die Sehnsucht nach Nähe und Geborgenheit, das zugleich die Zerbrechlichkeit einer jungen Liebe offenbart.",
+          "Die wiederholte Bitte … fungiert als Mantra, das die Dringlichkeit … betont.",
+          "Die Wortwahl ist bewusst simpel, doch die Intensität liegt im Klang der Wiederholungen … hier wird das Angstgefühl … deutlich.",
+          "Die Zeile … verbindet das sinnliche Vergnügen mit einer fast kindlichen Erwartungshaltung, als ob die Küsse das einzige Mittel seien, das innere Feuer zu entfachen.",
+          "Gleichzeitig schwingt ein Hauch von Unsicherheit mit, weil das „just like you will all can do“ impliziert, dass diese Leidenschaft nicht selbstverständlich ist, sondern ein Geschenk, das nur der Geliebte geben kann.",
+          "Der Refrain … verknüpft Zärtlichkeit mit dem Bild des Umschließens, das Schutz und Geborgenheit suggeriert.",
+          "Das abschließende „never try to hold me from you“ kehrt die vorherige Bitte um und fordert den Partner auf, nicht zu versuchen, die Nähe zu verhindern …",
+          "Insgesamt zeichnet der Song ein Bild jugendlicher Verzweiflung, das durch wiederholte, fast mantraartige Formulierungen zu einer zeitlosen Hymne an das Bedürfnis nach inniger Umarmung wird."
+        ],
+        "positive_aspekte": [
+          "Verknüpft einzelne Textstellen mit konkreten Bedeutungsansätzen (z. B. Geschenk‑Metapher).",
+          "Erkennt das Motiv des „fast mantraartigen“ Wiederholens."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein eindringliches Bekenntnis an die Sehnsucht nach Nähe und Geborgenheit, das zugleich die Zerbrechlichkeit einer jungen Liebe offenbart.",
+          "Durch die wiederholte Aufforderung „hold me“ wird das Bedürfnis … zum zentralen Motiv, das die Unsicherheit des Sprechers maskiert, aber gleichzeitig verstärkt.",
+          "Die Wortwahl ist simpel, doch die Wiederholungen erzeugen ein fast mantrahaftes Verlangen, das den Hörer in einen Zustand der Dringlichkeit versetzt.",
+          "Die Zeilen „never let me go“ und „never to forsake me“ verdeutlichen die Angst vor Verlust und das Verlangen nach Beständigkeit, während das Wort „honey“ eine vertrauliche, fast kindliche Intimität suggeriert.",
+          "Das wiederholte „I love you so“ fungiert als emotionaler Anker, der die Intensität des Gefühls betont, jedoch zugleich die Unsicherheit des Gegenübers widerspiegelt, das noch nicht vollständig erwidert ist.",
+          "Der Refrain … verbindet körperliche Lust mit emotionaler Erfüllung; die Küsse werden zum Symbol für das Versprechen, das Herz zu berühren und zu beruhigen.",
+          "Die abschließende Bitte, „hold me tenderly“ und „infold me“, erweitert das Bild von einer schützenden Umarmung zu einer fast sakralen Eingewickeltheit, die das Individuum vor der Außenwelt abschirmt.",
+          "So wird der Song zu einem poetischen Ausdruck jugendlicher Verlangen nach Sicherheit, Liebe und einer unverrückbaren Bindung, die in den Wiederholungen und der simplen, aber eindringlichen Sprache zum Ausdruck kommt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogen – keine erfundenen Fakten.",
+          "Erfasst die Wiederholungen und deren mögliche emotionale Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Wiederholung entsteht ein hypnotischer Rhythmus, der das Herzklopfen des Sängers widerspiegelt und den Hörer in einen Zustand der Erwartung versetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein eindringliches Bekenntnis an die Sehnsucht nach Nähe und Geborgenheit, das zugleich die Zerbrechlichkeit einer jungen Liebe offenbart.",
+          "Die wiederholte Bitte … fungiert als Mantra, das die Dringlichkeit … betont.",
+          "Die Wortwahl ist bewusst simpel, doch die Intensität liegt im Klang der Wiederholungen … hier wird das Angstgefühl … deutlich.",
+          "Der Refrain … verbindet das sinnliche Verlangen … als könnte ein einziger Kuss das ganze Universum in Aufruhr versetzen.",
+          "Die Zeile … nutzt das Bild des Einhüllens, das an ein schützendes Kokon erinnert, und suggeriert ein Verlangen nach völliger Verschmelzung, das jedoch von der Angst begleitet wird, dass der Geliebte „versucht, mich von dir zu halten“.",
+          "Dieser scheinbare Widerspruch … verleiht dem Song eine emotionale Tiefe, die über die reine Liebeserklärung hinausgeht.",
+          "Insgesamt vermittelt …"
+        ],
+        "positive_aspekte": [
+          "Betont das Bild des Kokons und die mögliche Überhöhung des Kusses.",
+          "Erkennt den inneren Widerspruch zwischen Nähe‑ und Kontrollwunsch."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Mantra‑Effekt, Angst vor Verlust, Wunsch nach Schutz). Die inhaltliche Varianz ist gering; Unterschiede liegen hauptsächlich in Formulierungen und gelegentlichen erfundenen Details (z. B. 'Herzklopfen des Sängers').",
+    "empfehlung": "Eine gute Interpretation sollte Texttreue mit analytischer Tiefe verbinden. Interpretation 3 liefert das ausgewogenste Verhältnis: nur ein einziger erfundener Satz und gleichzeitig eine differenzierte Analyse von Spannungsfeldern und Identitätsangst. Künftige Modelle sollten darauf achten, spekulative Bildhaftigkeit klar als Interpretation zu kennzeichnen und unnötige, nicht belegbare Details zu vermeiden."
+  }
+}

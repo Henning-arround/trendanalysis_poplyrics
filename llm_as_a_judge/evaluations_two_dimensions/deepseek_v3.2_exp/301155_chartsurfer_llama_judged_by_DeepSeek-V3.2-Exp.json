@@ -1,0 +1,94 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Melancholie und die Wehmut, die in dem Song mitschwingen"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung der wiederholten Zeile 'Ain't it funny how time slips away'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Melodie und die Texte des Songs vermitteln eine melancholische und nachdenkliche Stimmung"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung der wiederholten Zeile 'Ain't it funny how time slips away'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Melodie und die Texte des Songs vermitteln eine melancholische und nachdenkliche Stimmung"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung der wiederholten Zeile 'Ain't it funny how time slips away'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Melancholie und die Wehmut, die in dem Song mitschwingen"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung der wiederholten Zeile 'Ain't it funny how time slips away'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Melancholie und die Wehmut, die in dem Song mitschwingen"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung der wiederholten Zeile 'Ain't it funny how time slips away'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs",
+    "empfehlung": "Die Interpretationen sollten weiterhin textbezogen und analytisch tiefgehend sein"
+  }
+}

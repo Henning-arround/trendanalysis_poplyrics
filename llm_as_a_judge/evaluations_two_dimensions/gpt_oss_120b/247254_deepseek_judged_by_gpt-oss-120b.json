@@ -1,0 +1,101 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Unberechenbarkeit von Liebe und die Tatsache, dass sie nicht immer rational oder kontrollierbar ist.",
+          "Insgesamt kann der Song als eine Reflexion über vergangene Liebe und die Wiederholung von Mustern in Beziehungen interpretiert werden.",
+          "Der Sänger scheint sich selbst als jemanden zu sehen, der immer wieder in ähnliche Situationen gerät und der versucht, die Unberechenbarkeit von Liebe zu verstehen."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. „little guy“, Alter 17, kein Brief).",
+          "Zieht sinnvolle Schlüsse aus Wiederholungen und Wortwahl des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song die Intensität und die Verletzlichkeit von Liebe und die Schwierigkeit, mit den Emotionen umzugehen, wenn eine Beziehung endet."
+        ],
+        "positive_aspekte": [
+          "Sehr hohe Texttreue – fast jede Aussage ist wörtlich aus dem Songtext ableitbar.",
+          "Umfassende Analyse einzelner Zeilen (z. B. „Love is not a game“, „I'm no sinner“, „never got a letter“).",
+          "Nur ein einziger allgemeiner Satz, wodurch die Interpretation besonders tiefgehend wirkt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Selbstreflexion interpretiert werden, in der der Sänger seine eigenen Gefühle und Erfahrungen mit Liebe und Verlust reflektiert.",
+          "Insgesamt handelt es sich um einen Song, der die Komplexität und Intensität von Liebe und Beziehungen thematisiert."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textstellen mit interpretatorischen Aussagen (z. B. Zyklik der Gefühle).",
+          "Keine spekulativen biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Unberechenbarkeit von Liebe und die Tatsache, dass sie nicht immer rational oder kontrollierbar ist.",
+          "Insgesamt kann der Song als eine Reflexion über vergangene Liebe und die Wiederholung von Mustern in Beziehungen interpretiert werden.",
+          "Der Sänger scheint sich selbst als jemanden zu sehen, der immer wieder in ähnliche Situationen gerät und der versucht, die Unberechenbarkeit von Liebe zu verstehen."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, besonders zu Alter, „little guy“ und dem fehlenden Brief.",
+          "Konsistente Argumentationskette, die das wiederkehrende Motiv des Refrains nutzt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Selbstreflexion interpretiert werden, in der der Sänger seine eigenen Gefühle und Erfahrungen mit Liebe und Verlust reflektiert.",
+          "Insgesamt handelt es sich um einen Song, der die Komplexität und Intensität von Liebe und Beziehungen thematisiert."
+        ],
+        "positive_aspekte": [
+          "Vollständige Ableitung aus dem Text, keine erfundenen Fakten.",
+          "Erklärt die Wiederholung des Refrains als Hinweis auf zyklische Gefühle."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind völlig faktentreu (Halluzinations‑Score 5). Die Tiefe variiert leicht; vier Interpretationen erreichen Tiefe‑Score 4, eine (Nr. 5) erreicht 5. Die Varianz ist gering, was auf konsistente Texttreue hinweist.",
+    "empfehlung": "Interpretation 5 liefert die beste Balance aus faktentreuer Analyse und tiefgehender, textbasierter Interpretation. Für zukünftige Bewertungen sollte man darauf achten, allgemeine Floskeln zu minimieren und weiterhin jede Aussage klar aus dem Text abzuleiten."
+  }
+}

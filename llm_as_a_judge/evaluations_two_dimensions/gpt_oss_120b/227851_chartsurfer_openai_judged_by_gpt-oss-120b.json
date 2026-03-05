@@ -1,0 +1,89 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Symbolanalyse (Schnee, Frühling, Hill, Wiederholung von „Someday“).",
+          "Durchgehend textbezogen, keine spekulativen biografischen Angaben.",
+          "Erkennt Ambivalenzen (Wärme vs. Kälte) und verknüpft sie mit der lyrischen Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Analyse der Winter‑/Frühlingsmetapher.",
+          "Verknüpft die Bildsprache mit einer liturgischen Lesart des Schlusses.",
+          "Keine unbelegten Fakten, klare Textbezüge."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Herausarbeitung der Gegenüberstellung von Kälte und Aufblühen.",
+          "Erklärt den Aufruf „think of me now and then“ eindeutig aus dem Text.",
+          "Bleibt faktentreu und textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt die Träume als „unerschöpfliche Kraft der Erinnerung“ klar im Kontext des Liedes dar.",
+          "Erkennt die sakrale Dimension des Schlusses.",
+          "Keine spekulativen Ergänzungen, reine Textinterpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betont den Aufruf „think of me now and then“ und verbindet ihn mit Alltagspräsenz der Liebe.",
+          "Klare Analyse der Winter‑/Frühlingskontraste.",
+          "Vollständig textbasiert, keine erfundenen Kontextualisierungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthemen (Winter‑Frühling‑Hoffnung) ohne wesentliche Abweichungen; die Varianz liegt ausschließlich in der Tiefe der Analyse.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus faktentreuer Textbezug und tiefgehender, mehrschichtiger Symbolanalyse. Für zukünftige Bewertungen sollte man darauf achten, dass die Analyse nicht nur wiederholt, sondern durch zusätzliche, textbasierte Perspektiven (z. B. metrische Struktur, Wiederholungsfunktion) erweitert wird."
+  }
+}

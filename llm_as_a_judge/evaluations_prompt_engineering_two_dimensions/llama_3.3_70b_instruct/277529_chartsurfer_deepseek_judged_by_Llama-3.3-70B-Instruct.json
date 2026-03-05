@@ -1,0 +1,99 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Tell me, was it a man' andeutet gesellschaftliche Konventionen und Erwartungen an Frauen in dieser Zeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist komplexer und kann als Auseinandersetzung mit der Verführung und dem Verlust der emotionalen Integrität verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'June roses' sind eine Metapher für die Schönheit, die 'Satan, your master' symbolisiert die Schuld"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Verbindung von Schönheit und Schuld"
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung der Metaphern und Symbole unterstreicht ihre Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'heart of stone' symbolisiert die innere Härte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Verbindung zwischen der äußeren Schönheit und der inneren Härte"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist textbezogen und zeigt die komplexe Natur der menschlichen Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'heart of stone' symbolisiert die innere Härte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Verbindung zwischen der äußeren Schönheit und der inneren Härte"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist textbezogen und zeigt die komplexe Natur der menschlichen Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'heart of stone' symbolisiert die innere Härte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Verbindung zwischen der äußeren Schönheit und der inneren Härte"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist textbezogen und zeigt die komplexe Natur der menschlichen Beziehungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Symbole",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt die komplexe Natur der menschlichen Beziehungen"
+  }
+}

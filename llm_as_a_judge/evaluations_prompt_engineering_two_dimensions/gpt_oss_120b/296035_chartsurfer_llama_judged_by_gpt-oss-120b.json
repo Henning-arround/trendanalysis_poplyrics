@@ -1,0 +1,125 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die menschliche Existenz, Liebe und Selbstfindung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Begegnung mit einer anderen Person das Leben verändert und neue Möglichkeiten eröffnet.",
+          "Der kulturelle, historische und gesellschaftliche Kontext der 1980er Jahre ist wichtig, um tiefere Bedeutungsebenen zu verstehen.",
+          "Der Song kann als Ausdruck der Sehnsucht nach Authentizität und Verbundenheit in einer sich schnell verändernden Welt gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel sind vielfältig und reichhaltig.",
+          "Die narrative Struktur schafft eine emotionale Wirkung und affektive Dimension."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche konkrete Textbezüge (Hand, Ziel, Refrain‑Wiederholung).",
+          "Erklärung von Symbolen, die direkt aus dem Text abgeleitet sind.",
+          "Weniger Wiederholungen von generischen Phrasen im Vergleich zu den anderen Interpretationen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die menschliche Existenz, Liebe und Selbstfindung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Begegnung mit einer anderen Person das Leben verändert und neue Möglichkeiten eröffnet.",
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext der 1980er Jahre betrachtet werden, in dem die Themen Liebe, Selbstfindung und persönliche Freiheit von großer Bedeutung waren.",
+          "Die Zeile \"Ich bleib' ein Komödiant / Mit Blick ins Märchenland\" kann als Hinweis auf die Sehnsucht nach einer idealen Welt interpretiert werden, die in den 1980er Jahren vor dem Hintergrund von politischen und sozialen Umbrüchen besonders aktuell war.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der symbolischen Ordnung der Liebe als einer Kraft, die das Leben verändert und Sinn gibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen verstärkt, die eine intensive affektive Dimension erzeugen."
+        ],
+        "positive_aspekte": [
+          "Klare Zuordnung von Metaphern und Symbolen (Ewigkeit, \"daily sunshine\").",
+          "Stetige Bezugnahme auf konkrete Textstellen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die menschliche Existenz, Liebe und Selbstfindung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Begegnung mit einer anderen Person das Leben verändert und neue Möglichkeiten eröffnet.",
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext der 1980er Jahre betrachtet werden, in dem die Themen Liebe, Selbstfindung und persönliche Freiheit von großer Bedeutung waren.",
+          "Die Zeile \"Ich bleib' ein Komödiant / Mit Blick ins Märchenland\" kann als Hinweis auf die Sehnsucht nach einer idealen Welt interpretiert werden, die in den 1980er Jahren vor dem Hintergrund von politischen und sozialen Umbrüchen besonders aktuell war.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der symbolischen Ordnung der Liebe als einer Kraft, die das Leben verändert und Sinn gibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen verstärkt, die eine intensive affektive Dimension erzeugen."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse von Metaphern (Ewigkeit, \"daily sunshine\").",
+          "Stetiger Bezug zu konkreten Textstellen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die menschliche Existenz, Liebe und Selbstfindung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Begegnung mit einer anderen Person das Leben verändert und neue Möglichkeiten eröffnet.",
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext der 1980er Jahre betrachtet werden, in dem die Themen Liebe, Selbstfindung und persönliche Freiheit von großer Bedeutung waren.",
+          "Die Zeile \"Ich bleib' ein Komödiant / Mit Blick ins Märchenland\" kann als Hinweis auf die Sehnsucht nach einer idealen Welt interpretiert werden, die in den 1980er Jahren vor dem Hintergrund von politischen und sozialen Umbrüchen besonders aktuell war.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der symbolischen Ordnung der Liebe als einer Kraft, die das Leben verändert und Sinn gibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen verstärkt, die eine intensive affektive Dimension erzeugen."
+        ],
+        "positive_aspekte": [
+          "Klare Identifikation von Symbolen und Metaphern.",
+          "Durchgängiger Textbezug."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Reflexion über die menschliche Existenz, Liebe und Selbstfindung interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Begegnung mit einer anderen Person das Leben verändert und neue Möglichkeiten eröffnet.",
+          "Der Song kann in den kulturellen und historischen Kontext der 1980er Jahre eingebettet werden, wo Individualität und Selbstverwirklichung betont wurden.",
+          "Die Zeile \"Ich will – ich kann, I can – I will\" kann als Ausdruck von Selbstvertrauen und Selbstbestimmung interpretiert werden, die in dieser Zeit kulturell gefördert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen verstärkt, die eine intensive affektive Dimension erzeugen.",
+          "Die Ambiguitäten und Spannungen im Song, wie die Verbindung von \"Ich will\" und \"Ich kann\", bleiben bestehen und laden zu weiterer Interpretation ein."
+        ],
+        "positive_aspekte": [
+          "Saubere Aufzählung von Metaphern und Symbolen aus dem Text.",
+          "Erwähnung von Mehrdeutigkeit, was eine tiefere Auseinandersetzung signalisiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen wiederholen fast identische Argumentationsmuster, was zu einer geringen Varianz führt. Nur Interpretation 2 bietet zusätzliche konkrete Textanalysen (Hand, Ziel, Refrain‑Wiederholung) und damit mehr Substanz.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus stärker auf textgebundene, differenzierte Interpretationen gelegt werden, die spezifische Passagen untersuchen und gleichzeitig die allgemeinen, nicht belegbaren Aussagen minimieren. Interpretation 2 zeigt, wie ein ausgewogenes Verhältnis von Texttreue und analytischer Tiefe aussehen kann."
+  }
+}

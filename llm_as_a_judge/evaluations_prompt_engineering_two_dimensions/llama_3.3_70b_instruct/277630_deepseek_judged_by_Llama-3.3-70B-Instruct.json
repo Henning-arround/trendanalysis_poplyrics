@@ -1,0 +1,97 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeit der 1980er Jahre, in der die soziale und politische Situation in Kanada und anderen Ländern durch Gewalt und Verwirrung geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Darstellung von Gewalt und Verwirrung in einer sozialen Umgebung, die von Misstrauen und Verachtung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole, wie z.B. der 'kitchen' und der 'bullet hole', ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und die Textzeilen vermitteln eine Atmosphäre von Unruhe und Spannung, die durch die Metaphern und Symbole verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Frage nach der Identität des Täters, der eine Waffe in Peggy's Küche eingeschossen hat."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole, wie z.B. der 'Blaster on the back porch', ist teilweise textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher 'Blaster on the back porch' verweist auf die Gewalt, die von außen hereinbricht und die Ruhe und Sicherheit der Küche zerstört."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Frage nach der Identität des Täters, der eine Waffe in Peggy's Küche eingeschossen hat."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole, wie z.B. der 'kitchen' und der 'bullet hole', ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die thematische Komplexität des Liedes liegt in der Kombination von Alltagsrealität und symbolischer Bedeutung, die durch die Verwendung von Metaphern, Symbole und Bildern hervorgehoben wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Darstellung von Gewalt und Verwirrung in einer sozialen Umgebung, die von Misstrauen und Verachtung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole, wie z.B. der 'kitchen' und der 'bullet hole', ist sehr detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Darstellung von Gewalt und Verwirrung in einer sozialen Umgebung, die von Misstrauen und Verachtung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole, wie z.B. der 'kitchen' und der 'bullet hole', ist sehr detailliert und textbezogen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen zeigen eine hohe Konsistenz in ihrer Analyse.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine hohe Textreue mit einer tiefen Analyse der Metaphern und Symbole kombiniert."
+  }
+}

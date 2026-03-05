@@ -1,0 +1,99 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach sexueller Aufklärung und emotionaler Nähe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick die Sehnsucht nach Lernen und emotionaler Nähe zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Himmels als 'blackboard high above you' und die Interpretation der Zeile 'Should the teacher stand so near, my love?'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Distanz zwischen den Liebenden",
+          "Die Unsicherheit des Sprechers"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine romantische Einladung zum Lernen und zur emotionalen Nähe zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Himmels als 'blackboard high above you'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Distanz zwischen den Liebenden",
+          "Die Unsicherheit des Sprechers"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine romantische Einladung zum Lernen und zur emotionalen Nähe zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Himmels als 'blackboard high above you'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach emotionaler Authentizität und Nähe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick eine romantische Einladung zum Lernen und zur emotionalen Nähe zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Himmels als 'blackboard high above you' und die Interpretation der Zeile 'Should the teacher stand so near, my love?'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf der Oberfläche die Bereitschaft zum Lernen und die Suche nach Wissen zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Himmels als 'blackboard high above you' und die Interpretation der Zeile 'I'll use that star to write 'I love you' / A thousand times across the sky'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und die Interpretation der Zeilen.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine Balance zwischen Textreue und analytischer Tiefe findet, wie in Interpretation 5."
+  }
+}

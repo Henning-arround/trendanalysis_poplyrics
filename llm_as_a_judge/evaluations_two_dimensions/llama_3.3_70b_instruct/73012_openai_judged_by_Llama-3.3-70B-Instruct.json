@@ -1,0 +1,96 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik im Text",
+          "Gute Verbindung zwischen den Textelementen und der Gesamtbedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vermutung, dass der Text eine direkte Kritik an Kriegen ist, ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Meer ein 'Spiegel menschlicher Gewalt' ist, ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Gute Darstellung der Dualität von Angriff und Verteidigung im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied eine 'düstere Meditation' ist, ohne spezifische Textbelege"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Verbindung zwischen Mensch und Natur im Text",
+          "Erläuterung der Bedeutung der Lanze als Symbol"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des Meeres als 'allumfassende Metapher für das Unausweichliche und das Unbekannte' ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Reise 'nie zum Ziel führt', ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Gute Darstellung der Unausweichlichkeit des Schicksals im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vermutung, dass die Reise eine 'innere Odyssee' ist, ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Lied 'zeitlos' ist, ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Ambivalenz von Aggression und Überleben im Text",
+          "Erläuterung der Bedeutung der weinenden Wellen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten bleiben textgetreu und bieten tiefere Analysen",
+    "empfehlung": "Für zukünftige Interpretationen sollte der Fokus auf textbasierten Analysen liegen, um Halluzinationen zu minimieren und die Tiefe zu maximieren"
+  }
+}

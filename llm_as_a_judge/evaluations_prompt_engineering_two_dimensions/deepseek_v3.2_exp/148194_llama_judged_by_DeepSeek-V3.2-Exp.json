@@ -1,0 +1,101 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1990er-Jahre-Popkultur war von einer romantisierten und idealisierten Sichtweise der Liebe geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Es geht um die überwältigende Erfahrung der Liebe",
+          "Die Liebe ist eine Art von Ekstase und Desorientierung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'two hooks' in den Ohren des Protagonisten symbolisieren die starke Anziehungskraft der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine Art von Trunkenheit",
+          "Der Song thematisiert die unerwartete und überwältigende Erfahrung der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die narrative Struktur des Songs und die Verwendung von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine intensive emotionale Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt ambivalent und lässt den Hörer mit der Frage zurück, ob die Liebe eine positive oder negative Kraft ist"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Teil der 1990er-Jahre-Popkultur gesehen werden, die von einer Rückkehr zu romantischen und emotionalen Themen geprägt war"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine mystische und übernatürliche Erfahrung",
+          "Der Song thematisiert die unerwartete und überwältigende Erfahrung der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Bildern und Symbolen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'The officer who stopped me said / 'lucky you didn't wind up dead!'' kann als Kommentar zu den Risiken und Konsequenzen von unkontrollierten Emotionen und Verhaltensweisen interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine intensive emotionale Erfahrung",
+          "Der Song thematisiert die unerwartete und überwältigende Erfahrung der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die narrative Struktur des Songs und die Verwendung von Symbolen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die Interpretation 3 ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und ambivalent bleibt"
+  }
+}

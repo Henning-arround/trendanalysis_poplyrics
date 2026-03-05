@@ -1,0 +1,87 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild einer unerreichbaren Realität"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine klare, fast schon sarkastische Abrechnung"
+        ],
+        "positive_aspekte": [
+          "Gute Hervorhebung der Sprecherin als Gegenpol"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine Mischung aus Ärger und Lust am Triumph"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Sprachstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ein Machtspiel"
+        ],
+        "positive_aspekte": [
+          "Gute Hervorhebung der Distanz zwischen Wunschvorstellung und greifbarer Wirklichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -inhalte, gute Hervorhebung der Selbstbestimmung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songtextes.",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie eine sehr gute Analyse der Textstruktur und -inhalte liefert und die Selbstbestimmung der Sprecherin hervorhebt."
+  }
+}

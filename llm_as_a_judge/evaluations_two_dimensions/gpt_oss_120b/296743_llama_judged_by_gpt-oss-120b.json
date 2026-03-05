@@ -1,0 +1,97 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Sänger erkennt, dass manchmal Dinge nicht so laufen, wie man sie sich wünscht, Beziehungen manchmal einfach nicht funktionieren."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf mehrere Textstellen (z. B. „Believe in ignorance as my best defense“, „All these feelings, cloud up my reasoning“).",
+          "Erkennt und benennt das Motiv der Ignoranz als Abwehrmechanismus.",
+          "Zeigt ein differenziertes Bild von beiden Partnern und von der wiederholten Refrain‑Zeile."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah – jede Aussage lässt sich eindeutig im vorliegenden Liedtext nachweisen.",
+          "Erklärt die innere Logik des Sängers (Unwissenheit als Schutz, Vermeidung der Realität).",
+          "Verknüpft die wiederholte Zeile mit der offensichtlichen Diskrepanz zwischen Wunsch und Wirklichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Sänger ist sich bewusst, dass die Beziehung nicht funktioniert, aber er kann sich nicht dazu durchringen, sie zu beenden.",
+          "Die Zeile … wird wiederholt, was darauf hindeutet, dass die Beziehung eigentlich gut sein könnte, wenn die Kommunikation und das Verständnis besser wären."
+        ],
+        "positive_aspekte": [
+          "Stimmt gut mit den Hauptthemen des Textes überein (Kommunikationsprobleme, emotionale Verwirrung).",
+          "Ergänzt die Analyse um den Aspekt der verwirrten Gefühle."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Er ist sich bewusst, dass die Beziehung nicht funktioniert, aber er kann sich nicht dazu durchringen, sie zu beenden.",
+          "Die Zeile … wird wiederholt, was darauf hindeutet, dass die Beziehung eigentlich gut sein könnte, wenn die Kommunikation und das Verständnis besser wären."
+        ],
+        "positive_aspekte": [
+          "Zieht klare Verbindungen zu den wiederholten Refrain‑Zeilen.",
+          "Erfasst die Grundstimmung von Resignation und Traurigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Er ist sich bewusst, dass die Beziehung nicht funktioniert, aber er kann sich nicht dazu durchringen, sie zu beenden.",
+          "Die Zeile … wird wiederholt, was darauf hindeutet, dass die Beziehung eigentlich gut sein könnte, wenn die Kommunikation und das Verständnis besser wären."
+        ],
+        "positive_aspekte": [
+          "Konsistente Zusammenfassung der Hauptthemen des Songs.",
+          "Verweist auf die wiederholte Zeile als zentrales Motiv."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen, wodurch die Varianz gering ist. Die Unterschiede liegen hauptsächlich im Detailgrad der Textbezüge.",
+    "empfehlung": "Interpretation 5 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe, indem sie jede Aussage klar im Liedtext verankert und gleichzeitig die impliziten Motive (Ignoranz als Abwehr, Vermeidung der Realität) herausarbeitet. Für zukünftige Bewertungen sollte man darauf achten, dass zusätzliche Tiefe nicht durch vage Allgemeinplätze, sondern durch weitere textbasierte Belege erreicht wird."
+  }
+}

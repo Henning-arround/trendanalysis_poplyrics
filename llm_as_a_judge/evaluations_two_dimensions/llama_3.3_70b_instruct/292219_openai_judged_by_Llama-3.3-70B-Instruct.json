@@ -1,0 +1,99 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Angabe '4 am' fungiert dabei als Symbol für den Wendepunkt zwischen Nacht und Tag"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert einen inneren Kampf zwischen dem Festhalten an einem traumatischen Augenblick und dem langsamen, schmerzhaften Prozess, das Herz wieder zu heilen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Analyse des Textes ein und identifiziert wichtige Themen wie Verlust, Schuld und das Festhalten an einem schmerzlichen Moment"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeit, jenseits des Tageslichts, wird zum Symbol für das innere Dunkel des Erzählers"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied offenbart ein tiefes Gefühl von Verlust und unerfüllter Kommunikation"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der Nachtstunde und die emotionale Verzweiflung des Erzählers"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Uhrzeit 4 Uhr morgens symbolisiert den Moment, in dem die Welt noch schläft und die eigenen Gedanken ungeschönt an die Oberfläche dringen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wirkt wie ein nächtliches Geständnis, das in der stillen Stunde zwischen Traum und Realität entsteht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textelemente und ihrer Bedeutung für die Gesamtmessage des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Phrase '4 am forever' fungiert als Symbol für einen endlosen, dunklen Zustand, in dem die Trauer nicht verfliegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert einen nächtlichen, fast zeitlosen Raum des Trauerns, in dem Erinnerungen, unausgesprochene Worte und das Verlangen nach Verbindung miteinander verwoben sind"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die zentrale Rolle der Trauer und des Verlusts im Lied"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Referenz auf 4 Uhr morgens symbolisiert nicht nur die Dunkelheit, sondern auch den Augenblick, in dem das Bewusstsein über das Verlorene am schärfsten ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein eindringlicher Monolog über Verlust, Schuld und das Festhalten an einem schmerzlichen Moment"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende und differenzierte Analyse des Liedtextes und seiner emotionalen Tiefe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textelemente und ihrer Bedeutung, jedoch variieren sie in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Für eine tiefergehende Analyse des Liedes '4:am Forever' von Lostprophets sollten Interpretationen bevorzugt werden, die eine hohe Textreue mit analytischer Tiefe verbinden, wie Interpretation 1 und 3"
+  }
+}

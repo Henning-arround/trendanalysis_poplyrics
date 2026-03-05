@@ -1,0 +1,99 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anweisung 'Pull out your heart to make the / Being alone' verknüpft das Ausziehen des Herzens – ein Bild für das Entblößen von Gefühlen – mit dem Zustand des Alleinseins"
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch dominieren Wiederholungen, fragmentarische Imperative und Bildsprache, die an die Ästhetik von Social-Media-Feeds erinnert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz zwischen dem Wunsch nach einfacher, sofortiger Befriedigung und der tiefen Einsamkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sprache ist stark bildhaft und symbolisch"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität zwischen Befreiung und Verlust bleibt ungelöst"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse der digitalen Selbstinszenierung und der Rolle von 'Leichtigkeit'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Kern des Songs lässt sich als kritische Reflexion der digitalen Selbstinszenierung lesen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene Struktur des Textes lässt mehrere Deutungen zu"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen Zugänglichkeit und Verletzlichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'Switch Screens' suggeriert ein ständiges Wechseln zwischen Identitäten und Plattformen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textstruktur bleibt bewusst fragmentarisch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine kritische Analyse der digitalen Selbstinszenierung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain 'Easy, easy' wiederholt sich wie ein Mantra"
+        ],
+        "oberflächliche_aussagen": [
+          "Emotional erzeugt das Stück ein Gefühl von resignierter Leere"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz zwischen Beruhigung und Ironie"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren"
+  }
+}

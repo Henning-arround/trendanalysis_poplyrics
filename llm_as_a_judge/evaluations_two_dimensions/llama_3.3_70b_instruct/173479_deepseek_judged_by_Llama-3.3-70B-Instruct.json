@@ -1,0 +1,99 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Es war zwar ohne Zweck und Sinn, doch ganz und gar korrekt' lässt darauf schließen, dass der Protagonist ein Leben führt, das von Konventionen und Erwartungen geprägt ist, aber nicht von ihm selbst gewollt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an der Gesellschaft, die Menschen in solche Situationen bringt, und eine Aufforderung, sich von der Gewalt und der Ziellosigkeit zu lösen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt verschiedene Stationen im Leben des Protagonisten und analysiert die wiederkehrende Aufforderung 'Leg die Knarre weg'."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist selbst scheint resigniert zu haben und sieht keine Möglichkeit, aus diesem Teufelskreis auszubrechen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt ein düsteres Bild der menschlichen Existenz und thematisiert die Schwierigkeit, in einer sinnlosen Welt einen Sinn zu finden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die verschiedenen Stationen im Leben des Protagonisten und die Reaktionen der anderen Menschen in seinem Umfeld."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist auch eine Kritik an der Gesellschaft, die Menschen in solche Situationen bringt und sie zu Gewalt und Zerstörung anstachelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain 'Leg die Knarre weg' kann als Aufforderung interpretiert werden, die Gewalt und die Aggression zu lassen, sich von der Vergangenheit zu lösen und einen neuen Weg zu finden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Refrain und die Zeile 'Es war zwar ohne Zweck und Sinn, doch ganz und gar korrekt'."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist ist ein Opfer der Umstände und kann nicht aus eigener Kraft einen Ausweg finden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kritik an der Gesellschaft und der Politik interpretiert werden, die Menschen in solche Situationen bringt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die verschiedenen Stationen im Leben des Protagonisten und die Zeile 'Es war zwar ohne Zweck und Sinn, doch ganz und gar korrekt'."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Es war zwar ohne Zweck und Sinn, doch ganz und gar korrekt' lässt darauf schließen, dass der Protagonist ein Leben führt, das von Konventionen und Erwartungen geprägt ist, aber nicht von ihm selbst gewollt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an der Gesellschaft, die Menschen in solche Situationen bringt, und eine Aufforderung, sich von der Gewalt und der Ziellosigkeit zu lösen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt verschiedene Stationen im Leben des Protagonisten und analysiert die wiederkehrende Aufforderung 'Leg die Knarre weg'."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

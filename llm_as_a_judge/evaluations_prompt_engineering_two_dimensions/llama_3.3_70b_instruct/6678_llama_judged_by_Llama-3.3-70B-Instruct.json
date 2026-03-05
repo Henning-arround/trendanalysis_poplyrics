@@ -1,0 +1,99 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'The narcotic that forges their union / Is a substance known only to one' können als Hinweis auf die Macht der Kontrolle und der Manipulation interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die narrative Struktur des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'The narcotic that forges their union / Is a substance known only to one' können als Hinweis auf die Macht der Kontrolle und der Manipulation interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die narrative Struktur des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'The narcotic that forges their union / Is a substance known only to one' können als Hinweis auf die Macht der Kontrolle und der Manipulation interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die narrative Struktur des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'The narcotic that forges their union / Is a substance known only to one' können als Hinweis auf die Macht der Kontrolle und der Manipulation interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die narrative Struktur des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'The narcotic that forges their union / Is a substance known only to one' können als Hinweis auf die Macht der Kontrolle und der Manipulation interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die narrative Struktur des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Keine der Interpretationen ragt deutlich hervor",
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

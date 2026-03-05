@@ -1,0 +1,89 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textstellen (Regen gegen das Fenster, „sweet memories“, Kissen).",
+          "Analysiert die Ambivalenz der Erinnerungen und die emotionale Wirkung der Wiederholung.",
+          "Verknüpft einzelne Bildmotive (Fenster, Regen, Kissen) zu einem kohärenten Bild der Trennung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse, die fast jeden relevanten Vers des Textes einbezieht.",
+          "Erklärt die Funktion des Refrains und die Symbolik des Kissens.",
+          "Zeigt klar die Ambivalenz zwischen süßen Erinnerungen und Schmerz."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt die Grundthematik (Trennung, Regen als Metapher) korrekt dar.",
+          "Verwendet passende Begriffe wie „Ambivalenz“ und „Schmerz“.",
+          "Ist zwar etwas weniger spezifisch (z. B. kein Hinweis auf das Kissen), bleibt aber textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die Bildsprache des Regens mit den Gefühlen von Traurigkeit und Einsamkeit.",
+          "Erwähnt explizit das Motiv „everything was so grand“ und stellt den Kontrast zur Gegenwart her.",
+          "Gibt dem Refrain eine klare funktionale Bedeutung im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Analysiert die Metapher des Regens und die damit verbundene Leere.",
+          "Betont die Ambivalenz der Erinnerungen und die Rolle des Refrains.",
+          "Bezieht sich auf das Kissen‑Motiv und die dadurch entstehende Intimitäts‑Verlust‑Thematik."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen (Trennung, Regen‑Metapher, süße Erinnerungen, Leere). Die Variation liegt hauptsächlich im Detailgrad; keine gravierenden inhaltlichen Abweichungen.",
+    "empfehlung": "Interpretationen 1, 2, 3 und 4 erreichen ein hohes Niveau an Texttreue und analytischer Tiefe. Interpretation 3 ist leicht überlegen, weil sie fast jedes Bild des Textes einbindet, ohne dabei redundant zu werden. Für zukünftige Bewertungen sollte man darauf achten, dass zusätzliche Details (z. B. musikalische Stilistik) nur dann genannt werden, wenn sie aus dem Text ableitbar sind, um Halluzinations‑Scores niedrig zu halten."
+  }
+}

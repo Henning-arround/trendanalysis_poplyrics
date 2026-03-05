@@ -1,0 +1,132 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das Bild des erwachenden Morgens mit einer tiefen, persönlichen Sehnsucht, die sich in einer fast sakralen Anrufung des Geliebten äußert.",
+          "Das wiederholte Motiv des Sonnenaufgangs steht für einen Neubeginn, ein kollektives Erwachen, das die ganze Welt in Erwartung hält.",
+          "Gleichzeitig wird dieses universelle Bild durch die intime Perspektive des lyrischen Ichs kontrastiert …",
+          "Die wiederholte Wendung „my heart is calling you“ fungiert als Bindeglied zwischen dem kosmischen Zyklus und der individuellen Emotion …",
+          "Die Metapher der vom Tau bedeckten Rosen suggeriert Reinheit und Frische …",
+          "So entsteht ein Spannungsfeld zwischen dem kollektiven, fast feierlichen Moment des Sonnenaufgangs und dem stillen, inneren Ruf nach Nähe.",
+          "Der Song vermittelt damit die Idee, dass das große, universelle Ereignis des Morgens nicht nur ein äußerer Wandel ist …"
+        ],
+        "positive_aspekte": [
+          "Konsistente Bezugnahme auf die Bildsprache des Textes (Rosen, Tau, Drossel).",
+          "Erkennt die wiederholte Struktur des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt wie ein poetisches Bekenntnis … das in der Nachkriegszeit besonders resoniert.",
+          "Musikalisch untermauern Les Pauls geschmeidige Gitarrenlinien und Mary Fords klare, fast schwebende Stimme diese zarte Spannung …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sunrise symbolisiert nicht nur das natürliche Erwachen, sondern auch das kollektive Hoffen auf einen friedlichen Neubeginn.",
+          "Die wiederholte Anrede „Dear one“ verknüpft das persönliche Verlangen mit dem universellen Warten.",
+          "Die Naturbilder verstärken das Bild einer Welt, die im Schlummer liegt und erst durch das Erwachen der Sonne und das Rufen des Herzens aus dem Stillstand gerissen wird.",
+          "Der Refrain, in dem das Herz „calling you“ wiederholt, verschmilzt das äußere Warten mit einem inneren Ruf nach Nähe, Liebe und Bestätigung.",
+          "Der Sonnenaufgang wird zum Symbol für das Aufblühen einer Beziehung, die im Gleichklang mit dem Rhythmus der Natur steht.",
+          "Der Song bleibt damit ein zeitloses Bild von Hoffnung, Wiedergeburt und dem unaufhörlichen Drang, das Licht zu suchen – sowohl im Außen als auch im Inneren."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textbilder (Rosen, Tau, Drossel) mit einer übergeordneten Symbolik.",
+          "Bietet einen historischen Kontext (Nachkriegszeit), obwohl nicht belegt – zeigt kreativen Ansatz."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das Bild des erwachenden Morgens mit einer tiefen, persönlichen Sehnsucht, die sich in einer fast sakralen Anrufung des Geliebten äußert.",
+          "Das wiederholte Motiv des Sonnenaufgangs steht für einen Neubeginn, ein kollektives Erwachen, das die ganze Welt in Erwartung hält.",
+          "Gleichzeitig wird dieses universelle Bild durch die intime Perspektive des lyrischen Ichs kontrastiert …",
+          "Die wiederholte Wendung „my heart is calling you“ fungiert als persönlicher Gegenpol zum kosmischen Ereignis …",
+          "Die Rosen, die im Tau liegen, verkörpern Reinheit und Frische, während der Tau selbst das flüchtige, zarte Wesen des Moments betont.",
+          "Die Nachtigall, ein klassisches Symbol für Gesang und Frühling, ruft nicht nur den Tag herbei, sondern spiegelt das Bedürfnis nach Verbindung wider.",
+          "So entsteht ein Spannungsfeld zwischen dem kollektiven, zeitlosen Rhythmus des Universums und der individuellen, emotionalen Dringlichkeit des lyrischen Ichs.",
+          "Der Song vermittelt damit die Botschaft, dass das persönliche Verlangen nach Liebe und Nähe im Einklang mit dem natürlichen Lauf der Zeit steht …"
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Bildsprache (Rosen, Tau, Nachtigall).",
+          "Konsistente Argumentationslinie, die das Motiv des Herzens mit dem Sonnenaufgang verknüpft."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das Bild des erwachenden Morgens mit einer tiefen, persönlichen Sehnsucht, die sich in einer fast sakralen Anrufung des Geliebten äußert.",
+          "Das wiederholte Motiv des Sonnenaufgangs steht für einen Neubeginn, ein kollektives Erwachen, das die ganze Welt in Erwartung hält.",
+          "Gleichzeitig wird dieses universelle Bild durch die intime Perspektive des lyrischen Ichs kontrastiert …",
+          "Die Wiederholung von „Dear one“ und das immer wiederkehrende „my heart is calling you“ verstärken die Dringlichkeit und Unmittelbarkeit des Gefühls …",
+          "Die Metapher der Rosen, die im Tau liegen, suggeriert Reinheit und Frische, während der Tau zugleich Vergänglichkeit andeutet …",
+          "Die Nachtigall, ein Symbol für Gesang und Frühling, ruft ebenfalls, was die Idee unterstreicht, dass Natur und Liebe in einem harmonischen Dialog stehen.",
+          "So wird der Sonnenaufgang nicht nur zum äußeren Ereignis, sondern zum inneren Aufbruch des Herzens, das im Einklang mit dem erwachenden Universum nach Vereinigung strebt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Wiederholung von Schlüsselphrasen im Text.",
+          "Stellt einen klaren Zusammenhang zwischen Naturbildern und emotionaler Aussage her."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain, der die Wiederholung von „the world is waiting for the sunrise“ nutzt, erzeugt ein Gefühl von Dringlichkeit und Hoffnung, während die sanfte, fast wie ein Wiegenlied wirkende Melodie von Les Pauls Gitarrenklängen und Mary Fords Stimme das Bild einer zarten, aber entschlossenen Erwartung untermalt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wirkt wie ein poetisches Bekenntnis, das das Erwachen der Natur mit dem inneren Aufbruch des lyrischen Ichs verknüpft.",
+          "Die wiederholte Anrede „Dear one“ eröffnet eine intime Gesprächsebene …",
+          "Die Metapher der mit Tau bedeckten Rosen und Knospen verstärkt das Bild von Frische, Unschuld und dem zarten Moment des Entstehens, während das Tau zugleich Vergänglichkeit und das stille Warten suggeriert.",
+          "Dieser Ruf ist nicht nur ein romantisches Sehnen, sondern ein Echo der natürlichen Welt …",
+          "So entsteht ein Dialog zwischen Natur und menschlichem Gefühl, in dem das Aufgehen der Sonne als Metapher für das Wiedererwachen der Liebe dient.",
+          "Der Song bleibt damit ein zeitloses Symbol für das Zusammenspiel von äußeren Zyklen und inneren Sehnsüchten …"
+        ],
+        "belegte_aussagen": [
+          "Gleichzeitig wird das persönliche Verlangen des Sängers deutlich, wenn er sagt, dass sein Herz „calling you“ …"
+        ],
+        "positive_aspekte": [
+          "Enthält eine tatsächlich textbasierte Beobachtung (Herz ruft).",
+          "Verbindet Bildsprache mit einer konkreten Analyse des Refrains.",
+          "Bietet sowohl textbezogene als auch stilistische (musikalische) Überlegungen, ohne zu stark zu spekulieren."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2‑5 wiederholen sehr ähnliche inhaltliche Punkte (Sonnenaufgang = Neubeginn, Rosen = Reinheit, Herz ruft). Dadurch entsteht ein hoher Oberflächenanteil. Interpretation 1 und 4 bringen zusätzliche, teils spekulative, aber auch textbezogene Details ein, was zu mehr Varianz führt.",
+    "empfehlung": "Interpretation 4 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe, während sie nur wenige unbelegte Aussagen enthält. Für zukünftige Modelle sollte der Fokus darauf liegen, mehr konkrete Textbelege zu nutzen und gleichzeitig tiefere, mehrschichtige Analysen zu entwickeln, anstatt sich in generischen Wiederholungen zu verlieren."
+  }
+}

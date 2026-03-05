@@ -1,0 +1,99 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Schütze könnte ein Bekannter oder jemand aus der Gemeinschaft sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Atmosphäre des Songs und der wiederholten Frage nach dem Täter"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Polizei will die Sache vertuschen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Metapher für die Verdrängung von Wahrheit und die Machtlosigkeit der Einzelnen interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Rolle der Polizei und der Atmosphäre des Schweigens"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Schütze könnte ein Bekannter oder jemand aus der Gemeinschaft sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Atmosphäre des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Schütze könnte ein Bekannter oder jemand aus der Gemeinschaft sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Atmosphäre des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Polizei findet eine Patronenhülse"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Atmosphäre des Schweigens und der Ungewissheit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Atmosphäre des Songs, aber eine hohe Varianz in der Bewertung der halluzinierten Aussagen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet halluzinierte Aussagen"
+  }
+}

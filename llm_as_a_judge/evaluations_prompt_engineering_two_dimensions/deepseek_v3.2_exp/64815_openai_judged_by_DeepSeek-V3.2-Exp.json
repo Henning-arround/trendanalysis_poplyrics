@@ -1,0 +1,97 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in das Jahr 2000 einordnen, ein Zeitpunkt, an dem das neue Millennium mit Erwartungen an technologische und gesellschaftliche Neuerungen verbunden war"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verortet sich in einem Moment des Umbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und bietet eine plausible Analyse der Metaphern und des historischen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Verweis auf das 'old world' kann als Hinweis auf post-koloniale Umbrüche gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kreist um das Motiv des 'Wandels'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der sprachlichen Mittel und des historischen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das post-milleniumale Klima um 2000 einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verortet sich in einem Moment des Umbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Analyse der Metaphern und des historischen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song verortet sich in einem Moment des Umbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und bietet eine plausible Analyse der Metaphern und des historischen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in den Kontext der späten 1990er- und frühen 2000er-Jahre einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kreist um das Motiv des 'Wandels'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Analyse der Metaphern und des historischen Kontexts"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Halluzinations- und Tiefenbewertung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet kreative Erfindungen ohne Textbezug"
+  }
+}

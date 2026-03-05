@@ -1,0 +1,105 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeilen und die einprägsame Melodie machen den Song zu einem catchy und unterhaltsamen Lied, das die Zuhörer zum Mitsingen und Tanzen einlädt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des Gasthauses, in dem er sofort weiß, was er bestellen will, zeigt, dass der Protagonist sich in seiner Umgebung wohl fühlt und seine Vorlieben kennt."
+        ],
+        "positive_aspekte": [
+          "Gute Texttreue – fast alle Aussagen lassen sich direkt aus dem Songtext ableiten.",
+          "Konsistente Zusammenfassung der Handlung und der wiederkehrenden Motive (Sauerkraut, Polka, Edeltraud).",
+          "Klare Strukturierung in einzelne inhaltliche Punkte."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeilen und die einprägsame Melodie machen den Song zu einem catchy und unterhaltsamen Lied, das die Zuhörer zum Mitsingen und Tanzen einlädt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des Gasthauses, in dem er sofort weiß, was er bestellen will, zeigt, dass der Protagonist sich in seiner Umgebung wohl fühlt und seine Vorlieben kennt."
+        ],
+        "positive_aspekte": [
+          "Präzise Wiedergabe der im Text genannten Fakten (Sauerkraut, Polka, Edeltraud, Gasthaus).",
+          "Vermeidet unnötige Spekulationen über den musikalischen Stil."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeilen und die einprägsame Melodie machen den Song zu einem catchy und unterhaltsamen Lied, das die Zuhörer zum Mitsingen und Tanzen einlädt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des Gasthauses, in dem er sofort weiß, was er bestellen will, zeigt, dass der Protagonist sich in seiner Umgebung wohl fühlt und seine Vorlieben kennt."
+        ],
+        "positive_aspekte": [
+          "Zusätzliche Betonung der Symbolik („tiefe Verbundenheit zwischen den beiden Partnern und ihre gemeinsame Liebe zur deutschen Kultur“) bleibt textnah.",
+          "Konsistente und nachvollziehbare Argumentationskette."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeilen und die einprägsame Melodie machen den Song zu einem catchy und unterhaltsamen Lied, das die Zuhörer zum Mitsingen und Tanzen einlädt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des Gasthauses, in dem er sofort weiß, was er bestellen will, zeigt, dass der Protagonist sich in seiner Umgebung wohl fühlt und seine Vorlieben kennt."
+        ],
+        "positive_aspekte": [
+          "Klare Wiederholung der Kernaussagen des Songs ohne übermäßige Ausschmückung.",
+          "Erkennt die humorvolle Grundstimmung des Stücks."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeilen und die einprägsame Melodie machen den Song zu einem catchy und unterhaltsamen Lied, das die Zuhörer zum Mitsingen und Tanzen einlädt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des Gasthauses, in dem er sofort weiß, was er bestellen will, zeigt, dass der Protagonist sich in seiner Umgebung wohl fühlt und seine Vorlieben kennt."
+        ],
+        "positive_aspekte": [
+          "Stellt die Beziehung zwischen Protagonist und Edeltraud klar heraus.",
+          "Bezieht sich konsequent auf alle im Text genannten Elemente."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch, was zu einer sehr geringen Varianz in den Scores führt. Die Wiederholungen zeigen, dass das Modell keine zusätzlichen Analyseebenen erzeugt.",
+    "empfehlung": "Ein besserer Ansatz wäre, die Texttreue beizubehalten, aber mehr analytische Tiefe zu erzeugen – z. B. durch das Aufzeigen von Mehrdeutigkeiten, stilistischen Mitteln oder kulturellen Kontexten, die im Songtext implizit sind, ohne spekulative Aussagen über Melodie oder Stimmung zu machen."
+  }
+}

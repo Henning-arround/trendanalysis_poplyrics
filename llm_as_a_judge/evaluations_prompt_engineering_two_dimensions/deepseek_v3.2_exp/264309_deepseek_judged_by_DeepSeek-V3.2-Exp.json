@@ -1,0 +1,99 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beatles reflektierten und beeinflussten die Veränderungen mit ihrer Musik"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine vielschichtige Auseinandersetzung mit Themen, die für die späte 1960er Jahre charakteristisch waren"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Hippie-Bewegung und die Counterculture suchten nach neuen Wegen"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Vielzahl von Bedeutungsebenen und symbolischen Ordnungen"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Flower-Power-Bewegung und die Anti-Kriegsbewegung prägten die Jugendkultur jener Zeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Atmosphäre der Freude und des Optimismus"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der affektiven Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beatles thematisierten mit diesem Song möglicherweise die Authentizität"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine tiefe Ambiguität und Komplexität"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der paradoxen Spannung im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Flower-Power-Bewegung und die Counterculture, die in dieser Zeit aufkamen"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine unbeschwerte, von Konventionen unbelastete Lebensweise"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Komplexität von Innen und Außen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe am besten"
+  }
+}

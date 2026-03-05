@@ -1,0 +1,87 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Stay' kann als ein Ausdruck der Sehnsucht nach Halt und Beständigkeit in einer Welt der ständigen Veränderung und Desorientierung verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Abhängigkeit, Gewalt und emotionale Distanz und liefert textbezogene Analysen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Stay' kann als ein Ausdruck der Sehnsucht nach Nähe und Verbundenheit interpretiert werden, die jedoch durch die 'Demons' und den 'static and the radio' behindert wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Themen Abhängigkeit, Gewalt und emotionale Distanz."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine tiefgehende Analyse der Themen und Symbole im Song, bleibt textbezogen und diskutiert die kulturelle und historische Einbettung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Stay' kann als ein Ausdruck der Sehnsucht nach Halt und Beständigkeit in einer Welt der ständigen Veränderung und Desorientierung verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Themen Abhängigkeit, Gewalt und emotionale Distanz und liefert textbezogene Analysen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die 'Satellitenfernsehen'-Zeile kann als Symbol für die globale Vernetzung und die Möglichkeit, sich in verschiedene Welten zu begeben, interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Themen Abhängigkeit, Gewalt und emotionale Distanz."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Thematik, aber variieren in der Tiefe der Analyse.",
+    "empfehlung": "Die dritte Interpretation ist die tiefste und faktentreueste, sie balanciert Textreue mit analytischer Tiefe."
+  }
+}

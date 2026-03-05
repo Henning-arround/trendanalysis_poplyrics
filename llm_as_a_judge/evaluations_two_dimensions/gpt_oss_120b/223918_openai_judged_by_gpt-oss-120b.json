@@ -1,0 +1,103 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Clues“ wirkt wie ein kaleidoskopisches Puzzle aus scheinbar zusammenhanglosen Bildern, das jedoch ein Bild von Identitätsfragmentierung und gesellschaftlicher Maskerade zeichnet.",
+          "Die Aufzählung von Alltagsgegenständen … fungiert als Metaphern für mechanische, aber zugleich zerbrechliche Verbindungen, die das Leben zusammenhalten, während sie gleichzeitig Lecks und Fehlfunktionen offenbaren.",
+          "Insgesamt vermittelt das Lied ein Bild einer Gesellschaft, in der Oberflächen und Geheimnisse, Beobachtung und Verdrängung, Mechanik und Zerbrechlichkeit untrennbar verwoben sind; die „clues“ sind dabei nicht nur Hinweise, sondern auch die zerbrochenen Spiegel, durch die wir uns selbst nur fragmentarisch erkennen können."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Aussagen lassen sich klar aus dem Text ableiten (z. B. die Gegenüberstellung von „public face“/„private eye“, das Motiv der drei Affen, die Bildsprache von „hat check girl“, „Siamese twin“, „walls have ears“ usw.).",
+          "Die Interpretation erkennt wiederkehrende Motive und verknüpft sie sinnvoll miteinander."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Clues“ wirkt wie ein kaleidoskopisches Puzzle, das die Diskrepanz zwischen öffentlicher Fassade und innerer Beobachtung thematisiert.",
+          "Indem die Zeilen mehrfach wiederholt werden, entsteht ein Zwang, das Schweigen zu hinterfragen: Was wird bewusst übersehen, um das eigene Bild zu bewahren?",
+          "Letztlich bleibt das Lied ein Spiegel der menschlichen Tendenz, Oberflächen zu präsentieren, während tiefere Wahrheiten im Schatten bleiben, bis ein entscheidender Hinweis das Bild endgültig neu zusammensetzt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind textnah und konkret (z. B. die Analyse der Gegenüberstellung „public face“/„private eye“, das Motiv der drei Affen, die Bildsprache von „crashing through the cigar smoke“, das wiederholte „turning“ mit dem Inbusschlüssel).",
+          "Die Interpretation verbindet einzelne Bildfelder zu einem kohärenten Gesamtkonzept, das sowohl die Oberflächen‑ als auch die Tiefenebenen des Textes berücksichtigt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Clues“ wirkt wie ein kaleidoskopisches Puzzle, das die Diskrepanz zwischen öffentlicher Fassade und innerer Beobachtung thematisiert.",
+          "Die Aufzählung scheinbar zusammenhangloser Objekte … erzeugt ein Bild von Fragmenten, die im Alltag übersehen werden, aber als Hinweisstücke für ein größeres, unbenanntes Verbrechen dienen."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge: fast jede Aussage lässt sich direkt aus einer Zeile des Songs ableiten (z. B. „Hear no evil…“, „A heinous crime…“, „paperweight“, „walls have ears“, „allen key“).",
+          "Die Analyse geht über reine Oberflächenbeschreibung hinaus und liefert ein zusammenhängendes Bild von Verdrängung, Überwachung und dem zyklischen Charakter des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song „Clues“ wirkt wie ein kaleidoskopisches Puzzle aus scheinbar zusammenhanglosen Bildern, das jedoch ein tiefes Bild von Identitätsfragmentierung und gesellschaftlicher Maskerade zeichnet.",
+          "Begriffe wie „patent shoe“, „wider belt“ oder „shrunken head“ das Gefühl vermitteln, dass das Individuum von äußeren Etiketten und inneren Verkrampfungen zugleich erstickt wird.",
+          "Das Bild einer „leaking pen“ und eines „broken jaw“ lässt an das Scheitern von Kommunikation und Ausdruck denken.",
+          "ein „paperweight“ auf dem Tisch als Symbol für festgefahrene Gedanken dient, die das Weiterkommen verhindern."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentralen Motive (öffentliche Fassade vs. privates Auge, die drei Affen, das Motiv von Überwachung).",
+          "Verknüpft die wiederholten Textteile mit einer Idee von endlosem Kreislauf und Selbsttäuschung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text von „Clues“ wirkt wie ein kaleidoskopisches Puzzle, das die Zerrissenheit zwischen öffentlicher Fassade und innerer Beobachtung thematisiert.",
+          "Die Aufzählung scheinbar zusammenhangloser Objekte … fungiert als Metaphern für fragmentierte Erinnerungen und Hinweise, die im Alltag verstreut liegen, aber erst im Zusammenspiel ein Bild ergeben."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich eindeutig auf eine Zeile zurückführen (z. B. „public face“/„private eye“, die drei Affen, „A body blow / On the table waiting / A paperweight“, „crashing through the cigar smoke“, „Now I can't remember“, etc.).",
+          "Bietet eine tiefgehende, zusammenhängende Interpretation, die sowohl die Oberflächen‑ als auch die Tiefenbedeutungen des Songs berücksichtigt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben weitgehend konsistent in der Grundinterpretation (öffentliche Fassade vs. privates Auge, das Motiv der drei Affen, Überwachung, zyklische Struktur). Unterschiede liegen hauptsächlich im Anteil an oberflächlichen Verallgemeinerungen – Interpretation 1, 4 und 5 zeigen die geringste Oberflächlichkeit, während 2 und 3 stärker zu allgemeinen Aussagen neigen.",
+    "empfehlung": "Interpretation 4 (und ebenfalls 1 bzw. 5) liefert die beste Balance aus Texttreue und analytischer Tiefe. Sie verbindet konkrete Textbelege mit einer durchdachten, mehrschichtigen Deutung, ohne in vage Allgemeinplätze abzurutschen."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'I had this thing to call my own' unterstreicht die Sehnsucht nach etwas, das ihm einst gehörte und was er nun verloren hat.",
+          "Die Bitte um eine zweite Chance und die Erkenntnis, dass er nie gewollt hat, loszulassen, was er hatte, zeigen die Tiefe seiner Reue und seine Verzweiflung."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist hat etwas Wertvolles verloren, das ihm einst gehörte, und kann nicht genau sagen, was passiert ist oder was er falsch gemacht hat."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist hat etwas Wertvolles verloren, das ihm einst gehörte, und kann nicht genau sagen, was passiert ist oder was er falsch gemacht hat.",
+          "Die Wiederholung der Zeile 'I had this thing to call my own' unterstreicht die Sehnsucht nach etwas, das ihm einst gehörte und was er nun verloren hat."
+        ],
+        "positive_aspekte": [
+          "Die Bitte um eine zweite Chance und die Erkenntnis, dass er nie gewollt hat, loszulassen, was er hatte, zeigen die Tiefe seiner Reue und seine Verzweiflung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song 'I Had This Thing' von Röyksopp feat. Jamie Irrepressible handelt von Verlust, Schuld und Reue.",
+          "Die Erinnerung an das, was er einst war, ist verloren gegangen und er sehnt sich nach einem Ort, an dem er sich sicher und geborgen fühlen kann."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist hat etwas Wertvolles verloren, das ihm einst gehörte, und kann nicht genau sagen, was passiert ist oder was er falsch gemacht hat."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist hat etwas Wertvolles verloren, das ihm einst gehörte, und kann nicht genau sagen, was passiert ist oder was er falsch gemacht hat.",
+          "Die Wiederholung der Zeile 'I had this thing to call my own' unterstreicht die Sehnsucht nach etwas, das ihm einst gehörte und was er nun verloren hat."
+        ],
+        "positive_aspekte": [
+          "Die Bitte um eine zweite Chance und die Erkenntnis, dass er nie gewollt hat, loszulassen, was er hatte, zeigen die Tiefe seiner Reue und seine Verzweiflung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song 'I Had This Thing' von Röyksopp feat. Jamie Irrepressible handelt von Verlust, Schuld und Reue.",
+          "Die Erinnerung an das, was er einst war, ist verloren gegangen und er sehnt sich nach einem Ort, an dem er sich sicher und geborgen fühlen kann."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist hat etwas Wertvolles verloren, das ihm einst gehörte, und kann nicht genau sagen, was passiert ist oder was er falsch gemacht hat."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, aber auch eine gewisse Oberflächlichkeit in der Bewertung.",
+    "empfehlung": "Eine tiefergehende Analyse des Songs, die auch die musikalischen und produktionstechnischen Aspekte berücksichtigt, könnte zu einer noch differenzierteren Bewertung führen."
+  }
+}

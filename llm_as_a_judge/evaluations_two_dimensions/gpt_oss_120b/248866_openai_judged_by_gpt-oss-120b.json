@@ -1,0 +1,134 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text lässt sich als Metapher für verborgene Ängste und innere Dämonen verstehen.",
+          "Die wiederholte Aussage verdeutlicht die Isolation des Individuums.",
+          "Das Bild der „tricking trolls“ und der „bell that tolls“ suggeriert manipulative Kräfte.",
+          "Die nächtliche Erscheinung verstärkt die Symbolik des Unbewussten, das nur im Schatten sichtbar wird, wenn das rationale Tageslicht fehlt.",
+          "Die Zeilen beschreiben ein giftiges, alles durchdringendes Gift, das die perfekte Welt des Erzählers vergiftet.",
+          "Das wiederholte „Gotta stay awake…“ ist ein Appell, wachsam zu bleiben, um nicht von den eigenen Ängsten überrannt zu werden.",
+          "Gleichzeitig impliziert es, dass das Einschlafen das Risiko des Bisses erhöht."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied einen inneren Kampf zwischen Licht und Dunkel, zwischen dem Wunsch nach Normalität und dem unausweichlichen Eindringen von Schatten."
+        ],
+        "positive_aspekte": [
+          "Konsistente Nutzung von Bildsprache aus dem Text.",
+          "Erkannte wiederkehrende Motive (Nacht, Schatten, Bisse)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text lässt sich als Metapher für verborgene Ängste und innere Dämonen verstehen, die im Dunkeln unseres Bewusstseins lauern.",
+          "Die wiederholte Aussage verdeutlicht die Isolation des Individuums, das von seinen eigenen Schatten verfolgt wird, während die Außenwelt blind bleibt.",
+          "Das Bild der „tricking trolls“ und der „bell that tolls“ suggeriert bewusst manipulativ und warnend agieren.",
+          "Die nächtliche Kulisse verstärkt die Symbolik des Unbewussten; Dunkelheit wird zum Raum, in dem das „venom like no other“ atmet und eine „silent evil“ verbreitet.",
+          "Der Refrain fungiert wie ein Mantra, das die Unausweichlichkeit dieser Bedrohungen betont und gleichzeitig die Notwendigkeit, wachsam zu bleiben, unterstreicht.",
+          "Die Zeile „Gotta stay awake and keep them all from biting“ verdeutlicht den Kampf, die eigenen Schatten zu kontrollieren, bevor sie das „perfect world“ des Sängers zerstören."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied den inneren Konflikt zwischen dem Wunsch nach Normalität und der ständigen Präsenz dunkler, unkontrollierbarer Kräfte."
+        ],
+        "positive_aspekte": [
+          "Durchgängige thematische Fokussierung auf Angst und Nacht.",
+          "Verknüpfung von wiederholten Textzeilen mit einer übergeordneten Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text lässt sich als Metapher für verborgene Ängste und innere Dämonen verstehen, die im Dunkeln unseres Bewusstseins lauern.",
+          "Die wiederholte Aussage verdeutlicht die Isolation des Individuums, das von seinen eigenen Schatten verfolgt wird, während die Außenwelt blind bleibt.",
+          "Das Bild der „tricking trolls“ und des „bell that tolls“ suggeriert bewusst manipulativ und warnend agieren.",
+          "Die nächtliche Kulisse verstärkt die Symbolik des Unbewussten; Dunkelheit wird zum Raum, in dem das „venom“ der Schatten atmet, ein Gift, das nicht von außen, sondern aus dem Inneren stammt.",
+          "Die Zeile „Wreaking havoc on my perfect world“ offenbart den Konflikt zwischen einer scheinbaren äußeren Ordnung und dem inneren Chaos, das bei jedem nächtlichen Moment an die Oberfläche dringt.",
+          "Der Refrain fungiert wie ein Mantra, das das Bewusstsein ständig an die Notwendigkeit erinnert, wachsam zu bleiben."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einem Aufruf, die eigenen dunklen Impulse zu erkennen, ihnen nicht nachzugeben und aktiv gegen das schleichende Zerfressen der eigenen Identität zu kämpfen."
+        ],
+        "positive_aspekte": [
+          "Einbindung konkreter Textzeilen (z. B. „Wreaking havoc on my perfect world“).",
+          "Klare Verbindung zwischen Nacht‑Motiv und innerem Konflikt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text lässt sich als Metapher für verborgene Ängste und innere Dämonen verstehen, die im Dunkeln unseres Bewusstseins lauern.",
+          "Die wiederholte Aussage verdeutlicht die Isolation des Individuums, das von seinen eigenen Schatten heimgesucht wird, während die Außenwelt blind bleibt.",
+          "Das Bild der „tricking trolls“ und der „bell that tolls“ suggeriert manipulativ und warnend agieren.",
+          "Die Zeilen beschreiben ein giftiges, allumfassendes Gift, das nicht physisch, sondern psychisch wirkt und das „perfekte“ Leben des Erzählers ins Chaos stürzt.",
+          "Der nächtliche Auftreten symbolisiert, dass solche Ängste besonders in Momenten der Schwäche – wenn das Licht erlischt – an die Oberfläche treten.",
+          "Der Refrain erzeugt ein hypnotisches Mantra, das die Unausweichlichkeit des Konfrontierens mit den eigenen Schatten betont.",
+          "Der Appell ist ein Aufruf zur Wachsamkeit, ein Hinweis darauf, dass das Bewusstsein und die aktive Auseinandersetzung mit den dunklen Impulsen nötig sind, um nicht von ihnen zerfressen zu werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied einen inneren Kampf zwischen einer scheinbaren äußeren Fassade und den unkontrollierbaren, nächtlichen Kräften."
+        ],
+        "positive_aspekte": [
+          "Mehrere Textzitate werden explizit wiedergegeben (z. B. „venom like no other“, „Gotta stay awake…“).",
+          "Erkennt die wiederholende Struktur des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text lässt sich als Metapher für verborgene Ängste und innere Dämonen verstehen.",
+          "Die wiederholte Aussage, dass man sie zwar gesehen, aber nie wirklich gehört habe, suggeriert, dass diese Kräfte zwar präsent, aber von der rationalen Wahrnehmung übersehen werden.",
+          "Das Bild der „tricking trolls“ und der „bell that tolls“ wirkt wie ein warnendes Signal, das die Ankunft des Unheils ankündigt; das Läuten einer Glocke ist traditionell ein Zeichen des Übergangs oder des Alarms.",
+          "Die Schatten, die mit „venom like no other“ atmen, verkörpern eine toxische, nicht‑sichtbare Bedrohung, die das „perfekte“ Leben des Erzählers destabilisiert.",
+          "Das wiederholte „I feel 'em lurking, hear 'em howling“ verstärkt das Gefühl der Beklemmung und das Unvermögen, dem Unbekannten zu entkommen.",
+          "Der Refrain fungiert als Mantra, das die Unausweichlichkeit dieser dunklen Kräfte betont und gleichzeitig die Notwendigkeit, wachsam zu bleiben („Gotta stay awake and keep them all from biting“)."
+        ],
+        "belegte_aussagen": [
+          "Sobald die Sonne aufgeht, verschwinden sie, was den Kontrast zwischen dem sicheren, lichtdurchfluteten Alltag und dem unsicheren, nächtlichen Untergrund betont."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einem inneren Dialog über das ständige Ringen mit den eigenen Schattenseiten, die nur im Schutz der Dunkelheit sichtbar werden und deren Bekämpfung ständige Aufmerksamkeit erfordert."
+        ],
+        "positive_aspekte": [
+          "Enthält eine direkt belegte Aussage aus dem Text (Sonnenaufgang‑Vers).",
+          "Verknüpft mehrere Textzitate mit einer differenzierten Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthemen (Angst, Nacht, Schatten). Die Qualität variiert nur leicht; nur Interpretation 4 nutzt einen konkreten Textbeleg und liefert damit mehr Substanz.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man konkrete Textstellen einbinden (wie in Interpretation 4) und gleichzeitig tiefere, aber textbasierte Interpretationsansätze entwickeln, anstatt generische Metaphern zu wiederholen."
+  }
+}

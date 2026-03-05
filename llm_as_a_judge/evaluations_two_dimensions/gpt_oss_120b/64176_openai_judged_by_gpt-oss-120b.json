@@ -1,0 +1,89 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Metapher „Ride it“ als doppelte Bedeutung.",
+          "Durchgängige Verknüpfung von Bildsprache (Mojito, Lippenstift, Kanye‑Song) mit thematischer Interpretation.",
+          "Klare Herausarbeitung von Konflikt‑ und Fluchtmotiven, die im Text verankert sind."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Spannung zwischen Annäherung und Zurückhaltung.",
+          "Präzise Interpretation des Telefon‑Ereignisses als Wendepunkt.",
+          "Gute Balance zwischen textnaher Analyse und dem Aufzeigen von Ambivalenzen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Verknüpfung von sinnlichen Details (Getränke, Lippenstift) mit emotionaler Dynamik.",
+          "Konsistente Nutzung des Refrains als Leitmotiv für transzendenten Wunsch.",
+          "Klare Darstellung des Konflikts, der durch das klingelnde Handy entsteht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Herausarbeitung der doppelten Metapher von „Ride it“.",
+          "Verständliche Darstellung des Spannungsfeldes zwischen Lust und Angst.",
+          "Konsistente Rückbezüge zum Text, ohne spekulative Ergänzungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse der Ambivalenz zwischen Kontrolle und Loslassen.",
+          "Anschauliche Symbolisierung (Lippenstift‑Maske, Licht‑Dimmen) aus dem Text.",
+          "Schlüssige Interpretation des Endsegments als Mischung aus Resignation und Trotz."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben strikt textnah, zeigen kaum Varianz in Halluzinationsanteil (0 %). Die Tiefe ist durchgängig hoch, was auf ein konsistentes Verständnis des Ausgangsmaterials hinweist.",
+    "empfehlung": "Die besten Ergebnisse erzielen Interpretationen, die jede Textstelle konkret aufgreifen und gleichzeitig mehrschichtige Bedeutungen (Metaphern, Konflikte, Ambivalenzen) herausarbeiten, ohne spekulative Biografien oder Genre‑Zuweisungen einzubringen. Ansatz 3 ist exemplarisch für diese Balance."
+  }
+}

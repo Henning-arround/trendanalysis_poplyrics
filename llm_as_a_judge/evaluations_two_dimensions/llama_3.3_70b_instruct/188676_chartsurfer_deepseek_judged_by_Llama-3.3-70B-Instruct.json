@@ -1,0 +1,89 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der 'Big Room' symbolisiert einen Raum, in dem alle Sorgen und Probleme vergessen werden können"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Kritik an der Überwachung und die Betonung der Freiheit und Kreativität im Songtext ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der 'Big Room' ist ein Ort der Kreativität und Inspiration"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die utopische Natur des 'Big Room' und die Idee der Sorglosigkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der 'Big Room' ist ein Ort, an dem man seine Sorgen und Probleme zurücklassen kann"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der Freiheit und des künstlerischen Ausdrucks im 'Big Room'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der 'Big Room' ist ein Ort der Zuflucht und des Vergnügens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Themen der Freiheit, Kreativität und Sorglosigkeit im Songtext ab"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der 'Big Room' ist ein Ort, an dem Menschen sich frei und unbeschwert fühlen können"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Bedeutung der Kreativität und des künstlerischen Ausdrucks im 'Big Room'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Bewertung der Themen und Motive im Songtext, aber variieren in ihrer Tiefe und Analyse",
+    "empfehlung": "Eine Kombination aus textgetreuer Analyse und kreativer Interpretation könnte zu einer tieferen und nuancierteren Einsicht in den Songtext führen"
+  }
+}

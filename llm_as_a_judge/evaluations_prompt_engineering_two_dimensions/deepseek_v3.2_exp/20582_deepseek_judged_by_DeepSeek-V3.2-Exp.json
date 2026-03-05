@@ -1,0 +1,99 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die globale Kommunikation durch das Internet und Mobiltelefone revolutioniert wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als eine Mischung aus Besitzanspruch und Sehnsucht interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung exotischer Orte wie der Pyramiden am Nil, der Tropeninsel und des Dschungels unterstreicht die Sehnsucht nach einem gemeinsamen Erlebnis und einer geteilten Erfahrung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die globale Kommunikation und Mobilität zunehmend einfacher wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Fly the ocean in a silver plane' kann als Symbol für die Freiheit und die Möglichkeit einer gemeinsamen Reise interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung exotischer Orte wie der Pyramiden am Nil, der Tropeninsel und des Dschungels unterstreicht die Sehnsucht nach einem gemeinsamen Erlebnis und einer geteilten Erfahrung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die Globalisierung und die digitale Revolution die Kommunikation und die Beziehungen zwischen Menschen veränderten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als eine Mischung aus Besitzanspruch und Sehnsucht interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'See the pyramids along the Nile / Watch the sunrise from a tropic isle' kann als eine metaphorische Umschreibung der gemeinsamen Fantasie und des geteilten Traums interpretiert werden."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die globale Kommunikation und Mobilität zunahmen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung exotischer Orte wie der Pyramiden am Nil, der Tropeninsel und des Dschungels unterstreicht die Sehnsucht nach einem gemeinsamen Erlebnis und einer geteilten Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Fly the ocean in a silver plane' kann als Symbol für die Freiheit und den Wunsch nach Abenteuern interpretiert werden"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die globale Kommunikation durch das Internet und Mobiltelefone revolutioniert wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als eine Mischung aus Besitzanspruch und Sehnsucht interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'I'll be so alone without you / Maybe you'll be lonesome, too / And blue' offenbart eine Ambivalenz zwischen der Sehnsucht nach Verbindung und der Angst vor Einsamkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, jedoch mit leichten Variationen in der Tiefe und dem Halluzinationsgrad",
+    "empfehlung": "Die Interpretation mit der Nummer 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

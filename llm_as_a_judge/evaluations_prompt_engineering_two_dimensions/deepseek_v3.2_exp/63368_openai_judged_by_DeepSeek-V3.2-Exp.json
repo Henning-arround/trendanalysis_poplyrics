@@ -1,0 +1,104 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Selbstironie und Kritik an Medienidealen"
+        ],
+        "oberflächliche_aussagen": [
+          "Spiegel gesellschaftlicher Unsicherheiten"
+        ],
+        "positive_aspekte": [
+          "Analyse der Dualität von 'Pflaume' und 'Arschgesicht'",
+          "Berücksichtigung von Stilmitteln wie Anapher und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Selbstironie und das Aufbrechen von Schönheitsnormen"
+        ],
+        "oberflächliche_aussagen": [
+          "kritische Reflexion über die Konstruktion von Schönheit"
+        ],
+        "positive_aspekte": [
+          "Analyse der Doppeldeutigkeit von 'Arschgesicht'",
+          "Berücksichtigung von Metaphern und Bildsprache"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Selbstironie und Kritik an Medien-Schönheitsnormen"
+        ],
+        "oberflächliche_aussagen": [
+          "Spiegelbild der kulturellen Spannungen zwischen Konformität und individueller Selbstakzeptanz"
+        ],
+        "positive_aspekte": [
+          "Analyse der thematischen Komplexität",
+          "Berücksichtigung von linguistischen Stilmitteln"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Schönheitsnormen kritisierte und postmoderne Identitätsfragen thematisierte"
+        ],
+        "oberflächliche_aussagen": [
+          "Reflektion über Ästhetik, Zugehörigkeit und Selbstakzeptanz"
+        ],
+        "positive_aspekte": [
+          "Analyse der Doppeldeutigkeit von 'Arschgesicht'",
+          "Berücksichtigung von Stilmitteln wie Metaphern und Bildsprache"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Gegenkultur-Bewegung, die Schönheitsideale dekonstruierte"
+        ],
+        "oberflächliche_aussagen": [
+          "mehrdeutige Interpretation"
+        ],
+        "positive_aspekte": [
+          "Analyse der Spannung zwischen Ablehnung und Zuneigung",
+          "Berücksichtigung von linguistischen Stilmitteln"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Eine ausgewogene Interpretation, die Textreue mit analytischer Tiefe verbindet, ist empfehlenswert"
+  }
+}

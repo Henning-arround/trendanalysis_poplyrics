@@ -1,0 +1,115 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück im Kontext der frühen 1980er‑Jahre zu sehen, als Aerobic‑Kurse und Fitness‑Popkultur in Europa verbreitet wurden.",
+          "Die Betonung von Körperästhetik (…) spiegelt den wachsenden Konsumismus und die Selbstoptimierung des Neoliberalismus wider, während die kollektive Aufforderung zum Tanzen gleichzeitig ein Bild von Gemeinschaftsbildung in einer zunehmend individualisierten Gesellschaft zeichnet."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität zwischen Befreiung und Zwang bleibt bewusst unaufgelöst."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge (z. B. Zitate von Zeilen, Analyse von Imperativen, Wiederholungen).",
+          "Klare Unterscheidung zwischen beobachteten Textmustern und weiterführenden Interpretationen.",
+          "Gute Balance zwischen konkreter Analyse und Hinweis auf offene Spannungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück in die Ära der frühen 80er‑Jahre eingebettet, in der Aerobic und Fitness‑Wellen in westlichen Gesellschaften populär wurden und gleichzeitig ein neues Ideal von geschlechtsspezifischer Körperästhetik verbreiteten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität liegt darin, dass das Lied einerseits Gesundheit und Selbstliebe propagiert, andererseits ein implizites Leistungsprinzip etabliert, das das Individuum zur ständigen Selbstoptimierung verpflichtet, ohne diese Widersprüche zu lösen.",
+          "Diese offene Spannung zwischen Befreiung durch Bewegung und dem Druck, sich ständig zu beweisen, bleibt bewusst unaufgelöst."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Argumentation mit vielen direkten Zitat‑Bezügen.",
+          "Klare Strukturierung der beiden Kernbotschaften (Körperliche Betätigung vs. soziale Pflicht).",
+          "Wenig erfundene Aussagen, hohe Faktentreue."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Struktur aus Aufwärmen‑ und Abkühlphasen spiegelt das Fitness‑Modell der frühen 80er‑Jahre wider, während die Zählung das metrische Regime von Aerobic‑Klassen kodiert und damit das Individuum in ein kollektives Rhythmus‑Schema einbindet.",
+          "Historisch verortet sich das Stück im Kontext der 1980er‑Jahre, als Aerobic und Fitness‑Kultur zu einem globalen Lifestyle‑Phänomen wurden.",
+          "Der Text reflektiert die gesellschaftliche Verlagerung von rein ästhetischer Tanzkultur hin zu einer utilitaristischen Körperpolitik, die Gesundheit, Schönheit und soziale Zugehörigkeit zugleich fordert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Stil, Imperativ und Metaphern.",
+          "Verknüpfung von Textstruktur (Warm‑up/Cool‑down) mit kulturellem Kontext.",
+          "Klare Benennung von Spannungsfeldern zwischen Freude und Pflicht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Formen erzeugen ein Bild von mechanischer Körperlichkeit, das zugleich als Metapher für die „Konditionierung“ des modernen Subjekts gelesen werden kann.",
+          "Das Bild des „Warming up, cooling down“ symbolisiert nicht nur physische Auf‑ und Entspannung, sondern impliziert einen zyklischen Prozess von Aktivierung und Entfremdung, der im Kontext der 1980er‑Jahre – einer Zeit intensiver Fitness‑ und Konsumkultur – besonders resonant ist.",
+          "Die Anweisung „Look, no time to read a book“ stellt das Lesen als Gegenpol zum körperlichen „Burn“ dar, was eine implizite Hierarchie von Wissen versus Körperlichkeit suggeriert, ohne diese eindeutig zu bewerten.",
+          "Historisch verortet sich das Stück in der frühen 80‑Pop‑Ära, in der Disco‑ und Aerobic‑Trends zusammenflossen und das „Tanzen“ zugleich als Freizeitspaß und als kommerzielles Produkt vermarktet wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambivalenz zwischen Befreiung durch Bewegung und gleichzeitiger Selbstüberwachung bleibt offen und erzeugt ein Spannungsfeld, das den Song sowohl als motivierenden Aufruf als auch als kritische Reflexion der zeitgenössischen Körperkultur versteht."
+        ],
+        "positive_aspekte": [
+          "Gute Beobachtung der imperativen Wiederholungen und ihrer Wirkung.",
+          "Verknüpfung von Textstellen mit einer möglichen Lesart von „Konditionierung“.",
+          "Klare Unterscheidung zwischen beobachteten Textmustern und weiterführenden historischen Deutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet sich das Stück im Kontext der frühen 80er‑Jahre, als Aerobic und Disco‑Fitness zu einem globalen Phänomen wurden.",
+          "Der Verweis auf „Aerobic dancing has you on the hook“ spiegelt die Kommerzialisierung von Körperkult und die wachsende Erwartung, dass das Individuum durch Tanz sowohl ästhetisch als auch gesundheitlich profitiert.",
+          "Gleichzeitig bleibt der Text ambivalent: Er feiert das Tanzen als „wonderful chance“, lässt aber offen, ob diese Chance zur Selbstverwirklichung oder zur Anpassung an gesellschaftliche Schönheitsnormen führt.",
+          "Diese offenen Widersprüche verhindern eine eindeutige Deutung und lassen den Song als Spiegel der widersprüchlichen Körperkultur seiner Zeit erscheinen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Gegenüberstellung von Einladung und Zwang.",
+          "Detaillierte Analyse von Stilmitteln (Wiederholungen, Zählungen).",
+          "Erkenntnis der Ambiguität im Text und deren Bedeutung für die Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine relativ hohe Übereinstimmung bei der Identifikation von Imperativen, Warm‑up/Cool‑down‑Strukturen und der zweischichtigen Botschaft. Unterschiede liegen vor allem im Umfang historischer Kontextualisierungen – einige Interpretationen fügen umfangreiche, teils spekulative Hintergrundinformationen hinzu, was zu höheren Halluzinations‑Scores führt.",
+    "empfehlung": "Interpretation 5 liefert die beste Balance aus faktentreuer Textbeobachtung und analytischer Tiefe, während sie nur minimale spekulative Aussagen enthält. Für zukünftige Analysen sollte der Fokus darauf liegen, Textbelege klar zu kennzeichnen und historische oder kulturelle Kontextualisierungen nur dann einzubringen, wenn sie durch externe Quellen belegt sind."
+  }
+}

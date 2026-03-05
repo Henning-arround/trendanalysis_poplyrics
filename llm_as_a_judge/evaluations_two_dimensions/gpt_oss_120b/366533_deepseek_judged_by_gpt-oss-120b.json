@@ -1,0 +1,140 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin möchte, dass ihr Partner sie vollständig in Besitz nimmt und sie nie wieder verlässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler und inniger Liebesappell.",
+          "Die Sängerin bittet ihren Geliebten, sie festzuhalten und nie loszulassen, da sie ihn über alles liebt.",
+          "Die wiederholte Bitte … unterstrichen, was die tiefe Sehnsucht nach Sicherheit und Geborgenheit in der Beziehung ausdrückt.",
+          "Die Zeile … verdeutlicht diese Bitte um eine bedingungslose und ewige Liebe.",
+          "Die Sängerin ist sich bewusst, dass sie diese Art von Liebe nicht von jedem bekommen kann, wie die Zeile … andeutet.",
+          "Die zweite Hälfte des Songs ist von einer zärtlichen und innigen Atmosphäre geprägt.",
+          "Die Sängerin bittet ihren Partner, sie zärtlich zu halten und nie von ihr zu lassen.",
+          "Die Wiederholung der Zeile … unterstreicht die Sehnsucht nach einer engen und vertrauensvollen Beziehung.",
+          "Insgesamt drückt der Song … eine tiefe emotionale Verletzlichkeit und die Sehnsucht nach einer bedingungslosen Liebe aus."
+        ],
+        "positive_aspekte": [
+          "Nutzt die konkreten Textzeilen („Hold me“, „never let me go“, „Take me honey…“, „Hold me tenderly infold me“) und bezieht sich damit direkt auf den Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin möchte, dass ihr Partner sie vollständig in Besitz nimmt und sie nie wieder verlässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler und inniger Liebesappell.",
+          "Die Sängerin bittet ihren Geliebten, sie festzuhalten und nie loszulassen, da sie ihn über alles liebt.",
+          "Die wiederholte Bitte … unterstrichen, was die tiefe Sehnsucht nach Sicherheit und Geborgenheit in der Beziehung ausdrückt.",
+          "Die Zeile … verdeutlicht diese Bitte um eine bedingungslose und ewige Liebe.",
+          "Die Sängerin ist sich bewusst, dass sie diese Art von Liebe nicht von jedem bekommen kann, wie die Zeile … andeutet.",
+          "Die zweite Hälfte des Songs ist von einer zärtlichen und innigen Atmosphäre geprägt.",
+          "Die Sängerin bittet ihren Partner, sie zärtlich zu halten und nie von ihr zu lassen.",
+          "Die Wiederholung der Zeile … unterstreicht die Sehnsucht nach einer engen und vertrauensvollen Beziehung.",
+          "Insgesamt drückt der Song … eine tiefe emotionale Verletzlichkeit und die Sehnsucht nach einer bedingungslosen Liebe aus."
+        ],
+        "positive_aspekte": [
+          "Klare Bezugnahme auf die wiederholten Textpassagen, was die Texttreue erhöht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin möchte, dass ihr Partner sie vollständig in Besitz nimmt und sie nie wieder verlässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler und inniger Liebesappell.",
+          "Die Sängerin bittet ihren Geliebten, sie festzuhalten und nie loszulassen, da sie ihn über alles liebt.",
+          "Die wiederholte Bitte … unterstrichen, was die tiefe Sehnsucht nach Sicherheit und Geborgenheit in der Beziehung ausdrückt.",
+          "Die Zeile … verdeutlicht diese Bitte um eine bedingungslose und ewige Liebe.",
+          "Die Sängerin ist sich bewusst, dass sie diese Art von Liebe nicht von jedem bekommen kann, wie die Zeile … andeutet.",
+          "Die zweite Hälfte des Songs ist von einer zärtlichen und innigen Atmosphäre geprägt.",
+          "Die Sängerin bittet ihren Partner, sie zärtlich zu halten und nie von ihr zu lassen.",
+          "Die Wiederholung der Zeile … unterstreicht die Intensität ihrer Gefühle und die Sehnsucht nach einer engen und vertrauensvollen Beziehung.",
+          "Insgesamt drückt der Song … eine tiefe emotionale Verletzlichkeit und die Sehnsucht nach einer bedingungslosen Liebe aus."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um den Hinweis auf die „Intensität ihrer Gefühle“, was ein wenig mehr Nuance bietet."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin möchte, dass ihr Partner sie vollständig in Besitz nimmt und sie nie wieder verlässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler und inniger Liebesappell.",
+          "Die Sängerin bittet ihren Geliebten, sie festzuhalten und nie loszulassen, da sie ihn über alles liebt.",
+          "Die wiederholte Bitte … unterstrichen, was die tiefe Sehnsucht nach Sicherheit und Geborgenheit in der Beziehung ausdrückt.",
+          "Die Zeile … verdeutlicht diese Bitte um eine bedingungslose und ewige Liebe.",
+          "Die Sängerin ist sich bewusst, dass sie diese Art von Liebe nicht von jedem bekommen kann, wie die Zeile … andeutet.",
+          "Die zweite Hälfte des Songs ist von einer zärtlichen und innigen Atmosphäre geprägt.",
+          "Die Sängerin bittet ihren Partner, sie zärtlich zu halten und nie von ihr zu lassen.",
+          "Die Wiederholung der Zeile … unterstreicht die Sehnsucht nach einer engen und vertrauensvollen Beziehung.",
+          "Insgesamt drückt der Song … eine tiefe emotionale Verletzlichkeit und die Sehnsucht nach einer bedingungslosen Liebe aus."
+        ],
+        "positive_aspekte": [
+          "Konsistente Wiederholung der Kernbotschaft, was die Klarheit der Interpretation unterstützt."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin möchte, dass ihr Partner sie vollständig in Besitz nimmt und sie nie wieder verlässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … ist ein emotionaler und inniger Liebesappell.",
+          "Die Sängerin bittet ihren Geliebten, sie festzuhalten und nie loszulassen, da sie ihn über alles liebt.",
+          "Die wiederholte Bitte … unterstrichen, was die tiefe Sehnsucht nach Sicherheit und Geborgenheit in der Beziehung ausdrückt.",
+          "Die Zeile … verdeutlicht diese Bitte um eine bedingungslose und ewige Liebe.",
+          "Die Sängerin ist sich bewusst, dass sie diese Art von Liebe nicht von jedem bekommen kann, wie die Zeile … andeutet.",
+          "Die zweite Hälfte des Songs ist von einer zärtlichen und innigen Atmosphäre geprägt.",
+          "Die Sängerin bittet ihren Partner, sie zärtlich zu halten und nie von ihr zu lassen.",
+          "Die Wiederholung der Zeile … unterstreicht die Sehnsucht nach einer engen und vertrauensvollen Beziehung.",
+          "Insgesamt drückt der Song … eine tiefe emotionale Verletzlichkeit und die Sehnsucht nach einer bedingungslosen Liebe aus.",
+          "Der Song drückt eine tiefe und unerschütterliche Liebe aus, die nach Sicherheit, Geborgenheit und Zärtlichkeit sehnt."
+        ],
+        "positive_aspekte": [
+          "Fügt eine zusätzliche, leicht differenzierte Aussage über „unerschütterliche Liebe“ ein, was die Analyse etwas tiefer macht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundaussagen; die Varianz ist gering. Nur Interpretation 3 fügt einen leicht neuen, aber immer noch oberflächlichen Aspekt hinzu.",
+    "empfehlung": "Die Modelle erzeugen sehr ähnliche, größtenteils oberflächliche Analysen mit wenigen erfundenen Details. Für eine höhere Qualität sollte das Modell stärker auf Textbelege fokussieren, spekulative Aussagen vermeiden und mehr differenzierte, textbasierte Interpretationsmöglichkeiten (z. B. Mehrdeutigkeit, rhetorische Mittel) einbringen."
+  }
+}

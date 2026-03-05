@@ -1,0 +1,95 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Rapper präsentiert sich als eine Art 'König' der Berliner Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck seiner Stärke und seiner Überlegenheit in der Rap-Szene"
+        ],
+        "positive_aspekte": [
+          "Der Song ist ein aggressiver und provokativer Track, der von Selbstbewusstsein, Macht und Rache handelt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Rapper präsentiert sich als eine Art 'König' der Berliner Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck seiner Stärke und seiner Überlegenheit in der Rap-Szene"
+        ],
+        "positive_aspekte": [
+          "Der Song ist ein aggressiver und provokativer Track, der von Selbstbewusstsein, Macht und Rache handelt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Rapper präsentiert sich als eine Art 'König' der Berliner Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck seiner Überlegenheit und seiner Verachtung für seine Gegner"
+        ],
+        "positive_aspekte": [
+          "Der Song ist ein aggressiver und provokativer Track, der von Selbstbewusstsein, Macht und Rache handelt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song enthält auch Anspielungen auf seine Vergangenheit und seine Erfolge"
+        ],
+        "positive_aspekte": [
+          "Der Text ist geprägt von Drohungen und Beleidigungen gegenüber seinen Feinden"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song enthält auch Anspielungen auf seine Vergangenheit und seine Erfolge"
+        ],
+        "positive_aspekte": [
+          "Der Text ist geprägt von Drohungen und Beleidigungen gegenüber seinen Feinden"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 1.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-3 sind sehr ähnlich und wiederholen sich stark, während die Interpretationen 4 und 5 tiefergehende Analysen bieten",
+    "empfehlung": "Es wäre ratsam, die Ansätze der Interpretationen 4 und 5 weiterzuverfolgen, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten"
+  }
+}

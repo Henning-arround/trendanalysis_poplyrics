@@ -1,0 +1,99 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Metapher für die Zerstörung und den Verfall der Gesellschaft interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text beginnt mit einer scheinbar harmlosen Szene"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung des Zirkus und seiner Auswirkungen ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Metapher für die Zerstörung und den Verfall der menschlichen Gesellschaft interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Zirkus des Todes nähert sich, sein Weg ist mit Blut und Angst gezeichnet"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung des Clowns und seines geheimen Narkotikums ist textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Clown verkörpert die Verkörperung des Bösen, das sich nicht aufhalten lässt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Menschen, die dem Zirkus entgegenschauen, sind voller Angst und Hilflosigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung des Zirkus und seiner Auswirkungen ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Metapher für die Zerstörung und den Tod gesehen werden, der durch die menschliche Natur selbst verursacht wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Zirkus symbolisiert möglicherweise die dunkle Seite der menschlichen Psyche"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung des Clowns und seines geheimen Narkotikums ist textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Clown verkörpert die Macht der Zerstörung und die Unaufhaltsamkeit des Bösen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Menschen, die dem Zirkus entgegentreten, sind hilflos und ängstlich"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung des Zirkus und seiner Auswirkungen ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten bleiben textbezogen",
+    "empfehlung": "Die Interpretationen sollten mehr auf die textbezogenen Aspekte eingehen und weniger auf allgemeine Aussagen"
+  }
+}

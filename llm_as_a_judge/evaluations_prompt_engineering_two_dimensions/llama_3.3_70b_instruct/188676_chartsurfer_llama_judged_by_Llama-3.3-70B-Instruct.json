@@ -1,0 +1,99 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Sicherheit und Geborgenheit in einer unsicheren Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre der Geborgenheit und des Wohlbefindens"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'big room' und ihre Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kritik an der Überwachung und der Medienpräsenz in der heutigen Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Einladung, die Probleme und Sorgen an der Tür abzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der kreativen und künstlerischen Atmosphäre im 'big room'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Bedeutung des 'big room' für die Seele oder das Unterbewusstsein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die luxuriöse und exklusive Umgebung des 'Secaucus Lounge'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Don't have no cameras in the big room' und ihre Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Sicherheit und Geborgenheit in einer unsicheren Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Atmosphäre der Geborgenheit und des Wohlbefindens"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'big room' und ihre Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Einbettung des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die luxuriöse und exklusive Umgebung des 'Secaucus Lounge'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Check your problems at the door' und ihre Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der Metapher des 'big room' und ihre Bedeutung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine hohe Konsistenz in Bezug auf die Analyse der Metapher des 'big room' und ihre Bedeutung"
+  }
+}

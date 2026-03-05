@@ -1,0 +1,99 @@
+{
+  "song": "Pay The Man - The Offspring (1998)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ironie und der Zynismus der Mächtigen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Grenzen zwischen Gut und Böse sind verwischt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'See the way the wind blows, lives are intertwined' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Menschen sind sich der Ausbeutung und Unterdrückung bewusst, aber sehen keine Möglichkeit, sich dagegen zu wehren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aufforderung 'Pay the man' ist ein Symbol für die Unterwerfung"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Wiederholung von 'In our souls' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Menschen streben nach Autonomie und Selbstbestimmung, aber werden durch die bestehenden Strukturen behindert"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext enthält Anspielungen auf die Suche nach Freiheit und Unabhängigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'Wouldn't it be nice for a change, now, to be unchained?' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Menschen sind sich der Ausbeutung und Unterdrückung bewusst, aber sehen keine Möglichkeit, sich dagegen zu wehren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aufforderung 'Pay the man' ist ein Symbol für die Unterwerfung"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Wiederholung von 'In our souls' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Menschen streben nach Autonomie und Selbstbestimmung, aber werden durch die bestehenden Strukturen behindert"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext enthält Anspielungen auf die Suche nach Freiheit und Unabhängigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'Wouldn't it be nice for a change, now, to be unchained?' ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind nicht sehr konsistent, da sie oft ähnliche Punkte ansprechen, aber unterschiedlich tiefgehend sind",
+    "empfehlung": "Es wäre ratsam, die Interpretationen noch einmal zu überarbeiten, um sie tiefer und weniger halluzinativ zu machen"
+  }
+}

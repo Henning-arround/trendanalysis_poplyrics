@@ -1,0 +1,90 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Klare Verknüpfung von Symbolen (z. B. Sterne, Schlange, schwarze Aura) mit den jeweiligen Zeilen",
+          "Erkenntnisreiche Interpretation von Wiederholungen und von „outer dimensions“",
+          "Keine spekulativen biografischen oder stilistischen Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, aber präzise Deutung aller Schlüsselphrasen",
+          "Vermeidet unbelegte Fakten über die Band oder das Genre",
+          "Stellt Zusammenhänge zwischen den Bildern her (z. B. Chaos ↔ Schöpfung)"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betont die emotionale Dimension (Sehnsucht, Verzweiflung) mit Textbelegen",
+          "Verknüpft das wiederholte Trinken‑Motiv mit Empathie und Selbstvervollständigung",
+          "Analysiert die Ambivalenz von „paralysed with wonder and confusion“"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Interpretation des „cosmic error“ als duales Schöpf‑/Zerstörungs‑Motiv",
+          "Erklärt die Rolle der „forgotten masters“ als Gleichgewichts‑Stabilisator",
+          "Verbindet die finale Transformation mit dem Bild der „black dimensions aura“"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Auslegung von „cosmic error“ als fehlerhaftes Universum",
+          "Erklärt die Schlange als Symbol für Wissen und Gefahr",
+          "Schließt mit einer klaren Aussage über die Auflösung von Ich‑Grenzen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen behandeln dieselben Bildmotive und Themen in sehr ähnlicher Weise; die Varianz ist minimal, was auf eine konsistente Textinterpretation hinweist.",
+    "empfehlung": "Alle fünf Modelle liefern faktentreue und tiefgehende Analysen. Da sie sich in Detailreichtum kaum unterscheiden, kann jede als gleichwertig angesehen werden. Für zukünftige Aufgaben empfiehlt es sich, die bereits gezeigte Fähigkeit zu erhalten, aber zusätzlich stärker auf unterschiedliche interpretative Perspektiven (z. B. historisch, musikalisch) zu achten, um die Varianz zu erhöhen."
+  }
+}

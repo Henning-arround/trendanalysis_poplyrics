@@ -1,0 +1,99 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ooh, she changes people now' kann als Hinweis auf die transformative Kraft von Beziehungen oder Erfahrungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen Einsamkeit, Verunsicherung und Sehnsucht nach menschlicher Verbindung sind in der heutigen Gesellschaft von großer Relevanz."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metapher 'Skipping Like A Stone' und ihrer Bedeutung im Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von einfachen, fast kindlichen Melodien und Texten kann als eine Art Gegenbewegung zu der Komplexität und Beschleunigung der modernen Welt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Erfahrungen und Gefühle einer Generation interpretiert werden, die in einer zunehmend digitalisierten und globalisierten Welt lebt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Rolle von Beziehungen in der heutigen Gesellschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I wanna go / Where no one goes' kann als Ausdruck des Wunsches nach einem unentdeckten, vielleicht sogar utopischen Raum interpretiert werden, in dem man sich frei von den Zwängen der Gesellschaft bewegen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der emotionalen Befindlichkeit einer Generation interpretiert werden, die sich in einer zunehmend komplexen und unsicheren Welt zurechtfinden muss."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verschiedenen Themen und Motive im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Refrains wie 'I don't want to let you go / I don't want to lose your love' unterstreicht die emotionale Wirkung des Songs und die Sehnsucht nach menschlicher Verbindung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Erfahrungen und Gefühle einer Generation interpretiert werden, die in einer zunehmend digitalisierten und globalisierten Welt lebt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Rolle von Liebe und Beziehungen im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 1,
+      "gesamt_score": 1,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ooh, she changes people now' kann als Hinweis auf die transformative Kraft von Beziehungen oder Erfahrungen interpretiert werden, was eindeutig auf die biografischen Erfahrungen des Künstlers zurückzuführen ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kulturelles Artefakt seiner Zeit und spiegelt die Erfahrungen und Gefühle einer Generation wider."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verschiedenen Themen und Motive im Song, aber leider ohne tiefere Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in Bezug auf die Themen und Motive, aber es gibt auch viele Wiederholungen und oberflächliche Aussagen.",
+    "empfehlung": "Um eine bessere Interpretation zu erhalten, sollten die Analyse und die Textbezüge vertieft werden, um eine tiefere Einsicht in die Bedeutung des Songs zu gewinnen."
+  }
+}

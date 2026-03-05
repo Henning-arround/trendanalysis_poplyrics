@@ -1,0 +1,99 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des gesellschaftlichen Umbruchs und der sexuellen Liberalisierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Ausdruck dieser Veränderungen gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sexuelle Revolution und die Emanzipation von Minderheiten waren in dieser Zeit in vollem Gange"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext enthält auch eine gewisse Spannung zwischen der expliziten Aufforderung zum Sex und der gleichzeitigen Betonung der Notwendigkeit von Zustimmung und Kommunikation"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tanzfläche kann als ein Symbol für die Befreiung von sozialen Konventionen und die Ermöglichung von Selbstausdruck interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext enthält auch eine Vielzahl von Bildern, die die Atmosphäre einer Party und die Emotionen der Tanzenden beschreiben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sexuelle Revolution und die Bürgerrechtsbewegung in den USA hatten ihren Höhepunkt erreicht"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext enthält jedoch auch Ambiguitäten und Spannungen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tanzfläche kann als ein Raum der Freiheit und des Selbstausdrucks dargestellt werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext enthält auch Ambiguitäten und Spannungen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs ist gut durchgeführt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

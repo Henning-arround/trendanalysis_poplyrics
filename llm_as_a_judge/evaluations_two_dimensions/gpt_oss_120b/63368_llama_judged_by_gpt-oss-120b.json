@@ -1,0 +1,99 @@
+{
+  "song": "Arschgesicht - Udo Lindenland (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch die ironische und humorvolle Darstellung wird der Song zu einer Hommage an die Einzigartigkeit und Individualität, die über die äußere Erscheinung hinausgeht.",
+          "Der Text spielt auch mit dem Kontrast zwischen der äußeren Erscheinung und der inneren Schönheit, indem er die Person als \"ein bißchen balla‑balla\" bezeichnet, was die Vorstellung von Schönheit und Hässlichkeit untergräbt."
+        ],
+        "positive_aspekte": [
+          "Alle genannten Punkte lassen sich klar aus dem Songtext ableiten (Begriffe wie „Pflaume“, „Experiment“, „glatten Movie‑Stars“, „Schönheit ist vergänglich“).",
+          "Die Interpretation geht über reine Wiederholungen hinaus und verknüpft mehrere Textstellen zu einer kohärenten Aussage über Ironie, Gesellschaftskritik und Authentizität."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch die ironische und humorvolle Darstellung wird der Song zu einer Hommage an die Einzigartigkeit und Individualität, die über die äußere Erscheinung hinausgeht.",
+          "Der Text spielt auch mit dem Kontrast zwischen der äußeren Erscheinung und der inneren Schönheit, indem er die Person als \"ein bißchen balla‑balla\" bezeichnet, was die Vorstellung von Schönheit und Hässlichkeit untergräbt."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge: jede Aussage wird durch ein konkretes Zitat oder ein klar erkennbares Motiv aus dem Lied gestützt.",
+          "Die Analyse erkennt mehrere Ebenen (Ironie, Kritik an Schönheitsidealen, Selbstironie) und bleibt dabei textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch die ironische und humorvolle Darstellung wird der Song zu einer feierlichen Hymne auf die Liebe und Akzeptanz, die über äußere Erscheinung hinausgeht.",
+          "Der Text ist auch eine Hommage an die Unvollkommenheit und die Besonderheit des geliebten Menschen, die als etwas Positives und Liebenswertes dargestellt wird."
+        ],
+        "positive_aspekte": [
+          "Vollständige Abdeckung der wichtigsten Textpassagen (Pflaume, Experiment, Movie‑Stars, Schönheit ist vergänglich).",
+          "Erklärt, warum das wiederholte Motiv „Arschgesicht besteht“ als Gegenpol zu vergänglicher Schönheit dient."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile ... unterstreicht die Idee, dass wahre Schönheit nicht in äußeren Attributen liegt, sondern in der Einzigartigkeit und Individualität einer Person.",
+          "Der Sänger bevorzugt die Authentizität und Unperfektion seiner Geliebten gegenüber den \"glatten Movie‑Stars\", die zwar schön, aber auch oberflächlich und unerreichbar sind."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Grundstimmung des Songs (Humor, Ironie, Ablehnung von Schönheitsnormen).",
+          "Nutzt zentrale Textzitate, um die Hauptaussage zu stützen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch diese ironische und selbstironische Herangehensweise thematisiert der Song die Relativität von Schönheit und die Wichtigkeit von Individualität und Authentizität in Beziehungen.",
+          "Der Sänger bevorzugt sein \"Arschgesicht\" wegen seiner Authentizität und Individualität, die in einer Welt, in der Schönheit vergänglich ist, von Dauer ist."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Gegenüberstellung von vergänglicher Schönheit und beständiger „Arschgesicht“-Identität.",
+          "Bezieht sich auf mehrere Textstellen (Pflaume, Experiment, Movie‑Stars)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Grundthesen; die Varianz liegt nur im Detailgrad. Die Unterschiede in Tiefe ergeben sich aus dem Anteil oberflächlicher Formulierungen.",
+    "empfehlung": "Interpretationen, die konkrete Textzitate mit einer klaren, aber nicht übertriebenen Analyse verbinden (z. B. Interpretation 1, 3 und 5), erzielen die höchste Balance aus Faktentreue und analytischer Tiefe. Künftige Modelle sollten darauf achten, vage Generalisierungen zu vermeiden und jede Aussage eindeutig im Text zu verankern."
+  }
+}

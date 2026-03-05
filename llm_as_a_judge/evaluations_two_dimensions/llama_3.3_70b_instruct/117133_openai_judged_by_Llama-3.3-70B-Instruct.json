@@ -1,0 +1,99 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur der 'brustbemalten Mann' und die 'Büste von Helmut Schmidt' fungieren als politische Signaturen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Spektakel ist gleichzeitig verführerisch und entmenschlichend"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Tanz- und Kampf-Motive ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung, das 'Brennen laufen zu lassen' und das 'Nichts nach außen zu schieben', entsteht ein Bild von innerer Leere"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Wort 'Sie' zum Spiegel einer fragmentierten Wirklichkeit wird"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Rolle von Identität und Maskerade ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten Motive von Tanz, Waffen und grotesken Kostümen verweisen auf die Spannung zwischen Zeremonie und Gewalt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Jugendkultur als Ausdruck von Befreiung und Selbstzerstörung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der historischen Kontextualisierung ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Referenz an das 'Tremor im Handgelenk' und das 'Rauchen' suggeriert ein nervöses, fast schon süchtig machendes Verlangen nach Bewegung und Flucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Figur der 'brautbemalten Mannes' und die 'Büste von Helmut Schmidt' verankern das Geschehen in einem politischen Kontext"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Rolle von Musik und Tanz ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Referenz an das 'Tremor im Handgelenk' und das 'Rauchen' suggeriert ein nervöses, fast schon süchtig machendes Verlangen nach Bewegung und Flucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ära der frühen 60er Jahre mit ihrer aufkeimenden Popkultur"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kulturellen und historischen Kontextualisierung ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen (3, 5) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die Interpretationen 3 und 5 sind die besten, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigen. Es ist jedoch wichtig, die Interpretationen kritisch zu bewerten und die halluzinierten Aussagen zu identifizieren."
+  }
+}

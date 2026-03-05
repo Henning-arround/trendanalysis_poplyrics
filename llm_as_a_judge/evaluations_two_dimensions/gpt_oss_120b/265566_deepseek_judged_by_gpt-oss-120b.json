@@ -1,0 +1,123 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer bevorstehenden Trennung, die jedoch noch einmal aufgeschoben werden soll.",
+          "Die Lyrics drücken eine tiefe emotionale Verbindung zwischen den beiden Partnern aus, die trotz der bevorstehenden Trennung nicht aufgeben wollen.",
+          "Der Refrain ... kann als ein verzweifelter Versuch interpretiert werden, die gemeinsame Zeit noch einmal zu verlängern und die Erinnerungen an die Beziehung zu bewahren.",
+          "Die Sängerin bittet ihren Partner, sie noch einmal zu halten, als wäre es für immer, und die Nacht gemeinsam zu genießen.",
+          "Die Zeilen \"Last song, last night, last sunset\" unterstreichen die Endgültigkeit der Trennung, während die Wiederholung von \"one more time\" eine Art Trotzreaktion darstellt, die die Sängerin nicht aufgeben will."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song ... als eine emotionale und intensive Auseinandersetzung ... thematisiert werden."
+        ],
+        "positive_aspekte": [
+          "Korrekte Ableitung der Bedeutung der Zeile \"You can break my heart, but you can't break my spirit, baby\".",
+          "Konsistente Themenidentifikation (Beziehung, Trennung)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer bevorstehenden Trennung, die jedoch noch einmal aufgeschoben werden soll.",
+          "Die Lyrics drücken eine tiefe emotionale Verbindung zwischen den beiden Partnern aus, die trotz der bevorstehenden Trennung nicht aufgeben wollen.",
+          "Der Refrain ... kann als ein verzweifelter Versuch interpretiert werden, die gemeinsame Zeit noch einmal zu verlängern und die Erinnerungen an die Beziehung zu bewahren.",
+          "Die Sängerin bittet ihren Partner, sie noch einmal zu halten, als wäre es für immer, und gemeinsam zu tanzen, als ob die Trennung noch nicht bevorstünde.",
+          "Der Song hat auch eine gewisse Melancholie und Resignation, da die Sängerin weiß, dass die Trennung unumgänglich ist, aber sie will sie noch ein letztes Mal aufschieben.",
+          "Die Wiederholung des Refrains ... unterstreicht die Sehnsucht nach einer weiteren gemeinsamen Nacht und die Hoffnung, dass die Trennung vielleicht doch noch verhindert werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"One More Time\" ein emotionaler und melancholischer Song, der die Komplexität von Beziehungen und die Schwierigkeit, loszulassen, thematisiert."
+        ],
+        "positive_aspekte": [
+          "Richtige Textzitat‑Analyse der Zeile über das unzerbrechliche „Spirit“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer bevorstehenden Trennung, die jedoch noch einmal aufgeschoben werden soll.",
+          "Die Lyrics drücken eine tiefe emotionale Verbindung zwischen den beiden Partnern aus, die trotz der bevorstehenden Trennung nicht aufgeben wollen.",
+          "Die Sängerin will noch einmal die Zeit mit ihrem Partner genießen, bevor sie sich für immer trennen.",
+          "Der Refrain ... ist ein emotionaler Appell, die Trennung noch einmal hinauszuzögern und die gemeinsame Zeit noch einmal zu verlängern."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist somit ein emotionaler und nostalgischer Abschied, der jedoch auch eine gewisse Hoffnung auf eine weitere gemeinsame Zeit ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Mehrere konkrete Textstellen (z. B. „Last song, last night, last sunset“, „dancin' into the mornin'“, „makin' fire with every heartbeat“) werden herangezogen und sinnvoll interpretiert.",
+          "Erkennt die Stimmung von Nostalgie und Sehnsucht, die im Text mitschwingt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer bevorstehenden Trennung, die jedoch noch einmal aufgeschoben werden soll.",
+          "Die Lyrics drücken eine tiefe emotionale Verbindung zwischen den beiden Partnern aus, die trotz der bevorstehenden Trennung nicht aufgeben wollen.",
+          "Der Refrain ... kann als ein verzweifelter Versuch interpretiert werden, die gemeinsame Zeit noch einmal zu verlängern und die Erinnerungen an die Beziehung zu bewahren.",
+          "Die Sängerin bittet ihren Partner, sie noch einmal zu halten, als wäre es für immer, und die Nacht gemeinsam zu genießen.",
+          "Die Zeilen \"Last song, last night, last sunset\" unterstreichen die Endgültigkeit der Trennung, während die Wiederholung von \"one more time\" eine Art Trotzreaktion darstellt, die die Sängerin nicht aufgeben will."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song ... als eine emotionale und intensive Auseinandersetzung ... thematisiert werden."
+        ],
+        "positive_aspekte": [
+          "Korrekte Identifikation des zentralen Motivs „one more time“ als Wiederholungs‑ und Verzweiflungselement."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von einer bevorstehenden Trennung, die jedoch noch einmal aufgeschoben werden soll.",
+          "Die Lyrics drücken eine tiefe emotionale Verbindung zwischen den beiden Partnern aus, die trotz des bevorstehenden Abschieds nicht gebrochen werden kann.",
+          "Der Song ist ein emotionaler Appell, die letzte Nacht, den letzten Kuss und das letzte Lied noch einmal zu genießen, bevor die Beziehung endgültig endet.",
+          "Die Wiederholung des Refrains ... unterstreicht den Wunsch, die Zeit noch einmal zurückzudrehen und die gemeinsamen Momente noch einmal zu erleben.",
+          "Die Sängerin bittet ihren Partner, sie zu halten, als wäre es für immer, und die Nacht in einem Tanz zu verbringen.",
+          "Der Song hat eine melancholische, aber auch hoffnungsvolle Atmosphäre, die durch die Kontraste von Dunkelheit und Licht, Nacht und Morgen, vermittelt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist ... ein emotionaler und mitreißender Song, der die Zuhörer dazu einlädt, die letzten Momente einer Beziehung noch einmal zu erleben und zu genießen."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf die Zeile „You can't take the sunshine from me“ und interpretiert deren Symbolik.",
+          "Erkennt die Gegenüberstellung von Dunkel‑ und Lichtmotiven, die im Text vorkommen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 1.2,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Beziehung, Trennung, Wunsch nach einem letzten gemeinsamen Moment). Die Varianz liegt hauptsächlich im Detailgrad der Textbezüge – Interpretation 5 liefert die meisten belegten Textanalysen, während die anderen stark auf spekulative Aussagen setzen.",
+    "empfehlung": "Für eine ausgewogene Analyse sollten spekulative Behauptungen minimiert und mehr direkte Textbelege herangezogen werden. Interpretation 5 zeigt, wie konkrete Bildsprache und Nuancen aus dem Songtext zu einer tieferen, aber dennoch faktentreuen Interpretation führen können."
+  }
+}

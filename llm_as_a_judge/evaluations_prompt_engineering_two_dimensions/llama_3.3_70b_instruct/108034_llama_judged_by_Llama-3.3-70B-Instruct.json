@@ -1,0 +1,101 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Nonkonformität."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Frage nach der Konsistenz und Authentizität in Beziehungen zu liegen."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Nonkonformität.",
+          "Der Song kann in diesem Kontext als eine Art von Spiegelbild der Unsicherheiten und Verwirrungen dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Frage nach der Konsistenz und Authentizität in Beziehungen zu liegen."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung von 'We smile' ist interessant und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Nonkonformität.",
+          "Der Song kann in diesem Kontext als eine Art von Spiegelbild der Unsicherheiten und Verwirrungen dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Frage nach der Konsistenz und Authentizität in Beziehungen zu liegen."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Individualität."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Frage nach der Konsistenz und Authentizität in Beziehungen zu liegen."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Your madness fits in nicely with my own' ist interessant und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1980er Jahre waren geprägt von einer wachsenden Offenheit und Akzeptanz von Diversität und Individualität."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Frage nach der Konsistenz und Authentizität in Beziehungen zu liegen."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext ist detailliert und textbezogen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine herzliche und ehrliche Darstellung der menschlichen Sehnsucht nach Liebe und Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, und die Stimme von Nat \"King\" Cole verleiht dem Text eine besondere Intensität und Emotionalität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine herzliche und ehrliche Darstellung der menschlichen Sehnsucht nach Liebe und Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine herzliche und ehrliche Darstellung der menschlichen Sehnsucht nach Liebe und Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, und die Stimme von Nat \"King\" Cole verleiht dem Text eine besondere Intensität und Emotionalität"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, und die Stimme von Nat \"King\" Cole verleiht dem Text eine besondere Intensität und Emotionalität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Bewertung",
+    "empfehlung": "Die Ansätze der Interpretationen 4 und 5 scheinen am besten zu funktionieren, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweisen"
+  }
+}

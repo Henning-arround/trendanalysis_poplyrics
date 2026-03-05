@@ -1,0 +1,99 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die lyrische Unschärfe lässt den Hörer sowohl als Hilfesuchender als auch als potenzieller Helfer positionieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Themen wie soziale Entfremdung und das Bedürfnis nach neu definierten Gemeinschaften"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des springenden Steins ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrufung von 'skipping' als Fluchtmechanismus spiegelt digitale Fluchtformen wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Mehrdeutigkeit bleibt bewusst offen"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der Spannung zwischen Bindung und Flucht ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ooh, she changes people now' fungiert als rätselhafte Interjektion"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'shadow of love' erzeugt ein Bild von Liebe als dunklem Raum"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Bildsprache und der Wiederholungen ist sehr detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'When you feel like nothing really matters' und dem Versprechen des springenden Steins erzeugt eine Spannung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'I don't want to let you go' verstärkt das Dilemma"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der Dualität des springenden Steins ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kombination aus repetitiver Struktur und unaufgelösten Widersprüchen eröffnet ein Symbolfeld"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Mehrdeutigkeit bleibt bewusst offen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des springenden Steins und der Wiederholungen ist gut durchdacht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die dritte, da sie eine sehr detaillierte und textbezogene Analyse der Bildsprache und der Wiederholungen bietet"
+  }
+}

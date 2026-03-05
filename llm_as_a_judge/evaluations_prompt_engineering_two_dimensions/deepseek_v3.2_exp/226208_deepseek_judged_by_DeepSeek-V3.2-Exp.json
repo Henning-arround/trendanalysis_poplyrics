@@ -1,0 +1,92 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein vielschichtiges Werk interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole",
+          "Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Ausdruck der Unzufriedenheit mit der bestehenden Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Metaphern und Symbole",
+          "Berücksichtigung des kulturellen Kontexts",
+          "Tiefgehende Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des Bildes vom 'Sturm' kann als eine Metapher für die Herausforderungen und Schwierigkeiten des Lebens interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Kommentar zu den Herausforderungen und Schwierigkeiten der menschlichen Existenz interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Metaphern und Symbole",
+          "Berücksichtigung des kulturellen Kontexts",
+          "Tiefgehende Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Metaphern und Symbole, aber eine Varianz in der Berücksichtigung des kulturellen Kontexts und der emotionalen Wirkung des Songs",
+    "empfehlung": "Die beste Interpretation ist die Nummer 3, da sie eine sehr gute Analyse der Metaphern und Symbole bietet, den kulturellen Kontext berücksichtigt und eine tiefgehende Interpretation liefert"
+  }
+}

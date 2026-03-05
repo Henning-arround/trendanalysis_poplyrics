@@ -1,0 +1,109 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext ... ist geprägt von der Emo- und Rockmusikszene der 2000er Jahre, die oft Themen ... thematisierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene ... liegt in der symbolischen Ordnung der Nacht und der Dunkelheit, die die Trauer und den Verlust repräsentieren.",
+          "Diese Ambiguitäten bleiben im Song ungelöst, was die emotionale Wirkung und die Tiefe des Songs verstärkt."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (z. B. Verlust, wiederholte Fragen, Zeile „It’s 4 AM and you are gone“).",
+          "Gute Verknüpfung von einzelnen Zeilen mit einer übergeordneten Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Emo- und Rockmusikszene der 2000er Jahre, die oft Themen ... thematisierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension ... wird durch die Kontraste zwischen Licht und Dunkelheit ... deutlich, die die Spannung zwischen der Sehnsucht nach dem Verlorenen und der Unmöglichkeit, es zurückzugewinnen, verdeutlichen.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Nacht, die die Unsichtbarkeit und die Unzugänglichkeit des Verlorenen repräsentiert."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Aussagen (Verlust, Metapher „4 AM forever“, wiederholte Fragen).",
+          "Erkennt die Ambiguität und das offene Ende des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext ... ist geprägt von der Emo- und Rockmusikszene der 2000er Jahre, die oft Themen ... thematisierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene ... liegt in der symbolischen Ordnung der Nacht und der Dunkelheit, die die emotionale Verfassung des Sängers widerspiegelt.",
+          "Der Song bleibt somit ein emotionaler und affektiver Ausdruck der Trauer und des Verlusts, der die Hörer auffordert, die Tiefe der emotionalen Verletzung zu erforschen."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf mehrere Textstellen (z. B. „Hold a little tighter“, „It’s 4 AM and you are gone“).",
+          "Erkennt die wiederholte Struktur („4 AM forever“) als stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Dimension ... kann im Kontext der emo- und rock‑Musikszene der 2000er Jahre verstanden werden, in der Themen ... häufig thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die symbolische Ordnung des Songs, insbesondere die Verwendung der Nacht und der Stille, kann als eine Art „Tod“ der Beziehung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse einzelner Zeilen (z. B. „Maybe I’ll never see you smile again“, Ambiguität der Kommunikation).",
+          "Erkennt und diskutiert Mehrdeutigkeiten und offene Fragen des Textes.",
+          "Verknüpft Textstellen mit einer tieferen, aber textbasierten Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Dimension ... kann im Kontext der emo- und rock‑Musikszene der 2000er Jahre verstanden werden, in der Themen ... häufig thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension ... wird durch die Kontraste zwischen Licht und Dunkelheit ... deutlich, die die Spannung zwischen der Sehnsucht nach dem Verlorenen und der Realität des Verlusts verdeutlichen.",
+          "Die tiefere Bedeutungsebene ... kann in der symbolischen Ordnung der „ewigen Nacht“ gesehen werden, die die Unfähigkeit, den Verlust zu überwinden, und die ewige Sehnsucht nach dem Verlorenen symbolisiert."
+        ],
+        "positive_aspekte": [
+          "Konsistente Bezugnahme auf zentrale Motive des Songs (Verlust, wiederholte Fragen, Metapher).",
+          "Erkennt die offene, ambivalente Natur des Textes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Trauer, Verlust, 4 AM‑Metapher) und unterscheiden sich nur in Detailtiefe. Die Varianz ist gering; nur Interpretation 3 liefert merklich mehr textnahe Analyse.",
+    "empfehlung": "Interpretation 3 ist am überzeugendsten, weil sie konkrete Textstellen detailliert auswertet, Mehrdeutigkeiten erkennt und dabei kaum unbelegte Aussagen macht. Für zukünftige Analysen sollten Modelle stärker auf Zeilen‑zu‑Zeilen‑Begründungen setzen und spekulative Genre‑ oder Kultur‑Einordnungen vermeiden."
+  }
+}

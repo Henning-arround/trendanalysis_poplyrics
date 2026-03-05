@@ -1,0 +1,131 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein ironischer Empfangs‑ und Abschiedsgedicht, das zugleich die Verlockung und die Oberflächlichkeit moderner Unterhaltungsorte kritisiert.",
+          "Diese Phrase, die sich wie ein Mantra wiederholt, suggeriert ein falsches Sicherheitsgefühl, das die eigentlichen Probleme ausblendet.",
+          "Der Hinweis, dass keine Kameras im „big room“ erlaubt seien, weil „too much for one lens to see“, offenbart ein Bewusstsein für die Unmöglichkeit, das wahre Geschehen vollständig zu erfassen.",
+          "Es ist ein Hinweis darauf, dass das, was dort passiert, zu komplex oder zu intim ist, um von außen beobachtet zu werden, und gleichzeitig ein Hinweis auf die Selbstzensur, die in solchen Räumen herrscht.",
+          "Die wiederholte Aussage „There’s always talent in the big room“ wirkt fast sarkastisch, weil das Talent hier nicht durch Kunst, sondern durch das bloße Mitwirken an einer inszenierten Harmonie definiert wird.",
+          "Der Aufruf, „Check your problems at the door“, verstärkt die Idee eines Fluchtortes, in dem persönliche Sorgen ausgeschlossen werden, um eine kollektive, oberflächliche Zufriedenheit zu erzeugen.",
+          "Die ständige Wiederholung von „It’s alright“ fungiert dabei als beruhigender, aber hohler Slogan, der die Hörer in einen Zustand der Passivität versetzt.",
+          "Insgesamt zeichnet der Song ein Bild von einem Raum, der gleichzeitig ein Zufluchtsort und ein Gefängnis ist – ein Ort, an dem das Sichtbare kontrolliert, das Unsichtbare verschwiegen und das wahre menschliche Erleben hinter einer Maske aus scheinbarer Harmonie verborgen bleibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Anrede „Ladies and gentlemen“ und die scheinbar zufällige Ortsangabe erzeugen ein Bild einer glamourösen, aber anonymen Szene, in der das Publikum – die „Blue Notes“ – zu einer kollektiven Erfahrung eingeladen wird, die jedoch nur aus einer simplen Botschaft besteht: „everything’s alright“."
+        ],
+        "positive_aspekte": [
+          "Verwendet viele konkrete Textzitate (z. B. „Ladies and gentlemen“, „Too much for one lens to see“, „There’s always talent in the big room“, „Check your problems at the door“, „It’s alright“).",
+          "Zeigt ein durchgängiges Interpretationsmuster, das den wiederholenden Mantra‑Charakter des Songs betont."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein ironischer Einladungston, der zugleich ein Bild von einer künstlich geschaffenen Zuflucht zeichnet, in der das Alltägliche und das Überwachte verschwimmen.",
+          "Das Verbot von Kameras, „Too much for one lens to see“, deutet darauf hin, dass das Geschehen im „big room“ bewusst vor der öffentlichen Beobachtung geschützt wird – nicht aus Schutz, sondern aus dem Wunsch, das Bild zu kontrollieren und die Realität zu verschleiern.",
+          "Die Betonung von „talent“ als permanent präsente Ressource, die „every day and every night“ im Raum pulsiert, lässt den Raum zu einem Produktionsstandort für kommerzielle oder künstlerische Inhalte werden, in dem das Individuum nur als Teil einer endlosen Show fungiert.",
+          "Die Aufforderung, „Check your problems at the door“, verstärkt die Idee einer Flucht aus dem echten Leben, während das ständige „It’s alright“ als beruhigender Mantra wirkt, der jedoch die Unterdrückung von Unbehagen und Kritik maskiert.",
+          "Insgesamt zeichnet der Song ein Bild von einer modernen, konsumorientierten Kultur, in der Räume der Unterhaltung gleichzeitig Zufluchtsorte und Gefängnisse sind, in denen das wahre Selbst hinter einer glänzenden Fassade verborgen bleibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Anrede „Ladies and gentlemen“ und die scheinbar zufällige Ortsangabe erzeugen eine Atmosphäre von Glamour und Exklusivität, die jedoch durch die nüchterne Wiederholung von „everything’s alright“ eine fast schon zynische Oberflächlichkeit suggeriert."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive des Textes (Kameras, Talent, „It’s alright“, Flucht aus dem Alltag).",
+          "Bietet ein zusammenhängendes Bild von Konsumkritik, das den Songtext konsequent durchzieht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein ironischer Empfangs‑ und Ausstiegsszenario, das zugleich die Sehnsucht nach einem geschützten Raum und die kritische Distanz zu einer überwachenden Öffentlichkeit ausdrückt.",
+          "Es entsteht der Eindruck, dass das Versprechen von Wohlbefinden und Sicherheit eher ein Mantra zur Selbsttäuschung ist, ein Versuch, die Unruhe zu übertünchen, die hinter dem Schein liegt.",
+          "Der Verweis auf das Verbot von Kameras verstärkt das Motiv der Abschottung: Der Raum soll ein Ort bleiben, den das öffentliche Auge nicht durchdringen kann, weil dort etwas zu viel, zu komplex oder zu verletzlich ist, um es in ein einzelnes Bild zu pressen.",
+          "Gleichzeitig suggeriert das Verbot eine Angst vor Beobachtung und Auswertung, ein Hinweis auf die Entfremdung in einer mediengesättigten Kultur.",
+          "Die wiederholte Aussage, dass „there’s always talent in the big room“, wirkt wie ein Versprechen von Kreativität und Authentizität, das jedoch im Kontrast zu dem simplen „It’s alright“ steht, das die tiefere Unruhe nur oberflächlich beruhigt.",
+          "Der Aufruf, „Check your problems at the door“, erinnert an ein Ritual der Selbstverleugnung, das das Individuum zwingt, persönliche Lasten außen zu lassen, um in die kollektive Illusion des Wohlbefindens einzutauchen.",
+          "So wird der „big room“ zu einem Symbol für die moderne Flucht in künstliche Gemeinschaften, in denen das Sichtbare kontrolliert, das Unsichtbare jedoch weiter brennt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Anrede und die scheinbar luxuriöse Location setzen ein Bild von Glamour und Exklusivität, das jedoch durch die nüchterne Wiederholung von „everything’s alright“ entzaubert wird."
+        ],
+        "positive_aspekte": [
+          "Verknüpft mehrere Textstellen zu einem konsistenten Bild von Abschottung und Selbsttäuschung.",
+          "Betont die Diskrepanz zwischen äußeren Versprechen und innerer Unruhe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein ironischer Empfangs‑ und Ausstiegsszenario, das zugleich ein Bild von moderner Oberflächlichkeit und einer Sehnsucht nach Authentizität zeichnet.",
+          "Der Refrain fungiert dabei als beruhigender Slogan, der jedoch durch die ständige Wiederholung von „It’s alright“ an Banalität verliert und die Möglichkeit einer Verdrängung von Problemen andeutet.",
+          "Der Hinweis, dass keine Kameras erlaubt seien, weil „too much for one lens to see“, eröffnet eine kritische Reflexion über die Überwachung und das Bedürfnis, das Geschehene nicht vollständig dokumentieren zu können – ein Wunsch nach einem Raum, der jenseits der öffentlichen Sichtbarkeit existiert.",
+          "Gleichzeitig wird das „big room“ als Ort des Talents beschrieben, das „every day and every night“ präsent ist, was die Idee einer ununterbrochenen, fast erzwungenen Kreativität suggeriert, die jedoch im Kontext einer kommerzialisierten Umgebung eher hohl wirkt.",
+          "Die abschließende Aufforderung, „Check your problems at the door“, verstärkt das Bild eines Fluchtortes, in dem persönliche Sorgen außen vor bleiben sollen, während das Mantra „It’s alright“ als beruhigender, aber letztlich hohler Trost dient.",
+          "So wird das „big room“ zu einer Metapher für die moderne Unterhaltungsindustrie: ein glänzender, kontrollierter Raum, der gleichzeitig Verdrängung, Überwachung und die Illusion von Sicherheit verkörpert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Anrede und die scheinbar luxuriöse Location suggerieren ein exklusives Umfeld, in dem das Publikum als Teil einer inszenierten Show betrachtet wird."
+        ],
+        "positive_aspekte": [
+          "Stellt klar die wiederkehrenden Motive (Kameras, Talent, „It’s alright“, Flucht) heraus.",
+          "Verbindet die Textinhalte mit einer kritischen Sicht auf die Unterhaltungsindustrie."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein ironischer Einladungsschrei an eine imaginäre Bühne, die zugleich verführerisch und beengend ist.",
+          "Das immer wieder betonte „everything’s alright“ fungiert dabei nicht nur als beruhigender Slogan, sondern als oberflächliche Beschwichtigung, die die eigentliche Spannung verbirgt:",
+          "Die Zeile weist auf ein Verlangen nach Anonymität und Schutz vor Beobachtung hin, als wolle man das wahre Chaos und die Verletzlichkeit hinter der Fassade verbergen.",
+          "Gleichzeitig suggeriert das Verbot der Kameras, dass das Geschehen zu komplex ist, um von außen erfasst zu werden – ein Hinweis auf die Unüberschaubarkeit des modernen Showbusiness und der Medienkultur.",
+          "Die wiederholte Aussage, dass „there’s always talent in the big room“, stellt die Idee des Raums als Ort unendlicher Kreativität dar, doch die ständige Wiederholung von „it’s alright“ wirkt fast wie ein Mantra, das die Hörer beruhigen soll, während sie ihre eigenen Probleme an der Tür zurücklassen.",
+          "So wird der „big room“ zu einem symbolischen Safe‑Space, in dem persönliche Sorgen ausgeblendet und gleichzeitig ein kollektives, aber flüchtiges Gemeinschaftsgefühl erzeugt wird, das jedoch stets von einer unterschwelligen Skepsis gegenüber Authentizität und Beobachtung durchdrungen ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Anrede und die scheinbar glamouröse, aber künstlich konstruierte Umgebung erzeugen ein Bild einer kollektiven Flucht aus dem Alltag."
+        ],
+        "positive_aspekte": [
+          "Betont konsequent das Motiv des „Safe‑Space“ und die Spannung zwischen öffentlicher Sichtbarkeit und privatem Raum.",
+          "Verknüpft mehrere Textstellen zu einer zusammenhängenden Kritik an Medienkultur."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein sehr hohes Maß an spekulativen (erfundenen) Aussagen (>70 % der Aussagen), wodurch die Halluzinations‑Scores einheitlich niedrig (1) sind. Die Tiefe ist ebenfalls ähnlich, da die meisten Punkte nur oberflächliche oder leicht differenzierte Interpretationen bieten (Score 2).",
+    "empfehlung": "Ein besserer Ansatz wäre, stärker an den konkreten Textzitaten zu bleiben und nur solche Interpretationen zu formulieren, die klar aus den wiederholten Phrasen und Bildmotiven ableitbar sind. Das reduziert erfundene Aussagen und erhöht sowohl die Faktentreue als auch die analytische Tiefe."
+  }
+}

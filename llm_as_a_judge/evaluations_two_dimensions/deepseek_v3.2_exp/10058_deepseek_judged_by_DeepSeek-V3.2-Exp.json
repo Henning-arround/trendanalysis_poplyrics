@@ -1,0 +1,90 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reise ins Unbekannte"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Lyrics",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ist von einer gewissen Düsterkeit und Verzweiflung geprägt"
+        ],
+        "positive_aspekte": [
+          "Gute Hervorhebung der Atmosphäre",
+          "Einige textbezogene Analysen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Lyrics",
+          "Textbezogene Interpretation mit Tiefgang"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Lyrics",
+          "Textbezogene Interpretation mit Tiefgang"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ist von einer gewissen Düsterkeit und Verzweiflung geprägt"
+        ],
+        "positive_aspekte": [
+          "Gute Hervorhebung der Atmosphäre",
+          "Einige textbezogene Analysen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3 und 4 zeigen eine hohe Konsistenz in der Qualität",
+    "empfehlung": "Die Ansätze von Interpretationen 3 und 4 sollten weiterverfolgt werden, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten."
+  }
+}

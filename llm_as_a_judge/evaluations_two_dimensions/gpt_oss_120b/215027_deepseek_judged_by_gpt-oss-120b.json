@@ -1,0 +1,104 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein euphorischer und optimistischer Beitrag zur Hymne der Liebe.",
+          "Insgesamt ist ... ein fröhlicher und optimistischer Song, der die Liebe als eine positive und lebensbejahende Kraft darstellt.",
+          "Der Songtext vermittelt eine Botschaft der Hoffnung und der Zuversicht, dass die Liebe alle Herausforderungen überwinden kann und ein erfülltes Leben ermöglicht."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich klar aus dem Songtext ableiten (z. B. die Beschreibung der ersten Zeilen, das Motiv von Sorgen und Versöhnung).",
+          "Wenig bis keine erfundenen Fakten – die Interpretation bleibt faktentreu."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein euphorischer und optimistischer Beitrag zur Hymne der Liebe.",
+          "Insgesamt ist ... ein fröhlicher und optimistischer Song, der die Liebe als eine positive und lebensbejahende Kraft darstellt.",
+          "Der Songtext vermittelt eine Botschaft der Hoffnung und der Zuversicht, dass die Liebe alle Herausforderungen überwinden kann und ein erfülltes Leben ermöglicht."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analysen (z. B. „Ich geh' wie auf Wolken…“ wird als Gefühlslage interpretiert).",
+          "Keine spekulativen biografischen Angaben – reine Textinterpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein euphorischer und optimistischer Beitrag zur Hymne der Liebe.",
+          "Insgesamt ist ... ein fröhlicher und optimistischer Song, der die Liebe als eine positive und lebensbejahende Kraft darstellt.",
+          "Der Songtext vermittelt eine Botschaft der Hoffnung und der Zuversicht, dass die Liebe alle Herausforderungen überwinden kann und ein erfülltes Leben ermöglicht."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, besonders bei den Zeilen zu Sorgen, Streit und Versöhnung.",
+          "Keine unbelegten historischen oder biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein euphorischer und optimistischer Beitrag zur Hymne der Liebe.",
+          "Der Song appelliert an die Zuhörer, sich dieser Vision ... anzuschließen.",
+          "Insgesamt vermittelt ... eine positive und aufmunternde Botschaft, die zum Träumen und zur Hoffnung auf eine bessere Zukunft einlädt."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Grundinterpretation um eine leicht erweiterte Sicht auf den gesellschaftlichen Aufruf des Refrains.",
+          "Alle Aussagen bleiben im Rahmen des Songtexts, keine erfundenen Fakten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein euphorischer und optimistischer Beitrag zur Hymne der Liebe.",
+          "Insgesamt ist ... ein fröhlicher und optimistischer Song, der die Liebe als eine positive und lebensbejahende Kraft darstellt.",
+          "Der Songtext vermittelt eine Botschaft der Hoffnung und der Zuversicht, dass die Liebe alle Herausforderungen überwinden kann und ein erfülltes Leben ermöglicht."
+        ],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Analyse der Strophen und des Refrains.",
+          "Keine spekulativen Angaben zu Genre, Produktion oder Künstlerbiografie."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich fast identisch, unterscheiden sich nur in wenigen zusätzlichen, aber ebenfalls textbasierten Formulierungen. Die Varianz ist gering, was auf ein hohes Maß an Wiederholung und damit auf Oberflächlichkeit in manchen Passagen hindeutet.",
+    "empfehlung": "Die Interpretationen sind faktentreu, jedoch größtenteils generisch. Für zukünftige Analysen sollte mehr Augenmerk auf differenzierte, textnahe Argumentation und das Aufzeigen von Mehrdeutigkeiten gelegt werden, um die Tiefe zu erhöhen."
+  }
+}

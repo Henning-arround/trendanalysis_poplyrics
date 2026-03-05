@@ -1,0 +1,98 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die letzte Zeile 'All aboard' ist ein bitterer Kommentar, der darauf hinweist, dass viele Menschen bereitwillig auf dieses Schiff der Narren steigen, ohne die Konsequenzen zu sehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an der kapitalistischen Gesellschaft und der Ausbeutung von Menschen und Ressourcen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt das Schiff als Symbol für eine Gesellschaft, die von Gier und Egoismus getrieben wird."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die letzte Zeile 'All aboard' ist ein bitterer Kommentar, der darauf hinweist, dass viele Menschen bereitwillig auf dieses Schiff der Narren steigen, ohne die Konsequenzen zu sehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an der kapitalistischen Gesellschaft und der Ausbeutung von Menschen und Ressourcen.",
+          "Die Menschen an Bord sind 'fools', die ihre eigene Zerstörung herbeiführen, indem sie sich von ihren dunklen Impulsen leiten lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt das Schiff als Symbol für eine Gesellschaft, die von Gier und Egoismus getrieben wird."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Joker und Narren' an Bord repräsentieren diejenigen, die die Kontrolle über die Gesellschaft übernommen haben und die Menschen manipulieren, um ihre eigenen Interessen zu verfolgen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt das Schiff als Symbol für eine Gesellschaft, die von Gier und Egoismus getrieben wird.",
+          "Der Refrain 'Save me, save me from tomorrow' ist ein Aufruf zur Rettung vor den Konsequenzen der eigenen Handlungen und der Zerstörung der Gesellschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Kreuze, die brennen' deuten auf eine Atmosphäre der Angst und der Unterdrückung hin."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt das Schiff als Symbol für eine Gesellschaft, die von Gier und Egoismus getrieben wird.",
+          "Der Sänger des Songs will nicht auf diesem Schiff mitfahren und fleht um Rettung vor den Konsequenzen, die morgen kommen werden."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die letzte Zeile 'All aboard' ist ein bitterer Kommentar, der darauf hinweist, dass viele Menschen bereitwillig auf dieses Schiff der Narren steigen, ohne die Konsequenzen zu sehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an der Gesellschaft und der menschlichen Natur, die uns auffordert, unsere Werte und Prioritäten zu überdenken."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt das Schiff als Symbol für eine Gesellschaft, die von Gier und Egoismus getrieben wird."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (3 und 4) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die Interpretationen 3 und 4 sind die besten, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigen. Sie beschreiben das Schiff als Symbol für eine Gesellschaft, die von Gier und Egoismus getrieben wird, und analysieren den Refrain und die Rolle des Sängers im Song."
+  }
+}

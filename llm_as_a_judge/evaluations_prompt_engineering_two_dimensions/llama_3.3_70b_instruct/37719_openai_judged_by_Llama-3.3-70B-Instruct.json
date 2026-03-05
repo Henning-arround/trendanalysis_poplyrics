@@ -1,0 +1,99 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz zu 'JC in the place' verankert die Gruppe in einer lokalen Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Werk ist ein Ausdruck jugendlicher Feierkultur"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen deklarativer Glückseligkeit und impliziter Flüchtigkeit des Moments"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'There ain’t no place I’d rather be' reflektiert ein post-modernes Begehren nach Authentizität"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein manifestierter Moment des Hedonismus"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambivalenz zwischen flüchtiger Ekstase und dem Wunsch nach dauerhafter Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung des gemeinsamen Erlebens reflektiert ein post-individualistisches Gemeinschaftsideal"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Stück ist ein Ausdruck der australischen Pop- und Dance-Szene"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen permanenter Glückseligkeit und der Ungewissheit des Moments"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Gemeinschaft verweist auf afro-amerikanische Tanztraditionen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Werk ist ein manifestes Feier- und Optimismus-Mantra"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen deklarativer Glückseligkeit und impliziter Flüchtigkeit des Moments"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Gegenüberstellung von 'we' und 'you' lässt eine latente Spannung zwischen kollektiver Zugehörigkeit und individueller Selbstbehauptung erkennen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Manifest und eine kritische Reflexion seiner eigenen Partykultur"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität zwischen der flüchtigen Partynacht und dem Anspruch, sie zum dauerhaften Lebensmotto zu erheben"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Spannung zwischen Glückseligkeit und Flüchtigkeit des Moments",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

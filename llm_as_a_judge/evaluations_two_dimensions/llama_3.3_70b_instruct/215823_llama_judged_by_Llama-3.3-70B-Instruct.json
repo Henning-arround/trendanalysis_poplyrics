@@ -1,0 +1,104 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Jugendkultur, die sich in Exzess und Dekadenz verliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine wilde und chaotische Party"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Beschreibung der Partyatmosphäre",
+          "Analyse der Warnung der Mutter"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorahnung und die Warnung, die er ignoriert hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Situation, in der die Freude und der Spaß in Chaos und Unbehagen umschlagen"
+        ],
+        "positive_aspekte": [
+          "Beschreibung der Überforderung des Protagonisten",
+          "Erwähnung der Rolle der Mutter"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung, dass er sich in einer Situation befindet, die nicht gut für ihn ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine wilde und chaotische Party"
+        ],
+        "positive_aspekte": [
+          "Analyse der Wiederholung des Refrains",
+          "Beschreibung der Atmosphäre der Party"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erkenntnis des Protagonisten, dass diese Art von Vergnügen nicht gesund und nicht nachhaltig ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Situation des Exzesses und der Dekadenz"
+        ],
+        "positive_aspekte": [
+          "Beschreibung der Szene",
+          "Erwähnung der Sehnsucht nach einem Ausweg"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung, dass diese Art von Vergnügen nicht gesund und nicht nachhaltig ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine wilde und chaotische Party"
+        ],
+        "positive_aspekte": [
+          "Beschreibung der Atmosphäre",
+          "Erwähnung der Warnung der Mutter"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Beschreibung der Partyatmosphäre und der Rolle der Mutter, aber variieren in der Tiefe der Analyse.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe, wie in Interpretation 1 und 3 zu sehen ist. Es ist wichtig, kreative Interpretationen zu vermeiden, die nicht auf dem Text basieren, und stattdessen die Ambivalenzen und Mehrdeutigkeiten im Text zu analysieren."
+  }
+}

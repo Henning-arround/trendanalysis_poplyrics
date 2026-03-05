@@ -1,0 +1,111 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1970, einer Zeit des sexuellen Befreiungs‑ und Frauenbewegungs‑Wandels, in der das offene Bekenntnis zu eigenen Bedürfnissen ... als subversiv galt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Anrede „boy“ fungiert sowohl als direkte Anrede als auch als Symbol für ein idealisiertes, jugendliches Liebesobjekt.",
+          "Gleichzeitig bleibt das Lied in einer traditionellen Liebeslyrik verhaftet, was die Ambivalenz zwischen neuem Selbstbewusstsein und klassischen Rollenmustern widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Textbezüge (Wiederholungen, Anaphern, Bildsprache).",
+          "Klare Analyse der strukturellen Wiederholungen und ihrer Wirkung.",
+          "Einbezug historischer Rahmenbedingungen, wenn auch spekulativ, zeigt Kontextbewusstsein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im historischen Kontext von 1970, einer Phase der sexuellen Befreiung und des Aufbruchs feministischer Selbstbestimmung, spiegelt das Lied die Zwiespältigkeit weiblicher Sexualität wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Bitte um ein baldiges Treffen bleibt jedoch ambivalent – sie kann als Ausdruck von Autonomie, aber auch als Bestätigung einer von außen auferlegten Erwartungshaltung gelesen werden, was die innere Zerrissenheit zwischen individueller Freiheit und gesellschaftlicher Rollenbindung verdeutlicht."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Verknüpfung von Textbeispielen mit interpretatorischen Aussagen.",
+          "Erkennt die Ambivalenz von „Wrong or right“ und deren mögliche Bedeutungen.",
+          "Stilistische Beobachtungen (Kindliche Wiederholungen, sensorische Bilder) sind gut belegt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im historischen Kontext von 1970, einer Phase zunehmender sexueller Befreiung und feministischer Selbstbestimmung, lässt sich das Lied als Spiegel einer neuen, aber noch ambivalenten Frauenrolle lesen: Dusty Springfields Stimme verkörpert einerseits das eigenständige Ausdrücken von Sehnsucht, andererseits bleibt das „boy“ als Objekt der Begierde in einer traditionellen, heteronormativen Konstellation verankert."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannungen zwischen individueller Autonomie, gesellschaftlichen Erwartungshaltungen und der Unbestimmtheit des Zusammentreffens eröffnen eine mehrschichtige Bedeutungsebene, in der das Lied sowohl als Liebesballade als auch als Reflexion über die Bedingungen von Nähe und Freiheit im Wandel der 1970er‑Jahre fungiert."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Bildsprache (Chills, Zeit‑Metapher, Parenthesen).",
+          "Klare Strukturierung von Wiederholungen und deren narrativer Wirkung.",
+          "Verknüpfung von Textmerkmalen mit einer möglichen gesellschaftlichen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im historischen Kontext von 1970, dem Höhepunkt der sexuellen Revolution und der wachsenden Frauenbewegung, reflektiert das Stück Dusty Springfields Position als weibliche Sängerin, die traditionelle Liebeslieder singt, aber zugleich ein eigenständiges Begehren artikuliert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die informelle Anrede „baby“ und das kollektive „We can get together“ verweisen auf die damals verbreitete Popkultur‑Sprache, die Intimität öffentlich macht, während die persistente Hoffnung … ein Bild von Unsicherheit und Abhängigkeit von männlicher Bestätigung zeichnet.",
+          "Diese Dualität – Befreiung im Ausdruck des Begehrens und gleichzeitige Verhaftung in einer romantischen Erwartungshaltung – bleibt ungelöst und eröffnet ein Feld von Widersprüchen, das das Lied kulturell ambivalent macht."
+        ],
+        "positive_aspekte": [
+          "Umfassende Textbeobachtungen (Wiederholungen, Anaphern, Metaphern).",
+          "Gute Differenzierung zwischen möglichen Bedeutungen von „Wrong or right“ und „boy“.",
+          "Verbindung von lyrischer Analyse mit einem breiteren kulturellen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1970 in einer Phase des sexuellen Befreiungs‑ und Frauenbewegungs‑Umbruchs entstanden, in der traditionelle Liebesideale hinterfragt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Anrede „boy“ und die Betonung von emotionaler Bedürftigkeit spiegeln einerseits das Fortbestehen klassischer Geschlechterrollen, andererseits die wachsende Sichtbarkeit weiblicher Subjektivität."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der strukturellen Wiederholungen und ihrer hypnotischen Wirkung.",
+          "Klare Herausarbeitung der Ambivalenz von „Wrong or right“ und der fehlenden narrativen Auflösung.",
+          "Verknüpfung von Textmerkmalen mit einer historischen Perspektive, ohne zu stark zu spekulieren."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen eine konsistente Grundinterpretation (Verlangen, Unsicherheit, Wiederholungen). Unterschiede liegen hauptsächlich im Umfang spekulativer Kontextualisierungen; die Varianz ist gering, was auf eine relativ homogene Herangehensweise der LLMs hinweist.",
+    "empfehlung": "Die Interpretation 3 besticht durch das beste Verhältnis von textbasierter Substanz zu minimalen spekulativen Aussagen. Für zukünftige Bewertungen sollte der Fokus darauf liegen, spekulative historische Bezüge zu kennzeichnen und möglichst viele konkrete Textbelege zu nutzen, um Halluzinationen zu minimieren und die analytische Tiefe zu maximieren."
+  }
+}

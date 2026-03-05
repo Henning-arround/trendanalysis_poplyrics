@@ -1,0 +1,97 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entfaltet sich als ein romantisches Bekenntnis, das durch das Bild einer weltumspannenden Reise getragen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die romantische Zuneigung wird in ein kontrollierendes Verlangen verwandelt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen Freiheit und Eingrenzung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sprecher will die Welt für die Geliebte erobern, doch gleichzeitig will er, dass sie trotz aller Entdeckungen immer wieder zu ihm zurückkehrt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Mischung aus Abenteuerlust und Besitzanspruch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Besitzansprüche in einer Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song spiegelt die moderne Erfahrung von Liebe in einer vernetzten, aber zugleich entkoppelten Welt wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Verlangen, die geliebte Person überall zu sehen, während man gleichzeitig die Angst vor Verlust und das Bedürfnis nach Besitz im Hintergrund trägt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Dynamik von Liebe und Kontrolle."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stimme fungiert als unsichtbarer Anker, der die Freiheit des Reisenden mit einer Besitzansage verknüpft."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Angst vor Verlust verdeckt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die emotionale Bindung als unverrückbare Konstante."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song lässt sich als ein Spiegelbild moderner Beziehungen lesen, in denen das Streben nach individueller Entfaltung mit dem Wunsch nach exklusiver Zugehörigkeit kollidiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse der Textstruktur und -themen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt bieten sie eine gute Analyse des Songs.",
+    "empfehlung": "Die fünfte Interpretation bietet die tiefste und textbezogenste Analyse des Songs."
+  }
+}

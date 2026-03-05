@@ -1,0 +1,87 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "melancholisches Porträt einer lebenslangen, einseitigen Liebe"
+        ],
+        "positive_aspekte": [
+          "gute Analyse des Refrains und seiner Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "melancholische Reflexion über unerwiderte Liebe"
+        ],
+        "positive_aspekte": [
+          "gute Analyse der Struktur und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "melancholisches Porträt einer lebenslangen, einseitigen Liebe"
+        ],
+        "positive_aspekte": [
+          "gute Analyse des Refrains und seiner Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "sehr gute Analyse der Struktur und ihrer Bedeutung, textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "melancholische Reflexion über unerwiderte Liebe"
+        ],
+        "positive_aspekte": [
+          "gute Analyse der Struktur und ihrer Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in ihrer Bewertung",
+    "empfehlung": "Die vierte Interpretation zeigt eine sehr gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

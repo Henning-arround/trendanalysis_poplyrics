@@ -1,0 +1,107 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑2000‑Pop‑Rock‑Szene einordnen, in der Themen von Identitätskrise und emotionaler Entfremdung häufig verarbeitet wurden.",
+          "Der Verweis auf „a crime“ (Zeile 9) kann als Kritik an gesellschaftlichen Normen gelesen werden, die intime Beziehungen regulieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Gleichzeitig bleibt die Bedeutung offen: Ist das „Leaving“ ein Akt der Selbstbehauptung oder ein Fluchtversuch?"
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen leiten sich direkt aus den Songzeilen ab (z. B. Analyse von Metaphern, Wiederholungen und dem Leitmotiv).",
+          "Die Interpretation geht detailliert auf die Ambivalenz von Bildsprache und Struktur ein und bleibt dabei textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die Post‑2000‑Pop‑Rock‑Szene einordnen, in der Themen wie Identitätskrise und Selbst‑reflection häufig in fragmentierten, wiederholenden Strukturen verarbeitet wurden.",
+          "Die Ambiguitäten – etwa das gleichzeitige Verlangen nach „forgetting“ und „dreaming“ – spiegeln die kulturelle Spannung zwischen Individualisierung und dem Wunsch nach verbindlicher Gemeinschaft wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene Frage nach einem „reason“ bleibt unbeantwortet, was den Song zu einem Spiegel der zeitgenössischen Unsicherheit macht, in dem Widersprüche bewusst erhalten bleiben, um die Hörer*innen zur eigenen Bedeutungsfindung zu zwingen."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretatorischen Aussagen (z. B. „fire“ vs. „crash and burn“).",
+          "Erkenntnisreiche Betrachtung der Wiederholung und ihrer Wirkung auf die Stimmung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑2000‑Pop‑Rock‑Szene einordnen, in der Themen von Identitätskrise und Selbstbestimmung häufig in einer fragmentierten, digital geprägten Kultur thematisiert wurden.",
+          "Die Ambiguität zwischen „leaving“ (Zeile 8) und dem wiederholten „One more time, we raise the day“ (Zeile 10) spiegelt das gesellschaftliche Spannungsfeld zwischen dem Wunsch nach individueller Autonomie und dem kollektiven Drang nach gemeinsamer Erfahrung wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene Frage nach einem „reason“ bleibt unbeantwortet, was den Song zu einem Spiegel innerer Widersprüche macht, die im zeitgenössischen Jugendkult verbreitet sind."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse von Metaphern, Wiederholungen und dem Leitmotiv.",
+          "Gute Balance zwischen konkreter Befundung und Offenheit für Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑2000‑Pop‑Rock‑Szene einordnen, in der Themen von Identitätskrisen und emotionaler Selbstbestimmung häufig verarbeitet wurden.",
+          "Die Zeile „One more time, we raise the day“ (Zeile 10) kann als Hinweis auf die wiederholte Wiederholung von Beziehungsmustern verstanden werden, die in einer Kultur des schnellen Konsums von Gefühlen kritisiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene Frage nach einem „reason“ bleibt unbeantwortet, was den Song zu einem Spiegel der zeitgenössischen Unsicherheit macht, in der das Verlangen nach Sinn und das Bedürfnis nach Loslösung gleichzeitig existieren."
+        ],
+        "positive_aspekte": [
+          "Ausführliche Erläuterung der rhetorischen Funktion des Refrains.",
+          "Verknüpfung von Bildsprache mit emotionaler Wirkung (z. B. „tranceartige Klangschicht“)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑2000‑Pop‑Rock‑Szene einordnen, in der Themen von Identitätskrise und emotionaler Fragmentierung häufig waren.",
+          "Die wiederholte Forderung nach einem „reason“ spiegelt das gesellschaftliche Bedürfnis nach Sinn in einer Zeit digitaler Entfremdung wider, während die Ambiguitäten – etwa das gleichzeitige Verlangen nach Nähe und das Ankündigen des Weggangs („or I'm just leaving“) – die widersprüchliche Logik moderner Beziehungsmodelle offenbaren, ohne sie endgültig zu lösen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr präzise Analyse der Bildsprache (z. B. „eyes can lift me up“ vs. „smile can be so tough“).",
+          "Klare Darstellung, wie formale Mittel (Wiederholungen) die emotionale Zwickmühle verstärken."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen behandeln dieselben Kernthemen (Leitmotiv, Ambivalenz, Bildsprache) und zeigen ähnliche Anteile an erfundenen bzw. oberflächlichen Aussagen. Die Varianz liegt hauptsächlich im Umfang der kulturellen Kontextualisierungen, die bei allen etwa 20 % der Aussagen ausmachen.",
+    "empfehlung": "Interpretation 4 besticht durch die geringste Anzahl oberflächlicher Aussagen und eine besonders textnahe Analyse der Bild- und Formsprache. Für zukünftige Bewertungen sollte der Fokus auf klare Textbezüge gelegt werden, während spekulative historische oder kultursoziologische Einordnungen möglichst vermieden oder deutlich als Hypothese gekennzeichnet werden."
+  }
+}

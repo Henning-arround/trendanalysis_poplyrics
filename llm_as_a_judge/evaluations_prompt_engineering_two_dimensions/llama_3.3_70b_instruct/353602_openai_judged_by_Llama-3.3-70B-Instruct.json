@@ -1,0 +1,99 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die frühe 2000er-Jahre einordnen, eine Phase, in der Pop-Balladen vermehrt das Thema flüchtiger, digital vermittelter Beziehungen thematisierten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Imperative 'Take a moment', 'Throw me a lifeline', 'Grab me' und körperliche Metaphern materialisieren das Begehren nach körperlicher Nähe."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Imperative und Metaphern ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbolik von 'smile', 'breath' und 'silky skin' kann als Hinweis auf flüchtige, sensorische Anker in einer Zeit interpretiert werden, in der dauerhafte Bindungen als illusorisch empfunden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Gegenüberstellung von 'stay' und 'leave' lässt die zentrale Botschaft offen."
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der Ambivalenz zwischen Hoffnung und Resignation ist ansprechend."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 2000er-Jahre-Pop, das häufig von flüchtigen Liebesbeziehungen und der Angst vor dem Verlassenwerden geprägt war, spiegelt das Lied diese Tendenz wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'It's all an illusion' verweist auf die Diskrepanz zwischen Wunsch und Realität."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und Metaphern ist detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text reflektiert gesellschaftliche Tendenzen zu kurzlebigen Beziehungen und der gleichzeitigen Sehnsucht nach Beständigkeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Gegenüberstellung von 'stay' und 'leave' lässt die zentrale Botschaft offen."
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der Ambivalenz zwischen Hoffnung und Resignation ist ansprechend."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die frühe 2000er-Jahre einordnen, eine Phase, in der Pop-Balladen vermehrt Themen von flüchtiger Intimität und postmodernen Unsicherheiten behandelten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'It's all an illusion' stellt die gesamte narrative Konstruktion in Frage."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Wiederholungen ist detailliert und textbezogen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Wiederholungen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine intensive und leidenschaftliche Liebesbeziehung, die als eine Art von Zauber wahrgenommen wird."
+        ],
+        "positive_aspekte": [
+          "Konsistente Ableitung der Metapher „old black magic“ aus dem Text.",
+          "Klare Analyse der Wiederholung von „Down and down I go, Round and round I go“.",
+          "Erklärung der Hilflosigkeit des Erzählers anhand konkreter Textstellen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song die intensive und überwältigende Erfahrung der ersten Liebe, die als eine Art von Magie oder Zauber wahrgenommen wird."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Bildsprache (Blick, Strudel) mit den wiederholten Zeilen.",
+          "Erwähnt den „Seelenpartner“, was aus den Zeilen „You're the lover I've been waiting for“ abgeleitet ist.",
+          "Bezieht sich auf die emotionale Ekstase und den Kontrollverlust, die im Text impliziert werden."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song die intensive und unkontrollierbare Natur der Liebe und die Hilflosigkeit, die Menschen in ihren Bann zieht."
+        ],
+        "positive_aspekte": [
+          "Stetige Bezugnahme auf die Metapher der „old black magic“.",
+          "Erklärt die Wiederholung des Refrains als Symbol für emotionale Gefangenschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song die intensive und unkontrollierbare Anziehungskraft der Liebe und die Hilflosigkeit gegenüber diesen Gefühlen."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge: „icy fingers up and down my spine“, „the same old tingle that I feel inside“, „I should stay away but what can I do?“, „You're the lover I've been waiting for, the mate that fate had me created for“.",
+          "Verknüpft physische Empfindungen mit der metaphorischen „black magic“ und zeigt damit ein hohes Analyse‑niveau.",
+          "Erkennt die Schicksals‑Komponente im Text und diskutiert deren Implikationen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song die intensive und unkontrollierbare Anziehungskraft einer romantischen Beziehung und die Hilflosigkeit, die Menschen in solchen Situationen empfinden können."
+        ],
+        "positive_aspekte": [
+          "Konsistente Interpretation der Metapher als „uncontrollable power of love“.",
+          "Erklärt die Bildsprache der „Bann‑ und Verzauberungs“‑Metapher."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Liebe als Magie, Hilflosigkeit, Wiederholung des Refrains). Die Varianz liegt hauptsächlich im Detailgrad: Interpretation 4 liefert die tiefste, textnahe Analyse, während 2, 3 und 5 eher generisch bleiben.",
+    "empfehlung": "Für zukünftige Aufgaben sollte ein Ansatz gewählt werden, der wie Interpretation 4 konkrete Textstellen nutzt und deren Bedeutung differenziert ausarbeitet, ohne in reine Zusammenfassungen zu verfallen. Das liefert die optimale Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

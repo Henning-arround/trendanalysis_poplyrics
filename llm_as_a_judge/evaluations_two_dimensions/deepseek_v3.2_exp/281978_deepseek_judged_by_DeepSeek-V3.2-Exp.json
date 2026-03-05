@@ -1,0 +1,99 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text von 'You Know I Miss You' sind ein früher Ausdruck des R&B-Stils"
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt drückt der Song eine tiefe emotionale Sehnsucht und ein intensives Verlangen nach Liebe und Zuneigung aus"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'You know I miss you, don't you know I want to kiss you' unterstreicht die tiefe emotionale Verbindung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song spiegelt die universellen menschlichen Erfahrungen von Sehnsucht, Liebe und Verlangen wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sänger sehnt sich nach ihrer Liebe und Zuwendung"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'You know I miss you, don't you know I want to kiss you' unterstreicht die tiefe emotionale Verbindung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text von 'You Know I Miss You' sind ein früher Ausdruck des Rock 'n' Roll"
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt drückt der Song eine tiefe emotionale Sehnsucht und ein intensives Verlangen nach Liebe und Zuneigung aus"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'She says I need your loving and I need it very bad' zeigt, dass die angesprochene Person ebenfalls unter Sehnsucht leidet"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text von 'You Know I Miss You' sind ein früher Ausdruck des Rock 'n' Roll und zeigen bereits die charakteristischen Elemente von Fats Dominos Stil"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Refrain 'You know I miss you, don't you know I want to kiss you' unterstreicht die tiefe emotionale Verbindung",
+          "Die Zeile 'She says I need your loving and I need it very bad' zeigt, dass die angesprochene Person ebenfalls unter Sehnsucht leidet"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein klassisches Beispiel für die frühe Rock-and-Roll-Musik"
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'You Know I Miss You' ein Song, der die universellen menschlichen Emotionen von Sehnsucht, Verlangen und Liebe ausdrückt"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'You know I miss you, don't you know I want to kiss you' unterstreicht die tiefe emotionale Verbindung",
+          "Die Zeile 'She says I need your loving and I need it very bad' zeigt, dass die angesprochene Person ebenfalls unter Sehnsucht leidet"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse des Songtextes, jedoch mit Variationen in der Tiefe und den Halluzinationen",
+    "empfehlung": "Die vierte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz für weitere Analysen dienen"
+  }
+}

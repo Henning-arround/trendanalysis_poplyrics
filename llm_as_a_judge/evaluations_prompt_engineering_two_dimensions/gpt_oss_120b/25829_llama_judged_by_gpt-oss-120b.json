@@ -1,0 +1,129 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Ebenfalls wirft die Erwähnung von Michael Jackson und seinem skandalumwitterten Privatleben Fragen über die gesellschaftliche Moral und die Konstruktion von Idolbildern auf.",
+          "Diese Stimmung spiegelt möglicherweise die Unsicherheit und Verlorenheit einer Generation wider, die in einem kulturellen, historischen und gesellschaftlichen Kontext lebt, der von Veränderungen und Krisen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Doch bei näherer Betrachtung offenbaren sich Ambiguitäten und Spannungen, die diese Botschaft in Frage stellen.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole trägt zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene des Songs könnte somit in der Artikulation von Unsicherheiten und der Suche nach Orientierung in einer komplexen Welt liegen."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textbelege werden genannt (z. B. direkte Zitate aus dem Song).",
+          "Interpretationen gehen über reine Wiederholungen hinaus und bieten konkrete Bildanalysen (z. B. Metapher des Wassergehens).",
+          "Es wird ein Spannungsfeld zwischen Optimismus und Resignation aufgezeigt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Ebenfalls wirft die Erwähnung von Michael Jackson und seinem skandalumwitterten Privatleben Fragen über die gesellschaftliche Moral und die Konstruktion von Idolbildern auf.",
+          "Diese Stimmung spiegelt möglicherweise die Unsicherheit und Verlorenheit einer Generation wider, die in einem kulturellen, historischen und gesellschaftlichen Kontext lebt, der von Veränderungen und Krisen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Doch bei näherer Betrachtung offenbaren sich Ambiguitäten und Spannungen, die diese Botschaft in Frage stellen.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole trägt zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene des Songs könnte somit in der Artikulation von Unsicherheiten und der Suche nach Orientierung in einer komplexen Welt liegen."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretativen Aussagen.",
+          "Erkennt die Ambivalenz zwischen den optimistischen und resignativen Passagen.",
+          "Bezieht kulturelle Referenzen (Ginger Rogers, Fred Astaire, Michael Jackson) in die Analyse ein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Ebenfalls wirft die Erwähnung von Michael Jackson und seinem skandalumwitterten Privatleben Fragen über die gesellschaftliche Moral und die Konstruktion von Idolbildern auf.",
+          "Diese Stimmung spiegelt möglicherweise die Unsicherheit und Verlorenheit einer Generation wider, die in einem kulturellen, historischen und gesellschaftlichen Kontext lebt, der von Veränderungen und Krisen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Doch bei näherer Betrachtung offenbaren sich Ambiguitäten und Spannungen, die diese Botschaft in Frage stellen.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole trägt zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene des Songs könnte somit in der Artikulation von Unsicherheiten und der Suche nach Orientierung in einer komplexen Welt liegen."
+        ],
+        "positive_aspekte": [
+          "Starke Textbelege werden mehrfach verwendet.",
+          "Analytische Tiefe bei der Deutung der Metaphern (Wasser gehen, Perfektion).",
+          "Erkennt die Diskrepanz zwischen wiederholtem Refrain und resignierenden Zeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in den 1990er Jahren entstand, könnte auf eine allgemeine Unzufriedenheit und Verunsicherung in der Gesellschaft hinweisen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die Verwendung von literarischen Stilmitteln wie Metaphern und Symbolen ist im Song auffällig.",
+          "Die Ambiguität und Spannung zwischen diesen Bildern und der anfänglichen Aussage \"Es geht mir gut\" schaffen eine komplexe und vielschichtige Atmosphäre.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Resignation, Ironie und Selbstzweifel.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit den eigenen Grenzen und der Suche nach Sinn und Orientierung in einer komplexen Welt liegen."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche direkte Zitate aus dem Songtext werden genutzt.",
+          "Klare Interpretation der Zeile \"Und ich kann über's Wasser gehn\" als Metapher für Überwindung von Hindernissen.",
+          "Erkennt die mögliche Maskierung der wahren Befindlichkeit hinter dem Refrain."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Ebenfalls wirft die Erwähnung von Michael Jackson und seinem skandalumwitterten Privatleben Fragen über die gesellschaftliche Moral und die Konstruktion von Idolbildern auf.",
+          "Diese Stimmung spiegelt möglicherweise die Unsicherheit und Verlorenheit einer Generation wider, die in einem kulturellen, historischen und gesellschaftlichen Kontext lebt, der von Veränderungen und Krisen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Doch bei näherer Betrachtung offenbaren sich Ambiguitäten und Spannungen, die diese Botschaft in Frage stellen.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole trägt zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene des Songs könnte somit in der Artikulation von Unsicherheiten und der Suche nach Orientierung in einer komplexen Welt liegen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft mehrere Textstellen mit konkreten Interpretationen.",
+          "Behandelt die Widersprüchlichkeit zwischen Refrain und den resignierenden Versen.",
+          "Erkennt die kulturellen Referenzen als Hinweis auf ein Spannungsfeld zwischen Vergangenheit und Gegenwart."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Variation liegt hauptsächlich im Detailgrad und in wenigen erfundenen Kontextualisierungen.",
+    "empfehlung": "Interpretation 2 liefert die höchste faktische Treue (geringste Halluzinationsrate) und bleibt dabei klar strukturiert, obwohl die analytische Tiefe etwas geringer ist. Für zukünftige Bewertungen sollte ein ausgewogener Mix aus Textbelegen und tiefergehender, aber textgebundener Analyse angestrebt werden."
+  }
+}

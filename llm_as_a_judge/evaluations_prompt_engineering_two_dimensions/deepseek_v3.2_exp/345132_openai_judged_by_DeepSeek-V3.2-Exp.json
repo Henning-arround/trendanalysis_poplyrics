@@ -1,0 +1,114 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-modern",
+          "digitale Selbstdarstellung"
+        ],
+        "oberflächliche_aussagen": [
+          "Gefühl von Desorientierung",
+          "Spannung zwischen Sichtbarkeit und Unsichtbarkeit"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "romantische Loyalität",
+          "noir-Ästhetik"
+        ],
+        "oberflächliche_aussagen": [
+          "Ambiguität des lyrischen Ichs",
+          "Performativität und Selbstinszenierung"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kulturelle Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-pandemische Ära",
+          "kollektives Verlangen nach professioneller Intervention"
+        ],
+        "oberflächliche_aussagen": [
+          "Gefühl von Entfremdung",
+          "strukturelle Unsicherheit moderner Subjektivität"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-digitale Urbanität",
+          "Erschöpfung glorifiziert"
+        ],
+        "oberflächliche_aussagen": [
+          "ambivalente zeitgenössische Identitätskonfigurationen",
+          "Durchhaltevermögen"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kulturelle Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Entkörperung des Selbst",
+          "digital-mediatisierte Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Gefühl von Entkräftung",
+          "inneres Spannungsfeld zwischen Hilflosigkeit und Selbstüberwindung"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

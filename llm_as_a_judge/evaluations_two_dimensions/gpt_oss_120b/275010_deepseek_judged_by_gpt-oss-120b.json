@@ -1,0 +1,104 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die insistierende Bitte, nicht zu gehen, unterstreichen die Dringlichkeit und die Tiefe ihrer Emotionen.",
+          "Insgesamt ist \"Without Love\" ein herzlicher und emotionaler Song, der die Verletzlichkeit und die Abhängigkeit von der Liebe ausdrückt.",
+          "Die Sängerin zeigt, dass sie bereit ist, alles zu tun, um die Beziehung zu retten und ihren Partner nicht zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich direkt aus dem Songtext ableiten (8 von 11).",
+          "Keine biografischen, genre‑ oder historisch‑kontextuellen Angaben, die nicht im Text vorkommen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die insistierende Bitte, nicht zu gehen, unterstreichen die Dringlichkeit und die Tiefe ihrer Emotionen.",
+          "Insgesamt ist \"Without Love\" ein herzlicher und emotionaler Song, der die Verletzlichkeit und die Abhängigkeit von der Liebe ausdrückt.",
+          "Die Sängerin zeigt, dass sie bereit ist, alles zu tun, um die Beziehung zu retten und ihren Partner nicht zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse mit wenigen vagen Formulierungen.",
+          "Keine spekulativen biografischen oder stilistischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die insistierende Bitte, nicht zu gehen, unterstreichen die Dringlichkeit und die Tiefe ihrer Emotionen.",
+          "Insgesamt ist \"Without Love\" ein herzlicher und emotionaler Song, der die Verletzlichkeit und die Abhängigkeit von der Liebe ausdrückt.",
+          "Die Sängerin zeigt, dass sie bereit ist, alles zu tun, um die Beziehung zu retten und ihren Partner nicht zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Hoher Anteil belegbarer Aussagen (8/11).",
+          "Keine Halluzinationen im Sinne von erfundenen Fakten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die insistierende Bitte, nicht zu gehen, unterstreichen die Dringlichkeit und die Tiefe ihrer Emotionen.",
+          "Insgesamt ist \"Without Love\" ein herzlicher und emotionaler Song, der die Verletzlichkeit und die Abhängigkeit von der Liebe ausdrückt.",
+          "Die Sängerin zeigt, dass sie bereit ist, alles zu tun, um die Beziehung zu retten und ihren Partner nicht zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Alle gemachten Behauptungen lassen sich aus dem Text ableiten.",
+          "Nur wenige allgemeine, oberflächliche Formulierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die insistierende Bitte, nicht zu gehen, unterstreichen die Dringlichkeit und die Tiefe ihrer Emotionen.",
+          "Insgesamt ist \"Without Love\" ein herzlicher und emotionaler Song, der die Verletzlichkeit und die Abhängigkeit von der Liebe ausdrückt.",
+          "Die Sängerin zeigt, dass sie bereit ist, alles zu tun, um die Beziehung zu retten und ihren Partner nicht zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung, keine erfundenen Fakten.",
+          "Gute Balance zwischen konkreten Beobachtungen und leicht allgemeinen Schlussfolgerungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich identisch, daher keine Varianz; die Bewertung ist konsistent.",
+    "empfehlung": "Die vorliegenden Interpretationen sind faktentreu und relativ tiefgehend. Für zukünftige Aufgaben sollte darauf geachtet werden, die Anzahl vager, oberflächlicher Formulierungen zu reduzieren, um den Tiefen‑Score weiter zu erhöhen."
+  }
+}

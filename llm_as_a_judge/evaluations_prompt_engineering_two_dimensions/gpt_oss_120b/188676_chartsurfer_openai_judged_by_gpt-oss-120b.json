@@ -1,0 +1,122 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anweisung, keine Kameras zuzulassen … suggeriert ein Bewusstsein für Beobachtungs‑ und Kontrollmechanismen, lässt aber offen, ob das Verbot Schutz oder Zensur bedeutet – ein ambivalenter Hinweis auf die Sichtbarkeit von Subkulturen in der digitalen Ära.",
+          "Die Metapher des „big room“ kann als Symbol für das kollektive Gedächtnis der Musikszene gelesen werden …",
+          "Die wiederholte Phrase „It's alright“ wirkt als affektiver Anker, der sowohl Beruhigung als auch mögliche Verdrängung von Unbehagen transportiert.",
+          "Historisch lässt sich das Stück in den Kontext von Youngs Auseinandersetzung mit der Kommerzialisierung der Musikindustrie und der Überwachungskultur der 2010er‑Jahre einordnen.",
+          "Die Einladung an „People, welcome to the big room“ kann als kritische Reflexion …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert klar die wiederholten Textpassagen und verbindet sie mit einer strukturierten Analyse.",
+          "Erkennt die Spannung zwischen den Zeilen „Check your problems at the door“ und dem Verbot von Kameras."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Formel … fungiert als Leitmotiv, das einerseits ein Versprechen von Sicherheit vermittelt, andererseits durch die ständige Wiederholung eine fast zynische Oberflächlichkeit suggeriert.",
+          "Stilistisch nutzt Young … als hypnotisches Mittel, das den Hörer in einen Zustand der Akzeptanz führt.",
+          "Metaphorisch steht das „big room“ für kollektive Bühnen – etwa Clubs, Festivals oder digitale Plattformen – während die „cameras“ als Symbol für Überwachung und Selbstinszenierung fungieren.",
+          "Das Bild von „always talent in the big room“ erzeugt ein Bild von kontinuierlicher Kreativität, das jedoch im Kontrast zu der Anweisung … steht und damit die Spannung zwischen künstlerischer Freiheit und kommerzieller Erwartung offenbart.",
+          "Historisch lässt sich das Werk in die Ära post‑digitaler Medien (2015) einordnen …",
+          "Die wiederholte Zusicherung „It’s alright“ kann als kulturelle Reaktion auf gesellschaftliche Unsicherheiten gelesen werden …",
+          "Die offenen Widersprüche – Einladung versus Ausschluss, Sichtbarkeit versus Unsichtbarkeit – bleiben bewusst ungelöst …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Beobachtung der wiederholenden Struktur des Textes.",
+          "Verknüpft Textstellen mit einer übergeordneten Idee von Sicherheit vs. Überwachung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des „big room“ fungiert als Metapher für einen öffentlichen Raum, in dem das Sichtbare begrenzt und das Unsichtbare – etwa soziale Konflikte oder Machtstrukturen – bewusst ausgeblendet wird.",
+          "Die lyrische Wiederholung von „It’s alright“ wirkt wie ein Mantra, das sowohl beruhigend als auch erdrückend wirkt; es kann als affektive Stabilisierung, aber auch als Verdrängung gelesen werden.",
+          "Die Anweisung, Probleme an der Tür abzugeben … verstärkt die Idee eines kontrollierten, konsumorientierten Erlebnisses, das persönliche Belastungen ausblendet.",
+          "Gleichzeitig bleibt unklar, ob das „big room“ ein Ort echter Gemeinschaft … oder ein inszenierter Schauplatz ist, in dem Talent nur als Show‑Element dient.",
+          "Historisch lässt sich das Stück in die Ära der Post‑Digitalisierung einordnen, in der Bildproduktion und -überwachung allgegenwärtig sind …",
+          "Die Ambiguität zwischen Offenheit … und Ausschluss … erzeugt ein Spannungsfeld, das die Hörer*innen dazu zwingt, die scheinbare Sicherheit des „big room“ zu hinterfragen …",
+          "Diese offene Mehrdeutigkeit bleibt ein zentrales Merkmal des Songs."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Zuordnung von Textzeilen zu den analysierten Themen.",
+          "Erkennt die zentrale Rolle des Mantras „It’s alright“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Zusicherung … fungiert als mantraartige Vernebelung möglicher Konflikte …",
+          "Die Ambiguität liegt darin, dass das Verbot einer Kamera sowohl Freiheit von Kontrolle als auch das Verbergen von Geheimnissen suggeriert.",
+          "Die Wiederholung von „talent“ … deuten auf ein Ideal der künstlerischen Unsterblichkeit hin …",
+          "Diese Gegenüberstellung erzeugt ein Spannungsfeld zwischen dem Wunsch nach Flucht aus Alltagsbelastungen …",
+          "Historisch lässt sich das Stück in die Post‑Digital‑Ära einordnen, in der Fragen nach Authentizität, Überwachung und dem Wert von Live‑Performance zentral sind.",
+          "Die wiederholte Phrase „It's alright“ kann als ironischer Kommentar …",
+          "Die Textstruktur bleibt bewusst offen, lässt Widersprüche … bestehen, ohne sie aufzulösen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die Textwiederholungen mit einer möglichen ironischen Lesart.",
+          "Stellt die Spannung zwischen Sicherheit und Überwachung klar heraus."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Ambivalenz bleibt offen: Der Raum wird als Zufluchtsort präsentiert, doch das Verbot impliziert zugleich ein Misstrauen gegenüber Beobachtung und Dokumentation.",
+          "Stilistisch nutzt Young … die als hypnotisches Mantra wirken und ein Gefühl von Ritualität erzeugen.",
+          "Metaphorisch steht das „big room“ für ein kollektives Kultur‑ und Leistungsfeld … das zugleich die Erwartung von ständiger Produktivität widerspiegelt.",
+          "Die Bildsprache von „cameras“ … impliziert sowohl Überforderung als auch Schutz.",
+          "Historisch lässt sich das Stück in die Post‑Digital‑Ära einordnen, in der das „big room“ als Metapher für Plattformen … fungiert.",
+          "Die wiederholte Zusicherung „everything’s alright“ kann als ironischer Kommentar zur Selbstinszenierung von Wohlbefinden … gelesen werden.",
+          "Die offene Struktur des Textes lässt diese Bedeutungsfelder bewusst überlappen … ohne dass eine endgültige Auflösung angeboten wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erfasst die wiederholte Struktur und das Mantra‑Prinzip des Songs.",
+          "Betont die mögliche ironische Lesart des Refrains."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundbeobachtungen (Einleitung, Refrain, Kameraverbot, Talent‑Motiv) und unterscheiden sich kaum in ihrer Tiefe. Die Varianz ist gering; die meisten Aussagen sind spekulativ, wodurch die Konsistenz hoch, aber die inhaltliche Qualität niedrig ist.",
+    "empfehlung": "Ein Ansatz, der stärker an den konkreten Textzeilen bleibt und weniger unbegründete biografische oder historisch‑kulturelle Kontextualisierungen einbringt, liefert mehr analytische Tiefe. Interpretation 3 ist am ausgewogensten, weil sie zwar spekulativ bleibt, aber die meisten ihrer Aussagen direkt aus dem Text ableitet und nur wenige unnötige Erfindungen enthält."
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "song": "Pay The Man - The Offspring (1998)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Kritik an der kapitalistischen Gesellschaft und der Unterdrückung der Individuen durch die Machtstrukturen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen ... unterstreichen diese Kritik und die Sehnsucht nach Freiheit und Unabhängigkeit."
+        ],
+        "positive_aspekte": [
+          "Verknüpft konkrete Textstellen (Jester, In our souls, shadow and light) mit einer klaren Analyse der thematischen Spannung.",
+          "Erkennt und benennt die Ambiguität im Text, anstatt sie zu überdecken."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Kritik an der kapitalistischen Gesellschaft und der Unterdrückung der Individuen durch die Machtstrukturen.",
+          "Die Zeilen ... deuten auf die Notwendigkeit, sich der Herrschaft des \"Mannes\" zu widersetzen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen ... unterstreichen diese Kritik und die Sehnsucht nach Freiheit und Unabhängigkeit."
+        ],
+        "positive_aspekte": [
+          "Nutzt mehrere Textzitate (Jester, In our souls, shadow and light) zur Untermauerung seiner Interpretation.",
+          "Erwähnt die Wiederholung des Refrains als stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Kritik an der kapitalistischen Gesellschaft und der Unterdrückung der Individuen durch die Machtstrukturen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen ... deuten auf die Sehnsucht nach Freiheit und Unabhängigkeit hin, die jedoch durch die bestehenden Machtverhältnisse unterdrückt wird.",
+          "Die Zeilen ... deuten auf die Widersprüche und die Komplexität der menschlichen Existenz hin, die im Song thematisiert werden.",
+          "Durch die Verwendung von literarischen Stilmitteln ... gelingt es dem Song, eine tiefere Bedeutungsebene zu erschließen, die die Hörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Stellt die Symbolik von \"Mann\" und \"Jester\" klar heraus.",
+          "Betont die emotionale Wirkung der Wiederholung von \"In our souls\"."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Kritik an der kapitalistischen Gesellschaft und der Unterdrückung der Individuen durch die Machtstrukturen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen ... deuten auf die Sehnsucht nach Freiheit und Unabhängigkeit hin, die jedoch durch die bestehenden Machtverhältnisse unterdrückt wird.",
+          "Die Zeilen ... deuten auf die Widersprüche und die Komplexität der menschlichen Existenz hin, die im Song thematisiert werden."
+        ],
+        "positive_aspekte": [
+          "Analysiert die Ambiguität zwischen \"Licht und Schatten\" und der nicht aufgelösten Spannung.",
+          "Verbindet Textzitate mit einer kritischen Betrachtung von Macht und Freiheit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Kritik an der kapitalistischen Gesellschaft und der Unterdrückung der Individuen durch die Machtstrukturen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen ... unterstreichen diese Kritik und die Sehnsucht nach Freiheit und Unabhängigkeit."
+        ],
+        "positive_aspekte": [
+          "Betont die symbolische Ordnung des \"Mannes\" und die Rolle des \"Jesters\".",
+          "Hebt die nicht aufgelöste Spannung zwischen Unterwerfung und Freiheit hervor."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt nur in Formulierung und Detailtiefe. Die meisten Aussagen sind textbasiert, jedoch enthalten alle eine ähnliche Menge an spekulativen Kontextualisierungen.",
+    "empfehlung": "Interpretationen, die klar zwischen belegten Textbezügen und spekulativen Kontexten unterscheiden und gleichzeitig die im Text vorhandene Mehrdeutigkeit hervorheben (wie Interpretation 2), bieten die beste Balance aus Faktentreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass das Stück im frühen 2010er‑Jahre‑Pop ein Mix aus R&B‑Sensibilität und Hip‑Hop‑Flair ist, wird nicht aus dem Text abgeleitet."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt der Text wiederkehrende Metaphern und Symbole, um emotionale Zustände zu externalisieren.",
+          "Die wiederholte Betonung von Konflikt und Wiederkehr spiegelt ein postmodernes Narrativ wider, das keine lineare Liebesentwicklung verspricht.",
+          "Die Ambiguitäten – Liebe als Rettungsort und zugleich Quelle von Schmerz – bleiben bewusst ungelöst."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Textbezüge (Wiederholungen, Metaphern, Bildsprich­wort).",
+          "Klare Analyse der zyklischen Struktur und der Ambivalenz zwischen Hingabe und Zweifel."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert damit ein kulturelles Spannungsfeld zwischen dem Wunsch nach authentischer Intimität und dem Druck, Beziehungen öffentlich zu inszenieren."
+        ],
+        "positive_aspekte": [
+          "Umfassende, textbasierte Analyse von Metaphern, Wiederholungen und dem Mantra‑Charakter des Refrains.",
+          "Verknüpfung von Textdetails mit einem nachvollziehbaren kulturellen Kontext (Post‑Digital‑Ära)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle Kontext von 2013 als Phase intensiver Diskussion über Authentizität in der Pop‑R&B‑Szene wird nicht aus dem Text gezogen.",
+          "Die Aussage, dass das Stück das Spannungsfeld zwischen gesellschaftlichem Perfektionsdruck und einer Gegenbewegung verhandelt, ist spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "So bleibt das Lied in einem ambivalenten Feld zwischen romantischer Idealisierung und kritischer Selbstreflexion verankert."
+        ],
+        "positive_aspekte": [
+          "Gute Detailtreue bei der Nennung von Textstellen (z. B. „people talk too much“, „I might break sometimes“).",
+          "Erkenntnis der kontrastierenden Gefühle (mad vs. amazing)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese offenen Widersprüche ermöglichen multiple Deutungen, ohne eine endgültige Auflösung zu erzwingen."
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textzitaten mit einer Analyse der Wiederholungsstruktur.",
+          "Kulturelle Einordnung in das post‑digitale Zeitalter wird durch den konkreten Verweis auf „People talk too much“ gestützt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass der Song in die Ära der frühen 2010er‑Jahre Pop‑R&B eingebettet ist, wird nicht aus dem Text abgeleitet."
+        ],
+        "oberflächliche_aussagen": [
+          "Kulturell ist der Song in die Ära der frühen 2010er‑Jahre eingebettet, in der Pop‑R&B häufig Themen von emotionaler Authentizität und Selbstakzeptanz thematisierte.",
+          "Die Betonung von „fighting“ und „falling“ reflektiert ein post‑romantisches Narrativ, das das klassische Liebesideal dekonstruiert.",
+          "Diese Mehrdeutigkeit lässt den Song sowohl als Bekenntnis zu einer widerstandsfähigen Liebe als auch als Reflexion über die Unsicherheit zeitgenössischer Beziehungsmodelle fungieren."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge (Rosen, Dornen, Wiederholungen, Anrede „girl“).",
+          "Erkenntnis der paradoxen Aussage „We don’t gotta be perfect / You’re perfectly worth it for sure“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass alle Interpretationen den Text gut wiedergeben; die größten Unterschiede liegen in spekulativen kulturellen Kontexten. Halluzinationsraten variieren von 3‑5, Tiefe von 3‑4, was auf eine insgesamt konsistente, aber nicht einheitlich tiefe Analyse hindeutet.",
+    "empfehlung": "Interpretation 1 (und 2) bieten die beste Balance aus faktentreuer Textbeobachtung und analytischer Tiefe, ohne unnötige spekulative Kontextualisierungen. Für zukünftige Bewertungen sollte der Fokus auf textbasierte Evidenz bleiben und spekulative Kultur‑ oder Genre‑Einordnungen nur dann einfließen lassen, wenn sie klar aus dem Text ableitbar sind."
+  }
+}

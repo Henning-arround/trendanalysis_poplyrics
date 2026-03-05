@@ -1,0 +1,99 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin versucht, ihre Einsamkeit durch eine Art von Selbstentfremdung zu überwinden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'Easy' kann als ironische Kommentierung der Oberflächlichkeit und Leichtigkeit der digitalen Welt interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verbindung zwischen Einsamkeit und der Suche nach Ablenkung in einer digitalen Welt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin versucht, ihre Einsamkeit durch eine Art von Selbstentfremdung zu überwinden, indem sie ihr Herz, also ihre emotionale Verbindung zu sich selbst und anderen, zurückzieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die 'Screens' können hier als Symbol für die sozialen Medien oder andere digitale Plattformen verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verbindung zwischen Einsamkeit und der Suche nach Ablenkung in einer digitalen Welt."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Screens' können hier als Symbol für die vielfältigen Ablenkungsmöglichkeiten in der modernen Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'Easy' kann als ironische Kommentierung der Oberflächlichkeit und Leichtigkeit der modernen Lebensweise interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verbindung zwischen Einsamkeit und der Suche nach Ablenkung in einer digitalen Welt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin glaubt, dass dies eine einfache Lösung für ihr Problem sei."
+        ],
+        "oberflächliche_aussagen": [
+          "Die 'Screens' können hier als Symbol für die sozialen Medien und die digitale Welt verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verbindung zwischen Einsamkeit und der Suche nach Ablenkung in einer digitalen Welt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin glaubt, dass dies eine einfache Lösung für ihr Problem sei."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Throw out the lunch you pay for' kann als Symbol für die Oberflächlichkeit und den Konsumismus in unserer Gesellschaft verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verbindung zwischen Einsamkeit und der Suche nach Ablenkung in einer digitalen Welt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Thematisierung der Verbindung zwischen Einsamkeit und der Suche nach Ablenkung in einer digitalen Welt.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf die textbasierte Analyse konzentrieren und weniger auf allgemeine Aussagen und Spekulationen."
+  }
+}

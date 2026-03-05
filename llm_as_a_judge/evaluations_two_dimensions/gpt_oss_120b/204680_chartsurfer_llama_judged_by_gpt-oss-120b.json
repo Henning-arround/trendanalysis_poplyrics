@@ -1,0 +1,117 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein romantischer Walzer, der die intensive Sehnsucht und das Verlangen nach Exklusivität in einer Liebesbeziehung ausdrückt.",
+          "Die wiederholten Anrufungen ... unterstreichen die Tiefe seiner emotionalen Bindung und sein Bedürfnis nach Alleinigkeit mit seiner Geliebten.",
+          "Die Worte \"Never to part\" betonen die Unverbrüchlichkeit und Ewigkeit, die der Sänger dieser Beziehung beimisst.",
+          "Die musikalische Untermalung durch den Instrumentalbreak verstärkt die emotionale Intensität und schafft eine Atmosphäre der Intimität und des Vertrauens.",
+          "Die Wiederholung des Refrains ... wird zu einem eindringlichen Appell, der die Exklusivität und Hingabe in der Liebe betont.",
+          "Die Zeile \"till all our sweet music is gone\" suggeriert, dass diese Liebe ... von zeitlicher Begrenzung geprägt sind, was die Dringlichkeit und den Wert des gegenwärtigen Augenblicks unterstreicht.",
+          "Der Schluss ... wird zu einem flehlichen Bekenntnis, das die unerschütterliche Hingabe und die Sehnsucht nach einer für immer währenden Liebe zum Ausdruck bringt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend sehr konkrete Formulierungen, die den Text detailliert zu analysieren scheinen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein romantischer Walzer, der die intensive Sehnsucht und das Verlangen nach Exklusivität in einer Liebesbeziehung ausdrückt.",
+          "Die wiederholten Anrufungen ... unterstreichen die Besitzergreifung und die Forderung nach uneingeschränkter Hingabe.",
+          "Die Bitte, nie zu trennen, betont die Angst vor Verlust und die Sehnsucht nach ewiger Verbundenheit.",
+          "Die Wiederholung des Refrains ... verstärkt die Intensität der Emotionen und die Erwartung, dass diese Liebe für immer halten soll.",
+          "Der instrumentale Break bietet eine kurze Pause, bevor die emotionale Bitte erneut vorgetragen wird, was die Dringlichkeit und die Tiefe der Gefühle unterstreicht.",
+          "Die abschließende Wiederholung ... suggeriert, dass die Liebe und die Musik ... ein untrennbares Paar sind und dass ihre Liebe so lange halten soll, wie die Musik ... fortbesteht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Versucht, jede Textzeile mit einer interpretierenden Aussage zu verbinden, was zu einer relativ hohen inhaltlichen Dichte führt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein romantischer Walzer, der die intensive Sehnsucht und das Verlangen nach Exklusivität in einer Liebesbeziehung ausdrückt.",
+          "Die wiederholten Anrufungen ... unterstreichen die Tiefe seiner emotionalen Bindung und sein Bedürfnis nach Alleinigkeit mit seiner Geliebten.",
+          "Die Worte \"Never to part\" betonen die Unverbrüchlichkeit und Ewigkeit, die er für diese Beziehung ersehnt, während \"Love, love, love only me\" die absolute Hingabe und Treue einfordert, die er von seinem Partner erwartet.",
+          "Die musikalische Struktur, insbesondere der Instrumentalbreak, verstärkt die emotionale Intensität und schafft eine Atmosphäre der Vertrautheit und Intimität.",
+          "Die Wiederholung des Refrains ... suggeriert, dass die Zeit, die sie zusammen verbringen, kostbar und endlich ist, und dass sie jeden Moment miteinander genießen sollten.",
+          "Die Erwähnung, dass der Song Teil der Broadway‑Produktion \"Say Darling\" ist, mit Musik von Jule Styne, verweist auf die musikalische und theatralische Tradition, in der der Song verwurzelt ist, und unterstreicht seine klassische, romantische Natur."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht den historischen Kontext (Broadway‑Produktion) mit ein, was zusätzliche Tiefe liefert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein romantischer Walzer, der die intensive Sehnsucht und das Verlangen nach Exklusivität in einer Liebesbeziehung ausdrückt.",
+          "Die wiederholten Anrufungen, nur mit dem Sprecher zu tanzen und ihn als einzigen zu lieben, unterstreichen die Besitzergreifung und die Angst vor Verlust.",
+          "Die Nähe zum Partner wird als unerlässlich dargestellt, um die Liebe aufrechtzuerhalten und die Verbindung zu stärken.",
+          "Die Zeile \"Never to part\" betont die Unauflöslichkeit der Bindung und die Sehnsucht nach einer ewigen Liebe.",
+          "Die Wiederholung des Refrains und die instrumentale Pause verstärken die emotionale Intensität und die Verzweiflung, die Liebe möglicherweise zu verlieren.",
+          "Die Erwähnung, dass die Liebe \"all of our days from now on\" gelten soll, unterstreicht die Bedeutung der Exklusivität und die Erwartung, dass die Beziehung für immer halten wird.",
+          "Der Song endet mit der flehlichen Bitte, \"only with me\" zu tanzen, was die tiefe Sehnsucht und das Bedürfnis nach einer ungeteilten Liebe zum Ausdruck bringt.",
+          "Die Verbindung zur Broadway‑Produktion \"Say Darling\" und die Musik von Julie Styne verleihen dem Song eine zusätzliche Note von Theatralität und Romantik."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erwähnt konsequent das wiederkehrende Motiv von „exklusiver“ Liebe, was die Kohärenz der Analyse stärkt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein romantischer Walzer, der die intensive Sehnsucht und das Verlangen nach Exklusivität in einer Liebesbeziehung ausdrückt.",
+          "Die wiederholten Anrufungen, nur mit dem Sänger zu tanzen und ihn als einzigen nahe am Herzen zu haben, unterstreichen die Besitzergreifung und die Forderung nach uneingeschränkter Hingabe.",
+          "Die Bitte, nie zu trennen, betont die Angst vor Verlust und die Sehnsucht nach ewiger Verbundenheit.",
+          "Die Wiederholung des Refrains, in dem die Liebe nur zu einem einzigen gelten soll, für alle Tage von nun an, verstärkt die Intensität der Emotionen und die Erwartung, dass diese Liebe für immer halten soll.",
+          "Der instrumentale Break bietet eine kurze Pause, bevor die emotionale Bitte erneut vorgetragen wird, was die Dringlichkeit und die Tiefe der Gefühle unterstreicht.",
+          "Die abschließende Wiederholung, bis alle süße Musik verschwunden ist, suggeriert, dass die Liebe und die Musik, die sie begleitet, ein untrennbares Paar sind und dass ihre Liebe so lange halten soll, wie die Musik, die sie umgibt, fortbesteht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematischer Aufbau: jede Textzeile wird mit einer eigenen Analyse verknüpft."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen ein hohes Maß an Halluzination (≥85 % erfundene Aussagen). Die ersten beiden Interpretationen erreichen etwas mehr strukturelle Tiefe (Score 3), während die übrigen hauptsächlich oberflächliche, aber dennoch konkrete Spekulationen liefern (Score 2).",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus stärker auf nachweisbare Textbelege gelegt werden. Eine gute Interpretation verbindet Textzitate mit plausiblen, aber klar gekennzeichneten Interpretationen. Interpretation 1 (bzw. 2) ist derzeit am ausgewogensten, weil sie trotz Halluzinationen die meisten differenzierten, textbezogenen Beobachtungen liefert."
+  }
+}

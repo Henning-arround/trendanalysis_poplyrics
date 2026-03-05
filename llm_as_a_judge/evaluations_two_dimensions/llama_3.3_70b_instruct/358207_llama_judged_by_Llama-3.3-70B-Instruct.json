@@ -1,0 +1,99 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I could never let you go' zeigt, dass die Bindung so stark ist, dass ein Loslassen unmöglich erscheint."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Hymne an die unwiderrufliche Liebe und die unerschütterliche Verbindung zwischen zwei Seelen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und textbasierte Analyse der emotionalen Verbindung zwischen den beiden Personen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass die Person die erste und die letzte ist, unterstreicht die Bedeutung und Exklusivität dieser Beziehung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Choruses und die Variationen in den Texten verstärken die Idee, dass diese Beziehung von einer tiefen, vielleicht sogar mystischen Verbindung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Songtext und seine Struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You are the future from the past' deutet darauf hin, dass die Vergangenheit und die Gegenwart in dieser Person zusammenlaufen und dass sie die Schlüsselfigur für die Zukunft ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Gesamteindruck des Liedes ist einer tiefen Hingabe und einer unerschütterlichen Treue, die über alle Hindernisse und Widrigkeiten hinweghält."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der textlichen Elemente und ihrer Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Bedeutung dieser Beziehung und die Unmöglichkeit, sie je loszulassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Durchgängig wird die Idee vermittelt, dass diese Beziehung von einer tiefen, unerschütterlichen Verbundenheit geprägt ist, die über alle Hindernisse und Erklärungsversuche hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Darstellung der Songtext-Inhalte."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I could never let you go' zeigt, dass die Bindung so stark ist, dass ein Loslassen unmöglich erscheint."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Hymne an die unwiderrufliche Liebe und die unerschütterliche Treue, die zwei Menschen miteinander verbindet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende und textbasierte Analyse der emotionalen Verbindung und ihrer Implikationen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der textlichen Elemente und ihrer Bedeutung.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf einer detaillierten und textbasierten Analyse liegen, um die Tiefe und Komplexität des Songtexts vollständig zu erfassen."
+  }
+}

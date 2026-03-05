@@ -1,0 +1,100 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des Jahres 2016, geprägt von politischen Umbrüchen und einer wachsenden Angst vor Überwachung, lässt sich das Lied als Reflexion einer Generation verstehen, die zwischen Selbstbestimmung und Fremdbestimmung schwankt.",
+          "Die wiederholte Aufforderung, alles zu konsumieren, bevor es genommen wird, spiegelt eine konsumkritische Haltung wider, die zugleich von der Angst vor Verlust getrieben ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge (Wiederholungen, Metaphern, Bildsprache).",
+          "Klare Unterscheidung zwischen wörtlichen Textstellen und spekulativen Kontextualisierungen.",
+          "Durchgehend textbasierte Analyse, die Ambivalenzen herausarbeitet."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des Jahres 2016, geprägt von politischer Unsicherheit und einer wachsenden Diskussion über mentale Gesundheit, lässt sich das Lied als Reflexion kollektiver Ängste interpretieren.",
+          "Das „consume it all“ kann als Aufruf zum intensiven Erleben in einer Welt verstanden werden, die droht, individuelle Empfindungen zu ersticken.",
+          "Gleichzeitig bleibt die Identität der „sie“, die alles wegnehmen könnte, unbestimmt – ein Spiegel der diffus wahrgenommenen Bedrohungen von Medien, Politik oder inneren Dämonen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textanalyse und stilistischen Beobachtungen (Wiederholungen, Metaphern).",
+          "Erkennt die offene, nicht aufgelöste Spannung im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des Jahres 2016, geprägt von politischer Unsicherheit und digitaler Überwachung, lässt sich die Zeile „before they take it all away“ als Ausdruck einer Angst vor dem Verlust individueller Autonomie deuten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente, textnahe Analyse aller wiederkehrenden Motive.",
+          "Gute Balance zwischen konkreter Textinterpretation und Hinweis auf Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext von 2016, einer Phase intensiver politischer Polarisierung und digitaler Überwachung, lässt sich das Motiv des „vor dem Wegnehmen“ als Reaktion auf das Gefühl kollektiver Ohnmacht interpretieren.",
+          "Gleichzeitig spiegelt die Fokussierung auf persönliche Schmerz‑/Freundschafts‑Dynamiken die wachsende Diskussion um mentale Gesundheit in der Metal‑Subkultur wider."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Wiederholungen und deren narrativem Effekt.",
+          "Verknüpft Text mit zeitgenössischen gesellschaftlichen Themen, ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext von 2016, einer Phase intensiver politischer Polarisierung und digitaler Überwachung, lässt sich das Motiv des „consuming before they take it all away“ als Reflexion der Angst vor dem Verlust individueller Autonomie interpretieren.",
+          "Gleichzeitig spiegelt die wiederholte Sehnsucht nach einem unveränderten „day“ die Sehnsucht nach Stabilität in einer fragmentierten Gesellschaft wider."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare, textbasierte Erläuterungen zu Metaphern und Wiederholungen.",
+          "Erkennt die bewusste Offenheit des Songs für Mehrdeutigkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen behandeln die wiederholenden Elemente des Textes konsistent; Unterschiede liegen hauptsächlich im Umfang spekulativer Kontextualisierungen.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance aus Texttreue und analytischer Tiefe, da sie nur eine einzige spekulative Kontextualisierung enthält und gleichzeitig die strukturellen und thematischen Elemente des Songs gründlich beleuchtet."
+  }
+}

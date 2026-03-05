@@ -1,0 +1,102 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fragen wirken auf ihn wie ein Angriff und verstärken sein Unbehagen.",
+          "Die wiederholte Warnung seiner Mutter unterstreicht, dass er sich in einer Situation befindet, die er besser meiden sollte.",
+          "Die Wiederholung des Refrains betont, dass diese Art von Party nicht der richtige Weg zum Vergnügen ist, sondern zu Unbehagen und Problemen führt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Zahlreiche Textstellen werden exakt wiedergegeben (z. B. Whiskey‑Frage, Geruch von altem Parfüm, das Öffnen des Fensters).",
+          "Die Analyse bleibt eng am Wortlaut und vermeidet unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fragen wirken auf ihn wie ein Angriff.",
+          "Der Song porträtiert eine Jugendkultur, die sich in Exzess und Dekadenz verliert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung wird zu einem Refrain, der seine Verzweiflung und Überforderung unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Sehr viele konkrete Bildungen aus dem Text werden genannt (z. B. „stale perfume“, „cigarette you're smokin\", „girlfriend … passed out\").",
+          "Die Interpretation liefert ein zusammenhängendes Bild der Partyszene."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene ist ein Bild von Exzess und Dekadenz.",
+          "Die wiederholte Warnung wird zu einem Refrain, der seine Bedenken und Sehnsucht nach einem Ausweg ausdrückt.",
+          "Der Protagonist sucht nach einem anderen, gesünderen Weg, um Spaß zu haben."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Knappe, klare Formulierungen, die den Kern des Textes wiedergeben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Erwähnung der Warnung unterstreicht die Vorahnung, die er ignoriert hat.",
+          "Der Song porträtiert eine Situation, in der die versprochene Freude in Chaos und Unbehagen umschlägt, und der Protagonist sehnt sich nach der Sicherheit seiner Mutter."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Balance zwischen textnahen Beobachtungen und einer weiterführenden Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene ist ein Bild von Exzess und Dekadenz.",
+          "Die Wiederholung wird zu einem Refrain, der seine Bedenken und Sehnsucht nach einem Ausweg ausdrückt.",
+          "Die Wiederholung unterstreicht die Erkenntnis, dass diese Art von Vergnügen nicht gesund und nicht nachhaltig ist.",
+          "Der Song porträtiert eine Jugendkultur, die sich in Exzess und Rebellion verliert, und einen Protagonisten, der nach einem Weg sucht, dieser Welt zu entfliehen und sich selbst zu finden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Versucht, den Text in einen breiteren kulturellen Kontext zu stellen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen wiederholen stark dieselben Grundthesen (wilde Party, Überforderung, Mutterwarnung). Unterschiede liegen hauptsächlich im Umfang der spekulativen Zusatzbehauptungen – von kaum erfunden (Interpretation 1) bis stark erfunden (Interpretation 4/5).",
+    "empfehlung": "Interpretation 1 liefert die beste Balance aus Texttreue und analytischer Tiefe. Künftige Analysen sollten weiterhin konkrete Textbelege nutzen, aber spekulative kulturelle oder moralische Deutungen klar als Interpretation kennzeichnen, um Halluzinationsrate niedrig zu halten."
+  }
+}

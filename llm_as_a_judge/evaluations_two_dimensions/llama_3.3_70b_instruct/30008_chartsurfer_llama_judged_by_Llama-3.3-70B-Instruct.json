@@ -1,0 +1,89 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeilen unterstreicht die Intensität seiner Gefühle"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Handlung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerungen an ihre gemeinsame Kindheit vermitteln eine tiefe Zuneigung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Handlung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die plötzliche Wendung macht deutlich, dass seine Liebe unerwidert geblieben ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Handlung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Nachricht von Janes Tod und der letzte Kuss auf ihrem Grab sind ein herzzerreißender Abschluss"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Handlung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Anfangszeilen am Ende des Songs betont die Zeitlosigkeit der Gefühle"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Handlung des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und textgetreu, aber könnten tiefer in die Analyse eintauchen",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu erweitern, um mehr Tiefe und Analyse zu bieten, ohne die Texttreue zu verlassen"
+  }
+}

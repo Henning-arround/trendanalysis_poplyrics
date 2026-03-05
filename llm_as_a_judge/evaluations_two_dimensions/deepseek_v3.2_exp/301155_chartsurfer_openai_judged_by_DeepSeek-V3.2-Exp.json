@@ -1,0 +1,96 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählerin hat ein tiefes, unausgesprochenes Trauma.",
+          "Die Stimme der Sängerin schwankt zwischen Zärtlichkeit und kalter Entschlossenheit."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und der emotionalen Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Worte sind zugleich ein spöttisches Echo des früheren Versprechens."
+        ],
+        "oberflächliche_aussagen": [
+          "ein emotionales Porträt von Verlust, Zeit und unausgesprochener Gerechtigkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und der emotionalen Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die abschließende Drohung lässt das Bild einer unausgesprochenen Rache oder zumindest einer moralischen Abrechnung entstehen."
+        ],
+        "oberflächliche_aussagen": [
+          "ein melancholisches Bekenntnis an die Flüchtigkeit von Erinnerungen und an die unausweichliche Distanz, die zwischen einstigen Vertrauten entsteht."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und der emotionalen Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erzählerin hat eine unterschwellige Rachsucht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und der emotionalen Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Melodie verbindet eine leichte, fast beschwingte Instrumentierung mit dem schweren emotionalen Kern des Textes."
+        ],
+        "oberflächliche_aussagen": [
+          "ein melancholisches Gespräch zwischen zwei ehemaligen Liebenden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und der emotionalen Tiefe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songs.",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine sehr gute Analyse der Textstruktur und der emotionalen Tiefe liefert und gleichzeitig eine geringe Halluzinationsrate aufweist."
+  }
+}

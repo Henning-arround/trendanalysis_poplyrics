@@ -1,0 +1,98 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Postmoderne und die Dekonstruktion von Identitäten in der Kunst und Kultur an Bedeutung gewannen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Beschreibung einer Beziehung zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung des Songs offenbart eine Welt, in der die Grenzen zwischen Realität und Fantasie, zwischen Mensch und Natur, verwischen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Beziehung bestimmt"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Beziehung als unbeständig und veränderlich ist textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung des Songs offenbart eine Welt, in der die Grenzen zwischen Realität und Fantasie, zwischen Mensch und Natur, verwischen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Beziehung bestimmt"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Beziehung als unbeständig und veränderlich ist textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Postmoderne und die Dekonstruktion von Identitäten in der Kunst und Kultur an Bedeutung gewannen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Beschreibung einer Beziehung zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Beschreibung einer Beziehung zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen",
+          "Die Interpretation ist konsistent und texttreu"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1 und 4 sind sehr ähnlich, während die Interpretation 5 die beste Balance zwischen Textreue und analytischer Tiefe aufweist",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine gute Balance zwischen Textreue und analytischer Tiefe aufweist, wie die Interpretation 5"
+  }
+}

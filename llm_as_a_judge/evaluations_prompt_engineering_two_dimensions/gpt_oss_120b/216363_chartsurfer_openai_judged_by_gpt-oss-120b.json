@@ -1,0 +1,114 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück in den frühen 1960er‑Jahren zu verorten, einer Zeit, in der afro‑amerikanische Künstler neue emotionale Narrative in den Mainstream brachten.",
+          "Die Textpassage „what a fool that I used to be“ reflektiert ein Selbstbewusstsein, das zugleich Selbstkritik und Stolz vereint – ein Spiegelbild der wachsenden Selbstbestimmung schwarzer Künstler.",
+          "Die wiederholte Forderung nach Gegenseitigkeit kann als subtile Kritik an einseitigen Machtverhältnissen gelesen werden, bleibt jedoch offen, ob sie persönliche oder gesellschaftliche Ungleichheiten adressiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft persönliche Trennungserfahrung mit einer impliziten Reflexion über die Wandelbarkeit von Liebe in einer Ära des gesellschaftlichen Umbruchs."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus den wiederholten Textzeilen ab (z. B. Analyse von „Every road must have a turning“).",
+          "Die Interpretation erkennt und benennt die strukturelle Ambiguität des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet sich das Stück in den frühen 1960er Jahren, einer Phase des Bürgerrechtskampfes und des Aufbruchs neuer Liebesideale in der afro‑amerikanischen Musik.",
+          "Die Betonung von persönlicher Trauer und individueller Verantwortung spiegelt zugleich das kollektive Ringen nach Anerkennung wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Mehrdeutigkeit lässt das Lied sowohl als intime Ballade als auch als kulturelles Echo einer Zeit des Umbruchs fungieren."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textanalyse: Wiederholungen, Metaphern und syntaktische Besonderheiten werden konkret benannt.",
+          "Verknüpft Textbeobachtungen mit einer plausiblen, wenn auch spekulativen, historischen Einordnung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Literarisch nutzt der Text einfache Metaphern … als symbolische Marker für Authentizität und Erneuerung, während die wiederholte Struktur … ein narrativ‑zyklisches Muster erzeugt, das an traditionelle Blues‑Call‑and‑Response‑Formen erinnert.",
+          "Historisch entstand das Stück in den frühen 1960er‑Jahren, einer Phase intensiver Bürgerrechtsbewegungen und sich wandelnder Geschlechterrollen.",
+          "Das Wechselspiel von Tränen als Ausdruck von Schwäche und gleichzeitigem Machtanspruch spiegelt die gesellschaftliche Neuverhandlung von Männlichkeit wider, die in der Pop‑ und Soul‑Musik jener Zeit häufig thematisiert wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Gleichzeitig bleibt unklar, ob das „crying“ als kathartischer Akt oder als manipulative Taktik zu verstehen ist – ein Spannungsfeld, das den Song offen für multiple Deutungen lässt, ohne eine definitive Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Klare Gliederung von Bildsprache, Struktur und möglicher historischer Kontextualisierung.",
+          "Erkennt die zyklische Form des Textes und verbindet sie mit bekannten Blues‑Konventionen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1964 in einer Phase des Bürgerrechtskampfes … verortet; Ray Charles, als afro‑amerikanischer Künstler, verkörperte dabei die Verschmelzung von Blues‑Gefühl und kommerziellem Pop.",
+          "Das Motiv des wechselseitigen Weinens kann als Spiegel gesellschaftlicher Machtverschiebungen gelesen werden, in denen marginalisierte Gruppen ihre Leiden sichtbar machen und zugleich Forderungen nach Gegengerechtigkeit formulieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Damit entsteht ein Spannungsfeld zwischen Authentizität des Schmerzes und der Möglichkeit, dass das Weinen performativ ist.",
+          "Die Textzeilen lassen jedoch offen, ob das „cry“ als genuine Empathie oder als strategisches Mittel zur Selbstbehauptung zu verstehen ist – ein ungelöstes Spannungsfeld zwischen persönlicher Verletzlichkeit und performativem Protest."
+        ],
+        "positive_aspekte": [
+          "Systematische Analyse von Refrain, Metaphern und narrativer Fragmentierung.",
+          "Verknüpft Textmerkmale mit möglichen performativen Aspekten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Spannung spiegelt die breitere kulturelle Diskussion um Geschlechter‑ und Machtverhältnisse in den frühen 60er‑Jahren, in denen traditionelle männliche Dominanz zunehmend hinterfragt wurde.",
+          "Emotional erzeugt das wiederholte „cry“ eine affektive Schwere, die durch die leichte, fast spielerische Melodie von Ray Charles kontrastiert wird – ein typisches Merkmal des Soul‑Genres, das Schmerz in Tanzbarkeit verpackt.",
+          "Historisch lässt sich das Stück in den Kontext der Bürgerrechtsbewegung einordnen, in der das öffentliche Zeigen von Schwäche (insbesondere bei schwarzen Männern) als subversiv galt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … verknüpft persönliche Trennungserfahrung mit einer impliziten Reflexion über die Wandelbarkeit von Rollen in einer von Aufbruch und Unsicherheit geprägten Nachkriegs‑USA.",
+          "Die lyrische Ambiguität zwischen Selbstoffenbarung und performativem Anspruch lässt den Hörer zwischen Mitgefühl und kritischer Distanz schwanken, ohne eine eindeutige Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Gegenüberstellungen (z. B. „road“/„turning“, „newer heart“).",
+          "Verbindet Textanalyse mit einer plausiblen, wenn auch spekulativen, Geschlechter‑ und Kultur‑Deutung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass Interpretationen mit stärker textgebundener Analyse (z. B. #1) geringere Halluzinationsraten und höhere Tiefenwerte erreichen, während stärker kontextualisierte, aber spekulative Analysen höhere Halluzinationsraten aufweisen.",
+    "empfehlung": "Ein Ansatz, der primär aus dem Text abgeleitete Beobachtungen (Wortwahl, Wiederholungen, strukturelle Ambiguitäten) mit einer zurückhaltenden, gut belegten historischen Einordnung kombiniert, liefert die ausgewogenste Interpretation. Modelle sollten daher darauf trainiert werden, spekulative Kontextualisierungen zu kennzeichnen und zu begrenzen."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen, in denen die Protagonisten Menschen auf der Straße grüßen und zurückgewinkt werden, betonen die soziale Resonanz dieses Glücks: Liebe ist nicht nur ein privates, sondern ein öffentliches Ereignis, das andere anzieht und verbindet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Metaphern.",
+          "Die Erklärung der sozialen Resonanz des Glücks ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen, in denen die Protagonisten Menschen auf der Straße grüßen und zurückgewinkt werden, verdeutlichen ein soziales Miteinander, das von gegenseitiger Anerkennung und Freude getragen wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Text und seine Struktur.",
+          "Die Analyse der sozialen Aspekte ist interessant."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verpackt das Ideal einer allumfassenden, gemeinschaftlichen Glückseligkeit in einer leichtfüßigen, fast märchenhaften Bildsprache, die den Geist der frühen 70er-Jahre widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen über zukünftige Prüfungen, Sorgen und Streit verdeutlichen, dass das Ideal nicht naiv, sondern bewusst realistisch bleibt;"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die historische Kontextualisierung des Liedes.",
+          "Die Analyse der Bildsprache ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation zeichnet ein Bild von einer idealisierten, fast märchenhaften Beziehung, in der das Paar durch ein gemeinsames, feierliches Ereignis – das „Festival“ – die Welt neu definiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des Fliegens auf Wolken und das Gefühl, „riesengroß“ zu sein, symbolisiert das Aufblühen des Selbstwerts durch die Liebe;"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metaphern und ihrer Bedeutung.",
+          "Die Erklärung der sozialen Aspekte ist interessant."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation ist ein typisches Produkt der frühen 70er-Jahre, das die optimistische Sehnsucht nach Gemeinschaft und emotionaler Befreiung verkörpert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen „Wir grüßen die Menschen und sie winken zurück“ verdeutlichen den Wunsch nach gegenseitiger Anerkennung und sozialer Verbundenheit;"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die historische Kontextualisierung des Liedes.",
+          "Die Analyse der sozialen Aspekte ist interessant."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten bieten eine gute Analyse des Textes.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse des Textes und seiner Metaphern bietet."
+  }
+}

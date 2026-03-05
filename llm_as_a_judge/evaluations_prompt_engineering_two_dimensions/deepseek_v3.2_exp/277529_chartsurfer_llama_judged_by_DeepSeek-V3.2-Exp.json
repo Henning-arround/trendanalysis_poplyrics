@@ -1,0 +1,102 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes, das in den 1950er Jahren entstand, könnte auf die gesellschaftlichen Erwartungen und die Rolle der Frauen in dieser Zeit hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität und der Widerspruch zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität lassen Raum für Interpretationen und machen den Song zu einem faszinierenden Beispiel für die Komplexität der menschlichen Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Who's to blame, that someone came / To alternate his plan' deutlich",
+          "Die literarischen Stilmittel, wie die Metapher 'A heart of stone', unterstreichen die emotionale Verhärtung der Person"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes, das in den 1950er Jahren entstand, könnte auf die gesellschaftlichen Erwartungen und die Rolle der Frauen in dieser Zeit hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität und der Widerspruch zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität lassen Raum für Interpretationen und machen den Song zu einem faszinierenden Beispiel für die Komplexität der menschlichen Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Who's to blame, that someone came / To alternate his plan' deutlich",
+          "Die literarischen Stilmittel, wie die Metapher 'A heart of stone', unterstreichen die emotionale Verhärtung der Person"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes, das in den 1950er Jahren entstand, könnte auf die gesellschaftlichen Erwartungen und die Rolle der Frauen in dieser Zeit hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität und der Widerspruch zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität lassen Raum für Interpretationen und machen den Song zu einem faszinierenden Beispiel für die Komplexität der menschlichen Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Who's to blame, that someone came / To alternate his plan' deutlich",
+          "Die literarischen Stilmittel, wie die Metapher 'A heart of stone', unterstreichen die emotionale Verhärtung der Person"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Satan' und 'shame' lässt auf eine christlich geprägte Gesellschaft schließen"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die emotionale Wirkung des Liedes wird durch die Kontraste zwischen den positiven Bildern und den negativen Assoziationen erzeugt",
+          "Die Zeile 'Tell me, was it a man' deutet auf eine mögliche männliche Einflussnahme hin"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes, das in den 1950er Jahren entstand, könnte auf die gesellschaftlichen Erwartungen und die Rolle der Frauen in dieser Zeit hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität und der Widerspruch zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität lassen Raum für Interpretationen und machen den Song zu einem faszinierenden Beispiel für die Komplexität der menschlichen Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Liedes wird in den Zeilen 'Who's to blame, that someone came / To alternate his plan' deutlich",
+          "Die literarischen Stilmittel, wie die Metapher 'A heart of stone', unterstreichen die emotionale Verhärtung der Person"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2, 3 und 5 zeigen eine hohe Konsistenz in ihrer Argumentation, während Interpretation 4 eine etwas andere Richtung einschlägt",
+    "empfehlung": "Interpretation 4 zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Passage über die Schwaben als das Peinlichste am Schwabenladen ist nicht direkt interpretierbar"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein surreales und traumartiges Gebilde"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Atmosphäre und die Analyse der Symbolik von Cary Grant"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der Knochen als Baumaterial für ein Haus ist nicht ausreichend begründet"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist von einer gewissen Ironie und einem spielerischen Umgang mit Sprache geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Jugendstilkleider und des Rheins als Kulisse"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Deutung der Szene mit den Schwaben als Fremdkörper ist plausibel"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art Traumprotokoll interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verbindung von Natur und Kultur sowie die Betonung der Traumartigkeit des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von Cary Grant als Symbol für Schönheit oder Eleganz ist nicht ausreichend begründet"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist voller Referenzen auf die deutsche Kultur und Landschaft"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der idyllischen Morgenstunde und die Analyse der Verwendung von Jugendstilkleidern"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Deutung der Knochen als Baumaterial als Verbindung zwischen Leben und Tod ist plausibel"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist von einer gewissen Ironie und Selbstironie geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verbindung von Leben und Tod sowie die Betonung der Traumartigkeit des Textes"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Symbolik und der Traumartigkeit des Textes",
+    "empfehlung": "Die Interpretationen 3 und 5 bieten die besten Analysen, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweisen"
+  }
+}

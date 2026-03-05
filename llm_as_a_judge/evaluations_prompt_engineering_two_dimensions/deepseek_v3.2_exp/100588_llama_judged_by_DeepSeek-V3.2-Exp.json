@@ -1,0 +1,94 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach einem Grund, um weiterzumachen und zu träumen, könnte als symbolische Ordnung verstanden werden, die die menschliche Existenz und das Streben nach Bedeutung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach einem Grund, um weiterzumachen und zu träumen, könnte als symbolische Ordnung verstanden werden, die die menschliche Existenz und das Streben nach Bedeutung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach einem Grund, um weiterzumachen und zu träumen, könnte als symbolische Ordnung verstanden werden, die die menschliche Existenz und das Streben nach Bedeutung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach einem Grund, um weiterzumachen und zu träumen, könnte als symbolische Ordnung verstanden werden, die die menschliche Existenz und das Streben nach Bedeutung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach einem Grund, um weiterzumachen und zu träumen, könnte als symbolische Ordnung verstanden werden, die die menschliche Existenz und das Streben nach Bedeutung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung von Metaphern und Symbolen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen eine hohe Konsistenz in ihrer Struktur und Aussage",
+    "empfehlung": "Die Interpretationen zeigen eine gute Balance zwischen Textreue und analytischer Tiefe, könnten jedoch durch eine stärkere Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten profitieren"
+  }
+}

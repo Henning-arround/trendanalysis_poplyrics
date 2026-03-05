@@ -1,0 +1,113 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-digitale Ängste der 2010er-Jahre",
+          "globale Vernetzung gleichzeitig Freiheit und Entfremdung"
+        ],
+        "oberflächliche_aussagen": [
+          "paradoxes Verhältnis von Nähe und Entfremdung",
+          "Spannung zwischen dem Wunsch nach Beständigkeit und der gleichzeitigen Flucht in die Anonymität"
+        ],
+        "positive_aspekte": [
+          "Analyse der stilistischen Mittel wie fragmentarischen Metaphern und urbanen Symbolen",
+          "Interpretation der zentralen Botschaft als mehrdeutig"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-digitale Ära",
+          "Satelliten-TV, statische Radio-Frequenzen und die Möglichkeit, 'anywhere' zu sein"
+        ],
+        "oberflächliche_aussagen": [
+          "paradoxes Verhältnis von Nähe und Entfremdung",
+          "Spannung zwischen Flucht und Bindung"
+        ],
+        "positive_aspekte": [
+          "Analyse der stilistischen Mittel wie fragmentarischen Metaphern und räumlichen Sprüngen",
+          "Interpretation der zentralen Botschaft als offen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "digitale Kommunikation, Satellitenfernsehen und globale Mobilität neue Formen von Entfremdung schufen"
+        ],
+        "oberflächliche_aussagen": [
+          "paradoxes Verhältnis von Nähe und Entfremdung",
+          "Ambivalenz zwischen Handlung und Passivität"
+        ],
+        "positive_aspekte": [
+          "Sehr textbezogene Analyse",
+          "Interpretation der zentralen Botschaft als existenziell und mehrdeutig"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-digitale Ära",
+          "hypervernetzte Isolation"
+        ],
+        "oberflächliche_aussagen": [
+          "paradoxes Verhältnis von Nähe und Entfremdung",
+          "Spannung zwischen Anziehung und Ablehnung"
+        ],
+        "positive_aspekte": [
+          "Analyse der stilistischen Mittel wie bildhaften Metaphern",
+          "Interpretation der zentralen Botschaft als ambivalent"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Verbreitung von Satellitenfernsehen und Streaming",
+          "Oberflächlichkeit einer vernetzten Welt"
+        ],
+        "oberflächliche_aussagen": [
+          "paradoxes Verhältnis von Nähe und Distanz",
+          "Spannung zwischen Schutz und Selbstzerstörung"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Interpretation der zentralen Botschaft als mehrdeutig"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine konsistente Leistung in der Analyse der stilistischen Mittel und der zentralen Botschaft, jedoch variiert die Tiefe der Analyse und die Anzahl der halluzinierten Aussagen.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf die textbezogene Analyse konzentrieren und weniger auf allgemeine Aussagen und halluzinierte Details."
+  }
+}

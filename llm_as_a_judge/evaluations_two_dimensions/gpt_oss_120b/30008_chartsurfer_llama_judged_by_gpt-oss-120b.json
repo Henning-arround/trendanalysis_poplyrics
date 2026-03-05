@@ -1,0 +1,94 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Anfangszeilen am Ende des Songs betont die Zeitlosigkeit der Gefühle und die unvergängliche Erinnerung an die verlorene Liebe."
+        ],
+        "positive_aspekte": [
+          "Umfassende, textbasierte Zusammenfassung aller wesentlichen Handlungsstränge.",
+          "Klare Verknüpfung von wiederholten Zeilen mit den emotionalen Aussagen des Protagonisten.",
+          "Keine spekulativen biografischen oder stilistischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Anfangszeilen am Ende des Songs betont die Zeitlosigkeit der Gefühle und die unvergängliche Erinnerung an die verlorene Liebe."
+        ],
+        "positive_aspekte": [
+          "Präzise Ableitung der Geschichte von Kindheitsliebe bis zum Tod der Geliebten.",
+          "Gute Nutzung von Textzitaten zur Untermauerung der Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Anfangszeilen am Ende des Songs betont die Zeitlosigkeit der Gefühle und die unvergängliche Erinnerung an die verlorene Liebe."
+        ],
+        "positive_aspekte": [
+          "Konsistente Interpretation aller Textabschnitte.",
+          "Keine unbelegten historischen oder stilistischen Kontextualisierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Anfangszeilen am Ende des Songs betont die Zeitlosigkeit der Gefühle und die unvergängliche Erinnerung an die verlorene Liebe."
+        ],
+        "positive_aspekte": [
+          "Klare, nachvollziehbare Argumentationskette, die sich eng am Songtext orientiert."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Anfangszeilen am Ende des Songs betont die Zeitlosigkeit der Gefühle und die unvergängliche Erinnerung an die verlorene Liebe."
+        ],
+        "positive_aspekte": [
+          "Vollständige Abdeckung aller narrativen Elemente des Liedes.",
+          "Vermeidung von spekulativen oder nicht im Text belegten Aussagen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Sehr hoch – alle fünf Interpretationen enthalten exakt dieselben inhaltlichen Punkte, lediglich die Reihenfolge variiert.",
+    "empfehlung": "Die vorliegenden Interpretationen sind faktentreu und zeigen eine solide textbasierte Analyse. Für eine noch höhere Tiefe könnten zukünftige Modelle mehr Ambivalenz und mehrschichtige Bedeutungsaspekte (z. B. mögliche Ironie, narrative Struktur) explizit diskutieren, ohne dabei spekulative Fakten einzuführen."
+  }
+}

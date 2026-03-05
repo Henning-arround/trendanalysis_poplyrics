@@ -1,0 +1,109 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten Motive von Tanz, Waffen und grotesken Kostümen verweisen auf die Spannung zwischen Zeremonie und Gewalt, die in der damaligen Jugendkultur als Ausdruck von Befreiung und Selbstzerstörung zugleich verstanden wurde.",
+          "Der nervöse Banjo‑Spieler, der gleichzeitig ein Spiegelbild seiner selbst ist, verkörpert die Selbstreflexion des Künstlers, der seine eigene Performance beobachtet und zugleich manipuliert.",
+          "Das Bild von Capoeira‑Tänzchen, Sidesteps und Roundhouse‑Kicks fügt eine globale, rhythmische Dimension hinzu, die die kulturelle Durchmischung der 60er‑Jahre betont.",
+          "Die surrealen Referenzen zu Helmut Schmidt, Nazgûl‑Hunden und einem „Faceless Drummer“ verankern das Stück in einer Zeit, in der Politik, Popkultur und Fantasie untrennbar miteinander verwoben waren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Strukturierung der Analyse in einzelne Bild‑ und Themenbereiche.",
+          "Verwendung von konkreten Textzitaten (z. B. Tremor, Brennender Tennisballhaufen) als Anknüpfungspunkte."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text zu „Sie“ wirkt wie ein kaleidoskopisches Collage‑Bild, das die Ära der frühen 60er Jahre mit ihrer aufkeimenden Popkultur, dem Experimentierdrang der Jugend und einer unterschwelligen Kritik an gesellschaftlichen Konventionen verknüpft.",
+          "Der „Horrorclown“ und das „missglückte Halloween‑Outfit“ stellen die Maske des Schreckens dar, die in einer Zeit des Kalten Krieges als Metapher für die Angst vor dem Unbekannten dient.",
+          "Durch die wiederholte Gegenüberstellung von Gewalt (Kanone, Knarre) und ästhetischen Gesten (Tanz, Lip‑Stick, Pirouetten) entsteht ein Spannungsfeld zwischen Zerstörung und Schöpfung, das die Ambivalenz der Jugendkultur jener Jahre widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt lässt sich der Song als kritischer Kommentar auf die Oberflächlichkeit von Showbusiness und die gleichzeitige Sehnsucht nach authentischer Selbstdarstellung deuten.",
+          "Die ständige Wiederholung der Hookline fungiert dabei wie ein hypnotischer Mantra, das den Hörer zwingt, die scheinbare Banalität zu hinterfragen und die verborgenen, oft widersprüchlichen Impulse der damaligen Gesellschaft zu erkennen."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Bildsprache und möglicher gesellschaftlicher Bedeutung.",
+          "Erwähnung konkreter Textstellen (z. B. „Büste von Helmut Schmidt“, „Spermabehälter“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Mischung aus Tanz, Schusswaffen, Ritual und Parodie offenbart eine kritische Reflexion über die Kommodifizierung von Gewalt und Unterhaltung: Das Spektakel ist gleichzeitig verführerisch und entmenschlichend, ein Spiegel, in dem das Publikum seine eigene Faszination für das Groteske erkennt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse, fast jede Aussage lässt sich auf ein Bild aus dem Songtext zurückführen.",
+          "Wenig vage Allgemeinplätze, dafür konkrete Bilddeutungen (z. B. Tremor ↔ Angst, Lunte ↔ kreative Energie).",
+          "Erkennt die strukturelle Wiederholung der Hookline und deren Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten Bilder von „Tremor im Handgelenk“, „Rauchen“ und einem „nervösen Mann mit Banjo“ verweisen auf die angespannte Energie der Jugend, die in improvisierten Jam‑Sessions nach einem Ausweg aus der bürgerlichen Stagnation sucht.",
+          "Das „Horrorclowning“ und das „missglückte Halloween‑Outfit“ fungieren als groteske Verkleidungen, die das Spiel mit dem Tod und der Angst thematisieren, während die „bewaffnete Braut“ und die „Kanone“ die aufkommende Sexual‑ und Gewaltmetapher der damaligen Pop‑Kultur verkörpern."
+        ],
+        "oberflächliche_aussagen": [
+          "Die „Spiegelquartett‑Abba‑Revival“ und das „Faceless Drummer‑Nazgul“ verbinden das nostalgische Pop‑Referenzsystem mit einer dunklen, fast apokalyptischen Unterströmung, die das Unbehagen über die Oberflächlichkeit des Showbusiness offenbart.",
+          "Der Song bleibt damit ein surrealistischer Kommentar zur Fragmentierung der Identität, zur Sehnsucht nach Befreiung und zur paradoxen Schönheit einer Ära, die zwischen Konformität und radikaler Selbstdarstellung pendelt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die politischen Referenzen (Helmut‑Schmidt‑Büste) und verknüpft sie mit dem Gesamtkontext.",
+          "Bezieht die wiederholte Phrase „Lass’ sie tanzen“ ein und interpretiert deren doppelte Funktion."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das immer wiederkehrende Motiv des „unsichtbaren Seils“ und der „Strickleiter“ suggeriert ein unsichtbares Netz aus Erwartungen, das die Protagonisten gleichzeitig hält und befreit.",
+          "So wird der Song zu einer ironischen Allegorie auf die performative Konstruktion von Geschlecht, Macht und Identität, in der das „Sie“ sowohl Objekt als auch Subjekt einer endlosen, chaotischen Choreografie ist."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Aufschlüsselung der einzelnen Bildfelder (Tanzformen, Waffen, Pop‑Referenzen).",
+          "Klare Verbindung zwischen wiederholten Textpassagen und deren möglicher Bedeutung (z. B. innere Leere).",
+          "Wenig spekulative Fakten, fast alles lässt sich auf den vorliegenden Text zurückführen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass die Interpretationen 1 und 2 sehr texttreu und tiefgehend sind (hohe Halluzinations‑ und Tiefescores). Interpretation 3 enthält viele erfundene kulturhistorische Aussagen, wodurch ihr Score stark sinkt. Interpretation 4 liegt mittig, weil sie teils spekulativ, teils textbasiert ist. Interpretation 5 ist ebenfalls stark von erfundenen Kontexten (Kaltes Krieg‑Bezug, Jugend‑Ambivalenz) geprägt. Insgesamt variiert die Qualität stark – von nahezu faktentreu bis zu stark halluziniert.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man den Ansatz von Interpretation 1 (oder 2) übernehmen: enge Verankerung an den konkreten Bildmotiven, wenig spekulative Geschichtseinordnungen und gleichzeitig eine tiefgehende, aber textbasierte Interpretation der wiederholten Motive. Solche Analysen kombinieren Faktentreue mit interpretativer Tiefe und vermeiden unnötige Halluzinationen."
+  }
+}

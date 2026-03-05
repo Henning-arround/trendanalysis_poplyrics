@@ -1,0 +1,99 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Kontextualisierung des Songs könnte auf die Bedeutung von Musik als Ausdrucksmittel für emotionale Erfahrungen und die Suche nach Verbindung und Freiheit in der modernen Gesellschaft hinweisen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs kann als eine Art von melancholischer Sehnsucht oder Nostalgie beschrieben werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Metaphern und Symbole im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I see you up in the blue' und 'I see you out in the blue' deuten auf eine Art von Fernbeziehung oder Sehnsucht hin, die durch die Distanz und die Unendlichkeit des Raumes ('the blue') symbolisiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, eine Atmosphäre der Sehnsucht und des Verlangens zu erzeugen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die Struktur und die verwendeten literarischen Mittel im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität des Songs liegt in der Offenheit seiner Interpretation, die es dem Hörer ermöglicht, eigene Erfahrungen und Emotionen in den Text hineinzuprojizieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs kann als eine Art von melancholischer Sehnsucht oder Nostalgie beschrieben werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefe Analyse der Symbolik und Metaphern im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'blauen' Farbe kann als Symbol für die Unendlichkeit und die Freiheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs kann als melancholisch und sehnsüchtig beschrieben werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Kontraste zwischen der engen, persönlichen Umgebung und der weiten, offenen Welt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Zeile 'My baby blue' am Ende des Songs kann als eine Art von emotionaler Fixierung oder Besessenheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs kann als eine Art von melancholischer Sehnsucht oder Nostalgie beschrieben werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der emotionalen Komplexität und der Ambivalenzen im Song."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Symbolik und Metaphern, jedoch variieren sie in ihrer Tiefe und Halluzinationsrate.",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf die detaillierte Analyse der Symbolik und Metaphern konzentrieren und versuchen, die Ambivalenzen und Mehrdeutigkeiten im Songtext zu berücksichtigen."
+  }
+}

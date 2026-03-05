@@ -1,0 +1,118 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Heart of Stone\" von The Platters aus dem Jahr 1956 thematisiert die Veränderung einer Person durch äußere Einflüsse.",
+          "Der kulturelle und historische Kontext des Liedes, das in den 1950er Jahren entstand, könnte auf die gesellschaftlichen Erwartungen und die Rolle der Frauen in dieser Zeit hinweisen, die oft unter Druck standen, sich bestimmten Normen anzupassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Liedes wird durch die Kontraste zwischen den positiven Bildern … und der negativen Realität, \"A heart of stone\", erzeugt.",
+          "Diese Spannung zwischen den beiden Polen lässt eine tiefe emotionale Wirkung auf den Hörer entstehen.",
+          "Diese Ambiguität und der Widerspruch zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität lassen Raum für Interpretationen und machen den Song zu einem faszinierenden Beispiel für die Komplexität der menschlichen Erfahrung."
+        ],
+        "positive_aspekte": [
+          "Klare Identifikation von Schlüsselmetaphern (\"heart of stone\", \"Satan\")",
+          "Stichhaltige Verknüpfung von Textstellen mit einer übergeordneten Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Heart of Stone\" von The Platters aus dem Jahr 1956 thematisiert die Veränderung einer Person durch äußere Einflüsse.",
+          "Der kulturelle und historische Kontext des Liedes, das in den 1950er Jahren entstand, könnte auf die gesellschaftlichen Erwartungen und die Rolle der Frauen in dieser Zeit hinweisen, die oft unter Druck standen, sich bestimmten Normen anzupassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Liedes wird durch die Kontraste zwischen den positiven Bildern … und der negativen Realität, \"A heart of stone\", erzeugt.",
+          "Diese Spannung zwischen den beiden Polen lässt eine tiefe emotionale Wirkung auf den Hörer entstehen.",
+          "Diese Ambiguität und der Widerspruch zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität lassen Raum für Interpretationen und machen den Song zu einem faszinierenden Beispiel für die Komplexität der menschlichen Erfahrung."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge, insbesondere die wiederholte Analyse der Metapher \"heart of stone\"",
+          "Erkennt die Mehrdeutigkeit des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Liedes ist geprägt von den sozialen und moralischen Normen der 1950er Jahre.",
+          "Die Erwähnung von \"Satan\" und \"shame\" lässt auf eine christlich geprägte Gesellschaft schließen, in der bestimmte Verhaltensweisen als sündhaft angesehen wurden.",
+          "Die tiefere Bedeutungsebene des Liedes könnte in der Auseinandersetzung mit den gesellschaftlichen Erwartungen und dem individuellen Freiraum liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguitäten und Spannungen lassen darauf schließen, dass die Veränderung der Person nicht eindeutig zu bewerten ist."
+        ],
+        "positive_aspekte": [
+          "Bezieht mehrere Textzeilen ein (z. B. \"Painting shame beneath your frame\", \"Tell me, was it a man\").",
+          "Erkennt und diskutiert die Ambivalenz des Textes, anstatt ein monokausales Urteil zu fällen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Heart of Stone\" von The Platters aus dem Jahr 1956 thematisiert die Veränderung einer Person durch äußere Einflüsse.",
+          "Der kulturelle und historische Kontext des Liedes, das in den 1950er Jahren entstand, könnte auf die gesellschaftlichen Erwartungen und die Rolle der Frauen in dieser Zeit hinweisen, die oft unter Druck standen, sich bestimmten Normen anzupassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Liedes wird durch die Kontraste zwischen den positiven Bildern … und der negativen Realität, \"A heart of stone\", erzeugt.",
+          "Diese Spannung zwischen den beiden Polen lässt eine tiefe emotionale Wirkung auf den Hörer entstehen.",
+          "Diese Ambiguität und der Widerspruch zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität lassen Raum für Interpretationen und machen den Song zu einem faszinierenden Beispiel für die Komplexität der menschlichen Erfahrung."
+        ],
+        "positive_aspekte": [
+          "Stabile Analyse der zentralen Metapher \"heart of stone\"",
+          "Verknüpft Textstellen mit einer kohärenten Botschaft über Verantwortung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Heart of Stone\" von The Platters aus dem Jahr 1956 thematisiert die Veränderung einer Person durch äußere Einflüsse.",
+          "Der kulturelle und historische Kontext des Liedes, das in den 1950er Jahren entstand, könnte auf die gesellschaftlichen Erwartungen und die Rolle der Frauen in dieser Zeit hinweisen, die oft unter Druck standen, sich bestimmten Normen anzupassen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Liedes wird durch die Kontraste zwischen den positiven Bildern … und der negativen Realität, \"A heart of stone\", erzeugt.",
+          "Diese Spannung zwischen den beiden Polen lässt eine tiefe emotionale Wirkung auf den Hörer entstehen.",
+          "Diese Ambiguität und der Widerspruch zwischen der ursprünglichen Natur der Person und ihrer veränderten Realität lassen Raum für Interpretationen und machen den Song zu einem faszinierenden Beispiel für die Komplexität der menschlichen Erfahrung."
+        ],
+        "positive_aspekte": [
+          "Klare Struktur, wiederholte Bezugnahme auf zentrale Textstellen",
+          "Erkennt die zentrale Frage nach Schuld und Verantwortung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.0,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; nur Interpretation 4 bricht leicht aus, indem sie weitere Textzeilen einbezieht und die Ambivalenz stärker herausarbeitet.",
+    "empfehlung": "Interpretation 4 liefert die ausgewogenste Analyse: sie bleibt weitgehend texttreu (geringe Halluzinationsrate) und bietet zugleich eine substanzielle, mehrschichtige Deutung, die über reine Oberflächlichkeit hinausgeht."
+  }
+}

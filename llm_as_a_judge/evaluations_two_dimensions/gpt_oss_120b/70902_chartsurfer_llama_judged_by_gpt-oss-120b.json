@@ -1,0 +1,111 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Titels ... unterstreicht die Sehnsucht nach einem besseren Morgen, an dem alle Probleme und Sorgen der Vergangenheit vergessen sein werden.",
+          "Der Sänger ist überzeugt, dass er eines Tages in der Lage sein wird, die Welt mit einem Lächeln zu begrüßen, und dass all seine Träume von gestern zu Erinnerungen werden, die langsam verblassen.",
+          "Die Wiederholung des Refrains \"There'll be everything for us to do\" unterstreicht die Vorfreude auf diese gemeinsame Zukunft, in der alles möglich scheint.",
+          "Der Song kann als eine Art Gebet oder Wunsch nach einem besseren Leben interpretiert werden, in dem die Liebe und die Hoffnung die Oberhand gewinnen und alle Probleme überwinden."
+        ],
+        "positive_aspekte": [
+          "Verknüpft fast jede Aussage klar mit konkreten Textzeilen (z. B. „I can be the same as you“, „There’ll be everything for us to do“).",
+          "Wenig spekulative Biografie‑ oder Kontextinformationen – fast ausschließlich Text‑Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain ... betont die Vorstellung einer egalitären und harmonischen Gesellschaft, in der alle Menschen gleichberechtigt sind und unendliche Möglichkeiten haben, ihre Träume und Ziele zu verwirklichen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Titels ... unterstreicht die Sehnsucht nach einem besseren Morgen, an dem alle Probleme und Sorgen der Vergangenheit vergessen sein werden.",
+          "Der Sänger ist überzeugt, dass er dann die Welt mit einem Lächeln begrüßen kann und dass all seine Träume von gestern zu Erinnerungen werden, die langsam verblassen müssen, um Platz für die neuen Erfahrungen und Erlebnisse zu machen.",
+          "Die Zeile \"There'll be nothing left for me to say\" deutet darauf hin, dass der Sänger in dieser Zukunft keine Worte mehr finden wird, um seine Gefühle und Gedanken auszudrücken, da alles perfekt und harmonisch sein wird.",
+          "Die endlose Wiederholung des Titels am Ende des Liedes verstärkt die Hoffnung und das Verlangen nach dieser besseren Zukunft, die wie ein Leitmotiv durch den gesamten Song zieht."
+        ],
+        "positive_aspekte": [
+          "Gute Detailtiefe bei der Analyse einzelner Zeilen (z. B. „nothing will be left to destroy“, „both our dreams at last come true“).",
+          "Erkennt die wiederholende Struktur des Songs und verbindet sie mit dem thematischen Motiv der Hoffnung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Titels ... unterstreicht die Sehnsucht nach einem besseren Morgen, an dem alle Probleme und Sorgen der Vergangenheit vergessen sein werden.",
+          "Der Sänger ist überzeugt, dass er dann die Welt mit einem Lächeln begrüßen kann und dass all seine Träume von gestern zu Erinnerungen werden, die langsam verblassen müssen, um Platz für neue Erfahrungen zu machen.",
+          "Die Wiederholung des Refrains \"There'll be everything for us to do\" unterstreicht die Vorfreude auf diese gemeinsame Zukunft, in der alle Möglichkeiten offen stehen und keine Grenzen mehr existieren.",
+          "Der Song kann als eine Art Gebet ... Liebe und Hoffnung ... die Oberhand gewinnen."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textpassagen mit den jeweiligen Interpretationspunkten.",
+          "Keine unbegründeten biografischen oder historischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Titels ... unterstreicht die Sehnsucht nach einem besseren Morgen, an dem alle Probleme und Sorgen der Vergangenheit vergessen sein werden.",
+          "Der Sänger ist überzeugt, dass er dann die Welt mit einem Lächeln begrüßen kann und dass all seine Träume von gestern zu Erinnerungen werden, die langsam verblassen müssen, um Platz für neue Erfahrungen zu machen.",
+          "Die Wiederholung des Refrains \"There'll be everything for us to do\" unterstreicht die Vorfreude auf diese gemeinsame Zukunft, in der keine Grenzen und keine Hindernisse mehr existieren.",
+          "Der Song kann als eine Art Gebet ... Liebe und Hoffnung ... die Oberhand gewinnen und alle Probleme überwinden."
+        ],
+        "positive_aspekte": [
+          "Verwendet konkrete Textzitate, um die Interpretation zu stützen.",
+          "Erkennt die zentrale Botschaft von Hoffnung und gemeinsamer Zukunft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Titels ... unterstreicht die Sehnsucht nach einem besseren Morgen, an dem alle Probleme und Sorgen der Vergangenheit vergessen sein werden.",
+          "Der Sänger ist überzeugt, dass er dann die Welt mit einem Lächeln begrüßen kann und dass all seine Träume von gestern zu Erinnerungen werden, die langsam verblassen müssen, um Platz für neue Erfahrungen zu machen.",
+          "Die Aussage, dass dann alles zu tun sein wird, suggeriert eine Welt voller Möglichkeiten und Chancen, in der die Grenzen der Gegenwart überwunden sind.",
+          "Die ständige Wiederholung des Refrains \"One Day Tomorrow\" ... verstärken die Hoffnung und das Vertrauen in eine bessere Zukunft, in der Träume Realität werden und die Welt ein strahlender Ort ist, voller Freude und Möglichkeiten."
+        ],
+        "positive_aspekte": [
+          "Stellt die Gleichheitsbotschaft („I can be the same as you“) klar heraus.",
+          "Bezieht sich auf die wiederholende Struktur des Songs, um die thematische Kontinuität zu betonen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Optimismus, Gleichheit, Zukunftsvision). Die Unterschiede liegen hauptsächlich im Anteil spekulativer bzw. oberflächlicher Formulierungen. Die vier Interpretationen 2‑5 zeigen nahezu identische Texttreue (Halluzinations‑Score 5), während Interpretation 1 leicht mehr spekulative Gesellschafts‑Deutungen enthält (Score 4).",
+    "empfehlung": "Interpretationen 2‑5 sind gleichwertig in Faktentreue und bieten eine solide, wenn auch nicht besonders tiefgehende Analyse. Für zukünftige Aufgaben sollte man versuchen, mehr differenzierte, textbasierte Nuancen (z. B. Mehrdeutigkeit von „nothing will be left to destroy“) einzubringen, um den Tiefen‑Score über 3 zu heben, ohne neue Halluzinationen einzuführen."
+  }
+}

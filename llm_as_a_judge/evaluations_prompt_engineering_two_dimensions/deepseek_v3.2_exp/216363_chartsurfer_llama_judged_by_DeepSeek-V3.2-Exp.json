@@ -1,0 +1,97 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bürgerrechtsbewegung und die soziale Veränderung in den USA voranschritten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität der menschlichen Emotionen und der Dynamik in Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die textliche Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bürgerrechtsbewegung und die soziale Veränderung in den USA voranschritten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität und den Widerspruch zwischen der alten und der neuen Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die zentrale Botschaft der Vergeltung und des Wandels"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bürgerrechtsbewegung und die soziale Veränderung in den USA voranschritten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität der menschlichen Emotionen und der Dynamik in Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die textliche Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Komplexität menschlicher Emotionen und Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textbezogen und erwähnt die symbolische Ordnung der 'turning'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bürgerrechtsbewegung und die soziale Veränderung in den USA voranschritten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität der menschlichen Emotionen und der Dynamik in Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die textliche Tiefe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die vierte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Trennung war nicht nur äußerlich, sondern tief in das tägliche Bewusstsein eindringt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert den schmerzlichen Prozess, das eigene Selbstbild zu hinterfragen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Machtverhältnisse in der Beziehung ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Machtverhältnisse in der Beziehung verdeutlichen die Unfähigkeit des Gegenübers, Schmerz zu verursachen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des 'good at breaking my heart' wird als Metapher für die Fähigkeit, Liebe zu manipulieren und zu beenden, ohne Reue zu zeigen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der emotionalen Bindung und der Verstrickung ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen dem eigenen Wunsch nach Nähe und der offensichtlichen Distanz des Partners erzeugt ein Gefühl von Verrat"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied zeichnet ein Bild von emotionaler Blindheit, das erst im Rückblick als Illusion erkannt wird"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Unaussprechlichkeit der Emotionen ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Betonung des 'Guten' im Herzbrechen suggeriert, dass das Gegenüber das Ende der Beziehung fast schon routiniert vorhergesehen hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erinnerung an schlaflose Nächte und das mögliche Vorplanen des Abschieds verstärken das Bild einer Beziehung, die von Anfang an von einem unausweichlichen Ende überschattet war"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Selbstkritik und der Unaussprechlichkeit der Emotionen ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen dem eigenen Wunsch nach Nähe und der offensichtlichen Distanz des Partners erzeugt ein Gefühl von Verrat"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wirft die Frage auf, ob die nächtlichen Gespräche und die gemeinsamen Stunden nur Projektionen des eigenen Wunsches waren"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambivalenz in der Beziehung ist interessant"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt und die Machtverhältnisse in der Beziehung gut durchdacht sind"
+  }
+}

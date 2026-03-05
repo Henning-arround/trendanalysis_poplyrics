@@ -1,0 +1,107 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ein Spiegel der menschlichen Tendenz, nach Schmerz zu wachsen …",
+          "Das wiederholte Motiv des weinenden Gegenübers wird zum Symbol für das Gleichgewicht von Geben und Nehmen …",
+          "So wandelt der Song von einer einseitigen Trauer zu einer selbstbewussten, fast triumphalen Haltung …"
+        ],
+        "positive_aspekte": [
+          "Verknüpft fast jede Zeile des Textes mit einer konkreten Interpretation.",
+          "Erkennt und erklärt die Metapher „Every road must have a turning“.",
+          "Bietet eine nachvollziehbare Entwicklung vom Leiden zum Selbstbewusstsein."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ein Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung.",
+          "Diese Selbstreflexion wirkt zugleich als Trost und als subtile Warnung …",
+          "Der Song bleibt damit ein Spiegel der menschlichen Tendenz, nach Schmerz zu wachsen …"
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textzeilen mit interpretativen Aussagen.",
+          "Analysiert die Rollenvertauschung und die Symbolik der Straße.",
+          "Erklärt die Entwicklung von Naivität zu einer „wahreren“ Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ein Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung.",
+          "Durch die wiederholte Wendung „Well, I cried for you“ bleibt das Motiv des weinenden Ichs präsent …"
+        ],
+        "positive_aspekte": [
+          "Verbindet jede Textzeile mit einer konkreten, symbolischen Deutung.",
+          "Betont die Befreiung des Erzählers und die Verantwortung des Gegenübers.",
+          "Gibt dem Bild des „neuen Herzens“ eine klare Bedeutung im Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ein Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung.",
+          "Der Refrain kehrt das Rollenbild um … impliziert nicht nur Rache, sondern auch ein Bewusstsein für die Vergänglichkeit von Beziehungen …",
+          "Die Zeile … fungiert dabei als stiller Triumph …",
+          "Schließlich schließt das Lied … die Machtverschiebung …"
+        ],
+        "positive_aspekte": [
+          "Nutzt die Textzeilen, um die Idee von Rache und Ausgleich zu diskutieren.",
+          "Erkennt die Entwicklung von Naivität zu einer „wahreren“ Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ein Wechselspiel von Schuld, Reue und neu gewonnener Selbstbehauptung.",
+          "Der Refrain … fungiert als moralisches Gleichgewicht …",
+          "Insgesamt zeichnet der Text ein Bild von persönlichem Wachstum …"
+        ],
+        "positive_aspekte": [
+          "Erklärt die Metapher der Straße als Symbol für Wandel.",
+          "Betont das moralische Gleichgewicht im Rollenwechsel."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch stark im Detailgrad. Die Varianz liegt hauptsächlich im Anteil oberflächlicher Aussagen – Interpretationen 1,3 und 5 bieten mehr textbezogene Tiefe, während 2 und 4 stärker verallgemeinern.",
+    "empfehlung": "Interpretationen, die jede Textzeile konkret referenzieren und gleichzeitig deren mehrdeutige Symbolik beleuchten (z. B. Interpretation 5), erzielen die beste Balance zwischen Faktentreue und analytischer Tiefe. Künftige Modelle sollten darauf achten, vage Allgemeinplätze zu vermeiden und stattdessen gezielte, textbasierte Analysen zu liefern."
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine vielschichtige Analyse von Machtverhältnissen und Selbstwahrnehmung interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Verachtung und Mitleid, ...",
+          "Der Song kann als ein Kommentar zu den sozialen Dynamiken und Machtverhältnissen ... insbesondere im Hinblick auf Geschlechterrollen und Selbstwahrnehmung.",
+          "Die Sängerin positioniert sich als eine selbstbewusste und unabhängige Frau, die sich nicht von der angesprochenen Person beeinflussen lässt.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Auseinandersetzung mit den symbolischen Ordnungen und Machtstrukturen ... definiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Verweist konkret auf Textstellen (z. B. „You stalk in…“, „You're a lucky loser“, „Oh well I know…“).",
+          "Identifiziert mehrere literarische Stilmittel (Metaphern, Symbole, Bilder).",
+          "Erkennt eine klare Ablehnungshaltung im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine vielschichtige Analyse von Machtverhältnissen und Selbstwahrnehmung interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Verachtung und Mitleid, ...",
+          "Der Song kann als ein Kommentar zu den sozialen Dynamiken und Machtverhältnissen ... insbesondere im Hinblick auf Geschlechterrollen und Selbstwahrnehmung.",
+          "Die Sängerin positioniert sich als eine selbstbewusste und unabhängige Frau, die sich nicht von der angesprochenen Person beeinflussen lässt.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Auseinandersetzung mit den symbolischen Ordnungen und Machtstrukturen ... definiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich direkt auf wiederholte Textzitate.",
+          "Analysiert die Verwendung von Metaphern und Ironie im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine vielschichtige Analyse von Machtverhältnissen und Selbstwahrnehmung interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Verachtung und Mitleid, ...",
+          "Der Song kann als ein Kommentar zu den sozialen Dynamiken und Machtverhältnissen ... insbesondere im Hinblick auf Geschlechterrollen und Selbstwahrnehmung.",
+          "Die Sängerin positioniert sich als eine selbstbewusste und unabhängige Frau, die sich nicht von der angesprochenen Person beeinflussen lässt.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Auseinandersetzung mit den symbolischen Ordnungen und Machtstrukturen ... definiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Stellt klare Bezüge zu konkreten Songzeilen her.",
+          "Erkennt wiederkehrende Motive (z. B. Ablehnung, Ironie)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine vielschichtige Analyse von Machtverhältnissen und Selbstwahrnehmung interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Verachtung und Mitleid, ...",
+          "Der Song kann als ein Kommentar zu den sozialen Dynamiken und Machtverhältnissen ... insbesondere im Hinblick auf Geschlechterrollen und Selbstwahrnehmung.",
+          "Die Sängerin positioniert sich als eine selbstbewusste und unabhängige Frau, die sich nicht von der angesprochenen Person beeinflussen lässt.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Auseinandersetzung mit den symbolischen Ordnungen und Machtstrukturen ... definiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Nutzt konkrete Zitate aus dem Text zur Untermauerung seiner Punkte.",
+          "Identifiziert stilistische Mittel (Metaphern, Symbolik)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine vielschichtige Analyse von Machtverhältnissen und Selbstwahrnehmung interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Verachtung und Mitleid, ...",
+          "Der Song kann als ein Kommentar zu den sozialen Dynamiken und Machtverhältnissen ... insbesondere im Hinblick auf Geschlechterrollen und Selbstwahrnehmung.",
+          "Die Sängerin positioniert sich als eine selbstbewusste und unabhängige Frau, die sich nicht von der angesprochenen Person beeinflussen lässt.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Auseinandersetzung mit den symbolischen Ordnungen und Machtstrukturen ... definiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf wiederholte Textstellen.",
+          "Erkennt und benennt Ironie und Sarkasmus im Song."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Sehr hoch – alle fünf Interpretationen enthalten nahezu identische Argumentationsstrukturen und dieselbe Quote an erfundenen bzw. oberflächlichen Aussagen.",
+    "empfehlung": "Die vorliegenden Analysen zeigen ein gutes Gespür für Textzitate, bleiben jedoch stark spekulativ bei der Kontextualisierung (Machtverhältnisse, Geschlechterrollen usw.). Für zukünftige LLM‑Interpretationen sollte der Fokus stärker auf nachweisbare Textbelege gelegt und spekulative Soziokultur‑Deutungen reduziert werden, um Halluzinations‑Score zu verbessern und gleichzeitig die analytische Tiefe zu erhöhen."
+  }
+}

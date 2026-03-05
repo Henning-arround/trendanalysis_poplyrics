@@ -1,0 +1,118 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Widerspruch zwischen objektiver Zeitspanne und subjektiver Wahrnehmung verdeutlicht, wie stark emotionale Erlebnisse die Chronologie verzerren“ – eine Analyse, die im Text nicht vorkommt.",
+          "„Die Drohung, dass du irgendwann bezahlen wirst, erzeugt das Bild einer unausgesprochenen Rache…“ – die Vorstellung von Rache wird nicht explizit erwähnt.",
+          "„So wird das zentrale Motiv … zum Spiegel für verpasste Chancen, zerbrochene Versprechen und die bittere Erkenntnis, dass das Leben weiterzieht…“ – stark interpretativ, nicht belegbar."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein melancholisches Bekenntnis an die Flüchtigkeit von Erinnerungen und an die unausweichliche Distanz zwischen einstigen Vertrauten.",
+          "Der Refrain fungiert als ironischer Kommentar, der die Gleichgültigkeit des Schicksals gegenüber menschlichen Versprechen betont.",
+          "Die abschließende Drohung lässt das Bild einer moralischen Abrechnung entstehen, die durch die vergehende Zeit nicht erlischt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textpassagen (Begrüßung, Refrain, Drohung).",
+          "Verknüpft das Motiv des „Zeitvergehens“ mit den wiederholten Zeilen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„In Wandas charakteristischem Rockabilly‑Country‑Stil verbindet die Melodie eine leichte, fast beschwingte Instrumentierung mit dem schweren emotionalen Kern des Textes.“ – Genre‑ und Produktionsangaben fehlen im vorliegenden Text."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song eröffnet mit einer scheinbar lockeren Begrüßung, die sofort Distanz suggeriert.",
+          "Das wiederholte „Ain’t it funny how time slips away“ fungiert als melancholisches Mantra, das die Vergänglichkeit ironisch hinterfragt.",
+          "Die Drohung „you’re gonna pay“ baut Spannung zwischen Nostalgie und Rache auf.",
+          "Der Abschied ist offen und vage, was das Gefühl von unkontrollierbarer Zeit verstärkt."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen textnahen Beobachtungen und tiefergehender Analyse der Wiederholungen.",
+          "Erkennt die Ambivalenz zwischen freundlichem Smalltalk und unterschwelliger Vorwurf."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„subtile Rache, die im Rückblick erwacht“ – keine Anspielung im Text.",
+          "„Wandjas sonstiges rockabilly‑optimistisches Image“ – biografische Einschätzung ohne Beleg.",
+          "„Sanfte Country‑Melodie untermalt die resignierte Resignation“ – musikalische Beschreibung fehlt.",
+          "„Die Stimme schwankt zwischen Zärtlichkeit und kalter Entschlossenheit“ – spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein melancholisches Bekenntnis an die Flüchtigkeit von Erinnerungen.",
+          "Der Refrain fungiert als ironischer Kommentar zur Unvermeidlichkeit des Vergessens."
+        ],
+        "positive_aspekte": [
+          "Erwähnt zentrale Textstellen (Begrüßung, Versprechen, Drohung)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song lässt sich als melancholisches Gespräch zwischen zwei ehemaligen Liebenden verstehen, das von unterschwelliger Rachsucht durchzogen ist.",
+          "Die paradoxe Zeitwahrnehmung erzeugt ein Spannungsfeld zwischen Erinnerung und Gegenwart.",
+          "Der Refrain betont die Vergänglichkeit, aber auch die Unveränderlichkeit emotionaler Wunden.",
+          "Die Drohung „Someday you’re gonna pay“ verleiht dem Stück eine dunkle Unterströmung.",
+          "Insgesamt zeichnet der Song ein Bild von nostalgischer Resignation, das durch das Bewusstsein verstärkt wird, dass die Zeit weitergleitet, die Gefühle jedoch scharf bleiben."
+        ],
+        "positive_aspekte": [
+          "Bleibt strikt beim Text und vermeidet unbelegte biografische oder musikalische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die Zeile … verstärkt die paradoxe Mischung aus Überraschung und Resignation, weil die Zeit zwar unbemerkt vergeht, aber gleichzeitig die Möglichkeit einer Abrechnung … in die Ferne rückt.“ – spekulativ.",
+          "„Das Bild eines unverlässlichen Rückkehrens … unterstreicht die Unsicherheit und das Gefühl, dass das Schicksal nicht nach Plan verläuft.“ – nicht im Text belegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein melancholisches Bekenntnis an die Flüchtigkeit von Erinnerungen und die unvermeidliche Distanz zwischen einst engen Menschen.",
+          "Der Refrain fungiert als ironischer Kommentar, der die Gleichgültigkeit der Zeit gegenüber menschlichen Gefühlen betont.",
+          "Die Zeile „How’s your new love? I hope that she’s doin’ fine“ klingt zunächst freundlich, ist aber ein spöttisches Echo des früheren Versprechens.",
+          "Insgesamt zeichnet der Song ein Bild von verpassten Chancen, von Versprechen, die im Lauf der Zeit an Bedeutung verlieren, und von einer stillen, aber bestimmten Drohung."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Wiederholung des Refrains und die thematische Gegenüberstellung von Versprechen und neuer Liebe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark in ihrer Faktentreue; Interpretation 4 bleibt am textnahesten, während 1‑2 stark halluzinieren. Die Tiefe ist insgesamt moderat, wobei 5 die ausgewogenste Analyse liefert.",
+    "empfehlung": "Für zukünftige Bewertungen sollte der Fokus auf textbasierte Beobachtungen liegen und spekulative biografische oder musikalische Angaben vermieden werden. Interpretation 5 demonstriert, wie man Substanz (Tiefe) mit faktischer Genauigkeit (geringe Halluzination) kombiniert."
+  }
+}

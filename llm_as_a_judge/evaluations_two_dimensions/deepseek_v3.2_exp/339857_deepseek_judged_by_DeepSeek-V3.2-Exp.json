@@ -1,0 +1,98 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Aufruf zur Selbstbefreiung und zur Freude am Leben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Freiheit und die Befreiung von Hemmungen."
+        ],
+        "positive_aspekte": [
+          "Der Songtext ist voller Aufforderungen, sich zu bewegen und die Nacht zu genießen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song hat auch eine sexuelle Konnotation, wie die Zeile 'Get your fine ass on the floor' zeigt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und Feiern."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Breakout! Don't you stop it' ist ein direkter Aufruf, sich zu lösen und die Kontrolle zu verlieren."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Freiheit und die Befreiung von Selbstzweifeln und Hemmungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und Feiern."
+        ],
+        "positive_aspekte": [
+          "Der Text ist voller Selbstbewusstsein und Empowerment, die Sängerin fordert die Zuhörer auf, ihre Schuhe zu tragen, die Musik zu genießen und sich nicht um andere zu kümmern."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und Feiern."
+        ],
+        "positive_aspekte": [
+          "Der Text thematisiert die Freiheit und die Befreiung von Selbstzweifeln und Hemmungen.",
+          "Die Sängerin fordert die Zuhörer auf, ihre Schuhe - symbolisiert durch die 'Jimmy Choo's' - zu tragen und sich zu bewegen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song hat auch eine sexuelle Konnotation, insbesondere in den Zeilen 'Get your fine ass on the floor' und 'Time to work you Jimmy Choo's'."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und Feiern."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Breakout! Don't you stop it' ist ein direkter Aufruf, die Kontrolle zu verlieren und sich von der Musik treiben zu lassen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Analyse des Songs.",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und keine unbelegten Aussagen enthält."
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wirkt wie ein nächtlicher Streifzug durch ein Labyrinth aus flüchtigen Eindrücken, in dem das Verlangen nach einem Funken Leidenschaft das zentrale Motiv ist.",
+          "Die wiederholte Zeile … eröffnet ein Bild von Leere und Langeweile, das durch absurde Anweisungen … durchbrochen wird – ein Hinweis darauf, dass das Alltägliche erst durch spielerische Selbstinszenierung wieder Sinn erlangen kann.",
+          "Das Bild des verlorenen „Livers in Liverpool“ symbolisiert ein übermäßiges Ausleben, das in einer fremden Stadt endet, während die „Girls Go“ das Entgleiten von Beziehungen andeuten.",
+          "Die wiederholte Bitte „Show Me Baby Where It Hurts“ verwandelt Schmerz in ein Angebot zur Intimität, wobei das Kauen von Schneeflocken im „Desert“ die Suche nach Kälte und Trost in einer heißen, emotionalen Wüste widerspiegelt.",
+          "Orte wie „Alligator“ und „Elevator“ fungieren als surreale Treffpunkte, die das Unvorhersehbare des nächtlichen Abenteuers betonen.",
+          "Das Bild des „Licking Raindrops From Your Hat“ verbindet das Aufsaugen von Momenten mit einer kindlichen Neugier, während „Alison May Queen Of The Day“ eine temporäre Krönung einer flüchtigen Muse darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wirkt wie ein nächtlicher Streifzug durch ein Labyrinth aus flüchtigen Eindrücken, in dem das Verlangen nach einem Funken Leidenschaft das zentrale Motiv ist."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte, bildhafte Formulierungen zeigen ein hohes Maß an sprachlicher Kreativität.",
+          "Alle wichtigen Textstellen werden angesprochen, sodass kein Teil des Originals völlig ignoriert wird."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein wirrer Wortfluss, doch er lässt sich als Collage jugendlicher Sehnsüchte und urbaner Entfremdung deuten.",
+          "Die wiederholte Zeile etabliert einen Rahmen von Langeweile und Leere, der die Protagonisten in eine nächtliche Suche nach Ablenkung treibt.",
+          "Das Bild einer „Bra“ und das „Shine Your Shoes“ suggerieren ein bewusstes Aufräumen des Äußeren, ein Versuch, das eigene Erscheinungsbild zu polieren.",
+          "Der Verweis auf das „Lose My Liver In The Liverpool“ ist ein ironischer Hinweis auf exzessiven Alkoholkonsum, der in einer fremden Stadt zu einem Verlust der Kontrolle führt.",
+          "Das Bild der „Girls“ wird zu einer flüchtigen, fast schon surrealen Begleitung, die das Verlangen nach Nähe und gleichzeitig nach Distanz verkörpert.",
+          "„Kissing Snowflakes For Desert“ und „Licking Raindrops From Your Hat“ erzeugen ein Gefühl von Paradoxie, das die innere Zerrissenheit des Erzählers widerspiegelt.",
+          "„Alison May Queen Of The Day“ fungiert als Idealfigur, ein leuchtender Anker, während das wiederholte „Show Me Baby…“ den Wunsch nach Anleitung und Bestätigung ausdrückt.",
+          "Der abschließende Aufruf ist ein Versuch, die vorherige Verwirrung in ein stilisiertes, kontrolliertes Finale zu überführen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgängige Struktur: jede Textzeile wird kommentiert, was die Vollständigkeit erhöht.",
+          "Klare, nachvollziehbare Argumentationskette von Langeweile zu Stilfindung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein kaleidoskopischer Streifzug durch nächtliche Sinneseindrücke, bei dem die gewöhnlichen Grenzen von Raum und Zeit bewusst verwischt werden.",
+          "Der wiederkehrende Refrain suggeriert eine Leere, die zugleich als Freiraum für spontane, fast surreale Handlungen dient.",
+          "Das Anziehen einer „Bra“ und das Polieren der Schuhe werden zu ritualisierten Gesten, die das Alltägliche in ein spielerisches Ritual verwandeln.",
+          "Das Bild „I Lose My Liver In The Liverpool“ verknüpft körperliche Vergänglichkeit mit einer geografischen Metapher; das „Verlieren der Leber“ kann als Symbol für das Aufgeben von Hemmungen oder das Ausbluten von Emotionen in einer fremden, pulsierenden Stadt gelesen werden.",
+          "Die Zeilen verbinden gegensätzliche Elemente – Kälte und Wüste, Regen und Kopfbedeckung – und erzeugen ein Spannungsfeld zwischen Wunsch und Unmöglichkeit.",
+          "Die wiederholte Aufforderung fungiert als Suche nach einem verborgenen Kern, einem Ort, an dem das flüchtige Verlangen greifbar wird.",
+          "Figuren wie „Alison May Queen Of The Day“ fungieren als archetypische Heldinnen, die das nächtliche Spiel mit einer Aura von Glanz versehen.",
+          "Die abschließende Zeile verleiht dem Ganzen einen ironischen Abschluss: Trotz aller Absurditäten bleibt das Streben nach Stil und Selbstinszenierung bestehen, als ob das nächtliche Chaos selbst ein modisches Statement wäre.",
+          "Der Song zeichnet damit ein Bild von jugendlicher Restlosigkeit, in dem das Feuern von Ideen und das Ausleben von Impulsen zu einem flüchtigen, aber intensiven Lichtmoment verschmelzen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein kaleidoskopischer Streifzug durch nächtliche Sinneseindrücke, bei dem die gewöhnlichen Grenzen von Raum und Zeit bewusst verwischt werden."
+        ],
+        "positive_aspekte": [
+          "Umfassende Abdeckung aller Bildungen des Originaltexts.",
+          "Konsistente Verwendung von Metaphern, die den surrealen Charakter des Songs betonen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein kaleidoskopischer Streifzug durch nächtliche Sinneseindrücke, bei dem die gewöhnlichen Grenzen von Raum und Zeit bewusst verwischt werden.",
+          "Die wiederholte Zeile eröffnet ein Bild von Leere und Langeweile, das jedoch nicht als Passivität, sondern als offene Leinwand für spontane, fast surreale Aktionen dient.",
+          "Das „Chose A Bra And Then Shine Your Shoes“ kombiniert das Intime des Unterwäsche‑Wechsels mit der äußeren Pflege von Schuhen, was auf ein Spiel mit Kontrasten zwischen Verbergen und Sichtbarmachen hindeutet.",
+          "Die Zeile „I Lose My Liver In The Liverpool“ verknüpft ein körperliches Organ mit einer geografischen Metapher; das „Verlieren“ des eigenen Lebers könnte für das Aufgeben von Hemmungen oder das Aufsaugen von Alkohol stehen, während „Liverpool“ als Symbol für Musik, Sehnsucht und rauen Hafen fungiert.",
+          "Das anschließende „And the Girls Go“ lässt die weiblichen Figuren als flüchtige Begleiter erscheinen, die ebenso Teil des nächtlichen Flusses sind.",
+          "„Kissing Snowflakes For Desert“ und „Licking Raindrops From Your Hat“ setzen Naturphänomene in gegensätzliche Kontexte, wodurch ein Gefühl von Unmöglichkeit und gleichzeitigem Wunsch nach Berührung entsteht.",
+          "Die Nennung von „Alison May Queen Of The Day“ verleiht dem Geschehen eine fast mythische Figur, die das Alltägliche in ein königliches Licht taucht.",
+          "Schließlich suggeriert das wiederholte „Show Me Baby…“ ein Verlangen nach Führung und Offenbarung, während das abschließende „Let’s Get It Up In Style“ die gesamte nächtliche Odyssee in ein stilvolles, fast feierliches Finale überführt, das die Freiheit und das Spiel mit Identität feiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein kaleidoskopischer Streifzug durch nächtliche Sinneseindrücke, bei dem die gewöhnlichen Grenzen von Raum und Zeit bewusst verwischt werden."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen Bildanalyse und stilistischer Beschreibung.",
+          "Erkennt die wiederholende Struktur des Refrains und nutzt sie als interpretatives Gerüst."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt auf den ersten Blick wie ein wirrer Wortfluss, doch er lässt sich als Collage aus nächtlichen Sehnsüchten, urbanen Fluchtmomenten und einer spielerischen Subversion alltäglicher Bilder lesen.",
+          "Die wiederholte Zeile etabliert einen Rahmen von Langeweile und Leere, der zugleich als Ausgangspunkt für improvisierte Abenteuer dient.",
+          "Das Bild einer „Bra“ und das „Shine Your Shoes“ suggerieren ein bewusstes Aufräumen des Äußeren, ein Aufpolieren der eigenen Erscheinung, um dem tristen Samstagabend zu entfliehen.",
+          "Der Verweis auf das „Lose My Liver In The Liverpool“ ist ein ironischer Hinweis auf exzessiven Alkoholkonsum, der in einer fremden Stadt endet, während die „Girls Go“ das Aufbrechen der weiblichen Begleitung andeutet – ein Hinweis auf flüchtige Begegnungen, die im Rausch entstehen.",
+          "Die Zeilen „Show Me Baby Where It Hurts“ und „Kissing Snowflakes For Desert“ verbinden Schmerz und Zärtlichkeit mit paradoxen Naturbildern, wodurch ein Spannungsfeld zwischen Kälte und Trockenheit entsteht, das die innere Verwirrung des Erzählers widerspiegelt.",
+          "„See You In The Alligator“ und „Maybe In The Elevator“ verlagern die Begegnung in surreale Räume, die sowohl Gefahr als auch Enge symbolisieren.",
+          "Das wiederholte „Show Me Baby“ fungiert als Bitte um Führung, während das Bild des „Licking Raindrops From Your Hat“ eine kindliche, fast kindliche Neugier auf das Ungewöhnliche ausdrückt.",
+          "Der Name „Alison May Queen Of The Day“ erhebt eine Figur zum Tageskönig, was den Wunsch nach Anerkennung und einem Moment des Glanzes verdeutlicht.",
+          "Abschließend fordert das „Let’s Get It Up In Style“ ein stilvolles Aufsteigen aus der Monotonie, ein Aufbäumen gegen die Leere des Samstags, das im Song als Funke für ein neues, feuriges Selbstverständnis dient."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematischer Durchlauf aller Songzeilen, wodurch keine Textstelle unbeachtet bleibt.",
+          "Konsistente Verwendung von Begriffen wie „Surrealität“ und „Flucht“, die das Gesamtthema klar umreißen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": null,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein sehr hohes Maß an erfundenen (halluzinierten) Aussagen (>80 % jeder Analyse) und damit eine stark inkonsistente Texttreue. Die Tiefe ist durchweg niedrig‑bis‑mittel (Score 2), da die meisten Punkte spekulativ und nicht textbasiert sind.",
+    "empfehlung": "Für eine fundierte Interpretation sollten die Analysen stärker am konkreten Wortlaut des Songs verankert werden und weniger spekulative Bedeutungszuweisungen enthalten. Eine gute Herangehensweise ist, zunächst jede Zeile wörtlich zu paraphrasieren und anschließend mögliche Mehrdeutigkeiten zu diskutieren, ohne unbegründete biografische oder kulturelle Kontextualisierungen einzufügen."
+  }
+}

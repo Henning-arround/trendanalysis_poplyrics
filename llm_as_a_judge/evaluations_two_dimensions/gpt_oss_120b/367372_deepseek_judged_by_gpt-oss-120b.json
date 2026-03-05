@@ -1,0 +1,127 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein funky, souliger Aufruf zum Tanzen und zur sexuellen Befreiung.",
+          "Marvin Gaye selbst singt mit einer Stimme, die zwischen sinnlicher Verführung und spielerischer Koketterie schwankt.",
+          "Seine Performance ist ein Meisterstück der Soul‑Musik, das die Zuhörer in eine Welt der Freude und der Ekstase entführt.",
+          "Der Song ist ein Klassiker der Disco‑Ära und bleibt bis heute ein beliebter Party‑Hit, der die Menschen auffordert, sich zu bewegen und ihre Sorgen zu vergessen."
+        ],
+        "oberflächliche_aussagen": [
+          "Er lädt die Zuhörer ein, sich ihm anzuschließen und sich von der Musik treiben zu lassen.",
+          "Der Song ist ein Plädoyer für die Freiheit, sich selbst zu sein und seine Begierden auszuleben.",
+          "Der Refrain \"Got to give it up\" kann als Aufforderung interpretiert werden, sich von Hemmungen zu befreien und sich voll und ganz der Musik und dem Moment hinzugeben."
+        ],
+        "positive_aspekte": [
+          "Zwei klare, textbasierte Beobachtungen (Nervosität auf Partys, sexuelle Anspielungen) sind korrekt wiedergegeben.",
+          "Die Interpretation bleibt konsistent und wiederholt keine widersprüchlichen Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein funky, souliger Aufruf zum Tanzen und zur sexuellen Befreiung.",
+          "Der Song ist ein Meisterwerk der Disco‑ und Funk‑Musik der 1970er Jahre und zeigt Marvin Gayes Fähigkeit, Musik zu schaffen, die sowohl unterhaltsam als auch tiefgründig ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Er lädt die Zuhörer ein, sich ihm anzuschließen und sich von der Musik treiben zu lassen.",
+          "Der Song ist ein Plädoyer für die Freiheit, sich selbst zu sein und seine Begierden auszuleben.",
+          "Der Refrain \"Got to give it up\" kann als Aufforderung interpretiert werden, sich von Hemmungen zu befreien und sich voll und ganz der Musik und dem Moment hinzugeben.",
+          "Marvin Gaye schafft es, eine Atmosphäre der Freude und der Ekstase zu erzeugen, in der die Zuhörer sich frei fühlen, sich zu bewegen und ihre Emotionen auszudrücken.",
+          "Insgesamt ist das Lied ein Aufruf zum Tanzen, zum Feiern und zur Selbstbefreiung, der bis heute seine Wirkung nicht verloren hat."
+        ],
+        "positive_aspekte": [
+          "Zwei Aussagen („Nervosität auf Partys“ und „sexuelle Anspielungen“) sind klar aus dem Text ableitbar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein funky, souliger Aufruf zum Tanzen und zur sexuellen Befreiung.",
+          "Der Songtext ist auch eine Hommage an die Disco‑Ära und die Tanzkultur der 1970er Jahre."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain kann als Aufforderung zur sexuellen Hingabe interpretiert werden, aber auch als eine allgemeine Einladung, sich gehen zu lassen und die Kontrolle zu verlieren.",
+          "Der Song ist ein Plädoyer für die Freiheit, sich selbst zu sein und seine Bedürfnisse auszudrücken.",
+          "Die Wiederholung des Refrains und die ekstatischen Gesangslinien unterstreichen die emotionale Intensität und die körperliche Befreiung, die der Sänger empfindet.",
+          "Der Song ist ein Aufruf, sich von den Hemmungen zu befreien und sich der Musik und dem Moment hinzugeben.",
+          "Insgesamt ist das Lied ein Song, der die Zuhörer auffordert, sich zu bewegen, zu tanzen und sich selbst zu befreien."
+        ],
+        "positive_aspekte": [
+          "Mehrere konkrete Textzitate werden genannt (z. B. „groovy party“, „face to face“), was die Analyse stärker textgebunden macht.",
+          "Die Interpretation differenziert zwischen sexueller Hingabe und allgemeiner Befreiung, was Ambivalenz zeigt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein funky, souliger Aufruf zum Tanzen und zur sexuellen Befreiung.",
+          "Marvin Gaye selbst singt mit einer Stimme, die zwischen sinnlicher Verführung und spielerischer Koketterie schwankt.",
+          "Seine Performance ist ein Meisterstück der Soul‑Musik, das die Zuhörer in eine Welt der Freude und der Ekstase entführt.",
+          "Der Song ist ein Klassiker der Disco‑Ära und bleibt bis heute ein beliebter Party‑Hit, der die Menschen auffordert, sich zu bewegen und ihre Sorgen zu vergessen."
+        ],
+        "oberflächliche_aussagen": [
+          "Er lädt die Zuhörer ein, sich ihm anzuschließen und sich von der Musik treiben zu lassen.",
+          "Der Song ist ein Plädoyer für die Freiheit, sich selbst zu sein und seine Begierden auszuleben.",
+          "Der Refrain \"Got to give it up\" kann als Aufforderung interpretiert werden, sich von Hemmungen zu befreien und sich voll und ganz der Musik und dem Moment hinzugeben."
+        ],
+        "positive_aspekte": [
+          "Zwei textbasierte Beobachtungen (Nervosität, sexuelle Anspielungen) sind korrekt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein funky, souliger Aufruf zum Tanzen und zur sexuellen Befreiung.",
+          "Der Song ist ein Meisterwerk der Disco‑ und Funk‑Musik der 1970er Jahre."
+        ],
+        "oberflächliche_aussagen": [
+          "Er lädt die Zuhörer ein, sich ihm anzuschließen und sich von der Musik treiben zu lassen.",
+          "Der Song ist ein Plädoyer für die Freiheit, sich selbst zu sein und seine Begierden auszuleben.",
+          "Der Refrain \"Got to give it up\" kann als Aufforderung interpretiert werden, sich von Hemmungen zu befreien und sich voll und ganz der Musik und dem Moment hinzugeben.",
+          "Marvin Gaye schafft es, eine Atmosphäre der Freude und der Ekstase zu erzeugen, in der die Zuhörer sich frei fühlen, sich zu bewegen und ihre Emotionen auszudrücken.",
+          "Der Songtext ist ein sinnliches und emotionales Angebot, das die Zuhörer einlädt, sich auf die Musik und die Tanzfläche einzulassen.",
+          "Insgesamt ist das Lied ein Aufruf zum Tanzen, zum Feiern und zur Selbstbefreiung, der bis heute seine Wirkung nicht verloren hat."
+        ],
+        "positive_aspekte": [
+          "Zwei Aussagen („Nervosität auf Partys“ und „sexuelle Anspielungen“) sind klar aus dem Text ableitbar."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen fast dieselben Grundthesen; die Varianz ist gering, was auf ein starkes Copy‑Paste‑Verhalten hindeutet.",
+    "empfehlung": "Interpretation 5 liefert die ausgewogenste Balance zwischen Texttreue und analytischer Tiefe, da sie konkrete Textstellen einbindet und gleichzeitig mehrschichtige Bedeutungen auslotet. Zukünftige Modelle sollten stärker darauf achten, spekulative Genre‑ oder Biografie‑Behauptungen zu vermeiden und mehr textbasierte Evidenz für tiefere Analysen zu nutzen."
+  }
+}

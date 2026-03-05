@@ -1,0 +1,97 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Klage über die fehlenden Kartoffeln kann als Ausdruck einer tieferen Unzufriedenheit mit den gesellschaftlichen Erwartungen und der Verteilung von Rollen in der Beziehung gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick als eine humorvolle Klage über eine unzureichende Mahlzeit erscheint."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Wirkung des Songs und die Bedeutung von Mahlzeiten als gemeinschaftliche Ereignisse."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Kommentar zu den sozialen und geschlechtsspezifischen Rollen in den 1950er Jahren interpretiert werden, in denen der Mann als Ernährer und die Frau als Hausfrau und Köchin fungierten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'all that meat and no potatoes' unterstreicht die Vehemenz, mit der der Protagonist seine Unzufriedenheit ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1950er Jahren, einer Zeit des wirtschaftlichen Aufschwungs und der zunehmenden Konsumorientierung, kann der Song als Kommentar zu den veränderten Erwartungen und Ansprüchen in Beziehungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Mahlzeit wird hier zum Symbol für die Erfüllung von Erwartungen in einer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Bedeutung von Essen und gemeinsamer Mahlzeit in der afroamerikanischen Kultur."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Klage über die fehlenden Kartoffeln kann auch als Ausdruck einer tieferen Sehnsucht nach einer intakten und vollständigen Lebenswelt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick als eine humorvolle Klage über eine unzureichende Mahlzeit erscheint."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die mehrdeutige Natur des Songs, der zwischen Humor und Frustration schwankt, lässt eine tiefere Bedeutungsebene erkennen, in der es um die Aushandlung von Erwartungen und emotionalen Bedürfnissen in Beziehungen geht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Songs und berücksichtigt den kulturellen Kontext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt bieten sie eine gute Analyse des Songs.",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie eine detaillierte Analyse des Songs bietet und den kulturellen Kontext berücksichtigt."
+  }
+}

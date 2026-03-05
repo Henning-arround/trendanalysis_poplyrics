@@ -1,0 +1,99 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee einer kollektiven Sehnsucht nach Flucht aus dem Alltag"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'There is no other day' betont die Endlosigkeit einer inneren Schleife"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Zerrissenheit von Emily und ihre Sehnsucht nach Auflösung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung von Emily als Sinnbild einer Generation"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung der Endgültigkeit des gegenwärtigen Moments"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion über das Verlorensein in fremden Träumen und die Suche nach einem anderen Pfad"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass Emily nicht aus eigenem Inneren schöpft, sondern fremde Sehnsüchte absorbiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'You'll lose your mind and play' als Aufruf zu psychedelischer Ekstase"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Leere von Emily und ihre Flucht in fremde Träume"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vorstellung von Emily als einer Figur, die in einer Traumwelt gefangen ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung der Endlosschleife einer einzigen, unveränderlichen Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion über die Zerbrechlichkeit des Geistes in einer Welt aus Illusionen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass Emily nach einem Ausweg aus einer inneren Verwirrung sucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'Es gibt keinen anderen Tag' als Betonung der Endgültigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Verlorenheit von Emily und ihre Sehnsucht nach Flucht aus der Realität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der inneren Zerrissenheit und der Sehnsucht nach Flucht aus der Realität",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate"
+  }
+}

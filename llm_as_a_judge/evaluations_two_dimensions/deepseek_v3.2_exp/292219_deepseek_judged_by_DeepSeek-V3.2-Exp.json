@@ -1,0 +1,87 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'Hold a little tighter' kann als Aufruf zur Selbstreflexion und zur Wertschätzung von Beziehungen gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Der Song kann auch als eine Art Selbstgespräch interpretiert werden, in dem der Sänger versucht, mit seinem Schmerz umzugehen und sich von der Vergangenheit zu lösen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'Hold a little tighter' kann als ein Appell an sich selbst oder an die verlorene Person gesehen werden, die Beziehung noch einmal zu überdenken und nicht loszulassen."
+        ],
+        "positive_aspekte": [
+          "Der Sänger fragt sich, ob er die Person, die er verloren hat, jemals wiedersehen wird und ob sie seine Gefühle je verstehen wird."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'Hold a little tighter' kann als ein Appell an sich selbst oder an die verlorene Person gesehen werden, die Beziehung noch einmal zu überdenken und nicht loszulassen."
+        ],
+        "positive_aspekte": [
+          "Der Sänger fragt sich, ob er die Person, die er verloren hat, jemals wiedersehen wird und ob sie seine Gefühle je verstehen wird."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'Hold a little tighter' kann als ein Appell an sich selbst oder an die verlorene Person gesehen werden, die Beziehung noch einmal zu überdenken und nicht loszulassen."
+        ],
+        "positive_aspekte": [
+          "Der Sänger fragt sich, ob er die Person, die er verloren hat, jemals wiedersehen wird und ob sie seine Gefühle je verstehen wird."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Song thematisiert auch die Kommunikationsprobleme in der Beziehung und die Frage, warum die andere Person nicht hört, wenn er versucht, zu ihr durchzudringen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, aber auch eine Tendenz zu oberflächlichen Aussagen.",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen."
+  }
+}

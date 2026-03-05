@@ -1,0 +1,108 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 2000‑er‑Jahre‑Pop, das häufig von flüchtigen Liebesbeziehungen und der Angst vor dem Verlassenwerden geprägt war, spiegelt das Lied die postmoderne Unsicherheit wider, dass Bindungen gleichzeitig intim und illusorisch sein können."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Klare Analyse von Imperativen, Metaphern und Wiederholungen.",
+          "Erkennt die Ambivalenz zwischen Hoffnung, Angst und Resignation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die frühe 2000er‑Jahre einordnen, eine Phase, in der Pop‑Balladen vermehrt das Thema flüchtiger, digital vermittelter Beziehungen thematisierten.",
+          "Die wiederholte Betonung von „before you leave“ spiegelt gesellschaftliche Unsicherheiten im Kontext von Mobilität und temporären Bindungen wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguitäten bleiben bewusst unaufgelöst und ermöglichen ein fortlaufendes Interpretationsspiel."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von formalen Merkmalen (Imperative, Wiederholungen) mit inhaltlichen Spannungen.",
+          "Erkennt die Mehrdeutigkeit des Refrains und der lautmalerischen Passagen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die frühe 2000er‑Jahre einordnen, eine Phase, in der Pop‑Balladen vermehrt Themen von flüchtiger Intimität und postmodernen Unsicherheiten behandelten.",
+          "Der Text reflektiert gesellschaftliche Tendenzen zu kurzlebigen Beziehungen und der gleichzeitigen Sehnsucht nach Beständigkeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Dualität erzeugt eine thematische Komplexität, die weder eindeutig Hoffnung noch Resignation verkörpert.",
+          "Diese Spannungen verhindern eine eindeutige Deutung und lassen den Hörer im offenen Feld zwischen Hoffnung, Täuschung und resignierter Akzeptanz verharren."
+        ],
+        "positive_aspekte": [
+          "Zählt detailliert die wiederholten Motive (silky skin, Ahh‑Passagen) und deren mögliche Funktionen.",
+          "Stellt klar heraus, dass das „illusion“-Motiv die gesamte Erzählung infrage stellt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in den frühen 2000er‑Jahren verorten, einer Phase, in der Pop‑Balladen vermehrt persönliche Unsicherheiten im Kontext einer zunehmend vernetzten, aber zugleich entpersonalisierten Gesellschaft thematisierten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Symbolik von „smile“, „breath“ und „silky skin“ kann als Hinweis auf flüchtige, sensorische Anker interpretiert werden, … – ein Widerspruch, der bewusst offen bleibt."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Form (Imperative, Metaphern) und Inhalt.",
+          "Verknüpft emotionale Wirkung (Sehnsucht vs. Resignation) mit konkreten Textstellen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im Kontext der frühen 2000er‑Popkultur, in der skandinavische Singer‑Songwriter häufig persönliche Verletzlichkeit mit pop‑ästhetischer Oberflächlichkeit verbanden, spiegelt der Song diese Tendenz wider."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Stilmitteln (Imperative, Wiederholungen, sensorische Metaphern).",
+          "Erkennt die Spannung zwischen Optimismus („turn it right“) und Skepsis („It’s all an illusion, easier said than done”)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      2,
+      3,
+      4
+    ],
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass die meisten Interpretationen sehr textnah sind und wenig erfundene Fakten enthalten. Nur bei Interpretation 1 und 5 wurden mehrere historische bzw. gesellschaftliche Kontextualisierungen ohne Textbeleg gefunden, was zu leicht höheren Halluzinations‑Scores führte.",
+    "empfehlung": "Interpretationen 2, 3 und 4 erzielen die höchste kombinierte Punktzahl (4 / 4). Sie balancieren präzise Textbezüge mit einer tiefgehenden Analyse von Form, Motivik und Ambivalenz, ohne unnötige spekulative Historisierung. Für zukünftige Analysen sollte der Fokus auf dieser Art von textbasierter, aber mehrschichtiger Interpretation liegen und spekulative Kontextualisierungen möglichst vermeiden."
+  }
+}

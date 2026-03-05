@@ -1,0 +1,99 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Metapher für die Vergänglichkeit der Jugend und der Liebe interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch eine Hommage an die unschuldige und unkomplizierte Liebe der Kindheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die unglückliche und unerfüllte Liebe des Sängers ab und analysiert die Rolle von Erinnerungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain wird zu einem Symbol für die Verdrängung und die Weigerung, die Realität anzuerkennen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische Reflexion über die Vergänglichkeit des Lebens und die Macht der Erinnerung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berührt die Themen der unerfüllten Liebe und des Verlusts."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain wird zu einem Symbol für die Verdrängung und die Weigerung, die Realität anzuerkennen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische Reflexion über die Vergänglichkeit des Lebens und die Macht der Erinnerung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die unglückliche Liebe und den Verlust ab, aber bleibt etwas oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain wird zu einem Symbol für die Verdrängung und die Weigerung, die Realität anzuerkennen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische Reflexion über die Vergänglichkeit des Lebens und die Macht der Erinnerung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berührt die Themen der unerfüllten Liebe und des Verlusts, aber bietet wenig Neues."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger kann nicht akzeptieren, dass Jane nicht mehr da ist, und er bleibt in seiner Vorstellung von ihr als das Mädchen, das er liebt, gefangen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine melancholische Reflexion über die Vergänglichkeit des Lebens und die Macht der Erinnerung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Balance zwischen Texttreue und analytischer Tiefe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber bleiben insgesamt konsistent in ihrer Themenwahl.",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf die textbasierten Analysen konzentrieren und versuchen, die Ambivalenzen und Mehrdeutigkeiten im Songtext zu berücksichtigen."
+  }
+}

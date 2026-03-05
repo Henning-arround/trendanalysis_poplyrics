@@ -1,0 +1,99 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs verweist auf die symbolische Ordnung einer Sehnsucht nach Einheit und Ganzheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Sehnsucht nach Verbindung und Erfüllung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fokussierung auf zwischenmenschliche Beziehungen und persönliche Entwicklung könnte als Reaktion auf die gesellschaftlichen und politischen Herausforderungen jener Zeit gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft einer zwischenmenschlichen Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der affektiven Dimension des Songs ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs verweist auf die symbolische Ordnung einer Sehnsucht nach Einheit und Ganzheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Sehnsucht nach Verbindung und Erfüllung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fokussierung auf zwischenmenschliche Beziehungen und persönliche Entwicklung könnte als Reaktion auf die gesellschaftlichen und politischen Herausforderungen jener Zeit gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft einer zwischenmenschlichen Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der affektiven Dimension des Songs ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich bleib' ein Komödiant / Mit Blick ins Märchenland' lässt darauf schließen, dass die Beziehung auch eine Flucht vor der Realität in eine idealisierte Welt der Liebe darstellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Sehnsucht nach Verbindung und Erfüllung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die affektive Dimension des Songs",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

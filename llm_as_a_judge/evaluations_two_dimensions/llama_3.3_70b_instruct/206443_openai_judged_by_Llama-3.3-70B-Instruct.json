@@ -1,0 +1,98 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das zentrale Motiv des Textes – das Suchen nach einem Ausweg"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Zerrissenheit zwischen rationaler Erkenntnis und emotionaler Bindung",
+          "Die Erklärung des Übergangs von Freundschaft zu intimer Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die klassische Dilemmata einer Beziehung, die aus einer harmlosen Freundschaft hervorgegangen ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die melancholische Reflexion über das Ende einer einstigen Verbundenheit"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der inneren Zerrissenheit",
+          "Die Erklärung der paradoxe Dynamik, dass intensives Geben nicht zu Erfüllung führt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung zwischen Freundschaft und Liebe schwankt und dabei an ihrer eigenen Unbeständigkeit zerbricht"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Unfähigkeit, sich aus einem vertrauten Muster zu befreien",
+          "Die Erklärung der Selbstaufopferung, die in einer unausgewogenen Partnerschaft oft zu Selbstverlust führt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung steht bereits an ihrer Grenze"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ungewissheit betont, dass keine Antwort existiert"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der inneren Zwickmühle",
+          "Die Erklärung der paradoxe Dynamik, dass intensives Geben nicht zu Erfüllung führt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung zwischen Freundschaft und Liebe verfangen hat"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Zerrissenheit",
+          "Die Erklärung der Selbstaufopferung, die in einer unausgewogenen Partnerschaft oft zu Selbstverlust führt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der inneren Zerrissenheit und der paradoxe Dynamik in der Beziehung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe, wie in Interpretation 1 und 3 zu sehen ist. Es ist wichtig, kreative Interpretationen zu vermeiden, die nicht durch den Text gestützt werden."
+  }
+}

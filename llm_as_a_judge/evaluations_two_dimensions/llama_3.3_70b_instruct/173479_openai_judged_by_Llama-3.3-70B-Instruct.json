@@ -1,0 +1,99 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen über das „Rum, das der Käpt’n aussoff“ und das „Smutje“, das lachend die Waffe verkennt, zeigen, wie das Milieu des Krieges die Menschen in eine zynische Resignation treibt, in der das Töten zur Unterhaltung wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung, die Waffe niederzulegen, fungiert als moralischer Anker, der den inneren Konflikt zwischen Gewalt und dem Wunsch nach Frieden verdeutlicht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Symbolik, wie z.B. die Bedeutung der Waffe und des Krieges."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szenen an Bord des Schiffes, im Camp am Fluss und im Alltag der Crew zeigen, wie das Kriegs‑ und Gewaltmuster in verschiedene Lebensbereiche übergeht, wobei das Schießen zur alltäglichen Lösung degradiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung, dass „die Karten stechen alle nicht“ und „im Spiel kein Atout“ sei, unterstreicht die Sinnlosigkeit des Kampfes, in dem weder Strategie noch Gewinn existieren."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende Analyse des Textes und seiner Themen, wie z.B. die Sinnlosigkeit des Krieges und die Sehnsucht nach Frieden."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen „So rann ein Leben still dahin / In dem so viel gesteckt / Es war zwar ohne Zweck und Sinn / Doch ganz und gar korrekt“ suggerieren, dass das Leben des Soldaten zwar von sinnlosem Einsatz geprägt ist, aber dennoch einer inneren Logik folgt, die er selbst als „korrekt“ akzeptiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung, die Waffe niederzulegen, fungiert als moralischer Appell, der jedoch von einer resignierten Gleichgültigkeit umgeben ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Symbolik, wie z.B. die Bedeutung der Waffe und des Krieges."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen über das Schiff, das jahrelang nicht heimkehrte, und die berauschte Crew verdeutlichen, wie das Kriegserlebnis in ein surrealistisches, fast groteskes Theater übergeht, in dem das Töten zur Show wird und das Leben der Beteiligten von Alkohol und Gleichgültigkeit bestimmt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Das Camp am „Fluß von Golden Hill“ verstärkt die Idee einer endlosen Wiederholung von Gefahr und Gewalt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende Analyse des Textes und seiner Themen, wie z.B. die Sinnlosigkeit des Krieges und die Sehnsucht nach Frieden."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Figur des „Smutje“, der lachend die Waffe verkennt, symbolisiert die Gleichgültigkeit der Mitmenschen gegenüber dem Leiden des Einzelnen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die fehlende Orientierung – kein leuchtendes Ziel, kein klarer Zweck – spiegelt die innere Leere des Kriegers wider, der trotz äußerlicher Siege keinen Sinn mehr erkennt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Symbolik, wie z.B. die Bedeutung der Waffe und des Krieges."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine umfassende Analyse des Textes und seiner Themen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse des Textes und seiner Symbolik bietet und eine hohe Tiefe und geringe Halluzinationsrate aufweist."
+  }
+}

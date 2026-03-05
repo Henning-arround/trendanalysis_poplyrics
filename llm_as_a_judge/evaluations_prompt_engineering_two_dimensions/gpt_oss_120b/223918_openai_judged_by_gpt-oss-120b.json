@@ -1,0 +1,135 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song konstruiert ein Netz aus fragmentarischen Bild‑ und Wortpaaren … thematisieren.",
+          "Durch die wiederholte Dreier‑Motivation … wird ein Ritual der Verdrängung suggeriert …",
+          "Die zentrale Botschaft bleibt mehrdeutig …",
+          "Stilistisch nutzt das Stück stark assoziative Metaphern …",
+          "Die Wiederholung von Phrasen erzeugt ein hypnotisches Rhythmus‑Muster …",
+          "Die Zeile „Walls have ears / Burning / A vital clue“ impliziert ein Bewusstsein für Überwachung …",
+          "Historisch verortet sich das Werk im späten 1970‑Jahre‑Britannien …",
+          "Die wiederholte Verneinung … spiegelt das postmoderne Misstrauen wider.",
+          "Die Ambiguitäten … bleiben ungelöst …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht fast jede Textzeile ein und liefert zahlreiche konkrete Bild‑Bezüge.",
+          "Zeigt ein durchgängiges Analyse‑Muster, das die Vielschichtigkeit des Textes betont."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von öffentlicher Fassade und privatem Ermittler suggeriert ein Spannungsfeld … das in den 1970‑Jahren durch die wachsende Medienkritik … an Bedeutung gewann.",
+          "Die wiederholte Refrain‑Sequenz … verweist auf das klassische Symbol der drei weisenden Affen, das hier jedoch als zynischer Kommentar … gelesen werden kann.",
+          "Stilistisch nutzt das Lied eine Collage‑Technik, die an die Dada‑Ästhetik erinnert …",
+          "Metaphern wie „Walls have ears“ und „Crashing through the cigar smoke“ erzeugen ein Gefühl von allgegenwärtiger Beobachtung …",
+          "Die Wiederholung von „A public face / A private eye“ am Schluss verstärkt die Zirkularität …",
+          "Die emotionale Wirkung ist zugleich irritierend und humorvoll …",
+          "Die Ambivalenz zwischen Verbrechen und Alltäglichkeit spiegelt die kulturelle Krise der späten 70er Jahre wider …",
+          "Der Song bleibt bewusst offen, lässt die „vital clue“ unerkannt, und fordert damit den Hörer auf …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft Textstellen mit historischen und kulturellen Kontexten.",
+          "Bietet eine differenzierte Lesart der Wiederholungen und ihrer Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die wiederholte Reihung von Gegenüberstellungen entsteht ein Eindruck von Informationsüberflutung …",
+          "Die Zeilen … fungieren als kulturelles Symbol der drei weisheits­losen Affen, das jedoch hier als Zwang zur Selbstzensur … gelesen werden kann.",
+          "Metaphorisch wirkt das „leaking pen“ als Bild für unkontrollierbare Kommunikation, während das „shrunken head“ an koloniale Sammlungen erinnert …",
+          "Das Bild des „allen key / Turning“ suggeriert ein Werkzeug zur Entschlüsselung, das jedoch im Kreis läuft …",
+          "Die wiederholte Gegenüberstellung von „A broken jaw“ und „An alibi“ erzeugt einen Spannungsbogen zwischen Gewalt und Rechtfertigung …",
+          "Auch die Zeile „Found necking with a Siamese twin“ spielt mit dem Motiv der Zwillingsidentität …",
+          "Historisch verortet sich das Werk im späten 70er‑Jahre‑Britannien …",
+          "Die Aufzählung von Alltagsgegenständen neben kriminal‑ und mysteriösen Motiven spiegelt die Vermischung von Banalem und Bedrohlichem wider …",
+          "Die ständige Wiederholung von „Hear/See/Speak no evil“ erzeugt eine monotone, fast hypnotische Wirkung …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft einzelne Bildungen mit breiteren gesellschaftlichen Themen (Kolonialismus, Medienkritik).",
+          "Erklärt die strukturelle Wirkung der Wiederholungen auf das Hörerlebnis."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text entfaltet eine fragmentarische Bildsprache, die zugleich das öffentliche und das private Selbst thematisiert.",
+          "Die Gegenüberstellung von sichtbarer Fassade und verborgener Beobachtung erzeugt ein Spannungsfeld zwischen Selbstpräsentation und innerer Überwachung.",
+          "Wiederholte Motive … verweisen auf das klassische Drei‑Affengespann, das in den 1970er‑Jahren als Symbol für Zensur … rezipiert wurde.",
+          "Die Aufzählung scheinbar zusammenhangloser Objekte wirft ein Bild von Überfluss an Hinweisresten …",
+          "Stilistisch nutzt das Lied assoziative Kettensprünge, Metaphern und Bildbrüche …",
+          "Die Zeile „Now I can't remember / Hat check girl“ verbindet Gedächtnisverlust mit einer alltäglichen Situation …",
+          "Der Refrain fungiert als strukturelles Rückgrat …",
+          "Historisch verortet sich das Stück im späten 70er‑Jahre‑Britannien …",
+          "Die wiederholte Gegenüberstellung von „A vital clue“ und „The answer no“ lässt bewusst offene Fragen stehen …",
+          "Diese bewusste Nichtauflösung erzeugt eine affektive Distanz …"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Übersicht über formale Mittel (Refrain, Assoziationen).",
+          "Verbindet Text mit einem breiteren historischen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song konstruiert ein Netz aus fragmentarischen Bild‑ und Wortpaaren … die zugleich das öffentliche Bild und die verborgene Beobachtung thematisieren.",
+          "Durch die Aneinanderreihung scheinbar zufälliger Objekte entsteht ein Bild von Informationsüberflutung, das die späte 1970er‑Kultur der Medien‑ und Überwachungsgesellschaft reflektiert.",
+          "Die wiederholte Refrain‑Sequenz … fungiert als moralisches Mantra, das jedoch durch die grotesken Details ironisch untergraben wird …",
+          "Diese Spannung erzeugt ein paradoxes Bewusstsein von Sichtbarkeit und Verbergen.",
+          "Stilistisch nutzt Godley & Creme elliptische Metaphern und assoziative Bildsprünge, die an die Surrealität der Dada‑Poetik erinnern.",
+          "Das Bild „A leaking pen“ symbolisiert das unkontrollierbare Fließen von Information, während „An allen key / Turning“ das Bild einer mechanischen Lösung für ein unlösbares Rätsel liefert.",
+          "Die Wiederholung von „A public face / A private eye“ am Schluss verstärkt die Zirkularität des Textes …",
+          "Die kulturelle Einbettung … geprägt von Skandalen (z. B. Watergate) und dem Aufstieg von „Whistleblowing“ lässt die Zeilen … als Hinweis auf unbeabsichtigte Enthüllungen verstehen.",
+          "Gleichzeitig bleibt die Bedeutung ambivalent: das „paperweight“ kann sowohl als Hindernis als auch als Stabilisierung von Wahrheit gelesen werden.",
+          "Die bewusste Unauflösbarkeit dieser Gegensätze betont die postmoderne Erkenntnis, dass jede „clue“ zugleich ein Rätsel bleibt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft Text mit konkreten historischen Ereignissen (Watergate).",
+          "Bietet eine detaillierte Analyse der formalen Wiederholungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen einen hohen Anteil an erfundenen, nicht textbasierten Aussagen (>70 %). Die Tiefe variiert leicht; drei Interpretationen erreichen eine substanzielle Analyse (Score 4), während die anderen eher mittlere Tiefe (Score 3) aufweisen.",
+    "empfehlung": "Für zukünftige LLM‑Interpretationen sollte der Fokus stärker auf nachweisbare Textbezüge gelegt werden. Eine gute Interpretation verbindet konkrete Zeilenangaben mit begründeten, aber nicht spekulativen, Kontextualisierungen. Interpretation 1 liefert die ausgewogenste Mischung aus Textbezug und analytischer Tiefe und ist daher als Vorbild zu empfehlen."
+  }
+}

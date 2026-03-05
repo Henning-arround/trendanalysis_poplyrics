@@ -1,0 +1,95 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich bin wie ausgestorben / Bin irgendwie nur noch halb' verwendet eine metaphorische Darstellung, um den Zustand des Sängers zu beschreiben, der sich wie ein lebloser Körper fühlt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird durch die Zeile 'Du fehlst meinem Leben' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die emotionale Wirkung des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Und manchmal auch mir selbst' zeigt, dass der Verlust nicht nur eine äußere, sondern auch eine innere Erfahrung ist, die die Identität und das Selbstbild des Sängers beeinflusst."
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Struktur des Songs, die durch die Wiederholung von Refrain und Strophen geprägt ist, verstärkt die emotionale Wirkung und betont die zentrale Botschaft."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Ambiguitäten und Spannungen im Lied"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich bin wie ausgestorben / Bin irgendwie nur noch halb' unterstreicht diese Erfahrung und zeigt, dass der Verlust nicht nur eine äußere, sondern auch eine innere Leere verursacht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Dimension des Liedes kann in der Art und Weise gesehen werden, wie es die Erfahrung von Verlust und Abwesenheit thematisiert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die symbolische Ordnung der Abwesenheit und des Verlusts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird durch die Zeile 'Du fehlst meinem Leben' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes wird durch die Zeile 'Du fehlst meinem Leben' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu, analysiert die literarischen Stilmittel und diskutiert die Ambiguitäten und Spannungen im Lied"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die beste Interpretation (Interpretation 5) balanciert Textreue mit analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation ist die, die eine Balance zwischen Textreue und analytischer Tiefe findet, wie Interpretation 5."
+  }
+}

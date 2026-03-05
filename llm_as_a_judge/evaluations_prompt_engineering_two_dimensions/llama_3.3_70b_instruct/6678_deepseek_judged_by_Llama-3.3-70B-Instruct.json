@@ -1,0 +1,99 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des Clowns als Symbol für die Verführung und die Macht kann auf die kulturelle Tradition des Clowns als einer Figur zurückzuführen sein, die zwischen Komik und Schrecken oszilliert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von Angst und Hilflosigkeit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Metaphern und Symbole im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Kritik an der Gesellschaft und der Politik interpretiert werden, die die Zerstörung und den Untergang der menschlichen Existenz vorantreiben."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Ankunft eines 'Circus of Death' zu sein, der eine Spur der Zerstörung und des Todes hinterlässt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der literarischen Stilmittel im Songtext an."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der historische und gesellschaftliche Kontext, in dem der Song entstand, die frühe 1990er Jahre, war geprägt von globalen Veränderungen und Umbrüchen, wie dem Ende des Kalten Krieges und der Wiedervereinigung Deutschlands."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von Angst und Hilflosigkeit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Song in einen breiteren kulturellen Kontext einzuordnen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Reaktion auf die Unsicherheit und die Angst vor der Zukunft gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Ankunft eines 'Circus of Death' zu sein, der eine Spur der Zerstörung und des Todes hinterlässt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der Metapher des 'Circus of Death' an."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 1,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Kritik an der Gesellschaft und der Politik interpretiert werden, die die Zerstörung und den Untergang der menschlichen Existenz vorantreiben."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von Angst und Hilflosigkeit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine kurze und einfache Zusammenfassung des Songinhalts."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität und Tiefe, wobei die erste Interpretation am besten abschneidet.",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf die Analyse der Metaphern und Symbole im Songtext konzentrieren und versuchen, den Song in einen breiteren kulturellen Kontext einzuordnen."
+  }
+}

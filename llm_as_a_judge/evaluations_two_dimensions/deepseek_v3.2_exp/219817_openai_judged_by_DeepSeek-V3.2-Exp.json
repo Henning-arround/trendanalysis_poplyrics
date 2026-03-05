@@ -1,0 +1,99 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen verbinden das lokale Milieu mit globalen Symbolen des Luxus"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text spiegelt die Selbstinszenierung eines Künstlers wider"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Capital Bra nutzt Markenreferenzen, um materiellen Erfolg zu signalisieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text spielt mit Identitätsfragmenten"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Verwendung von Markenreferenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die häufige Verwendung von Gewaltmetaphern dient nicht nur der Provokation"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text konstruiert ein Bild von unantastbaren, omnipräsenten Akteur"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Selbstporträt, das zugleich als Manifest einer hypermaskulinen, von Status und Gewalt geprägten Identität fungiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text spiegelt die Ambivalenz zwischen dem Wunsch nach Anerkennung und dem Bedürfnis nach Selbstbehauptung wider"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Verwendung von Gewaltmetaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Phrase 'Ich fick’ jeden, den du liebst' wirkt als hyperbolische Drohung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text zeichnet ein Bild von Kapitalismus, Machtdemonstration und Identitätskonstruktion"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren und weniger auf allgemeine Aussagen"
+  }
+}

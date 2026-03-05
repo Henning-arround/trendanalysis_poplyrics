@@ -1,0 +1,100 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch die Wiederholungen entsteht ein hypnotischer Rhythmus, der das Gefühl von Endlosigkeit und das Verlangen nach einer Verbindung über räumliche und emotionale Distanzen hinweg verstärkt.",
+          "Insgesamt schildert das Lied einen inneren Flug, bei dem Gedanken, Erinnerungen und Sehnsüchte in das unendliche Blau entlassen werden, um dort in einer reinen, transzendenten Sphäre zu verweilen."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich klar aus den Songzeilen ableiten.",
+          "Gute Balance zwischen Bildanalyse (Wasser, Himmel, Flugzeug) und abstrakter Symboldeutung (Prisma, Kreisen).",
+          "Mehrere unterschiedliche Interpretationsmöglichkeiten (z. B. „you“ als Person vs. Ideal) werden offen benannt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt das Lied ein Bild von innerer Entfaltung, bei dem Gedanken, Gefühle und Sehnsüchte durch das unendliche Blau hindurchfließen und dabei eine beruhigende, fast spirituelle Befreiung aus dem begrenzten Kopfraum ermöglichen."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Verknüpfung von Bildsprache und emotionaler Wirkung.",
+          "Klare Struktur: Analyse von Wasser‑, Himmel‑ und Flug‑Motiven, gefolgt von einer Gesamtaussage.",
+          "Wenig Wiederholungen – jeder Punkt bringt neue Einsichten."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch die Wiederholungen entsteht ein hypnotischer Rhythmus, der das Hörerlebnis in einen tranceartigen Zustand versetzt, in dem das Loslassen in das Blau zugleich Befreiung und ein Akt der inneren Vereinigung darstellt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verwendung von Schlüsselbegriffen (Prisma, Baby Blue, Flugzeug) aus dem Text.",
+          "Erklärt den symbolischen Gehalt von „Out of my head and into the blue“ sehr präzise.",
+          "Verbindet die physische Szene (Pool, Flugzeug) mit einer übergeordneten Idee von Loslösung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt das Lied ein Gefühl von Loslösung, innerer Klarheit und einer stillen, aber intensiven Verbindung zwischen Geist und dem unendlichen Blau des Himmels."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse des Refrains und der Metapher „prism of my mind“.",
+          "Unterscheidet klar zwischen dem „you“ als Ideal und dem personifizierten Blau.",
+          "Ergänzt die Interpretation um das Motiv des Über‑ und Unterschreitens von Grenzen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das wiederkehrende „Ooh“ und das fast kindliche „Ah ah ah“ fungieren als klangliche Verstärker der emotionalen Leere, die durch das endlose Kreisen entsteht, und lassen den Hörer in einen tranceartigen Zustand gleiten, in dem das „Blue“ sowohl ein Ort der Flucht als auch ein Spiegel der inneren Sehnsucht ist."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Klang (Ooh, Ah) mit der Bildsprache des Textes.",
+          "Präzise Beschreibung der Kreis‑Motivation und ihrer ambivalenten Wirkung (beruhigend / gefesselt).",
+          "Gute Balance zwischen konkreter Textanalyse und offener Interpretation der Metapher „blue“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen eine sehr hohe Texttreue (keine erfundenen Fakten) und liegen in ihrer Detailtiefe nahe beieinander (Score 4). Die Varianz ist gering, was auf konsistente Interpretationsstrategien der LLMs hinweist.",
+    "empfehlung": "Alle Modelle liefern faktentreue, tiefgehende Analysen. Für eine kompakte, leicht zugängliche Interpretation empfiehlt sich Interpretation 4, da sie die meisten Punkte klar strukturiert und nur minimal vage Aussagen enthält."
+  }
+}

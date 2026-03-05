@@ -1,0 +1,97 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stadt scheint leer und sinnlos"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Qual und Verzweiflung eines Menschen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'til my back ain't got no bone'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Puppen in den Schaufenstern kommen ihm lebendig vor und spotten ihn"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Leere und der Schmerz"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Verzweiflung des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stadt, durch die er stolpert, scheint leer und sinnlos"
+        ],
+        "oberflächliche_aussagen": [
+          "Die dunkle Seite der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Satzes 'somebody help me'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Puppen in den Schaufenstern kommen ihm lebendig vor und spotten ihn"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Zerstörung"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Hilflosigkeit des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Leere und der Schmerz"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'til my back ain't got no bone' und die Beschreibung der Verzweiflung des Protagonisten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.7,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie die meisten textbezogenen Aussagen und die wenigsten Erfindungen enthält"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der Dualität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der Dualität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der Dualität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der Dualität"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der Dualität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen eine hohe Konsistenz in ihrer Textbezogenheit und Analyse der Dualität",
+    "empfehlung": "Die Interpretationen zeigen eine hohe Qualität in der Textanalyse, könnten jedoch von einer stärkeren Vielfalt in der Interpretation profitieren"
+  }
+}

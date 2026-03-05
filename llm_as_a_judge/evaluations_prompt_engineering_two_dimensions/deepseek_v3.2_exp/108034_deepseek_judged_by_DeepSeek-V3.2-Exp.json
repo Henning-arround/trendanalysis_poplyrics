@@ -1,0 +1,95 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Ausdruck der Postmoderne und der Dekonstruktion von Identitäten in der Kunst und Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Beschreibung einer Beziehung zu sein, die von der Unbeständigkeit und Veränderlichkeit des Partners geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die ambige Haltung des Sprechers gegenüber dem Partner wird in den Zeilen deutlich."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Veränderlichkeit und Unbeständigkeit von Identitäten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen deuten auf eine tiefe emotionale Verbindung hin, die auf einer gemeinsamen Erfahrung von Verrücktheit und Wahnsinn basiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das eine tiefe Analyse aus kulturwissenschaftlicher Perspektive öffnet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext der 1980er Jahre."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Ausdruck der Postmoderne und der Dekonstruktion von Identitäten in der Kunst und Kultur gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Beschreibung einer Beziehung zu sein, die von der Unbeständigkeit und Veränderlichkeit des Partners geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist durchgehend spezifisch und textanalytisch."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz.",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie durchgehend spezifisch und textanalytisch ist."
+  }
+}

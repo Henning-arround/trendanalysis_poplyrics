@@ -1,0 +1,119 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Metaphorisch wird das „Halten“ zum Symbol für Halt im Leben, während das „Thrill me“ ... ein Bild von erotischer Erregung liefert, das jedoch im Kontext der frühen 1960‑er‑Popmusik noch von einer unschuldigen Verspieltheit überlagert wird.",
+          "Historisch verortet das Stück die junge, weibliche Stimme in einer Zeit, in der das Ideal der romantischen, aber zugleich unabhängigen Frau erst im Entstehen begriffen war.",
+          "Die wiederholte Forderung nach Nähe ohne klare Gegenleistung spiegelt die gesellschaftliche Spannung zwischen traditionellen Rollenbildern und dem aufkommenden Wunsch nach Selbstbestimmung wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wortwahl bleibt dabei bewusst einfach, was die unmittelbare, fast kindliche Dringlichkeit des Gesangs betont."
+        ],
+        "positive_aspekte": [
+          "Klare Identifikation der wiederholten Motive (Hold, Take, infold).",
+          "Stilistische Analyse (Mantra‑Effekt, Parallelen).",
+          "Erkenntnis, dass der Text mehrdeutig bleibt und keinen narrativen Abschluss bietet."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet das 1961 veröffentlichte Stück in einer Übergangsphase zwischen der Nachkriegs‑Konservativität und dem aufkommenden Jugendkult, in dem romantische Beziehungen zunehmend als Ausdruck individueller Identität verhandelt wurden.",
+          "Die wiederholte Forderung nach „hold“ und „take“ spiegelt gesellschaftliche Spannungen zwischen traditionellen Geschlechterrollen, die Frauen als passive Empfängerinnen von Zuneigung positionierten, und dem wachsenden Wunsch nach Selbstbestimmung wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wortwahl bleibt dabei stark reduziert, wodurch die thematische Komplexität auf ein Spannungsfeld zwischen Sehnsucht, Besitzanspruch und der impliziten Gefahr des Alleinseins reduziert wird, ohne jedoch eine klare Position zu beziehen.",
+          "Die Textambiguitäten … lassen offene Interpretationsräume, die das Lied zu einem Spiegel der widersprüchlichen Sehnsüchte seiner Zeit machen."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte stilistische Beobachtungen (Mantra‑Charakter, Kreisform).",
+          "Gute Metaphern‑Analyse (infold, thrill).",
+          "Verknüpfung von Textstruktur und möglicher Ambivalenz."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im historischen Kontext von 1961, einer Übergangsphase zwischen den konservativen Nachkriegswerten und dem aufkommenden sexuellen Befreiungsdiskurs, spiegelt das Lied die widersprüchlichen Erwartungen an weibliche Sexualität wider: einerseits die Erwartung, passiv gehalten zu werden, andererseits das wachsende Verlangen nach aktiver Selbstbestimmung („take me… never to forsake me“).",
+          "Die lyrische Struktur, die auf Wiederholung und Imperativ setzt, kann als Spiegel der damaligen Popmusik‑Formel gelesen werden, die emotionale Direktheit über narrative Tiefe stellte."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambiguität bleibt ungelöst und erzeugt ein Spannungsfeld zwischen Intimität und Autonomie.",
+          "Gleichzeitig bleibt das Werk offen für multiple Deutungen, weil die wiederholten Aufrufe nach Halt und das gleichzeitige Verlangen nach „take“ ein unaufgelöstes Spannungsfeld zwischen Bindung und Freiheit erzeugen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Analyse der Wiederholungen und Imperative.",
+          "Klare Erklärung des paradoxen Bildes von „never try to hold me from you“.",
+          "Verknüpfung von Bildsprache (infold, thrill) mit möglicher Bedeutungsvielfalt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück in den frühen 1960‑Jahren, einer Phase, in der jugendliche Romantik in der Popkultur stark idealisiert wurde, gleichzeitig aber die beginnende sexuelle Befreiung noch nicht vollständig durchdrang.",
+          "Die Forderung nach „never let me go“ spiegelt die damalige Erwartung an stabile, monogame Beziehungen wider, während das wiederholte „never try to hold me from you“ … eine subtile Spannung zwischen Freiheit und Besitz offenbart."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wortwahl bleibt dabei bewusst einfach, wodurch die Botschaft einer fast kindlichen Sehnsucht nach Sicherheit entsteht.",
+          "Die Zeile … verknüpft sinnliche Stimulation mit einer allgemeinen Erwartungshaltung („all can do“), was die Ambivalenz zwischen individueller Zuneigung und gesellschaftlicher Norm von Liebesausdruck offenbart.",
+          "Diese Widersprüche bleiben bewusst offen, sodass das Lied sowohl als Ausdruck zeitgenössischer Liebesideale … gelesen werden kann."
+        ],
+        "positive_aspekte": [
+          "Gute Erfassung der Wiederholungsstruktur und des Zirkularitäts‑Effekts.",
+          "Klare Unterscheidung von Imperativ‑Formulierungen.",
+          "Stichhaltige Beobachtung, dass der Text keinen narrativen Abschluss bietet."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück in den frühen 1960‑Jahren, einer Phase, in der jugendliche Romantik in der Popmusik häufig idealisiert, aber gleichzeitig von den beginnenden gesellschaftlichen Umbrüchen (z. B. der Frauenbefreiung) durchdrungen war.",
+          "Die Forderung nach „never let me go“ kann als Spiegel der damaligen Erwartung an männliche Fürsorge gelesen werden, während das wiederholte „never try to hold me from you“ … eine subtile Resistenz gegen totalitäre Besitzansprüche andeutet."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Ambivalenz bleibt offen: Das Lied zugleich bejaht und hinterfragt die Grenzen von Intimität, ohne eine eindeutige Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Analyse der Imperativ‑Formen und ihrer Funktion.",
+          "Ausführliche Metaphern‑Deutung (hold = Sicherheit, take = Besitz).",
+          "Erkenntnis, dass das Refrain‑Muster sowohl Bindung als auch mögliche Gefangenschaft suggeriert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Scores liegen zwischen 2‑3 für Halluzination und 3‑4 für Tiefe, was auf eine relativ hohe Konsistenz der Bewertungen hinweist; die Interpretationen unterscheiden sich nur geringfügig in Detailtiefe.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus textnaher Analyse und tiefgehender stilistischer Betrachtung, während sie nur wenige unbelegte historische Annahmen enthält. Für zukünftige Bewertungen sollte der Fokus auf direkte Textbelege und konkrete stilistische Beobachtungen gelegt werden, um Halluzinationen zu minimieren und die analytische Tiefe zu maximieren."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Begriffen wie 'Masquerade' und 'Heaven' legt nahe, dass der Song auf eine Art von mystischer oder esoterischer Tradition anspielt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Einladung zu liegen, 'let the spirits in' und 'let my spirit sing'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'lonely holy spirit's masquerade' kann als ein Symbol für eine Art spirituelle Maskerade verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Metaphern und Symbole ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Masquerade' kann als eine Anspielung auf die venezianischen Maskenbälle des 18. Jahrhunderts verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in den Zeilen 'Let the spirits in / Let my spirit sing' zu liegen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kulturellen und historischen Einbettung des Songs ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Begriffen wie 'Masquerade' und 'heaven' legt nahe, dass der Song auf einer Art von mystischer oder spiritueller Ebene angesiedelt ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs ist sehr gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Einladung zu einer Art spiritueller oder emotionaler Befreiung zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kulturellen, historischen und gesellschaftlichen Kontextualisierung des Songs ist sehr gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 1.8,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen (4 und 5) zeigen eine hohe Konsistenz in ihrer Analyse",
+    "empfehlung": "Die Ansätze der Interpretationen 4 und 5 sind empfehlenswert, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigen"
+  }
+}

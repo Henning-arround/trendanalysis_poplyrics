@@ -1,0 +1,101 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einordnung in die Post-2000-Pop-Ballade ohne direkte textliche Belege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'kulturelle Resonanz'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache, die Diskussion über die Ambivalenz von Schein und Wirklichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische historische Einordnung in die frühen 2000er-Jahre ohne direkte textliche Belege",
+          "Die Annahme über die 'post-milleniale Unsicherheit'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'globale Hoffnung' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Parataxen und der zeitlosen Kontinuität, die Diskussion über die Ambivalenz von Befreiung und Festhalten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einordnung in die Tradition der späten 1990-bis-2000er-Popballaden ohne direkte textliche Belege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'postmoderne Sehnsucht'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und der symbolischen Leitbilder, die Diskussion über die Ambivalenz von Täuschung und Ehrlichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische Einordnung in die Post-2000-Pop-Ballade ohne direkte textliche Belege",
+          "Die Annahme über die 'globalisierte Unsicherheit'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'stabilen Identitätsanker' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität von Genuss und Leid, die Diskussion über die Ambivalenz von Besitzanspruch und Unmöglichkeit des Loslassens"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einordnung in die 'post-moderne Sehnsucht nach stabilen Identitätsanker*innen' ohne direkte textliche Belege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Hybridität von Hoch- und Popkultur'"
+        ],
+        "positive_aspekte": [
+          "Die tiefgehende Analyse der Metaphern und der zeitlosen Ordnung, die Diskussion über die Ambivalenz von Täuschung und Ehrlichkeit, die Offenheit für Ambivalenzen in der Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bleiben textgetreu und bieten tiefgehende Analysen.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine Balance zwischen Textreue und analytischer Tiefe findet, wie Interpretation 5. Es ist wichtig, kreative Interpretationen zu fördern, die jedoch stets auf dem Text basieren und Ambivalenzen und Mehrdeutigkeiten berücksichtigen."
+  }
+}

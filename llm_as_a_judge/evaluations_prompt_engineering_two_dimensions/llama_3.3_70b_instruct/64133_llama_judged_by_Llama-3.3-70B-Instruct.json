@@ -1,0 +1,99 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von literarischen Stilmitteln wie Metaphern und Bildern unterstützt die thematische Komplexität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Do you remember? Do you remember? / All of the times we had' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die thematische Komplexität und die emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kollaboration zwischen Jay Sean, Sean Paul und Lil Jon repräsentiert eine globale Musikszene"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematisierte Sehnsucht nach einer vergangenen Beziehung und die Hoffnung auf Wiedervereinigung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Komplexität von Beziehungen und die Macht der Erinnerung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Elementen aus der Pop- und Hip-Hop-Kultur zeigt die Zugehörigkeit des Songs zu einer bestimmten musikalischen und kulturellen Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Do you remember? Do you remember? / All of the times we had' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs und die Verwendung von literarischen Stilmitteln"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Erinnerung und der Sehnsucht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematisierte Sehnsucht nach einer vergangenen Beziehung und die Hoffnung auf Wiedervereinigung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Komplexität von Beziehungen und die Macht der Erinnerung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Elementen aus der Pop- und Hip-Hop-Kultur zeigt die Zugehörigkeit des Songs zu einer bestimmten musikalischen und kulturellen Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Do you remember? Do you remember? / All of the times we had' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs und die Verwendung von literarischen Stilmitteln"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die thematische Komplexität und die emotionale Wirkung des Songs",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und thematisiert die Komplexität von Beziehungen und die Macht der Erinnerung"
+  }
+}

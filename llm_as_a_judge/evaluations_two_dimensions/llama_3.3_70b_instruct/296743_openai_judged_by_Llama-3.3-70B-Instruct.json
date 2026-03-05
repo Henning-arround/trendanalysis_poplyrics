@@ -1,0 +1,93 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen über das Scheitern zeigen Resignation, aber auch ein Bewusstsein für den Verlust"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Beziehungsdynamik und der emotionalen Zustände der Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Zeile 'We get along so we shouldn’t argue' wirkt wie ein verzweifelter Versuch, Konflikte zu unterdrücken"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied vermittelt ein Bild von innerer Zerrissenheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Spannung zwischen Anziehung und Abgrenzung in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen über das Scheitern zeigen Resignation"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare Struktur und analysiert die Beziehungsdynamik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage 'Believe in ignorance as my best defense' offenbart eine defensive Selbsttäuschung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied vermittelt ein Bild von innerer Zerrissenheit und dem Kampf zwischen Selbstbehauptung und dem Wunsch nach Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Unfähigkeit, die eigenen Gefühle zu ordnen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen über das Scheitern zeigen Resignation und Traurigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der emotionalen Zustände und der Beziehungsdynamik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bieten eine solide Analyse",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte und textgetreue Analyse bietet"
+  }
+}

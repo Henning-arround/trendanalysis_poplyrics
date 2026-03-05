@@ -1,0 +1,99 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'lonely holy spirit's masquerade' scheint ein Ort zu sein, an dem man sich frei von den Zwängen der Realität bewegen kann und sich den eigenen Begierden überlassen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext endet mit dem Bild des Schlafes und des Vergessens, was darauf hindeutet, dass die Erfahrung in der 'Spirits' Masquerade' nur temporär ist."
+        ],
+        "positive_aspekte": [
+          "Der Interpretationsansatz ist textbezogen und liefert eine plausible Erklärung für die Symbolik im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text enthält auch Elemente der Erlösung und der Reinigung, da der Protagonist von seinen Sünden erlöst werden möchte und seine Seele singen lässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine Flucht vor der Realität in eine Welt der Fantasie und des Vergnügens, die jedoch nur temporär ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist leicht verständlich und liefert eine allgemeine Richtung für die Bedeutung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text enthält auch Elemente der Erlösung und der Reinigung, da der Protagonist von seinen Sünden erlöst werden möchte und seine Seele singen lässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine Flucht vor der Realität in eine Welt der Fantasie und des Vergnügens, die jedoch nur temporär ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist leicht verständlich und liefert eine allgemeine Richtung für die Bedeutung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text enthält auch Elemente der Erlösung und der Reinigung, da der Protagonist von seinen Sünden erlöst werden möchte und seine Seele singen lässt."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine Flucht vor der Realität in eine Welt der Fantasie und des Vergnügens, die jedoch nur temporär ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist leicht verständlich und liefert eine allgemeine Richtung für die Bedeutung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song scheint jedoch auch eine dunkle Seite zu haben, da der Protagonist am Ende des Songs 'vergessen' möchte, was er getan hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt der Song eine komplexe und vielschichtige emotionale Erfahrung, die von Ekstase, Verlangen und spiritueller Suche geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen, liefert eine plausible Erklärung für die Symbolik im Song und berücksichtigt auch die Ambivalenzen im Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-4 sind sehr ähnlich und liefern kaum neue Erkenntnisse.",
+    "empfehlung": "Der Ansatz von Interpretation 5 ist empfehlenswert, da er eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

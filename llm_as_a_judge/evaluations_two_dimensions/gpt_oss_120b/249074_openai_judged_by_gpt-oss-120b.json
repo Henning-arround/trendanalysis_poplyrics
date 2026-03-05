@@ -1,0 +1,120 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text offenbart ein Bild der Nachkriegszeit … (historischer Kontext)",
+          "… das Bild einer geordneten, patriarchal geprägten Gesellschaft verstärkt.",
+          "Der Song spiegelt damit die ambivalente Haltung der 1950er‑Jahre wider …"
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die Mischung … entsteht ein Spannungsfeld zwischen individueller Freiheit und gesellschaftlicher Erwartung.",
+          "Diese Dualität macht den Text zu einem kulturellen Zeugnis der damaligen Geschlechterrollen."
+        ],
+        "positive_aspekte": [
+          "Verweist konsequent auf konkrete Textstellen (z. B. „du drehst die Nacht zum Tag“, „acht Uhr“).",
+          "Erkennt das wiederkehrende Motiv von Tanz → Intimität."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text offenbart ein Bild der Nachkriegszeit …",
+          "… klingt wie ein paternalistisches Mantra …",
+          "Der wiederholte Verweis auf „acht Uhr“ fungiert als Zeitmarke …",
+          "Der Song spiegelt damit die ambivalente Haltung der 1950er‑Jahre wider …"
+        ],
+        "oberflächliche_aussagen": [
+          "Hier wird die nächtliche Freiheit durch die Erwartung einer häuslichen Routine ersetzt.",
+          "Durch die Kombination … entsteht ein Spannungsfeld zwischen individueller Freiheit und gesellschaftlicher Erwartung."
+        ],
+        "positive_aspekte": [
+          "Zieht klare Bezüge zu den wiederholten Zeilen des Refrains.",
+          "Analysiert die Gegenüberstellung von Tanz‑ und Hausfrauen‑Motiven."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 1,
+      "gesamt_score": 1,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Nachkriegs‑Amerika idealisierte …",
+          "… reduziert die Frau auf ein Objekt, das durch die nächtliche „Verwandlung“ des Mannes …",
+          "Musikalisch untermalt Bing Crosby das Geschehen mit seiner beruhigenden Baritonstimme …",
+          "Die abschließende Zeile … bricht die romantische Idylle …"
+        ],
+        "oberflächliche_aussagen": [
+          "Gleichzeitig erzeugt die Wiederholung des Refrains eine fast hypnotische Wirkung …"
+        ],
+        "positive_aspekte": [
+          "Erwähnt explizit das wiederholte Motiv von „cottage“, Kochen und Nähen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text offenbart ein Bild der Nachkriegszeit …",
+          "… spiegelt die gesellschaftlichen Erwartungen an Frauen nach dem Zweiten Weltkrieg wider …",
+          "Die wiederholte Angabe der Uhrzeit … verankert das Bild einer geregelten, vorhersehbaren Tagesstruktur …"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Formulierung „stay‑at‑home, play‑at‑home“ verknüpft Arbeit und Spiel …",
+          "Durch die Gegenüberstellung … entsteht ein Spannungsfeld zwischen Freiheit und Verpflichtung …",
+          "Das Lied bleibt damit ein Spiegelbild seiner Epoche …"
+        ],
+        "positive_aspekte": [
+          "Stellt die lyrische Entwicklung von Tanz zu Intimität klar dar.",
+          "Bezieht sich konsequent auf die wiederholte Zeile „acht Uhr“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text offenbart ein Bild der 1950er‑Jahre …",
+          "… suggeriert eine liebevolle, fast väterliche Fürsorge …",
+          "… das Versprechen … unterstreicht die Erwartung einer häuslichen, passiven Existenz.",
+          "… verankert den Tagesablauf … das Bild einer geordneten, patriarchal geprägten Gesellschaft verstärkt.",
+          "Die abschließende Bemerkung … wirkt wie ein ironischer Bruch …"
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt spiegelt das Lied die Spannungen zwischen traditioneller Weiblichkeitsideologie und dem beginnenden Wandel der Geschlechterrollen wider."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konsequent die Schlüsselphrasen des Songs (z. B. „turning night into day“, „cottage“, „eight o’clock“)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1.6,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑3 zeigen ähnliche strukturelle Analysen und erreichen moderate Halluzinations‑ und Tiefenscores. Interpretation 4 und 5 weichen stark ab, mit deutlich höherem Anteil an erfundenen Aussagen und geringerer analytischer Tiefe.",
+    "empfehlung": "Interpretationen 1‑3 balancieren Texttreue und analytische Tiefe am besten. Für zukünftige Analysen sollte der Fokus stärker auf belegbare Textbezüge gelegt werden, während spekulative historische Kontextualisierungen klar als Interpretation gekennzeichnet werden."
+  }
+}

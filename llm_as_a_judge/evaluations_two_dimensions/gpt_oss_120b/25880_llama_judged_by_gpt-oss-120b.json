@@ -1,0 +1,109 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch diese Liebe kann der Protagonist seine tiefsitzende Traurigkeit und Hoffnungslosigkeit überwinden.",
+          "Die Wärme und Nähe dieser Person lassen den Nebel seiner Traurigkeit verdampfen, und er kann wieder Hoffnung schöpfen.",
+          "Die Augen, die ihn nicht loslassen, werden zum Symbol der rettenden, wahren Liebe, die ihn aus seiner dunklen Vergangenheit befreit und ihm einen neuen Weg zeigt."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Gute Struktur: klare Darstellung von Problem‑ und Wendepunkt.",
+          "Verwendet zentrale Motive (Kugel, Feuer, Augen) konsequent."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Augen, die in der anonymen Menschenmasse hervorstechen, werden zum Leuchtturm, der ihn aus der Dunkelheit führt.",
+          "Die Liebe, die hier beschrieben wird, ist eine tiefe, reine und wahre Liebe, die den Protagonisten aus seiner Isolation befreit und ihm einen neuen Sinn gibt.",
+          "Die Wiederholung der Zeile \"Augen in der Menschenmasse\" unterstreicht die Intensität und Bedeutung dieser Begegnung, die den Protagonisten aus der Anonymität heraushebt und ihm eine neue Perspektive auf das Leben gibt."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig im Text verorten.",
+          "Ergänzt den Text um bildhafte Metaphern (Leuchtturm) ohne spekulative Fakten.",
+          "Betont die zentrale Rolle der Augen und deren Wiederholung im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Augen werden zum Leitmotiv seiner Rettung und weisen ihm den Weg zur wahren Liebe.",
+          "Die Liebe wird hier als eine Art Heilung und Rettung dargestellt, die den Protagonisten aus seiner dunklen Vergangenheit befreit und ihm einen neuen Weg zeigt.",
+          "Die wiederkehrende Erwähnung der Augen unterstreicht die Bedeutung der visuellen und emotionalen Verbindung zwischen den beiden Personen und betont die Intensität und Tiefe ihrer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Konsistente Nutzung der im Text vorkommenden Bildsprache (Feuer, Nebel, Augen).",
+          "Gute Balance zwischen wörtlicher Wiedergabe und interpretativem Ausbau.",
+          "Erkennt die Wiederholung des Augen‑Motivs als strukturelles Element."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Augen werden zum Leitmotiv seiner Rettung und weisen ihm den Weg zur wahren Liebe.",
+          "Die Liebe wird hier als eine Art Heilung und Rettung dargestellt, die den Protagonisten aus seiner dunklen Vergangenheit befreit und ihm einen neuen Weg zeigt.",
+          "Die wiederkehrende Erwähnung der Augen unterstreicht die Bedeutung der visuellen und emotionalen Verbindung zwischen den beiden Personen und betont die Intensität und Tiefe ihrer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Vollständig textbasiert – keine erfundenen biografischen Details.",
+          "Erklärt die Symbolik der Augen und des Feuers klar und nachvollziehbar.",
+          "Stellt den Wandel vom Verlust zur Liebe strukturiert dar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Augen werden zum Leitmotiv seiner Rettung und weisen ihm den Weg zur wahren Liebe.",
+          "Die Liebe wird hier als eine Art Heilung und Rettung dargestellt, die den Protagonisten aus seiner dunklen Vergangenheit befreit und ihm einen neuen Weg zeigt.",
+          "Die wiederkehrende Erwähnung der Augen unterstreicht die Bedeutung der visuellen und emotionalen Verbindung zwischen den beiden Personen und betont die Intensität und Tiefe ihrer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Keine spekulativen Fakten – reine Textinterpretation.",
+          "Betont konsequent das zentrale Motiv der „Augen in der Menschenmasse“.",
+          "Gibt dem Song eine klare narrative Struktur von Krise zu Erlösung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen sehr geringe Varianz – sie wiederholen im Wesentlichen dieselben Punkte, was auf ein hohes Maß an Konsistenz, aber auch auf mangelnde Diversität hinweist.",
+    "empfehlung": "Die Modelle liefern faktentreue, aber teils sehr generische Analysen. Ein besserer Ansatz wäre, mehr Textbelege zu kombinieren mit differenzierten, mehrschichtigen Interpretationen (z. B. mögliche Ambivalenzen, Spannungsfelder zwischen Schicksal und Selbstbestimmung), um die Tiefe zu erhöhen, ohne die Faktentreue zu verlieren."
+  }
+}

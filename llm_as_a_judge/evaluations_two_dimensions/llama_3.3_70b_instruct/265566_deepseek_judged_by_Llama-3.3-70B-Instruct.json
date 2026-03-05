@@ -1,0 +1,97 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will ihre Lebensfreude nicht verlieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine tiefe emotionale Verbindung aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die emotionale Verbindung zwischen den Partnern ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will die Erinnerungen an die Beziehung bewahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine tiefe emotionale Verbindung aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Komplexität von Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will die gemeinsame Zeit noch einmal verlängern"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine tiefe emotionale Verbindung aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die emotionale Verbindung zwischen den Partnern ab"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine tiefe emotionale Verbindung aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Komplexität von Beziehungen und die Schwierigkeit, loszulassen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin will noch einmal die Zeit mit ihrem Partner genießen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine tiefe emotionale Verbindung aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die emotionale Verbindung zwischen den Partnern ab und thematisiert die Nostalgie und Sehnsucht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die vierte, da sie die Komplexität von Beziehungen und die Schwierigkeit, loszulassen, thematisiert und gleichzeitig textgetreu ist"
+  }
+}

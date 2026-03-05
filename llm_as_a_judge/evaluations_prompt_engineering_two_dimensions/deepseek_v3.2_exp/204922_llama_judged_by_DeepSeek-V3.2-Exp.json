@@ -1,0 +1,91 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau im Song ist selbstbewusst und unabhängig"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'You are just a lucky loser' unterstreicht die Einschätzung der Frau, dass der Mann nicht das ist, was er zu sein vorgibt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Konfrontation zwischen der selbstbewussten Frau und dem Mann, der sich als 'großer Verführer' sieht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Konfrontation zwischen einer selbstbewussten Frau und einem Mann, der sich als 'großer Verführer' sieht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'You're so vain - but you feel so hip' zeigt, dass der Mann sich selbst als attraktiv und cool sieht, aber in Wirklichkeit nur eine Oberfläche ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die direkte und offene Ablehnung der Frau"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr tiefgehend und textanalytisch, mit einer klaren Darstellung der zentralen Botschaft des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist identisch mit Interpretation 3, aber genauso gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist identisch mit Interpretation 3 und 4, aber genauso gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      3,
+      4,
+      5
+    ],
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 sind identisch und zeigen eine hohe Konsistenz",
+    "empfehlung": "Die Ansätze von Interpretationen 3, 4 und 5 sollten weiterverfolgt werden, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten"
+  }
+}

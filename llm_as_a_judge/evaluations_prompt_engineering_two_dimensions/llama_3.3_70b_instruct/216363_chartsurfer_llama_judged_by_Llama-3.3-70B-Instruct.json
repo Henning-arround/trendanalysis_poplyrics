@@ -1,0 +1,99 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Dimension des Songs muss im Kontext der 1960er Jahre betrachtet werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität der menschlichen Emotionen und der Dynamik in Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Every road must have a turning' und ihre Bedeutung für den Wandel in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität und den Widerspruch zwischen der alten und der neuen Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität der menschlichen Emotionen und der Dynamik in Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der 'neuen' Liebe als Symbol für die Befreiung und den Neuanfang"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung der 'turning' gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität der menschlichen Emotionen und der Dynamik in Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Every road must have a turning' und ihre Bedeutung für den Wandel in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung der 'turning' symbolisiert nicht nur eine physische, sondern auch eine emotionale Wendung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität der menschlichen Emotionen und der Dynamik in Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der 'neuen' Liebe als Symbol für die Befreiung und den Neuanfang"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung der 'turning' gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität der menschlichen Emotionen und der Dynamik in Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Every road must have a turning' und ihre Bedeutung für den Wandel in der Beziehung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metapher 'Every road must have a turning' und ihre Bedeutung für den Wandel in der Beziehung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Konsistenz in Bezug auf die Analyse der Metapher 'Every road must have a turning'"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der zentrale Botschaft des Songs scheint die Kritik an der Kommerzialisierung von Kunst zu sein.",
+          "\"Fence that you sit upon\" wird als Symbol für Grenzen zwischen Kunst und Kommerz interpretiert.",
+          "Die Wiederholung von \"For time immemorial\" wird als Hinweis auf die Zeitlosigkeit künstlerischer Suche gedeutet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die emotionale Wirkung des Songs ist von einer tiefen Ambivalenz geprägt.",
+          "Der Song kann als Kommentar zu den Bedingungen von Kunst und Kultur in den 1990er Jahren interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf mehrere Textzeilen (z. B. \"Goodbye to you and your money\", \"If you don't charge admission\").",
+          "Erkennt und benennt wiederkehrende Motive (Fence, House, Cameras) und verknüpft sie mit thematischen Aussagen.",
+          "Zeigt ein Bewusstsein für Ambivalenz und Mehrdeutigkeit im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine kritische Reflexion über die Mechanismen der Unterhaltungsindustrie.",
+          "\"Fence\" sei eine Metapher für künstliche Grenzen zwischen Öffentlichkeit und Privatsphäre.",
+          "Die Zeile \"Goodbye to you and your money\" kritisiert die Ausbeutung von Künstlern."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an Metaphern und Symbolen, die die Thematik unterstreichen.",
+          "Die emotionale Wirkung des Songs ist ambivalent zwischen Kritik und Faszination.",
+          "Insgesamt ist das Werk vielschichtig und reflektiert die Komplexität von Identität und Unterhaltung."
+        ],
+        "positive_aspekte": [
+          "Systematischer Durchlauf des gesamten Textes mit wiederholter Bezugnahme auf zentrale Zeilen.",
+          "Erkennt wiederkehrende Phrasen („For time immemorial“) und versucht deren Bedeutung zu erklären.",
+          "Bietet ein zusammenhängendes Bild der angeblichen Kritik an der Unterhaltungsindustrie."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kritisiert die Mechanismen der Öffentlichkeit und die Inszenierung von Identität.",
+          "Die Zeile \"The house that we live in is falling apart\" sei ein Hinweis auf die Vergänglichkeit öffentlicher Konstrukte.",
+          "Die Passage über \"pretenders to somebody's throne\" kritisiert die politische und wirtschaftliche Elite."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind reich an Metaphern, die auf die Inszenierung von Identität hinweisen.",
+          "Insgesamt zeigt der Song eine tiefe Ambivalenz gegenüber der Öffentlichkeit und der Inszenierung von Identität.",
+          "Der Song kann als Kommentar zu den gesellschaftlichen Bedingungen der späten 80er/ frühen 90er Jahre gelesen werden."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf mehrere konkrete Textstellen (z. B. \"If you take away all the cameras\").",
+          "Verknüpft die wiederholte Frage nach dem \"invincible one\" mit einer Suche nach Authentizität.",
+          "Erkennt die Spannung zwischen öffentlicher Darstellung und privater Realität."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine kritische Reflexion über die Mechanismen der Unterhaltungsindustrie.",
+          "\"Fence\" symbolisiere künstliche Grenzen zwischen Öffentlichkeit und Privatsphäre.",
+          "Die Zeile \"If you don't charge admission\" verdeutlicht das Verlangen nach einer unverfälschten Erfahrung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an Metaphern und Symbolen, die die Thematik unterstreichen.",
+          "Die emotionale Wirkung des Songs ist ambivalent zwischen Kritik und Faszination.",
+          "Insgesamt ist das Werk vielschichtig und reflektiert die Komplexität von Identität und Unterhaltung."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um den Aspekt der Authentizität (Zeile \"If you don't charge admission\").",
+          "Systematischer Verweis auf wiederkehrende Motive (Fence, House, Cameras).",
+          "Bietet ein konsistentes Bild der angeblichen Kritik an der Kommerzialisierung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine kritische Reflexion über die Mechanismen der Unterhaltungsindustrie.",
+          "\"Fence\" sei eine Metapher für künstliche Grenzen zwischen Öffentlichkeit und Privatsphäre.",
+          "Die Zeile \"Goodbye to you and your money\" kritisiert die Kommerzialisierung der Unterhaltungsindustrie."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an Metaphern und Symbolen, die die Thematik unterstreichen.",
+          "Die emotionale Wirkung ist ambivalent zwischen Kritik und Resignation.",
+          "Insgesamt ist das Werk komplex und reflektiert die Konstruktion von Identität."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Phrase \"For time immemorial\" und versucht deren Bedeutung zu deuten.",
+          "Verbindet Textstellen mit einer übergeordneten Aussage über Resignation und Anpassung.",
+          "Bietet einen strukturierten Überblick über die angeblichen Themen des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Kritik an Industrie, Metaphernanalyse). Die Variation liegt hauptsächlich im Detailgrad; Interpretation 3 liefert mehr textbezogene Beispiele, während die anderen stärker verallgemeinern.",
+    "empfehlung": "Interpretation 3 ist am ausgewogensten: Sie verbindet konkrete Textbezüge mit einer tieferen, aber nicht übertrieben spekulativen Analyse. Für zukünftige Modelle sollte der Fokus darauf liegen, Textbelege stärker zu gewichten und vage Generalisierungen zu vermeiden."
+  }
+}

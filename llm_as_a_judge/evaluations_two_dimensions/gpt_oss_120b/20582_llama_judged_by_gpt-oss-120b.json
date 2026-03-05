@@ -1,0 +1,120 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von der Sehnsucht und dem Verlangen nach einer geliebten Person, die sich auf Reisen befindet.",
+          "Doch trotz der Entfernung und der faszinierenden Eindrücke, die die Reise mit sich bringt, bleibt die Erinnerung an die Liebe und die Zugehörigkeit zueinander bestehen.",
+          "Die wiederkehrende Zeile \"You belong to me\" unterstreicht die tiefe emotionale Bindung und das Gefühl der Zugehörigkeit, das die räumliche Trennung überwindet.",
+          "Die Melancholie und Einsamkeit, die durch die Trennung entsteht, werden durch die Zeilen \"I'll be so alone without you\" und \"Maybe you'll be lonesome, too\" deutlich, doch die Liebe und die Erinnerung aneinander bleiben bestehen, bis die geliebte Person wieder nach Hause zurückkehrt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über große Entfernungen hinweg Bestand hat."
+        ],
+        "positive_aspekte": [
+          "Er nennt konkret die im Text vorkommenden Orte (Pyramiden am Nil, tropische Insel, Basar in Algier).",
+          "Er bezieht sich auf die wiederholte Zeile \"You belong to me\" und die beiden Zeilen, die Einsamkeit ausdrücken."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von der Sehnsucht und dem Verlangen nach einer geliebten Person, die sich auf Reisen befindet.",
+          "Doch trotz der Entfernung und der faszinierenden Eindrücke, die die Reise mit sich bringt, bleibt die Erinnerung an die Liebe und die Zugehörigkeit zueinander bestehen.",
+          "Die wiederkehrende Zeile \"You belong to me\" unterstreicht die tiefe emotionale Bindung und das Gefühl der Zugehörigkeit, das die räumliche Trennung überwindet.",
+          "Die Melancholie und Einsamkeit, die durch die Trennung entsteht, werden durch die Zeilen \"I'll be so alone without you\" und \"Maybe you'll be lonesome, too\" deutlich, doch die Liebe und die Erinnerung aneinander bleiben bestehen, bis die geliebte Person wieder nach Hause zurückkehrt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über große Entfernungen hinweg Bestand hat."
+        ],
+        "positive_aspekte": [
+          "Klare Nennung der im Text vorkommenden exotischen Schauplätze.",
+          "Bezug auf die wiederholte Refrain‑Zeile und die Passagen, die Einsamkeit ausdrücken."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von der Sehnsucht und dem Verlangen nach einer geliebten Person, die sich auf Reisen befindet.",
+          "Doch trotz der Entfernung und der faszinierenden Eindrücke, die die Reise mit sich bringt, bleibt die Erinnerung an die Liebe und die Zugehörigkeit zueinander bestehen.",
+          "Die wiederkehrende Zeile \"You belong to me\" unterstreicht die tiefe emotionale Bindung und das Gefühl der Zugehörigkeit, das die räumliche Trennung überwindet.",
+          "Die Melancholie und Einsamkeit, die durch die Trennung entsteht, werden durch die Zeilen \"I'll be so alone without you\" und \"Maybe you'll be lonesome, too\" deutlich, doch die Liebe und die Erinnerung aneinander bleiben bestehen, bis die geliebte Person wieder nach Hause zurückkehrt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über große Entfernungen hinweg Bestand hat."
+        ],
+        "positive_aspekte": [
+          "Er identifiziert korrekt die im Text genannten Reiseziele.",
+          "Er verweist auf die zentrale Wiederholung der Zeile \"You belong to me\"."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von der Sehnsucht und dem Verlangen nach einer geliebten Person, die sich auf Reisen befindet.",
+          "Doch trotz der Entfernung und der neuen Eindrücke, die die Person sammelt, bleibt die Botschaft des Sängers konstant: \"You belong to me\".",
+          "Dieser Refrain wird wie ein Mantra wiederholt, um die geliebte Person daran zu erinnern, dass sie trotz der physischen Distanz emotional und seelisch immer noch zu ihm gehört.",
+          "Die Erinnerung an die gemeinsame Vergangenheit und die Sehnsucht nach der Rückkehr der geliebten Person werden durch die Zeilen \"I'll be so alone without you\" und \"Maybe you'll be lonesome, too\" unterstrichen.",
+          "Die Bilder von Flugreisen und exotischen Landschaften dienen als Kontrast zu der inneren Zugehörigkeit und Verbundenheit, die der Sänger mit der geliebten Person empfindet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über weite Entfernungen hinweg Bestand hat und die geliebte Person immer wieder an die gemeinsame Bindung erinnert."
+        ],
+        "positive_aspekte": [
+          "Nennung aller im Text vorkommenden Orte.",
+          "Erklärung, dass die Zeile \"You belong to me\" wiederholt wird und als Bindungs‑Mantra fungiert."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... handelt von der Sehnsucht und dem Verlangen nach einer geliebten Person, die sich auf Reisen befindet.",
+          "Doch trotz der Entfernung und der faszinierenden Eindrücke, die die Reise mit sich bringt, bleibt die Erinnerung an die Liebe und die Zugehörigkeit zueinander bestehen.",
+          "Die wiederkehrende Zeile \"You belong to me\" unterstreicht die tiefe emotionale Bindung und das Gefühl der Zugehörigkeit, das die räumliche Trennung überwindet.",
+          "Die Melancholie und Einsamkeit, die durch die Trennung entsteht, werden durch die Zeilen \"I'll be so alone without you\" und \"Maybe you'll be lonesome, too\" deutlich, doch die Liebe und die Erinnerung aneinander bleiben bestehen, bis die geliebte Person wieder nach Hause zurückkehrt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine romantische Ode an die Liebe, die auch über große Entfernungen hinweg Bestand hat."
+        ],
+        "positive_aspekte": [
+          "Korrekte Identifikation der im Text genannten exotischen Schauplätze.",
+          "Bezug auf die zentrale Wiederholung der Zeile \"You belong to me\"."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch und weisen dieselbe hohe Rate an erfundenen Aussagen auf; die Varianz ist minimal.",
+    "empfehlung": "Die vorliegenden Modelle neigen stark zu Halluzinationen, indem sie emotionale und intentionale Aussagen hinzufügen, die nicht aus dem Text ableitbar sind. Für eine bessere Bewertung sollten zukünftige Modelle stärker auf reine Textbelege setzen und vage, allgemeine Floskeln vermeiden. Interpretation 2 ist leicht besser, weil sie mehr Textbelege (alle genannten Orte) einbindet und die Wiederholung des Refrains explizit als Bindungs‑Mantra beschreibt, bleibt aber dennoch stark halluziniert."
+  }
+}

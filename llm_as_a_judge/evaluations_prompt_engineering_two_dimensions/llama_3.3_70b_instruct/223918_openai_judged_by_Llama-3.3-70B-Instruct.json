@@ -1,0 +1,99 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von öffentlicher Fassade und privatem Ermittler suggeriert ein Spannungsfeld zwischen Sichtbarkeit und Geheimnis, das in den 1970er-Jahren durch die wachsende Medienkritik und das Aufkommen von Überwachungstechnologien an Bedeutung gewann."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung ist zugleich irritierend und humorvoll;"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der Verwendung von Metaphern und Bildern."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Refrain-Sequenz 'Hear no evil / See no evil / Speak no evil' verweist auf das klassische Drei-Affengespann, das in den 1970er-Jahren als Symbol für Zensur und gesellschaftliche Verdrängung rezipiert wurde;"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von sichtbarer Fassade und verborgener Beobachtung erzeugt ein Spannungsfeld zwischen Selbstpräsentation und innerer Überwachung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von assoziativen Kettensprünge und Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft bleibt mehrdeutig: einerseits ein Hinweis auf die Unmöglichkeit, alle Hinweise zu sammeln, andererseits ein Kommentar zur gesellschaftlichen Tendenz, unangenehme Wahrheiten zu verschleiern."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von Phrasen erzeugt ein hypnotisches Rhythmus-Muster;"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von symbolischen 'Clues' und der Wiederholung von Phrasen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aneinanderreihung scheinbar zufälliger Objekte entsteht ein Bild von Informationsüberflutung, das die späte 1970er-Kultur der Medien- und Überwachungsgesellschaft reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Hear no evil / See no evil / Speak no evil' fungieren als moralisches Mantra, das jedoch durch die vorherigen, teils grotesken Details ironisch untergraben wird;"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von elliptischen Metaphern und assoziativen Bildsprünge."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Hear no evil / See no evil / Speak no evil' fungieren als kulturelles Symbol der drei weisheitslosen Affen, das jedoch hier als Zwang zur Selbstzensur und als Hinweis auf die Unfähigkeit, das 'Wahre' zu erfassen, gelesen werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aufzählung von Alltagsgegenständen neben kriminal- und mysteriösen Motiven spiegelt die Vermischung von Banalem und Bedrohlichem in einer post-industrialisierten Gesellschaft wider."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von Metaphern und der Wiederholung von Phrasen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bieten eine gute Analyse der Textstruktur und der Verwendung von Metaphern und Bildern.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Textstruktur und der Verwendung von Metaphern und Bildern bietet und eine hohe Tiefe aufweist."
+  }
+}

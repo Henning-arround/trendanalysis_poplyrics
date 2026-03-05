@@ -1,0 +1,110 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine herzliche und ehrliche Darstellung der menschlichen Sehnsucht nach Liebe und Verbindung, und die Stimme von Nat \"King\" Cole verleiht dem Text eine besondere Intensität und Emotionalität.",
+          "Durch die simple, aber effektive Melodie und die poetischen Textzeilen wird die Zuhörerin oder der Zuhörer in die Gefühlslandschaft des Sängers gezogen ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sänger sehnt sich nach einer Liebe, die ihn glücklich macht und sein Leben bereichert, und er ist bereit, auf diese Liebe zu warten, auch wenn es bedeutet, dass er möglicherweise lange Zeit allein bleibt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive des Textes (Sehnsucht, Enttäuschung, Wunsch nach wahrer Liebe).",
+          "Bezieht sich konkret auf die Schlüssellinie „The most memorable moment in my life will be when you belong to me“.",
+          "Verwendet durchgehend die gleiche Sprache und bleibt beim Thema des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine herzliche und ehrliche Darstellung der menschlichen Sehnsucht nach Liebe und Verbindung, und die Stimme von Nat \"King\" Cole verleiht dem Text eine besondere Intensität und Emotionalität.",
+          "Durch die simple, aber effektive Melodie und die poetischen Textzeilen wird die Zuhörerin oder der Zuhörer in die Gefühlslandschaft des Sängers gezogen ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sänger sehnt sich nach einer Liebe, die ihn glücklich macht und sein Leben bereichert, und er ist bereit, auf diese Liebe zu warten, auch wenn es bedeutet, dass er möglicherweise lange Zeit allein bleibt."
+        ],
+        "positive_aspekte": [
+          "Klare Struktur: Einleitung, Analyse der einzelnen Textpassagen, Schlussfolgerung.",
+          "Verknüpft die wiederholte Zeile mit der Gesamtaussage des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine herzliche und ehrliche Darstellung der menschlichen Sehnsucht nach Liebe und Verbindung, und die Stimme von Nat \"King\" Cole verleiht dem Text eine besondere Intensität und Emotionalität.",
+          "Durch die simple, aber effektive Melodie und die poetischen Textzeilen wird die Zuhörerin oder der Zuhörer in die Gefühlslandschaft des Sängers gezogen ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sänger sehnt sich nach einer Liebe, die ihn glücklich macht und sein Leben bereichert, und er ist bereit, auf diese Liebe zu warten, auch wenn es bedeutet, dass er möglicherweise lange Zeit allein bleibt."
+        ],
+        "positive_aspekte": [
+          "Stellt die zentrale Wiederholung („The most memorable moment…“) in den Vordergrund.",
+          "Verknüpft die Textinhalte mit einer allgemeinen, aber nachvollziehbaren emotionalen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine herzliche und ehrliche Darstellung der menschlichen Sehnsucht nach Liebe und Verbindung, und die Stimme von Nat \"King\" Cole verleiht dem Text eine besondere Intensität und Emotionalität.",
+          "Durch die simple, aber effektive Melodie und die poetischen Textzeilen wird die Zuhörerin oder der Zuhörer in die Gefühlslandschaft des Sängers gezogen ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sänger sehnt sich nach einer Liebe, die ihn glücklich macht und sein Leben bereichert, und er ist bereit, auf diese Liebe zu warten, auch wenn es bedeutet, dass er möglicherweise lange Zeit allein bleibt."
+        ],
+        "positive_aspekte": [
+          "Gute Wiederholung der Kernaussage des Songs ohne übermäßige Abschweifungen.",
+          "Verwendet Zitate aus dem Song, um die Analyse zu verankern."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine herzliche und ehrliche Darstellung der menschlichen Sehnsucht nach Liebe und Verbindung, und die Stimme von Nat \"King\" Cole verleiht dem Text eine besondere Intensität und Emotionalität.",
+          "Durch die simple, aber effektive Melodie und die poetischen Textzeilen wird die Zuhörerin oder der Zuhörer in die Gefühlslandschaft des Sängers gezogen ..."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Sänger sehnt sich nach einer Liebe, die ihn glücklich macht und sein Leben bereichert, und er ist bereit, auf diese Liebe zu warten, auch wenn es bedeutet, dass er möglicherweise lange Zeit allein bleibt."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Grundstimmung des Songs (Sehnsucht, Enttäuschung, Hoffnung).",
+          "Bezieht sich explizit auf die wiederholte Zeile als Schlüsselmoment."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch, was zu einer geringen Varianz in Halluzinations‑ und Tiefescores führt.",
+    "empfehlung": "Die vorliegenden Modelle erzeugen stark redundante Analysen. Ein besserer Ansatz wäre, mehr Textbezug mit differenzierten, konkreten Interpretationsansätzen zu kombinieren und spekulative Aussagen zu vermeiden, um sowohl Halluzinationen zu reduzieren als auch die analytische Tiefe zu erhöhen."
+  }
+}

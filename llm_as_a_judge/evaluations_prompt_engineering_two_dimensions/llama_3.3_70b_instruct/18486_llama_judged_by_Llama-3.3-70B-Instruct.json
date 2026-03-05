@@ -1,0 +1,99 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1960er Jahre waren eine Zeit des sozialen und politischen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist vielschichtig und kann je nach Hörer unterschiedlich sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee eines universellen Rhythmus und einer göttlichen Ordnung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist eine Botschaft der Hoffnung und des Friedens"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern und Symbolen wird analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen deutlich, die die Idee eines universellen Rhythmus und einer göttlichen Ordnung vermitteln"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist eine Botschaft der Hoffnung und des Friedens"
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung des Refrains wird analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die literarischen Stilmittel von Metaphern und Symbolen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist eine Botschaft der Hoffnung und des Friedens"
+        ],
+        "positive_aspekte": [
+          "Die emotionale Wirkung des Songs wird analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung basiert auf der biblischen Weisheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Botschaft des Songs ist eine Botschaft der Hoffnung und des Friedens"
+        ],
+        "positive_aspekte": [
+          "Die tiefere Bedeutungsebene des Songs wird analysiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen balancieren Textreue mit analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs bietet"
+  }
+}

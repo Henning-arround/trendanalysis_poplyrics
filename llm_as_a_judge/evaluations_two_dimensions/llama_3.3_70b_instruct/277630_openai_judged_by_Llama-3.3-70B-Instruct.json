@@ -1,0 +1,99 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'gesellschaftlichen Strukturen' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über 'Zerbrechlichkeit von Gemeinschaften'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Szene auf der Veranda und die Kontrastierung von Oberflächlichkeit und verborgener Brutalität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unterstellung von 'Selbstgerechtigkeit und moralischer Selbsttäuschung' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über 'gesellschaftliche Spannungen' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Polizeiarbeit und die Betonung der kollektiven Blindheit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'everybody wears a halo' als ironischer Verweis auf Selbstgerechtigkeit ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über 'Zerbrechlichkeit von Sicherheit und Gemeinschaft'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Eröffnungsszene und die Betonung der Verdrängung von Schuld"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unterstellung von 'struktureller Gewalt' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über 'Alltäglichkeit von Gewalt' ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Szene mit der Polizei und die Betonung der Verdrängung von Schuld"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'everybody wears a halo' als ironischer Verweis auf Selbstgerechtigkeit ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über 'Zerbrechen von Sicherheit'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Eröffnungsszene und die Betonung der Verdrängung von Trauma"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textinhalte, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet allzu spekulative Aussagen"
+  }
+}

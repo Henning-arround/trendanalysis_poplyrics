@@ -1,0 +1,91 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse (Fragen nach Dauer, Metapher des Kratzens, Wiederholungen).",
+          "Erkennt die Ambivalenz zwischen Unterstützung und Belastung.",
+          "Verknüpft konkrete Textstellen (z. B. „when I'm outta sight then I'm out of mind“) mit interpretativen Schlüssen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Betrachtung aller wiederkehrenden Motive („mercy, lawdy“, „Ow ow ow“).",
+          "Klare Verbindung von Text und Konzepten wie Zirkularität und Abhängigkeit.",
+          "Stilistisch differenziert (z. B. „fast sakrale Qualität“, „primalen Bedürftigkeit“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Der Song wird zu einer ironischen Reflexion über die Oberflächlichkeit von Gefälligkeiten“ – sehr allgemeine Bewertung ohne weitere Textbelege."
+        ],
+        "positive_aspekte": [
+          "Stabile Grundanalyse (Fragen nach Dauer, Metapher des Kratzens, Wiederholungen).",
+          "Erkennt das Ritual‑Charakter der Wiederholungen („mercy, lawdy“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textstellen mit Konzepten wie „wechselseitiger Ausgleich“ und „spirituelle Bitte“.",
+          "Erklärt die Bedingtheit des Austauschs („when I'm outta sight then I'm out of mind“).",
+          "Bietet eine kohärente Gesamterzählung des Zyklus von Erwartung, Austausch und Vergessen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Das Bild des Rückenskratzens wird zu einem Symbol für die fragile Balance zwischen Selbstaufopferung, Erwartung und dem unaufhörlichen Wunsch nach Bestätigung“ – sehr allgemeine Aussage ohne weitere Textanalyse."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive (Fragen nach Dauer, „mercy, lawdy“, „Ow ow ow“).",
+          "Verbindet das physische Bild des Kratzens mit einer leichten Qual, was aus dem Text ableitbar ist."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben stark am Text orientiert, zeigen jedoch leichte Varianz im Detailgrad – einige wiederholen zentrale Punkte ohne neue Einsichten (Interpretationen 4 und 5), während andere (1,2,3) tiefergehende Verknüpfungen herstellen.",
+    "empfehlung": "Interpretationen 1, 2 und 3 bieten die ausgewogenste Mischung aus Texttreue und analytischer Tiefe. Besonders Interpretation 3 überzeugt durch präzise, textbasierte Argumentation und konsequente Berücksichtigung von Mehrdeutigkeiten."
+  }
+}

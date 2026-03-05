@@ -1,0 +1,105 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen ... deutlich, wo die Sängerin ihre Sehnsucht nach einem Ort ausdrückt, an dem sie authentisch sein kann.",
+          "Die Verwendung von Metaphern ... unterstreicht die thematische Komplexität ... und betont die Bedeutung von Erinnerungen und Beziehungen für das Gefühl von Zuhause.",
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Symbolen ... verstärkt, die eine tiefe emotionale Bindung und Sehnsucht ausdrücken.",
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Themen von Identität, Zugehörigkeit und Freiheit angesprochen."
+        ],
+        "positive_aspekte": [
+          "Bezieht konkrete Bildsprache aus dem Text (z. B. „Walls around me“, „Film that clouds it“).",
+          "Erkennt Ambivalenz und Widersprüche im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt.",
+          "Die zentrale Botschaft wird in den Zeilen ... deutlich.",
+          "Die Verwendung von Metaphern ... unterstreicht die thematische Komplexität ... und betont die Bedeutung von Erinnerungen und Beziehungen.",
+          "Die kulturelle und gesellschaftliche Dimension wird durch die Betonung der Bedeutung von Beziehungen und Erinnerungen deutlich."
+        ],
+        "positive_aspekte": [
+          "Erwähnt die wiederholte Frage nach dem Vermissen der Vergangenheit und verknüpft sie mit dem Konzept einer „symbolischen Ordnung“ im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt.",
+          "Die zentrale Botschaft wird in den Zeilen ... deutlich.",
+          "Die Verwendung von Metaphern ... unterstreicht die thematische Komplexität ... indem sie die Vergänglichkeit von Erinnerungen und die Bedeutung von zwischenmenschlichen Beziehungen hervorhebt.",
+          "Die emotionale Wirkung wird durch die affektive Dimension ... verstärkt, die eine tiefe Sehnsucht und Traurigkeit ausdrücken."
+        ],
+        "positive_aspekte": [
+          "Stellt klar heraus, dass die Wiederholung von „Home is where my heart is“ die emotionale Kernbotschaft betont."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt.",
+          "Die zentrale Botschaft wird in den Zeilen ... deutlich.",
+          "Die Verwendung von Metaphern ... unterstreicht die thematische Komplexität ... und betont die Bedeutung von Erinnerungen und Beziehungen für das Gefühl von Zuhause.",
+          "Die kulturelle und gesellschaftliche Bedeutung kann im Kontext der modernen Gesellschaft gesehen werden, in der viele Menschen auf der Suche nach einem Ort sind, an dem sie sich geborgen und authentisch fühlen können."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die Textzeile „I'm grateful for the chance that it's mine“ mit einer Reflexion über Selbstakzeptanz."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einem Ort, an dem man sich geborgen und frei fühlt.",
+          "Die zentrale Botschaft wird in den Zeilen ... deutlich.",
+          "Die Verwendung von Metaphern ... unterstreicht die thematische Komplexität ... und betont die Bedeutung von Erinnerungen und Beziehungen.",
+          "Die kulturelle und gesellschaftliche Dimension wird durch die Betonung der Bedeutung von Beziehungen und Erinnerungen deutlich."
+        ],
+        "positive_aspekte": [
+          "Bezieht die Zeile „I'm grateful for the chance that it's mine“ ein und interpretiert sie als Hinweis auf Wertschätzung der Gegenwart."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im Detailgrad der Textbezüge. Die Unterschiede in Tiefe sind moderat, aber keine Interpretation liefert tiefgründige, textbasierte Analysen.",
+    "empfehlung": "Ein Ansatz, der konkrete Bildsprache aus dem Song (z. B. „Walls around me“, „Film that clouds it“) nutzt und gleichzeitig die Ambivalenz des Textes offen lässt, erzielt die beste Balance zwischen Faktentreue und analytischer Tiefe. Zukunftige Modelle sollten weniger generische Aussagen und mehr textnahe, differenzierte Analysen produzieren."
+  }
+}

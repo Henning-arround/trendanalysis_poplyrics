@@ -1,0 +1,99 @@
+{
+  "song": "Assistant's Cry - Yello (1980)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Oberflächlichkeit des Alltags wird betont"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Stück kritisiert die Zyklen von Oberflächlichkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Themen Anonymität und Selbsterkenntnis ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen deuten auf eine verborgene Verzweiflung hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von hunderttausend Menschen schildert das kollektive Streben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Diskrepanz zwischen äußerer Fassade und innerem Aufruhr"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Entfremdung des Einzelnen in einer Gesellschaft wird kritisiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des unerreichbaren Himmels steht für unerfüllte Sehnsüchte"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Verdrängung von Angst durch oberflächliche Lacher"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Verurteilung wirkt nicht als reine Beschimpfung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von hunderttausend Menschen schildert das kollektive Streben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Absurdität einer Gesellschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Masse versucht, ihre Träume zu schützen, ohne zu wissen, wonach sie suchen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von looking for the skies symbolisiert das unerreichbare Ideal"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Themen Anonymität und Selbsterkenntnis ab"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (1, 3, 5) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die Interpretationen sollten sich auf die textbasierte Analyse konzentrieren und Ambivalenzen und Mehrdeutigkeiten berücksichtigen, um eine tiefergehende und textgetreue Interpretation zu erreichen."
+  }
+}

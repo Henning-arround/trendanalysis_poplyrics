@@ -1,0 +1,99 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die historische Kontextualisierung im Kalten Krieg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die thematische Komplexität"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Annahme über die post-modernen Popkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die doppelte Sehnsucht ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der kontrastierenden Bilder"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zur post-modernen Popkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die thematische Komplexität"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kontrastierenden Bilder und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Annahme über die kollektive Sehnsucht nach Überwindung von Barrieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die zentrale Botschaft ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der kontrastierenden Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die historische Kontextualisierung im Kalten Krieg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die thematische Komplexität"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Symbolik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Symbolik, aber variieren in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist wichtig, kreative Interpretationen zu vermeiden, die nicht durch den Text gestützt werden."
+  }
+}

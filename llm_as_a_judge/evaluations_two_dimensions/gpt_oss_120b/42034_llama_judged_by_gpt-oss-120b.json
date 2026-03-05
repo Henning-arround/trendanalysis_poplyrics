@@ -1,0 +1,105 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"Free games for May\" könnten ein Symbol für die Freiheit und den Spaß sein, den man in dieser Traumwelt erleben kann.",
+          "Die wiederholte Aufforderung \"See Emily play\" unterstreicht die Vorstellung, dass Emily in dieser Welt der Fantasie lebt und sich frei bewegen kann.",
+          "Die Beschreibung von Emily, die in einem langen Kleid durch die Natur schwebt, deutet auf eine Art von spiritueller oder mystischer Erfahrung hin.",
+          "Die Zeile \"Float on a river / Forever and ever, Emily\" suggeriert, dass Emily in einer Art von Zeitlosigkeit gefangen ist, in der sie frei und unbeschwert ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art von Ode an die Fantasie und die Freiheit des Traums interpretiert werden, in der die Grenzen der Realität aufgehoben sind und die Seele frei schweben kann."
+        ],
+        "positive_aspekte": [
+          "Alle wesentlichen Textpassagen (Emily versucht, die Realität zu verstehen, die Zeile „There is no other day“, die Aufforderungen „Let's try it another way“ und „You'll lose your mind and play“) wurden korrekt als aus dem Songtext ableitbare Aussagen gekennzeichnet.",
+          "Die Interpretation bleibt eng am Wortlaut des Textes und vermeidet unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"Free games for May\" könnten ein Symbol für die unbeschwerte und sorglose Natur der Kindheit sein, in der man noch nicht von den Zwängen und Erwartungen der Gesellschaft eingeschränkt ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich eindeutig aus dem Songtext ableiten (z. B. Emily missversteht, die Zeile „There is no other day“, die Bildsprache mit dem langen Kleid und dem Fließen des Flusses).",
+          "Die Analyse ist strukturiert und bietet eine klare Verbindung zwischen Textzeile und interpretierter Bedeutung, ohne unnötige Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"Free games for May\" könnten ein Symbol für die Freiheit und den Spaß sein, den man in dieser Traumwelt erlebt.",
+          "Die wiederholte Aufforderung \"See Emily play\" unterstreicht die Vorstellung, dass Emily in dieser Welt der Fantasie lebt und sich frei bewegen kann.",
+          "Die Beschreibung von Emily, die in einem langen Kleid durch die Natur schwebt, deutet auf eine Art von spiritueller oder mystischer Erfahrung hin.",
+          "Die Zeile \"Float on a river / Forever and ever, Emily\" suggeriert, dass Emily in einer Art von Zeitlosigkeit gefangen ist, in der sie für immer und ewig in dieser Traumwelt existieren kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art von Ode an die Fantasie und die Freiheit des Traums interpretiert werden, in der die Grenzen der Realität aufgehoben sind und die Seele frei schweben kann."
+        ],
+        "positive_aspekte": [
+          "Alle Basisinformationen (Emily versucht, die Realität zu verstehen, die Zeile „There is no other day“, die wiederholten Aufforderungen) sind korrekt wiedergegeben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"Free games for May\" könnten ein Symbol für die unbeschwerte und sorglose Natur der Kindheit sein, in der man noch nicht von den Zwängen der Erwachsenenwelt eingeschränkt ist.",
+          "Die wiederholte Aufforderung \"See Emily play\" wird zu einer Art Mantra, das den Zuhörer einlädt, sich Emily anzuschließen und in ihre Welt der Fantasie und des Spiels zu treten.",
+          "Durch die Beschreibung von Emily, die in einem langen Kleid durch die Landschaft schwebt, wird das Bild einer friedlichen und idyllischen Szene gezeichnet, in der Emily endlich frei ist, ihre Träume zu leben."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Analyse verbindet Textzitate mit einer nachvollziehbaren Bildsprache und bleibt dabei weitgehend textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"Free games for May\" könnten ein Symbol für die unbeschwerte und sorglose Natur der Kindheit sein, in die Emily und der Sänger eintauchen möchten.",
+          "Die wiederholte Aufforderung \"See Emily play\" wird zu einer Art Mantra, das die Zuhörer einlädt, sich Emily anzuschließen und in ihre Welt der Fantasie und des Spiels zu treten.",
+          "Durch die Verwendung von Bildern wie dem Fluss und dem ewigen Schwimmen wird die Vorstellung von Zeitlosigkeit und Freiheit noch verstärkt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Kernaussagen des Textes (Emily missversteht, die Zeile „There is no other day“, die Bildsprache mit dem Kleid und dem Fluss) werden korrekt als textbasierte Beobachtungen gekennzeichnet."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch stark im Anteil erfundener bzw. oberflächlicher Aussagen. Die Varianz ist hoch: Interpretation 1 ist textnah und tiefgehend, während die anderen mehrere spekulative Deutungen enthalten.",
+    "empfehlung": "Ein Ansatz, der primär textbasierte Beobachtungen liefert und nur wenige, gut begründete spekulative Deutungen einbringt (wie Interpretation 1), erzielt das beste Gleichgewicht zwischen Faktentreue und analytischer Tiefe. Künftige Modelle sollten darauf trainiert werden, spekulative Symboldeutungen klar als solche zu kennzeichnen und nicht als gesicherte Fakten zu präsentieren."
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2009 veröffentlicht, einer Zeit, in der die Popmusik stark von Dancehall- und R&B-Elementen geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Der Song thematisiert auch die Sehnsucht nach einer vergangenen Beziehung, ein Thema, das in der Popmusik häufig behandelt wird.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Wirkung, die durch die Verwendung von literarischen Stilmitteln entsteht."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textbelege (Zitat von Zeilen) werden korrekt wiedergegeben.",
+          "Erkennt und benennt konkrete stilistische Mittel (Metaphern, Imperative, Bildsprache).",
+          "Verknüpft die Verwendung von Patois‑Ausdrücken mit möglichen kulturellen Einflüssen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist auch von Bedeutung.",
+          "Der Song ist ein Produkt der Popkultur des 21. Jahrhunderts und reflektiert die Sehnsucht nach Liebe und Beziehungen, die in dieser Kultur weit verbreitet ist.",
+          "Der Song kann auch als Ausdruck der Nostalgie nach einer vergangenen Zeit interpretiert werden, die in der Popkultur häufig thematisiert wird.",
+          "Insgesamt zeigt der Song eine komplexe Struktur von Bedeutungen und Emotionen, die ihn zu einem vielschichtigen Werk machen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Botschaft und belegt sie mit konkreten Textstellen.",
+          "Erkennt und erklärt Metaphern und Symbolik (z. B. „Let's bring it back“).",
+          "Bezieht sich auf wiederholte emotionale Ausrufe im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2009 veröffentlicht, einer Zeit, in der die Popmusik stark von Dancehall- und R&B-Elementen geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Der Song thematisiert auch die Sehnsucht nach einer vergangenen Beziehung, ein Thema, das in der Popmusik häufig behandelt wird.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Wirkung, die durch die Verwendung von literarischen Stilmitteln entsteht."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der rhetorischen Fragen und Imperative im Text.",
+          "Verknüpft sprachliche Besonderheiten (Patois) mit möglichen stilistischen Einflüssen.",
+          "Klare Struktur: Aussage → Textbeleg → Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2009 veröffentlicht, einer Zeit, in der die Popmusik stark von Dancehall- und R&B-Elementen geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Der Song thematisiert auch die Sehnsucht nach einer vergangenen Beziehung, ein Thema, das in der Popmusik häufig behandelt wird.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Wirkung, die durch die Verwendung von literarischen Stilmitteln entsteht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert und erklärt mehrere literarische Stilmittel (Metaphern, Imperative, Bildsprache).",
+          "Bezieht sich konkret auf Patois‑Ausdrücke und diskutiert deren Bedeutung.",
+          "Stellt die wiederholte Frage „Do you remember?“ als Mittel zur Erzeugung von Intimität dar."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2009 veröffentlicht, einer Zeit, in der die Popmusik stark von Dancehall- und R&B-Elementen geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden.",
+          "Der Song thematisiert auch die Sehnsucht nach einer vergangenen Beziehung, ein Thema, das in der Popmusik häufig behandelt wird.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Wirkung, die durch die Verwendung von literarischen Stilmitteln entsteht."
+        ],
+        "positive_aspekte": [
+          "Genaue Zitierung von Textstellen zur Untermauerung der Analyse.",
+          "Erkennt und diskutiert die Wirkung von Wiederholungen und Fragen im Refrain.",
+          "Verknüpft sprachliche Besonderheiten mit möglichen kulturellen Einflüssen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Interpretationen 2‑5 sind nahezu identisch und zeigen eine hohe Konsistenz; Interpretation 1 weicht stilistisch ab und ist weniger tiefgehend.",
+    "empfehlung": "Interpretationen 2‑5 bieten das beste Gleichgewicht aus Texttreue und analytischer Tiefe. Sie vermeiden größere Halluzinationen und liefern konkrete, textbasierte Analysen, während Interpretation 1 zwar völlig frei von Halluzinationen ist, aber zu oberflächlich bleibt."
+  }
+}

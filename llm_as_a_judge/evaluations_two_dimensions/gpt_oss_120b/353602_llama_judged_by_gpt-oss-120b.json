@@ -1,0 +1,86 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Aussagen (z. B. „Stay, stay a little longer“, „Well I’ll take what I can before you leave“).",
+          "Ergänzt die emotionale Steigerung im Schluss („Ahh“‑Rufe) und verknüpft sie mit körperlicher Nähe.",
+          "Keine spekulativen biografischen oder genre‑bezogenen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Analyse der wichtigsten Zeilen (z. B. „That is just a smile“, „It’s all an illusion“).",
+          "Stellt die melancholische Grundstimmung und die resignierte Akzeptanz heraus."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Refrain‑Inhalten mit der körperlichen Anziehung.",
+          "Erfasst die wiederholte Thematik von Zeitknappheit und Hoffnung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die wachsende Emotionalität im Schluss („Ahh“‑Rufe).",
+          "Verbindet die körperliche Anziehung („silky skin“) mit dem Wunsch nach Nähe.",
+          "Keine spekulativen Angaben, ausschließlich Textbezug."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betont die Bedeutung einzelner Zeilen wie „That is just a smile“.",
+          "Hebt die Verzweiflung und den Glauben an eine mögliche Rettung der Beziehung hervor."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch in Detailtiefe. Die Varianz ist gering – hauptsächlich in der zusätzlichen Analyse von Emotionen im Schluss.",
+    "empfehlung": "Interpretation 2 (und identisch Interpretation 3) liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe, indem sie sowohl die strukturellen Wiederholungen als auch die emotionale Steigerung im Finale berücksichtigt, ohne spekulative Aussagen einzubringen."
+  }
+}

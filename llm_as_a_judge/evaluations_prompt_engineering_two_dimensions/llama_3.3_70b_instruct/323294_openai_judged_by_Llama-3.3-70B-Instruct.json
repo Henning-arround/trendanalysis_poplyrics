@@ -1,0 +1,99 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von persönlicher Erlösung und eschatologischer Erwartungshaltung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Selbstinszenierung des Individuums"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbolik im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von Unterwerfung und Freiheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen subjektiver Erfahrung und öffentlicher Verkündigung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der bildhaften Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verknüpfung von persönlicher Erlösung und eschatologischer Erwartung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Rahmung des lyrischen Ich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der christlich-symbolischen Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von Gegenwart und Zukunft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen irdischer Zufriedenheit und transzendenter Erwartung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der sakralen Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verknüpfung von persönlicher Erlösung und eschatologischer Erwartungshaltung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Selbstinszenierung des Individuums"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbolik im Text"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metaphern und Symbolik",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

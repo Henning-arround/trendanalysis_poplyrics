@@ -1,0 +1,89 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Befreiung von alltäglichen Sorgen und Pflichten interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen 'Why, why do you stand aside / You shouldn't miss the fun'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Befreiung von alltäglichen Sorgen und Pflichten interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Wiederholung von 'Shake a leg' und 'Dance, dance, dance' wird gut analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song scheint auch auf die Aerobic-Bewegung der 80er Jahre anzuspielen"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen 'Warming up' und 'Cooling down'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song scheint auch auf die Aerobic-Bewegung der 80er Jahre anzuspielen"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen 'Cross-cross, one-two-three-four' und 'Kick, change, kick, change'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Befreiung von alltäglichen Sorgen und Pflichten interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen 'Why, why do you stand aside / You shouldn't miss the fun'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2 und 5 haben sehr ähnliche Aussagen, während die Interpretationen 3 und 4 etwas tiefer gehen",
+    "empfehlung": "Die Interpretationen sollten mehr auf die textlichen Details eingehen und weniger Allgemeinplätze verwenden"
+  }
+}

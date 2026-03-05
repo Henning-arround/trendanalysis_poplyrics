@@ -1,0 +1,95 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Sehnsucht nach Nähe und Verbindung in einer Gesellschaft gesehen werden, in der die Beziehungen oft von Unsicherheit und Veränderung geprägt sind."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. Metapher „silky skin“, Wiederholungen, thematische Unsicherheit).",
+          "Analyse von Stilmitteln und Symbolik ist konkret und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck von Sehnsucht nach Nähe in einer Gesellschaft gesehen werden, in der Beziehungen oft von Unsicherheit und Veränderung geprägt sind."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Interpretationen (Metaphern, Wiederholungen, Symbolik).",
+          "Wenig vage Allgemeinplätze, dafür konkrete Bezüge zum Wortlaut."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck von Sehnsucht nach menschlicher Verbindung und Nähe in einer zunehmend individualisierten und isolierten Gesellschaft gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung, klare Analyse von Metaphern und Wiederholungen.",
+          "Erkennt die Ambivalenz von „Illusion“ und „Loslassen“ im Kontext des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische Kontext des Songs kann in der Betonung der emotionalen und körperlichen Nähe in der Popkultur des frühen 21. Jahrhunderts gesehen werden.",
+          "Die tiefere Bedeutungsebene liegt in der Auseinandersetzung mit menschlichen Emotionen und der Suche nach Verbindung und Nähe."
+        ],
+        "positive_aspekte": [
+          "Erkennt strukturelle Elemente (Vers‑/Refrain‑Wechsel) und deren emotionale Wirkung.",
+          "Bezieht sich korrekt auf wiederholte Textstellen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Sehnsucht nach Nähe und Verbindung in einer Gesellschaft gesehen werden, in der die Beziehungen oft von Unsicherheit und Veränderung geprägt sind."
+        ],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Analyse von Metaphern, Symbolen und Wiederholungen.",
+          "Wenig spekulative Aussagen, hohe Faktentreue."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im Umfang der oberflächlichen Kontextualisierungen. Die meisten Texte (1,3,4,5) zeigen hohe Faktentreue und substantielle Analyse, während Interpretation 2 mehr vage, kulturhistorische Aussagen enthält.",
+    "empfehlung": "Interpretationen, die sich streng am Wortlaut orientieren und gleichzeitig stilistische Mittel (Metaphern, Wiederholungen, Symbolik) detailliert beleuchten, erzielen die beste Balance aus Faktentreue und analytischer Tiefe. Zukunftige Modelle sollten vage Kultur‑ oder Geschichtsbeschreibungen vermeiden, wenn der Text keine entsprechenden Anhaltspunkte liefert."
+  }
+}

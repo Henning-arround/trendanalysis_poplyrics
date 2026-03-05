@@ -1,0 +1,99 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zur Arbeiterklasse und Gewerkschaftsbewegung"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Atmosphäre der Unbeschwertheit und des jugendlichen Überschwangs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verweist auf eine starke Verbindung zur Stadt Glasgow und ihrer Umgebung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene mit Feuerwerkskörpern und Tizer könnte mit Fußballspielen in Verbindung stehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Atmosphäre des Festes und der Feier"
+        ],
+        "positive_aspekte": [
+          "Die Figur von Billy, dem Metzger, fügt der Geschichte eine Note von Groteske und sozialer Kritik hinzu"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zur Arbeiterklasse und Gewerkschaftsbewegung"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Atmosphäre der Unbeschwertheit und des jugendlichen Überschwangs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verweist auf eine starke Verbindung zur Stadt Glasgow und ihrer Umgebung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene mit Feuerwerkskörpern und Tizer könnte mit Fußballspielen in Verbindung stehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Atmosphäre des Festes und der Feier"
+        ],
+        "positive_aspekte": [
+          "Die Figur von Billy, dem Metzger, fügt der Geschichte eine Note von Groteske und sozialer Kritik hinzu"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene mit Feuerwerkskörpern und Tizer könnte mit Fußballspielen in Verbindung stehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine Atmosphäre des Festes und der Feier"
+        ],
+        "positive_aspekte": [
+          "Die Figur von Billy, dem Metzger, fügt der Geschichte eine Note von Groteske und sozialer Kritik hinzu"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren und weniger auf spekulative Aussagen"
+  }
+}

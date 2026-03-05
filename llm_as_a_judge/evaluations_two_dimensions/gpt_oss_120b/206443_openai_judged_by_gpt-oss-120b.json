@@ -1,0 +1,103 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Zusammenfassend vermittelt der Song ein melancholisches Bild von Liebe, die trotz intensiver Bemühungen an Unvereinbarkeit scheitert, und von der schmerzlichen Erkenntnis, dass das Weiterziehen nicht mehr aus Hoffnung, sondern aus resignierter Akzeptanz entsteht."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah, fast jede Aussage lässt sich klar aus den Lyrics ableiten.",
+          "Gute analytische Tiefe, viele konkrete Bezüge zu einzelnen Zeilen.",
+          "Wenig bis keine spekulativen Ergänzungen, dadurch hohe Faktentreue."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile verdeutlicht, dass beide Partner ... von Schuldgefühlen oder der Angst vor dem Alleinsein zurückgehalten werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogen, kaum vage Allgemeinplätze.",
+          "Erklärt die wiederholte Frage „Where do we go from here?“ sehr gut.",
+          "Verknüpft einzelne Textstellen zu einem kohärenten Bild der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt damit in einer melancholischen Endlosschleife gefangen, in der die Frage nach dem nächsten Schritt nie beantwortet wird und das Unausweichliche – das Auseinanderdriften – als stiller, aber bestimmender Abschluss erscheint."
+        ],
+        "positive_aspekte": [
+          "Klare, schrittweise Analyse der Lyrics.",
+          "Wenig spekulative Ergänzungen, hohe Faktentreue.",
+          "Gute Balance zwischen Beschreibung und Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die innere Zerrissenheit spiegelt das klassische Dilemma einer Beziehung wider, die ... von Schuldgefühlen und unerfüllten Erwartungen belastet wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Zusammenfassend vermittelt der Text eine melancholische Reflexion über das Ende einer einstigen Verbundenheit, die von unausgesprochenen Sehnsüchten, falschen Hoffnungen und dem unausweichlichen Abschied geprägt ist.",
+          "Die wiederholte Frage nach dem nächsten Schritt bleibt unbeantwortet und lässt den Hörer mit dem Gefühl zurück, dass manche Beziehungen trotz aller Bemühungen einfach nicht mehr zu retten sind."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Grundstimmung des Songs (Melancholie, Ungewissheit).",
+          "Verbindet mehrere Textstellen zu einer übergeordneten Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese innere Zwickmühle erzeugt ein Spannungsfeld aus Pflichtbewusstsein ... und einer unbewussten Anziehung, die sie immer wieder zurückführt.",
+          "Der Text zeichnet den Übergang ... nach, die jedoch nicht mehr von Leichtigkeit, sondern von Schmerz und Schuldgefühlen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet in einer stillen Akzeptanz, dass das Weiterziehen nicht mehr im Machtbereich der beiden liegt, sondern im Schweigen der unausgesprochenen Träume."
+        ],
+        "positive_aspekte": [
+          "Versucht, die emotionale Dynamik (Resignation, Träume) zu erklären.",
+          "Bezieht sich auf mehrere Schlüsselzeilen des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑5 wiederholen viele der gleichen Grundthesen (Freundschaft vs. Liebe, Frage nach dem Weg, Resignation). Unterschiede liegen vor in der Menge spekulativer Ergänzungen und Oberflächlichkeit. Insgesamt ist die Varianz moderat; Interpretationen 3 und 5 stechen durch hohe Faktentreue und analytische Tiefe hervor.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man den Ansatz von Interpretation 3 (hohe Texttreue, gute Tiefe) mit den strukturierten, klaren Formulierungen von Interpretation 5 kombinieren. Vermeiden Sie spekulative Aussagen zu Gefühlen wie Schuld oder Angst, wenn diese nicht im Text verankert sind."
+  }
+}

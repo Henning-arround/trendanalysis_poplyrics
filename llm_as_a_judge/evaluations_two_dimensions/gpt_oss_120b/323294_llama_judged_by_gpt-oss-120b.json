@@ -1,0 +1,97 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung dieser Zeilen unterstreicht die Bedeutung dieser Aussage und betont die Kontinuität und Beständigkeit des Glaubens."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich direkt aus dem Songtext ableiten.",
+          "Wenig bis keine spekulativen biografischen oder stilistischen Angaben.",
+          "Klare, textbezogene Analyse mit nur einer generischen Bemerkung zur Wiederholung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung dieser Zeilen unterstreicht die Bedeutung dieser Aussage und betont die Kontinuität und Beständigkeit des Glaubens."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Interpretation.",
+          "Keine unbelegten biografischen oder genre‑bezogenen Angaben.",
+          "Gute Balance zwischen Wiederholungserklärung und inhaltlicher Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung dieser Zeilen unterstreicht die Bedeutung dieser Aussage und betont die Kontinuität und Beständigkeit des Glaubens."
+        ],
+        "positive_aspekte": [
+          "Starke Texttreue, fast ausschließlich aus dem Lied ableitbare Aussagen.",
+          "Wenig redundante, aber dennoch inhaltlich sinnvolle Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durchgängig wird die Hingabe und Dankbarkeit des Sängers an seinen Gott betont, was den Song zu einem tiefen und ergreifenden Ausdruck spiritueller Hingabe macht."
+        ],
+        "positive_aspekte": [
+          "Alle Punkte lassen sich klar aus dem Text ableiten.",
+          "Wenig generische Formulierungen, dafür präzise Bezüge zu den einzelnen Zeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung dieser Zeilen unterstreicht die Bedeutung dieser Aussage und betont die Kontinuität und Beständigkeit des Glaubens.",
+          "Der Refrain \"This is my story, this is my song / Praising my Savior all the day long\" wird immer wieder aufgenommen, um die zentrale Botschaft des Liedes zu betonen, nämlich die unerschütterliche Hingabe und das ständige Lob des Sängers an seinen Erlöser."
+        ],
+        "positive_aspekte": [
+          "Vollständige Textbezüge, keine erfundenen biografischen Details.",
+          "Erklärt sowohl die emotionale als auch die theologische Dimension des Textes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Modelle liefern nahezu identische Analysen; die Varianz liegt nur in der Menge generischer Kommentare. Die meisten Interpretationen zeigen eine sehr hohe Faktentreue und moderate bis hohe analytische Tiefe.",
+    "empfehlung": "Die Modelle erzeugen sehr ähnliche Ergebnisse, wobei Interpretation 2 leicht heraussticht, weil sie die wenigsten oberflächlichen Floskeln enthält und gleichzeitig alle textbasierten Beobachtungen klar strukturiert darstellt. Für zukünftige Bewertungen sollte darauf geachtet werden, generische Wiederholungen zu minimieren und mehr differenzierte, textgestützte Analysen zu fördern."
+  }
+}

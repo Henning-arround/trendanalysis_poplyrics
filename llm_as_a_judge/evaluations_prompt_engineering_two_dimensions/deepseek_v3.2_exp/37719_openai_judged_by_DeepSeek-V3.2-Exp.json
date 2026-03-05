@@ -1,0 +1,104 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in die Post-2010-Pop-Kultur einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "eine mehrdeutige Botschaft"
+        ],
+        "positive_aspekte": [
+          "Analyse der Anaphern und imperativischen Aufrufe",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-modernes Begehren nach Authentizität"
+        ],
+        "oberflächliche_aussagen": [
+          "eine Spannungsfläche zwischen flüchtiger Ekstase und dem Wunsch nach dauerhafter Bedeutung"
+        ],
+        "positive_aspekte": [
+          "Analyse der stilistischen Mittel",
+          "Berücksichtigung von kulturellen Kontexten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "verortet sich in der australischen Pop- und Dance-Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "eine Spannung zwischen permanenter Glückseligkeit und der Ungewissheit des Moments"
+        ],
+        "positive_aspekte": [
+          "Analyse der Anaphern und imperativischen Aufrufe",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einordnung in die Post-2010-Pop-Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "eine narrative Selbstinszenierung"
+        ],
+        "positive_aspekte": [
+          "Analyse der stilistischen Mittel",
+          "Berücksichtigung von kulturellen Kontexten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "neoliberaler Idealismus"
+        ],
+        "oberflächliche_aussagen": [
+          "eine latente Spannung zwischen kollektiver Zugehörigkeit und individueller Selbstbehauptung"
+        ],
+        "positive_aspekte": [
+          "durchgehend spezifisch und textanalytisch",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

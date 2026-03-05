@@ -1,0 +1,107 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Planetarium\" von Covenant aus dem Jahr 1997 ist eine tiefgründige und philosophische Auseinandersetzung mit der menschlichen Existenz und dem Streben nach Transzendenz.",
+          "Die Lyrics sind geprägt von einer Atmosphäre der Ehrfurcht und des Staunens, aber auch der Verunsicherung und des Zweifels.",
+          "Insgesamt kann \"Planetarium\" als ein Song interpretiert werden, der die menschliche Suche nach Sinn und Bedeutung in einem scheinbar sinnlosen Universum thematisiert.",
+          "Der Song ist eine Reise ins Unbekannte, eine Exploration der Grenzen der menschlichen Existenz und ein Plädoyer für die spirituelle Suche nach dem Erhabenen."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich klar aus dem vorliegenden Text ab (z. B. die Analyse von „I drank the passions of those lost in the paradox“).",
+          "Die Interpretation geht über reine Oberflächlichkeit hinaus und liefert konkrete Bild‑ und Symboldeutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Planetarium\" von Covenant aus dem Jahr 1997 ist eine tiefgründige und philosophische Auseinandersetzung mit der menschlichen Existenz und dem Streben nach Transzendenz.",
+          "Die Lyrics sind geprägt von einer Atmosphäre der Ehrfurcht und des Staunens, aber auch der Verunsicherung und des Zweifels.",
+          "Insgesamt kann \"Planetarium\" als ein Song interpretiert werden, der die menschliche Suche nach Sinn und Bedeutung in einem scheinbar sinnlosen Universum thematisiert.",
+          "Der Song ist eine Reise ins Unbekannte, eine Exploration der Grenzen der menschlichen Existenz und ein Plädoyer für die spirituelle Suche nach dem Erhabenen."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, besonders bei den Metaphern „serpents temptation“ und „I drank the passions…“.",
+          "Konsistente Argumentationskette, die die Entwicklung vom Zweifel zur Erleuchtung nachvollziehbar macht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Planetarium\" von Covenant aus dem Jahr 1997 ist eine tiefgründige und philosophische Auseinandersetzung mit der menschlichen Existenz und dem Streben nach Transzendenz.",
+          "Die Lyrics sind geprägt von einer Atmosphäre der Sehnsucht und des Staunens, aber auch der Verunsicherung und des Zweifels.",
+          "Insgesamt beschreibt \"Planetarium\" eine Reise ins Unbekannte, die von der Sehnsucht nach Transzendenz und Erkenntnis getrieben ist, aber auch von der Dunkelheit und dem Chaos des Kosmos geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Kompakte Darstellung: weniger Wiederholungen, dafür klare Bezüge zum Text.",
+          "Gute Balance zwischen konkreter Analyse (z. B. „Entangled in a swirling black aura…“) und allgemeiner Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Planetarium\" von Covenant aus dem Jahr 1997 ist eine tiefgründige und philosophische Auseinandersetzung mit der menschlichen Existenz und dem Streben nach Transzendenz.",
+          "Die Lyrics sind geprägt von einer Atmosphäre der Sehnsucht und des Staunens, aber auch der Verunsicherung und des Zweifels.",
+          "Insgesamt beschreibt \"Planetarium\" eine Reise ins Unbekannte, die von der Sehnsucht nach Transzendenz und Erkenntnis getrieben ist, aber auch von der Dunkelheit und dem Chaos des Kosmos geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Erläuterungen zu Schlüsselzeilen wie „I drank the passions…“ und „Entangled in a swirling black aura…“.",
+          "Verknüpft die Bildsprache des Songs mit einer nachvollziehbaren emotional‑philosophischen Entwicklung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Planetarium\" von Covenant aus dem Jahr 1997 ist eine tiefgründige und philosophische Auseinandersetzung mit der menschlichen Existenz und dem Streben nach Transzendenz.",
+          "Die Lyrics sind geprägt von einer Atmosphäre der Ehrfurcht und des Staunens, aber auch der Verunsicherung und des Zweifels.",
+          "Insgesamt kann \"Planetarium\" als ein Song interpretiert werden, der die menschliche Suche nach Sinn und Bedeutung in einem scheinbar sinnlosen Universum thematisiert.",
+          "Der Song ist eine Reise ins Unbekannte, eine Exploration der Grenzen der menschlichen Existenz und ein Plädoyer für die spirituelle Suche nach dem Erhabenen."
+        ],
+        "positive_aspekte": [
+          "Umfassende, aber textnahe Analyse, die die wichtigsten Metaphern des Songs erklärt.",
+          "Stellt die innere Entwicklung des Protagonisten (von Zweifel zu Vollendung) klar heraus."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen basieren auf denselben Kernargumenten; die Variation liegt hauptsächlich im Umfang und in Wiederholungen. Die Scores sind daher identisch, was auf eine hohe Konsistenz, aber geringe Diversität hinweist.",
+    "empfehlung": "Interpretation 2 (oder 5) ist am empfehlenswertesten, weil sie die gleiche inhaltliche Tiefe wie die längeren Versionen bietet, jedoch kompakter und ohne überflüssige Wiederholungen auskommt. Ein guter Ansatz balanciert Texttreue mit prägnanter Analyse und vermeidet unnötige, vage Allgemeinplätze."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik wird hier zu einem Mittel, um eine Art von Einsamkeit oder Isolation zu überwinden"
+        ],
+        "oberflächliche_aussagen": [
+          "eine charmante und intime Aufforderung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen und zieht logische Schlüsse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik von Perry Como für den Sprecher eine Quelle der Trost, des Komforts und der emotionalen Verbindung ist"
+        ],
+        "oberflächliche_aussagen": [
+          "eine charmante und intime Aufforderung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betrachtet die Anrede 'Mr. C' und ihre Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik wird hier zu einem Mittel, um eine Art von Einsamkeit oder Isolation zu überwinden"
+        ],
+        "oberflächliche_aussagen": [
+          "eine charmante und intime Aufforderung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Exklusivität der Erfahrung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik wird hier zu einem Mittel, um eine Art von Einsamkeit oder Isolation zu überwinden"
+        ],
+        "oberflächliche_aussagen": [
+          "eine charmante und intime Aufforderung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die direkte, ungestörte Kommunikation zwischen dem Sprecher und dem Künstler"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik wird hier zu einem Mittel, um eine Art von Einsamkeit oder Isolation zu überwinden"
+        ],
+        "oberflächliche_aussagen": [
+          "eine charmante und intime Aufforderung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation behandelt die emotionale Verbindung und Nähe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Analyse, aber es gibt Wiederholungen in den Aussagen",
+    "empfehlung": "Eine Kombination aus textgetreuer Analyse und kreativer Interpretation ohne Halluzinationen wäre ideal"
+  }
+}

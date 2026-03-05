@@ -1,0 +1,99 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rapper scheinen sich ihrer eigenen Rolle und ihrer Position in der Gesellschaft bewusst zu sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Texte beschreiben eine Welt, in der der Konsum von teuren Getränken und die Zurschaustellung von Reichtum und Einfluss im Vordergrund stehen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Oberflächlichkeit und die Sucht nach Anerkennung und Ruhm"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frauen werden als nachteilig und manipulativ dargestellt, die nur an den Vorteilen des Reichtums und des Ruhms interessiert sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Rapper präsentieren sich selbst als handsome und erfolgreich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Zugehörigkeit zu einer bestimmten Gruppe und die Ablehnung gegenüber anderen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rapper thematisieren die Oberflächlichkeit und den Materialismus der heutigen Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Texte beschreiben eine Welt, in der der Konsum von teuren Getränken und die Zurschaustellung von Reichtum und Einfluss im Vordergrund stehen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation kann auch als eine Art Selbstinszenierung verstanden werden"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rapper präsentieren sich als unangreifbare und mächtige Figuren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Texte sind auch durchzogen von Anspielungen auf Gewalt und Aggression"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Oberflächlichkeit und die Sucht nach Anerkennung und Ruhm"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Künstler positioniert sich als Teil einer exklusiven Gruppe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Texte sind voll von sexuellen Anspielungen und einer gewissen Gewaltbereitschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation kann auch als Ausdruck einer bestimmten Machokultur interpretiert werden"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten thematisieren die Oberflächlichkeit und die Sucht nach Anerkennung und Ruhm",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und thematisiert die Oberflächlichkeit und die Sucht nach Anerkennung und Ruhm"
+  }
+}

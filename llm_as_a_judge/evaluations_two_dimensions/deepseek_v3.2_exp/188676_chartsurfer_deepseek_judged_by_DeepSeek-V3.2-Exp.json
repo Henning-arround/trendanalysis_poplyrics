@@ -1,0 +1,98 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "typische Atmosphäre der Sorglosigkeit und des Friedens",
+          "Ort der Zuflucht und des Vergnügens"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kritik an Überwachung und Kontrolle"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "utopischer Ort der positiven Erfahrungen und Erlebnisse",
+          "Kritik an der Überwachung in der heutigen Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Fokus auf Freiheit und Kreativität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "typische Atmosphäre der Sorglosigkeit und des Friedens",
+          "Ort der Zuflucht und des Vergnügens"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kritik an Überwachung und Kontrolle"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "typische Atmosphäre der Sorglosigkeit und des Friedens",
+          "Ort der Zuflucht und des Vergnügens"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kritik an Überwachung und Kontrolle"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ort, an dem Menschen sich frei und unbeschwert fühlen können",
+          "Freiheit, Kreativität und Sorglosigkeit"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse, aber auch eine Tendenz zu oberflächlichen Aussagen.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf die textbezogene Analyse konzentrieren und weniger auf allgemeine Aussagen zurückgreifen."
+  }
+}

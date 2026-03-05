@@ -1,0 +1,109 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Thematik der Trennung und der emotionalen Abhängigkeit angesprochen.",
+          "Diese Zeilen können als eine Art von Warnung oder Hinweis auf die Komplexität von Beziehungen und die Unberechenbarkeit von menschlichen Emotionen interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Auseinandersetzung mit der eigenen Emotionalität und der Frage, wie man mit Schmerz und Verlust umgeht."
+        ],
+        "positive_aspekte": [
+          "Umfassende, textbezogene Analyse (Metaphern, wiederholte Refrains).",
+          "Erkennt und diskutiert die Ambiguität in den Zeilen „Was I just seeing what I wanted to see…“.",
+          "Verknüpft einzelne Textstellen konsequent mit einer übergeordneten Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Thematik der Trennung und der emotionalen Abhängigkeit angesprochen.",
+          "Diese Zeilen können als eine Art von Warnung oder Hinweis auf die Komplexität von Beziehungen und die Unberechenbarkeit von menschlichen Emotionen interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Auseinandersetzung mit der eigenen Emotionalität und der Frage, wie man mit Schmerz und Verlust umgeht."
+        ],
+        "positive_aspekte": [
+          "Klare Identifikation von Schlüsselzitaten und deren Bedeutung.",
+          "Gute Balance zwischen wörtlicher Textinterpretation und abstrakterer Bedeutungszuweisung.",
+          "Stilistisch konsistent und gut strukturiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Thematik der Trennung und der emotionalen Abhängigkeit deutlich.",
+          "Der Song thematisiert die Frage, wie Menschen in einer Beziehung mit dem Risiko umgehen, verletzt zu werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt darin, dass er die Komplexität menschlicher Beziehungen und die Unvorhersehbarkeit von Emotionen thematisiert."
+        ],
+        "positive_aspekte": [
+          "Systematischer Durchlauf aller relevanten Songzeilen.",
+          "Erkennt die wiederkehrende Thematik von Vorherbestimmung und Schuld.",
+          "Verbindet Textanalyse mit einer allgemeinen Reflexion über Beziehungsdynamiken."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Thematik der Trennung und der emotionalen Abhängigkeit angesprochen.",
+          "Die Frage, wie jemand so geschickt darin werden kann, das Herz eines anderen zu brechen, berührt die tiefere Bedeutungsebene der menschlichen Beziehungen und der emotionalen Verletzlichkeit.",
+          "…, was die Frage aufwirft, ob die Beziehung von Beginn an zum Scheitern verurteilt war."
+        ],
+        "positive_aspekte": [
+          "Betont die Ambiguität und das Spannungsfeld zwischen Wissen und Unwissen des Erzählers.",
+          "Verknüpft mehrere Textstellen zu einer kohärenten Aussage über Vorherbestimmung.",
+          "Gute sprachliche Klarheit und logische Gliederung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs wird durch die Frage nach der Verantwortung und der Schuld an der Trennung angesprochen.",
+          "Diese Frage nach der Schuld und Verantwortung ist ein zentrales Thema in vielen gesellschaftlichen und kulturellen Kontexten, in denen Beziehungen und Trennungen thematisiert werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt darin, dass er die Komplexität von Beziehungen und die Unvorhersehbarkeit von Trennungen thematisiert."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der Metapher „Completely under your spell“.",
+          "Erkennt die moralische Dimension (Verantwortung, Schuld) im Text.",
+          "Stellt die wiederholte Frage nach Vorherwissen des Partners klar heraus."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen sehr geringe Varianz: Halluzinations-Score ist durchweg 5 (keine erfundenen Fakten), Tiefe-Score konstant 4. Unterschiede liegen nur im Anteil oberflächlicher Formulierungen (3‑4 pro Text).",
+    "empfehlung": "Die Interpretationen sind alle faktentreu, jedoch variieren sie leicht in der Tiefe der Analyse. Interpretation 1 (bzw. 3) bietet die ausgewogenste Mischung aus textnaher Detailarbeit und begrenztem Einsatz vager, allgemeiner Aussagen und ist daher als Vorbild für zukünftige LLM‑Interpretationen zu empfehlen."
+  }
+}

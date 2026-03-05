@@ -1,0 +1,100 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten von einer höheren Macht – vielleicht einer technokratischen Elite oder einer militärischen Struktur – in den Weltraum befördert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Entmenschlichung durch technologische Übermacht",
+          "Die Selbstzufriedenheit einer Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Der Song kritisiert die Entmenschlichung durch technologische Übermacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Eine Generation, die in einer von Technologie und Befehlen dominierten Welt lebt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die äußere Aufstiege feiert, aber innerlich von einer Leere und einer Verdrängung der Erde"
+        ],
+        "positive_aspekte": [
+          "Der Song ein Bild von Entfremdung und künstlicher Glückseligkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Vielleicht Technologie, Medien oder staatliche Propaganda"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein Bild von Entfremdung, künstlicher Erhebung und einer zugleich resignierten"
+        ],
+        "positive_aspekte": [
+          "Der Song vermittelt ein Bild von Entfremdung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Eine scheinbare Glückseligkeit inszeniert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Selbsttäuschung einer Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Der Song zu einer kritischen Reflexion über die Selbsttäuschung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Eine von Technologie und Kontrolle dominierten Moderne"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Selbstzufriedenheit einer Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Der Song kritisiert die Selbstzufriedenheit einer Gesellschaft"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die fünfte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

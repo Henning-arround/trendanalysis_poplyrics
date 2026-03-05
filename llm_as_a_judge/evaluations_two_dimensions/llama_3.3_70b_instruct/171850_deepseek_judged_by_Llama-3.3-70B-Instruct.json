@@ -1,0 +1,93 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake reflektiert über seine Vergangenheit und wie er sich von seinen Idolen zu seinen Rivalen entwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Zeichen für Drake's Reife als Künstler und seine Fähigkeit, tiefere Themen in seiner Musik zu behandeln."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Selbstreflexion und die Themen des Songs ab."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake reflektiert über seine Vergangenheit und wie er sich von seinen Idolen zu seinen Rivalen entwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Zeichen für Drake's Reife als Künstler und seine Fähigkeit, tiefere Themen in seiner Musik zu behandeln."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Selbstreflexion und die Themen des Songs ab."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine selbstbewusste und reflektierende Hymne"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Selbstreflexion, die Themen und die Musikszene ab."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine selbstbewusste und reflektierende Hymne"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Selbstreflexion, die Themen und die Musikszene ab."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine selbstbewusste und reflektierende Hymne"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Selbstreflexion, die Themen und die Musikszene ab."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 sind sehr konsistent und haben eine hohe Qualität.",
+    "empfehlung": "Die Interpretationen 3, 4 und 5 sind empfehlenswert, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweisen."
+  }
+}

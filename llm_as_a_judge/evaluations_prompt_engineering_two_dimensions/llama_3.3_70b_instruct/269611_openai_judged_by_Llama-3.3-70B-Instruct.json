@@ -1,0 +1,99 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Reflexion über das Aufwachsen in einer Ära der ständigen Medienflut"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Struktur ist fragmentarisch und wiederholt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Fensters ist detailliert und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 2008-Veröffentlichung in einer Phase zunehmender digitaler Entfremdung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Motiv des Regens als Symbol für melancholische Reflexion"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambivalenz zwischen Schutz und Verletzlichkeit ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 2008-Veröffentlichung in einer Phase post-9/11-Reflexion über Verlust und private Trauer"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains erzeugt eine Schleifenstruktur"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Fensters und des Regens ist detailliert und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 2008-Veröffentlichung in einer Phase zunehmender digitaler Entfremdung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'I can’t stand the rain' verstärkt die affektive Intensität"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambiguität zwischen Objekt und Sprecher ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die britische Soul-Pop-Ballade verband in den 2000er-Jahren häufig persönliche Trauer mit urbanen Klanglandschaften"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung von 'sweet memories' ist eine nostalgische Ideologie"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Regens und des Fensters ist detailliert und textbasiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und Ambivalenzen"
+  }
+}

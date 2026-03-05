@@ -1,0 +1,98 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Rotfärbung des Pfades lässt sich sowohl als Hinweis auf Blutvergießen als auch als Warnsignal einer politisch aufgeladenen Ära deuten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft Pop-Referenz, Zirkus-Mythos und Drogen-Symbolik zu einer vielschichtigen Allegorie"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-kalter Krieg-Panik"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das Bild einer exotischen Mission mit einer düsteren Bedrohung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambiguität zwischen Abenteuer-Narrativ und apokalyptischer Gewalt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-Kaltes-Krieg-Unsicherheit",
+          "Drogenkriminalität und mediale Zunahme von 'Clown-Angst'"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das Bild einer exotischen Mission mit einer düsteren Bedrohung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Mehrdeutigkeit des 'circus' und des 'clown'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-kalter Krieg-Unsicherheit und die Auflösung ideologischer Narrative"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das Bild einer exotischen Mission mit einer düsteren Bedrohung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Ambiguität des 'circus' und des 'clown'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-kalten-Kriegs-Unsicherheit und der wachsenden Drogen- und Gewaltdebatten"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das Bild einer exotischen Mission mit einer düsteren Bedrohung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambiguität zwischen Abenteuer-Narrativ und apokalyptischer Gewalt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

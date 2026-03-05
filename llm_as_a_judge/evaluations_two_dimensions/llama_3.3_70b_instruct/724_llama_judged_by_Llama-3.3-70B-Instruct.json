@@ -1,0 +1,97 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten sind auf eine Mission geschickt worden, ohne jedoch die genauen Gründe oder Ziele zu kennen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Keine Sehnsucht nach Mutter Erde' unterstreicht ihre Entfremdung von ihrer Heimat und ihrer Vergangenheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und logische Erklärung des Songtexts und seiner Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Illusion von Sicherheit und Kontrolle in einer Welt, die von Technologie und Fortschritt geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Uns geht's gut' wird zu einer Art ironischer oder gar makabrer Aussage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Thematik des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Doch niemand ahnt' suggeriert, dass die Menschen auf der Erde nicht wissen, was die Raumfahrer wirklich erleben oder fühlen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von Instrumenten, die versagen, und der Glut am Heck des Raumschiffs deutet auf technische Probleme oder Gefahren hin."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte und textbezogene Analyse des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Doch niemand ahnt' suggeriert, dass die Menschen auf der Erde nicht wissen, was die Raumfahrer wirklich erleben oder fühlen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von Instrumenten, die versagen, und der Glut am Heck des Raumschiffs deutet auf technische Probleme oder Gefahren hin."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte und textbezogene Analyse des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Keine Sehnsucht nach Mutter Erde' zeigt, dass sie keine Sehnsucht nach ihrer Heimat haben und sich im Weltraum wohl fühlen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr detaillierte und textbezogene Analyse des Songs und seiner Symbolik."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3 und 4 sind sehr ähnlich, was auf eine gewisse Konsistenz in der Analyse hinweist.",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie eine sehr detaillierte und textbezogene Analyse des Songs bietet und keine erfundenen Aussagen enthält."
+  }
+}

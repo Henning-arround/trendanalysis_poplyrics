@@ -1,0 +1,97 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Wandels"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von der authentischen und verletzlichen Darstellung der Emotionen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die emotionale Intensität des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Wandels"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'We can get together soon' kann als Ausdruck der Hoffnung auf eine bessere Zukunft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die emotionale Wirkung und affektive Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Wandels"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von der authentischen und verletzlichen Darstellung der Emotionen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die emotionale Intensität des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'Wrong or right (Wrong or right) / Day and night, I miss you' erzeugt eine Art von emotionaler Dringlichkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die emotionale Wirkung und affektive Dimension des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen Liebe, Sehnsucht und Unsicherheit sind typisch für die Popmusik dieser Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die emotionale Wirkung und affektive Dimension des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die vierte, da sie die emotionale Wirkung und affektive Dimension des Songs am besten beschreibt und die literarischen Stilmittel analysiert"
+  }
+}

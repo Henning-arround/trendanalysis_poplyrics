@@ -1,0 +1,124 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Betrachtung über die Vergänglichkeit und den Kreislauf des Lebens.",
+          "Diese Gegensätze werden nicht als statische Zustände dargestellt, sondern als Teil eines dynamischen Prozesses, in dem jede Phase ihre eigene Bedeutung und ihren eigenen Wert hat.",
+          "Die Zeile … kann als Aufruf zur Hoffnung und zum Optimismus interpretiert werden, dass es immer noch möglich ist, Frieden und Harmonie zu erreichen.",
+          "Insgesamt kann … als ein Lied über die Akzeptanz und die Anerkennung der Vergänglichkeit und des Kreislaufs des Lebens interpretiert werden.",
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren und ihre Bedeutung zu erkennen, anstatt sich gegen sie zu wehren oder sie zu bedauern.",
+          "Durch seine poetische und philosophische Tiefe bleibt der Song ein zeitloses und universelles Werk, das auch heute noch aktuell und bedeutsam ist."
+        ],
+        "positive_aspekte": [
+          "Nennung der konkreten Gegensätze, die im Text vorkommen (Geburt‑Tod, Pflanzen‑Ernten, Lachen‑Weinen, Aufbau‑Zerstörung).",
+          "Korrekte Zuordnung des Textes zum biblischen Buch Kohelet (Ecclesiastes).",
+          "Erklärung, dass die wiederkehrende Zeile die Idee von Zeit und Ort betont."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Betrachtung über die Vergänglichkeit und den Kreislauf des Lebens.",
+          "Diese Gegensätze werden nicht als statische Zustände dargestellt, sondern als Teil eines dynamischen Prozesses, in dem jede Phase ihre eigene Bedeutung und ihren eigenen Wert hat.",
+          "Die Zeile … kann als Aufruf zur Hoffnung und zum Optimismus interpretiert werden, dass es immer noch möglich ist, Frieden und Harmonie zu erreichen.",
+          "Insgesamt kann … als ein Lied über die Akzeptanz und die Anerkennung der Vergänglichkeit und des Kreislaufs des Lebens interpretiert werden.",
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren und ihre Bedeutung zu erkennen, anstatt sich gegen sie zu wehren oder sie zu bedauern.",
+          "Durch seine poetische und philosophische Tiefe bleibt der Song ein zeitloses und universelles Werk, das auch heute noch aktuell und bedeutsam ist."
+        ],
+        "positive_aspekte": [
+          "Korrekte Identifikation der biblischen Quelle (Kohelet).",
+          "Auflistung der im Text vorkommenden Gegensätze.",
+          "Hinweis auf die wiederkehrende Zeile und ihre Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Betrachtung über die Vergänglichkeit und den Kreislauf des Lebens.",
+          "Diese Gegensätze werden nicht als statische Zustände dargestellt, sondern als Teil eines dynamischen Prozesses, in dem jede Phase ihre eigene Bedeutung und ihren eigenen Wert hat.",
+          "Die Zeile … kann als Aufruf zur Hoffnung und zum Optimismus interpretiert werden, dass es immer noch möglich ist, Frieden und Harmonie zu erreichen.",
+          "Insgesamt kann … als ein Lied über die Akzeptanz und die Anerkennung der Vergänglichkeit und des Kreislaufs des Lebens interpretiert werden.",
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren und ihre Bedeutung zu erkennen, anstatt sich gegen sie zu wehren oder sie zu bedauern.",
+          "Durch seine poetische und philosophische Tiefe bleibt der Song ein zeitloses und universelles Werk, das auch heute noch aktuell und bedeutsam ist."
+        ],
+        "positive_aspekte": [
+          "Richtige Zuordnung zu Kohelet.",
+          "Erwähnung der konkreten Gegensätze im Text.",
+          "Erklärung der wiederholten Zeile."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Betrachtung über die Vergänglichkeit und den Kreislauf des Lebens.",
+          "Diese Gegensätze werden nicht als statische Zustände dargestellt, sondern als Teil eines dynamischen Prozesses, in dem jede Phase ihre eigene Bedeutung und ihren eigenen Wert hat.",
+          "Die Zeile … kann als Aufruf zur Hoffnung und zum Optimismus interpretiert werden, dass es immer noch möglich ist, Frieden und Harmonie zu erreichen.",
+          "Insgesamt kann … als ein Lied über die Akzeptanz und die Anerkennung der Vergänglichkeit und des Kreislaufs des Lebens interpretiert werden.",
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren und ihre Bedeutung zu erkennen, anstatt sich gegen sie zu wehren oder sie zu bedauern.",
+          "Durch seine poetische und philosophische Tiefe bleibt der Song ein zeitloses und universelles Werk, das auch heute noch aktuell und bedeutsam ist."
+        ],
+        "positive_aspekte": [
+          "Korrekte Angabe, dass der Text auf Kohelet basiert.",
+          "Auflistung der im Text vorkommenden Gegensätze.",
+          "Hinweis auf die Bedeutung der wiederkehrenden Zeile."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Betrachtung über die Vergänglichkeit und den Kreislauf des Lebens.",
+          "Diese Gegensätze werden nicht als statische Zustände dargestellt, sondern als Teil eines dynamischen Prozesses, in dem jede Phase ihre eigene Bedeutung und ihren eigenen Wert hat.",
+          "Die Zeile … kann als Aufruf zur Hoffnung und zum Optimismus interpretiert werden, dass es immer noch möglich ist, Frieden und Harmonie zu erreichen.",
+          "Insgesamt kann … als ein Lied über die Akzeptanz und die Anerkennung der Vergänglichkeit und des Kreislaufs des Lebens interpretiert werden.",
+          "Der Songtext regt den Hörer dazu an, die verschiedenen Phasen des Lebens zu akzeptieren und ihre Bedeutung zu erkennen, anstatt sich gegen sie zu wehren oder sie zu bedauern.",
+          "Durch seine poetische und philosophische Tiefe bleibt der Song ein zeitloses und universelles Werk, das auch heute noch aktuell und bedeutsam ist."
+        ],
+        "positive_aspekte": [
+          "Richtige Verknüpfung mit dem biblischen Buch Kohelet.",
+          "Detaillierte Nennung der im Text vorkommenden Gegensätze.",
+          "Erklärung der wiederholten Zeile und ihrer Implikation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch; die Varianz ist praktisch nicht vorhanden.",
+    "empfehlung": "Da alle Versionen dieselbe inhaltliche Qualität besitzen, reicht es, eine kompakte, textbezogene Analyse zu liefern, die weniger allgemeine Floskeln enthält. Eine leicht erweiterte Analyse mit mehr Fokus auf Mehrdeutigkeit und strukturelle Elemente des Liedes würde die Tiefe erhöhen, ohne Halluzinationen einzuführen."
+  }
+}

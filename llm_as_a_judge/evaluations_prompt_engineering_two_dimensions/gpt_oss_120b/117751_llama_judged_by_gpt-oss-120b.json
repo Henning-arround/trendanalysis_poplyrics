@@ -1,0 +1,125 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Gesellschaft sich von den Folgen des Zweiten Weltkriegs erholte und eine neue Ära des Wohlstands und der Romantik begann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine romantische Ballade interpretiert werden, die die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile ... deutlich, die die Idee einer spirituellen oder übernatürlichen Führung zum geliebten Menschen vermittelt."
+        ],
+        "positive_aspekte": [
+          "Mehrere konkrete Textbezüge (z. B. Analyse der Metaphern, der Wiederholung und der Zeile über die „Glücksmelodie”).",
+          "Erkennt die Ambiguität des Textes und lässt Interpretationsspielraum offen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Gesellschaft sich von den Folgen des Zweiten Weltkriegs erholte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine romantische Ballade interpretiert werden, die die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile ... deutlich, die die Idee einer spirituellen oder übernatürlichen Führung zum geliebten Menschen vermittelt.",
+          "Die literarischen Stilmittel wie Metaphern und Symbole tragen zur emotionalen Wirkung des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Identifiziert mehrere stilistische Mittel (Metaphern, Symbole, Bildsprache) und verknüpft sie mit konkreten Textstellen.",
+          "Bezieht den historischen Kontext ein, auch wenn er nicht aus dem Text stammt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Schlagermusik sehr beliebt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine romantische Ballade interpretiert werden, die die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile ... deutlich, die die Idee einer spirituellen oder übernatürlichen Führung zum geliebten Menschen vermittelt.",
+          "Die literarischen Stilmittel wie die Verwendung von Bildern und Symbolen tragen zur emotionalen Wirkung des Songs bei.",
+          "Der kulturelle und historische Kontext des Songs ist ebenfalls von Bedeutung.",
+          "Die Verwendung von Naturbildern und Symbolen ... kann als eine Art von Escapismus interpretiert werden, der die Zuhörer in eine andere Welt entführt.",
+          "Die tiefere Bedeutungsebene des Songs kann auch in der Idee einer transzendenten Liebe gesehen werden, die über die irdische Ebene hinausgeht.",
+          "Die Ambiguität und Spannung zwischen der irdischen und der transzendenten Ebene bleiben jedoch bestehen und lassen Raum für Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Wiederholung im Refrain und verbindet sie mit dem Motiv der beständigen Präsenz.",
+          "Bleibt bei den wenigen klaren Textbezügen (z. B. „Glücksmelodie“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Schlagermusik sehr beliebt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine romantische Ballade interpretiert werden, die die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile ... deutlich, die die Idee einer spirituellen oder übernatürlichen Führung zum geliebten Menschen vermittelt.",
+          "Die literarischen Stilmittel wie die Verwendung von Bildern und Symbolen tragen zur emotionalen Wirkung des Songs bei.",
+          "Der kulturelle und historische Kontext des Songs ist ebenfalls von Bedeutung.",
+          "Die Verwendung von Naturbildern und Symbolen ... kann als eine Art von Escapismus interpretiert werden, der die Zuhörer von den Problemen des Alltags ablenkt.",
+          "Die tiefere Bedeutungsebene des Songs kann auch in der Idee einer transzendenten Liebe gesehen werden, die über die irdischen Grenzen hinausgeht.",
+          "Die Ambiguität und Spannung zwischen der irdischen und der transzendenten Ebene bleiben jedoch bestehen und lassen Raum für Interpretationen."
+        ],
+        "positive_aspekte": [
+          "Analysiert die Wiederholung der Zeile „Sternengold und Silbermond, die halten in der Nacht…“ und verbindet sie mit dem Motiv der ewigen Präsenz.",
+          "Stellt einen klaren Bezug zur Textstelle her, die eine intime Atmosphäre suggeriert."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Gesellschaft sich von den Folgen des Zweiten Weltkriegs erholte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine romantische Ballade interpretiert werden, die die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile ... deutlich, die die Idee einer spirituellen oder übernatürlichen Führung zum geliebten Menschen vermittelt.",
+          "Die literarischen Stilmittel wie Metaphern und Symbole tragen zur emotionalen Wirkung des Songs bei.",
+          "Die kulturelle und historische Kontextualisierung des Songs ist wichtig, um seine Bedeutung vollständig zu verstehen.",
+          "Die Sehnsucht nach einer besseren Zukunft und die Suche nach Trost und Geborgenheit mögen in diesem Kontext eine Rolle gespielt haben.",
+          "Die Ambiguität und Spannung zwischen der realen Welt und der spirituellen oder übernatürlichen Sphäre, die im Song angedeutet wird, bleiben jedoch bestehen und laden zu weiterer Interpretation ein."
+        ],
+        "positive_aspekte": [
+          "Mehrere fundierte Textanalysen: Metaphern‑ und Symboldeutung, Bildsprache, und die Bedeutung der Wiederholung.",
+          "Erkennt und diskutiert die mögliche Symbolik von Unendlichkeit und Ewigkeit der Liebe, ohne sie dogmatisch zu behaupten.",
+          "Bietet einen ausgewogenen Mix aus konkreten Textbezügen und historischer Kontextualisierung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Romantik, Sehnsucht, Symbolik von Sternen/Mond). Die Varianz liegt hauptsächlich im Detailgrad der Textanalyse; Interpretation 4 liefert die tiefste, substantiellste Analyse, während 2 und 5 eher oberflächlich bleiben.",
+    "empfehlung": "Für eine ausgewogene Bewertung sollte man Interpretation 4 als Vorbild nehmen: sie bleibt textnah, liefert mehrere konkrete Analysen und vermeidet übermäßige spekulative Historisierung. Gleichzeitig sollte man bei allen Modellen darauf achten, unbegründete historische oder biografische Aussagen zu reduzieren, um den Halluzinations‑Score niedrig zu halten."
+  }
+}

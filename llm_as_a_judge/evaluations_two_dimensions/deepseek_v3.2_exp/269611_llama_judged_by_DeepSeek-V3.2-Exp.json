@@ -1,0 +1,87 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerungen an die gemeinsame Zeit werden durch die Regen-Geräusche gegen das Fenster hervorgerufen, was den Sänger in eine melancholische Stimmung versetzt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Regen wird zu einem Symbol für die Traurigkeit und die Einsamkeit, die der Sänger empfindet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist emotional und nachvollziehbar, aber teilweise oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und analytisch, aber auch offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und analytisch, aber auch offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Regen-Szenarien dienen als Metapher für die traurigen Gefühle und Erinnerungen, die der Protagonist mit seiner ehemaligen Beziehung verbindet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der Traurigkeit und Sehnsucht nach einer verlorenen Liebe, die durch die Regen-Szenarien und die Erinnerungen an die gemeinsame Zeit noch verstärkt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist emotional und nachvollziehbar, aber teilweise oberflächlich und halluziniert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt sind sie textbezogen und analytisch.",
+    "empfehlung": "Die Interpretationen sollten weiterhin textbezogen und analytisch bleiben, aber auch offen für Ambivalenzen in der Interpretation sein."
+  }
+}

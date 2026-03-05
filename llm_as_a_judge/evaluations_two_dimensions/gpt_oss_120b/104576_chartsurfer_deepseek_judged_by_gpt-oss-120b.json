@@ -1,0 +1,120 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist auch ein Beispiel für die Schlager‑Musik der 1960er Jahre, die oft humorvolle und leicht konsumierbare Texte hatte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung, dass Edeltraud die beste Braut für ihn ist, unterstreicht die Bedeutung der gemeinsamen Interessen und Werte in einer Beziehung.",
+          "Der Refrain … wird zu einem Art Mantra, das die Freude und Leidenschaft des Sängers … ausdrückt.",
+          "Insgesamt ist … ein unterhaltsamer und nostalgischer Song, der die deutsche Kultur und die Musik der 1960er Jahre widerspiegelt.",
+          "Der Text ist ein Beispiel für die humorvolle und leicht konsumierbare Art der Schlager‑Musik und zeigt, wie Musik Menschen zusammenbringen und gemeinsame Interessen und Werte feiern kann."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge (Hommage, Wiederholungen, Wortwitz).",
+          "Erkennt die genre‑typischen Merkmale (Schlager) – obwohl nicht im Text belegt, ist die Zuordnung plausibel."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile … zeigt, dass der Sänger seine Identität und sein Glück in diesen Dingen findet.",
+          "Der Song kann auch als eine Art Satire auf die deutsche Kultur interpretiert werden, …",
+          "… damit eine Art Karikatur der deutschen Seele schafft.",
+          "Die Figur der Edeltraud … unterstreicht die Idee, dass die Liebe … auf gemeinsamen Interessen und Vorlieben basieren.",
+          "Insgesamt ist … ein unterhaltsamer und humorvoller Song, der die deutsche Kultur … auf eine spielerische Weise zelebriert."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Beobachtungen (Refrain‑Struktur, Wiederholungen).",
+          "Wenig spekulative Aussagen, daher hoher Halluzinations‑Score."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Insgesamt ist \"Sauerkrautpolka\" ein klassischer Schlager, der die deutsche Kultur und Musiktradition auf eine humorvolle und unterhaltsame Weise widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains … unterstreicht die Bedeutung dieser Dinge für den Sänger und seine Beziehung zu Edeltraud.",
+          "Der Song kann auch als eine Art Satire … interpretiert werden, da der Sänger seine Liebe … übermäßig und fast schon obsessiv darstellt.",
+          "Die Zeile … kann als eine Art Selbstironie verstanden werden, die die Absurdität der Situation unterstreicht.",
+          "Der Song ist jedoch insgesamt eher als ein fröhliches und unterhaltsames Lied zu verstehen, das die Freude an traditioneller deutscher Kultur und Musik ausdrückt.",
+          "Der Refrain ist einfach und einprägsam, was den Song zu einem leicht konsumierbaren und unterhaltsamen Stück macht."
+        ],
+        "positive_aspekte": [
+          "Erkennt konkrete Textmerkmale (Polka‑Marsch, Refrain‑Einfachheit).",
+          "Bietet sowohl eine sachliche Zusammenfassung als auch eine kritische Sicht (Satire, Selbstironie)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist auch ein Beispiel für die Schlager‑Musik der 1960er Jahre, die oft humorvolle und leicht konsumierbare Texte hatte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung, dass Edeltraud die beste Braut für ihn ist, unterstreicht die Bedeutung der gemeinsamen Interessen und Werte in einer Beziehung.",
+          "Der Refrain … wird zu einem Art Mantra, das die Freude und Leidenschaft des Sängers … ausdrückt.",
+          "Insgesamt ist … ein unterhaltsamer und nostalgischer Song, der die deutsche Kultur und die Musik der 1960er Jahre widerspiegelt.",
+          "Der Text ist ein Beispiel für die humorvolle und leicht konsumierbare Art der Schlager‑Musik und zeigt, wie Musik Menschen zusammenbringen und gemeinsame Interessen und Werte feiern kann."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse von Wortspielen und Wiederholungen.",
+          "Verknüpft den Song mit dem historischen Schlager‑Kontext (auch wenn nicht explizit im Text genannt)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist auch ein Ausdruck der Freude und des Vergnügens, das der Sänger empfindet, wenn er Sauerkraut isst und Polka tanzt.",
+          "Die Wiederholung des Refrains … unterstreicht die Leidenschaft und die Hingabe des Sängers für diese Dinge.",
+          "Die Textzeile … zeigt, dass der Sänger die Sauerkraut‑Polka als eine Art Medizin gegen die Langeweile und die Tristesse des Alltags sieht.",
+          "Der Song kann auch als eine Art Satire … interpretiert werden.",
+          "Der Sänger beschreibt seine Braut Edeltraud als eine Art Idealbild einer deutschen Frau, die Sauerkraut kochen und Polka tanzen kann.",
+          "Der Song kann auch als eine Art Werbung für die deutsche Kultur … gesehen werden.",
+          "Insgesamt ist der Song … ein fröhliches und humorvolles Lied, das die Liebe des Sängers zu Sauerkraut und Polka‑Musik ausdrückt und die deutsche Kultur und Tradition auf eine humorvolle Weise präsentiert."
+        ],
+        "positive_aspekte": [
+          "Stellt klar fest, was im Text wörtlich gesagt wird (Hommage, Braut, beste Köchin/Tänzerin).",
+          "Keine falschen biografischen Angaben – daher höchster Halluzinations‑Score."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundbeobachtungen (Fröhlichkeit, Hommage, Braut Edeltraud). Die Varianz liegt vor allem in zusätzlichen, teils spekulativen Aussagen (Genre‑Zuweisungen, Satire‑Deutungen).",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus faktentreuer Textbeobachtung und analytischer Tiefe, ohne unnötige Spekulationen. Modelle sollten darauf achten, spekulative Genre‑ oder Kontextzuweisungen zu vermeiden, solange der Text keine klaren Hinweise liefert."
+  }
+}

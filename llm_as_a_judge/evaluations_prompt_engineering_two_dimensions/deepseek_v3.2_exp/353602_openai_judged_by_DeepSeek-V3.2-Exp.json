@@ -1,0 +1,97 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die frühe 2000er‑Jahre einordnen, eine Phase, in der Pop‑Balladen vermehrt das Thema flüchtiger, digital vermittelter Beziehungen thematisierten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Spannungsfeld zwischen Verlangen nach Nähe und der Angst vor Verlust."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz zwischen Bindung und Autonomie im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in den frühen 2000er‑Jahren verorten, einer Phase, in der Pop‑Balladen vermehrt persönliche Unsicherheiten im Kontext einer zunehmend vernetzten, aber zugleich entpersonalisierten Gesellschaft thematisierten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain suggeriert, dass nur flüchtige Gesten als Trost dienen, zugleich bleibt unklar, ob das Lächeln ein echtes Abschiedsgeschenk oder ein Selbstbetrug ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Imperativen und Metaphern im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Spannungsfeld zwischen Festhalten und Loslassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung von Metaphern und Wiederholungen im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im Kontext der frühen 2000er‑Popkultur, in der skandinavische Singer‑Songwriter häufig persönliche Verletzlichkeit mit pop‑ästhetischer Oberflächlichkeit verbanden, spiegelt der Song diese Tendenz wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kreist um das Spannungsfeld zwischen Festhalten und Loslassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Imperativen und sensorischen Metaphern im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die frühe 2000er‑Jahre einordnen, eine Phase, in der Pop‑Balladen vermehrt Themen von flüchtiger Intimität und postmodernen Unsicherheiten behandelten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verhandelt das Spannungsfeld zwischen Verlangen nach Nähe und der Angst vor Verlust."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung von fragmentarischen Metaphern und wiederholten Imperativen im Songtext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

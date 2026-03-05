@@ -1,0 +1,104 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Stagnation des Erzählers"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert einen inneren Konflikt"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse des Fenster-Motivs",
+          "Gute Verknüpfung von Regen und Erinnerungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin wiedererkennt die vergangenen, süßen Momente"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied nutzt das Bild des Regens als Metapher"
+        ],
+        "positive_aspekte": [
+          "Gute Erklärung der Rolle des Fensters",
+          "Verknüpfung von Regen und Erinnerungen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Regen symbolisiert das stetige Eindringen der Vergangenheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert die Einsamkeit des Protagonisten"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse des Regen-Motivs",
+          "Gute Verknüpfung von Regen und Erinnerungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die einstige Grandiosität der Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied nutzt das Bild des Regens als Metapher"
+        ],
+        "positive_aspekte": [
+          "Gute Erklärung der Rolle des Fensters",
+          "Verknüpfung von Regen und Erinnerungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die äußere Welt berührt das Innere des lyrischen Ichs"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert die Einsamkeit des Protagonisten"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse des Fenster-Motivs",
+          "Gute Verknüpfung von Regen und Erinnerungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse des Regen- und Fenster-Motivs",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe, wie in Interpretation 1 und 3 zu sehen ist"
+  }
+}

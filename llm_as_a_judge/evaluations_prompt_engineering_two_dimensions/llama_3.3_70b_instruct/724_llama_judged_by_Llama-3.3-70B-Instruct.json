@@ -1,0 +1,99 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Keine Sehnsucht / Nach Mutter Erde' deutet auf eine Art von Entfremdung oder Loslösung von traditionellen Bindungen hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Einordnung des Songs in die späten 1990er Jahre, eine Zeit der wachsenden Technologie und Globalisierung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von literarischen Stilmitteln wie Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Sterne', die 'am Heck die Glut' und das 'Verglühen' können als Symbole für die Sehnsucht nach Transzendenz und die Flucht aus der irdischen Realität interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Optimismus und Pessimismus, Hoffnung und Verzweiflung"
+        ],
+        "positive_aspekte": [
+          "Die Identifizierung von Ambiguitäten und Widersprüchen im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Keine Sehnsucht / Nach Mutter Erde' deutet auf eine Art von Entfremdung oder Loslösung von traditionellen Bindungen hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Einordnung des Songs in die späten 1990er Jahre, eine Zeit der wachsenden Technologie und Globalisierung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von literarischen Stilmitteln wie Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Sterne', die 'uns hoch' gebracht werden, können als Symbol für die Sehnsucht nach Transzendenz und Unendlichkeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Zuversicht und Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Die Identifizierung von Ambiguitäten und Widersprüchen im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Verglühen wir gerne / Behind the moon' suggeriert eine Art von Selbstzerstörung oder Opferung, die jedoch mit einer gewissen Akzeptanz oder sogar Freude verbunden ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Phrase 'Uns geht's gut' kann als eine Art von Selbstüberzeugung oder auch als eine Form der Verdrängung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von literarischen Stilmitteln wie Metaphern und Symbolen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Analyse der Verwendung von literarischen Stilmitteln und der Identifizierung von Ambiguitäten und Widersprüchen im Text.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und identifiziert Ambivalenzen und Mehrdeutigkeiten im Text."
+  }
+}

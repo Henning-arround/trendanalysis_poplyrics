@@ -1,0 +1,106 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Time Immemorial\" von Crowded House aus dem Jahr 1990 bietet eine komplexe und mehrschichtige Botschaft, die sich mit Themen wie Identität, Macht und der Suche nach Wahrheit auseinandersetzt.",
+          "Die Zeile \"Goodbye to you and your money\" kann als Ablehnung von materiellen Werten interpretiert werden.",
+          "Durch die Analyse des Songs kann man tiefer in die kulturellen, historischen und gesellschaftlichen Kontexte eintauchen, in denen er entstanden ist, und die symbolischen Ordnungen und Bedeutungsebenen, die in ihm enthalten sind, besser verstehen."
+        ],
+        "positive_aspekte": [
+          "Mehrere Aussagen lassen sich klar aus dem Text ableiten (z. B. die Interpretation von „Start in the way that you want to go on“ und „Tear down the fence that you sit upon“).",
+          "Die Interpretation bleibt textnah und vermeidet unbegründete biografische oder historische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Kommentar auf die kommerialisierte und medialisierte Gesellschaft der 1990er Jahre verstanden werden, in der die Authentizität und die Individualität oft unterdrückt werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die zentrale Botschaft des Songs scheint die Aufforderung zu sein, sich von äußeren Einflüssen und Zwängen zu befreien.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Melancholie und Hoffnung."
+        ],
+        "positive_aspekte": [
+          "Versucht, den Song in einen breiteren gesellschaftlichen Kontext (1990er‑Jahre, Medienkritik) zu stellen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Time Immemorial\" von Crowded House aus dem Jahr 1990 bietet eine komplexe und mehrschichtige Botschaft, die sich mit Themen wie Identität, Macht und der Suche nach Wahrheit auseinandersetzt.",
+          "Die Zeile \"Goodbye to you and your money\" kann als Ablehnung von materiellen Werten interpretiert werden.",
+          "Durch die Analyse des Songs kann man tiefer in die kulturellen, historischen und gesellschaftlichen Kontexte eintauchen, in denen er entstanden ist, und die symbolischen Ordnungen und Bedeutungsebenen, die in ihm enthalten sind, besser verstehen."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Ableitungen (z. B. Metaphern‑Analyse von „Fence“ und „House“).",
+          "Vermeidet spekulative biografische oder historische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Time Immemorial\" von Crowded House aus dem Jahr 1990 bietet eine komplexe und mehrschichtige Botschaft, die sich mit Themen wie Identität, Macht und der Suche nach Wahrheit auseinandersetzt.",
+          "Die Zeile \"Goodbye to you and your money\" kann als Ablehnung von materiellen Werten interpretiert werden.",
+          "Durch die Analyse des Songs kann man tiefer in die kulturellen, historischen und gesellschaftlichen Kontexte eintauchen, in denen er entstanden ist, und die symbolischen Ordnungen und Bedeutungsebenen, die in ihm enthalten sind, besser verstehen."
+        ],
+        "positive_aspekte": [
+          "Mehrere Aussagen sind direkt aus dem Text ableitbar (z. B. Interpretation von „Start in the way that you want to go on“).",
+          "Bleibt bei der Analyse innerhalb des Songtextes und führt keine unbelegten Fakten ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Time Immemorial\" von Crowded House aus dem Jahr 1990 bietet eine komplexe und mehrschichtige Botschaft, die sich mit Themen wie Identität, Macht und der Suche nach Wahrheit auseinandersetzt.",
+          "Die Zeile \"Goodbye to you and your money\" kann als Ablehnung von materiellen Werten interpretiert werden.",
+          "Durch die Analyse des Songs kann man tiefer in die kulturellen, historischen und gesellschaftlichen Kontexte eintauchen, in denen er entstanden ist, und die symbolischen Ordnungen und Bedeutungsebenen, die in ihm enthalten sind, besser verstehen."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, insbesondere bei den Metaphern „Fence“ und „House“.",
+          "Keine spekulativen historischen oder biografischen Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Vier der fünf Interpretationen wiederholen nahezu identische Argumentationsmuster, was zu einer hohen Konsistenz, aber wenig Varianz führt. Die zweite Interpretation weicht stark ab und enthält mehrere spekulative Aussagen, wodurch die Gesamtvarianz leicht erhöht wird.",
+    "empfehlung": "Ein Ansatz, der eng am Text bleibt, klare Ableitungen liefert und nur wenige, gut begründete spekulative Aussagen einbringt, erzielt die höchste Bewertung. Modelle sollten daher darauf trainiert werden, Textbelege zu priorisieren und vage Allgemeinplätze zu vermeiden."
+  }
+}

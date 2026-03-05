@@ -1,0 +1,99 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die digitale Kultur vorgibt eine Illusion von Leichtigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied kritisiert die Illusion von Leichtigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile 'Pull out your heart to make the being alone' und verbindet sie mit der digitalen Entfremdung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kontinuität des Selbst zerreißt durch das ständige Wechseln zwischen Bildschirmen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein Kommentar zur Selbstentfremdung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Zeile 'you switch the screens over the rest of your flows' und ihre Auswirkungen auf die Identität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stimme von Lorde verleiht dem Text eine Distanz"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied kritisiert die Oberflächlichkeit einer vernetzten Welt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betrachtet die Wiederholung von 'easy' als hypnotischen Rhythmus"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die digitale Kultur führt zu einer Selbstaufgabe"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein melancholischer Kommentar"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile 'They poke around until they get what they want' und ihre Bedeutung für die Entfremdung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Herz wird zum Objekt, das andere ausbeuten können"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied zeichnet ein Bild von Selbstaufgabe und Oberflächlichkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Zeile 'Throw out the lunch you pay for' und ihre Metaphorik für Selbstfürsorge"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber alle bieten wertvolle Einblicke in den Songtext",
+    "empfehlung": "Eine Kombination aus textgetreuer Analyse und kreativer Interpretation, wie in Interpretation 1 und 5, bietet die besten Ergebnisse"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitlose Qualität",
+          "universellen menschlichen Emotionen"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der wiederkehrenden Zeile 'You belong to me'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitlose Qualität",
+          "universellen menschlichen Emotionen"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der wiederkehrenden Zeile 'You belong to me'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitlose Qualität",
+          "universellen menschlichen Emotionen"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der wiederkehrenden Zeile 'You belong to me'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitlose Qualität",
+          "universellen menschlichen Emotionen"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der wiederkehrenden Zeile 'You belong to me'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Besitzergreifung und der emotionalen Abhängigkeit"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse der wiederkehrenden Zeile 'You belong to me'",
+          "Interpretation als Liebesbrief"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-4 sind sehr ähnlich und wiederholen sich stark, während Interpretation 5 eine etwas andere Perspektive bietet.",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu diversifizieren und mehr auf die spezifischen Textdetails einzugehen, um eine tiefere Analyse zu ermöglichen."
+  }
+}

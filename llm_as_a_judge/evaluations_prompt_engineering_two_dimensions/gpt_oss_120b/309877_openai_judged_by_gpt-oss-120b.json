@@ -1,0 +1,103 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell spiegelt der Text die post‑pandemische Arbeitsrealität wider, in der Home‑Office‑Grenzen verschwimmen und private Intimität in den öffentlichen Arbeitsrhythmus infiltriert wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Zahlreiche direkte Textbezüge (Zeilenangaben) und differenzierte Analyse von Wiederholungen, Imperativen und Metaphern.",
+          "Erkennt die Ambivalenz zwischen Lust und Pflicht und diskutiert subtile Geschlechterdynamiken.",
+          "Stil‑ und Inhaltsanalyse ist klar strukturiert und bleibt eng am Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Metaphorisch wird das morgendliche „coffee“ zu einem Symbol für „morning wood“, das sowohl körperliche Erregung als auch produktive Energie suggeriert.",
+          "Historisch lässt sich die Verquickung von Sexualität und Arbeit in der „gig‑culture“ verorten, wo Selbstoptimierung und Selbstdarstellung zu Marken werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Verknüpfung von ökonomischen und erotischen Themen.",
+          "Gute Nutzung von Textzitaten, um stilistische Mittel (Wiederholungen, Negationen) zu belegen.",
+          "Erkennt post‑pandemische Kontextualisierung, auch wenn diese spekulativ ist."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell reflektiert das Stück die post‑pandemische Verschmelzung von Home‑Office‑Ästhetik und traditionellen Geschlechterrollen, in denen die Frau als „rarity“ und gleichzeitig als „therapy“ fungiert.",
+          "Historisch lässt sich die Verquickung von Sexualität und Arbeit in der Pop‑Musik der 2010er‑Jahre verorten, wo intime Szenen als Metapher für Selbstoptimierung dienen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Aufzählung von Textstellen und deren funktionaler Bedeutung (z. B. „No time to waste“, „morning wood“).",
+          "Verknüpft ökonomische Motive mit erotischen Bildern und diskutiert deren Ambivalenz.",
+          "Stilistische Analyse (Metaphern, Wiederholungen) ist gut belegt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext spiegelt das Stück die post‑pandemische Arbeitsrealität, in der Home‑Office‑Grenzen verschwimmen und private Räume zur Produktionsstätte werden.",
+          "Die Verknüpfung von Sexualität mit ökonomischer Notwendigkeit erinnert an frühere Pop‑Narrative, die weibliche Sexualität als Ressource für männliche Leistungsfähigkeit darstellen, bleibt jedoch bewusst unaufgelöst."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Analyse von Imperativen, Wortspielen und Wiederholungen.",
+          "Verbindet Textbeobachtungen mit einer breiteren kulturellen Lesart, ohne zu stark zu verallgemeinern.",
+          "Erkennt die Spannung zwischen persönlicher Befriedigung und gesellschaftlicher Erwartung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell reflektiert das Stück die post‑pandemische Verschmelzung von Home‑Office‑Ästhetik und traditionellen Geschlechterrollen: Die Sprecherin fordert sowohl emotionale Nähe als auch ökonomische Stabilität.",
+          "Historisch lässt sich die Verquickung von Sexualität und Arbeit in der Ära des „gig economy“ verorten, wo private Räume zunehmend als Orte der Produktivität gelten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detaillierte Textbelege für stilistische Mittel (Imperative, Wiederholungen, „No‑no“).",
+          "Erkennt die Ambiguitäten zwischen Verweilen und Aufbruch und verknüpft sie mit gesellschaftlichen Trends.",
+          "Bleibt weitgehend textnah, während sie breitere kulturelle Implikationen diskutiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen eine konsistente Struktur: sie beginnen mit einer These zur Verknüpfung von Intimität und Ökonomie, führen zahlreiche Textbelege an und schließen mit einer kulturellen Kontextualisierung. Die Varianz liegt hauptsächlich im Umfang spekulativer, historischer Aussagen – Interpretation 3 enthält die wenigsten Halluzinationen.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe, da sie fast ausschließlich auf belegbare Textstellen zurückgreift und nur eine einzige spekulative kulturelle Aussage enthält. Für zukünftige Analysen sollte der Fokus darauf liegen, spekulative Kontextualisierungen zu minimieren und weiterhin detaillierte, textbasierte Argumentation zu pflegen."
+  }
+}

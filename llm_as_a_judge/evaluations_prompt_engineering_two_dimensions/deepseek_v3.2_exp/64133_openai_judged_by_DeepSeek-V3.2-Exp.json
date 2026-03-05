@@ -1,0 +1,96 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität liegt darin, dass das Erinnern nicht nur als romantische Rückkehr, sondern auch als mögliche Wiederholung alter Machtstrukturen gelesen werden kann, ohne dass der Text diese Spannung auflöst.",
+          "Das wiederholte 'bring it back' fungiert sowohl als musikalisches Motiv als auch als Symbol für das Zurückholen von Erinnerungen, wobei unklar bleibt, ob es sich auf die Beziehung, den Club-Kontext oder ein breiteres kulturelles Revival bezieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch dominieren Wiederholungen, rhetorische Fragen und bildhafte Metaphern.",
+          "Emotional erzeugt das Stück durch die Kombination aus sanften Gesangspassagen und den energiereichen Exclamations von Lil Jon ein Wechselspiel von Intimität und Partystimmung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textstruktur und der stilistischen Mittel.",
+          "Die Berücksichtigung der transkulturellen Identität der Künstler ist positiv."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kreist um das Motiv der Erinnerung als Antrieb für ein neues Beziehungs-Reset:",
+          "Diese transkulturelle Fusion reflektiert die Globalisierung pop-musikalischer Stile und verhandelt Geschlechterrollen: Die weibliche Zielgruppe wird als 'ladies' adressiert, zugleich aber als passive Trägerin der Erinnerung ('All of the times we had') instrumentalisiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch dominieren Repetition, Call-and-Response und Code-Switching.",
+          "Historisch ist das Stück ein Produkt der späten 2000er-Jahre, in denen britisch-asiatischer R&B (Jay Sean) mit karibischem Dancehall (Sean Paul) und US-Crunk (Lil Jon) verschmolz."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sprecher fordert ein 'Zurückbringen' der gemeinsamen Geschichte ('Let’s bring it back', Zeile 30-33) und zugleich ein Neubeginn ('Let’s make new memories', Zeile 12-13).",
+          "Die Einbindung von Reggae-Phrasen ('wildin’ out', Zeile 82) und patois-Elementen ('mi hear seh you want', Zeile 92) erweitert das narrative Feld um postkoloniale Identitätsverweise, ohne jedoch klar zu definieren, wessen kulturelle Stimme hier primär ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt der Text einfache, repetitive Refrains, die durch lautmalerische Elemente ('oh-oh', Zeile 31-34) und interkulturelle Einschübe ('likkle trip down my lane', Zeile 84-85) eine hybride Ästhetik erzeugen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song 'Do You Remember' verknüpft Nostalgie mit einer Gegenwart, in der das Verlangen nach Wiederaufnahme einer vergangenen Beziehung zugleich als Aufruf zur 'neuen Erinnerung' fungiert.",
+          "Die Beteiligung von Lil Jon (Crunk-Einfluss) und Sean Paul (Dancehall) verdeutlicht die Hybridisierung von Genres, die in der post-digitalen Musikwirtschaft üblich ist."
+        ]
+      },
+      "positive_aspekte": [
+        "Die Interpretation bietet eine sehr tiefgehende Analyse der Textstruktur und der stilistischen Mittel.",
+        "Die Berücksichtigung der transkulturellen Identität der Künstler ist positiv."
+      ]
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verhandelt das Motiv der nostalgischen Wiederbelebung einer vergangenen Liebesbeziehung, wobei die zentrale Botschaft in der wiederholten Frage 'Do you remember?' ('Do you remember? All of the times we had') liegt.",
+          "Auf einer tieferen Ebene eröffnet das Lied ein Feld ambivalenter Bedeutungen: Die wiederholte Bitte um Erinnerung kann als Sehnsucht nach Identitätsbestätigung gelesen werden, zugleich aber auch als Versuch, die Kontrolle über die Erinnerung zu übernehmen ('If it’s alright with you / Then it’s alright with me')."
+        ]
+      },
+      "oberflächliche_aussagen": [
+        "Stilistisch nutzt der Text einfache Wiederholungen ('Let’s bring it back, oh-oh') als hypnotisches Mantra, das die Erinnerung selbst zu einem Klangsymbol macht."
+      ]
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die vierte Interpretation bietet die tiefste und faktentreueste Analyse des Songs."
+  }
+}

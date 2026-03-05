@@ -1,0 +1,94 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist ... ein herzlicher und emotionaler Ausdruck der Sehnsucht nach einer wahren Liebe."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Aussagen, fast jede Zeile wird mit einem konkreten Zitat belegt.",
+          "Wenig Wiederholungen, klare Struktur, keine spekulativen biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"My Life\" ein herzliches und emotionales Lied, das die Sehnsucht nach einer wahren Liebe ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse einzelner Zeilen, jede Interpretation ist klar aus dem Text ableitbar.",
+          "Keine unbelegten biografischen oder stilistischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein berührender Ausdruck der menschlichen Sehnsucht nach Liebe und Verbindung."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textstellen mit einer übergeordneten Interpretation.",
+          "Wenig Wiederholungen, aber ein leicht allgemeinerer Schluss."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist ... ein herzliches und emotionales Lied, das die universelle Sehnsucht nach Liebe und Zugehörigkeit ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Resignation und Verletzlichkeit im Text und verbindet sie mit konkreten Zeilen.",
+          "Analytisch solide, nur am Ende ein etwas vager Gesamtsatz."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist ... ein herzlicher und emotionaler Ausdruck der Sehnsucht nach Liebe und Zugehörigkeit."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, keine spekulativen Fakten.",
+          "Gute Balance zwischen konkreten Zeileninterpretationen und einer zusammenfassenden Aussage."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, jedoch variieren sie leicht in Formulierung und Detailtiefe. Die Varianz ist gering; die meisten Aussagen sind identisch, was zu einer hohen Oberflächlichkeit bei Wiederholungen führt.",
+    "empfehlung": "Interpretationen 1 und 4 zeigen die optimale Balance aus Texttreue und analytischer Tiefe. Für zukünftige Bewertungen sollte man darauf achten, dass die Schlussfolgerungen nicht zu allgemein bleiben, um die Tiefe‑Score weiter zu erhöhen, während man weiterhin strikt beim Text bleibt."
+  }
+}

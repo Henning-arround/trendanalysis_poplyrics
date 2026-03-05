@@ -1,0 +1,99 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wahre Natur des Veränderungsprozesses komplex und vielschichtig ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele wider"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der äußerlichen Schönheit der Person und die Kontrastierung mit der inneren Härte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wahre Natur des Veränderungsprozesses komplex und vielschichtig ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele wider"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der äußerlichen Schönheit der Person und die Kontrastierung mit der inneren Härte"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wahre Natur des Veränderungsprozesses komplex und vielschichtig ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele wider"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der äußerlichen Schönheit der Person und die Kontrastierung mit der inneren Härte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wahre Natur des Veränderungsprozesses komplex und vielschichtig ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele wider"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der äußerlichen Schönheit der Person und die Kontrastierung mit der inneren Härte"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wahre Natur des Veränderungsprozesses komplex und vielschichtig ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verletzlichkeit und den Einfluss äußerer Kräfte auf die menschliche Seele wider"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der äußerlichen Schönheit der Person und die Kontrastierung mit der inneren Härte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich, was auf eine mangelnde Vielfalt in den Interpretationen hindeutet",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und Vielfalt zu erreichen"
+  }
+}

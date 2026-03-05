@@ -1,0 +1,94 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Liedes kann in der Darstellung einer Beziehung gesehen werden, die von Unsicherheit und Angst geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich klar aus dem Text ableiten (z. B. Metapher der „paper walls“, Wiederholung des Refrains).",
+          "Analytisch präzise und berücksichtigt Ambivalenzen (z. B. Spannung zwischen „I'll stay“ und „you can go and have your fun“)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Liedes kann in der Darstellung von Beziehungen und Liebe gesehen werden, die in der heutigen Gesellschaft oft von Unsicherheit und Veränderung geprägt sind."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Interpretationen (z. B. Symbolik der „paper walls“, Bedeutung der Wiederholung).",
+          "Erkennt die emotionale Wirkung des Refrains und verknüpft sie mit dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs kann in der Darstellung einer Beziehung gesehen werden, die von der Gesellschaft und den eigenen Erwartungen geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik (paper walls, erste Liebe).",
+          "Berücksichtigt Mehrdeutigkeit und Spannungsfelder im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Liedes kann in der Darstellung einer Beziehung gesehen werden, die von Unsicherheit und Angst geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um gesellschaftliche Erwartungshaltungen (erste große Liebe).",
+          "Verknüpft Textstellen mit einer differenzierten Interpretation der Ambiguität."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs kann in der Darstellung einer Beziehung gesehen werden, die von der Gesellschaft und den eigenen Erwartungen geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Starke Fokussierung auf Symbolik und emotionale Bindungen im Text.",
+          "Erkennt und erklärt die wiederholte Betonung von Treue und Wartens."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen ein sehr hohes Maß an Faktentreue (keine Halluzinationen) und eine konsistente, textbasierte Analyse. Der einzige Unterschied liegt in einer leicht oberflächlichen, generischen Aussage pro Interpretation.",
+    "empfehlung": "Die Interpretationen sind alle faktentreu, aber Interpretation 2 besticht durch die zusätzliche, textgestützte Reflexion gesellschaftlicher Erwartungshaltungen, was ihr eine leicht höhere analytische Tiefe verleiht. Für zukünftige Bewertungen sollte darauf geachtet werden, generische Kultur‑ oder Gesellschaftsbehauptungen zu vermeiden oder sie mit konkreten Textbelegen zu untermauern."
+  }
+}

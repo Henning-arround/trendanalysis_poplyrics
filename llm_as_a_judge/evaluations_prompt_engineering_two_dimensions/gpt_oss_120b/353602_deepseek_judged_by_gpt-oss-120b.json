@@ -1,0 +1,116 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die Verwendung literarischer Stilmittel ... unterstreicht die emotionale Wirkung des Songs.",
+          "Der Song bewegt sich im Kontext der Popmusik der frühen 2000er Jahre und thematisiert universelle Emotionen.",
+          "Die emotionale Wirkung ... wird durch die affektive Dimension ... verstärkt.",
+          "Eine tiefere Bedeutungsebene ... könnte die Auseinandersetzung mit der Endlichkeit von Beziehungen ...",
+          "Insgesamt zeigt der Song ... komplexe emotionale Landschaft ..."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich klar aus dem Text ableiten (z. B. die Analyse von Imperativen, Symbolik von „silky skin“ und die Bedeutung von „That is just a smile”).",
+          "Keine unbelegten biografischen oder historischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die Verwendung literarischer Stilmittel ... unterstreicht die emotionale Wirkung des Songs.",
+          "Der kulturelle, historische und gesellschaftliche Kontext ... kann als Auseinandersetzung mit Themen wie Verlust, Trennung und der Suche nach menschlicher Verbindung interpretiert werden.",
+          "Die tiefere Bedeutungsebene ... liegt möglicherweise in der Darstellung der menschlichen Erfahrung, in der Beziehungen ... geprägt sind.",
+          "Die symbolische Ordnung des Songs kann als eine Exploration der menschlichen Emotionen und der Komplexität von Beziehungen verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Interpretationen, kaum spekulative Aussagen.",
+          "Gute Detailtiefe bei der Analyse von Imperativen, Wiederholungen und Symbolen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die Verwendung literarischer Stilmittel ... unterstreicht die emotionale Wirkung des Songs.",
+          "Der Song bewegt sich im kulturellen und historischen Kontext der frühen 2000er Jahre, in denen Themen wie Liebe, Verlust und emotionale Verletzlichkeit in der Popmusik häufig behandelt wurden.",
+          "Die ambige Haltung des Sängers ... schafft eine Spannung, die den emotionalen Gehalt des Songs ausmacht.",
+          "Die Wiederholung des Chorus ... verdeutlichen die emotionale Intensität.",
+          "Insgesamt zeigt der Song ... komplexe emotionale Landschaft ..."
+        ],
+        "positive_aspekte": [
+          "Einige konkrete Textbezüge (z. B. „silky skin“, „lifeline“).",
+          "Keine falschen biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext ... lässt sich nicht genau bestimmen, jedoch kann man sagen, dass der Song in einer Zeit des emotionalen und individuellen Ausdrucks entstand."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die Verwendung literarischer Stilmittel ... unterstreicht die emotionale Wirkung des Songs.",
+          "Die emotionale Wirkung ... wird durch die affektive Dimension ... noch verstärkt.",
+          "Insgesamt zeigt der Song ... eine komplexe und vielschichtige emotionale Landschaft, die den Hörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Klare Textbelege für viele Interpretationen (z. B. Imperative, Symbolik).",
+          "Erkennt die Unsicherheit und Ambivalenz im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein emotionaler und introspektiver Beitrag zur Popmusik.",
+          "Die Verwendung literarischer Stilmittel ... unterstreicht die emotionale Wirkung des Songs.",
+          "Der Song bewegt sich im Kontext der Popmusik der frühen 2000er Jahre und thematisiert universelle menschliche Erfahrungen.",
+          "Insgesamt offenbart der Song eine tiefe emotionale Verletzlichkeit und eine Sehnsucht nach menschlicher Nähe."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge (Imperative, Wiederholungen, Symbolik von „silky skin“).",
+          "Wenig bis keine spekulativen Aussagen, dafür klare Analyse der Ambivalenz im Refrain."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Emotion, Sehnsucht, Symbolik). Die Qualität variiert jedoch stark: Während Interpretation 1 und 4 tiefgehend und faktentreu sind, enthalten Interpretation 2 spekulative Kontextangaben und Interpretation 5 viele allgemeine Floskeln.",
+    "empfehlung": "Ein Ansatz, der konsequent Textbelege liefert und gleichzeitig die Mehrdeutigkeit des Songs auslotet (wie Interpretation 1 bzw. 4), liefert die ausgewogenste Bewertung. Modelle sollten darauf trainiert werden, vage Allgemeinplätze zu vermeiden und spekulative Kontextinformationen klar zu kennzeichnen."
+  }
+}

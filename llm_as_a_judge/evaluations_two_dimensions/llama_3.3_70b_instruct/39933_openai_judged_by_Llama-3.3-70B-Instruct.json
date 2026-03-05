@@ -1,0 +1,99 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metaphern von einem 'Loch in der Sonne' und 'Wolken im offenen Meer' beschreiben ein Paradoxon aus fehlender Klarheit und gleichzeitigem Überfluss an Möglichkeiten"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des 'Königreichs schöner Geschichten' steht für eine idealisierte, fast mythische Welt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Begegnung eröffnet dem Sprecher neue Perspektiven – das 'Ändern von Ansichten' und die 'Freiheit zu wählen' stehen für ein Erwachen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain beschreibt ein 'Königreich schöner Geschichten', das rein wie himmlischer Regen ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Text und seine Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrenden Motive von 'Herzschmerz' und 'bitter-süßer Herrlichkeit' zeigen, dass das Erwachen nicht ohne Schmerz geschieht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metaphern von einem 'Loch in der Sonne' und 'Wolken im offenen Meer' verstärken das Bild einer paradoxen Landschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der textlichen Motive und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile 'Dann gutes Glück kam' wirkt wie ein Mantra, das die Wiederherstellung von Hoffnung betont"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain beschreibt ein 'Königreich schöner Geschichten', das rein wie himmlischer Regen ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Text und seine Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'Königreichs schöner Geschichten, rein wie der Himmelregen' verknüpft das Ideal einer reinen, unverfälschten Wahrheit mit einer fast sakralen Reinigung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen über das 'Loch in der Sonne' und die 'Wolken im offenen Meer' illustrieren das Spannungsfeld zwischen Sehnsucht nach Freiheit und den Hindernissen, die das Leben aufbaut"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Symbolik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse des Textes und seiner Symbolik",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse des Textes und seiner Symbolik bietet und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

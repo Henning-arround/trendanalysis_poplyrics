@@ -1,0 +1,109 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig und tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist von Bedeutung für das Verständnis der tieferen Bedeutungsebenen und symbolischen Ordnungen des Songs.",
+          "Die Ambiguitäten und Spannungen, die im Song thematisiert werden, bleiben im Text erhalten und werden nicht aufgelöst, was die Komplexität und Tiefe des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich direkt aus dem Songtext ableiten (7 von 10).",
+          "Keine spekulativen biografischen oder historischen Behauptungen – damit ein sehr niedriger Halluzinations‑Score.",
+          "Die Interpretation geht über reine Oberflächlichkeit hinaus, indem sie konkrete Metaphern und Wiederholungen analysiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig und tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist von Bedeutung für das Verständnis der tieferen Bedeutungsebenen und symbolischen Ordnungen des Songs.",
+          "Die Ambiguitäten und Spannungen, die im Song thematisiert werden, bleiben im Text erhalten und werden nicht aufgelöst, was die Komplexität und Tiefe des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei den meisten Aussagen.",
+          "Keine unbelegten Fakten über den Künstler oder das Entstehungsjahr.",
+          "Gute Balance zwischen Beschreibung und Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig und tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist von Bedeutung für das Verständnis der tieferen Bedeutungsebenen und symbolischen Ordnungen des Songs.",
+          "Die Ambiguitäten und Spannungen, die im Song thematisiert werden, bleiben im Text erhalten und werden nicht aufgelöst, was die Komplexität und Tiefe des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Starke Textnähe – fast alle Punkte sind aus dem Lied ableitbar.",
+          "Keine spekulativen Aussagen über Hawkwind’s Biografie oder das Genre.",
+          "Erkennt die Mehrdeutigkeit des Textes, ohne sie zu simplifizieren."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig und tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist von Bedeutung für das Verständnis der tieferen Bedeutungsebenen und symbolischen Ordnungen des Songs.",
+          "Die Ambiguitäten und Spannungen, die im Song thematisiert werden, bleiben im Text erhalten und werden nicht aufgelöst, was die Komplexität und Tiefe des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Hohe Faktentreue – keine unbelegten Behauptungen.",
+          "Gute Analyse von Metaphern und Wiederholungen.",
+          "Erkennt die zentrale Thematik von Angst, Gewalt und Macht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, sind vielfältig und tragen zur emotionalen Wirkung und affektiven Dimension des Songs bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist von Bedeutung für das Verständnis der tieferen Bedeutungsebenen und symbolischen Ordnungen des Songs.",
+          "Die Ambiguitäten und Spannungen, die im Song thematisiert werden, bleiben im Text erhalten und werden nicht aufgelöst, was die Komplexität und Tiefe des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung, kaum Halluzinationen.",
+          "Erklärt zentrale Bildsprache (z. B. „armed guard of punishment“).",
+          "Zeigt ein Bewusstsein für die offene, mehrdeutige Natur des Textes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich identisch, wodurch die Varianz praktisch null ist – ein Hinweis darauf, dass das Modell keine unterschiedlichen Analyseansätze erzeugt hat.",
+    "empfehlung": "Die aktuelle Herangehensweise liefert sehr faktentreue, aber leicht oberflächliche Analysen. Für höhere Tiefenwerte sollten zukünftige Modelle mehr differenzierte Textbelege (z. B. syntaktische Analysen, kontrastierende Bildungen) einbringen und allgemeine Floskeln vermeiden."
+  }
+}

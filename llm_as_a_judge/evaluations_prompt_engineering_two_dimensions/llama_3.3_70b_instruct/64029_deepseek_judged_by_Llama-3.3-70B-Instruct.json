@@ -1,0 +1,99 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen der Realität von Beziehungen und den Idealisierungen in Filmen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension von Zeilen erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Komplexität von Beziehungen und verwendet literarische Stilmittel, um seine Botschaft zu vermitteln"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach einer funktionierenden Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verwendet narrative Elemente, um die Geschichte einer Beziehung zu erzählen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen der Realität von Beziehungen und den Idealisierungen in Filmen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension von Zeilen erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Komplexität von Beziehungen und verwendet literarische Stilmittel, um seine Botschaft zu vermitteln"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach echter und tiefer Verbindung in einer Welt, die von Oberflächlichkeit geprägt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verwendet narrative Elemente, um die Geschichte einer Beziehung zu erzählen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen der Realität von Beziehungen und den Idealisierungen in Filmen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension von Zeilen erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Komplexität von Beziehungen und verwendet literarische Stilmittel, um seine Botschaft zu vermitteln"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die thematisierte Komplexität von Beziehungen und die Verwendung literarischer Stilmittel",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und thematisiert die Komplexität von Beziehungen"
+  }
+}

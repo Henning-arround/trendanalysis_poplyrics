@@ -1,0 +1,99 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'Monkey' als Symbol für das unzensierte, kindliche Ich"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'come on' und 'take it easy' erzeugt einen tranceartigen Rhythmus"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegenüberstellung von 'deeper you go, the higher you fly' und 'your inside is out when your outside is in'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'inside is out' und 'outside is in' wird als Auflösung von Rollen, Masken und gesellschaftlichen Konventionen interpretiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'come on' und 'take it easy' erzeugt eine hypnotische Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des 'Monkey' als Metapher für das unzensierte, spontane Selbst"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'deeper you go, the higher you fly' und 'your inside is out when your outside is in' wird als Auflösung von Dualitäten interpretiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'come on' und 'take it easy' erzeugt einen tranceartigen Rhythmus"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des 'Monkey' als Symbol für das unzensierte, kindliche Ich"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'deeper you go, the higher you fly' wird als Auflösung von konventionellen Grenzen interpretiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'come on' und 'take it easy' erzeugt ein Gefühl von Unbeschwertheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des 'Monkey' als Symbol für das unzensierte, animalische Selbst"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'deeper you go, the higher you fly' und 'your inside is out when your outside is in' wird als Auflösung von Innen- und Außenwelt interpretiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'come on' und 'take it easy' erzeugt einen tranceartigen Zustand"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des 'Monkey' als Symbol für das unzensierte, animalische Selbst"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songtexts, jedoch variieren die Halluzinations-Scores",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

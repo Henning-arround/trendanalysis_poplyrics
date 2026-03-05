@@ -1,0 +1,109 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Wait\" von Martin Jensen feat. Loote thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"When times are hard, feels out of place\" suggeriert, dass die Beziehung unter Druck steht und die Partner sich verloren und unsicher fühlen.",
+          "Der Refrain \"Every day I'll wait, I'll stay\" kann als Ausdruck der Treue und Hingabe interpretiert werden, die der Sänger seiner Partnerin gegenüber empfindet, auch wenn die Beziehung aktuell schwierig ist."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen beziehen sich eindeutig auf Textzeilen, sodass keine unbelegten biografischen oder stilistischen Behauptungen vorkommen.",
+          "Die Interpretation bleibt konsistent und wiederholt keine widersprüchlichen Punkte."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Wait\" von Martin Jensen feat. Loote thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erinnerung an die Vergangenheit (\"Our fading love takes us back to yesterday\") und die kalte, leere Atmosphäre (\"The bed is cold from our mistakes\") unterstreichen die Distanz und Entfremdung, die zwischen den Partnern entstanden ist.",
+          "Die Zeile \"We're trapped inside these paper walls\" deutet darauf hin, dass die Partner sich in ihrer Beziehung eingeschlossen fühlen, aber gleichzeitig auch zusammenhalten, weil sie sich nur noch aneinander gewöhnt haben."
+        ],
+        "positive_aspekte": [
+          "Die Analyse bezieht sich ausschließlich auf die im Songtext vorhandenen Phrasen.",
+          "Sie erkennt wiederkehrende Motive (z. B. das Mantra‑Prinzip) und verbindet sie mit den jeweiligen Zeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Wait\" von Martin Jensen feat. Loote thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Trotz dieser Probleme besteht jedoch noch eine tiefe Verbundenheit, wie die Zeile \"No one's gonna know you better\" zeigt, die auf die Intimität und das Verständnis hinweist, das sich im Laufe der Zeit entwickelt hat.",
+          "Die Wiederholung dieser Zeile wird zu einem Mantra, das die Entschlossenheit des Sängers unterstreicht, die Beziehung zu retten und durch die schwierigen Zeiten hindurchzuhalten."
+        ],
+        "positive_aspekte": [
+          "Alle gemachten Aussagen lassen sich auf einzelne Textzeilen zurückführen, sodass keine spekulativen biografischen Details eingeführt werden.",
+          "Die Interpretation bleibt strukturiert und wiederholt keine rein redundanten Formulierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Wait\" von Martin Jensen feat. Loote thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"When times are hard, feels out of place\" suggeriert, dass die Beziehung unter Druck steht und die Partner sich verloren und unsicher fühlen.",
+          "Die Zeile \"We're trapped inside these paper walls\" deutet darauf hin, dass die Partner sich in ihrer Beziehung eingeengt und gefangen fühlen, aber gleichzeitig auch zusammenhalten, um die Verbindung nicht zu verlieren."
+        ],
+        "positive_aspekte": [
+          "Die Analyse bleibt eng am Wortlaut des Songs und vermeidet unbegründete Kontextualisierungen.",
+          "Sie erkennt die zentrale Rolle der Wiederholung im Refrain."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"Wait\" von Martin Jensen feat. Loote thematisiert eine Beziehung, die an einem Wendepunkt angelangt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Trotz dieser Probleme besteht jedoch noch eine tiefe Verbundenheit, wie die Zeile \"No one's gonna know you better\" zeigt, die auf die Intimität und das Verständnis hinweist, das sich im Laufe der Zeit entwickelt hat.",
+          "Die Wiederholung dieser Zeile wird zu einem Mantra, das die Entschlossenheit des Sängers unterstreicht, die Beziehung zu retten und durch die schwierigen Zeiten hindurchzuhalten."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen beziehen sich direkt auf Textpassagen, sodass keine spekulativen Fakten eingeführt werden.",
+          "Die Interpretation ist konsistent und wiederholt keine widersprüchlichen Aussagen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen ein sehr ähnliches Muster: ein einziger erfundener Ausgangssatz (Wendepunkt) und überwiegend oberflächliche, textbasierte Aussagen. Die Varianz ist gering, was auf ein hohes Maß an Wiederholung und wenig inhaltliche Diversität hinweist.",
+    "empfehlung": "Zukünftige Modelle sollten stärker auf konkrete Textbelege setzen und darüber hinaus differenziertere, analytisch tiefere Einsichten bieten (z. B. stilistische Mittel, Mehrdeutigkeit, narrative Struktur). Das Hinzufügen von begründeten, aber nicht übertrieben spekulativen Interpretationen (z. B. mögliche Metaphern) würde die Tiefe erhöhen, ohne die Halluzinationsrate zu steigern."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Liebe als einer Art Heilung oder Erlösung aus der negativen Welt des Schicksals und der Traurigkeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen Licht und Dunkel, Hoffnung und Verzweiflung verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des Roulettes und die Symbolik der Augen in der Menschenmasse."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Suche nach Sinn und Verbindung in einer oft sinnlosen und kalten Welt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen Hoffnungslosigkeit und Liebe, sowie durch die Verwendung von Symbolen wie der 'warmen Haut' und dem 'Nebel der Traurigkeit' verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Ambiguität und Spannung zwischen der negativen Welt des Schicksals und der positiven Welt der Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Suche nach Authentizität und menschlicher Verbindung in einer oft entfremdeten Gesellschaft liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen Hoffnungslosigkeit und Liebe, sowie zwischen Kälte und Wärme erzeugt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Symbolik der Augen und die Ambivalenz der Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Suche nach Authentizität und menschlicher Verbindung in einer oft entfremdeten Gesellschaft liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen Hoffnungslosigkeit und Liebe, sowie zwischen Kälte und Wärme erzeugt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Spannung zwischen der dunklen, hoffnungslosen Welt und der warmen, liebenden Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach wahrer Liebe in einer Welt, die vom Schicksal und von negativen Emotionen geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des Roulettes, die Symbolik der Augen und die Kontraste zwischen Hoffnungslosigkeit und Liebe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die beste Interpretation (Nr. 5) zeigt eine hohe Texttreue und analytische Tiefe.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine hohe Texttreue mit analytischer Tiefe verbindet und Ambivalenzen und Mehrdeutigkeiten textbasiert diskutiert."
+  }
+}

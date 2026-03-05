@@ -1,0 +1,99 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Passage im Gasthaus verdeutlicht die Klarheit des eigenen Ziels und die Ablehnung fremder Einflüsse."
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Ich-Perspektive betont ein unreflektiertes, fast kindliches Festhalten an diesen Gewohnheiten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik von Sauerkraut und Polka."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Polka – ein tanzbarer Rhythmus aus dem osteuropäischen Raum – die Lebensfreude und Gemeinschaftsbindung verkörpert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Ich-Perspektive betont ein unreflektiertes, fast kindliches Festhalten an diesen Elementen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die Themen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Passage im Gasthaus, in der der Protagonist sofort die Karte zurücklegt und dem Ober sein Wunsch mitteilt, verdeutlicht die Klarheit und Selbstsicherheit, die aus der Vertrautheit mit den eigenen Traditionen erwächst."
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Ich-Perspektive betont ein unreflektiertes, fast kindliches Festhalten an diesen Gewohnheiten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik von Sauerkraut und Polka."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Polka – ein tanzbarer Rhythmus aus dem osteuropäischen Raum – die Lebensfreude und Gemeinschaftsbindung verkörpert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Ich-Perspektive betont ein unreflektiertes, fast kindliches Festhalten an diesen Elementen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die Themen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur des Erzählers, der mit seiner Braut Edeltraud ein perfektes Gegenstück findet, verkörpert das Ideal einer partnerschaftlichen Gemeinschaft, in der gemeinsame Vorlieben und Gewohnheiten das Fundament bilden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung, dass Edeltraud 'am besten Sauerkraut kocht und am besten Polka tanzt', hebt die Rolle der Frau als Bewahrerin von Kultur und Genuss hervor."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Symbolik von Sauerkraut und Polka."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen bieten eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die Interpretationen 1, 3 und 5 bieten die beste Balance zwischen Textreue und analytischer Tiefe und sollten als Vorlage für weitere Analysen dienen."
+  }
+}

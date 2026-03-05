@@ -1,0 +1,105 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Herausforderungen von Beziehungen in einer Zeit, in der die sozialen Medien und die digitale Kommunikation eine immer größere Rolle spielten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Idee zu sein, dass eine Beziehung trotz ihrer Herausforderungen und Konflikte wertvoll und lohnenswert ist.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, um seine Botschaft zu vermitteln.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension von Zeilen wie \"You make me / So mad that I can't stand you girl / It's crazy\" erzeugt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Idee zu sein, dass eine Beziehung trotz ihrer Herausforderungen und Konflikte wertvoll und lohnenswert ist.",
+          "Der Song thematisiert die Komplexität von Beziehungen, die von Höhen und Tiefen geprägt sind."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, um seine Botschaft zu vermitteln.",
+          "Die emotionale Wirkung des Songs ist ambivalent, da er sowohl von Frustration und Wut als auch von Liebe und Zuneigung geprägt ist."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext erwähnt die Diskrepanz zwischen der Realität von Beziehungen und den Idealisierungen in Filmen: \"It ain't like the movies\". Dies kann als Kommentar zu den gesellschaftlichen Erwartungen an Beziehungen und der Darstellung von Liebe in den Medien gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Idee zu sein, dass eine Beziehung trotz ihrer Herausforderungen und Konflikte wertvoll und lohnenswert ist."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, um seine Botschaft zu vermitteln.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song erschien 2013, einer Zeit, in der die sozialen Medien und die digitale Kommunikation eine immer größere Rolle spielten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Idee zu sein, dass eine Beziehung trotz ihrer Herausforderungen und Konflikte wertvoll und lohnenswert ist."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, um seine Botschaft zu vermitteln.",
+          "Die emotionale Wirkung des Songs ist ambivalent, da er sowohl von Frustration und Wut als auch von Liebe und Zuneigung geprägt ist."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Herausforderungen von Beziehungen in einer Zeit, in der die sozialen Medien und die digitale Kommunikation eine immer größere Rolle spielten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Idee zu sein, dass eine Beziehung trotz ihrer Herausforderungen und Konflikte wertvoll und lohnenswert ist.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, um seine Botschaft zu vermitteln.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension von Zeilen wie \"You make me / So mad that I can't stand you girl / It's crazy\" erzeugt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung der Halluzination und Tiefe.",
+    "empfehlung": "Die Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher die empfehlenswerteste."
+  }
+}

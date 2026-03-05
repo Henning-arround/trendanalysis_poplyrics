@@ -1,0 +1,97 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Arroganz, Selbstbewusstsein und einer gewissen Aggressivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Oberflächlichkeit und den Konsum von Luxusgütern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung von Metaphern und Symbolen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert die Werte und die Ästhetik der Hip-Hop-Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Künstler demonstriert seine Macht und seinen Einfluss durch den Konsum von teuren Getränken"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die ambivalente emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Oberflächlichkeit und den Konsum von Luxusgütern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine ausgewogene Analyse der literarischen Stilmittel und des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert die Werte und die Ästhetik der Hip-Hop-Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Künstler demonstriert seine Macht und seinen Einfluss durch den Konsum von teuren Getränken"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die ambivalente emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Arroganz, Selbstbewusstsein und einer gewissen Aggressivität"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Oberflächlichkeit und den Konsum von Luxusgütern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung von Metaphern und Symbolen im Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretation 3 bietet eine ausgewogene und textbezogene Analyse des Songs"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person war einst unschuldig und rein.",
+          "Durch die Einflüsse anderer entwickelte sie eine harte, unempfindliche Fassade.",
+          "Die wahre Natur des Veränderungsprozesses ist komplex und vielschichtig.",
+          "Die Metapher des \"Herzens aus Stein\" symbolisiert emotionale Verhärtung durch äußere Einflüsse.",
+          "Die wiederkehrende Frage unterstreicht die Suche nach Schuld und Verständnis.",
+          "Satan erlangte die Kontrolle über die Person und trug zur Verhärtung bei.",
+          "Insgesamt spiegelt das Lied Verletzlichkeit und den Einfluss äußerer Kräfte wider."
+        ],
+        "positive_aspekte": [
+          "Alle genannten Inhalte lassen sich eindeutig aus dem Songtext ableiten (z. B. die Frage nach einem Mann, die Bildsprache von Sonne, Stimme, Satan).",
+          "Der Text wird strukturiert wiedergegeben und bleibt faktentreu."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person war einst unschuldig und rein.",
+          "Durch die Einflüsse anderer entwickelte sie eine harte, unempfindliche Fassade.",
+          "Die wahre Natur des Veränderungsprozesses ist komplex und vielschichtig.",
+          "Die Metapher des \"Herzens aus Stein\" symbolisiert emotionale Verhärtung durch äußere Einflüsse.",
+          "Die wiederkehrende Frage unterstreicht die Suche nach Schuld und Verständnis.",
+          "Satan erlangte die Kontrolle über die Person und trug zur Verhärtung bei.",
+          "Insgesamt spiegelt das Lied Verletzlichkeit und den Einfluss äußerer Kräfte wider."
+        ],
+        "positive_aspekte": [
+          "Fakten zum Song (Titel, Künstler, Jahr) sind korrekt.",
+          "Alle interpretativen Punkte beziehen sich auf konkrete Textstellen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person war einst unschuldig und rein.",
+          "Durch die Einflüsse anderer entwickelte sie eine harte, unempfindliche Fassade.",
+          "Die wahre Natur des Veränderungsprozesses ist komplex und vielschichtig.",
+          "Die Metapher des \"Herzens aus Stein\" symbolisiert emotionale Verhärtung durch äußere Einflüsse.",
+          "Die wiederkehrende Frage unterstreicht die Suche nach Schuld und Verständnis.",
+          "Satan erlangte die Kontrolle über die Person und trug zur Verhärtung bei.",
+          "Insgesamt spiegelt das Lied Verletzlichkeit und den Einfluss äußerer Kräfte wider."
+        ],
+        "positive_aspekte": [
+          "Keine erfundenen biografischen Details oder genre‑bezogenen Behauptungen.",
+          "Die Analyse bleibt eng am Wortlaut des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person war einst unschuldig und rein.",
+          "Durch die Einflüsse anderer entwickelte sie eine harte, unempfindliche Fassade.",
+          "Die wahre Natur des Veränderungsprozesses ist komplex und vielschichtig.",
+          "Die Metapher des \"Herzens aus Stein\" symbolisiert emotionale Verhärtung durch äußere Einflüsse.",
+          "Die wiederkehrende Frage unterstreicht die Suche nach Schuld und Verständnis.",
+          "Satan erlangte die Kontrolle über die Person und trug zur Verhärtung bei.",
+          "Insgesamt spiegelt das Lied Verletzlichkeit und den Einfluss äußerer Kräfte wider."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe von Schlüsselmotiven (Satan, Sonne, Stimme).",
+          "Keine spekulativen historischen oder biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person war einst unschuldig und rein.",
+          "Durch die Einflüsse anderer entwickelte sie eine harte, unempfindliche Fassade.",
+          "Die wahre Natur des Veränderungsprozesses ist komplex und vielschichtig.",
+          "Die Metapher des \"Herzens aus Stein\" symbolisiert emotionale Verhärtung durch äußere Einflüsse.",
+          "Die wiederkehrende Frage unterstreicht die Suche nach Schuld und Verständnis.",
+          "Satan erlangte die Kontrolle über die Person und trug zur Verhärtung bei.",
+          "Insgesamt spiegelt das Lied Verletzlichkeit und den Einfluss äußerer Kräfte wider."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich auf Textstellen zurückführen; es gibt keine Halluzinationen.",
+          "Die Interpretation bleibt konsistent und strukturiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch, wodurch die Varianz gering ist. Die Wiederholungen führen zu einer hohen Oberflächlichkeit, aber nicht zu Halluzinationen.",
+    "empfehlung": "Ein Ansatz, der stärker zwischen belegten Textstellen und interpretativen, aber textbasierten Analysen unterscheidet, würde die Tiefenbewertung erhöhen, ohne die Faktentreue zu gefährden."
+  }
+}

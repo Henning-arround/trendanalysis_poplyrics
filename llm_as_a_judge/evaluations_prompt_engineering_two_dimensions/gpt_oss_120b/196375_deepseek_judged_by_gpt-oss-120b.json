@@ -1,0 +1,131 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einem ungewöhnlichen und vielleicht sogar unerreichbaren Ziel zu sein, symbolisiert durch den Bau eines Hauses aus den Knochen von Cary Grant, einem berühmten Hollywood‑Schauspieler.",
+          "Diese Zeile kann als Metapher für die Konstruktion einer Traumwelt oder einer idealen Realität interpretiert werden.",
+          "Der \"Brief an den Spiegel\" … kann als ein innerer Monolog oder eine direkte Ansprache an das eigene Ich interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Sehnsucht, Melancholie und vielleicht sogar Ironie.",
+          "Die Textzeile … kann als ein Kommentar zur deutschen Kultur oder einer spezifischen regionalen Identität interpretiert werden.",
+          "Der Song kann auch als Kommentar zur Konstruktion von Realität und Identität verstanden werden, wobei die Knochen von Cary Grant als Symbol für eine unerreichbare oder konstruierte Idealität dienen.",
+          "Insgesamt zeigt der Song eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen und Bedeutungsebenen zulässt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die surrealen Bildungen im Text (z. B. Kuckucksuhrengeschäft, Jugendstilkleider).",
+          "Verknüpft wiederholte Textstellen mit ihrer möglichen Bedeutung (z. B. Wiederholung des Refrains).",
+          "Bleibt faktentreu – keine erfundenen biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung, da er in den 1980er Jahren, einer Zeit des wirtschaftlichen und kulturellen Umbruchs, entstand.",
+          "Die Referenz auf Cary Grant, einen Vertreter der klassischen Hollywood‑Ära, kann als Kommentar zur Veränderung der kulturellen Werte und der Rolle der Medien in der Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einem ungewöhnlichen und vielleicht sogar unerreichbaren Ziel zu sein …",
+          "Diese Zeile kann als Metapher für die Konstruktion einer Traumwelt oder einer idealen Realität interpretiert werden.",
+          "Der Brief an den Spiegel … kann als Symbol für die Kommunikation mit sich selbst oder der Gesellschaft interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Traum und Realität, zwischen Sehnsucht und Melancholie.",
+          "Die Wiederholung des Refrains und die Verwendung von Na‑Na‑Na‑Sequenzen erzeugen eine hypnotische und tranceähnliche Atmosphäre …",
+          "Insgesamt zeigt der Song eine komplexe und vielschichtige Struktur, die eine tiefere Analyse und Interpretation erfordert."
+        ],
+        "positive_aspekte": [
+          "Gibt konkrete Textbelege (z. B. Kuckucksuhrengeschäft, Na‑Na‑Na‑Sequenzen).",
+          "Verbindet einzelne Bildungen mit einer plausiblen, wenn auch spekulativen, kulturellen Lesart.",
+          "Erkennt stilistische Mittel (Metaphern, Symbolik) und benennt sie explizit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einem ungewöhnlichen und vielleicht sogar unerreichbaren Ziel zu sein …",
+          "Diese Zeile kann als Metapher für die Konstruktion einer Traumwelt oder einer idealen Realität interpretiert werden.",
+          "Der \"Brief an den Spiegel\" … kann als ein innerer Monolog oder eine direkte Ansprache an das eigene Ich interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Sehnsucht, Melancholie und vielleicht sogar Ironie.",
+          "Die Textzeile … kann als ein Kommentar zur deutschen Kultur oder einer spezifischen regionalen Identität interpretiert werden.",
+          "Der Song kann auch als Kommentar zur Konstruktion von Realität und Identität verstanden werden, wobei die Knochen von Cary Grant als Symbol für eine unerreichbare oder konstruierte Idealität dienen.",
+          "Insgesamt zeigt der Song eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen und Bedeutungsebenen zulässt."
+        ],
+        "positive_aspekte": [
+          "Stellt klare Bezüge zu den konkreten Bildungen des Textes her (z. B. Kuckucksuhrengeschäft, Jugendstilkleider).",
+          "Erkennt die wiederholte Aufforderung zum Hausbau und weist auf deren strukturelle Bedeutung hin.",
+          "Bleibt bei allen Aussagen innerhalb des vorliegenden Textes – keine erfundenen Fakten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einem ungewöhnlichen und vielleicht sogar unerreichbaren Ziel zu sein …",
+          "Diese Zeile kann als Metapher für die Konstruktion einer Traumwelt oder einer idealen Realität interpretiert werden.",
+          "Der \"Brief an den Spiegel\" … kann als ein innerer Monolog oder eine direkte Ansprache an das eigene Ich interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Sehnsucht, Melancholie und vielleicht sogar Ironie.",
+          "Die Textzeile … kann als ein Kommentar zur deutschen Kultur oder einer spezifischen regionalen Identität interpretiert werden.",
+          "Der Song kann auch als Kommentar zur Konstruktion von Realität und Identität verstanden werden, wobei die Knochen von Cary Grant als Symbol für eine unerreichbare oder konstruierte Idealität dienen.",
+          "Insgesamt zeigt der Song eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen und Bedeutungsebenen zulässt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die wichtigsten surrealen Motive des Liedes.",
+          "Verknüpft die Wiederholungen im Text mit einer möglichen interpretativen Funktion.",
+          "Vermeidet unbegründete biografische oder historische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einem ungewöhnlichen und vielleicht sogar unerreichbaren Ziel zu sein …",
+          "Diese Zeile kann als Metapher für die Konstruktion einer Traumwelt oder einer idealen Realität interpretiert werden.",
+          "Der \"Brief an den Spiegel\" … kann als ein innerer Monolog oder eine direkte Ansprache an das eigene Ich interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Sehnsucht, Melancholie und vielleicht sogar Ironie.",
+          "Die Textzeile … kann als ein Kommentar zur deutschen Kultur oder einer spezifischen regionalen Identität interpretiert werden.",
+          "Der Song kann auch als Kommentar zur Konstruktion von Realität und Identität verstanden werden, indem er disparate Elemente wie den Orient, den Rhein, Jugendstilkleider und die Knochen von Cary Grant zusammenführt.",
+          "Insgesamt zeigt der Song eine komplexe und vielschichtige Struktur, die verschiedene Interpretationen und Bedeutungsebenen zulässt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Vielschichtigkeit des Textes und benennt die einzelnen Bildungen.",
+          "Hinweis auf die Verbindung verschiedener, scheinbar disparater Motive (Orient, Rhein, etc.).",
+          "Bleibt faktentreu – keine erfundenen Details über die Band oder das Entstehungsjahr."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Variation liegt nur im Umfang zusätzlicher, teils spekulativer Kontextualisierungen. Die Kernanalyse ist konsistent, jedoch führen die zusätzlichen, nicht textbasierten Aussagen zu einer geringeren Halluzinationsbewertung.",
+    "empfehlung": "Interpretationen 1‑4 sind gleichwertig in ihrer Texttreue und bieten eine solide, wenn auch teilweise oberflächliche Analyse. Interpretation 5 liefert mehr Kontext, überschreitet jedoch die Grenze zulässiger Spekulation. Für eine ausgewogene Bewertung sollte man eine der ersten vier wählen, da sie faktentreu bleiben und gleichzeitig genügend analytische Tiefe bieten."
+  }
+}

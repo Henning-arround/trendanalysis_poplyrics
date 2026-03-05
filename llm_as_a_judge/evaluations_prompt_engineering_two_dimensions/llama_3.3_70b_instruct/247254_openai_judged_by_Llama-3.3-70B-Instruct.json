@@ -1,0 +1,104 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Auflösung klassischer Rollenbilder"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Figur einer 'little girl'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der ambivalenten Rollenverteilung",
+          "Die Betonung der Spannung zwischen familiärer Nähe und erotischer Anziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Auflösung traditioneller Beziehungsmodelle"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile 'Here I go again'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegensätze zwischen Leidenschaft und Spielmechanik",
+          "Die Betonung der Unklarheit über die Natur der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Auflösung traditioneller Beziehungsmodelle"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft lässt sich als wiederkehrende Suche nach Zugehörigkeit und Anerkennung formulieren"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der ambivalenten Figurenbilder",
+          "Die Betonung der Spannung zwischen Erinnerung und Gegenwart"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Auflösung traditioneller Beziehungsmodelle"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile 'Here I go again'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegensätze zwischen Leidenschaft und Spielmechanik",
+          "Die Betonung der Unsicherheit des postmodernen Beziehungsnetzes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Auflösung traditioneller Beziehungsmodelle"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft lässt sich als wiederkehrende Suche nach Zugehörigkeit und Anerkennung formulieren"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der ambivalenten Figurenbilder",
+          "Die Betonung der Spannung zwischen Erinnerung und Gegenwart"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der ambivalenten Figurenbilder und der Spannung zwischen familiärer Nähe und erotischer Anziehung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine hohe Sensibilität für die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

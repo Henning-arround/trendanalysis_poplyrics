@@ -1,0 +1,92 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Thematik der gescheiterten Liebesbeziehung und des emotionalen Schmerzes ist ein universelles Thema"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und rhetorischen Fragen",
+          "Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Thematik der gescheiterten Liebesbeziehung und des emotionalen Schmerzes ist ein universelles Thema"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und rhetorischen Fragen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "postmoderne Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Thematik der gescheiterten Liebesbeziehung und des emotionalen Schmerzes ist ein universelles Thema"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und rhetorischen Fragen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der emotionalen Wirkung des Songs",
+          "Gute Berücksichtigung des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Metaphern und rhetorischen Fragen",
+          "Gute Berücksichtigung des Textes und der emotionalen Wirkung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf den Text beziehen und weniger spekulativ sein"
+  }
+}

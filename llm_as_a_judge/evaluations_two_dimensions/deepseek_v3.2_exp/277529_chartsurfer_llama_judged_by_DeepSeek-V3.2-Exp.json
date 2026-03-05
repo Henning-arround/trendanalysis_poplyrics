@@ -1,0 +1,93 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Tragödie der Verführung und des Verlusts der Unschuld"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kontrast zwischen äußerer Schönheit und innerer Härte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Bild von Verfall und Verlust"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kontrast zwischen äußerer Schönheit und innerer Härte"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Tragödie der Verführung und des Verlusts der Unschuld"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kontrast zwischen äußerer Schönheit und innerer Härte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Bild von Verfall und Verlust"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kontrast zwischen äußerer Schönheit und innerer Wahrheit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Kontrast zwischen äußerer Schönheit und innerer Realität",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse, aber auch eine Tendenz zur Oberflächlichkeit",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen"
+  }
+}

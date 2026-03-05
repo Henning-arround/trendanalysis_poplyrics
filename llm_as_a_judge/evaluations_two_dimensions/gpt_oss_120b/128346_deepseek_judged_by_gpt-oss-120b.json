@@ -1,0 +1,95 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Erfahrung interpretiert werden, in der wir alle Fehler machen und Dinge verlieren, die uns wichtig sind.",
+          "Insgesamt spiegelt der Song die universelle menschliche Erfahrung von Verlust, Schuld und Sehnsucht wider."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus konkreten Textzeilen ab (z. B. „Just one slip…“, „It feels like blood is on my hands“, „I never meant to let you go“).",
+          "Die Interpretation erkennt die innere Zerrissenheit des Sängers und verbindet sie mit den wiederholten Motiven des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Erfahrung interpretiert werden, in der wir alle Fehler machen und Dinge verlieren, die uns wichtig sind."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Verknüpfung von Textstellen mit den beschriebenen Gefühlen (Schuld, Verlust, Sehnsucht).",
+          "Erklärt die wiederholte Zeile „I never meant to let you go“ als Ausdruck von Reue."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Erfahrung interpretiert werden, in der wir alle Fehler machen und Dinge verlieren, die uns wichtig sind."
+        ],
+        "positive_aspekte": [
+          "Konsistente Analyse aller Schlüsselzeilen des Songs.",
+          "Gute Balance zwischen Textbezug und allgemeiner Aussage über Schuld und zweite Chancen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Erfahrung interpretiert werden, in der wir alle Fehler machen und Dinge verlieren, die uns wichtig sind.",
+          "unterstreicht die Reue und den Schmerz des Sängers und wird zu einem emotionalen Höhepunkt des Songs."
+        ],
+        "positive_aspekte": [
+          "Erkennt die emotionale Intensität der Wiederholungen und verknüpft sie mit dem Wunsch nach einer zweiten Chance.",
+          "Stützt fast jede Aussage auf konkrete Textpassagen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig aus dem Songtext ableiten – keine vagen Verallgemeinerungen.",
+          "Sehr detaillierte Analyse von Motiv, Wiederholungen und innerer Konfliktlage des Protagonisten.",
+          "Zeigt ein tiefes Verständnis für die Ambivalenz zwischen Schuld, Verlust und dem Wunsch nach Erlösung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Sehr hoch – alle Interpretationen bleiben faktentreu, Unterschiede liegen nur im Detailgrad der Analyse.",
+    "empfehlung": "Interpretation 4 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe. Sie vermeidet vage Verallgemeinerungen und nutzt ausschließlich Textbelege, wodurch sie als Vorbild für künftige LLM‑basierte Songinterpretationen dienen kann."
+  }
+}

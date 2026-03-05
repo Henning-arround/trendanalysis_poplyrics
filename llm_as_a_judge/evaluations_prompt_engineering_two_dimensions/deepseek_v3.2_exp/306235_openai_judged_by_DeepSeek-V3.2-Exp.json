@@ -1,0 +1,102 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Kontextualisierung der digitalen Kommunikation"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Genre-Zuordnung zum frühen 2010er-Jahre-Pop"
+        ],
+        "oberflächliche_aussagen": [
+          "Das 'Blue' als Metapher für Freiheit und Sehnsucht"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der räumlichen Metaphern",
+          "Berücksichtigung von Dualitäten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Post-2000-Ära-Kontextualisierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das 'Blue' als Symbol für Unschuld und Sehnsucht"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Kreisbewegungen und Wiederholungen",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Kontextualisierung der Post-2000-Ära"
+        ],
+        "oberflächliche_aussagen": [
+          "Das 'Blue' als Symbol für melancholische Nostalgie"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Doppeldeutigkeit von 'my baby blue'",
+          "Berücksichtigung von Widersprüchen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kontextualisierung der Post-Digital-Ära"
+        ],
+        "oberflächliche_aussagen": [
+          "Das 'Blue' als Symbol für Retro-Ästhetik"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der zyklischen Bewegungen und Wiederholungen",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

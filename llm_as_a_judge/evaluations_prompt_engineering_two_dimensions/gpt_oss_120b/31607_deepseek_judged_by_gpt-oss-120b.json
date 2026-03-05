@@ -1,0 +1,132 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Zeilen können als zentrales Motto ... Hoffnung ...",
+          "Der Einsatz von Metaphern ... verweist auf die amerikanische Traumvorstellung ...",
+          "\"small things\" als Symbol für die kleinen, alltäglichen Dinge ...",
+          "Die emotionale Wirkung ... insbesondere in den Zeilen ...",
+          "Der Song kann auch im kulturellen und historischen Kontext ... interpretiert werden.",
+          "Die Flucht der Protagonistin ... kann als Kommentar zu den sozialen und wirtschaftlichen Verhältnissen ...",
+          "Die Tatsache, dass sie schließlich ... ihren Partner tötet, verweist auf die dunkle Seite der amerikanischen Traumvorstellung.",
+          "Insgesamt zeigt der Song, dass die \"big things\" oft unerreichbar bleiben ...",
+          "Die Wiederholung des Refrains ... kann als ironische Wendung interpretiert werden ..."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe von Fakten aus dem Text (z. B. die Arbeit am Hamburger‑Stand, das Schreiben an die Mutter, das Schießen in Florida).",
+          "Erkennt die nicht‑lineare Erzählstruktur des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte spielt in den 1950er/1960er Jahren.",
+          "Der Song kann im Kontext der amerikanischen Kultur der 1950er und 1960er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen können als Ausdruck von Hoffnung und Optimismus, aber auch als naive Vorstellung der Zukunft interpretiert werden.",
+          "Diese Szene kann als Symbol für die Zerstörung von Träumen und die Verfehlung von Erwartungen interpretiert werden.",
+          "Die Wiederholung des Refrains kann als ironische Brechung interpretiert werden, da die \"big things\" sich als Illusionen erweisen.",
+          "Die emotionale Wirkung des Songs ist ambivalent, da er sowohl Mitgefühl ... als auch Entsetzen ... hervorruft.",
+          "Die Frau repräsentiert die Hoffnungen und Träume einer ganzen Generation, aber auch die Kehrseite der amerikanischen Erfolgsgeschichte.",
+          "Der Song kann als Kritik an der amerikanischen Kultur und Gesellschaft interpretiert werden ..."
+        ],
+        "positive_aspekte": [
+          "Stimmt die faktischen Angaben zum Handlungsverlauf (Kellnerin, Brief an die Mutter, Schuss in Florida).",
+          "Bietet eine zusammenhängende, wenn auch stark vereinfachte, Interpretation des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Zeilen können als zentrales Motto ... Hoffnung ...",
+          "Der Einsatz von Metaphern ... verweist auf die amerikanische Traumvorstellung ...",
+          "\"small things\" als Symbol für die kleinen, alltäglichen Dinge ... die Grundlage für größere Veränderungen bilden.",
+          "Die emotionale Wirkung ... durch die Darstellung von Liebe, Verlust und Enttäuschung erzeugt.",
+          "Der Song kann im Kontext der amerikanischen Kultur und Geschichte interpretiert werden ...",
+          "Die Figur der Protagonistin kann als Symbol für die vielen Frauen ... interpretiert werden.",
+          "Der Song verweist auch auf die dunkle Seite der amerikanischen Geschichte ...",
+          "Insgesamt zeigt der Song eine komplexe und vielschichtige Darstellung des amerikanischen Lebens ..."
+        ],
+        "positive_aspekte": [
+          "Alle Fakten aus dem Text werden korrekt wiedergegeben (Brief, Arbeit, Schuss, Ortswechsel).",
+          "Erkennt die wiederholte Motiv‑ und Refrainstruktur."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Zeilen können als zentrales Motiv ... Hoffnung ... sozialer Aufstieg.",
+          "Die Protagonistin verkörpert den amerikanischen Traum ...",
+          "Der Einsatz von Metaphern ... unterstreicht die Spannung zwischen Sehnsucht und Realität.",
+          "Die Lyrics verweisen auf die Vergänglichkeit von Liebe und Glück.",
+          "Die Protagonistin bewahrt eine optimistische Sicht ...",
+          "Diese Ambivalenz zwischen Hoffnung und Enttäuschung prägt die emotionale Wirkung des Songs.",
+          "Die Flucht aus Wyoming nach Florida kann als Symbol für Migration ...",
+          "Die dunkle Seite des amerikanischen Traums ...",
+          "Insgesamt zeigt der Song, dass die großen Dinge ... oft mit hohen Kosten verbunden sind."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die nicht‑lineare Erzählweise und die wichtigsten Bildsymbole (promised land, hamburger stand, Eldorado Grand).",
+          "Verknüpft Textstellen mit einer übergeordneten Interpretation des amerikanischen Traums, ohne unbegründete biografische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Zeilen können als zentrales Motto ... Hoffnung ...",
+          "Der Einsatz von Metaphern ... verweist auf die amerikanische Traumvorstellung ...",
+          "\"small things\" als Symbol für die kleinen, alltäglichen Dinge ... die Grundlage für größere, bedeutsamere Ereignisse bilden.",
+          "Die emotionale Wirkung ... insbesondere in den Zeilen ...",
+          "Der Song kann auch im kulturellen und historischen Kontext ... interpretiert werden.",
+          "Die Flucht ... kann als Kommentar zu den sozialen und wirtschaftlichen Verhältnissen ...",
+          "Die Tatsache, dass sie schließlich ... ihren Partner tötet, verweist auf die dunkle Seite der amerikanischen Traumvorstellung.",
+          "Insgesamt zeigt der Song, dass die \"big things\" oft unerreichbar bleiben ..."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe der Fakten aus dem Song (Brief, Arbeit, Schuss, Ortswechsel).",
+          "Erkennt die wiederholte Refrainstruktur."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Die Halluzinationswerte sind durchweg hoch (nur Interpretation 1 weist moderate Halluzinationen auf), während die Tiefenwerte stark variieren – Interpretation 2 liefert die tiefste Analyse, die anderen bleiben eher oberflächlich.",
+    "empfehlung": "Interpretation 2 kombiniert faktentreue Textbezüge mit einer nachvollziehbaren, strukturellen Analyse und erreicht damit das beste Gleichgewicht zwischen Genauigkeit und interpretativer Tiefe. Für zukünftige Modelle sollte der Fokus darauf liegen, mehr textbasierte Struktur‑ und Symbolanalysen zu liefern, ohne in generische, nicht belegbare Aussagen abzudriften."
+  }
+}

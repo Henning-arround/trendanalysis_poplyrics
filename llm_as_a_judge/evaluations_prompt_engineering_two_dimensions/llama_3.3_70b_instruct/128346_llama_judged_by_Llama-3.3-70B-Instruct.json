@@ -1,0 +1,99 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine tiefe Unsicherheit und Verwirrung hin, die in einer sich schnell verändernden Welt auftritt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verlust und die Suche nach Identität und verwendet textbezogene Beispiele."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine Suche nach Sicherheit und Zugehörigkeit hin, die in einer sich schnell verändernden Welt verloren gegangen ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verlust und die Suche nach Identität und verwendet textbezogene Beispiele."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine tiefe Unsicherheit und Verwirrung hin, die in einer sich schnell verändernden Welt entstehen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verlust und die Suche nach Identität und verwendet textbezogene Beispiele."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine Suche nach Sicherheit und Zugehörigkeit hin, die in einer sich schnell verändernden Welt verloren gegangen ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verlust und die Suche nach Identität und verwendet textbezogene Beispiele."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'I don't remember anymore what I used to be' und 'Where is the quiet piece of home where I could breathe?' deuten auf eine tiefe Unsicherheit und Verwirrung hin, die in einer sich schnell verändernden Welt auftritt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, tragen zur thematischen Komplexität des Songs bei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Verlust und die Suche nach Identität und verwendet textbezogene Beispiele."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Alle Interpretationen haben ähnliche Stärken und Schwächen",
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent in ihrer Analyse, aber könnten tiefer in die Textanalyse eintauchen",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu kombinieren und tiefer in die Textanalyse einzutauchen, um eine umfassendere und differenziertere Analyse zu erhalten"
+  }
+}

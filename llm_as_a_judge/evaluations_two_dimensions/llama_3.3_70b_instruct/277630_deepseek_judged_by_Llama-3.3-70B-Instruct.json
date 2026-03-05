@@ -1,0 +1,97 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind und die Menschen lieber wegschauen, als die Wahrheit zu sagen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext lässt darauf schließen, dass der Schütze möglicherweise ein Bekannter oder jemand aus der Gemeinschaft ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Songtext detailliert und identifiziert die Atmosphäre der Unsicherheit und des Schweigens"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Polizei will die Sache vertuschen, indem sie die Nachbarn bedroht und die Spuren verwischt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song hat eine Atmosphäre der Verunsicherung und des Schweigens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Rolle der Polizei und die Reaktion der Nachbarn"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind und die Menschen lieber wegschauen, als die Wahrheit zu sagen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Nachbarn sind sogar so weit entfernt von der Realität, dass sie 'Halo's' tragen und behaupten, nichts gesehen zu haben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Songtext detailliert und identifiziert die Atmosphäre der Unsicherheit und des Schweigens"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Kommentar zu einer Gesellschaft interpretiert werden, in der Gewalt und Verbrechen alltäglich sind und die Menschen lieber wegschauen, als die Wahrheit zu sagen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Nachbarn sind sogar so weit entfernt von der Realität, dass sie 'Halo's' tragen und behaupten, nichts gesehen zu haben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Songtext detailliert und identifiziert die Atmosphäre der Unsicherheit und des Schweigens"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Anwohner des Ortes scheinen sich bedeckt zu halten und niemand will etwas über den Vorfall wissen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Songtext detailliert, identifiziert die Atmosphäre der Unsicherheit und des Schweigens und bleibt textgetreu"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 3 und 4 sind sehr ähnlich und haben eine hohe Konsistenz, während Interpretation 2 und 5 sich von den anderen unterscheiden",
+    "empfehlung": "Die beste Interpretation ist diejenige, die den Songtext detailliert beschreibt, die Atmosphäre der Unsicherheit und des Schweigens identifiziert und textgetreu bleibt, wie Interpretation 5"
+  }
+}

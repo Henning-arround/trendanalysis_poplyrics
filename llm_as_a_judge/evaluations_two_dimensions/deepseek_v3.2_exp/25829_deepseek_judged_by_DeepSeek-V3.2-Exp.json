@@ -1,0 +1,97 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist auch eine Kritik an der Gesellschaft und den Illusionen, die sie schafft."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Protagonist scheint sich in einer Phase der Erschöpfung und des Desinteresses zu befinden"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Keine Ahnung, keine Meinung, kein Konzept' wiederholt sich wie ein Mantra und unterstreicht die Hilflosigkeit und Orientierungslosigkeit des Protagonisten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics sind voller sarkastischer und ironischer Bemerkungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Protagonist gibt sich selbst und anderen gegenüber eine optimistische Fassade"
+        ],
+        "positive_aspekte": [
+          "Die Vergleiche mit Ginger Rodgers und Michael Jackson sind ein interessantes Mittel, um die Diskrepanz zwischen der Welt der Träume und der Realität zu verdeutlichen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenzen auf Ginger Rodgers, Fred Astaire und Michael Jackson dienen möglicherweise als Kontrast zu der emotionalen und geistigen Leere des Sprechers"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Protagonist hat keine Ahnung, keine Meinung und kein Konzept für sein Leben"
+        ],
+        "positive_aspekte": [
+          "Der Song kann somit als eine Klage über die eigene emotionale und geistige Erschöpfung interpretiert werden"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist auch eine Kritik an der Gesellschaft und den Illusionen, die sie schafft"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Protagonist scheint sich in einer Phase der Erschöpfung und des Desinteresses zu befinden"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Keine Ahnung, keine Meinung, kein Konzept' wiederholt sich wie ein Mantra und unterstreicht die Hilflosigkeit und Orientierungslosigkeit des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Klage über die eigene Verunsicherung und den Verlust von Zielen und Träumen interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Song ist eine schonungslose und ehrliche Darstellung der menschlichen Verletzlichkeit und der Schwierigkeiten, mit den Herausforderungen des Lebens umzugehen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Bewertungen variieren leicht, aber die Tendenz ist konsistent",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

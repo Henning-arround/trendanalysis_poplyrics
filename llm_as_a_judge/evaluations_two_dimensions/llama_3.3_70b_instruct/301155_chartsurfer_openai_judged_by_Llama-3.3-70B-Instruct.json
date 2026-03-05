@@ -1,0 +1,99 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Andeutung von Vergeltung verleiht dem Stück eine dunkle Unterströmung, die im Kontrast zu Jacksons sonstigem rockabilly-optimistischen Image steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erzählerin eröffnet das Gespräch mit einer scheinbar lockeren Begrüßung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Widersprüche zwischen objektiver Zeitspanne und subjektiver Wahrnehmung ist sehr gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gleichgültigkeit der Zeit gegenüber menschlichen Gefühlen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das wiederholte \"Ain’t it funny how time slips away\" fungiert als ironischer Kommentar"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der unvermeidlichen Distanz zwischen einst engen Menschen ist gut herausgearbeitet"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die unausgesprochene Rache oder zumindest eine moralische Abrechnung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erzählerin eröffnet das Gespräch mit einer scheinbar beiläufigen Begrüßung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Refrains ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die paradoxe Zeitwahrnehmung erzeugt ein Spannungsfeld zwischen Erinnerung und Gegenwart"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sprecherin eröffnet das Gespräch mit einer scheinbar beiläufigen Begrüßung"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Vergänglichkeit und der Unveränderlichkeit der emotionalen Wunden ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Melodie verbindet eine leichte, fast beschwingte Instrumentierung mit dem schweren emotionalen Kern des Textes"
+        ],
+        "oberflächliche_aussagen": [
+          "Die flüchtige Anrede verdeckt jedoch ein tiefes Bewusstsein für die verstrichene Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ironie im Refrain und die Betonung der Vergänglichkeit sind sehr gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch wichtig, die anderen Interpretationen auch zu berücksichtigen, um eine umfassende Analyse des Songs zu erhalten."
+  }
+}

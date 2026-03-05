@@ -1,0 +1,98 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zusammenarbeit zwischen Drunken Tiger und BTS bringt eine Vielzahl von Perspektiven und Stilen zusammen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Hommage an die Vergangenheit",
+          "Der Song betont, dass die Kunst und die Musik die Macht haben, die Zeit zu überwinden und unsterblich zu machen"
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert die Frage nach der Bedeutung und dem Wert des Lebens"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics erinnern daran, dass das Leben kurz ist und dass jeder Moment zählt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Hommage an die Vergangenheit",
+          "Der Song betont, dass die Kunst und die Musik die Macht haben, die Zeit zu überwinden und unsterblich zu machen"
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert die Frage nach der Bedeutung und dem Wert des Lebens"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lyrics erinnern daran, dass das Leben kurz ist und dass jeder Moment zählt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Hommage an die Vergangenheit",
+          "Der Song betont, dass die Kunst und die Musik die Macht haben, die Zeit zu überwinden und unsterblich zu machen"
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert die Frage nach der Bedeutung und dem Wert des Lebens"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Tod als einen natürlichen Teil des Lebens"
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert die Frage nach der Bedeutung und dem Wert des Lebens",
+          "Der Song endet mit einer Botschaft der Hoffnung und des Trostes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Song regt dazu an, über die Bedeutung von Kunst, Musik und Erinnerung nachzudenken",
+          "Der Song ist ein Zeichen für die Unsterblichkeit der Kunst"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 1.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Heart of Stone - The Platters (1956)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur des \"heart of stone\" kann als Allegorie für gesellschaftliche Starrheit oder rassische Diskriminierung gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text kreist um das Motiv einer unveränderlichen Härte"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die historische Kontextualisierung und die Mehrdeutigkeit des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unschärfe der Figuren (\"someone\", \"a man\", \"Satan\") verhindert eine eindeutige Zuordnung von Schuld"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text kreist um das Motiv des \"Herzens aus Stein\" als Symbol für emotionale Erstarrung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die stilistischen und metaphorischen Elemente des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur des \"Satan\" kann als Metapher für die wachsende Angst vor ideologischer Manipulation in einer Ära des Kalten Krieges gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text kreist um die Frage nach Schuld und Fremdbestimmung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Mehrdeutigkeit des Textes und die historische Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von religiösen Motiven und Naturbildern spiegelt zugleich die Suche nach Identität in einer Gesellschaft wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text verknüpft Schuldzuweisungen mit einer Bildsprache"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die stilistischen und metaphorischen Elemente des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Unschärfe (\"Tell me, was it a man\") lässt das Subjekt sowohl als Opfer als auch als Täter erscheinen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text verknüpft persönliche Schuldzuweisungen mit einer fast mythologischen Bildsprache"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Mehrdeutigkeit des Textes und die historische Kontextualisierung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

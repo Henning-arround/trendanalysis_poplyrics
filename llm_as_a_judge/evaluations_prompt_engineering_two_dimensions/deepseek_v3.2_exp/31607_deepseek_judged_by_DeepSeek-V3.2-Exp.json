@@ -1,0 +1,99 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau repräsentiert die Hoffnungen und Träume einer ganzen Generation"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die Symbolik im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Flucht der Protagonistin aus Wyoming nach Florida kann als Symbol für die Migration innerhalb der USA gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeigt, dass die großen Dinge, die aus kleinen entstehen, oft mit hohen Kosten verbunden sind"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die narrative Struktur und die Metaphern im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'small things' können als Symbol für die kleinen, alltäglichen Dinge des Lebens interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann im kulturellen und historischen Kontext der amerikanischen Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Hoffnung auf eine bessere Zukunft"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'small things' können als Symbol für die kleinen, alltäglichen Dinge des Lebens interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann im kulturellen und historischen Kontext der amerikanischen Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Hoffnung auf eine bessere Zukunft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur der Protagonistin kann als Symbol für die vielen Frauen interpretiert werden, die im Laufe der Geschichte der USA ihre Hoffnungen und Träume verfolgt haben"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verweist auch auf die dunkle Seite der amerikanischen Geschichte"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die narrative Struktur und die Symbolik im Text"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die fünfte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

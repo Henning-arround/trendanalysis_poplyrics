@@ -1,0 +1,99 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Vater wartet auf Bewährung freigelassen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen und erkennt die wiederkehrende Zeile als zentrales Motiv"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song endet mit der Szene, in der der Vater der Kinder auf ihre Mutter wartet"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die Unvorhersehbarkeit des Lebens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Tragödie in der Beziehung als zentralen Punkt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Vater wartet auf Bewährung freigelassen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen und erkennt die wiederkehrende Zeile als zentrales Motiv"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sohn der Protagonistin wartet auf ihre Entlassung aus dem Gefängnis"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Tragödie in der Beziehung als zentralen Punkt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Vater wartet auf Bewährung freigelassen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt den Kreislauf des Lebens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen und erkennt die wiederkehrende Zeile als zentrales Motiv"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren leicht in der Darstellung, wiederholen aber ähnliche Punkte",
+    "empfehlung": "Die Interpretationen sollten stärker auf textbezogene Analysen fokussieren und weniger auf allgemeine Aussagen zurückgreifen"
+  }
+}

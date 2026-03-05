@@ -1,0 +1,99 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Yesterday I lost my closest friend' unterstreicht die Plötzlichkeit und Unvorhersehbarkeit des Verlusts"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein herzzerreißender Ausdruck der Trauer und der Sehnsucht nach einer verlorenen Liebe oder Freundschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile '4 AM forever' als Symbol für die endlose Nacht der Trauer"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erinnerung an den Verlust eines engen Freundes oder einer geliebten Person lastet schwer auf dem Sänger"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit einer Art resignierter Akzeptanz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Worte 'Yesterday I lost my closest friend' und 'I just let you slip away' als Hinweis auf eine plötzliche Trennung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erinnerung an den Verlust eines engen Freundes oder einer geliebten Person lastet schwer auf dem Sänger"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit einer Art resignierter Akzeptanz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Worte 'Yesterday I lost my closest friend' und 'I just let you slip away' als Hinweis auf eine plötzliche Trennung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erinnerung an den Verlust eines engen Freundes oder einer geliebten Person lastet schwer auf dem Sänger"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit einer Art resignierter Akzeptanz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Worte 'Yesterday I lost my closest friend' und 'I just let you slip away' als Hinweis auf eine plötzliche Trennung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erinnerung an den Verlust eines engen Freundes oder einer geliebten Person lastet schwer auf dem Sänger"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit einer Art resignierter Akzeptanz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Worte 'Yesterday I lost my closest friend' und 'I just let you slip away' als Hinweis auf eine plötzliche Trennung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr ähnlich und zeigen eine geringe Varianz",
+    "empfehlung": "Die erste Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

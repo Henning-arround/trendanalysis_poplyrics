@@ -1,0 +1,115 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake betont seine Rolle als Vorbild und Einflussgröße, insbesondere für junge Künstler, die versuchen, in der Musikindustrie Fuß zu fassen.",
+          "Er weiß, dass seine Position in der Musikszene nicht für immer gesichert ist und dass er jeden Moment nutzen muss, um seine Erfolge zu feiern.",
+          "Der Song ist somit eine Mischung aus Selbstbewusstsein, Reflektion und Dankbarkeit, die Drake als einen der erfolgreichsten Künstler seiner Zeit positioniert."
+        ],
+        "oberflächliche_aussagen": [
+          "Drake thematisiert auch die Vergänglichkeit von Erfolg und die Bedeutung von Dankbarkeit.",
+          "Er beschreibt seine eigene Karriere als eine, die von harter Arbeit und Entschlossenheit geprägt ist, und stellt fest, dass er nun auf dem Höhepunkt seines Erfolgs steht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive des Textes (Dank, Rivalität, Sport‑Musik‑Verbindung).",
+          "Verknüpft Textstellen mit einer übergeordneten Interpretation von Selbstbewusstsein und Dankbarkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Er erwähnt auch seine eigene Entwicklung als Künstler und wie er sich von seinen Anfängen zu einem der erfolgreichsten Rapper seiner Zeit entwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Er erwähnt die Last seiner Berühmtheit und wie sie seine Beziehungen zu anderen Menschen beeinflusst.",
+          "Der Song ist ein Zeichen für Drake's Reife als Künstler und seine Fähigkeit, tiefere Themen in seiner Musik zu behandeln."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. Rivalität von Idolen, Sport‑Musik‑Verbindung).",
+          "Gute Balance zwischen inhaltlicher Zusammenfassung und Analyse von Beziehungsthemen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake betont seine Rolle als Vorbild und Einflussgröße, insbesondere für junge Künstler, die versuchen, in der Musikindustrie Fuß zu fassen.",
+          "Er denkt auch über seine Rolle als Idol und Vorbild nach und darüber, wie er andere Künstler inspiriert hat.",
+          "Er betont, dass er selbst auf dem Höhepunkt seines Erfolgs steht und dass er die Anerkennung seiner Zuhörer verdient."
+        ],
+        "oberflächliche_aussagen": [
+          "Er beschreibt seine eigene Karriere als eine, die von harter Arbeit und Entschlossenheit geprägt ist, und stellt fest, dass er nun auf dem Höhepunkt seines Erfolgs steht.",
+          "Zusammenfassend ist ... ein selbstbewusster und reflektierender Song, der Drake als einen Künstler zeigt, der seine Erfolge feiert und seine Rolle in der Musikszene definiert."
+        ],
+        "positive_aspekte": [
+          "Erwähnt konkrete Textstellen (OVO Clique, Nas‑Referenz).",
+          "Verbindet persönliche Themen (Beziehungen) mit dem größeren Bild von Einfluss und Vorbildfunktion."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Er erwähnt auch seine eigene Entwicklung als Künstler und wie er sich von seinen Anfängen zu einem der erfolgreichsten Rapper seiner Zeit entwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Er erwähnt die Last seiner Berühmtheit und wie sie seine Beziehungen zu anderen Menschen beeinflusst.",
+          "Der Song ist ein Zeichen für Drake's Reife als Künstler und seine Fähigkeit, tiefere Themen in seiner Musik zu behandeln."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge (Rivalität, Sport‑Musik‑Verbindung, Dank‑Thematik).",
+          "Konsistente Struktur, die die Hauptthemen des Songs klar herausarbeitet."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake betont seine Rolle als Vorbild und Einflussgröße, insbesondere für junge Künstler, die versuchen, in der Musikindustrie Fuß zu fassen.",
+          "Er denkt auch über seine Rolle als Idol und Vorbild nach und darüber, wie er andere Künstler inspiriert hat.",
+          "Er betont, dass er selbst auf dem Höhepunkt seines Erfolgs steht und dass er die Anerkennung seiner Zuhörer verdient."
+        ],
+        "oberflächliche_aussagen": [
+          "Er beschreibt seine eigene Karriere als eine, die von harter Arbeit und Entschlossenheit geprägt ist, und stellt fest, dass er nun auf dem Höhepunkt seines Erfolgs steht.",
+          "Zusammenfassend ist ... ein selbstbewusster und reflektierender Song, der Drake als einen Künstler zeigt, der seine Erfolge feiert und seine Rolle in der Musikszene definiert."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf konkrete Elemente des Textes (OVO Clique, Nas‑Referenz, Frauen‑Thematik).",
+          "Bietet eine nachvollziehbare Interpretation von Dank‑ und Rivalitätsmotiven."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Interpretationen 1 und 2 sind nahezu identisch und zeigen sehr geringe Varianz; 3 ist deutlich spekulativer, während 4 und 5 mittlere Varianz aufweisen. Insgesamt gibt es eine klare Tendenz: je mehr Textbezug, desto höher die Scores.",
+    "empfehlung": "Interpretationen 1 und 2 liefern die ausgewogenste Mischung aus Texttreue und analytischer Tiefe. Für zukünftige Modelle sollte der Fokus darauf liegen, spekulative Aussagen zu minimieren und gleichzeitig mehr differenzierte, textbasierte Analysen zu bieten."
+  }
+}

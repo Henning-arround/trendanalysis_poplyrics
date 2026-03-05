@@ -1,0 +1,103 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt der Text eine Botschaft von minimalistischer, aber intensiver Liebe, die sich auf das Wesentliche reduziert: das geteilte Herzklopfen und das gegenseitige Halten in Momenten der Schwäche, wodurch ein Bild von einer Beziehung entsteht, die sowohl zärtlich als auch resilient ist."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem vorliegenden Songtext ableiten.",
+          "Die Analyse geht über reine Wiederholungen hinaus und verbindet einzelne Textpassagen (z. B. Geld/Time, Wunde auf den Schultern, Scat‑Teil) mit konkreten Bedeutungszuweisungen.",
+          "Es werden keine unbelegten biografischen oder stilistischen Details eingeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In ihrer Schlichtheit vermittelt Heather Nova damit ein universelles Bild von Liebe als grundlegendes menschliches Bedürfnis, das jenseits von Besitz und Verpflichtungen existiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Das gelegentliche Scat‑Singen am Ende wirkt wie ein spontaner Ausbruch von Unmittelbarkeit, der die rohe, ungeschönte Emotion des Songs unterstreicht und die Idee vermittelt, dass wahre Nähe nicht durch Worte, sondern durch das unmittelbare, rhythmische Miteinander entsteht."
+        ],
+        "positive_aspekte": [
+          "Der Text wird strukturiert und jede Textzeile wird mit einer konkreten Interpretation verknüpft.",
+          "Wenig spekulative Aussagen; die meisten Punkte sind textbasiert.",
+          "Die Analyse erkennt die stilistische Funktion des Scat‑Teils, wenn auch etwas vage."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das abschließende Scat‑Singen löst die verbale Struktur auf und lässt Raum für improvisierte Emotionen, wodurch die Botschaft von unprätentiöser, reiner Zweisamkeit noch stärker resoniert."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Aussagen, keine biografischen oder genrebezogenen Spekulationen.",
+          "Gute Verknüpfung von wiederholten Refrains mit dem Konzept eines „Mantras“.",
+          "Erkennt die symbolische Bedeutung der „Wunde auf den Schultern“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das abschließende Scat‑Singen, das keine konkreten Worte mehr nutzt, kann als Ausdruck einer reinen, unvermittelten Kommunikation verstanden werden, bei der das Gefühl selbst zur Sprache wird.",
+          "Insgesamt vermittelt der Song ein Bild von Liebe, das nicht durch äußere Leistungen definiert ist, sondern durch das geteilte Herzklopfen und das gegenseitige Tragen von Lasten – ein minimalistisches, aber kraftvolles Ideal von zwischenmenschlicher Nähe."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung der meisten Aussagen aus dem Text.",
+          "Ergänzt die Analyse um die Wirkung des Refrains als „mantraartig“.",
+          "Vermeidet unbegründete biografische oder stilistische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das abschließende Scat‑Singen löst die verbale Struktur auf, lässt Raum für improvisierte Emotionen und suggeriert, dass das eigentliche Bedürfnis nach Nähe nicht vollständig in Worte gefasst werden kann, sondern sich in spontaner, musikalischer Intimität ausdrückt.",
+          "Insgesamt vermittelt der Song ein Bild von Liebe, das auf gegenseitigem Vertrauen, Empathie und dem gemeinsamen Tragen von Lasten beruht – ein minimalistisches, aber kraftvolles Ideal menschlicher Nähe."
+        ],
+        "positive_aspekte": [
+          "Alle Kernbehauptungen (Geld/Time, Wunde, Scat) sind aus dem Text ableitbar.",
+          "Die Analyse bleibt faktentreu und führt keine spekulativen Künstler‑ oder Genre‑Interpretationen ein.",
+          "Sie bietet eine differenzierte Sicht auf die wiederholte Refrain‑Struktur."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch in der Menge an spekulativen bzw. oberflächlichen Formulierungen. Die meisten Aussagen sind textbasiert, sodass die Varianz gering ist; die Hauptunterschiede liegen im Anteil an nicht belegten (Erfundene) und vagen (Oberflächliche) Aussagen.",
+    "empfehlung": "Interpretationen 2‑5 erreichen eine perfekte Faktentreue (Halluzination‑Score 5) und zeigen gleichzeitig eine solide analytische Tiefe (Tiefe‑Score 4). Sie balancieren Textnähe mit einer differenzierten, aber nicht übertriebenen Interpretation. Für zukünftige Analysen sollte man weiterhin darauf achten, vage Schlussfolgerungen zu minimieren und die bereits gute Text‑Begründungen beizubehalten."
+  }
+}

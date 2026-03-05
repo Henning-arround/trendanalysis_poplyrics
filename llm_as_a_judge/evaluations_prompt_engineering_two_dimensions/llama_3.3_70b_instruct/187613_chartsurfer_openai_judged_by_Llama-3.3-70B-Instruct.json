@@ -1,0 +1,99 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Kontextualisierungen ohne Grundlage"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeine Aussagen über die Verbindung von Lernen und Liebe"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbole im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Spekulationen über die Intentionen des Künstlers"
+        ],
+        "oberflächliche_aussagen": [
+          "Vage Aussagen über die thematische Komplexität"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Ambiguitäten im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Biografische Details des Künstlers ohne Bezug zum Text"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeine Aussagen über die Bedeutung von Bildung"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der literarischen Mittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturgeschichtliche Einordnungen ohne Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Vage Aussagen über die emotionale Intensität"
+        ],
+        "positive_aspekte": [
+          "Gute Wiederholung der zentralen Botschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Spekulationen über die gesellschaftliche Erwartung"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeine Aussagen über die Zeitlosigkeit"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und ihrer Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Symbole, aber variieren in der Tiefe und der Anzahl der halluzinierten Aussagen.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf einer detaillierten, textbasierten Analyse liegen, ohne spekulative Elemente einzubringen. Die Balance zwischen Textreue und analytischer Tiefe ist entscheidend für eine überzeugende Interpretation."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Darstellung von Veränderungen und Konstanten in der persönlichen und kollektiven Erfahrungswelt erzeugt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und tiefgehend, mit einer guten Analyse der literarischen Stilmittel und der kulturellen Verankerung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Symbolen wie den 'old rusty meat hooks' könnte auf eine rohe und unzivilisierte Seite der dargestellten Welt hinweisen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Nostalgie und Melancholie."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist gut strukturiert und bietet eine klare Analyse der literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Hinweise auf Glasgow (St. Enochs, Hampden, Partick, Cowcaddens) und die Beschreibung der städtischen Umgebung als ein Panorama von Verfall und Transformation."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song erzeugt ein vielschichtiges und mehrdeutiges Bild, das verschiedene Lesarten und Interpretationen ermöglicht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der literarischen Stilmittel und der kulturellen Verankerung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung von Menschen, die sich auf der Straße versammeln und feiern, mit 'macaroons and scarves and rattles' erzeugt eine Atmosphäre von Freude und Gemeinschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als eine vielschichtige und mehrdeutige Darstellung von Jugendkultur und sozialer Realität in Glasgow interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der literarischen Stilmittel und der kulturellen Verankerung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Clyde, der 'full of old tyres' ist, kann als Symbol für eine verlassene oder vergessene Vergangenheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Reflexion über die Veränderungen in der Gesellschaft und die eigene Rolle darin interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und bietet eine gute Analyse der literarischen Stilmittel."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der literarischen Stilmittel und der kulturellen Verankerung des Songs.",
+    "empfehlung": "Die erste Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

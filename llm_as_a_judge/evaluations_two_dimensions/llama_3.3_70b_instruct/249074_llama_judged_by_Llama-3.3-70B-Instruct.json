@@ -1,0 +1,99 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die romantisierte Vorstellung von der Rolle der Frau in den 1950er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Frau als Hausfrau und Mutter dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Frau als 'Sleepy Time Gal' und ihre nächtlichen Aktivitäten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau als Hausfrau und Mutter dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anrede 'Sleepy Time Gal' und die Erwähnung der späten Stunde"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Frau als 'Sleepy Time Gal' und ihre nächtlichen Aktivitäten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau als Hausfrau und Mutter dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anrede 'Sleepy Time Gal' und die Erwähnung der späten Stunde"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Frau als 'Sleepy Time Gal' und ihre nächtlichen Aktivitäten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau als Hausfrau und Mutter dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anrede 'Sleepy Time Gal' und die Erwähnung der späten Stunde"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Frau als 'Sleepy Time Gal' und ihre nächtlichen Aktivitäten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau als Hausfrau und Mutter dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anrede 'Sleepy Time Gal' und die Erwähnung der späten Stunde"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Frau als 'Sleepy Time Gal' und ihre nächtlichen Aktivitäten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

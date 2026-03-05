@@ -1,0 +1,97 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Maske steht für das Verbergen des irdischen Selbst"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein einsamer, heiliger Maskenball der Geister"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'singende' Geistige die wahre Stimme des Individuums freilegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein poetisches Ritual, das den Tod, die Sünde und die Wiedergeburt im Geiste feiert"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Symbolik im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sukzessive Entblößung von gesellschaftlichen Zwängen und moralischen Lasten"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein rituelles Bekenntnis, das den Übergang von irdischer Existenz zu einer transzendenten Sphäre beschreibt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Ein rituelles Bekenntnis, das den Übergang von der irdischen Existenz in eine transzendente Sphäre beschreibt"
+        ],
+        "positive_aspekte": [
+          "Sehr gute Interpretation der Symbolik und Struktur des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiedererlangung einer inneren Stimme, die im Alltag erstickt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein heiliges Maskenspiel, in dem Identitäten verwischt und Scham abgelegt wird"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textstruktur und -inhalte",
+    "empfehlung": "Die vierte Interpretation zeigt eine sehr gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

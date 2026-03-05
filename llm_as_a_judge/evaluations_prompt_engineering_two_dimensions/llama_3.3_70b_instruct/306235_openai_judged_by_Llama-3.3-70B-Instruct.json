@@ -1,0 +1,99 @@
+{
+  "song": "Into The Blue - Rooney (2010)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die historische Einordnung in die post-2000er-Ära"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Post-2000er-Ära'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und ihre Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'Blauen' als 'virtuelles Blau des Himmels'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'thematische Dualität' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Erkenntnis der Wiederholung und Unendlichkeit in den lyrischen Strukturen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Assoziation mit der 'Post-2000-Ära' ohne klare Verbindung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Beschreibung der 'Ambivalenz' ohne spezifische Beispiele"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Kreisbewegungen und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unterstellung von 'biografischen Details' ohne Beleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'Doppeldeutigkeit' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Erkenntnis der fragmentierten Wahrnehmung durch das 'Prisma'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Assoziation mit der 'Post-Digital-Ära' ohne klare Verbindung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Beschreibung der 'Ambivalenz' ohne spezifische Beispiele"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der inneren Projektion und ihrer Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der lyrischen Strukturen und Metaphern, aber variieren in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist ratsam, auf die detaillierte Analyse der Metaphern und ihrer Bedeutung zu achten und gleichzeitig die Halluzinationsrate zu minimieren."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerung an den Verlust ... symbolisiert durch die Uhrzeit 4 Uhr morgens",
+          "Die Worte ... deuten auf eine plötzliche und unerwartete Trennung hin",
+          "Die wiederkehrende Zeile ... suggeriert eine Art Zeitstillstand, in dem die Trauer und der Schmerz ewig anhalten",
+          "Der Song endet mit einer Art resignierter Akzeptanz, in der der Sänger sich mit dem Verlust abfinden muss und sich an die Erinnerung an die verlorene Person klammert."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. Verlust, Frage nach Heilung, Verzweiflung in den Refrains).",
+          "Die Interpretation bleibt textnah und vermeidet unbelegte biografische Details."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile ... unterstreicht die Plötzlichkeit und Unvorhersehbarkeit des Verlusts, der das Leben des Protagonisten für immer verändert hat.",
+          "Die wiederkehrende Zeile ... symbolisiert die endlose Nacht der Trauer und die Unfähigkeit, den Verlust zu überwinden.",
+          "Der Song ist ein herzzerreißender Ausdruck der Trauer und der Sehnsucht nach einer verlorenen Liebe oder Freundschaft.",
+          "Die Wiederholung von ... unterstreicht die Unfähigkeit, loszulassen und die Hoffnung, dass die verlorene Person vielleicht eines Tages zurückkehren wird.",
+          "Der Song endet mit ... die ewige Nacht der Trauer und die unendliche Sehnsucht nach der verlorenen Person symbolisiert."
+        ],
+        "positive_aspekte": [
+          "Enthält die meisten textbezogenen Aussagen (4 von 9 Sätzen sind klar belegt).",
+          "Gibt konkrete Beispiele aus dem Songtext (z. B. „Yesterday I lost my closest friend“, „Why don't you hear me…“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerung an den Verlust ... symbolisiert durch die Uhrzeit 4 Uhr morgens",
+          "Die Worte ... deuten auf eine plötzliche und unerwartete Trennung hin",
+          "Die wiederkehrende Zeile ... suggeriert eine Art Zeitstillstand, in dem die Trauer und der Schmerz ewig zu dauern scheinen",
+          "Der Song endet mit einer Art resignierter Akzeptanz, in der der Sänger sich mit dem Verlust abfinden muss und sich nur noch wünscht, die verlorene Person möge wissen, dass sie gehen musste, und dass er allein zurückbleibt."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich aus dem Text ableiten oder sind plausible, textnahe Interpretationen.",
+          "Vermeidet spekulative biografische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerung an den Verlust ... symbolisiert durch die Uhrzeit 4 Uhr morgens",
+          "Die Worte ... deuten auf eine plötzliche und unerwartete Trennung hin",
+          "Die wiederkehrende Zeile ... suggeriert eine Art Zeitstillstand, in dem die Trauer und der Schmerz ewig zu dauern scheinen",
+          "Der Song endet mit einer Art resignierter Akzeptanz, in der der Sänger sich mit dem Verlust abfinden muss und sich nur noch wünscht, die verlorene Person möge wissen, dass sie gehen musste, und dass er allein zurückbleibt."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit den interpretativen Aussagen (z. B. Fragen nach Heilung, Verzweiflung).",
+          "Keine unbelegten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerung an den Verlust ... symbolisiert durch die Uhrzeit 4 Uhr morgens",
+          "Die Worte ... deuten auf eine plötzliche und unerwartete Trennung hin",
+          "Die wiederkehrende Zeile ... suggeriert eine Art Zeitstillstand, in dem die Trauer und der Schmerz ewig zu dauern scheinen",
+          "Der Song endet mit einer Art resignierter Akzeptanz, in der der Sänger sich mit dem Verlust abfinden muss und sich nur noch wünscht, die verlorene Person möge wissen, dass sie gehen musste, und dass er allein zurückbleibt."
+        ],
+        "positive_aspekte": [
+          "Stetige Bezugnahme auf konkrete Textzeilen.",
+          "Vermeidet spekulative Angaben über Genre, Produktion oder Künstlerbiografie."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen ein sehr ähnliches Muster: wenige belegte Aussagen, viele generische, aber textnahe Beobachtungen. Die Varianz ist gering (Score‑Spanne 5–5 für Halluzination, 3–3 für Tiefe).",
+    "empfehlung": "Die aktuelle Gruppe von LLM‑Interpretationen bleibt grundsätzlich texttreu, leidet jedoch an Oberflächlichkeit. Für eine höhere Tiefe sollten zukünftige Modelle mehr differenzierte Analysen anbieten (z. B. strukturelle Wiederholungen, mögliche Mehrdeutigkeiten, stilistische Mittel) und gleichzeitig die Anzahl vager, nicht belegter Aussagen reduzieren."
+  }
+}

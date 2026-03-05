@@ -1,0 +1,99 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-punk-Bewegung und die aufkommende Gothic-Szene prägten eine Jugendkultur, die sich durch ihre Faszination für Dunkelheit, Okkultismus und Anti-Establishment-Ideologien auszeichnete."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Exploration der dunklen Seiten der menschlichen Natur und der Gesellschaft zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-punk-Bewegung und die aufkommende Gothic-Subkultur prägten eine Atmosphäre der Rebellion und der Nonkonformität."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer affektiven Dimension der Angst, Unsicherheit und des Schreckens."
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der nihilistischen und machiavellistischen Haltung ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-punk-Bewegung und die aufkommende Gothic-Szene prägten eine Jugendkultur, die sich durch ihre Faszination für Dunkelheit, Okkultismus und Anti-Establishment-Ideologien auszeichnete."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Exploration der dunklen Seiten der menschlichen Natur und der Gesellschaft zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-punk-Bewegung und die neue Welle der Science-Fiction- und Fantasy-Literatur prägten die kulturelle Landschaft dieser Zeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer affektiven Dimension der Angst, Unsicherheit und des Schreckens."
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der nihilistischen und machiavellistischen Haltung ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefe Bedeutungsebene des Songs liegt in der Darstellung einer Welt, in der die Grenzen zwischen Gut und Böse, Ordnung und Chaos, verwischt sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Exploration der dunklen Seiten der menschlichen Natur und der Gesellschaft zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die Erklärung der zentralen Botschaft des Songs.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist ratsam, die Analyse der literarischen Stilmittel und die Erklärung der zentralen Botschaft des Songs zu vertiefen, um eine umfassendere Interpretation zu erhalten."
+  }
+}

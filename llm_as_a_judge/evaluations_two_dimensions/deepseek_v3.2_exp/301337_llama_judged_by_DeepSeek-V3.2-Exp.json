@@ -1,0 +1,90 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt fordert der Song die Hörer auf, ihre eigene Persönlichkeit zu entwickeln und nicht nur zu versuchen, wie alle anderen zu sein."
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert die Konformität und den Druck, sich anzupassen, um dazuzugehören."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt fordert der Song die Hörer auf, ihre eigene Persönlichkeit zu entwickeln und nicht nur zu versuchen, wie alle anderen zu sein."
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert die Konformität und den Druck, sich anzupassen, um dazuzugehören."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt fordert der Song die Hörer auf, ihre eigene Persönlichkeit zu entwickeln und nicht nur zu versuchen, wie alle anderen zu sein."
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert die Konformität und den Druck, sich anzupassen, um dazuzugehören."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung 'Say: Ichi, Ni, San' kann als Symbol für die Befreiung von Konventionen und die Entdeckung der eigenen Individualität gesehen werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Song thematisiert die Konformität und den Druck, sich anzupassen, um dazuzugehören.",
+          "Die Interpretation ist überwiegend textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt fordert der Song die Hörer auf, ihre eigene Persönlichkeit zu entwickeln und nicht nur zu versuchen, wie alle anderen zu sein."
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert die Konformität und den Druck, sich anzupassen, um dazuzugehören."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Thematik, aber eine variierende Tiefe und Halluzinationsrate.",
+    "empfehlung": "Die vierte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben eine Situation, in der zwei Menschen, die ursprünglich nur Freunde sein wollten, in eine intensive Beziehung geraten sind, die jedoch nicht auf Dauer angelegt ist."
+        ],
+        "positive_aspekte": [
+          "Die wiederkehrende Frage 'Where do we go from here' ist ein Ausdruck der Verzweiflung und Unsicherheit, die aus der Erkenntnis resultiert, dass die Beziehung nicht funktioniert, aber auch nicht beendet werden kann."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben eine Situation, in der zwei Menschen, die ursprünglich nur Freunde sein wollten, in eine intensive Beziehung geraten sind, die jedoch nicht auf Dauer angelegt ist."
+        ],
+        "positive_aspekte": [
+          "Die wiederkehrende Frage 'Where do we go from here' ist ein Ausdruck der Verzweiflung und Unsicherheit, die aus der Erkenntnis resultiert, dass die Beziehung nicht funktioniert, aber auch nicht beendet werden kann."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben eine Situation, in der zwei Menschen, die ursprünglich nur Freunde sein wollten, in eine intensive Beziehung geraten sind, die jedoch nicht auf Dauer angelegt ist."
+        ],
+        "positive_aspekte": [
+          "Die wiederkehrende Frage 'Where do we go from here' ist ein Ausdruck der Verzweiflung und Unsicherheit, die aus der Erkenntnis resultiert, dass die Beziehung nicht funktioniert, aber auch nicht beendet werden kann."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist von Schmerz und Unsicherheit geprägt, und beide Partner fragen sich, wie sie aus dieser Situation herauskommen können."
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Seems the more we give, the more we die inside' deutet darauf hin, dass die Beziehung beide Partner emotional auszehrt und sie innerlich leer macht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben eine Situation, in der zwei Menschen, die ursprünglich nur Freunde sein wollten, in eine intensive Beziehung geraten sind, die jedoch nicht auf Dauer angelegt ist."
+        ],
+        "positive_aspekte": [
+          "Die wiederkehrende Frage 'Where do we go from here' ist ein Ausdruck der Verzweiflung und Unsicherheit, die aus der Erkenntnis resultiert, dass die Beziehung nicht funktioniert, aber auch nicht beendet werden kann."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2, 3 und 5 sind sehr ähnlich und wiederholen sich stark, während Interpretation 4 etwas tiefer und spezifischer ist.",
+    "empfehlung": "Interpretation 4 bietet eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Vorbild für weitere Interpretationen dienen."
+  }
+}

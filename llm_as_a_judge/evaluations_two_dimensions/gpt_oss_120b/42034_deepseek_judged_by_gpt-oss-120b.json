@@ -1,0 +1,132 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emily lebt in einer Welt voller Unsicherheit und Unwirklichkeit.",
+          "Die Zeile \"There is no other day\" unterstreicht die Bedeutungslosigkeit der Zeit und die Unfähigkeit, in der Gegenwart zu leben.",
+          "\"Let's try it another way\" deutet auf Emilys Suche nach einer Alternative hin.",
+          "Die Suche führt zu einem Verlust der Kontrolle, wie die Zeile \"You'll lose your mind and play\" zeigt.",
+          "Der Refrain kann als Beobachtung oder Kommentar interpretiert werden, der Emilys Situation beschreibt.",
+          "Emily steht für Unschuld und Verletzlichkeit.",
+          "Der Song kann als Kritik an der Gesellschaft und ihren Auswirkungen auf die individuelle Freiheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song hat auch eine poetische und symbolische Ebene, auf der Emily für die Unschuld und Verletzlichkeit steht."
+        ],
+        "positive_aspekte": [
+          "Alle Textzitate werden korrekt wiedergegeben.",
+          "Die Interpretation greift zentrale Motive des Liedes (Träume, Wiederholungen, das Bild des Kleides) auf."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emily ist in einer Welt voller Unsicherheit und Unwirklichkeit gefangen.",
+          "Die Zeile \"There is no other day\" unterstreicht die Bedeutungslosigkeit der Zeit und die Vergänglichkeit von Emilys Erfahrungen.",
+          "\"Let's try it another way\" deutet auf Emilys Suche nach einer alternativen Realität hin.",
+          "\"You'll lose your mind and play\" suggeriert, dass Emily ihre Identität verliert und sich in einem Spiel von Fantasie und Illusionen verliert.",
+          "Der Refrain \"See Emily play\" wird zu einer Art Beschwörung, die Emily in diese Welt der Fantasie zieht.",
+          "Emily steht für die Unschuld und Verletzlichkeit der Jugend.",
+          "Die Zeile \"Put on a gown that touches the ground\" beschreibt Emily als Figur in einer Traumwelt, in der Grenzen zwischen Realität und Illusion verwischen.",
+          "Der Song beschreibt eine surreale Welt, in der Emily nach Freiheit und Selbstentdeckung sucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song hat auch eine poetische und symbolische Ebene, auf der Emily für die Unschuld und Verletzlichkeit der Jugend steht."
+        ],
+        "positive_aspekte": [
+          "Klare Struktur: Einleitung, Analyse einzelner Zeilen, zusammenfassende Aussage.",
+          "Verwendet fast alle Textzeilen als Ansatzpunkte."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emily lebt in einer Welt voller Unsicherheit und Unwirklichkeit.",
+          "Die Zeile \"There is no other day\" unterstreicht die Bedeutungslosigkeit der Zeit und die Unfähigkeit, in der Gegenwart zu leben.",
+          "\"Let's try it another way\" deutet auf Emilys Suche nach einer Alternative hin, die zu einem Verlust der Kontrolle führt.",
+          "Der Refrain \"See Emily play\" ist eine Aufforderung, Emily in ihrem Spiel zu beobachten, das jedoch nur eine Illusion ist.",
+          "Die zweite Strophe beschreibt Emilys Traurigkeit und Isolation, die dritte Strophe eine Art Ekstase oder Trance, in der Emily sich in einem Kleid, das den Boden berührt, auf einem Fluss treibend vorstellt.",
+          "Die Wiederholung des Refrains und der Zeile \"There is no other day\" betont die Zyklik von Emilys Erfahrungen und die Unfähigkeit, aus ihrer Situation auszubrechen.",
+          "Der Song kann als Kritik an der Oberflächlichkeit und der Leere der modernen Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die wiederholten Textpassagen mit einer übergeordneten gesellschaftskritischen Lesart.",
+          "Erkennt die Bildhaftigkeit der Verse (Kleid, Fluss, Bäume) und nutzt sie für die Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emily ist in einer Welt voller Unsicherheit und Unwirklichkeit gefangen.",
+          "Die Zeile \"There is no other day\" unterstreicht die Bedeutungslosigkeit der Zeit und die Unfähigkeit, in der Gegenwart zu leben.",
+          "\"Let's try it another way\" deutet auf Emilys Suche nach einer Alternative hin, die zu einem Verlust der Kontrolle führt.",
+          "Der Refrain \"See Emily play\" kann als Beobachtung oder Kommentar interpretiert werden, der Emilys Situation beschreibt.",
+          "Emily steht für Unschuld und Verletzlichkeit.",
+          "Die Bilder von Emily (Bäume, Trauer, Kleid, Fluss) unterstreichen ihre Verletzlichkeit und Sehnsucht nach Freiheit und Unbeschwertheit.",
+          "Der Song kann als Kritik an der Gesellschaft und ihren Auswirkungen auf die individuelle Freiheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song hat auch eine poetische und symbolische Ebene, auf der Emily für die Unschuld und Verletzlichkeit steht."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf fast jede Textzeile.",
+          "Bietet eine klare gesellschaftliche Lesart, die über die reine Bildanalyse hinausgeht."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Emily ist in einer Welt voller Unsicherheit und Unwirklichkeit gefangen.",
+          "Die Zeile \"There is no other day\" unterstreicht die Bedeutungslosigkeit der Zeit und die Vergänglichkeit von Emilys Erfahrungen.",
+          "\"Let's try it another way\" kann als Versuch interpretiert werden, die Realität zu ändern oder zu entkommen.",
+          "\"You'll lose your mind and play\" deutet darauf hin, dass dies nur durch den Verlust der Vernunft und die Hingabe an spielerische, unbeschwerte Aktivitäten möglich ist.",
+          "Der Refrain wird zu einer Art Aufruf, Emily in ihrem Spiel zu beobachten, das jedoch von Traurigkeit und Sehnsucht geprägt ist.",
+          "Die zweite Hälfte des Songs beschreibt Emily, wie sie durch Bäume blickt und in Traurigkeit versinkt.",
+          "\"Float on a river / Forever and ever, Emily\" kann als Sehnsucht nach Freiheit und Ewigkeit interpretiert werden.",
+          "Der Song beschreibt eine Welt, in der die Grenzen zwischen Realität und Fantasie verwischen und die Suche nach Identität und Sinn zum Spiel wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft einzelne Textpassagen mit einer übergeordneten Thematik von Identitätssuche und Sinnfrage.",
+          "Nutze die Wiederholungen im Text, um die Ambivalenz zwischen Realität und Fantasie zu betonen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen und enthalten einen hohen Anteil an nicht belegten, spekulativen Aussagen (≈70 % Erfindungen). Die Varianz ist gering; nur Interpretation 3 liefert leicht mehr textbasierte Substanz.",
+    "empfehlung": "Ein Ansatz, der stärker zwischen belegbaren Textstellen und spekulativen Deutungen unterscheidet und dabei mehr direkte Textanalyse (wie Interpretation 3) einbindet, erzielt die beste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

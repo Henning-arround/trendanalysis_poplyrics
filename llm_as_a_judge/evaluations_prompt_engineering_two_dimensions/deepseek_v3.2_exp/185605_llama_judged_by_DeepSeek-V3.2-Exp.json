@@ -1,0 +1,93 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Suche nach authentischen Beziehungen und emotionaler Verbindung zunehmend wichtig wurde"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Metaphern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Metaphern und Symbolen",
+          "Tiefere Analyse der Textzeilen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-4 sind sehr ähnlich und wiederholen sich stark, während Interpretation 5 eine tiefergehende Analyse bietet",
+    "empfehlung": "Es ist empfehlenswert, die Interpretationen stärker zu diversifizieren und tiefer in den Text einzutauchen, um eine höhere analytische Tiefe zu erreichen"
+  }
+}

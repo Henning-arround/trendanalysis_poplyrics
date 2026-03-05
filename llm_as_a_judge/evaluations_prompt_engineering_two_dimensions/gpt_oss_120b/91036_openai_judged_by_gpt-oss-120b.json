@@ -1,0 +1,116 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine expliziten Erfindungen erkennbar – alle Aussagen lassen sich zumindest implizit aus dem Text ableiten."
+        ],
+        "oberflächliche_aussagen": [
+          "„Die offene Struktur des Textes lässt mehrere Deutungen zu“ – allgemeine Feststellung ohne nähere Analyse.",
+          "„Die wiederholte Gegenüberstellung von ‚easy‘ und ‚being alone‘ spiegelt die paradoxe Erfahrung wider, dass digitale Vernetzung gleichzeitig Einsamkeit erzeugt.“ – wiederholt bereits genannte Idee ohne neue Evidenz."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textzeilen mit konkreten Bild‑ und Metaphern (Herz, Bildschirme, Poking).",
+          "Stetige Berücksichtigung von Ambivalenz und Mehrdeutigkeit, die im Song präsent ist.",
+          "Wenig spekulative Kontextualisierung, dafür fokussierte Textanalyse."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine nachweisbaren Halluzinationen – alle Behauptungen beruhen auf einer Interpretation des vorhandenen Textes."
+        ],
+        "oberflächliche_aussagen": [
+          "„Das Wort ‚Easy‘ fungiert dabei als ironischer Kommentar auf die Leichtigkeit des modernen Selbstmanagements“ – vage, nicht weiter ausgeführt.",
+          "„Im kulturellen Kontext von 2014, dem Aufstieg von Streaming‑Plattformen…“ – historischer Rahmen, aber nicht im Text verankert."
+        ],
+        "positive_aspekte": [
+          "Gute Beobachtung der Wiederholungen und der paradoxen Beziehung zwischen Herz‑Entnahme und Einsamkeit.",
+          "Verknüpfung von Bildschirmen und inneren Strömen liefert eine nachvollziehbare Metapher.",
+          "Stilistische Analyse (Wiederholungen, fragmentarische Imperative) ist textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine offensichtlichen Erfindungen – alle Punkte lassen sich aus dem Text ableiten oder logisch extrapolieren."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Refrain wirkt beruhigend und ironisch“ – allgemeine Wertung ohne konkrete Textbegründung.",
+          "„Historisch verortet sich das Werk im Kontext der frühen 2010er‑Jahre“ – stimmt zwar, trägt aber wenig zur Textanalyse bei."
+        ],
+        "positive_aspekte": [
+          "Präzise Aufschlüsselung der einzelnen Bildungen (Herz, Bildschirme, Lunch).",
+          "Berücksichtigung mehrerer möglicher Bedeutungen der Herz‑Metapher (Selbstoffenbarung, Selbstschutz, Resignation).",
+          "Klare Darstellung der digitalen Metaphern und ihrer Ambivalenz."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die Stimme von Lorde eine kühle, fast zynische Tonlage einbringt“ – nicht aus dem Text ersichtlich, spekulativ.",
+          "„musikalische Minimalität und das monotone ‚Easy, easy‘ verstärken die affektive Distanz“ – Annahme über den Sound, nicht im Text enthalten.",
+          "„Die Wiederholung wird das Wort zu einem Schleifstein“ – metaphorische Übertragung, die über den Text hinausgeht."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Refrain fungiert als paradoxes Mantra, das zugleich Verheißung und Resignation suggeriert.“ – sehr allgemeine Aussage.",
+          "„Im kulturellen Kontext von 2014… lässt sich das Lied als kritischer Kommentar lesen.“ – wiederholt bereits genannte Kontextualisierung ohne neue Details."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die Zeile „They poke around until they get what they want“ mit Daten‑Mining‑Ideen.",
+          "Erkennt die wiederholte Bildsprache und deren mögliche Wirkung auf Hörer*innen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„kritisiert die kulturelle Logik der Selbst‑Branding‑Industrie“ – nicht im Text belegt, spekulativ.",
+          "„postmoderne Erfahrung, in der Versprechen von Simplizität gleichzeitig neue Formen der Abhängigkeit erzeugen“ – über den Text hinausgehende Soziologie.",
+          "„Der Song bleibt ein kritischer Kommentar zur digitalen Selbstinszenierung, die das Herz ausbeutet, um das Gefühl des Alleinseins zu produzieren“ – stark interpretativ, nicht explizit im Text."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song verhandelt das Paradoxon von ‚Leichtigkeit‘ als gesellschaftliches Mantra“ – vage, wenig Textbezug.",
+          "„Die Textstruktur bleibt bewusst fragmentarisch, was Spannungen erzeugt“ – allgemeine Beobachtung ohne konkrete Analyse."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Metaphern (Herz, Bildschirme, Poking) und verknüpft sie mit digitalen Themen.",
+          "Betont die bewusste Fragmentierung des Textes als stilistisches Mittel."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass die Interpretationen, die stark textnah bleiben (1,3,5), sowohl niedrige Halluzinationsraten als auch höhere Tiefenwerte erreichen. Interpretationen mit vielen spekulativen Aussagen (2,4) erhalten niedrigere Scores. Die Varianz ist moderat, was die Bedeutung einer klaren Textbindung unterstreicht.",
+    "empfehlung": "Ansätze, die konsequent aus dem Songtext ableiten und gleichzeitig Ambivalenzen offenlassen (wie Interpretation 3), liefern die ausgewogenste Analyse. Zukunftige Interpretationen sollten spekulative Kontextualisierungen minimieren und mehr konkrete Textbelege einbringen, um Halluzinationen zu vermeiden und die analytische Tiefe zu erhöhen."
+  }
+}

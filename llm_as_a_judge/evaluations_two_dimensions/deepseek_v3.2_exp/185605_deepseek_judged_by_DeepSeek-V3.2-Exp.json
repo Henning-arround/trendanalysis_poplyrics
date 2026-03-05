@@ -1,0 +1,87 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt der Song eine Botschaft der Einfachheit, Verletzlichkeit und gegenseitigen Unterstützung in Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, auch werden die wichtigsten Aspekte des Songs angesprochen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt der Song eine Botschaft der Einfachheit, Verletzlichkeit und gegenseitigen Unterstützung in Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist identisch mit Interpretation 1, daher gleiche Stärken."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr tiefgehend und textanalytisch, auch werden die wichtigsten Aspekte des Songs angesprochen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist identisch mit Interpretation 3, daher gleiche Stärken."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist identisch mit Interpretation 3 und 4, daher gleiche Stärken."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      3,
+      4,
+      5
+    ],
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine hohe Konsistenz und Qualität.",
+    "empfehlung": "Die Ansätze von Interpretationen 3, 4 und 5 sollten weiterverfolgt werden, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten."
+  }
+}

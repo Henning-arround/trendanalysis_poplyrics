@@ -1,0 +1,91 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der Leidenschaft und der Sehnsucht nach Nähe und Intimität"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Erwähnung von Ambivalenzen in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Situation, in der zwei Menschen von ihrer körperlichen Anziehung und ihrer emotionalen Verbindung getrieben werden"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Erwähnung von Herausforderungen in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der Leidenschaft und der Sehnsucht nach Nähe und Intimität",
+          "Der Song beschreibt eine Situation, in der zwei Menschen von ihrer körperlichen Anziehung und ihrer emotionalen Verbindung getrieben werden"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Textanalyse",
+          "Erwähnung von Ambivalenzen und Herausforderungen in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Situation, in der zwei Menschen von ihrer körperlichen Anziehung und ihrer emotionalen Verbindung getrieben werden"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Textanalyse, aber eine große Varianz in der Tiefe der Analyse",
+    "empfehlung": "Der Ansatz der 4. Interpretation ist empfehlenswert, da er eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

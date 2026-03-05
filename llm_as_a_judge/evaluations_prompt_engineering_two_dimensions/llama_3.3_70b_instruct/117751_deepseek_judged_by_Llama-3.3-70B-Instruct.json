@@ -1,0 +1,99 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Ausdruck der romantischen und idealistischen Vorstellungen von Liebe und Partnerschaft in dieser Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einem geliebten Menschen, die durch die Sterne und den Mond symbolisiert wird."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole, ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Ausdruck der romantischen und idealistischen Vorstellungen von Liebe und Partnerschaft in dieser Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einem geliebten Menschen, die durch die Sterne und den Mond symbolisiert wird."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole, ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Ausdruck der romantischen und idealistischen Vorstellungen von Liebe und Partnerschaft in dieser Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einem geliebten Menschen, die durch die Sterne und den Mond symbolisiert wird."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole, ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Ausdruck der romantischen und idealistischen Vorstellungen von Liebe und Partnerschaft in dieser Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einem geliebten Menschen, die durch die Sterne und den Mond symbolisiert wird."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole, ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Eine tiefere Bedeutungsebene des Songs ist die symbolische Ordnung der Sterne und des Mondes als Führer und Wegweiser, die auf eine Sehnsucht nach Transzendenz und Sinn hinweist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einem geliebten Menschen, die durch die Sterne und den Mond symbolisiert wird."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel, wie Metaphern und Symbole, ist gut durchgeführt und es gibt eine tiefere Analyse der symbolischen Ordnung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber es gibt keine großen Unterschiede zwischen ihnen.",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie eine tiefere Analyse der symbolischen Ordnung bietet und weniger halluziniert."
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als humorvolle und ironische Darstellung deutscher Kultur und Identität interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint die Freude am Essen von Sauerkraut und Tanzen der Polka zu sein.",
+          "Diese Aussagen können als eine Art Selbstironie und Spielerei mit deutschen Stereotypen verstanden werden.",
+          "Die Stilmittel tragen zur emotionalen Wirkung des Songs bei und vermitteln eine Atmosphäre von Fröhlichkeit und Ausgelassenheit.",
+          "Die Erwähnung von Edeltraud kann als Symbol für die ideale deutsche Frau verstanden werden.",
+          "Der Song entstand im Kontext der Nachkriegszeit und reflektiert die Wiederentdeckung deutscher Identität.",
+          "Der Song kann als Kommentar zur Identitätssuche verstanden werden.",
+          "Die Widersprüche im Song können als Reflexion über die Komplexität deutscher Kultur gesehen werden.",
+          "Der Song kann als Nostalgie und Rückbesinnung auf traditionelle deutsche Kultur verstanden werden.",
+          "Gleichzeitig kann er als ironische Auseinandersetzung mit diesen Traditionen gelesen werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert korrekt die wiederholten Textstellen (z. B. Wiederholung von „Ich esse gerne Sauerkraut und tanze gerne Polka“).",
+          "Erwähnt konkrete stilistische Mittel (Wiederholung, Refrain)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als humorvolle und ironische Darstellung deutscher Kultur und Identität interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint die Vorliebe für Sauerkraut und Polka zu sein, die als Symbole deutscher Kultur dienen.",
+          "Die literarischen Stilmittel, wie die Wiederholung, schaffen eine rhythmische Struktur, die den Hörer einbezieht.",
+          "Die Metapher „Sauerkraut‑Polka“ kann als Symbol für die deutsche Kultur und Identität gesehen werden.",
+          "Die emotionale Wirkung des Songs ist vor allem heiter und unterhaltsam, die Liebe zur Braut spielt eine Rolle.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist wichtig, um seine Bedeutung zu verstehen.",
+          "Der Song entstand in den 1960er Jahren, einer Zeit, in der die deutsche Kultur nach dem Zweiten Weltkrieg sensibel war.",
+          "Die tiefere Bedeutungsebene kann in der Ironisierung und Humorisierung deutscher Kultur gesehen werden.",
+          "Die Textzeilen können als Selbstdefinition und Selbstidentifikation gesehen werden, die ambivalent und ironisch ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist wichtig, um seine Bedeutung zu verstehen."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die zentrale Wiederholung im Text und die Rolle der Braut Edeltraud.",
+          "Er benennt das Stilmittel der Wiederholung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als humorvolle und ironische Darstellung deutscher Kultur und Identität interpretiert werden.",
+          "Die zentrale Botschaft des Songs scheint die Freude am Essen von Sauerkraut und Tanzen der Polka zu sein.",
+          "Diese Aussagen können als Selbstironie und Spielerei mit deutschen Stereotypen verstanden werden.",
+          "Die Stilmittel sind Wiederholung und Refrains, die zur emotionalen Wirkung beitragen und Fröhlichkeit vermitteln.",
+          "Die Erwähnung von Edeltraud kann als Symbol für die ideale deutsche Frau gesehen werden.",
+          "Der Song entstand im Kontext der Nachkriegszeit, einer Phase der Wiederentdeckung deutscher Identität.",
+          "Er kann als Kommentar zur Identitätssuche verstanden werden, indem er Stereotype aufgreift.",
+          "Widersprüche im Song können als Reflexion über die Komplexität deutscher Kultur gelesen werden.",
+          "Der Song kann als Nostalgie und Rückbesinnung auf traditionelle deutsche Kultur verstanden werden, zugleich aber auch ironisch."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Er nennt korrekt die wiederholten Textpassagen und das Refrain‑Muster.",
+          "Er erkennt die symbolische Funktion von Edeltraud im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als humorvolle und ironische Darstellung deutscher Kultur und Identität interpretiert werden.",
+          "Die zentrale Botschaft des Songs ist die Freude am Essen von Sauerkraut und Tanzen der Polka.",
+          "Diese Aussagen können als Selbstironie und Spielerei mit deutschen Stereotypen verstanden werden.",
+          "Die Stilmittel tragen zur emotionalen Wirkung des Songs bei und vermitteln eine Atmosphäre von Fröhlichkeit und Ausgelassenheit.",
+          "Die Erwähnung von Edeltraud kann als Symbol für die ideale deutsche Frau verstanden werden.",
+          "Die kulturelle und historische Bedeutung kann im Kontext der Nachkriegszeit verstanden werden.",
+          "Der Song kann als Kommentar zur Identitätssuche verstanden werden.",
+          "Die Widersprüche und Ambiguitäten im Song können als Reflexion über die Komplexität deutscher Identität gesehen werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert korrekt die Wiederholung und den Refrain als stilistisches Mittel.",
+          "Verknüpft die Textstelle über Edeltraud mit einer möglichen symbolischen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als humorvolle und ironische Darstellung deutscher Kultur und Identität interpretiert werden.",
+          "Die zentrale Botschaft des Songs ist die Freude am Essen von Sauerkraut und Tanzen der Polka.",
+          "Diese Aussagen können als Selbstironie und Spielerei mit deutschen Stereotypen verstanden werden.",
+          "Die Stilmittel sind Wiederholung und Refrains, die zur emotionalen Wirkung beitragen und Fröhlichkeit vermitteln.",
+          "Die Erwähnung von Edeltraud kann als Symbol für die ideale deutsche Frau gesehen werden.",
+          "Der Song entstand im Kontext der Nachkriegszeit, einer Phase der Wiederentdeckung deutscher Identität.",
+          "Er kann als Kommentar zur Identitätssuche verstanden werden, indem er Stereotype aufgreift.",
+          "Widersprüche im Song können als Reflexion über die Komplexität deutscher Kultur gelesen werden.",
+          "Der Song kann als Nostalgie und Rückbesinnung auf traditionelle deutsche Kultur verstanden werden, zugleich aber auch ironisch."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt die zentrale Wiederholung im Text und die Rolle der Braut Edeltraud.",
+          "Benennt das stilistische Mittel der Wiederholung und des Refrains."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen nahezu dieselben inhaltlichen Punkte und weisen damit eine sehr geringe Varianz auf. Die Aussagen sind stark redundant, was die Gesamtqualität mindert.",
+    "empfehlung": "Ein besserer Ansatz wäre, weniger spekulative, nicht belegte Behauptungen zu formulieren und stattdessen mehr Text‑nahes, analytisches Arbeiten zu leisten (z. B. genaue Analyse von Wiederholungsstrukturen, Rhythmus, mögliche Wortspiele). Dadurch sinkt die Halluzinationsrate und die Tiefe der Interpretation steigt."
+  }
+}

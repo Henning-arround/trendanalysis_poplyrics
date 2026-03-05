@@ -1,0 +1,99 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt \"Best Night\" einen unvergesslichen Abend, der von Freude, Freundschaft und Sorglosigkeit geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem Songtext ableiten.",
+          "Der Text wird strukturiert analysiert (Wiederholungen, Bildsprache, Refrain‑Mantra).",
+          "Wenig bis keine vagen Generalisierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt \"Best Night\" einen unvergesslichen Abend, der von Freude, Freundschaft und Sorglosigkeit geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge für fast jede Aussage.",
+          "Gute Aufschlüsselung von Bildsprache (Party, Lautstärke, Freiheit).",
+          "Erkennt die wiederholende Mantra‑Funktion des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Best Night\" ein Song über die Freude am Leben, die Bedeutung von Freundschaft und die Unbeschwertheit eines besonderen Abends."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um das Motiv der „Flucht“ aus dem Alltag.",
+          "Bezieht sich konkret auf die Zeile „We party till the sunlight“.",
+          "Bleibt faktentreu und textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Best Night\" ein Song, der die Freude und die Sorglosigkeit eines unvergesslichen Abends einfängt und dazu einlädt, den Moment zu genießen und keine Regrets zu haben."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Aufforderungen im Text („Let's make tonight the night“, „Leave you no regrets“).",
+          "Verknüpft die wiederholten Imperative mit der Stimmung des Songs.",
+          "Keine spekulativen biografischen oder genre‑bezogenen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt beschreibt \"Best Night\" einen unvergesslichen Abend, der von Freude, Freundschaft und Sorglosigkeit geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Bildsprache und Refrain‑Wiederholungen.",
+          "Stützt jede Aussage eindeutig auf Textstellen.",
+          "Vermeidet unnötige Generalisierungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch, unterscheiden sich nur in Formulierungen und kleinen Zusatzaspekten (z. B. Flucht‑Motiv). Die Varianz ist gering, was auf eine konsistente, aber wenig divergente Analyse hindeutet.",
+    "empfehlung": "Alle Interpretationen sind faktentreu (Halluzination‑Score 5). Für mehr analytische Tiefe könnte man künftig stärker auf mehrdeutige Passagen eingehen und mögliche kontrastierende Bedeutungen diskutieren, anstatt nur die offensichtliche Party‑Stimmung zu wiederholen."
+  }
+}

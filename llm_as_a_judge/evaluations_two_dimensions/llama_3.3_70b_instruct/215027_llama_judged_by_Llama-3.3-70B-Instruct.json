@@ -1,0 +1,100 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist ein universelles Gut",
+          "Die Liebe ist die Grundlage für ein erfülltes Leben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend texttreu",
+          "Die Analyse der Einladung an andere, sich dem Festival der Liebe anzuschließen, ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist ein universelles Gut",
+          "Die Liebe ist die Grundlage für ein erfülltes Leben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend texttreu",
+          "Die Analyse der Einladung an andere, sich dem Festival der Liebe anzuschließen, ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist ein universelles Gut",
+          "Die Liebe ist die Grundlage für ein erfülltes Leben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend texttreu",
+          "Die Analyse der Einladung an andere, sich dem Festival der Liebe anzuschließen, ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Atmosphäre ist geprägt von einer tiefen Zufriedenheit und einem Gefühl der Unbesiegbarkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist die Grundlage für ein erfülltes Leben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Ich geh' wie auf Wolken und ich bin riesengroß' ist überzeugend",
+          "Die Interpretation geht auf die transformative Kraft der Liebe ein"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist ein universelles Gut",
+          "Die Liebe ist die Grundlage für ein erfülltes Leben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend texttreu",
+          "Die Analyse der Einladung an andere, sich dem Festival der Liebe anzuschließen, ist überzeugend"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2, 3 und 5 sind sehr ähnlich und bleiben weitgehend texttreu, während Interpretation 4 etwas abweicht, aber dennoch interessante Aspekte aufgreift",
+    "empfehlung": "Interpretation 4 bietet eine interessante Mischung aus Texttreue und analytischer Tiefe, aber sollte noch mehr auf die textlichen Belege achten, um die Halluzinationsrate zu senken"
+  }
+}

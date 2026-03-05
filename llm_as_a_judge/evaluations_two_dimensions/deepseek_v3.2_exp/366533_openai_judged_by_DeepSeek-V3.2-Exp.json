@@ -1,0 +1,99 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung zwischen Leidenschaft und Sicherheit wird deutlich"
+        ],
+        "oberflächliche_aussagen": [
+          "eine Mischung aus jugendlicher Verlangen, Angst vor Verlust und dem Streben nach einer zärtlichen, aber freien Bindung"
+        ],
+        "positive_aspekte": [
+          "Der Text wird tief analysiert und in den Kontext gesetzt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Wort 'honey' eine vertrauliche, fast kindliche Intimität suggeriert"
+        ],
+        "oberflächliche_aussagen": [
+          "ein poetischer Ausdruck jugendlicher Verlangen nach Sicherheit, Liebe und einer unverrückbaren Bindung"
+        ],
+        "positive_aspekte": [
+          "Der Refrain wird gut analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Herzklopfen des Sängers widerspiegelt"
+        ],
+        "oberflächliche_aussagen": [
+          "eine bittersüße Mischung aus jugendlicher Leidenschaft, Unsicherheit und dem tiefen Bedürfnis nach einer beständigen, liebevollen Umarmung"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird sehr detailliert analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der scheinbare Widerspruch – das Bedürfnis nach Nähe und gleichzeitig die Furcht vor Kontrolle"
+        ],
+        "oberflächliche_aussagen": [
+          "die zerbrechliche Balance zwischen Vertrauen und Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Der Text wird sehr genau analysiert und interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das innere Feuer zu entfachen"
+        ],
+        "oberflächliche_aussagen": [
+          "ein Appell, der die Angst vor Ablehnung und das Verlangen nach ununterbrochener Verbindung zusammenfasst"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird sehr genau analysiert und interpretiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber alle liefern eine gute Analyse des Songtextes",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Darstellung von Frauen ist misogyn und homophob – das Wort „homophob“ wird im Songtext nicht erwähnt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der Hip‑Hop‑Kultur und dem deutschen Rap‑Szenario verbunden.",
+          "Der Song reflektiert die Werte und Normen einer bestimmten sozialen Gruppe, die durch den Erwerb von Status und Macht definiert wird.",
+          "Insgesamt zeigt der Song eine komplexe, vielschichtige Auseinandersetzung mit Themen, die in der zeitgenössischen Rap‑Musik häufig anzutreffen sind."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Verweise auf „Clout“, Luxusmarken, Herkunftsangaben).",
+          "Die Analyse erkennt mehrere stilistische Mittel (Metaphern, Symbolik) und verknüpft sie mit dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext wirft Fragen nach der Konstruktion von Männlichkeit, dem Umgang mit Macht und den Auswirkungen auf Beziehungen auf.",
+          "Insgesamt offenbart \"Drinks & Clout\" eine komplexe, vielschichtige Auseinandersetzung mit Themen, die in der zeitgenössischen Rap‑Musik häufig anzutreffen sind."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge (z. B. „Zehn von Zehn auf meinem Ranking“, „Häng nur im Pearl, nicht mehr im 808\").",
+          "Erkennt und diskutiert Ambivalenzen (Selbstbewusstsein vs. Gewaltbereitschaft).",
+          "Bleibt faktentreu – alle Aussagen lassen sich aus dem Songtext ableiten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der Hip‑Hop‑Kultur und dem deutschen Rap‑Szenario verbunden.",
+          "Der Song reflektiert die Werte und Normen einer bestimmten sozialen Gruppe, die durch den Erwerb von Status und Macht definiert wird.",
+          "Insgesamt zeigt der Song eine komplexe, vielschichtige Darstellung von Macht, Status und Identität."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse (Beispiele für Luxusmarken, Herkunftsangaben).",
+          "Erkennt stilistische Mittel (Metaphern, Symbolik) und verknüpft sie mit der Thematik."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der Hip‑Hop‑Kultur und dem deutschen Rap‑Szenario verbunden.",
+          "Der Song reflektiert die Werte und Normen einer bestimmten sozialen Gruppe, die durch den Erwerb von Status und Macht definiert wird.",
+          "Insgesamt kann der Song als eine Reflexion der Werte und Normen einer bestimmten sozialen Gruppe interpretiert werden, die durch den Erwerb von Status und Macht definiert wird."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Textstellen (z. B. „Ace of Spades“, „Rolis“, Herkunftsangaben).",
+          "Gute Balance zwischen Beschreibung von Symbolik und gesellschaftlicher Einordnung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei der Interpretation.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Selbstsicherheit und Unsicherheit, wie die Zeile ... zeigt.",
+          "Zusammenfassend zeigt der Song ... eine komplexe und vielschichtige Struktur, die sich mit Themen wie Macht, Status, Beziehungen und Identität auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. Symbolik von „Clout“, Luxusmarken, Herkunftsreferenzen).",
+          "Erkennt und benennt stilistische Mittel (Metaphern, Symbolik) und verknüpft sie mit den Themen Macht und Status."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Kernthesen (Macht, Status, Hip‑Hop‑Kontext). Unterschiede liegen in Detailtiefe und in wenigen erfundenen Aussagen (z. B. Homophobie in Interpretation 3).",
+    "empfehlung": "Interpretation 5 liefert die beste Balance aus faktentreuer Textbezug und tiefgehender, nuancierter Analyse. Für zukünftige Bewertungen sollte darauf geachtet werden, vage Allgemeinplätze zu vermeiden und spekulative Aussagen klar zu kennzeichnen."
+  }
+}

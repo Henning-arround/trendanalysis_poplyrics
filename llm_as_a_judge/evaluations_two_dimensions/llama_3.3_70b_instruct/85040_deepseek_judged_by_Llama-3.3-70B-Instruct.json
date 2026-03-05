@@ -1,0 +1,89 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics deuten auf eine gespaltene Persönlichkeit hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bezieht sich auf die literarische Figur des Dr. Jekyll und seines dunklen Alter Egos Mr. Hyde"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben die Unberechenbarkeit dieser Person"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Angst und Unsicherheit, die durch die dunkle Seite des Protagonisten hervorgerufen wird"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben die Unberechenbarkeit dieser Person"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation unterstreicht die Dualität der Persönlichkeit und die Unmöglichkeit, die wahre Natur des Menschen zu durchschauen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben die Unberechenbarkeit dieser Person"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die dunkle Seite der menschlichen Natur und die Unberechenbarkeit, die damit einhergeht"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics beschreiben die Unberechenbarkeit dieser Person"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation unterstreicht die Dualität der Persönlichkeit und die Unmöglichkeit, die wahre Natur dieser Person zu verstehen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und wiederholen sich in ihren Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die literarische Figur des Dr. Jekyll und seines dunklen Alter Egos Mr. Hyde am besten einbezieht"
+  }
+}

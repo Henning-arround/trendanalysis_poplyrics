@@ -1,0 +1,99 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1992 in einer Phase des Übergangs von den 80er-Jahre-Pop-Balladen zu den introspektiveren R&B-Stilen verortet"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Frage 'Where do we go from here?' fungiert als wiederkehrendes Leitmotiv"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte reflektieren damit ein breiteres kulturelles Klima, in dem traditionelle Beziehungsmodelle hinterfragt wurden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz bleibt bestehen, weil das lyrische Ich nicht klar definiert, ob das 'gehen' ein physischer Abschied oder ein emotionales Loslösen sein soll"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Spannung zwischen gesellschaftlicher Erwartung und persönlicher Beharrung ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1992 in einer Phase des Übergangs zwischen den 80er-Jahre-Pop-Balladen und dem aufkommenden R&B-Soul verortet"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Aussage lässt sich in der wiederholten Frage 'Where do we go from here?' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Bildsprache und Metaphern ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text reflektiert gesellschaftliche Tendenzen, traditionelle Rollenbilder zu hinterfragen und die Fluidität von Freundschaft und Sexualität zu erkunden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Unklarheit ('Where do we go from heer / That's all I need to know') lässt Raum für multiple Deutungen"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der Spannung zwischen Wunsch nach Flucht und Unfähigkeit, sich zu lösen, ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text reflektiert gesellschaftliche Tendenzen, traditionelle Rollenbilder zu hinterfragen und die Fluidität von Freundschaft und Sexualität zu erkunden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft - das Dilemma zwischen Loslassen und Verharren - mehrdeutig bleibt und keine klare Handlungsanweisung liefert"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt und weniger halluziniert als die anderen"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile lässt an eine autoritäre Kraft denken, die das Individuum in höhere Sphären befördert – vielleicht Technologie, Medien oder staatliche Propaganda.",
+          "„Instrumente versagen (kann sein)“ deutet auf das Scheitern konventioneller Mittel hin, Gefühle oder Botschaften zu vermitteln."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt auf den ersten Blick wie ein fragmentarisches Mantra …",
+          "Der einleitende Countdown suggeriert einen Start … das nachfolgende „Ok“ die Akzeptanz dieses Übergangs markiert.",
+          "Gleichzeitig betont das wiederholte „Doch niemand ahnt“ die Isolation des Sprechers …",
+          "Der Refrain wirkt fast zynisch … könnte eine ironische Selbsttäuschung darstellen …",
+          "Die Zeile „Keine Sehnsucht … nach Mutter Erde“ verstärkt das Bild einer Entfremdung …",
+          "Insgesamt vermittelt der Song ein Bild von Entfremdung, künstlicher Erhebung …"
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textstellen (Countdown, „Ok“, „Instrumente versagen“, „Doch niemand ahnt“).",
+          "Erkennt wiederkehrende Motive (Entfremdung, Zynismus) und verknüpft sie mit den Wort‑ und Bildbildern des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Feststellung „Doch niemand ahnt“ fungiert als ironischer Kommentar zur kollektiven Blindheit …",
+          "Das Bild des „Hecks“ mit „Glut“ suggeriert ein brennendes, aber verborgenes Risiko …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt auf den ersten Blick wie ein fragmentarisches Mantra …",
+          "Der einleitende Countdown erinnert an den Start eines Raketenstarts …",
+          "Die Zeile „Keine Sehnsucht … Nach Mutter Erde“ verdeutlicht eine Entfremdung von der Natur …",
+          "Das wiederholte „Verglühen wir gerne“ lässt das Bild einer flüchtigen, selbstzerstörerischen Ekstase entstehen.",
+          "Insgesamt kritisiert der Song die Selbstzufriedenheit einer Gesellschaft …"
+        ],
+        "positive_aspekte": [
+          "Nutzt viele direkte Zitate aus dem Song (Countdown, „Uns geht’s gut“, „Keine Sehnsucht“, „Behind the moon“).",
+          "Stellt einen klaren thematischen Bogen her: Technologie‑Kontrolle → Entfremdung → Selbstzufriedenheit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten werden von einer technokratischen Elite oder einer militärischen Struktur in den Weltraum befördert.",
+          "Das Bild des Schwebens und das Versagen der Instrumente ist ein Hinweis darauf, dass die Technologie nicht mehr zuverlässig funktioniert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein ironischer Bericht aus einer künstlich erzeugten, fast schon dystopischen Realität …",
+          "Die Eröffnungszählung erinnert an einen Countdown … das nachfolgende „Ok“ wirkt wie ein nüchterner Befehl.",
+          "Der Refrain wird wiederholt, fast wie ein Mantra, das die Absurdität einer Situation betont …",
+          "Die Zeile „Keine Sehnsucht … Nach Mutter Erde“ verdeutlicht die Entwurzelung …",
+          "Das Bild „Behind the moon / Verglühen wir gerne“ verstärkt das Gefühl, im Schatten des Mondes zu existieren …",
+          "Insgesamt kritisiert der Song die Entmenschlichung durch technologische Übermacht …"
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive (Countdown, Befehl, „Uns geht’s gut“, „Keine Sehnsucht“).",
+          "Bietet eine zusammenhängende Interpretation, die den ironischen Ton des Textes betont."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild der schwebenden Figuren, die „Instrumente versagen“, lässt erkennen, dass die Technologie … zugleich versagt und die Kontrolle entgleitet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein ironischer Selbstversuch, in dem das lyrische Ich eine scheinbare Glückseligkeit inszeniert …",
+          "Der Countdown erinnert an einen Startvorgang, ein Aufschalten in ein künstliches System …",
+          "Das wiederholte „Doch niemand ahnt“ fungiert als Hinweis auf die Ignoranz der Außenwelt …",
+          "Die Zeile „Keine Sehnsucht … Nach Mutter Erde“ verstärkt die Entfremdung von der Natur …",
+          "Das wiederholte Mantra wirkt fast wie ein Mantra, das die Leere füllt …",
+          "So wird das Lied zu einer kritischen Reflexion über die Selbsttäuschung einer Gesellschaft …",
+          "Die scheinbare Euphorie bleibt damit ein hohler Klang, der nur durch das wiederholte „Ok.“ am Ende …"
+        ],
+        "positive_aspekte": [
+          "Verknüpft mehrere Textstellen (Countdown, „Instrumente versagen“, „Doch niemand ahnt“, „Ok.“) zu einer kohärenten Analyse.",
+          "Erkennt die Spannung zwischen scheinbarer Euphorie und zugrundeliegender Leere."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die nachfolgende Anweisung suggeriert, dass das Subjekt nicht aus eigenem Antrieb, sondern durch äußere Mächte … aus Zwang entsteht.",
+          "Das „Instrumente versagen“ kann als Hinweis auf das Scheitern menschlicher Mittel zur Sinnstiftung gelesen werden …",
+          "Das Bild ... suggeriert ein Verstecken hinter einer fernen, unerreichbaren Hülle …"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt auf den ersten Blick wie ein fragmentarisches Mantra …",
+          "Der Countdown erinnert an den Start einer Rakete oder an ein militärisches Protokoll …",
+          "Die Zeilen verbinden das Bild des kosmischen Erhebens mit einer inneren Gleichgültigkeit …",
+          "Der Refrain wirkt fast zynisch, weil er in einem monotonen, fast robotischen Ton wiederholt wird …",
+          "Insgesamt zeichnet der Song ein Bild einer Generation, die in einer von Technologie und Befehlen dominierten Welt lebt …",
+          "Die wiederholte Behauptung wird dabei zum ironischen Mantra einer Gesellschaft …"
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf wiederkehrende Motive (Countdown, Befehl, „Uns geht’s gut“, „Keine Sehnsucht“).",
+          "Stellt einen klaren kritischen Standpunkt gegenüber einer technik‑dominierten Gesellschaft dar."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.0,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark im Verhältnis von belegten zu spekulativen Aussagen. Während Interpretation 4 die wenigsten unbelegten Behauptungen enthält, zeigen die anderen häufige Oberflächlichkeit und Erfindungen. Die Varianz ist damit hoch.",
+    "empfehlung": "Interpretation 4 bietet die beste Balance aus Texttreue und analytischer Tiefe. Für zukünftige Analysen sollten LLMs stärker darauf achten, spekulative Deutungen klar als Interpretation zu kennzeichnen und mehr direkte Textbelege zu nutzen, um Halluzinationen zu reduzieren."
+  }
+}

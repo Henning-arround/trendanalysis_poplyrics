@@ -1,0 +1,99 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung der Stadt als 'Stadt der Heiligen und Narren' kann auch als eine kritische Auseinandersetzung mit der Konsumkultur interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Bedeutung von Geben und Teilen zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Mischung aus textbezogener Analyse und kulturellem Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Prince Charles' Amex account kann als eine Anspielung auf die Korruption in der Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verschiedenen literarischen Stilmittel im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung der Menschen in Kaldi's Café kann als eine Darstellung der Vielfalt und Komplexität der menschlichen Erfahrungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1990er Jahre interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der verschiedenen Figuren im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'trouble with the nations' kann als eine Anspielung auf die politischen Unruhen der 1990er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verschiedenen Themen im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung der Stadt als 'city of the saints and fools' kann als eine Darstellung der Ambivalenz und Komplexität der menschlichen Erfahrungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1990er Jahre interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der verschiedenen Themen und Motive im Songtext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die kulturelle Kontextualisierung.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Mischung aus textbezogener Analyse und kulturellem Kontext bietet."
+  }
+}

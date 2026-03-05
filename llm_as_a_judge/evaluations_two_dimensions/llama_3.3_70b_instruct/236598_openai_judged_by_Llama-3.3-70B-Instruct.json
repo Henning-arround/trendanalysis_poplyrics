@@ -1,0 +1,99 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zwischen moderner Musik und kulturellem Erbe wird verstärkt durch die traditionelle koreanische Malerei"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Thema des kulturellen Erbes und der Weitergabe von künstlerischem Feuer"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Play-Buttons und des Benjamin-Knopfes ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Entwicklung des Genres und die persönliche Geschichte des Künstlers"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einem bleibenden künstlerischen Erbe"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung des Bildes des 'Meer-Windes' und des 'Time-Travel' ist ansprechend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die interkulturelle Dialog durch die Verquickung koreanischer und englischer Phrasen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Idee, dass Kunst die lineare Zeit transzendiert"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen über '죽을 땐 빌린 이 몸 흙이 되는 time table' ist detailliert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frage nach Ursache und Wirkung, nach dem Gesetz von Zeit und Erinnerung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verbindung zwischen Natur und künstlerischem Schaffen"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung des Bildes des 'Sturmes im Auge' ist ansprechend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Positionierung von Drunken Tiger als 'Raptimyst'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Idee, dass jede künstlerische Schöpfung zugleich ein Teil des kollektiven Gedächtnisses wird"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen über 'It’s timeless 죽지 않는 영혼에 불타는' ist detailliert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Verständnis des Songtextes"
+  }
+}

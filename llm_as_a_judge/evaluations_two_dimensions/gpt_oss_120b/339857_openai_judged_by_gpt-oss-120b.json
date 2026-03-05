@@ -1,0 +1,89 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Textbezüge (z. B. „Standing in the shadows“, „It should be all eyes on you“).",
+          "Gute Differenzierung zwischen Bildsprache (Schatten, Rampenlicht) und Imperativen des Refrains.",
+          "Stetige Verknüpfung von Club‑Atmosphäre und Selbstbefreiung, was dem Songinhalt entspricht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse der wiederholten Imperative als „Mantra\".",
+          "Verknüpfung von Mode (Jimmy Choo) und Musik als Verstärker des Selbstbewusstseins.",
+          "Erkenntnis, dass das Tanzen als Ritual der Emanzipation fungiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Explizite Verbindung von „one drink“ zu einsamer Routine und dem Ausbruch daraus.",
+          "Hinweis auf die Ambivalenz zwischen äußerer Inszenierung (Jimmy‑Choo) und innerer Freiheit.",
+          "Konsistente Argumentation, dass die Musik zur Identitätsfindung wird."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betonung der Kritik an „Sipping on your one drink\" als passives Verhalten.",
+          "Verknüpfung von Glamour‑Partykultur und innerer Befreiung.",
+          "Klare Herausarbeitung des Tanzens als Symbol für das Loslassen von Selbstzweifeln."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detailreiche Deutung der Zeile „fine ass on the floor\" als Metapher für Hemmungslosigkeit.",
+          "Verbindung von Komfortzone‑Verlassen und sozialer Gemeinschaft.",
+          "Ausgewogene Darstellung von materiellen Symbolen (Jimmy Choo) im Kontext von innerer Entschlossenheit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen sehr geringe Varianz – sie sind inhaltlich konsistent, wiederholen das gleiche Kernthema, jedoch ohne redundante Floskeln.",
+    "empfehlung": "Die Interpretationen balancieren gut Texttreue und analytische Tiefe. Für zukünftige Analysen wäre es wünschenswert, mehr Ambivalenzen und alternative Lesarten zu explorieren, um die Tiefe‑Score weiter zu erhöhen, ohne dabei Halluzinationen einzuführen."
+  }
+}

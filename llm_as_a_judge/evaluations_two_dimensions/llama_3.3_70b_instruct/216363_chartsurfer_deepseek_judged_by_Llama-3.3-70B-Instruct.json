@@ -1,0 +1,101 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Rachefantasie ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeine Aussagen über emotionale Tiefe und Verletzlichkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Refrains und der Entwicklung des Sängers"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Genugtuung und Befreiung ohne klare Textbelege",
+          "Rachefantasie"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeine Aussagen über die Entwicklung des Sängers"
+        ],
+        "positive_aspekte": [
+          "Gute Erkenntnis der karmischen Gerechtigkeit im Refrain"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Rachefantasie ohne klare Textbelege",
+          "Genugtuung und Befreiung"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeine Aussagen über die Entwicklung des Sängers"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Refrains und der Entwicklung des Sängers"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Spezifische Emotionen ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeine Aussagen über die Liebe und Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Entwicklung des Sängers und der Zeile 'Every road must have a turning'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Spezifische Emotionen ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Allgemeine Aussagen über die Liebe und Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Refrains und der Entwicklung des Sängers"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Analyse des Refrains und der Entwicklung des Sängers, aber variieren in der Tiefe und der Anzahl an halluzinierten Aussagen.",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf die textbasierte Analyse konzentrieren und spekulative Aussagen vermeiden. Eine Kombination aus tiefer Textanalyse und offener Interpretation von Ambivalenzen könnte zu einer noch besseren Einschätzung des Songs führen."
+  }
+}

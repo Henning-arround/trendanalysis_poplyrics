@@ -1,0 +1,97 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Figur einer 'little girl' steht für ein verletzliches Subjekt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text reflektiert gesellschaftliche Diskurse über Geschlechterrollen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen familiärer Nähe und erotischer Anziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I never got a letter' eröffnet ein Motiv der unerwiderten Kommunikation"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text spiegelt die postmoderne Auflösung klassischer Rollenbilder wider"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Widersprüche in der Erzählung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft lässt sich als wiederkehrende Suche nach Zugehörigkeit und Anerkennung formulieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text reflektiert die postmoderne Auflösung traditioneller Beziehungsmodelle"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Komplexität der Thematik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Frage 'Was is this the end?' bleibt unbeantwortet"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Ambivalenz zwischen leidenschaftlicher Sehnsucht und spielerischer Oberflächlichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Zeile 'Here I go again' fungiert als Leitmotiv"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text thematisiert das Motiv des 'verlorenen' Liebesglücks"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen Geschwisterlichkeit und romantischer Sehnsucht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die vierte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

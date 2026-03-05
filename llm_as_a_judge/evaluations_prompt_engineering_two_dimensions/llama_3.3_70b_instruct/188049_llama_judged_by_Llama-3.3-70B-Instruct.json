@@ -1,0 +1,99 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Analyse des Songs kann man tiefer in die kulturellen, historischen und gesellschaftlichen Kontexte eintauchen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Kontrasten und Ambiguitäten verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metaphern und Symbole im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Kommentar auf die kommerzialisierte und medialisierte Gesellschaft der 1990er Jahre verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der wiederkehrenden Phrase 'For time immemorial'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Analyse des Songs wird deutlich, dass 'Time Immemorial' nicht nur ein einfacher Pop-Song ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Kontrasten und Ambiguitäten verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metaphern und Symbole im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Analyse des Songs wird deutlich, dass 'Time Immemorial' nicht nur ein einfacher Pop-Song ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Kontrasten und Ambiguitäten verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metaphern und Symbole im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Analyse des Songs kann man tiefer in die kulturellen, historischen und gesellschaftlichen Kontexte eintauchen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Kontrasten und Ambiguitäten verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metaphern und Symbole im Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent in ihrer Analyse der Metaphern und Symbole im Songtext",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

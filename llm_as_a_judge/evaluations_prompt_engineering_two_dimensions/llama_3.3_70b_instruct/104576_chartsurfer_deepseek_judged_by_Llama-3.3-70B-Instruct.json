@@ -1,0 +1,102 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Frieden, Sicherheit und Normalität in der Nachkriegszeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist vor allem fröhlich und unbeschwert"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Wiederholung und Rhythmus",
+          "Die Interpretation der Sauerkraut-Polka-Verbindung als Symbol für eine unbeschwerte Lebensart"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die deutsche Schlager-Musik war geprägt von einer gewissen Naivität und Unschuld"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist jedoch nicht zu unterschätzen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft",
+          "Die Interpretation der Ambiguität in der Zeile 'Schön ist die Sauerkraut-Polka, weil doch sauer lustig macht'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die deutsche Schlager-Musik war geprägt von einer gewissen Naivität und Unschuld"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist jedoch nicht zu unterschätzen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die deutsche Schlager-Musik war geprägt von einer gewissen Naivität und Unschuld"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist jedoch nicht zu unterschätzen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die deutsche Schlager-Musik war geprägt von einer gewissen Naivität und Unschuld"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist jedoch nicht zu unterschätzen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft",
+          "Die Interpretation der Ambiguität in der Zeile 'Schön ist die Sauerkraut-Polka, weil doch sauer lustig macht'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Analyse der Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft, jedoch variieren die Tiefe und die Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch zu beachten, dass alle Interpretationen eine gewisse Halluzinationsrate aufweisen und dass die Tiefe der Analyse variieren kann."
+  }
+}

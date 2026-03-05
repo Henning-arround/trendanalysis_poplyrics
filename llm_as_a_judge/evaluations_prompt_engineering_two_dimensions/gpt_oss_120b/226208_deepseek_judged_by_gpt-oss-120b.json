@@ -1,0 +1,117 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1980er Jahre interpretiert werden.",
+          "Die Angst vor Krieg und Gewalt war in dieser Zeit groß, und der Song kann als ein Kommentar zu diesen Ängsten gesehen werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und affektive Dimension, die den Hörer zum Nachdenken anregt.",
+          "Die Ambiguität und Spannung zwischen den verschiedenen Themen und Symbolen machen den Song zu einem vielschichtigen und interpretationsoffenen Werk."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (z. B. Analyse von Metaphern, Symbolik und konkreten Zeilen).",
+          "Die Interpretation ist strukturiert und verbindet einzelne Textstellen mit übergeordneten Themen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1980er Jahre interpretiert werden.",
+          "Die Angst vor Krieg und Gewalt war in dieser Zeit groß, und der Song kann als ein Kommentar zu diesen Ängsten gesehen werden.",
+          "Insgesamt kann der Song ... den Hörer dazu auffordert, über seine eigene Rolle in der Welt nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge zu fast allen analysierten Zeilen.",
+          "Gute Verbindung von Symbolik (Auge des Sturms) mit den Themen Gewalt und Sicherheit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1980er Jahre interpretiert werden.",
+          "Die Angst vor Krieg und Gewalt war in dieser Zeit groß, und der Song kann als ein Kommentar zu diesen Ängsten gesehen werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und affektive Dimension, die den Hörer zum Nachdenken anregt.",
+          "Die Ambiguität und Spannung zwischen den verschiedenen Themen und Symbolen machen den Song zu einem vielschichtigen und interpretationsoffenen Werk."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung der wichtigsten Textstellen.",
+          "Stetige Verknüpfung von Metaphern mit den zentralen Themen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Verunsicherung und Frustration geprägt.",
+          "Der Song kann als ein Ausdruck der Unzufriedenheit mit der bestehenden Gesellschaft und der Suche nach Alternativen interpretiert werden.",
+          "Im Kontext der späten 1980er Jahre kann der Song auch als ein Kommentar zu den politischen und sozialen Unruhen jener Zeit gesehen werden.",
+          "Insgesamt zeigt sich, dass der Song ... eine komplexe und vielschichtige Auseinandersetzung mit den Themen ..."
+        ],
+        "positive_aspekte": [
+          "Alle zentralen Bildungen (Sturm, Klinge, Auge des Sturms) werden textnah erklärt.",
+          "Ergänzt die Analyse um emotionale Lesart (Verunsicherung, Frustration)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... vielschichtiges Werk ... Gewalt, Konformität und die Suche nach einem besseren Leben.",
+          "Die zentrale Botschaft lässt sich in der Zeile \"The world we live in is a violent place\" zusammenfassen.",
+          "Die Zeile \"And that's a fact we're gonna have to face\" impliziert Resignation und Fatalismus.",
+          "Metaphern und Symbole sind im Song auffällig.",
+          "\"Auge des Sturms\" ist ein Symbol für Ruhe und Sicherheit im Chaos.",
+          "\"One place I've been searching for / Right from the day I was born\" deutet auf lebenslange Suche nach Sicherheit hin.",
+          "Der Sturm als Metapher für Lebensherausforderungen.",
+          "\"Out in the storm\" als Sehnsucht nach Freiheit; \"Just can't conform\" als Ablehnung von Konformität.",
+          "Die Zeile \"Will we try together for a better life / Or do we live forever on the edge of a knife\" zeigt Unsicherheit und Ambiguität über das kollektive Handeln."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer gewissen Melancholie und Resignation, aber auch von einer Hoffnung auf ein besseres Leben.",
+          "Der Song kann somit als ein Kommentar zu den Herausforderungen und Schwierigkeiten der menschlichen Existenz interpretiert werden, der die Notwendigkeit einer gemeinsamen Anstrengung für ein besseres Leben betont."
+        ],
+        "positive_aspekte": [
+          "Hervorragend textbezogene Analyse: fast jede Aussage lässt sich unmittelbar auf eine konkrete Zeile zurückführen.",
+          "Verknüpft Symbolik mit konkreten Themen (Freiheit, Konformität, kollektives Handeln) und bleibt dabei im Rahmen des Textes.",
+          "Wenig generische Floskeln, dafür tiefgehende, differenzierte Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Modelle wiederholen dieselben Grundthemen (Gewalt, Konformität, Suche nach Sicherheit). Unterschiede liegen im Anteil generischer Aussagen; Interpretation 4 weist die geringste Oberflächlichkeit und die höchste inhaltliche Tiefe auf.",
+    "empfehlung": "Für eine balancierte Bewertung sollte man Interpretation 4 als Vorbild nehmen: sie bleibt strikt am Text, liefert konkrete Analysen und vermeidet unnötige, nicht belegbare Kontextualisierungen."
+  }
+}

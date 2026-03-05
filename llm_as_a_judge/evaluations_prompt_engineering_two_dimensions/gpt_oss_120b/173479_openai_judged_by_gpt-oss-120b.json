@@ -1,0 +1,111 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die Nachkriegsdeutschland‑Stimmung der späten 1950er‑Jahre einordnen, in der ehemalige Soldaten mit der Sinnkrise des Wiederaufbaus konfrontiert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Widersprüche lassen offen, ob der Text letztlich zur Gewaltverweigerung oder zur Akzeptanz einer dauerhaften, aber unsichtbaren Bedrohung aufruft."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge (z. B. Karten‑Metapher, Schiff‑Zeile, Wiederholung des Refrains).",
+          "Klare Analyse von Symbolik (Knarre als Macht‑/Kontrollsymbol).",
+          "Erkennt die Ambivalenz zwischen Entwaffnung und Gewaltverherrlichung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die Nachkriegsdeutschland‑Debatte einordnen, in der Veteranen und Zivilisten mit dem Verlust von Ideologien und dem Aufkommen einer Konsum‑ und Wiederaufbaugesellschaft konfrontiert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "So bleibt das Lied ein Spiegel der kulturellen Unsicherheit: Es benennt das Problem, liefert jedoch keine eindeutige Antwort, was die anhaltende Spannung zwischen Wunsch nach Frieden und der persistorischen Gewaltmentalität betont."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von formalen Merkmalen (fragmentarische Narrative) mit inhaltlicher Interpretation.",
+          "Erkennt die Mehrdeutigkeit der Bildsprache (z. B. Smutje).",
+          "Stellt den wiederholten Imperativ in einen Spannungsrahmen zwischen Verantwortung und Resignation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das Nachkriegsdeutschland der späten 1950er‑Jahre einordnen, einer Zeit, in der Veteranen mit Entfremdung und Sinnverlust kämpften („Er kam aus einer Schlacht nach Haus / Aus irgendeinem Krieg“, 1‑2)."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen dem Wunsch nach Frieden und der gleichzeitigen Präsenz von Gewalt erzeugt eine mehrschichtige Botschaft, die weder eindeutig verneint noch bejaht, sondern das Dilemma des Kriegs‑ und Nachkriegsmannes betont."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der formalen Struktur (fragmentarische Erzählung, wiederholte Metaphern).",
+          "Präzise Symboldeutung der „Knarre“ als Macht‑/Schuld‑Metapher.",
+          "Beachtet sprachliche Besonderheiten (Rohheit des Wortes „Mann“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in das Nachkriegsdeutschland der späten 1950er‑Jahre einordnen, in dem die Rückkehr von Soldaten in eine zerrissene Gesellschaft und die Debatte über Waffenstillstand und Wiederaufbau präsent waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Antithese zwischen militärischer Erfahrung und zivilen Perspektiven erzeugt eine thematische Mehrschichtigkeit, die zugleich Kriegstrauma, Entfremdung und die Suche nach einer zivilen Identität thematisiert, ohne jedoch eine eindeutige Lösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Klare Herausarbeitung der wiederholten Imperativform als zentrales Spannungsfeld.",
+          "Verknüpfung von Bildsprache (Schiff, Dreck) mit Sinnverlust.",
+          "Gute Differenzierung zwischen Symbolik der „Knarre“ und deren Bedeutungsambivalenz."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das Nachkriegsdeutschland einordnen, wo Veteranen mit traumatischer Desillusionierung konfrontiert waren; die Zeile „Er kam aus einer Schlacht nach Haus / Aus irgendeinem Krieg“ (1‑2) spiegelt diese Rückkehr in eine veränderte Gesellschaft wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität entsteht aus der Gegenüberstellung von äußerer Gewalt (Schlachten, Schüsse) und innerer Sinnsuche, wobei das Fehlen eines klaren Ziels die Ambivalenz zwischen „Sieg“ und „Verlorenheit“ betont.",
+          "Die wiederholte Struktur des Refrains erzeugt einen hypnotischen Rhythmus, der die affektive Spannung zwischen Aggression und dem Wunsch nach Frieden verstärkt.",
+          "Diese Spannungen lassen den Song als kritische Reflexion über die Persistenz von Gewalt in einer scheinbar friedlichen Nachkriegsordnung verstehen, ohne eine eindeutige Lösung anzubieten."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Wiederholung des Refrains und deren rhetorische Wirkung.",
+          "Erkennt die Mehrdeutigkeit des Textes (Sinnlosigkeit vs. „ganz und gar korrekt“).",
+          "Bezieht formale Elemente (fragmentarische Narrative, Metaphern) in die Analyse ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen eine ähnliche Grundstruktur (Hinweis auf Krieg, wiederholte Aufforderung, fragmentarische Szenen). Die Halluzinationsrate ist durchweg niedrig (≈11 %), was auf konsistente Texttreue hinweist. Die Tiefenbewertung variiert leicht; Interpretation 4 ist etwas oberflächlicher, während 1, 2, 3 und 5 substantielle, textbezogene Analysen liefern.",
+    "empfehlung": "Interpretation 5 bietet die ausgewogenste Kombination aus textnaher Analyse, klarer Symboldeutung und wenig spekulativen Aussagen. Sie nutzt die vorhandenen Textdetails umfassend, bleibt dabei faktentreu und liefert eine tiefgehende, aber gut begründete Interpretation."
+  }
+}

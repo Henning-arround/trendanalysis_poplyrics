@@ -1,0 +1,100 @@
+{
+  "song": "Argue - Matchbox 20 (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext der Mitte der 1990er Jahre, einer Phase post‑grungiger Individualisierung und zunehmender emotionaler Offenheit in Pop‑Rock, reflektiert das Lied die Generation, die zwischen authentischer Selbstdarstellung und der Angst vor Verwundbarkeit schwankt."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus den Lyrics ableiten.",
+          "Gute Analyse von Metaphern (z. B. „cloud“, „wreck me“, „roll over“).",
+          "Berücksichtigt strukturelle Wiederholungen und deren mögliche Funktion als Symbol für zyklische Beziehungsmuster."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text spiegelt damit das kulturelle Klima einer Generation wider, die zwischen dem Ideal romantischer Verbundenheit und einer wachsenden Skepsis gegenüber traditionellen Rollenmustern schwankt."
+        ],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Motivwiederholungen („over, and over, anyone“).",
+          "Verknüpft lyrische Motive mit einer plausiblen historischen Einordnung (späte 1990er‑Jahre).",
+          "Erklärt die Ambivalenz von „Ignoranz als beste Verteidigung“ klar und nachvollziehbar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext der Mitte der 1990‑Jahre, einer Phase des post‑grunge‑Individualismus und der wachsenden Diskussion um emotionale Authentizität, reflektiert der Text das Spannungsfeld zwischen maskuliner Selbstbehauptung und einer wachsenden Sensibilität für Beziehungsdynamiken."
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die zentrale Gegenüberstellung von Nähe‑ und Konfliktvermeidung.",
+          "Erklärt die Funktion der Wiederholungen im Refrain als „mantraartig“.",
+          "Verknüpft die Metapher „cloud“ mit emotionaler Vernebelung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch lässt sich das Stück in das späte 90er‑Jahre‑Pop‑Rock‑Milieu einordnen, das häufig persönliche Unsicherheit und postmoderne Identitätskrisen thematisierte."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Spannung zwischen „I don’t know“ und „Believe in ignorance as my best defense“.",
+          "Erklärt, wie die Wiederholung von „We shouldn’t argue“ gleichzeitig beruhigend und drückend wirkt.",
+          "Verbindet lyrische Antithesen (z. B. „Wreck me“ vs. „Will not roll over on anyone“) mit dem Gesamtthema der Selbstbehauptung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext der Mitte der 1990er Jahre, einer Phase zunehmender Individualisierung und des Aufbruchs alternativer Beziehungsmodelle, reflektiert das Stück die Unsicherheit junger Erwachsener, die zwischen Selbstbehauptung und dem Wunsch nach emotionaler Nähe schwanken.",
+          "Die Mischung aus direkter Ansprache („If you want you can get to know me well“) und vagen Reflexionen lässt Raum für multiple Interpretationsschichten."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Wiederholung „We get along so we shouldn't argue“ als mantraartige Struktur.",
+          "Beschreibt die Bildhaftigkeit von „cloud up my reasoning“ und „funny how I carry on, and not be taken over“.",
+          "Verknüpft die lyrischen Motive mit einer allgemeinen, aber nachvollziehbaren Beschreibung der 90er‑Jahre‑Kultur."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernmotive (Wiederholungen, Ambivalenz, Ignoranz) auf; die Varianz liegt vor allem im Detailgrad und in der Menge an generischen Kontextualisierungen. Die Scores zeigen, dass die meisten Analysen texttreu sind, während die Tiefe stark schwankt.",
+    "empfehlung": "Interpretationen, die konsequent aus dem Text ableiten, wenig generische Kultur‑ oder Geschichtsbeschreibungen einbauen und gleichzeitig die mehrdeutigen Bildlichkeiten (z. B. „cloud“, „over and over“) detailliert untersuchen, erzielen die besten Ergebnisse. Interpretation 1 (und 3) zeigen das optimale Gleichgewicht zwischen Faktentreue und analytischer Tiefe."
+  }
+}

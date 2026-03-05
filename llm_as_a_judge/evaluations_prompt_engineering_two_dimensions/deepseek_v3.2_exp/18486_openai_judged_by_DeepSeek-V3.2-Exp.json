@@ -1,0 +1,100 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bürgerrechtsbewegung und die beginnende Gegenkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Unbestimmtheit menschlicher Zeitlichkeit"
+        ],
+        "positive_aspekte": [
+          "Analyse der zyklischen Ordnung des Lebens",
+          "Berücksichtigung der biblischen Formel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1960er-Folktradition"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz menschlicher Existenz"
+        ],
+        "positive_aspekte": [
+          "Analyse der Spannung zwischen Rhythmus und Gegenüberstellungen",
+          "Berücksichtigung des historischen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Folk-Revival-Bewegung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vielschichtigkeit menschlicher Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Analyse der zyklischen Ordnung des Lebens",
+          "Berücksichtigung der biblischen Quelle"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenkultur und die Bürgerrechtsbewegung"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr tiefgehende Analyse der zyklischen Ordnung des Lebens",
+          "Berücksichtigung der transzendenten Rahmenbedingungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität einer allumfassenden Zeitstruktur"
+        ],
+        "positive_aspekte": [
+          "Analyse der zyklischen Ordnung des Lebens",
+          "Berücksichtigung der biblischen Allusionen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der zyklischen Ordnung des Lebens, aber variieren in der Berücksichtigung des historischen Kontexts und der biblischen Quelle.",
+    "empfehlung": "Die vierte Interpretation bietet die tiefste und textbezogenste Analyse, während die fünfte Interpretation die faktentreueste ist."
+  }
+}

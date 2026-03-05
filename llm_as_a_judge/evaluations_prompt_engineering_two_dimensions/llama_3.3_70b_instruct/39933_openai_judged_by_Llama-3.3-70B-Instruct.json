@@ -1,0 +1,99 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die späte Phase des Progressive-Rock einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von 'darkness to light' und dem 'kingdom of beautiful stories'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und die Betonung der Ambivalenz im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert ein breiteres kulturelles Bedürfnis nach Sinnstiftung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung 'Shine over everyone' erweitert die persönliche Erfahrung zu einer kollektiven Vision"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Mehrdeutigkeit des 'you' und die Analyse der kosmischen Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Struktur spiegelt postmoderne Fragmentierung wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bildsprache wechselt zwischen kosmischen und persönlichen Räumen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität zwischen individueller Intimität und universeller Ordnung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die narrative Struktur bleibt fragmentarisch"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Anrufung von 'everyone' erweitert die persönliche Erfahrung zu einer kollektiven Anklage"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambivalenz zwischen Licht und Dunkel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text reflektiert ein post-modernes Bewusstsein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung 'Shine on the heartache' verbindet Schmerz und Triumph"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Hoffnung und Zweifel"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und der Ambivalenzen im Text",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und betont die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

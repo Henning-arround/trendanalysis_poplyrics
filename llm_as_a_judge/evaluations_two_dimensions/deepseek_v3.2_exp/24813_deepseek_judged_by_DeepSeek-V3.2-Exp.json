@@ -1,0 +1,99 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Identität und das Selbstbewusstsein eng mit der geliebten Person verbunden waren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext zeigt auch, dass der Protagonist langsam lernt, mit dem Verlust umzugehen"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Ich bin wie ausgestorben' verdeutlicht die emotionale Taubheit und Leere"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext schildert die Situation, in der die Zeit stillzustehen scheint"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist ein emotionaler Ausdruck der Verzweiflung und der Sehnsucht"
+        ],
+        "positive_aspekte": [
+          "Die Lyrics drücken eine tiefe Sehnsucht und Einsamkeit aus"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain 'Du fehlst meinem Leben' wird zu einer Art Klage"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext zeigt jedoch auch eine gewisse Hoffnung auf"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Ich bin wie ausgestorben' verdeutlicht die emotionale Taubheit und Leere"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt sich als 'ausgestorben' und 'nur noch halb'"
+        ],
+        "oberflächliche_aussagen": [
+          "Trotz der tiefen Trauer und Verzweiflung gibt der Sänger jedoch auch eine Hoffnung auf"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Ohne dich bin ich ohne mich' verdeutlicht die tiefe Verbindung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist fühlt sich wie ausgestorben, nur noch halb und ohne Richtung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit einem resignierten Eingeständnis"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Du fehlst meinem Leben' wird zu einem verzweifelten Hilferuf"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

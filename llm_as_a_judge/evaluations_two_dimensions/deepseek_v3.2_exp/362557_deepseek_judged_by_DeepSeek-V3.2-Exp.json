@@ -1,0 +1,105 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Fitness- und Aerobik-Genres der 80er Jahre ohne spezifische Textbezüge"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und zur körperlichen Bewegung",
+          "Der Song ist ein typisches Produkt der 80er Jahre"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Fitness- und Aerobik-Genres der 80er Jahre ohne spezifische Textbezüge"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und zur körperlichen Bewegung",
+          "Der Song ist ein typisches Produkt der 80er Jahre"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          ""
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und zur körperlichen Bewegung"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert",
+          "Es werden spezifische Textbezüge hergestellt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          ""
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zum Tanzen und zur körperlichen Bewegung"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert",
+          "Es werden spezifische Textbezüge hergestellt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          ""
+        ],
+        "oberflächliche_aussagen": [
+          ""
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert",
+          "Es werden spezifische Textbezüge hergestellt",
+          "Der Song wird in den historischen Kontext eingeordnet"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

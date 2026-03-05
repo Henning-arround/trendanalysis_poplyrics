@@ -1,0 +1,97 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann auch als eine Form der Suche nach Authentizität und emotionaler Verbindung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die Verquickung von Musik und emotionaler Erfahrung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann auch als eine Form der Suche nach Authentizität und emotionaler Verbindung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die Verquickung von Musik und emotionaler Erfahrung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bitte des Sängers an Mr. C kann als eine Art metaphorische Bitte um emotionale Zuwendung gelesen werden, die über die konkrete Situation hinausgeht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die Verquickung von Musik und emotionaler Erfahrung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeigt eine komplexe emotionale Landschaft, die durch die Verwendung literarischer Stilmittel und die thematische Komplexität unterstrichen wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist überwiegend textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Ausdruck des Verlangens nach individueller Erfahrung und persönlicher Verbindung in einer zunehmend massenmedial geprägten Welt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist durchgehend spezifisch und textanalytisch."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

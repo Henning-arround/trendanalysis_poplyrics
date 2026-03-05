@@ -1,0 +1,97 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau bleibt jedoch optimistisch und schreibt ihrer Mutter, dass sie in Florida ein neues Leben führt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Reflexion über das Leben und die menschlichen Erfahrungen interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die grundlegende Handlung des Songs ab"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte zeigt jedoch auch, dass das Leben unvorhersehbar ist und dass selbst die besten Pläne und Träume durch tragische Ereignisse zerstört werden können"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für den American Dream interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Unvorhersehbarkeit des Lebens"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte ihrer Kinder, die mittlerweile herangewachsen sind, zeigt, dass das Leben weitergeht und dass die Frau ihre Lektion gelernt hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Erfahrung, die oft von Höhen und Tiefen geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der Hoffnung und Zuversicht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte ihrer Kinder, die mittlerweile herangewachsen sind, zeigt, dass das Leben weitergeht und dass die Frau ihre Lektion gelernt hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Erfahrung, die oft von Höhen und Tiefen geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr ähnlich zu Interpretation 3, aber mit leicht abweichender Formulierung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Protagonistin versucht, durch kleine Schritte ein besseres Leben zu erreichen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Diskrepanz zwischen den Träumen und der Realität, insbesondere für Frauen in den 1950er und 60er Jahren"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3 und 4 sind sehr ähnlich, was auf eine gewisse Konsistenz in der Analyse hinweist, aber auch auf eine mangelnde Vielfalt in den Perspektiven",
+    "empfehlung": "Interpretation 5 bietet die tiefste und textgetreuere Analyse, indem sie die Diskrepanz zwischen Träumen und Realität thematisiert und die spezifischen Herausforderungen für Frauen in den 1950er und 60er Jahren hervorhebt"
+  }
+}

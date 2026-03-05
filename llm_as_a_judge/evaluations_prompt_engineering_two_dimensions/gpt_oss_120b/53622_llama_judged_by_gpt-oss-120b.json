@@ -1,0 +1,114 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Symbole ... dienen dazu, die opulente Lebensweise des Künstlers zu beschreiben und seine Zugehörigkeit zur Hip‑Hop‑Szene zu betonen.",
+          "Der kulturelle und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei seiner Interpretation.",
+          "Der Song reflektiert die Werte und Normen der Hip‑Hop‑Szene, in der der Reichtum, die Macht und die Zurschaustellung von Luxusgütern als Statussymbole gelten.",
+          "Die tiefere Bedeutungsebene ... könnte darin bestehen, dass er die Oberflächlichkeit und den Konsum von Luxusgütern kritisiert, indem er diese Werte überzeichnet und karikiert.",
+          "Allerdings bleibt diese Kritik ambivalent und wird durch die gleichzeitige Zurschaustellung von Reichtum und Macht konterkariert, wie in den Zeilen ... deutlich wird."
+        ],
+        "positive_aspekte": [
+          "Klare Identifikation von Metaphern und Symbolen, die tatsächlich im Text vorkommen (z. B. „Face on Face“, „Ace of Spades“, „Pearl“, „808”).",
+          "Bezug auf konkrete Textstellen, um die emotionale Wirkung (Arroganz, Selbstbewusstsein, Aggressivität) zu begründen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Symbole ... dienen dazu, die opulente Lebensweise des Künstlers zu beschreiben und seine Zugehörigkeit zu einer bestimmten Szene zu betonen.",
+          "Der kulturelle und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei seiner Interpretation.",
+          "Der Song reflektiert die Werte und Normen der Hip‑Hop‑Szene, in der der Reichtum, die Macht und die Zurschaustellung von Luxusgütern als Statussymbole gelten.",
+          "Die tiefere Bedeutungsebene ... könnte darin bestehen, dass er die Oberflächlichkeit und den Konsumismus der heutigen Gesellschaft kritisiert, indem er diese Werte überzeichnet und karikiert.",
+          "Ambiguitäten und Spannungen im Song ergeben sich aus der Verbindung von Arroganz und Selbstbewusstsein mit einer gewissen Verletzlichkeit und Abhängigkeit von der Anerkennung durch andere, wie in den Zeilen ... deutlich wird."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der rhetorischen Mittel (Metaphern, Symbole) und ihrer Funktion im Text.",
+          "Verknüpfung von Textstellen mit einer Interpretation der emotionalen Wirkung (Arroganz, Selbstbewusstsein, Aggressivität)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Symbole ... dienen dazu, die opulente und luxuriöse Lebensweise des Künstlers zu beschreiben und zu verherrlichen.",
+          "Der kulturelle und gesellschaftliche Kontext ... spielt eine wichtige Rolle ...",
+          "Der Song reflektiert die Werte und Normen der Hip‑Hop‑Szene, in der der Reichtum, die Macht und die Zurschaustellung von Luxusgütern als Statussymbole gelten.",
+          "Die tiefere Bedeutungsebene ... könnte darin bestehen, dass er die Oberflächlichkeit und den Konsum von Luxusgütern kritisiert, indem er sie übertrieben und ironisch darstellt.",
+          "Allerdings bleibt diese Kritik ambivalent und wird durch die gleichzeitige Verherrlichung dieser Werte konterkariert, wie in den Zeilen ... deutlich wird."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konsequent die im Text vorkommenden Metaphern und Symbole.",
+          "Stellt klare Bezüge zu konkreten Zeilen her, um die dargestellte Arroganz und Aggressivität zu belegen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Symbole ... dienen dazu, die opulente und luxuriöse Lebensweise des Künstlers zu beschreiben und zu verherrlichen.",
+          "Die emotionale Wirkung ... ist ambivalent, da der Künstler einerseits ... demonstrieren will, aber andererseits ... Unsicherheit und Aggressivität ausstrahlt.",
+          "Der kulturelle und historische Kontext ... spielt eine wichtige Rolle ...",
+          "Der Song reflektiert die Werte und die Ästhetik der Hip‑Hop‑Szene, in der der Konsum von Luxusgütern ... als Statussymbole gelten.",
+          "Die tiefere Bedeutungsebene ... liegt jedoch in der Frage, ob diese Oberflächlichkeit ... nicht auch eine Form der Entfremdung und der Isolation darstellen, wie in den Zeilen ... angedeutet wird."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textstellen mit einer differenzierten Lesart (Ambivalenz zwischen Selbstinszenierung und Unsicherheit).",
+          "Erkennt die Verwendung von Metaphern und Symbolen im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Symbole ... dienen dazu, die opulente und luxuriöse Lebensweise des Künstlers zu beschreiben und zu verherrlichen.",
+          "Die emotionale Wirkung ... ist ambivalent, da der Künstler einerseits ... demonstrieren will, aber andererseits ... Unsicherheit und Aggressivität ausstrahlt.",
+          "Der kulturelle und historische Kontext ... spielt eine wichtige Rolle ...",
+          "Der Song reflektiert die Werte und die Ästhetik der Hip‑Hop‑Szene, in der der Konsum von Luxusgütern ... als Statussymbole gelten.",
+          "Die tiefere Bedeutungsebene ... liegt jedoch in der Frage, ob diese Oberflächlichkeit ... nicht auch eine Form der Entfremdung und der Isolation darstellen, wie in den Zeilen ... angedeutet wird."
+        ],
+        "positive_aspekte": [
+          "Gute Auflistung der im Text vorkommenden stilistischen Mittel.",
+          "Erkennt die mögliche Ambivalenz in der emotionalen Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt nur im Umfang der oberflächlichen Kommentare. Die Konsistenz ist hoch, jedoch fehlt differenzierte Analyse.",
+    "empfehlung": "Die Interpretationen sind faktentreu, aber überwiegend oberflächlich. Für eine tiefere Analyse sollten mehr Textbelege mit differenzierten, kontextbezogenen Argumenten kombiniert werden, anstatt generische Aussagen über Kultur und Kritik zu wiederholen."
+  }
+}

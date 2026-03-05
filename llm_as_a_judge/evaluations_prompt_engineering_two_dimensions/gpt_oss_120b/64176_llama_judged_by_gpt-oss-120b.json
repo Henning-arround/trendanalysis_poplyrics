@@ -1,0 +1,100 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Elemente tragen zur Schaffung einer bestimmten Atmosphäre und zur Verdeutlichung der Charaktere bei.",
+          "Der Song thematisiert auch die Komplexität von Beziehungen, in denen die Partner sich zwischen Nähe und Distanz, Verlangen und Ablehnung bewegen.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit den widersprüchlichen Bedürfnissen und Erwartungen in einer Beziehung liegen, die sowohl eine Quelle von Erfüllung als auch von Konflikten sein kann."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (z. B. „Ride it“, „Mojito“, Telefon‑Szene).",
+          "Erkannte Metaphern und Kontraste werden nachvollziehbar erklärt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs ist eng mit der Darstellung von Beziehungen und Sexualität in der Popkultur verbunden.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit den Ambiguitäten und Widersprüchen moderner Beziehungen liegen, in denen Verlangen, Unabhängigkeit und emotionale Verletzlichkeit aufeinandertreffen."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse von wiederkehrenden Motiven („Ride it“ als Metapher).",
+          "Verknüpfung von konkreten Songzeilen mit übergeordneten Themen (Kontrolle vs. Loslassen)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs ist eng mit der Darstellung von Beziehungen und Sexualität in der Popkultur verbunden.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit der Balance zwischen Unabhängigkeit und Abhängigkeit in Beziehungen gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textdetails (z. B. „Mojito“, „Kanye’s Song“) mit einer urban‑kosmopolitischen Bildsprache.",
+          "Konsistente Interpretation des Refrains als Ausdruck von Sehnsucht und Kontrollverlust."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs spiegelt die Ambiguitäten und Spannungen wider, die in modernen Beziehungen auftreten können.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit den widersprüchlichen Bedürfnissen nach Unabhängigkeit und Intimität, nach Kontrolle und Hingabe gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Erweiterte Analyse der emotionalen Kontraste (Intimität vs. Distanz, Verlangen vs. Ablehnung).",
+          "Bezugnahme auf spezifische Textstellen, die die Konfliktdynamik verdeutlichen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs ist eng mit der Darstellung von Beziehungen und Sexualität in der Popkultur verbunden.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit der Balance zwischen Unabhängigkeit und Abhängigkeit in Beziehungen gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Songtext‑Elementen mit einer übergeordneten Analyse von Macht‑ und Kontrollthemen.",
+          "Konsistente Nutzung von Metaphern, um die innere Spannung der Protagonisten zu erklären."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, wodurch die Varianz gering ist. Die Unterschiede liegen hauptsächlich im Umfang der oberflächlichen Aussagen.",
+    "empfehlung": "Interpretation 2 bietet die ausgewogenste Mischung aus textnaher Analyse und tiefergehender, aber belegbarer Interpretation, ohne unnötige Allgemeinplätze. Ein Ansatz, der konkrete Textbelege nutzt und gleichzeitig die mehrdeutigen Spannungen des Songs herausarbeitet, ist am erfolgversprechendsten."
+  }
+}

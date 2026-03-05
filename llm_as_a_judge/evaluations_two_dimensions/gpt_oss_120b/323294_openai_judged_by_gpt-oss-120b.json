@@ -1,0 +1,108 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Diese Bilder erzeugen eine ätherische Szenerie, in der das irdische Ich in völliger Ruhe und Glückseligkeit verweilt“ – sehr vage, keine konkrete Textanalyse",
+          "„Insgesamt vermittelt das Lied eine Vision von unerschütterlicher Zuversicht“ – allgemeine Aussage ohne Textbeleg"
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich direkt aus dem Lied ableiten",
+          "Klare Strukturierung von Einleitung, Refrain, Visionen und Schluss",
+          "Erkennt die Wiederholungsfunktion des Refrains als meditativen Anker"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„paradoxe christliche Vorstellung von Unterwerfung als Quelle von Freude“ – Interpretation, aber nicht konkret im Text belegt"
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse, kaum spekulative Ergänzungen",
+          "Erklärt die Funktion von Wiederholungen und deren meditative Wirkung",
+          "Verknüpft Bildsprache (Engel, Rapture) mit theologischen Konzepten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„...die in der Nachkriegszeit besonders resonierte“ – historischer Kontext, nicht aus dem Text ableitbar",
+          "„...das 1950er‑Jahre‑Gefühl von Hoffnung und Wiedergeburt widerspiegelt“ – spekulative Kultur‑Einordnung"
+        ],
+        "oberflächliche_aussagen": [
+          "„...das zentrale Motiv der sicheren Zugehörigkeit zu Christus darstellt“ – sehr allgemeine Formulierung",
+          "„...das beständige Feiern des Heils“ – vage, ohne Textbeleg"
+        ],
+        "positive_aspekte": [
+          "Gute Verbindung von Bildsprache zu theologischen Themen",
+          "Erkennt die strukturelle Wiederholung des Refrains",
+          "Bietet eine nachvollziehbare, wenn auch leicht spekulative, Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„...eine tief verwurzelte, allumfassende christliche Identität“ – sehr allgemeine Aussage"
+        ],
+        "positive_aspekte": [
+          "Konsistente, textbasierte Argumentation",
+          "Erklärt die Paradoxie von „perfect submission“ und „perfect delight“",
+          "Betont die liturgische Funktion des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„...in den frühen 1950er‑Jahren – einer Zeit des Wiederaufbaus und des kollektiven Optimismus nach dem Zweiten Weltkrieg“ – historischer Kontext, nicht im Text verankert",
+          "„...die fast greifbare Besitzergreifung darstellt“ – spekulative Formulierung"
+        ],
+        "oberflächliche_aussagen": [
+          "„...ein persönliches Glaubensbekenntnis‑Ästhetik“ – vage, ohne weitere Analyse",
+          "„...ein fast liturgisches Mantra“ – allgemeine Beschreibung"
+        ],
+        "positive_aspekte": [
+          "Verknüpft Text mit einer plausible‑historischen Lesart (auch wenn nicht belegt)",
+          "Analysiert die Wiederholungsstruktur und deren meditative Wirkung",
+          "Erkennt die eschatologischen Visionen (Rapture, Engel) im Text"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen erfassen die zentrale Wiederholung von Refrain und die eschatologischen Bilder. Die Varianz liegt vor allem in der Einbindung historischer Kontextualisierungen – einige Interpretationen bleiben rein textnah, andere fügen spekulative Nachkriegs‑Bezüge hinzu.",
+    "empfehlung": "Eine optimale Analyse bleibt eng am Text, erkennt strukturelle Wiederholungen und bietet gleichzeitig eine differenzierte, aber belegbare theologische Lesart. Interpretation 1 (und 2) zeigen das beste Gleichgewicht zwischen Faktentreue und analytischer Tiefe."
+  }
+}

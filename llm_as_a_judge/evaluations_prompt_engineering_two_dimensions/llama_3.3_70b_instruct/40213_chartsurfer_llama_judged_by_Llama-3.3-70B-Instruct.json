@@ -1,0 +1,99 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Yesterday the moon was blue' symbolisiert die Romantik und die Träumerei der Jugend"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Jugend als eine Zeit der Unschuld und des Übermuts dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern und Symbolen wird gut analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs wird unterstrichen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist umfassend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Jugend als 'ein foolish game' dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Intensität und die Unbeschwertheit der Jugend werden verdeutlicht"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern wird erwähnt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Jugend als 'ein foolish game' dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Unbeschwertheit und die Leichtsinnigkeit der Jugendzeit symbolisiert"
+        ],
+        "positive_aspekte": [
+          "Die emotionale Wirkung des Liedes wird angesprochen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Jugend als 'ein foolish game' dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Unbeschwertheit und die Leichtsinnigkeit der Jugendzeit symbolisiert"
+        ],
+        "positive_aspekte": [
+          "Die emotionale Wirkung des Liedes wird angesprochen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 4 und 5 sind sehr ähnlich und könnten als Wiederholungen betrachtet werden",
+    "empfehlung": "Die Interpretationen 1 und 2 bieten eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole ist in 'Ale Ale' auffällig.",
+          "Die wiederholte Nennung von Luxusmarken dient als Statussymbol und unterstreicht den Reichtum und die Macht des Protagonisten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick durch seine explizite Sprache und aggressive Tonalität auffällt.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind stark von Aggression und einer gewissen Verachtung gegenüber anderen geprägt."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint eine Darstellung von Macht, Überlegenheit und einer gewissen Lässigkeit gegenüber Kritik und Neid zu sein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die literarischen Stilmittel in 'Ale Ale' sind vielfältig und umfassen Metaphern, Symbole und Narrative, die zur Konstruktion von Identität, Macht und Überlegenheit eingesetzt werden.",
+          "Die wiederholte Nennung von Luxusmarken dient möglicherweise als Statussymbol und Ausdruck von Reichtum und Erfolg."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick durch seine explizite Sprache und aggressive Tonalität auffällt.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind stark von Aggression, Verachtung und einer gewissen Lüsternheit geprägt."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint eine Mischung aus Selbstbehauptung, Provokation und einer gewissen Verachtung gegenüber anderen zu sein."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die literarischen Stilmittel in 'Ale Ale' sind vielfältig und umfassen Metaphern, Symbole und Narrative, die zur Konstruktion von Identität, Macht und Überlegenheit eingesetzt werden.",
+          "Die wiederholte Nennung von Luxusmarken dient möglicherweise als Statussymbol und Ausdruck von Reichtum und Erfolg."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick durch seine explizite Sprache und aggressive Tonalität auffällt.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind stark von Aggression, Verachtung und einer gewissen Lüsternheit geprägt."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint eine Mischung aus Selbstbehauptung, Provokation und einer gewissen Verachtung gegenüber anderen zu sein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die literarischen Stilmittel in 'Ale Ale' sind vielfältig und umfassen Metaphern, Symbole und Narrative, die zur Konstruktion von Identität, Macht und Überlegenheit eingesetzt werden.",
+          "Die wiederholte Nennung von Luxusmarken dient möglicherweise als Statussymbol und Ausdruck von Reichtum und Erfolg."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick durch seine explizite Sprache und aggressive Tonalität auffällt.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind stark von Aggression, Verachtung und einer gewissen Lüsternheit geprägt."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint eine Mischung aus Selbstbehauptung, Provokation und einer gewissen Verachtung gegenüber anderen zu sein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Ich fick' jeden, den du liebst' und die zahlreichen Wiederholungen dieses Motivs erzeugen eine Atmosphäre der Bedrohung und des Hasses."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick durch seine explizite Sprache und aggressive Tonalität auffällt."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint eine Mischung aus Selbstbehauptung, Provokation und einer gewissen Verachtung gegenüber anderen zu sein.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind stark von Aggression, Verachtung und einer gewissen Lüsternheit geprägt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 1.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, jedoch mit leichten Variationen in der Tiefe und dem Halluzinationsscore.",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

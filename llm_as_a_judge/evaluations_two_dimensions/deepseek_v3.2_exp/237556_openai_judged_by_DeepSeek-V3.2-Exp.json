@@ -1,0 +1,99 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik, getragen von Springfields warmem Timbre, unterstreicht die Verletzlichkeit und den unerschütterlichen Optimismus"
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die schlichte, fast kindliche Wortwahl entsteht ein Gefühl von Unmittelbarkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Sehnsucht nach Nähe und die Unsicherheit über die Gegenseitigkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die häufige Wiederholung von „I don’t know“ und „wrong or right“ die innere Unsicherheit der Sprecherin betont"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeichnet ein Bild von jugendlicher, fast naiver Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Kontraste zwischen emotionaler Leere und euphorischer Beschleunigung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das „Weinen“ wird zum Symbol für das Unvermögen, die Leere zu füllen"
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die schlichte, fast kindliche Sprache entsteht ein Gefühl von Unmittelbarkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Hoffnung als zentrales Motiv und die Unsicherheit über die Gegenseitigkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das typische Spannungsfeld von Liebe und Angst wider, das in vielen Pop‑Balladen der späten 60er‑ und frühen 70er‑Jahre zu finden ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt ein Bekenntnis, das nicht nach rationaler Klärung sucht, sondern nach emotionaler Wiedervereinigung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Dringlichkeit des Wunsches und die bedingungslose Akzeptanz der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Warten wird zur Qual, das Wiedersehen zum Fluchtpunkt aller Hoffnungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt damit ein eindringliches Porträt einer Frau, die in der Ungewissheit des Wartens Trost in der Hoffnung auf ein baldiges Wiedersehen findet"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Sehnsucht nach Nähe und die Unsicherheit über die Gegenseitigkeit der Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die vierte Interpretation sticht durch ihre textnahe Analyse und ihre tiefere Einsicht in die Songstruktur hervor"
+  }
+}

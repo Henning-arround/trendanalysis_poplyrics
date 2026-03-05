@@ -1,0 +1,98 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die romantische Idealisierung von Fernweh und Verbundenheit"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Spannung zwischen Freiheit und Eingrenzung",
+          "Gute Textbelege für die Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Vielseitigkeit der Welt, die der Sprecher für die Geliebte bereithält"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Bindung betont und zugleich ein leicht kontrollierendes Unterton trägt"
+        ],
+        "positive_aspekte": [
+          "Gute Beschreibung der Abhängigkeit und des Bewusstseins, dass beide Partner ohne den anderen ein Gefühl der Leere verspüren"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sinnlichkeit des Erlebens"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Spannung zwischen Freiheit und Kontrolle",
+          "Detaillierte Beschreibung der emotionalen Bindung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Freiheit des Reisenden mit einer Besitzansage verknüpft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Bindung als unverrückbare Konstante präsentiert"
+        ],
+        "positive_aspekte": [
+          "Gute Beschreibung der wechselseitigen Abhängigkeit",
+          "Detaillierte Analyse der Sehnsucht nach einem gemeinsamen Zuhause"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Freiheit der Reise in ein Gefängnis aus emotionaler Bindung verwandelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach Nähe und Kontrolle zugleich ausdrückt"
+        ],
+        "positive_aspekte": [
+          "Gute Beschreibung der Angst vor Einsamkeit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten bieten eine gute Mischung aus Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Spannung zwischen Freiheit und Eingrenzung bietet und keine erfundenen Aussagen enthält"
+  }
+}

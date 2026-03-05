@@ -1,0 +1,120 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Lordy“ fungiert als emotionaler Ausruf, der die Dringlichkeit des Gesprochenen verstärkt und zugleich eine fast sakrale Qualität verleiht, als wolle der Sänger das Begehren fast als Gebet formulieren.",
+          "Das Wort „bad“ wird als Hinweis auf lebensnotwendige Abhängigkeit interpretiert.",
+          "Der klare Himmel impliziert einen Übergang von Ungewissheit zu Gewissheit.",
+          "Die Aussage, das Lied spiegele die typische Post‑Krieg‑Romantik wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein einfacher, aber intensiver Bekenntnis zu Liebe, Sehnsucht und körperlicher Nähe.",
+          "Das Bild des klaren Himmels symbolisiert Hoffnung."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederholte Struktur des Textes (z. B. das mehrfache Auftreten von „Lordy“ und den Refrains).",
+          "Er verbindet die Metapher des Himmels mit einer emotionalen Entwicklung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anrede „Lordy“ wirkt wie ein fast liturgischer Aufruf, der eine emotionale Distanz zwischen Sprecher und Hörer schafft.",
+          "Das Wort „bad“ lässt das Bedürfnis nach Nähe fast als lebensnotwendig erscheinen.",
+          "Der Bildwechsel zur „clearing sky“ suggeriert, dass die Trennung seelisch von Dunkelheit geprägt war.",
+          "Der Song finde in der Nachkriegszeit ein starkes Echo."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kraftvoller Ausdruck von Sehnsucht, Hoffnung und dem Wunsch nach Vereinigung."
+        ],
+        "positive_aspekte": [
+          "Er benennt die zentrale Wiederholung von „Lordy“ und den Refrain‑Zeilen.",
+          "Er stellt einen klaren narrativen Bogen von Verlangen zu Wiedervereinigung her."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Lordy“ wirkt wie ein verzweifelter Ruf nach göttlicher Hilfe.",
+          "Durch die Wiederholung entsteht ein hypnotischer Rhythmus, der die innere Unruhe des Sängers widerspiegelt.",
+          "Das Bild des klar werdenden Himmels löst die Dunkelheit, sobald die Geliebte näher kommt.",
+          "Der Song sei ein Zeugnis für die emotionale Direktheit, die Fats Domino auszeichnet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text handelt von unerfüllter Sehnsucht."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die strukturelle Wiederholung von Zeilen.",
+          "Er verbindet das Wetterbild mit einer emotionalen Aufhellung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Lordy“ ist ein verzweifelter Ruf nach göttlicher Hilfe.",
+          "Die Wiederholung erzeugt einen hypnotischen Rhythmus, der die innere Unruhe des Protagonisten widerspiegelt.",
+          "Das Bild des „clearing sky“ symbolisiert das Aufblühen von Hoffnung und Erwartung.",
+          "Der Song verbindet einfache, repetitive Phrasen mit einer tiefen emotionalen Resonanz."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song behandelt das Motiv unerfüllter Sehnsucht."
+        ],
+        "positive_aspekte": [
+          "Er erwähnt die wiederholte Struktur des Textes.",
+          "Er stellt einen Zusammenhang zwischen Wettermetapher und emotionaler Erwartung her."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Lordy“ wirkt wie ein verzweifelter Ruf nach göttlicher Hilfe.",
+          "Durch die doppelte Wiederholung entsteht ein hypnotischer Rhythmus, der das innere Pochen des Herzens nach körperlicher Nähe widerspiegelt.",
+          "Der klare Himmel ist ein Symbol für das Aufhellen der emotionalen Lage, sobald die Geliebte näher kommt.",
+          "Der Text verbindet fast kindliche Wiederholungen mit tiefer emotionaler Dringlichkeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von Verlust und Wiedervereinigung."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die mehrfache Wiederholung von Zeilen.",
+          "Er verknüpft das Wetterbild mit einer emotionalen Auflösung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen ein ähnliches Muster: sie wiederholen dieselben Grundgedanken und enthalten überwiegend spekulative Aussagen, wodurch die Varianz gering ist.",
+    "empfehlung": "Ein besserer Ansatz wäre, stärker zwischen reinen Textbeobachtungen (z. B. Wiederholungen, wörtliche Zitate) und interpretativen, aber textbasierten Analysen zu unterscheiden und spekulative historische oder biografische Kontextualisierungen zu vermeiden, sofern sie nicht klar aus dem Songtext ableitbar sind."
+  }
+}

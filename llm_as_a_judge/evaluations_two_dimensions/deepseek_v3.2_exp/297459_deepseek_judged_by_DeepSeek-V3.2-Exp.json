@@ -1,0 +1,89 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Skipping Like A Stone' ein emotionaler und vielschichtiger Song, der sich mit den Herausforderungen des Lebens auseinandersetzt und die Hoffnung auf menschliche Verbindung und Erneuerung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Themen Einsamkeit, Verunsicherung und Sehnsucht und bietet eine plausible Erklärung für den Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Skipping Like A Stone' ein emotionaler und vielschichtiger Song, der sich mit den Komplexitäten menschlicher Emotionen und Erfahrungen auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und textbezogene Analyse der Songthemen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Skipping Like A Stone' ein emotionaler und vielschichtiger Song, der sich mit den Komplexitäten menschlicher Emotionen und Erfahrungen auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und textbezogene Analyse der Songthemen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit einer optimistischen Note, als der Sänger sagt 'I see the sun now'. Dies kann als Symbol für Hoffnung und Erneuerung interpretiert werden, die durch die Unterstützung und die Liebe anderer Menschen möglich wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine plausible Erklärung für den Songtext und beleuchtet die Themen Einsamkeit, Verunsicherung und Sehnsucht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Skipping Like A Stone' ein emotionaler und vielschichtiger Song, der sich mit den Komplexitäten menschlicher Emotionen und Erfahrungen auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und textbezogene Analyse der Songthemen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Songthemen, aber auch eine gewisse Oberflächlichkeit in der Bewertung.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz für weitere Analysen dienen."
+  }
+}

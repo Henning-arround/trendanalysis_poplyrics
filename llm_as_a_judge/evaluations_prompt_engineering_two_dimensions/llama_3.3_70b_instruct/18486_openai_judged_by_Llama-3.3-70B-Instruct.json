@@ -1,0 +1,99 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'a time for peace, I swear it's not too late' kann als implizite Protestaussage gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'time' fungiert als metrisches und semantisches Gerüst"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Antithesen und der biblischen Formel ist sehr detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung entsteht aus der Spannung zwischen dem beruhigenden Rhythmus und den provokanten Gegenüberstellungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textstruktur spiegelt die biblische Quelle aus Prediger 3 wider"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegenüberstellungen und der Wiederholung von 'turn' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'a time to refrain from embracing' erzeugt ein Spannungsfeld zwischen Nähe und Distanz"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains schafft ein rhythmisches Gerüst"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Antithesen und der biblischen Formel ist sehr detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I swear it's not too late' fügt eine persönliche, fast apologetische Note hinzu"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textstruktur spiegelt die biblische Quelle aus Prediger 3 wider"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegenüberstellungen und der Wiederholung von 'turn' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'a time for peace, I swear it's not too late' resoniert als impliziter Appell"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'time' statt von 'choice' lässt Raum für Interpretationen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Antithesen und der biblischen Formel ist sehr detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent in ihrer Analyse der Antithesen und der biblischen Formel",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und Ambivalenzen"
+  }
+}

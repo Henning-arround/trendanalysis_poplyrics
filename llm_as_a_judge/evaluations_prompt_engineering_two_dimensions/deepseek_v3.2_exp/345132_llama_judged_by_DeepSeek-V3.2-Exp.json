@@ -1,0 +1,95 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck der universellen menschlichen Erfahrung von Verlust und Sehnsucht verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Dummies in a showcase / They all seem to come alive' kann beispielsweise als Symbol für die Leere und Oberflächlichkeit der modernen Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und bietet eine tiefere Analyse der Metaphern und Symbole im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Themen der Liebe, Sehnsucht und Verlust sind universell und zeitlos"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'I'll be walkin' 'til my back ain't got no bone' wird zu einem refrainartigen Ausdruck seiner Entschlossenheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck der universellen menschlichen Erfahrung von Verlust und Sehnsucht verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Dummies in a showcase / They all seem to come alive' kann beispielsweise als Symbol für die Leere und Unwirklichkeit der Welt ohne die Geliebte interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der Metaphern und Symbole im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Blues- und Soul-Elementen im Song verweist auf eine lange Tradition von Musik"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'I'll be walkin' 'til my back ain't got no bone' unterstreicht die Intensität der emotionalen Not"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der symbolischen Ordnung von Körper und Seele"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und bietet eine tiefere Analyse der Metaphern und Symbole im Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und Symbole im Song",
+    "empfehlung": "Die beste Interpretation ist die Nummer 5, da sie sehr textbezogen ist und eine tiefe Analyse der Metaphern und Symbole im Song bietet"
+  }
+}

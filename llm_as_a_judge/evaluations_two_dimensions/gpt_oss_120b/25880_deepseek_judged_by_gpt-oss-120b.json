@@ -1,0 +1,128 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Augen, die er als die seiner Geliebten interpretiert, weisen ihm den Weg zur wahren Liebe.",
+          "Die Augen symbolisieren eine tiefe Verbindung und das Gefühl, verstanden und akzeptiert zu werden.",
+          "Durch die Liebe kann der Protagonist seine Augen öffnen und sich selbst finden, geheilt von den Wunden des Schicksals."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von der Suche nach echter Liebe und Verbindung in einer Welt, die oft kalt und herzlos erscheint.",
+          "Durch diese Augen wird der Nebel der Traurigkeit und Hoffnungslosigkeit verdampft, und der Protagonist kann sich von seinen negativen Gefühlen befreien.",
+          "Die wiederkehrende Zeile \"Augen in der Menschenmasse\" unterstreicht die Bedeutung dieser Augen als Leuchtturm in der Dunkelheit.",
+          "Sie folgen ihm, lassen ihn nicht los und führen ihn zur wahren, reinen Liebe tief in ihm.",
+          "Der Song beschreibt die transformative Kraft der Liebe, die es vermag, selbst aus tiefster Verzweiflung herauszuführen und ein neues Lebensgefühl zu schenken."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. Roulette‑Motiv, Hohn und Hass, das Feuer, die Augen).",
+          "Die Interpretation greift wiederkehrende Bildmotive (Augen, Nebel, Feuer) auf und verknüpft sie sinnvoll."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Augen, die als die der geliebten Person interpretiert werden können, weisen ihm den Weg zur wahren Liebe.",
+          "Durch die Anwesenheit der geliebten Person kann der Protagonist von seiner Hoffnungslosigkeit befreit werden und in ihre Augen schauen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von der Suche nach echter Liebe und der Hoffnung, die diese bringt.",
+          "Die wiederkehrende Beschreibung der Augen, die den Protagonisten nicht loslassen, unterstreicht die Intensität der emotionalen Verbindung.",
+          "Insgesamt beschreibt der Song die transformative Kraft der Liebe, die in der Lage ist, selbst aus tiefster Verzweiflung herauszuführen und einen neuen Weg zu weisen."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Textstellen werden wörtlich wiedergegeben (Roulette, Hohn und Hass, Feuer, Augen, Nebel, warme Haut).",
+          "Die Analyse geht über reine Zusammenfassung hinaus und interpretiert die Bildsprache (z. B. „intensive emotionale Verbindung“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Augen symbolisieren die Hoffnung auf eine echte Verbindung und Liebe.",
+          "Sie führen ihn aus der Einsamkeit und dem Schmerz heraus und weisen ihm den Weg zur wahren Liebe.",
+          "Die Augen werden zu einem Symbol der Wärme, der Geborgenheit und der Hoffnung.",
+          "Durch die Begegnung mit dieser Person kann der Protagonist seine Traurigkeit und Hoffnungslosigkeit überwinden.",
+          "Er kann in ihre Augen schauen und sich von seiner Last befreien.",
+          "Die wahre Liebe wird zu einem inneren Feuer, das ihn wieder zum Leben erweckt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von der Suche nach echter Liebe und Verbindung in einer Welt, die von Schmerz, Verlust und Einsamkeit geprägt ist.",
+          "Der Song beschreibt die Sehnsucht nach einer tiefen, reinen und echten Liebe, die den Protagonisten aus seiner Einsamkeit herausführt und ihm ein neues Leben ermöglicht."
+        ],
+        "positive_aspekte": [
+          "Grundlegende Bildmotive (Schicksal, Kugel, Augen, Nebel) werden korrekt wiedergegeben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kugel des Schicksals hat ihn zurückgelassen, und das Feuer, das noch in ihm brannte, droht auszugehen.",
+          "Diese Augen, die er als die seiner Geliebten interpretiert, weisen ihm den Weg zur wahren Liebe.",
+          "Die Augen symbolisieren die Hoffnung und die Möglichkeit, von der Hoffnungslosigkeit befreit zu werden.",
+          "Die Augen der Geliebten sind der Schlüssel zu dieser Liebe, und durch sie kann der Protagonist seine Traurigkeit überwinden und sich neu finden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von der Suche nach echter Liebe und der Hoffnung, die diese bringt.",
+          "Der Song beschreibt die Sehnsucht nach echter Liebe und die Hoffnung, dass diese gefunden werden kann.",
+          "Der Song ist eine emotionale und poetische Beschreibung der Suche nach Liebe und Hoffnung in einer Welt, die oft kalt und herzlos erscheint."
+        ],
+        "positive_aspekte": [
+          "Alle zentralen Textpassagen (Roulette, Hohn und Hass, Feuer, Augen, Nebel) werden erwähnt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kugel des Schicksals hat ihn zurückgelassen, und das Feuer, das noch in ihm brannte, droht auszugehen.",
+          "Diese Augen, die er als die seiner Geliebten interpretiert, weisen ihm den Weg zur wahren Liebe.",
+          "Durch die Augen seiner Geliebten kann er schauen und findet Trost."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von der Suche nach echter Liebe und der Hoffnung, die diese bringt.",
+          "Der Nebel seiner Traurigkeit verdampft an der warmen Haut seiner Geliebten, und er fühlt sich von der Hoffnungslosigkeit befreit.",
+          "Der Song beschreibt die transformative Kraft der Liebe, die den Protagonisten aus seiner dunklen Vergangenheit herausreißt und ihm neue Hoffnung gibt.",
+          "Die wiederkehrende Zeile \"Augen in der Menschenmasse\" unterstreicht die Bedeutung dieser Augen, die den Protagonisten leiten und ihm den Weg zur wahren Liebe weisen.",
+          "Der Song ist eine Hymne an die Liebe, die Menschen in schwierigen Zeiten Hoffnung und Trost spendet."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe der wichtigsten Bildmotive (Roulette, Hohn und Hass, Feuer, Augen, Nebel, warme Haut).",
+          "Versucht, die emotionale Entwicklung des Protagonisten zu skizzieren."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die fünf Analysen wiederholen dieselben Grundthemen (Roulette, Hohn & Hass, Feuer, Augen, Nebel). Die Varianz im Halluzinations‑Score ist gering (2–3) und im Tiefen‑Score (2–4), was auf ein relativ konsistentes, aber teils oberflächliches Interpretationsmuster hindeutet.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance aus Texttreue und analytischer Tiefe. Zukünftige Modelle sollten darauf achten, spekulative Deutungen klar als Interpretation zu kennzeichnen und mehr differenzierte, mehrschichtige Analysen zu bieten, anstatt generische Aussagen zu wiederholen."
+  }
+}

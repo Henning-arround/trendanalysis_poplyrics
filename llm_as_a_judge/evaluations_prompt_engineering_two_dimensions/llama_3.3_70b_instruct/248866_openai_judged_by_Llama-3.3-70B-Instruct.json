@@ -1,0 +1,104 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-9/11-Unsicherheiten als direkter Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Faszination des frühen 21. Jahrhunderts für das Groteske"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der kulturellen Traditionen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die direkte Beziehung zur finnischen Hard-Rock-Tradition ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Instabilität einer scheinbar sicheren Ordnung'"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Spannung zwischen Sichtbarkeit und Unsichtbarkeit",
+          "Berücksichtigung der Wiederholungen als rituelle Beschwörung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische Zuordnung der 'trolls' zu folkloristischen Figuren ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'finnische Heavy-Metal-Tradition'"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der Ambiguität zwischen realen Ängsten und popkulturellen Archetypen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die direkte Beziehung zur post-9/11-Unsicherheit ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Unzuverlässigkeit der Wahrnehmung'"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Diskontinuität zwischen Tag- und Nachtwelt",
+          "Berücksichtigung der Wiederholungen als Leitmotiv"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische Zuordnung der 'Nacht' zu marginalisierten Subkulturen ohne klare Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Horror-Rock-Ästhetik'"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Ambivalenz zwischen Sicherheit und Gefahr",
+          "Berücksichtigung der offenen Deutungsmöglichkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und Symbolik, aber variieren in der Zuordnung zu spezifischen kulturellen oder historischen Kontexten.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf textbasierten Analysen liegen, wobei Ambiguitäten und Mehrdeutigkeiten berücksichtigt werden. Es ist wichtig, zwischen allgemeinen Aussagen und spezifischen Textbelegen zu unterscheiden."
+  }
+}

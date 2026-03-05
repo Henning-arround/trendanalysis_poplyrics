@@ -1,0 +1,103 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes und vielschichtiges Werk, das sich einer einfachen Interpretation entzieht.",
+          "Die Texte sind geprägt von surrealen und oft absurd anmutenden Bildern, die sich zu einer Art Traumwelt zusammenfügen.",
+          "Die wiederkehrenden Motive könnten auf Ekstase, Befreiung oder Verführung hinweisen."
+        ],
+        "positive_aspekte": [
+          "Er benennt viele konkrete Bildungen aus dem Text (z. B. „Tremor im Handgelenk“, „Brennender Tennisballhaufen“, „Fantomas“).",
+          "Er versucht, einzelne Wortgruppen zu interpretieren und liefert damit Ansatzpunkte für weiterführende Analysen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes und vielschichtiges Werk, das sich einer einfachen Interpretation entzieht.",
+          "Die Texte erzeugen eine Atmosphäre von Verwirrung und Chaos.",
+          "Die Wiederholung bestimmter Bilder schafft einen Rhythmus, ohne klare Botschaft."
+        ],
+        "positive_aspekte": [
+          "Er erkennt korrekt die surreale Bildsprache und die Wiederholungen im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes und vielschichtiges Werk, das sich einer einfachen Interpretation entzieht.",
+          "Die Erwähnung von „Tremor im Handgelenk“ könnte auf Angst hinweisen.",
+          "Wiederkehrende Motive deuten auf Zirkularität und Endlosschleife hin."
+        ],
+        "positive_aspekte": [
+          "Er listet präzise Textstellen (z. B. „Capoeira‑Tänzchen“, „Spiegelquartett“, „gleiche Bild wie in der ersten Hookline“).",
+          "Er verbindet Bildwiederholungen mit dem Konzept einer zirkulären Struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes und vielschichtiges Werk, das sich einer einfachen Interpretation entzieht.",
+          "Die Motive könnten auf Verkleidung, Maskierung oder Verführung hinweisen.",
+          "Die Texte sind von Ironie und Selbstreflexion geprägt."
+        ],
+        "positive_aspekte": [
+          "Er geht über reine Bildbeschreibung hinaus und versucht, mögliche emotionale Bedeutungen (z. B. Nervosität, Angst) zuzuordnen.",
+          "Er erkennt die Vielschichtigkeit der Themen (Gewalt, Sex, Tod, Oberflächlichkeit)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes und vielschichtiges Werk, das sich einer einfachen Interpretation entzieht.",
+          "Die Motive deuten auf eine Auseinandersetzung mit der Rolle der Kunst in der Gesellschaft hin.",
+          "Der Song kann als Kommentar zu gesellschaftlichen Normen gelesen werden."
+        ],
+        "positive_aspekte": [
+          "Er verknüpft konkrete Textstellen (Horrorclowning, bewaffnete Braut, Capoeira‑Tänzchen) mit einer übergeordneten Analyse von Pop‑Kultur‑ und Normkritik.",
+          "Er liefert eine kohärente Lesart, die sowohl Bildmaterial als auch mögliche gesellschaftliche Implikationen berücksichtigt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Komplexität, Surrealität, fehlende klare Narrative). Die Varianz liegt hauptsächlich im Detailgrad der Analyse; Interpretation 4 bietet die tiefste, textbezogene Auswertung.",
+    "empfehlung": "Interpretation 4 ist am ausgewogensten: sie bleibt faktentreu, liefert konkrete Textbezüge und verbindet diese mit einer fundierten, aber nicht übertrieben spekulativen Analyse. Für zukünftige Bewertungen sollte man darauf achten, mehr differenzierte, textbasierte Argumente zu liefern und vage Generalisierungen zu vermeiden."
+  }
+}

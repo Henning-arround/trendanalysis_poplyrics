@@ -1,0 +1,99 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die lyrische Stimme von Jay Sean spricht in einem vertraulichen Ton, der von einer leichten Melancholie durchzogen ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Frage 'Do you remember?' fungiert dabei nicht nur als Rückblick, sondern als rhetorisches Mittel"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft nostalgische Sehnsucht mit einer klaren Aufforderung zum Neubeginn"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten Zeilen 'There’s nothing left to say, don’t waste another day' fungieren als Dringlichkeits­signal"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft nostalgische Sehnsucht mit einer Einladung, die vergangene Romanze neu zu entfachen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Ambivalenz des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stimmen von Jay Sean, Sean Paul und Lil Jon schaffen ein dynamisches Dialogfeld"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain fungiert als kollektiver Gedächtnisaufruf"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation vermittelt die Botschaft, dass vergangene Liebe nicht verloren, sondern als Ressource für ein erneutes Erleben dienen kann"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die lyrische Struktur ist bewusst simpel gehalten"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft nostalgische Sehnsucht mit einer klaren Aufforderung zum Neubeginn"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Wiederholung als Mittel zur Legitimation des gegenwärtigen Begehrens"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einbindung von Lil Jon und Sean Paul liefert ein energetisches, clubtaugliches Fundament"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain fungiert als Mantra, das den Wunsch nach Wiederherstellung einer früheren Intimität betont"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation vermittelt, dass das Wiederaufleben alter Gefühle nicht nur möglich, sondern durch das kollektive Erleben von Musik und Tanz beschleunigt wird"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt und die Ambivalenzen des Textes berücksichtigt"
+  }
+}

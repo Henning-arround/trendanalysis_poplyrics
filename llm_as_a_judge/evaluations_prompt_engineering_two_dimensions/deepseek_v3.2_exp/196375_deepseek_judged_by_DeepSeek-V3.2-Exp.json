@@ -1,0 +1,88 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent"
+        ],
+        "positive_aspekte": [
+          "Analyse von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent"
+        ],
+        "positive_aspekte": [
+          "Analyse von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent"
+        ],
+        "positive_aspekte": [
+          "Analyse von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent"
+        ],
+        "positive_aspekte": [
+          "Analyse von Symbolen und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textbezogene Analyse",
+          "Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-4 zeigen eine hohe Konsistenz, aber auch eine gewisse Oberflächlichkeit. Interpretation 5 sticht durch ihre Tiefe und Textbezogenheit hervor.",
+    "empfehlung": "Es ist empfehlenswert, Interpretationen nach ihrer Textbezogenheit und analytischen Tiefe zu bewerten, anstatt sich auf Allgemeinplätze oder kreative, aber unbelegte Aussagen zu verlassen."
+  }
+}

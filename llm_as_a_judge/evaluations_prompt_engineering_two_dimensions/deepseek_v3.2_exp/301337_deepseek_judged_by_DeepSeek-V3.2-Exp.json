@@ -1,0 +1,97 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von japanischen Begriffen wie 'Ichi, Ni, San' kann als ein Hinweis auf die kulturelle Hybridität und die Verbindung von unterschiedlichen kulturellen Traditionen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Aufruf zur Individualität und zum Widerstand gegen Konformität interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs und liefert eine detaillierte Analyse der Textstruktur."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Beitrag zu dieser kulturellen Debatte um Individualität und Konformität interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Ermutigung und Provokation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Textstruktur und berücksichtigt den kulturellen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von japanischen Begriffen wie 'Ichi, Ni, San' kann als ein Zeichen für die zunehmende Globalisierung und kulturellen Austausch interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Ausdruck der damaligen Popkultur interpretiert werden, die von einer zunehmenden Individualisierung und Selbstverwirklichung geprägt war."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine detaillierte Analyse der Textstruktur und berücksichtigt den kulturellen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Beitrag zu dieser kulturellen Debatte um Individualität und Konformität interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Ermutigung und Provokation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Textstruktur und berücksichtigt den kulturellen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die repetitive Verwendung des Refrains 'Get in, fit in, get in, get out' kann als eine Art von gemeinschaftlicher Erfahrung und Zugehörigkeit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine detaillierte Analyse der Textstruktur und berücksichtigt den kulturellen Kontext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die beste Interpretation ist die Nummer 1, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

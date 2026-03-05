@@ -1,0 +1,105 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das post‑milleniale Klima um 2000 einordnen, das von technologischem Fortschritt, Globalisierung und dem Ende des 20. Jahrhunderts‑Narrativs geprägt war.",
+          "Die wiederholte Betonung des Abschieds spiegelt ein kollektives Bewusstsein für das Verblassen alter Ordnungen wider, während das unaufhaltsame „emerging“ die aufkommende digitale Kultur antizipiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch arbeitet Gabriel mit Bildlichkeit und Symbolik, die das Unbestimmte betonen."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Textbezüge (Wiederholungen, Metaphern, Bildsprache).",
+          "Klare Analyse der Spannungsfelder zwischen Unvermeidlichkeit und Abschied.",
+          "Erkennt die Mehrdeutigkeit von „something stirring outside“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in den Kontext der späten 1990er‑ und frühen 2000er‑Jahre einordnen, einer Phase des digitalen Umbruchs und globalen Wandels, in der traditionelle Strukturen („old world“) zunehmend von neuen, emergenten Technologien und Ideologien („next emerging“) verdrängt wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, textnahe Analyse aller wiederkehrenden Motive.",
+          "Verknüpft Metaphern (Gewebe, Stoff) konsequent mit Themen von Identität und Geschichte.",
+          "Balanciert spekulative Kontextualisierung mit klarer Textbegründung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen ... reflektieren ein postmodernes Bewusstsein von Unkontrollierbarkeit, das in der Kultur der späten 1990er‑Jahre verbreitet war."
+        ],
+        "oberflächliche_aussagen": [
+          "Historisch lässt sich das Stück in das Jahr 2000 einordnen, ein Zeitpunkt, an dem das neue Millennium ... Ängste vor dem Verlust traditioneller Strukturen hervorrief."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Wiederholungen mit hypnotischer Rhythmik.",
+          "Starke Bildanalyse (Weben, Stoff).",
+          "Erkennt die Ambiguität zwischen Abschied und Aufbruch."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das Ende des 20. Jahrhunderts einordnen, einer Phase globaler Globalisierung, technologischer Beschleunigung und kultureller Hybridisierung.",
+          "Der „old world’s falling“ kann als Hinweis auf das Ende kolonialer und industrieller Paradigmen gelesen werden, während das „next emerging“ die aufkommende digitale Vernetzung symbolisiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Analyse der Leitmotivik und der dialektischen Spannung.",
+          "Klare Erläuterung der Bildsprache (Gewebe, Ohnmacht vs. Weben).",
+          "Erkennt die offene Interpretation des „turning“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in den Kontext der späten 1990er‑Jahre einordnen, einer Phase globaler Globalisierungs‑ und Digitalisierungsprozesse, die traditionelle Wirtschafts‑ und Kulturordnungen destabilisierten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse der wiederholten Formeln und ihrer Wirkung.",
+          "Gute Verknüpfung von Bildsprache (Stoff, Slipping Away) mit emotionalen Implikationen.",
+          "Erkennt die Spannung zwischen individueller Ohnmacht und kollektiver Verantwortung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass alle Interpretationen die wiederholenden Motive des Songs korrekt erfassen. Halluzinationsraten variieren zwischen 3 % und 25 %, wobei Interpretation 5 die geringste spekulative Belastung bei gleichzeitig höchster analytischer Tiefe aufweist.",
+    "empfehlung": "Für zukünftige Bewertungen sollte das Modell darauf achten, historische und kulturelle Kontextualisierungen nur dann zu verwenden, wenn sie klar aus dem Text ableitbar sind. Interpretation 5 demonstriert, wie man textnahe Analyse mit tiefgehender, aber begründeter Kontextualisierung kombiniert, ohne unnötige Spekulationen."
+  }
+}

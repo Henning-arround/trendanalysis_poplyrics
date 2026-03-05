@@ -1,0 +1,99 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von 'tomorrow' als rettender Horizont spiegelt das kollektive Verlangen nach einem Neustart nach den Krisen der 1970er wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Offenheit lässt Raum für multiple Deutungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Wiederholung von 'One day tomorrow' und die Gegenüberstellung von Hoffnung und Verlust"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das wiederholte 'Morgen' spiegelt das kollektive Verlangen nach einem Neustart nach den Krisen der 1970er"
+        ],
+        "oberflächliche_aussagen": [
+          "Die unaufgelösten Widersprüche illustrieren die Unsicherheit einer Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Spannung zwischen Fortschritt und Verlust"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1975 entstandene Produktion fällt in eine Phase post-1960er-Utopien"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'nothing will be left to destroy' kann als Hinweis auf Erschöpfung nach langen Kämpfen gelesen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Wiederholung von 'One day tomorrow' und die Ambivalenz zwischen Hoffnung und Verlust"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textpassage 'There will come a time of joy' spiegelt das damalige Ideal einer post-Vietnam-Entspannung wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Struktur lässt bewusst Raum für Widersprüche"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Spannung zwischen Erinnerung und Neuanfang"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass 'nothing will be left to destroy' nach Erfüllung aller Träume folgt, spiegelt ein post-optimistisches Weltbild wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Unschärfe lässt den Hörer zwischen Hoffnung und Resignation schwanken"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Wiederholung von 'One day tomorrow' und die Ambivalenz zwischen Hoffnung und Verlust"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

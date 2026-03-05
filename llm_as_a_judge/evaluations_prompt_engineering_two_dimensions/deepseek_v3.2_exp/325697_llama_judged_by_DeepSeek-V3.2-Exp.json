@@ -1,0 +1,99 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You gave me a love which failed to make me feel / Even with your kissing me, that it was something real' zeigt eine Ambiguität und Spannung zwischen der Sehnsucht nach Liebe und der Enttäuschung, die durch eine unerfüllte Beziehung entsteht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer echten und tiefen Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext des Liedes und liefert eine tiefere Analyse der Textzeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in einer Zeit, in der die traditionellen Rollenbilder und Beziehungsstrukturen in Frage gestellt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'The most memorable moment in my life / Will be when you belong to me' kann als Metapher für die Erfüllung und den Höhepunkt des Lebens verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der literarischen Stilmittel und ihrer emotionalen Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'There'd be no day in my life / That could be sad or blue' deutet darauf hin, dass die Liebe die Fähigkeit hat, alle negativen Emotionen zu überwinden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer echten und tiefen Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der symbolischen Ordnung der Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in einer Zeit, in der die traditionellen Rollenbilder und Beziehungsstrukturen in Frage gestellt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'The most memorable moment in my life / Will be when you belong to me' kann als Metapher für die Erfüllung und den Höhepunkt des Lebens verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der literarischen Stilmittel und ihrer emotionalen Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You gave me a love which failed to make me feel' zeigt auch eine gewisse Enttäuschung und Unsicherheit, die die Sehnsucht nach einer echten Liebe noch verstärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer echten und tiefen Liebe."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der symbolischen Ordnung der Liebe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in ihrer Bewertung.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt den kulturellen und historischen Kontext des Liedes."
+  }
+}

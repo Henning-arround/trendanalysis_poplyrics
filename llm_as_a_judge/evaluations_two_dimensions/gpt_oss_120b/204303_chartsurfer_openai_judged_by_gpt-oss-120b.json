@@ -1,0 +1,130 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ... offenbart eine intime Sehnsucht nach persönlicher Zuwendung, die über die bloße Unterhaltung hinausgeht.",
+          "Der Sprecher richtet sich direkt an den Sänger, hier symbolisch als „Mr. C.“ – ein Hinweis auf Perry Como, dessen sanfte Baritonstimme als beruhigender Anker fungiert.",
+          "Das wiederholte „Sing to me“ fungiert dabei als Bitte um ein exklusives Erlebnis, das die alltägliche Hektik ausblendet und einen geschützten Raum schafft, in dem nur die Stimme des Künstlers zählt.",
+          "Die Zeile „The song that I've been waiting to hear“ suggeriert, dass das Gesuchte nicht irgendein Lied, sondern ein bestimmtes Stück ist, das eine tiefe emotionale Resonanz auslöst – vielleicht ein Lied, das Erinnerungen weckt oder ein inneres Bedürfnis nach Trost befriedigt.",
+          "Indem der Sprecher betont, dass das Lied „just for me“ sein soll, wird das Verhältnis zwischen Künstler und Publikum zu einer fast privaten Konversation, in der die Öffentlichkeit und das „Everybody else“ in den Hintergrund treten.",
+          "Das Verschwinden der anderen verstärkt die Idee, dass Musik als Fluchtmittel dient, das die Grenzen des Individuums erweitert und gleichzeitig ein Gefühl von Exklusivität erzeugt."
+        ],
+        "oberflächliche_aussagen": [
+          "In der Gesamtheit vermittelt das Stück die Vorstellung, dass ein einzelner Gesang nicht nur Unterhaltung, sondern ein Akt der emotionalen Heilung sein kann, der den Hörer aus der Masse heraushebt und ihm ein Gefühl von persönlicher Anerkennung und Geborgenheit schenkt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Bezugnahme auf die konkreten Textzeilen („Sing to me“, „just for me“, „everybody else“).",
+          "Versucht, die emotionale Funktion des Songs zu erklären, anstatt nur allgemeine Floskeln zu wiederholen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ... offenbart eine intime Sehnsucht nach persönlicher Zuwendung, die über das bloße Hören von Musik hinausgeht.",
+          "Der Sprecher richtet sich direkt an den Sänger – in diesem Fall Perry Como, der als „Mr. C.“ verkörpert wird – und fordert ein Lied, das ausschließlich für ihn bestimmt ist.",
+          "Diese Anrede erzeugt eine fast vertrauliche Atmosphäre, als würde der Sänger zu einem Freund oder Geliebten werden, dessen Stimme eine Art emotionaler Zufluchtsort bildet.",
+          "Das wiederholte „just for me“ betont das Bedürfnis nach Exklusivität, nach einem Moment, in dem alle äußeren Ablenkungen und gesellschaftlichen Erwartungen verschwinden.",
+          "Die Zeile „And everybody else will disappear“ verstärkt diesen Wunsch nach Isolation, nicht aus Einsamkeit, sondern aus dem Wunsch, sich völlig in die Musik und die damit verbundene emotionale Verbindung zu vertiefen.",
+          "In der frühen 1960‑Jahre, einer Zeit des Übergangs von traditionellen Popballaden zu rockigeren Strömungen, fungiert das Lied als nostalgischer Rückzugsort, der die sanfte, beruhigende Stimme Como nutzt, um ein Gefühl von Beständigkeit und Geborgenheit zu vermitteln.",
+          "Die Einfachheit des Textes, fast kindlich in ihrer Direktheit, lässt Raum für die Vorstellung, dass das gesungene Lied nicht nur Unterhaltung, sondern ein persönliches Versprechen von Trost und Nähe darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einem Symbol für die Macht der Musik, individuelle Sehnsüchte zu kanalisieren und einen flüchtigen, aber intensiven Moment der Verbundenheit zu schaffen."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf die historischen Rahmenbedingungen (frühe 60er‑Jahre) – obwohl spekulativ, zeigt ein Bemühen um Kontextualisierung.",
+          "Erklärt die Wiederholung von „just for me“ und „everybody else“ im Hinblick auf Exklusivität."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ... offenbart eine intime Sehnsucht nach persönlicher Zuwendung, die über das bloße Hören von Musik hinausgeht.",
+          "Die Anrede „Mr. C.“ – ein Hinweis auf Perry Como selbst – verleiht dem Gesang eine fast vertrauliche, fast kindliche Qualität, als würde der Sprecher den Sänger um ein privates, exklusives Erlebnis bitten.",
+          "Das wiederholte „just for me“ betont das Verlangen nach einer individuellen, maßgeschneiderten Botschaft, die den Hörer aus der Menge heraushebt und ihm das Gefühl gibt, im Mittelpunkt zu stehen.",
+          "In diesem Kontext wird das Lied selbst zum Symbol für Trost und Flucht: Während die Stimme des Sängers erklingt, verschwinden „everybody else“, was impliziert, dass die Musik eine temporäre, aber kraftvolle Isolation von der Außenwelt schafft.",
+          "Diese Flucht ist nicht destruktiv, sondern heilend; sie bietet einen geschützten Raum, in dem persönliche Sorgen und gesellschaftliche Erwartungen zurücktreten.",
+          "Gleichzeitig lässt sich die Bitte als ein Akt der Selbstbestätigung lesen: Der Sprecher sucht Bestätigung seiner eigenen Existenz durch die Anerkennung eines bekannten Künstlers."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Einfachheit des Textes, fast wie ein Mantra, verstärkt die emotionale Direktheit und lässt den Hörer die Sehnsucht nach einer persönlichen, beruhigenden Stimme spüren, die in einer lauten, anonymen Welt einen Moment der Intimität schenkt."
+        ],
+        "positive_aspekte": [
+          "Stellt klar heraus, dass das „just for me“ eine persönliche, exklusive Anforderung ist.",
+          "Verknüpft das Verschwinden der anderen mit einer heilenden Flucht, was eine nachvollziehbare Interpretation des Textes ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ... offenbart eine intime Sehnsucht nach persönlicher Zuwendung, die über das bloße Hören von Musik hinausgeht.",
+          "Die Anrede „Mr. C.“ – ein Hinweis auf Perry Como selbst – fungiert dabei als Symbol für den vertrauensvollen Vermittler von Trost und Geborgenheit.",
+          "Der Sprecher verlangt nicht nur ein beliebiges Lied, sondern „das Lied, das ich schon lange zu hören war“, was impliziert, dass die Musik eine lange, vielleicht unausgesprochene Erwartung erfüllt, die tief im Inneren verwurzelt ist.",
+          "Durch die Wiederholung von „just for me“ entsteht ein Gefühl von Exklusivität: das Gesangserlebnis soll eine private, fast sakrale Begegnung werden, in der die äußere Welt – „everybody else“ – in den Hintergrund tritt und schließlich verschwindet.",
+          "Diese Verdrängung des Umfelds lässt die Musik als einzigen Anker in einer möglicherweise einsamen oder überfordernden Realität erscheinen.",
+          "Gleichzeitig suggeriert die Bitte um ein persönliches Lied, dass der Sänger nicht nur Unterhaltung, sondern emotionale Heilung bietet; er wird zum Boten einer inneren Stimme, die das Herz beruhigt und die Sehnsucht nach Nähe stillt."
+        ],
+        "oberflächliche_aussagen": [
+          "In der simplen, fast kindlichen Formulierung liegt eine tiefe menschliche Wahrheit: Musik kann als intimer Dialog fungieren, der das Individuum aus der Anonymität löst und ihm das Gefühl gibt, gesehen und gehört zu werden."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die Wiederholung von „just for me“ mit einer sakralen, privaten Erfahrung.",
+          "Erkennt die mögliche emotionale Heilungsfunktion des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ... offenbart eine intime Sehnsucht nach persönlicher Zuwendung, die über das bloße Hören von Musik hinausgeht.",
+          "Die Anrede „Mr. C.“ – ein Hinweis auf Perry Como selbst – fungiert dabei als Symbol für den vertrauensvollen Vermittler von Gefühlen, der mit seiner Stimme eine Brücke zwischen dem inneren Wunsch des Sängers und dem äußeren Klang schafft.",
+          "Das wiederholte „sing to me“ betont nicht nur das Verlangen nach einem bestimmten Lied, sondern impliziert ein Bedürfnis nach individueller Bestätigung und emotionaler Nähe, die nur durch die persönliche Darbietung des Künstlers erfüllt werden kann.",
+          "Die Zeile „The song that I've been waiting to hear“ suggeriert, dass das gesuchte Stück bereits im Inneren des Sängers existiert, als ein unausgesprochenes Versprechen, das erst durch die Stimme des „Mr. C.“ realisiert wird.",
+          "Der Wunsch nach Exklusivität wird durch das „just for me“ verstärkt, wodurch das Publikum zu einer privaten Sphäre reduziert wird, in der alle anderen „disappear“ – also in den Hintergrund treten.",
+          "Diese Abschottung von der Außenwelt spiegelt ein romantisiertes Bild der Musik als Zufluchtsort, in dem persönliche Sehnsüchte ungestört ausgedrückt werden können."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt das Lied eine Mischung aus Bewunderung für den Künstler, dem Wunsch nach individueller Anerkennung und dem Bedürfnis, durch Musik eine temporäre, aber intensive Verbindung zu einem anderen Menschen herzustellen."
+        ],
+        "positive_aspekte": [
+          "Betont die Brückenfunktion der Stimme zwischen innerem Wunsch und äußerem Klang.",
+          "Erklärt das „just for me“ als Reduktion des Publikums auf eine private Sphäre."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": null,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein sehr hohes Maß an spekulativen (erfundenen) Aussagen und kaum faktentreue bzw. textbasierte Beobachtungen. Die Varianz der Scores ist praktisch null (Halluzination 1, Tiefe 2 für alle).",
+    "empfehlung": "Die vorliegenden Interpretationen sind überwiegend spekulativ und wenig textnah. Ein besserer Ansatz wäre, zunächst alle wörtlichen Textstellen zu zitieren, dann nur daraus ableitbare Bedeutungen zu diskutieren und dabei bewusst vage, nicht belegbare Aussagen zu vermeiden. So lässt sich die Analyse tiefer und faktentreuer gestalten."
+  }
+}

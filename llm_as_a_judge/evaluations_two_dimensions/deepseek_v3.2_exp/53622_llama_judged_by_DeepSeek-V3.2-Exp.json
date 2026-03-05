@@ -1,0 +1,99 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rapper scheinen sich ihrer eigenen Rolle und ihrer Position in der Gesellschaft bewusst zu sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Satire auf die moderne Gesellschaft und die Oberflächlichkeit der sozialen Medien interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Texte und liefert eine plausible Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frauen werden als nachteilig und manipulativ dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Selbstinszenierung verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine klare Analyse der Texte"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rapper präsentieren sich selbst als handsome und erfolgreich"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Selbstinszenierung verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Analyse der Texte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rapper thematisieren die Oberflächlichkeit und die Sucht nach Anerkennung und Ruhm"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Parodie auf die Exzesse und den Überkonsum der heutigen Gesellschaft verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine tiefgehende Analyse der Texte"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Künstler positioniert sich als Teil einer exklusiven Gruppe"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song spiegelt eine Welt wider, in der der Konsum, die soziale Anerkennung und die Männlichkeit im Vordergrund stehen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine plausible Analyse der Texte und berücksichtigt die Machokultur"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die vierte Interpretation liefert die tiefste und textbezogenste Analyse"
+  }
+}

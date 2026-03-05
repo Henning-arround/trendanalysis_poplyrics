@@ -1,0 +1,99 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, wie der Studentenbewegung und der sexuellen Revolution."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einem Leben voller Liebe und Harmonie, das alle Menschen einbeziehen soll."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und ihre Wirkung auf die emotionale Atmosphäre des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeit war geprägt von sozialen und politischen Umbrüchen, der Studentenbewegung und der Suche nach neuen Formen der Freiheit und des Zusammenlebens."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine utopische Vision, in der Liebe und Harmonie die Welt bestimmen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbole im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, der Studentenbewegung und der Suche nach neuen Formen der Freiheit und Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einem Leben voller Liebe und Harmonie, das alle Menschen einbeziehen soll."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die narrative Struktur des Songs und ihre Wirkung auf die emotionale Verbindung zum Hörer."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, einschließlich der sexuellen Revolution und der Friedensbewegung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einem Leben voller Liebe und Harmonie, das alle Menschen einbeziehen soll."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs und ihre Bedeutung für die Zuhörer."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren geprägt von sozialen und kulturellen Veränderungen, die auch die Musikszene beeinflussten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine utopische Vision, in der Liebe und Harmonie die Welt bestimmen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbole im Songtext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und der emotionalen Atmosphäre des Songs.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch wichtig, die Interpretationen kritisch zu bewerten und die Halluzinationen und oberflächlichen Aussagen zu berücksichtigen."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von '벤자민의 단추' (Benjamins Knopf) bezieht sich möglicherweise auf den koreanischen Schriftsteller Yi Kwang-su"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich mit Themen wie Zeit, Ewigkeit, Identität und der Bedeutung von Kunst auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Textstruktur und der verwendeten Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art von Kommentar zu den sozialen und politischen Veränderungen in Südkorea im Jahr 2018 interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Übersicht über die Themen des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Thematisierung von Zeit, Ewigkeit und der Bedeutung von Kunst kann auch als Kommentar zur schnelllebigen, von Konsum und Technologie geprägten Gegenwartsgesellschaft interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich mit Themen wie Zeit, Ewigkeit, Identität und der Bedeutung von Kunst auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext enthält Anspielungen auf die koreanische Geschichte und Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich mit Themen wie Zeit, Ewigkeit, Identität und der Bedeutung von Kunst auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Übersicht über die Themen des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Naturbildern wie '산천을 화폭에 담은 화가에 나누기' (die Berge und Flüsse in einem Gemälde) und '계산이 필요 없는 정선의 산수' (die Mathematik-freie Landschaftsmalerei) unterstreicht die Idee, dass Kunst und Musik eine eigene, von der Zeit unabhängige Logik besitzen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Textstruktur und der verwendeten Metaphern"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die beste Interpretation ist die Nummer 1, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von Verlust, Schuld und Reue"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend textgetreu und analysiert die Emotionen des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von Verlust, Schuld und Reue"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend textgetreu und analysiert die Emotionen des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von Verlust, Schuld und Reue"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend textgetreu und analysiert die Emotionen des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von Verlust, Schuld und Reue"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend textgetreu und analysiert die Emotionen des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von Verlust, Schuld und Reue"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend textgetreu und analysiert die Emotionen des Protagonisten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und zeigen eine geringe Varianz",
+    "empfehlung": "Die Interpretationen sind insgesamt textgetreu, aber könnten durch eine tiefere Analyse der Emotionen und Motive des Protagonisten verbessert werden"
+  }
+}

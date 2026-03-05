@@ -1,0 +1,100 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Annahme, dass die Schreibweise „timless“ ein bewusstes Schreib‑Fehler‑Spiel sei, das die Unsicherheit des Begriffs widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Bildsprache (z. B. „바다 바람이 갈라지는 time travel\", „산천을 화폭에 담은 화가\").",
+          "Klare Verknüpfung von einzelnen Textzeilen mit deren möglichen Bedeutungen.",
+          "Erkennt die Mehrdeutigkeit des Refrains und lässt die Interpretation offen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der „벤자민의 단추“ wird als magischer Auslöser beschrieben, ohne dass der Text dies erklärt.",
+          "Die kulturelle Einordnung in eine „post‑digitale Ära“ mit Tradition und Umweltkrise wird nicht im Text belegt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Beobachtung der fragmentierten Bildsprache und der wiederholten Motive.",
+          "Verknüpft die Zeile „Your whole life was a damn concert“ mit einem Spannungsfeld zwischen Sichtbarkeit und Unsichtbarkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Interpretation des Schreibfehlers „timless“ als bewusste Ausklammerung des Wortes „time\".",
+          "Einordnung des Songs in eine „post‑digitale Ära\" und die Annahme von Umwelt‑ und Konsumkritik, die nicht explizit im Text steht.",
+          "Behauptung, dass der Text wiederholt auf „BTS\" verweist – BTS erscheint nur in der Künstlerangabe, nicht im Liedtext.",
+          "Die Annahme, dass die Schreibweise „timless\" bewusst ironisch sei, wird nicht vom Text gestützt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Metaphern (Play‑Button, gelber Bleistift, etc.).",
+          "Erkennt die zentrale Gegenüberstellung von Vergänglichkeit und Unsterblichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse; jede Aussage lässt sich klar aus dem Liedtext ableiten.",
+          "Umfassende Betrachtung von Stil, Emotion, kulturellem Kontext und thematischer Ambivalenz.",
+          "Verknüpft einzelne Zeilen (z. B. „죽을 땐 빌린 이 몸 흙이 되는 time table\") mit ihrer konzeptuellen Bedeutung, ohne spekulative Ergänzungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einordnung in eine „post‑digitale Ära\" wird nicht im Text erwähnt.",
+          "Die Annahme, dass die Zeilen „6번 줄 없는 통기타\" und „8:45\" persönliche Erinnerungen verankern, ist spekulativ."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detailreiche Analyse der Bildsprache und der symbolischen Funktion von „Play‑Button\" und „벤자민의 단추\".",
+          "Erkennt die Spannung zwischen Natur‑ und Politik‑Metaphern (z. B. „사대강의 정치\").",
+          "Behandelt die Mehrdeutigkeit des Refrains und die fehlende Auflösung im Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark in ihrer Texttreue. Interpretation 2 ist vollständig textbasiert, während 1, 3, 4 und 5 teils spekulative kulturelle oder stilistische Annahmen einbringen. Die Varianz ist damit hoch, was die Notwendigkeit betont, Halluzinationen streng zu kontrollieren.",
+    "empfehlung": "Für künftige Analysen sollte das Modell primär Aussagen aus dem Songtext ableiten und spekulative kulturelle oder biografische Kontextualisierungen nur dann einbringen, wenn sie eindeutig im Text verankert sind. Interpretation 2 zeigt, wie ein ausgewogenes Verhältnis von Texttreue und analytischer Tiefe aussehen kann."
+  }
+}

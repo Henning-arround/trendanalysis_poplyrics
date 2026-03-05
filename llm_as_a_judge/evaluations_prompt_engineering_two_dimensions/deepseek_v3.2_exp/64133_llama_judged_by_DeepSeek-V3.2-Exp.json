@@ -1,0 +1,102 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von literarischen Stilmitteln wie Metaphern und Bildern unterstützt die thematische Komplexität",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Pop- und R&B-Musik der 2000er Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Do you remember? Do you remember? / All of the times we had' unterstreichen die thematische Komplexität des Songs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kollaboration zwischen Jay Sean, Sean Paul und Lil Jon repräsentiert eine globale Musikszene",
+          "Die Verwendung von Autotune und der Einbezug von Featuring-Künstlern zeigt die Zugehörigkeit des Songs zu einer bestimmten musikalischen und kulturellen Szene"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer vergangenen Beziehung und die Hoffnung, diese wieder aufleben zu lassen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbolen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die thematisierte Sehnsucht nach einer vergangenen Beziehung und die Hoffnung auf Wiedervereinigung können auch als Ausdruck einer gesellschaftlichen Sehnsucht nach Stabilität und Kontinuität in einer sich schnell verändernden Welt interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer vergangenen Beziehung und die Hoffnung, diese wieder aufleben zu lassen",
+          "Die Erinnerung an die Vergangenheit eine wichtige Rolle in der Kommunikation und im Verständnis der aktuellen Beziehungssituation spielt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung von Pop, R&B und Hip-Hop-Elementen, die typisch für die musikalische Landschaft des Jahres 2009 sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'There's nothin' left to say / Don't waste another day' drücken eine dringende Bitte um eine Wiedervereinigung aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Elementen aus der Pop- und Hip-Hop-Kultur, wie der Einsatz von Autotune und der Einbezug von Featuring-Künstlern"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach einer vergangenen Beziehung und die Hoffnung, diese wieder aufleben zu lassen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern im Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

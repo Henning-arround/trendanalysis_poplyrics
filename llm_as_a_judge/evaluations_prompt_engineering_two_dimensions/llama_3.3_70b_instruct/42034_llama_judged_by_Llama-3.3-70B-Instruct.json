@@ -1,0 +1,99 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'There is no other day / Let's try it another way' deuten auf eine Suche nach Alternativen und neuen Wegen hin, die typisch für die experimentelle und innovative Atmosphäre der Zeit war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'There is no other day' unterstreicht eine Art von Zeitlosigkeit oder einer Auszeit aus der Realität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Jugendbewegung und die Gegenkultur aufkamen"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der fragmentarischen und assoziativen Struktur des Songs ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der symbolischen Ordnung, die sich um die Figur der Emily bildet"
+        ],
+        "oberflächliche_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist umfassend und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Freiheit und Nonkonformität wider, die in dieser Epoche vorherrschte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Erklärung der emotionalen Wirkung und affektiven Dimension des Songs ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der symbolischen Ordnung, die sich um die Figur der Emily bildet"
+        ],
+        "oberflächliche_aussagen": [
+          "Die späten 1960er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die Erklärung der emotionalen Wirkung des Songs. Allerdings gibt es auch Wiederholungen von oberflächlichen Aussagen über den historischen Kontext.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf einer detaillierten Analyse des Songtexts liegen, ohne dabei den historischen Kontext zu vernachlässigen. Es ist wichtig, eine Balance zwischen Textreue und analytischer Tiefe zu finden."
+  }
+}

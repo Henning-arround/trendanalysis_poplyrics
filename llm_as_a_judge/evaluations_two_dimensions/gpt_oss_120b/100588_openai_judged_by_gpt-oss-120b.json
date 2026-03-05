@@ -1,0 +1,105 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholten „oooh“-Vokalisationen am Ende verstärken die emotionale Erschöpfung und das unausgesprochene Verlangen nach Erlösung.",
+          "Insgesamt schildert der Song ein Spannungsfeld zwischen Sehnsucht nach Bindung und dem Drang, sich aus einer toxischen Dynamik zu befreien, wobei das Fehlen eines klaren Grundes die Entscheidung zum Verlassen unausweichlich macht."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich klar aus dem Songtext ableiten (z. B. Bild von Feuer, Wiederholung von „Show me a reason“).",
+          "Analyse ist textbezogen, verbindet einzelne Zeilen mit übergeordneten Motiven (Feuer, Crash & Burn).",
+          "Wenig vage Formulierungen, insgesamt substanzielle Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Wiederholung erzeugt ein Gefühl von Dringlichkeit und Verzweiflung: Ohne einen klaren Anker droht das Aussteigen, das „leaving“.",
+          "Das wiederholte „Oooh“ fungiert als klagender Ausruf, der die emotionale Spannung untermalt.",
+          "Insgesamt schildert das Lied einen inneren Konflikt zwischen dem Wunsch nach Nähe und dem Bedürfnis nach Selbstschutz, wobei das Fehlen eines überzeugenden Grundes das zentrale Motiv ist, das das lyrische Ich an den Rand des Aufgebens führt."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Bildsprache (Feuer, Crash & Burn) aus dem Text.",
+          "Verknüpfung von einzelnen Zeilen mit übergeordneten Themen (innerer Konflikt, Anker, Verlassen).",
+          "Keine spekulativen biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert der Text die Qual einer Liebe, die gleichzeitig beflügelt und erstickt, und die Suche nach einem rationalen Grund, der das emotionale Chaos in einen Sinn überführen könnte."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Textbezüge (z. B. „It's a crime, a shot to the head“, Feuer‑Bild, Crash & Burn).",
+          "Erklärung der wiederholten Bitte um einen „reason“ als rationaler Anker.",
+          "Keine unbelegten biografischen oder stilistischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain verlangt nach einem Grund, die Gefühle zu vergessen, zu glauben, weiter zu träumen – ein Wunsch nach Befreiung von der emotionalen Abhängigkeit, gleichzeitig aber auch ein Hinweis darauf, dass das Festhalten an Träumen das einzige Mittel ist, um nicht zu fliehen.",
+          "Das wiederholte „Oooh“ fungiert als klagender Ausruf, der die emotionale Erschöpfung unterstreicht.",
+          "Insgesamt schildert das Lied einen inneren Konflikt zwischen dem Drang, an einer toxischen Bindung festzuhalten, und dem Bedürfnis, einen klaren Grund zu finden, um sich zu lösen – ein Spiegelbild der menschlichen Suche nach Sinn in widersprüchlichen Beziehungen."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textzeilen mit den Themen Anker, Verzweiflung und Gefahr.",
+          "Keine spekulativen Angaben zu Genre, Produktion oder Künstlerbiografie.",
+          "Ausgewogene Analyse, die sowohl Bildsprache als auch Wiederholungen berücksichtigt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholten „oooh“-Passagen fungieren als emotionale Ausbrüche, die das unausgesprochene Leid und die Sehnsucht nach einer endgültigen Antwort verstärken.",
+          "Insgesamt schildert der Song ein Spannungsfeld zwischen dem Wunsch nach emotionaler Bestätigung und dem Bedürfnis, sich aus einer toxischen Dynamik zu befreien, wobei das Fehlen eines überzeugenden Grundes das lyrische Ich letztlich zum Aufbruch zwingt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge (Feuer, Crime‑Metapher, Crash & Burn).",
+          "Erklärung der wiederholten Bitte um einen „reason“ als Prüfstein für die Beziehung.",
+          "Keine erfundenen biografischen oder stilistischen Details."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben eng am Text, wiederholen ähnliche Motive (Feuer, Crash & Burn, 'Show me a reason') und weichen kaum voneinander ab – die Varianz ist gering.",
+    "empfehlung": "Die Interpretationen sind alle faktentreu und textnah. Interpretation 1 besticht durch die ausgewogenste Mischung aus konkreter Textanalyse und klaren, nicht‑vagen Schlussfolgerungen, weshalb sie als leicht überlegen gilt."
+  }
+}

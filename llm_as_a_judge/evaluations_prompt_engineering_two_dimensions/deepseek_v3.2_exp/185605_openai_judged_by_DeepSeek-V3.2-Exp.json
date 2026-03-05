@@ -1,0 +1,97 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Respekt und Liebe ohne materielle Bedingungen spricht ein post-modernes Ideal an"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert das Spannungsfeld zwischen Selbstbestimmung und dem Wunsch nach verbindlicher Gemeinschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen ökonomischer Distanz und körperlicher Nähe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Formel 'that's all i need' kann als Kritik an einer konsumorientierten Gesellschaft gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert die frühe 2000er-Kultur des 'individuellen Glücks'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Ambiguität des Begriffs 'need'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Stück spiegelt die Indie-Ästhetik der frühen 2000er wider"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse der Textstruktur und -ambiguität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert die kulturelle Sehnsucht nach simplen, aber tief verankerten menschlichen Verbindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kulturelles Artefakt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen persönlicher Sehnsucht und gesellschaftlicher Forderung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ablehnung von Geld und Zeit kann als Kritik an der wachsenden Ökonomisierung von Beziehungen gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt bewusst offen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Ambiguität des Begriffs 'genug'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die Interpretation 3 bietet eine sehr tiefgehende Analyse der Textstruktur und -ambiguität und balanciert Textreue mit analytischer Tiefe am besten"
+  }
+}

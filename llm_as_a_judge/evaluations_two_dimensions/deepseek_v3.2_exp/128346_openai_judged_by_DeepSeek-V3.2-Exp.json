@@ -1,0 +1,91 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Phrasen wie \"innerer Monolog\" ohne tiefere Analyse"
+        ],
+        "positive_aspekte": [
+          "Gute Textanalyse, Identifikation von zentralen Themen wie Selbstverlust und Schuld"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Etwas mehr Allgemeinplätze wie \"Selbstverlorenheit\""
+        ],
+        "positive_aspekte": [
+          "Gute Identifikation von Themen, aber etwas oberflächlichere Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einordnung als \"innerer Zerfall\""
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse von Textmotiven, Hervorhebung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Wiederholungen von Aussagen ohne neue Erkenntnisse"
+        ],
+        "positive_aspekte": [
+          "Ausgewogene Analyse, gute Identifikation von Themen und Motiven"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einordnung als \"Prozess des Selbstverlustes\""
+        ],
+        "oberflächliche_aussagen": [
+          "Einige Allgemeinplätze"
+        ],
+        "positive_aspekte": [
+          "Gute Hervorhebung von zentralen Themen, aber etwas oberflächlichere Analyse"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse von Themen und Motiven, aber variieren in der Tiefe und dem Grad der Halluzination.",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

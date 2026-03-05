@@ -1,0 +1,87 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Aufforderung, 'to say our goodbyes' suggeriert, dass es notwendig ist, sich von alten Gewohnheiten, Überzeugungen und Strukturen zu verabschieden, um Platz für das Neue zu machen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert den Übergang von einer alten Welt zu einer neuen und betont die Unvermeidlichkeit dieses Prozesses."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Zeile 'If you stop for a moment you can feel it all slipping away' verstärken das Gefühl der Dringlichkeit und der Unvermeidbarkeit des Wandels, der sich bereits vollzieht, während die Menschen noch zögern, sich anzupassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Unausweichlichkeit des Wandels und die Notwendigkeit, sich anzupassen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text beschreibt eine Art von Erwachen, bei dem der Protagonist etwas Ungewöhnliches in seinem Alltag wahrnimmt, das sich in den 'most peculiar ways that we behave' manifestiert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert den Übergang von einer alten Welt zu einer neuen und betont die Notwendigkeit, sich von der Vergangenheit zu verabschieden und sich der Zukunft zu stellen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Zeile 'If you stop for a moment you can feel it all slipping away' verstärken das Gefühl der Dringlichkeit und der Unvermeidbarkeit des Wandels, der sich bereits vollzieht, während die Menschen noch zögern, sich anzupassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Unausweichlichkeit des Wandels und die Notwendigkeit, sich anzupassen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert den Übergang von einer alten Welt zu einer neuen und betont die Unausweichlichkeit dieses Prozesses. Die Zeile 'Did you see it move? / There's something there' deutet auf eine Art von Bewusstsein oder eine Kraft hin, die im Verborgenen wirkt und die Veränderung vorantreibt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen, die als oberflächlich bewertet werden.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die den Text am genauesten wiedergibt und gleichzeitig eine tiefe Analyse des Songs bietet. Es ist wichtig, kreative Interpretationen zu vermeiden, die nicht auf dem Text basieren."
+  }
+}

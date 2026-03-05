@@ -1,0 +1,93 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine romantische und zugleich kosmische Liebesballade interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist eine Mischung aus Sehnsucht, Hoffnung und Glück, die durch die 'Glücksmelodie' vermittelt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und identifiziert die zentralen Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine romantische und zugleich kosmische Liebesballade interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist eine Mischung aus Sehnsucht, Hoffnung und Glück, die durch die 'Glücksmelodie' vermittelt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und identifiziert die zentralen Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine romantische und zugleich kosmische Liebesballade interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist eine Mischung aus Sehnsucht, Hoffnung und Glück, die durch die 'Glücksmelodie' vermittelt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und identifiziert die zentralen Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine romantische und zugleich kosmische Liebesballade interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist eine Mischung aus Sehnsucht, Hoffnung und Glück, die durch die 'Glücksmelodie' vermittelt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und identifiziert die zentralen Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine romantische und zugleich kosmische Liebesballade interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen, identifiziert die zentralen Motive des Songs und bietet eine tiefere Analyse der symbolischen Ordnung der Sterne und des Mondes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse, aber auch eine gewisse Oberflächlichkeit.",
+    "empfehlung": "Die fünfte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen."
+  }
+}

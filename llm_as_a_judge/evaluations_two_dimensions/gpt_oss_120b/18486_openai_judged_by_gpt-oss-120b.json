@@ -1,0 +1,107 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Damit wird die Verantwortung des Individuums betont, im jeweiligen Moment bewusst zu wählen, anstatt in starren Mustern zu verharren.",
+          "Der abschließende Appell „I swear it's not too late“ eröffnet einen Hoffnungston, der suggeriert, dass trotz aller Zyklen ein bewusster Eingriff möglich bleibt, um Frieden zu finden.",
+          "So wird der Song zu einer zeitlosen Mahnung, das Leben als Reihe von saisonalen Phasen zu akzeptieren, ohne die Möglichkeit zu verlieren, aktiv an deren Gestaltung mitzuwirken."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung: fast alle Aussagen leiten sich direkt aus den im Song vorkommenden Gegenüberstellungen ab.",
+          "Klare Analyse der wiederholenden Struktur und ihrer symbolischen Funktion."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verkörpert zugleich eine zeitgenössische Reflexion der 60er‑Jahre.",
+          "Die abschließende Zeile … kann im Kontext des Kalten Krieges und der Bürgerrechtsbewegung als Appell an die Generation verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "So verbindet das Lied biblische Weisheit mit einer zeitgenössischen Botschaft von Verantwortung, Wandel und der Möglichkeit, im Rhythmus der Jahreszeiten bewusst zu handeln."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textanalyse mit einem historischen Kontext, was die Interpretation breiter verortet.",
+          "Gute Balance zwischen konkreten Textbezügen und weiterführenden Bedeutungsansätzen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine musikalische Umsetzung des biblischen Predigerspruchs aus Prediger 1, 2‑3.",
+          "Musikalisch verstärkt das wiederholte „Turn“ das Bild des Kreislaufs, das sich immer wieder erneuert, während die Stimme der Schwestern eine sanfte, aber eindringliche Dringlichkeit vermittelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile … fügt eine dringliche, fast prophetische Note hinzu, indem sie die Möglichkeit einer bewussten Wendung hin zu Frieden betont, bevor die Zeit abläuft.",
+          "Insgesamt interpretiert der Song das Leben als ein immerwährendes Wechselspiel von Gegensätzen, das durch das Bewusstsein für die jeweilige Saison zu Akzeptanz und verantwortungsvollem Handeln führen kann."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die zentrale Gegenüberstellung von Gegensätzen im Text.",
+          "Erkennt die wiederholende Struktur als zentrales stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Dualität wird nicht als moralische Bewertung, sondern als unvermeidlicher Teil eines größeren kosmischen Plans präsentiert, was die Demut des Individuums vor einer höheren Ordnung betont.",
+          "Der abschließende Vers … eröffnet einen Hoffnungston, der trotz aller Gegensätze einen Ausweg in Versöhnung und innerer Ruhe anbietet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Struktur des Textes wirkt wie ein Mantra, das den Hörer an die Unvermeidlichkeit des Wandels erinnert und gleichzeitig Raum für Reflexion schafft.",
+          "So fungiert das Lied nicht nur als poetische Aufzählung von Jahreszeiten, sondern als philosophisches Plädoyer für Akzeptanz, Geduld und das Bewusstsein, dass jeder Moment – egal wie widersprüchlich – Teil eines größeren, sich ständig drehenden Kreislaufs ist."
+        ],
+        "positive_aspekte": [
+          "Gute Aufschlüsselung der Gegensätze und ihrer thematischen Bedeutung.",
+          "Verknüpft die wiederholende Phrase mit einer meditativen Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Botschaft ist zugleich tröstlich und mahnt: Akzeptiere die unvermeidlichen Veränderungen, erkenne die Zeit für jede Handlung und vertraue darauf, dass das Universum – „under heaven“ – einen Sinn in diesem ewigen Wandel sieht."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse, kaum spekulative Aussagen.",
+          "Verbindet jede Textzeile mit einer klaren thematischen Interpretation und lässt Raum für Mehrdeutigkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark im Verhältnis von belegten zu spekulativen Aussagen. Während Interpretation 3 nahezu vollständig texttreu ist, enthalten 1, 2 und 5 moderate bis viele spekulative Elemente. Interpretation 4 ist faktentreu, aber enthält mehrere oberflächliche Generalisierungen, was die Gesamtkonsistenz reduziert.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man die faktentreue Herangehensweise von Interpretation 3 mit der kontextualisierenden Tiefe von Interpretation 2 kombinieren. Das liefert sowohl Textnähe als auch historische bzw. gesellschaftliche Verankerung, ohne zu viele unbelegte Behauptungen einzuführen."
+  }
+}

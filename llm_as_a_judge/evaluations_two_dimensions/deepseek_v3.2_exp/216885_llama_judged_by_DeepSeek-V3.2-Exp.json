@@ -1,0 +1,94 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "komplexe, ambivalente Beziehung"
+        ],
+        "positive_aspekte": [
+          "detaillierte Analyse des Songtextes",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "schwierige Zeiten"
+        ],
+        "positive_aspekte": [
+          "detaillierte Analyse des Songtextes",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "komplexe, ambivalente Beziehung"
+        ],
+        "positive_aspekte": [
+          "detaillierte Analyse des Songtextes",
+          "Berücksichtigung von Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "schwierige Zeiten",
+          "tiefen Verbundenheit"
+        ],
+        "positive_aspekte": [
+          "detaillierte Analyse des Songtextes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "schwierige Zeiten",
+          "tiefen Verbundenheit"
+        ],
+        "positive_aspekte": [
+          "detaillierte Analyse des Songtextes"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songtextes, aber auch eine gewisse Oberflächlichkeit in der Bewertung der Emotionen und Beziehungen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet. Die anderen Interpretationen könnten von einer stärkeren Berücksichtigung von Ambivalenzen und Mehrdeutigkeiten profitieren."
+  }
+}

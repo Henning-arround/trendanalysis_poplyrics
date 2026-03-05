@@ -1,0 +1,99 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Liebe und der Trennung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Bedeutung des Songs kann im Kontext der modernen Beziehungen gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Metaphern und Symbolen im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Then we'll do it one more time' können als Ausdruck der Unfähigkeit, sich von einer toten Beziehung zu lösen, interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Verwendung von Metaphern und Symbolen im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung von Liebe, Verlust und Erinnerung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung und affektive Dimension des Songs werden durch die Verwendung von Ambiguitäten und Spannungen verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Metaphern und Symbolen im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung des Songs wird durch die Verwendung von Naturbildern wie 'Sunset' und 'Morgen' unterstrichen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs kann in der Betonung der emotionalen Authentizität gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Verwendung von Metaphern und Symbolen im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung des Songs wird durch die Verwendung von Naturbildern wie 'Sunset' und 'Morgen' unterstrichen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs kann in der Betonung der emotionalen Authentizität gesehen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Metaphern und Symbolen im Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der Metaphern und Symbole im Songtext",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

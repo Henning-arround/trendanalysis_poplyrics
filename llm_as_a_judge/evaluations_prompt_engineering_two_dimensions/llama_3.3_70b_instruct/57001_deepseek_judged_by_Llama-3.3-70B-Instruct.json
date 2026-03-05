@@ -1,0 +1,97 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'A vampire or a victim' suggeriert eine flexible Identität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Melancholie und Sehnsucht geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Dressed up like a car crash' ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskrepanz zwischen der äußeren Erscheinung und der inneren Leere"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'Stay' kann als Ausdruck der Sehnsucht nach Verbindung und Halt interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Bildern wie 'Green light, 7-Eleven' ist gut beschrieben"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Autounfalls als modisches Accessoire unterstreicht die Diskrepanz zwischen Schein und Sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Leere und Isolation der Protagonistin"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Faraway, so close up with the static and the radio' ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Omnipräsenz von Medien und Technologie schafft eine Welt der Isolation und Entfremdung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Schwierigkeit, echte Verbindungen in einer Welt der oberflächlichen Kommunikation herzustellen"
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Bildern wie 'Vampire or a victim' ist gut beschrieben"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Melancholie und Sehnsucht nach Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Dressed up like a car crash' ist sehr gut durchdacht und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die beste Interpretation (Nr. 5) zeigt eine hohe Textreue und analytische Tiefe",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt, dass eine sorgfältige Analyse des Songtexts zu einer tiefen und textbezogenen Interpretation führen kann"
+  }
+}

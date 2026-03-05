@@ -1,0 +1,108 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text lässt sich als ein Manifest der Selbstbefreiung und der kollektiven Ekstase interpretieren, das die kulturelle Wende der späten Siebziger‑Jahre von introspektiver Soul‑Musik hin zu pulsierendem Disco‑Fieber widerspiegelt.",
+          "Dieser Übergang symbolisiert nicht nur die persönliche Überwindung von Schüchternheit, sondern auch das breitere gesellschaftliche Streben nach Ausdruck jenseits restriktiver Normen, das in den Diskotheken der Ära zu finden war."
+        ],
+        "oberflächliche_aussagen": [
+          "In diesem Kontext wird das Tanzen nicht nur als Freizeitbeschäftigung, sondern als Akt der Selbstbehauptung und des sozialen Zusammenhalts verstanden, ein Raum, in dem persönliche Unsicherheit in kollektive Freude transformiert wird.",
+          "Die Zeilen verdeutlichen damit, wie Musik und Tanz als Befreiungsinstrumente fungieren, die individuelle und gesellschaftliche Grenzen zugleich überschreiten."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (z. B. „got to give it up“, „erotic zone“, „watchin'“).",
+          "Gute Balance zwischen konkreter Analyse und weiterführender Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text lässt sich als ein Manifest der Selbstbefreiung und der körperlichen Ausdruckskraft im Kontext der späten 1970‑er‑Jahre lesen, einer Ära, in der Disco und Clubkultur als Räume für soziale und sexuelle Emanzipation dienten.",
+          "In der kulturelichen Atmosphäre der Disco‑Ära wird das Tanzen zum Symbol für das Durchbrechen von Barrieren, das Feiern von Identität und das Erleben von Freiheit im Moment."
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die Betonung von Rhythmus, Wiederholung und ekstatischer Freude vermittelt der Song eine Botschaft, dass das Tanzbein nicht nur körperliche Bewegung, sondern ein Akt der Selbstakzeptanz und des sozialen Zusammenhalts ist."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Verknüpfung von Textstellen mit interpretativen Aussagen.",
+          "Wenig vage Formulierungen, die meisten Punkte sind klar aus dem Text ableitbar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text offenbart eine innere Wandlung von Zurückhaltung zu ungehemmter Selbstentfaltung, die sich im Kontext der späten Siebzigerjahre als Spiegel der sexuellen Befreiungs‑ und Disco‑Ära liest.",
+          "Musikalisch untermalt die funkig‑disco‑getriebene Begleitung die lyrische Ekstase, während das Call‑and‑Response‑Muster das kollektive Feiern verstärkt.",
+          "In Marvins persönlicher Geschichte, geprägt von inneren Konflikten und dem Drang nach Anerkennung, wird das Lied zu einem Selbstheilungsritual, das durch Tanz und Gemeinschaft die eigene Identität bestätigt.",
+          "So wird das Stück zu einem Manifest der 70er‑Jahre‑Kultur, in dem das Tanzen nicht nur Unterhaltung, sondern ein Akt der Selbstbefreiung und des sozialen Zusammenhalts darstellt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Textbezüge bei den ersten vier Aussagen.",
+          "Erkennt die wiederholende Struktur des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text lässt sich als ein Manifest der Selbstbefreiung und der körperlichen Ausdruckskraft im Kontext der späten 1970er‑Jahre lesen, einer Ära, in der Disco‑Kultur und sexuelle Emanzipation eng verwoben waren.",
+          "Der Song bleibt damit ein zeitloses Zeugnis der Disco‑Ära, in der Rhythmus und Körperlichkeit als Wege zur persönlichen und kollektiven Emanzipation verstanden wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt reflektiert das Lied die Sehnsucht nach authentischem Selbstausdruck, die Überwindung von Schüchternheit und die transformative Kraft des Tanzes, der als Metapher für das Loslassen gesellschaftlicher Normen und das Zulassen von Intimität dient."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textstellen mit sozial‑kulturellen Deutungen.",
+          "Wenig redundante Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text offenbart eine intensive Verwandlung von sozialer Unsicherheit zu befreiender Ekstase, die im Kontext der späten 1970er‑Jahre als Spiegel der aufkommenden Disco‑Kultur und des individuellen Selbstausdrucks gelesen werden kann.",
+          "So wird der Song zu einem kulturellen Dokument, das die Sehnsucht nach sozialer Integration, körperlicher Freiheit und sinnlicher Freude im Zeitalter der Disco verkörpert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse, kaum spekulative Aussagen.",
+          "Gute Balance zwischen Beschreibung und Interpretation, offene Ambivalenzen erkennbar."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑4 zeigen ähnliche strukturelle Muster (Einleitung, Textbezug, kultureller Kontext, Schlussfolgerung). Die Variation liegt hauptsächlich im Anteil erfundener bzw. oberflächlicher Aussagen. Interpretation 5 weicht stark ab durch mehrere biografische und musikalische Spekulationen, was die Halluzinationsrate erhöht.",
+    "empfehlung": "Interpretation 4 bietet die beste Balance aus Texttreue und analytischer Tiefe, während sie kaum spekulative Elemente enthält. Für zukünftige LLM‑Interpretationen sollte der Fokus auf direkte Textbelege gelegt und spekulative Biografien oder nicht belegte Kontextualisierungen vermieden werden."
+  }
+}

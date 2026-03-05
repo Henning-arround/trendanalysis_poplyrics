@@ -1,0 +1,97 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Darstellung der Trauer und der Sehnsucht kann auch als eine Kritik an der Oberflächlichkeit und der Vergänglichkeit der menschlichen Beziehungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die nostalgische Erinnerung an die Kindheit und die verlorene Liebe kann als eine Reaktion auf die gesellschaftlichen Veränderungen und Unsicherheiten dieser Zeit gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Darstellung der Sehnsucht und Trauer sind gut durchdacht und textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Time has turned some pages / Since they moved away' verdeutlicht den Wandel der Zeit und die Unmöglichkeit, die Vergangenheit wiederherzustellen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Darstellung der Trauer und der Sehnsucht ist ein zentrales Thema des Songs."
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung des Refrains 'Look, Dick look, look at Jane' wird als eine Art rituelle Klage interpretiert, was eine interessante Perspektive ist."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur von Dick wird als eine Art Beobachter oder Zeuge der Liebe des Sprechers zu Jane dargestellt, was eine gewisse Distanz und Objektivität suggeriert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die nostalgische Erinnerung an die Kindheit und die verlorene Liebe ist ein wichtiger Aspekt des Songs."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Kindheitserinnerungen und der Bedeutung der Liebe ist ansatzweise vorhanden, aber nicht ausreichend vertieft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'So one last time I kissed her / By the flowers where she'll lay' kann als eine Art rituelle Verabschiedung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Darstellung der Trauer und der Sehnsucht ist ein zentrales Thema des Songs."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Darstellung der Sehnsucht und Trauer sind gut durchdacht und textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Darstellung der Sehnsucht und der Trauer ist ein wichtiger Aspekt des Songs."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der Kindheitserinnerung und das Symbol der Blumen ist sehr detailliert und textbasiert. Die Interpretation der Ambiguität zwischen der nostalgischen Erinnerung an Jane und der Endgültigkeit ihres Todes ist ebenfalls sehr überzeugend."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen zeigen eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie eine sehr detaillierte und textbasierte Analyse des Songs bietet und keine halluzinierten Aussagen enthält."
+  }
+}

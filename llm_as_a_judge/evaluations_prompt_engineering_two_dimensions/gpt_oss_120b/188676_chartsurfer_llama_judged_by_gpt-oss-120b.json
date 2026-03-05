@@ -1,0 +1,106 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text lässt Ambiguitäten und Spannungen offen, was den Hörer einlädt, seine eigene Deutung zu entwickeln.",
+          "Die kulturelle und historische Einbettung des Songs könnte in der Suche nach Entspannung und Flucht vor den Problemen der modernen Welt gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus einer Zeile ableiten.",
+          "Geht über reine Wiederholung hinaus und diskutiert mögliche symbolische Bedeutungen (z. B. „big room“ als Raum der Seele).",
+          "Erkennt und benennt Mehrdeutigkeiten, was die Interpretation tiefgründiger macht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs könnte auf die Sehnsucht nach Sicherheit und Geborgenheit in einer unsicheren Welt reagieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, ein Gefühl der Sicherheit und des Wohlbefindens zu vermitteln.",
+          "Die Wiederholung von „It’s alright“ wird zu einer Art Mantra, das die Hörer beruhigt."
+        ],
+        "positive_aspekte": [
+          "Systematischer Bezug zu fast allen Textstellen (Einladung, Kameras, Talent, Probleme an der Tür).",
+          "Verknüpft Text mit einer plausiblen, aber nicht übertriebenen, symbolischen Lesart des „big room“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs könnte auf die Sehnsucht nach Sicherheit und Geborgenheit in einer unsicheren Welt reagieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, ein Gefühl der Sicherheit und des Wohlbefindens zu vermitteln.",
+          "Die Wiederholung von „It’s alright“ wird zu einer Art Mantra, das die Hörer beruhigt."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse mit wenig Wiederholungen.",
+          "Betont die symbolische Funktion von Kameras und dem Verbot, was die Interpretation substantiell macht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs kann als eine Mischung aus Entspannung und Euphorie beschrieben werden.",
+          "Die Wiederholung von „It’s alright“ kann als eine Art von Beschwichtigung oder Beruhigung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Erkennt die mögliche Kritik an Überwachung und Medienpräsenz aus der Kamerazeile.",
+          "Verbindet die Textwiederholungen mit einer plausiblen psychologischen Wirkung (Beschwichtigung)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs könnte auf die Sehnsucht nach Sicherheit und Geborgenheit in einer unsicheren Welt reagieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung und affektive Dimension des Songs werden durch die Wiederholung von „It’s alright“ verstärkt.",
+          "Die Einladung, „Check your problems at the door“, trägt zu einer tiefen Bedeutungsebene bei, die über die oberflächliche Botschaft der Entspannung hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Text mit einer breiteren, aber immer noch textnahen Diskussion über Utopie und Flucht.",
+          "Betont die Spannung zwischen dem „big room“ als Fluchtort und der Realität außen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das Grundthema (Einladung, Sicherheit, Kameraverbot). Die Varianz liegt vor allem im Umgang mit Kontextualisierungen: Interpretation 3 bleibt am textnahesten, während 1, 4 und 5 zusätzliche spekulative kulturelle Kontextualisierungen einführen, die die Halluzinationsrate leicht erhöhen.",
+    "empfehlung": "Für zukünftige LLM‑Interpretationen sollte der Fokus auf einer klaren Text‑zu‑Bedeutungs‑Ableitung liegen, ohne unnötige historische oder biografische Spekulationen. Interpretation 3 zeigt, wie man tiefgehend und gleichzeitig faktentreu bleibt – das ideale Gleichgewicht zwischen Texttreue und analytischer Tiefe."
+  }
+}

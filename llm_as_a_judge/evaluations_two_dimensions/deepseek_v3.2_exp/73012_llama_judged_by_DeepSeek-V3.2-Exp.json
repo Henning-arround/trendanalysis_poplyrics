@@ -1,0 +1,93 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die schwarze Seele symbolisiert die Dunkelheit und die Hoffnungslosigkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Jeder auf seine eigene Art und Weise an dieser Gewalt und diesem Tod beteiligt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Jeder auf seine eigene Art und Weise an dieser Gewalt und diesem Tod beteiligt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen",
+          "Bezug zum Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen",
+          "Bezug zum Songtext",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die schwarze Seele symbolisiert die Dunkelheit und die Hoffnungslosigkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen",
+          "Bezug zum Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2, 3 und 5 haben ähnliche Ergebnisse, während Interpretation 4 herausragt",
+    "empfehlung": "Interpretation 4 zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

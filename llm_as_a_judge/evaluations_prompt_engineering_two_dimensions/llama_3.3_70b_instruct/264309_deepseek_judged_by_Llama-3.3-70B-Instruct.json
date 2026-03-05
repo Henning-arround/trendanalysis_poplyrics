@@ -1,0 +1,99 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beatles reflektierten und beeinflussten diese Veränderungen mit ihrer Musik."
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs ist von einer gewissen Leichtigkeit und einem spielerischen Ton geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende Analyse des Songtextes und seiner möglichen Bedeutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Counterculture suchte nach neuen Wegen, die traditionellen Werte und Normen in Frage zu stellen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen lassen jedoch auch Fragen offen, insbesondere bezüglich der Identität des 'Monkey'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die möglichen Bedeutungen des Songtextes."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Flower-Power-Bewegung und die Anti-Kriegsbewegung prägten die Jugendkultur jener Zeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'Come on, let's take it easy' und 'Take it easy' kann als eine Art von Aufforderung zur Entspannung und Akzeptanz dieser Komplexität gesehen werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Songtexte und ihrer möglichen Bedeutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Hippie-Bewegung und die Counterculture stellten traditionelle Werte und Normen in Frage."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'The deeper you go, the higher you fly / The higher you fly, the deeper you go' kann als eine Art Paradoxon gelesen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die möglichen Bedeutungen des Songtextes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Flower-Power-Bewegung und die Counterculture, die in dieser Zeit aufkamen, stellten traditionelle Werte und Normen in Frage."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext oszilliert zwischen Leichtigkeit und Tiefe, zwischen der Aufforderung, 'es easy zu nehmen'"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine umfassende Analyse des Songtextes und seiner möglichen Bedeutungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse des Songtextes und seiner möglichen Bedeutungen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine umfassende Analyse des Songtextes und seiner möglichen Bedeutungen bietet."
+  }
+}

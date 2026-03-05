@@ -1,0 +1,128 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Motiv des ewigen Übergangs zwischen Leben, Tod und einer transzendentalen Sphäre (nicht im Text erwähnt).",
+          "Die Aufforderung \"Let my spirit sing\" als Ritual der Unterwerfung unter höhere Kräfte.",
+          "Farbsymbolik \"scarlet fever\" als Ambivalenz zwischen Leidenschaft und Krankheit.",
+          "Einordnung in nordische Mythologie und Romantik (kultureller Kontext ohne Textbezug)."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text bleibt offen, lässt den Hörer in einem Zustand permanenter Ambivalenz."
+        ],
+        "positive_aspekte": [
+          "Viele konkrete Textzitate (z. B. \"first gate of pleasure\", \"second door we’ll lose all shame\", \"Let my spirit sing\").",
+          "Klare Analyse der Gegenüberstellung von Lust und Scham.",
+          "Substantielle Diskussion des Spannungsfeldes zwischen \"redeem me\" und \"forget our deeds\"."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Eröffnungszeile bedeutet eine \"ewige Abkehr aus der sinnlichen Welt\".",
+          "Die Zeile \"A scarlet fever shakes me\" suggeriere reinigende und zerstörerische Kräfte.",
+          "Der Aufruf \"Redeem me from my sins\" bleibt offen, weil \"Let my spirit sing\" bereits Selbstbefreiung impliziere.",
+          "Das Werk sei eine Reflexion post‑modernen Spiritualismus mit Identitätsverlust und Selbstinszenierung.",
+          "Die Verheißung \"Forget our deeds\" birgt die Gefahr, dass das Vergessen zur neuen Sünde wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese offene Spannung zwischen Erinnerung und Vergessen, Heiligkeit und Profanität, bleibt bewusst ungelöst und fordert den Hörer zur eigenen Interpretation auf."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Verknüpfung von Textstellen mit interpretatorischen Aussagen.",
+          "Erklärung der paradoxen Beziehung von \"lonely\" und \"holy\".",
+          "Klare Benennung der Bildsprache (Licht, Violinen, Scarlet Fever)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die doppelte Finalität sei ein Abschied vom Sichtbaren und Eintritt in ein transzendentes Kontinuum.",
+          "Das Maskenspiel erzeugt Spannung zwischen Gemeinschaft und Isolation.",
+          "\"Light of day is fading\" kontrastiere mit \"through the heavens\" und bilde Bild von Leben und Tod.",
+          "\"Let my spirit sing\" sei Aufruf zur kollektiven Ekstase oder weitere Maskierung.",
+          "Kulturelle Einordnung in post‑moderne Spiritualität, die religiöse Symbolik mit säkularer Selbstfeier verschmilzt.",
+          "Die Zeile \"Forget our deeds\" suggeriere eine amnesische Utopie, die moralische Reflexion ausschließe."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese offenen Widersprüche lassen den Hörer im Spannungsfeld zwischen Erlösung und Verdrängung verharren."
+        ],
+        "positive_aspekte": [
+          "Mehrere Textzitate werden korrekt wiedergegeben.",
+          "Erkennt die Ambivalenz des \"masquerade\"-Motivs."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Motiv des ewigen Übergangs zwischen Leben, Tod und einer transzendentalen Sphäre.",
+          "„the light of day is fading“ suggeriere den Untergang des rationalen Alltags.",
+          "Die Metapher \"scarlet fever\" verbinde körperliches Leiden mit fast sakraler Leidenschaft.",
+          "Historische Einordnung in die post‑moderne Neoromanik und das Wiederaufleben mittelalterlicher Ästhetik im Symphonic‑Metal.",
+          "Die Maske verweise auf gesellschaftliche Diskurse über Authentizität und performative Spiritualität."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Unschärfe erzeugt ein anhaltendes Spannungsfeld zwischen Hoffnung und Resignation."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche direkte Textbezüge (z. B. \"first gate of pleasure\", \"second door we’ll lose all shame\", \"Redeem me from my sins\").",
+          "Erkennt die mehrschichtige Symbolik von Lust und Schuld."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Motiv des ewigen Übergangs zwischen Leben, Tod und einer transzendentalen Feier.",
+          "\"light of day is fading\" fungiere als Symbol für den Übergang ins Unbewusste.",
+          "\"scarlet fever\" sei Bild für leidenschaftliche, aber gefährliche Erregung.",
+          "Kulturelle Verortung in post‑moderne Spiritualität, die religiöse Symbolik mit säkularer Selbstfeier mischt.",
+          "Historische Erinnerung an rituelle Maskenbälle, die soziale Rollen invertieren.",
+          "Die Aufforderung \"Forget our deeds\" suggeriere kollektive Amnesie, die befreiend und bedrohlich wirkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Bildsprache bleibt ambivalent: Die \"fever\" ist sowohl heilend als auch zerstörerisch, ohne klare Auflösung.",
+          "Die offenen Widersprüche lassen den Hörer in einem Zustand permanenter Ambivalenz verharren, ohne dass der Text eine endgültige Deutung anbietet."
+        ],
+        "positive_aspekte": [
+          "Klare Aufschlüsselung der Bildsprache (Licht, Violinen, Scarlet Fever).",
+          "Erkennt die strukturelle Gegenüberstellung von \"gate\" und \"door\"."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 1.2,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark im Verhältnis von Texttreue zu spekulativen Ergänzungen. Interpretation 4 zeigt die beste Balance zwischen konkreten Textbezügen und tiefgehender Analyse, während die anderen überwiegend halluzinieren.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus stärker auf nachweisbare Textstellen gelegt werden, wobei spekulative kulturelle oder historische Kontextualisierungen nur dann eingesetzt werden sollten, wenn sie klar aus dem Text ableitbar sind. Interpretation 4 dient als Vorbild für eine ausgewogene, textbasierte und dennoch tiefgründige Interpretation."
+  }
+}

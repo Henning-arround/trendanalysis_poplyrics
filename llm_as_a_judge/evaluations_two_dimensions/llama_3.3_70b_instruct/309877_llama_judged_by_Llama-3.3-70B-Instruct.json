@@ -1,0 +1,91 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen suggerieren eine romantische und sinnliche Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen detailliert und zieht logische Schlüsse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin betont ihre Einzigartigkeit und ihre Fähigkeit, ihrem Partner Trost und Entspannung zu bieten, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen deuten auf eine enge körperliche und emotionale Verbindung hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der emotionalen Verbindung in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin unterstreicht auch ihre Exklusivität und ihre Unersetzlichkeit in der Beziehung, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen zeigen, dass die Sängerin eine starke Sehnsucht nach der morgendlichen Intimität und der Verbindung mit ihrem Partner hat"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Sehnsucht nach morgendlicher Intimität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'My love be your therapy' unterstreicht die Bedeutung der emotionalen und körperlichen Verbindung in der Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen detailliert und zieht logische Schlüsse"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Textzeilen sehr detailliert und zieht logische Schlüsse, ohne Erfindungen oder Oberflächlichkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen zeigen eine hohe Textreue und analytische Tiefe",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet Erfindungen und Oberflächlichkeiten"
+  }
+}

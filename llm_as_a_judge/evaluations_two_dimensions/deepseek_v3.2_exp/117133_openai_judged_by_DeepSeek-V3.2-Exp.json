@@ -1,0 +1,99 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur der 'brustbemalten Mann' und die 'Büste von Helmut Schmidt' fungieren als politische Signaturen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Spektakel ist gleichzeitig verführerisch und entmenschlichend"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verbindung von Ritual, Gewalt und Performance"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'Spiegelquartett – ABBA Revival' die Idee einer künstlichen Wiederholung betont"
+        ],
+        "oberflächliche_aussagen": [
+          "Das 'Sie' ist ein Spiegel einer fragmentierten Wirklichkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verbindung von Tanz, Waffen und grotesken Kostümen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Figur der 'bewaffneten Braut' und des 'Clowns, der eine Knarre verschenkt', verknüpft Heirat mit Bedrohung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied ist ein Spiegelkabinett, in dem jede Szene die Zerbrechlichkeit und Widerstandsfähigkeit der 'Sie' offenbart"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen Zeremonie und Gewalt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Spiegelquartett-Abba-Revival' und das 'Faceless Drummer-Nazgul' verbinden das nostalgische Pop-Referenzsystem mit einer dunklen Unterströmung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das 'Sie' ist ein Spiegelbild einer kollektiven Identität, die zwischen Maskerade und Authentizität schwankt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verbindung von Tanz- und Kampf-Motiven"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein kritischer Kommentar auf die Oberflächlichkeit von Showbusiness und die Sehnsucht nach authentischer Selbstdarstellung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das 'Tremor im Handgelenk' und das 'Rauchen' suggerieren ein nervöses Verlangen nach Bewegung und Flucht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verbindung von Gewalt und ästhetischen Gesten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die erste Interpretation ist aufgrund ihrer ausgewogenen Analyse und textbasierten Argumentation empfehlenswert"
+  }
+}

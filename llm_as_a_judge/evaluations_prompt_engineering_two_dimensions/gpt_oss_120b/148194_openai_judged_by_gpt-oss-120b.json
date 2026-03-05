@@ -1,0 +1,107 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die 1990er‑Jahre einordnen, eine Phase, in der Pop‑ und Jazz‑Fusion ... vermehrt Themen von Individualität und emotionaler Selbstbestimmung behandelte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Verweis auf göttliche Eingriffe spiegelt zugleich ein postmodernes Spiel mit Mythos und Alltag wider, das die kulturelle Tendenz zur Ironisierung romantischer Ideale verdeutlicht.",
+          "Die Textpassagen lassen jedoch offene Fragen zurück: Ist die Liebe tatsächlich ein göttlicher „Knock“, oder bleibt sie ein selbst erzeugter Rausch? Und inwiefern ist die Polizeikontrolle ein Symbol für gesellschaftliche Normen versus persönliche Ekstase?"
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte, zeilenbezogene Analyse (z. B. Aufschlüsselung von Metaphern, Wiederholungen und Spannungsfeldern).",
+          "Klare Unterscheidung zwischen Bildsprache und narrativer Struktur.",
+          "Wenig erfundene Fakten – nur ein historischer Kontext ohne Textbezug."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im historischen Kontext von 1994, einer Phase des post‑kommunistischen Aufbruchs und der Globalisierung, spiegelt das Stück die kulturelle Spannung zwischen individueller Selbstverwirklichung und kollektiven Normen wider.",
+          "Basias polnische Herkunft und ihr Jazz‑Pop‑Stil verbinden westliche Pop‑Ästhetik mit osteuropäischer Sinnlichkeit, was die „göttergleichen“ Kräfte der Liebe als transkulturelles Phänomen positioniert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, zeilennahe Interpretation, die fast jede Textzeile einbindet.",
+          "Gute Balance zwischen Bildanalyse und thematischer Deutung.",
+          "Nur wenige spekulative Aussagen, die klar als historischer Kontext gekennzeichnet sind."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die 199‑er‑Pop‑Ära einordnen, in der Themen wie Selbstfindung und postmoderne Ironie häufig waren; die Formulierung „drunk on love“ spielt dabei auf die damals verbreitete Metapher des Rausches als Befreiung von gesellschaftlichen Normen."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese offenen Widersprüche lassen den Song als Spiegel einer Kultur erscheinen, die Liebe zugleich als heilende und destabilisierende Kraft begreift."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Verknüpfung von Metaphern mit den jeweiligen Zeilen.",
+          "Klare Herausarbeitung der Wiederholungen und ihrer funktionalen Bedeutung.",
+          "Nur ein einziger historischer Zusatz, der nicht im Text verankert ist."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die 1990er‑Jahre einordnen, eine Zeit, in der Pop‑ und Jazz‑Fusion ... persönliche Freiheit und emotionale Intensität thematisierten, während gesellschaftliche Diskurse über Sexualität und Selbstbestimmung an Bedeutung gewannen."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese offenen Spannungen verhindern eine eindeutige Deutung und erhalten die Vielschichtigkeit des Songs."
+        ],
+        "positive_aspekte": [
+          "Durchgängige Textbezugnahme, jede Aussage lässt sich auf konkrete Zeilen zurückführen.",
+          "Gute Balance zwischen stilistischer Analyse und thematischer Interpretation.",
+          "Nur ein historischer Kontext, klar als Zusatz gekennzeichnet."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die 1990er‑Jahre einordnen, eine Phase, in der Pop‑ und Jazz‑Fusion ... vermehrt Themen von Selbstfindung und postmodernen Identitätskrisen behandelte."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse von Metaphern, Wiederholungen und deren narrativer Funktion.",
+          "Klare, textbasierte Argumentation ohne überflüssige Allgemeinplätze.",
+          "Nur ein einziger historischer Zusatz, der nicht im Songtext verankert ist."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen behandeln dieselben Kernbilder (gods of love, Polizeikontrolle, Mond‑Lächeln etc.) konsistent, jedoch variieren sie stark im Anteil spekulativer historischer Kontextualisierungen. Die meisten bleiben textnah, nur Interpretation 1 enthält mehrere erfundene biografische Details.",
+    "empfehlung": "Interpretationen 2‑5 zeigen ein ausgewogenes Verhältnis von Texttreue und analytischer Tiefe. Sie vermeiden übermäßige Halluzinationen und bieten substanzielle, zeilenbezogene Einsichten. Für zukünftige Bewertungen sollte man den Fokus auf solche textzentrierten Analysen legen und spekulative Historisierung auf ein Minimum reduzieren."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die simple, aber effektive Melodie und die markante Stimme von Ray Charles verstärken die emotionale Intensität des Songs"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung",
+          "Die Zeile 'I cried for you, now it's your turn to cry over me' zeigt, dass sich die Rollen vertauscht haben"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist hat eine neue, wahrere Liebe gefunden"
+        ],
+        "positive_aspekte": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung",
+          "Die Zeile 'I cried for you, now it's your turn to cry over me' zeigt, dass sich die Rollen vertauscht haben"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist hat eine neue, wahrere Liebe gefunden"
+        ],
+        "positive_aspekte": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung",
+          "Die Zeile 'I cried for you, now it's your turn to cry over me' zeigt, dass sich die Rollen vertauscht haben"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist hat eine neue, wahrere Liebe gefunden"
+        ],
+        "positive_aspekte": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung",
+          "Die Zeile 'I cried for you, now it's your turn to cry over me' zeigt, dass sich die Rollen vertauscht haben"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Every road must have a turning' deutet darauf hin, dass jeder Weg eine Wende nehmen muss"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung",
+          "Die Zeile 'I cried for you, now it's your turn to cry over me' zeigt, dass sich die Rollen vertauscht haben"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-4 sind sehr ähnlich und wiederholen sich stark",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

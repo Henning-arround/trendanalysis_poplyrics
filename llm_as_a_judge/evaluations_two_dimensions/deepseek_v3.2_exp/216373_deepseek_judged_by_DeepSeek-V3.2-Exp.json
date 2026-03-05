@@ -1,0 +1,88 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin erkennt, dass ihre Liebe Geschichte ist, aber die Erinnerungen und Gefühle, die sie damit verbindet, bleiben bestehen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, die Verbindung zwischen Rauchringen und Erinnerungen wird gut herausgearbeitet."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist auch eine Reflexion über die Vergänglichkeit von Liebe und die Schwierigkeit, loszulassen.",
+          "Die Sängerin weiß, dass ihr Partner nicht mehr da ist, aber die Geschichte ihrer Liebe geht in ihren Träumen und Erinnerungen weiter."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen, aber einige Aussagen sind etwas vage."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin erkennt, dass ihre Liebe Geschichte ist, aber die Erinnerungen und Gefühle, die sie damit verbindet, bleiben bestehen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr ähnlich zu Interpretation 1, aber mit leicht anderen Formulierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain 'Smoke dreams from smoke rings' verdeutlicht die Verbindung zwischen den Rauchringen und den Träumen, die die Sängerin von ihrem ehemaligen Partner hat."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, die Verbindung zwischen Refrain und Traumata wird gut herausgearbeitet."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist durchgehend spezifisch und textanalytisch, die Verbindung zwischen Rauchringen, Erinnerungen und Gefühlen wird sehr gut herausgearbeitet."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Bewertung, die Unterschiede liegen hauptsächlich in der Tiefe der Analyse.",
+    "empfehlung": "Der Ansatz von Interpretation 5 ist empfehlenswert, da er eine sehr tiefe und spezifische Analyse des Songtextes bietet."
+  }
+}

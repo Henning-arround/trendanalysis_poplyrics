@@ -1,0 +1,99 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel im Song, wie die Verwendung von Symbolen und Bildern, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen der Liebe, Bindung und Erlösung sind universell und können in verschiedenen Kontexten interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Person als zentralem Bezugspunkt für die eigene Identität und Existenz."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich klar aus dem Songtext ab (z. B. Analyse von Metaphern, Wiederholungen).",
+          "Wenig spekulative oder biografische Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel wie die Verwendung von Symbolen und Bildern tragen zur emotionalen Wirkung des Songs bei.",
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Idee der romantischen Liebe und der unverbrüchlichen Bindung.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der Liebe als einer grundlegenden und unverzichtbaren Komponente des menschlichen Daseins, die die eigene Identität und Zukunft prägt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analysen (z. B. „A tear in the seam“, „You are the spell that has been cast“).",
+          "Keine erfundenen biografischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Idee der romantischen Liebe, die als zentrales Thema in der Popkultur der 2000er Jahre gilt."
+        ],
+        "positive_aspekte": [
+          "Sehr konkrete Textbezüge, kaum vage Allgemeinplätze.",
+          "Wenig Wiederholungen, klare Struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel im Song, wie die Verwendung von Symbolen und Bildern, tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist wichtig, um die tiefere Bedeutungsebene und symbolische Ordnung zu verstehen."
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen konkreten Textanalysen und Hinweis auf offene Ambiguitäten.",
+          "Keine erfundenen Fakten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Idee der romantischen Liebe, die als zentrales Thema in der Popkultur der 2000er Jahre gilt."
+        ],
+        "positive_aspekte": [
+          "Starke textbasierte Argumentation, kaum redundante Aussagen.",
+          "Erkennt und benennt Ambivalenzen im Text (z. B. „Where are you now?“)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, jedoch variieren sie im Anteil oberflächlicher Aussagen. Die Varianten 4 und 5 zeigen die geringste Oberflächlichkeit und damit die höchste inhaltliche Konsistenz.",
+    "empfehlung": "Interpretationen 4 und 5 bieten den besten Kompromiss aus Texttreue und analytischer Tiefe. Sie vermeiden spekulative Kontextualisierungen und fokussieren sich auf konkrete Textstellen, während sie gleichzeitig die mehrdeutigen Elemente des Songs offenlassen."
+  }
+}

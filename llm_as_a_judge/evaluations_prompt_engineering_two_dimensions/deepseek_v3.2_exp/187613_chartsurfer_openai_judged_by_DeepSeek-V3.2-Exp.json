@@ -1,0 +1,97 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Einordnung in die späte 1980-er-Popkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'my love' erzeugt ein Spannungsfeld"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Postmoderne Skepsis gegenüber festen Rollenbildern"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Graduation's almost here' suggeriert einen bevorstehenden Abschluss"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Ambivalenz zwischen Wissensdurst und romantischer Hingabe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Einordnung in das späte 80er-Jahre-Pop"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'tonight' betont die Dringlichkeit des Moments"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kontext von 'Graduation's almost here' verweist auf den Übergang ins Erwachsenenalter"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Should the teacher stand so near' lässt offen, ob Nähe als pädagogische Nähe oder als intime Nähe verstanden werden soll"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der thematischen Komplexität"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von Formulierungen verstärkt die lyrische Struktur"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und Symbole, aber eine variierende Tiefe in der Interpretation",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

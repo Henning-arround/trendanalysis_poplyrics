@@ -1,0 +1,99 @@
+{
+  "song": "Pay The Man - The Offspring (1998)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'My life is for me now / But, this is life, this is life' unterstreichen die individuelle Freiheit und die Notwendigkeit, sich der Herrschaft des 'Mannes' zu widersetzen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen wie 'In our souls / In our souls / In our souls' verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Unterdrückung und Kontrolle durch eine übergeordnete Instanz, die als 'der Mann' bezeichnet wird"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'We all pay the man for living / Wouldn't it be nice for a change, now, to be unchained?' deuten auf die Sehnsucht nach Freiheit und Unabhängigkeit hin, die jedoch durch die bestehenden Machtverhältnisse unterdrückt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen wie 'In our souls / In our souls / In our souls' verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Unterdrückung und Kontrolle durch eine übergeordnete Instanz, die als 'der Mann' bezeichnet wird"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität und Spannung zwischen der Notwendigkeit, sich der Herrschaft des 'Mannes' zu beugen, und der Sehnsucht nach Freiheit und Unabhängigkeit werden in den Zeilen 'My life is for me now / But, this is life, this is life' sichtbar"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen wie 'In our souls / In our souls / In our souls' verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Unterdrückung und Kontrolle durch eine übergeordnete Instanz, die als 'der Mann' bezeichnet wird"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'We all pay the man for living / Wouldn't it be nice for a change, now, to be unchained?' unterstreichen diese Kritik und die Sehnsucht nach Freiheit und Unabhängigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen wie 'In our souls / In our souls / In our souls' verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Unterdrückung und Kontrolle durch eine übergeordnete Instanz, die als 'der Mann' bezeichnet wird"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität und Spannung zwischen der Notwendigkeit, sich der Herrschaft des 'Mannes' zu beugen, und der Sehnsucht nach Freiheit und Unabhängigkeit werden im Song nicht aufgelöst, sondern eher noch verstärkt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen wie 'In our souls / In our souls / In our souls' verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Unterdrückung und Kontrolle durch eine übergeordnete Instanz, die als 'der Mann' bezeichnet wird"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Unterdrückung und Kontrolle durch eine übergeordnete Instanz thematisiert und die Ambiguität und Spannung zwischen der Notwendigkeit, sich der Herrschaft des 'Mannes' zu beugen, und der Sehnsucht nach Freiheit und Unabhängigkeit sichtbar macht"
+  }
+}

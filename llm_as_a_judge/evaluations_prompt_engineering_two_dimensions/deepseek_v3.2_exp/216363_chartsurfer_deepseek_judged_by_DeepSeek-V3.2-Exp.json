@@ -1,0 +1,99 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Erfahrung von Afroamerikanern in dieser Zeit gesehen werden, die oft mit Diskriminierung und Ungleichheit konfrontiert waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt \"I Cried for You\" eine komplexe emotionale Landschaft, die den Hörer zum Nachdenken über die Dynamiken von Beziehungen und die menschliche Erfahrung einlädt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs und liefert eine tiefere Analyse der Textinhalte."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden, in der die Soul-Musik eine Blütezeit erlebte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann als eine Auseinandersetzung mit den Themen Liebe, Verlust und Vergeltung interpretiert werden, die in der Soul-Musik eine wichtige Rolle spielen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Textinhalte und berücksichtigt den historischen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden, in der die Soul-Musik eine Blütezeit erlebte."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt offenbart der Song eine komplexe emotionale Wirkung, die durch die Verbindung von Schmerz, Reue und Selbstbewusstsein geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Textinhalte und berücksichtigt den historischen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"I Cried for You\" kann als Ausdruck der emotionalen Erfahrungen und Sehnsüchte der afroamerikanischen Bevölkerung in dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song eine komplexe emotionale Landschaft, die den Hörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Textinhalte, berücksichtigt den historischen Kontext des Songs und zeigt eine gute Balance zwischen Textreue und analytischer Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song \"I Cried for You\" kann als Ausdruck der emotionalen Erfahrungen und Sehnsüchte der afroamerikanischen Bevölkerung in dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt der Song eine komplexe emotionale Landschaft, die den Hörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine gute Analyse der Textinhalte, berücksichtigt den historischen Kontext des Songs und zeigt eine gute Balance zwischen Textreue und analytischer Tiefe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Textinhalte und der Berücksichtigung des historischen Kontexts.",
+    "empfehlung": "Die Interpretationen 4 und 5 zeigen eine gute Balance zwischen Textreue und analytischer Tiefe und liefern eine tiefere Analyse der Textinhalte."
+  }
+}

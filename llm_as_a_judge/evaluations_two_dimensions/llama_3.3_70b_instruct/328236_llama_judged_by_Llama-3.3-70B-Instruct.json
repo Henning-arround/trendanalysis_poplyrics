@@ -1,0 +1,94 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen \"I hear them from the other side / As I sit and let the day go by\" deuten auf eine Art von Überwachung oder Kontrolle hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambivalenz von Schmerz und Freundschaft",
+          "Die Analyse der Zeile \"Pain, you're not my friend, and I despise you\" und \"Friend, you are my pain, and I adore you\" ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Frage \"What are you waiting for? I'm here\" suggeriert eine Sehnsucht nach einer Art von Befreiung oder Erlösung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambivalenz von Schmerz und Freundschaft",
+          "Die Analyse der Zeile \"Let's consume it all before they take it all away\" ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen \"I hear them from the other side / As I sit and let the day go by\" deuten auf eine Art von Überwachung oder Kontrolle hin",
+          "Die Frage, ob die Welt noch am Leben ist, während der Tag vergeht, zeigt eine tiefe Unsicherheit und Verzweiflung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambivalenz von Schmerz und Freundschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen \"I hear them from the other side / As I sit and let the day go by\" deuten auf eine Art von Überwachung oder Kontrolle hin",
+          "Die Frage, ob die Welt noch am Leben ist, während der Tag vergeht, zeigt eine tiefe Unsicherheit und Verzweiflung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambivalenz von Schmerz und Freundschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von \"them from the other side\" und das Sitzen und Zusehen, wie der Tag vergeht, deutet auf eine Art von Beobachtung oder Warten auf etwas, das jenseits der aktuellen Realität liegt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Ambivalenz von Schmerz und Freundschaft",
+          "Die Analyse der Zeile \"What are you waiting for? I'm here\" ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Ambivalenz von Schmerz und Freundschaft thematisiert und eine gute Analyse der Zeilen liefert"
+  }
+}

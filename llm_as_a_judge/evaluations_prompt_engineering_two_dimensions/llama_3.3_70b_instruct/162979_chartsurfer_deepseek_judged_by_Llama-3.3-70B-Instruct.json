@@ -1,0 +1,99 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fokussierung auf die Mahlzeit als zentrales Thema kann auch als Spiegelbild der Bedeutung von Essen und gemeinsamer Mahlzeit in der afroamerikanischen Kultur gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'Now all that meat and no potatoes / Just ain't right, like green tomatoes' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Klage über die fehlenden Kartoffeln kann auch als Ausdruck einer tieferen Unzufriedenheit mit den gesellschaftlichen Erwartungen und der Verteilung von Rollen in der Beziehung gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'Now all that meat and no potatoes / Just ain't right, like green tomatoes' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung des Refrains 'all that meat and no potatoes' unterstreicht die Vehemenz, mit der der Protagonist seine Unzufriedenheit ausdrückt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fokussierung auf die Mahlzeit als zentrales Thema kann auch als Spiegelbild der Bedeutung von Essen und gemeinsamer Mahlzeit in der afroamerikanischen Kultur gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'Now all that meat and no potatoes / Just ain't right, like green tomatoes' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Klage über die fehlenden Kartoffeln kann auch als Ausdruck einer tieferen Sehnsucht nach einer intakten und vollständigen Lebenswelt interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'Now all that meat and no potatoes / Just ain't right, like green tomatoes' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung des Refrains 'all that meat and no potatoes' unterstreicht die Vehemenz, mit der der Protagonist seine Unzufriedenheit ausdrückt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die mehrdeutige Natur des Songs, der zwischen Humor und Frustration schwankt, lässt eine tiefere Bedeutungsebene erkennen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich in der Zeile 'Now all that meat and no potatoes / Just ain't right, like green tomatoes' zusammenfassen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die emotionale Wirkung des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die emotionale Wirkung des Songs",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die emotionale Wirkung des Songs"
+  }
+}

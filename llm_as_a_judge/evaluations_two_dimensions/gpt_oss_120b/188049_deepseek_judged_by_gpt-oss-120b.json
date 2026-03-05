@@ -1,0 +1,99 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song scheint eine tiefgründige Kritik an der Oberflächlichkeit und dem Materialismus der modernen Gesellschaft zu sein.",
+          "Die wiederkehrende Phrase \"For time immemorial\" unterstreicht die Zeitlosigkeit und Universalität des menschlichen Strebens nach Wahrheit und Erkenntnis.",
+          "Der \"glorious contest\" und die Suche nach dem \"invincible one\" können als Metapher für die menschliche Suche nach Sinn und Erleuchtung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist strukturiert und wiederholt konsequent das gleiche thematische Gerüst, was die Lesbarkeit erhöht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von der Verunsicherung und dem Zerfall von Sicherheit und Kontrolle in einer Welt, die von Medien und Öffentlichkeit dominiert wird.",
+          "Die Zeile \"Tear down the fence that you sit upon\" symbolisiert den Wunsch nach Freiheit und Authentizität.",
+          "Der Song endet mit der Wiederholung der Phrase \"time immemorial\", die auf die zeitlose und universelle Gültigkeit der Themen hinweist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Aussagen sind klar formuliert und beziehen sich konsequent auf einzelne Textzeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert auch die Jagd nach Macht und Reichtum, die als \"glorious contest to find the invincible one\" beschrieben wird.",
+          "Die Zeile \"Goodbye to you and your money\" kann als Absage an die materialistische Gesellschaft interpretiert werden.",
+          "Der Song scheint eine Sehnsucht nach Authentizität und Ehrlichkeit auszudrücken, die in einer Welt, die von Kameras und Öffentlichkeit dominiert wird, verloren gegangen ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation erkennt wiederkehrende Muster (Mantra‑ähnliche Struktur) im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von der Verunsicherung und dem Zerfall von Sicherheit und Kontrolle in einer Welt, die von Medien und Öffentlichkeit dominiert wird.",
+          "Der Protagonist des Songs sucht nach Antworten und möchte \"everything there is\" wissen, aber unter der Bedingung, dass er nicht für seine Informationen bezahlen muss.",
+          "Der Text kritisiert auch die Kommerzialisierung von Informationen und Erfahrungen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Wiederholung der gleichen Analyse‑Struktur erleichtert das Verständnis."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert auch die Jagd nach Macht und Reichtum, die als \"glorious contest to find the invincible one\" beschrieben wird.",
+          "Der Text wiederholt sich in Form einer mantraähnlichen Struktur, in der die Zeile \"For time immemorial, time immemorial, time\" als eine Art Refrain fungiert.",
+          "Die Lyrics kritisieren auch die Kommerzialisierung von Kunst und Unterhaltung, wie die Zeile \"If you don't charge admission\" zeigt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt und benennt die wiederholende Struktur des Liedes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dasselbe Grundgerüst, was zu einer hohen inhaltlichen Redundanz führt; die Varianz zwischen den Analysen ist gering.",
+    "empfehlung": "Ein Ansatz, der stärker textgebundene Belege liefert und gleichzeitig mehr Ambivalenz zulässt, wäre wünschenswert. Die aktuelle Gruppe von Interpretationen ist stark erfunden und wenig tiefgehend, obwohl sie strukturell konsistent ist."
+  }
+}

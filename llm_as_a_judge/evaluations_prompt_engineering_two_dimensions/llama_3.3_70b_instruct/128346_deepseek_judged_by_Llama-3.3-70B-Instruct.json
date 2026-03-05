@@ -1,0 +1,100 @@
+{
+  "song": "I Had This Thing - Röyksopp feat. Jamie Irrepressible (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik von Röyksopp ist oft mit dem Genre des Electronic/Ambient assoziiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Verlust, Schuld und Reue sind universell"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rasiermessers ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik von Röyksopp ist oft mit dem Genre des Electronic/Ambient assoziiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Verlust, Schuld und Reue sind universell"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rasiermessers ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik von Röyksopp ist oft mit dem Genre des Electronic/Ambient assoziiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Verlust, Schuld und Reue sind universell"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rasiermessers ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik von Röyksopp ist oft mit dem Genre des Electronic/Ambient assoziiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Verlust, Schuld und Reue sind universell"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rasiermessers ist gut",
+          "Die Interpretation der Wiederholung der Phrase 'I never meant to let you go' ist tiefgehend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik von Röyksopp ist oft mit dem Genre des Electronic/Ambient assoziiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen von Verlust, Schuld und Reue sind universell"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rasiermessers ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich",
+    "empfehlung": "Die Interpretation 4 ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

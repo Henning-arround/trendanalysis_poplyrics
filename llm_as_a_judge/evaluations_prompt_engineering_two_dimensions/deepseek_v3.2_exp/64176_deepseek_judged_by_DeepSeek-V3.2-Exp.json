@@ -1,0 +1,97 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Teil einer kulturellen Bewegung interpretiert werden, die sich mit Themen wie Liebe, Verlangen und Identität auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als ein Aufruf zur Intimität und körperlichen Nähe interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die thematische Komplexität des Songs und die Verwendung von Metaphern und Symbolen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Teil einer kulturellen Bewegung interpretiert werden, die sich mit Fragen von Identität, Sexualität und Beziehungen auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als ein Aufruf zur Intimität und körperlichen Nähe interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die thematische Komplexität des Songs und die Verwendung von Metaphern und Symbolen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung von 'Ride It' ist ambivalent und oszilliert zwischen Verlangen und Verletzlichkeit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die thematische Komplexität des Songs, die Verwendung von Metaphern und Symbolen und die emotionale Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Teil einer kulturellen Bewegung interpretiert werden, die sich mit Themen wie Liebe, Verlangen und Identität auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als ein Aufruf zur Intimität und körperlichen Nähe interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die thematische Komplexität des Songs und die Verwendung von Metaphern und Symbolen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Teil einer kulturellen Bewegung interpretiert werden, die sich mit Fragen von Identität, Sexualität und Beziehungen auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs kann als ein Aufruf zur Intimität und körperlichen Nähe interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die thematische Komplexität des Songs und die Verwendung von Metaphern und Symbolen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der thematischen Komplexität des Songs, aber eine variierende Tiefe in der Analyse.",
+    "empfehlung": "Die Interpretation 3 zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und beleuchtet die emotionale Wirkung des Songs."
+  }
+}

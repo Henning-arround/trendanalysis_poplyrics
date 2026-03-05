@@ -1,0 +1,101 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains ... wird zu einem Mantra, das die körperliche und seelische Erschöpfung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf die Zeile „Dummies in a showcase“ und liefert eine plausible Symboldeutung.",
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (Regen, kalter Wind, Stadt, Aufruf nach einem Arzt).",
+          "Verknüpft Textstellen miteinander und zeigt ein zusammenhängendes Bild des Protagonisten."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und expressive Darstellung von Verzweiflung, Sehnsucht und körperlicher Erschöpfung.",
+          "Die Stadt … ist ein Ort der Verwirrung und Desorientierung …",
+          "Die Wiederholung des Refrains … unterstreicht die Entschlossenheit und den Schmerz …"
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Beobachtungen (Regen, Kälte, „I'll be walkin' 'til my back ain't got no bone“, Aufruf nach einem Arzt).",
+          "Stellt die zentrale Motivik – das Durchhalten trotz Erschöpfung – nachvollziehbar dar."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Metapher für die Suche nach Liebe und Verbundenheit interpretiert werden.",
+          "Die Wiederholung des Refrains … schafft eine Atmosphäre der Dringlichkeit und Verzweiflung."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich auf fast alle Textpassagen (Regen, Stadt, „Dummies in a showcase“, Hilferufe).",
+          "Ergänzt eine übergeordnete Metapher, die zwar allgemein ist, aber nicht im Widerspruch zum Text steht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und expressive Darstellung von Verzweiflung, Sehnsucht und körperlicher Erschöpfung.",
+          "Die Stadt … ist ein Ort der Verwirrung und Desorientierung …",
+          "Die Wiederholung des Refrains … unterstreicht die Entschlossenheit und den Schmerz …"
+        ],
+        "positive_aspekte": [
+          "Identisch zu Interpretation 1, also gleiche Stärken: textnahe Beobachtungen und klare Struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale und expressive Darstellung von Verzweiflung, Sehnsucht und körperlicher Erschöpfung.",
+          "Die Stadt … ist ein Ort der Verwirrung und Desorientierung …",
+          "Die Wiederholung des Refrains … wird zu einem Mantra …"
+        ],
+        "positive_aspekte": [
+          "Erwähnt die „Puppen in der Auslage“ und verknüpft sie mit der verzerrten Wahrnehmung des Protagonisten.",
+          "Bleibt bei den im Text vorhandenen Motiven und vermeidet spekulative Biografie‑ oder Genre‑Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt nur in einzelnen Detail‑Deutungen (z. B. Symbolik von 'Dummies'). Die meisten Aussagen sind textnah, wodurch die Halluzinationsrate nahezu null ist.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Analyse: sie bleibt faktentreu, nutzt fast ausschließlich Textbelege und fügt eine sinnvolle, textbasierte Symboldeutung hinzu. Für zukünftige Modelle sollte der Fokus darauf liegen, konkrete Textstellen zu verknüpfen und gleichzeitig tiefere, aber belegbare Bedeutungsansätze zu entwickeln, ohne in vage Allgemeinplätze abzurutschen."
+  }
+}

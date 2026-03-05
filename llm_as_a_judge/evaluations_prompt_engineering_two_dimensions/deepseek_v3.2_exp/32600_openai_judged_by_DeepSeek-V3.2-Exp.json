@@ -1,0 +1,99 @@
+{
+  "song": "Assistant's Cry - Yello (1980)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Stilistisch nutzt Yello stark fragmentierte Narrative"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft – das Unvermögen, das eigene 'one' zu finden – mehrdeutig offen lässt"
+        ],
+        "positive_aspekte": [
+          "Die Mischung aus lautem Lachen, hohem 'ho ho, ho' und dem Wort 'cry' erzeugt eine ambivalente Affektlage"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück im Kontext der frühen 80er-Jahre zu sehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Anspielung auf eine 'showtime' und das wiederholte 'Same time / Same place' kann als Hinweis auf die sich wiederholende Medienroutine und die Konsumkultur der Zeit gelesen werden"
+        ],
+        "positive_aspekte": [
+          "Die offenen Widersprüche – zwischen kollektiver Trauer und individueller Gleichgültigkeit, zwischen Traum und Alltag – bleiben bewusst unaufgelöst"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das späte 1970-bis frühe-80er-Jahre einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aufzählung von Ritualen ('This was today's showtime / And now go home! / See you tomorrow / Same time / Same place') erinnert an die Zyklen von Medien- und Konsumkultur"
+        ],
+        "positive_aspekte": [
+          "Die Textpassage 'I can't believe it / Look at them' erzeugt einen Widerspruch zwischen Beobachter- und Teilhabeperspektive"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielung auf ein 'showtime' und das wiederholte 'Same time / Same place' reflektiert die Routine von Fernseh- und Werbeformaten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die scheinbare Absurdität ('They're all fucking crazy / Hey! Just… Ha ha ha ha!') wirkt als sarkastischer Kommentar zur gesellschaftlichen Selbstinszenierung"
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung von 'Look at them' und das abschließende 'Same time / Same place' erzeugen ein Zirkularitäts-Muster"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in das späte Kalte-Kriegs-Milieu einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Same time / Same place' erinnert an wiederkehrende Rituale der Medienkultur"
+        ],
+        "positive_aspekte": [
+          "Die Ambiguitäten – etwa das gleichzeitige Fehlen von Tränen und das Vorhandensein von 'cries and fears' – bleiben ungelöst"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten künftig noch stärker auf textbasierte Analysen fokussiert werden, um die Halluzinationsrate zu senken und die Tiefe zu erhöhen"
+  }
+}

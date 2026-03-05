@@ -1,0 +1,91 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte spielt in den 1950er oder 60er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über das Leben und die menschlichen Erfahrungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erfasst die Grundstruktur der Geschichte und die wiederkehrende Zeile"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte spielt in den 1950er oder 60er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für den American Dream interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erfasst die Grundstruktur der Geschichte und die wiederkehrende Zeile"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Geschichte ihrer Kinder, die mittlerweile herangewachsen sind, zeigt, dass das Leben weitergeht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text und interpretiert die Geschichte der Kinder als positives Beispiel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Geschichte ihrer Kinder, die mittlerweile herangewachsen sind, zeigt, dass das Leben weitergeht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text und interpretiert die Geschichte der Kinder als positives Beispiel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bleibt vollständig nah am Text, liefert eine detaillierte Analyse der Diskrepanz zwischen Träumen und Realität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Bewertungen variieren leicht, zeigen aber eine Tendenz zu mittleren bis hohen Bewertungen für Tiefe und Halluzination",
+    "empfehlung": "Interpretation 5 zeigt eine ausgewogene und textnahe Analyse, die sowohl die Geschichte als auch die tieferen Bedeutungen des Songs erfasst"
+  }
+}

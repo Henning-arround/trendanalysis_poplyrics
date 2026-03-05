@@ -1,0 +1,99 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene wechselt zu einer Atmosphäre von Gelächter und Alkoholkonsum auf der Veranda, wo die Anwesenden so tun, als ob nichts passiert sei, und alle eine Unschuldsmaske tragen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wirft somit Fragen über die Oberflächlichkeit und die Verdrängung von Problemen in einer Gemeinschaft auf"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend textgetreu und analysiert die Szene und die Reaktionen der Charaktere"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Symbolen wie dem Schussloch und der gebrochenen Fensterscheibe thematisiert möglicherweise auch die Zerbrechlichkeit von Sicherheit und die Verletzlichkeit des Alltags"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song suggeriert, dass die Wahrheit möglicherweise vertuscht oder ignoriert wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Symbolik im Songtext zu analysieren"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Atmosphäre ist geprägt von einer Mischung aus Unschuld und Verdrängung, da jeder so tut, als ob nichts passiert sei"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wirft somit Fragen nach Verantwortung, Wahrheit und der Art und Weise auf, wie Menschen mit Konflikten und Gewalt in ihrer Gemeinschaft umgehen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und analysiert die Atmosphäre und die Reaktionen der Charaktere"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gemeinschaft möglicherweise in die Tat verwickelt ist oder zumindest etwas zu verbergen hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song könnte als Kommentar zu sozialen Problemen wie Gewalt, Korruption oder Vertuschung in kleinen Gemeinschaften interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Song in einen größeren sozialen Kontext einzuordnen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Atmosphäre ist geprägt von einer Mischung aus Unschuld und Schuld, da jeder einen Heiligenschein zu tragen scheint, aber niemand die Wahrheit preisgibt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wirft Fragen über die Natur der Wahrheit und die Verantwortung der Gemeinschaft auf"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und analysiert die Atmosphäre und die Reaktionen der Charaktere"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Szene und der Reaktionen der Charaktere",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet spekulative Aussagen"
+  }
+}

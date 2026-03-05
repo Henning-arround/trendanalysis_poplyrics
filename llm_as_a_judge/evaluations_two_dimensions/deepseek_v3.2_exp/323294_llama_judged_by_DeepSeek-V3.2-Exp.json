@@ -1,0 +1,89 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied ist auch ein Ausdruck der Dankbarkeit und des Lobes"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kulminiert in der Zeile 'I in my Savior am happy and blessed'"
+        ],
+        "positive_aspekte": [
+          "Gute Hervorhebung der Hauptthemen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied ist auch ein Ausdruck der Dankbarkeit und des Lobes"
+        ],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain 'This is my story, this is my song / Praising my Savior all the day long' wird immer wieder aufgenommen"
+        ],
+        "positive_aspekte": [
+          "Gute Hervorhebung der zentralen Botschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied ist auch ein Ausdruck der Dankbarkeit und des Lobes"
+        ],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Textinhalte, aber auch eine Tendenz zu oberflächlichen Aussagen.",
+    "empfehlung": "Die Interpretationen sollten sich bemühen, noch tiefer in die Textanalyse einzutauchen und weniger oberflächliche Aussagen zu treffen."
+  }
+}

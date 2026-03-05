@@ -1,0 +1,89 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics zeichnen ein Bild von einer Welt, die von einem unheimlichen, unsichtbaren Feind bedroht wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die Atmosphäre der Angst und Unsicherheit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'You feel 'em lurking, hear 'em howling in the shadows / Wreaking havoc on your perfect world' verdeutlichen die Wahrnehmung der Bedrohung durch die Betroffenen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die Wahrnehmung der Bedrohung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Worten wie 'shadows', 'venom' und 'silent evil' schafft eine düstere, bedrohliche Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die Atmosphäre"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Don't know what's at stake / I think they're right beside me / Gotta stay awake / And keep them all from biting' zeigt, dass die Angst so weit geht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die Angst"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als eine Metapher für die Ängste und Unsicherheiten des Lebens interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die Metapher"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und zeigen eine hohe Übereinstimmung in der Analyse",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Dieser Button ermöglicht es, die Zeit rückwärts laufen zu lassen und in die Vergangenheit zurückzukehren.",
+          "Die Lyrics beschreiben die Welt als eine Bühne, auf der das Leben eines Menschen wie ein Konzert abläuft.",
+          "Der Song betont, dass die Kunst und die Musik die Macht haben, die Zeit zu überwinden und unsterblich zu machen.",
+          "Der Song ist eine Hommage an die Vergangenheit, aber auch eine Aufforderung, die Gegenwart zu schätzen und die Zukunft zu gestalten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Auseinandersetzung mit der Vergänglichkeit der Zeit und der Unsterblichkeit der Kunst.",
+          "Der Song thematisiert die Frage nach der Bedeutung und dem Wert des Lebens.",
+          "Jeder Mensch hat seine eigene Geschichte, die von anderen Menschen wahrgenommen und interpretiert wird.",
+          "Die Zusammenarbeit zwischen Drunken Tiger und BTS bringt eine Vielzahl von Perspektiven und Stilen zusammen, die sich in den Lyrics widerspiegeln.",
+          "Die wiederkehrende Zeile \"It's timeless\" unterstreicht die Idee, dass wahre Kunst und Musik die Zeit überdauern und eine bleibende Wirkung haben.",
+          "Der Song kann auch als eine Reflexion über die eigene Sterblichkeit und die Vergänglichkeit des Lebens interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die zentrale Metapher von „Play button“ und „Benjamin‑Button“ im Text.",
+          "Er versucht, übergeordnete Themen wie Zeit, Kunst und Sterblichkeit zu verknüpfen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Dieser Button ermöglicht es, die Zeit rückwärts laufen zu lassen und in die Vergangenheit zurückzukehren.",
+          "Die Lyrics beschreiben die Welt als eine Bühne, auf der das Leben eines Menschen wie ein Konzert abläuft.",
+          "Der Song betont, dass die Kunst und die Musik die Macht haben, die Zeit zu überwinden und unsterblich zu machen.",
+          "Der Song ist eine Hommage an die Vergangenheit, aber auch eine Aufforderung, die Gegenwart zu schätzen und die Zukunft zu gestalten.",
+          "Die Lyrics beschreiben den Tod als einen natürlichen Teil des Lebens, aber auch als eine Chance, die eigene Legacy zu hinterlassen.",
+          "Der Song endet mit einer Botschaft der Hoffnung und des Trostes, dass die Kunst und die Musik, die wir schaffen, uns überleben und eine bleibende Wirkung haben wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Auseinandersetzung mit der Vergänglichkeit der Zeit und der Unsterblichkeit der Kunst.",
+          "Der Song thematisiert die Frage nach der Bedeutung und dem Wert des Lebens.",
+          "Jeder Mensch hat seine eigene Geschichte, die von anderen Menschen wahrgenommen und interpretiert wird.",
+          "Die Zusammenarbeit zwischen Drunken Tiger und BTS bringt eine Vielzahl von Perspektiven und Stilen zusammen, die sich in den Lyrics widerspiegeln.",
+          "Die wiederkehrende Zeile \"It's timeless\" unterstreicht die Idee, dass wahre Kunst und Musik die Zeit überdauern und eine bleibende Wirkung haben.",
+          "Der Song kann auch als eine Reflexion über die eigene Sterblichkeit und die Vergänglichkeit des Lebens interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er nennt explizit die wiederholte Zeile „It's timeless“ und verknüpft sie mit dem Thema Zeitlosigkeit.",
+          "Er erkennt die Metapher des Play‑Buttons im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Mitglieder singen auch über die Bedeutung von Kunst und Musik als Möglichkeit, der Vergänglichkeit zu entkommen und ein bleibendes Erbe zu hinterlassen.",
+          "Der Song enthält auch eine Hommage an die Vergangenheit und die Erinnerung an die Anfänge der Musik.",
+          "Der Song ist auch eine Art von Selbstreflexion und Auseinandersetzung mit der eigenen Identität und dem eigenen Erbe.",
+          "Die Mitglieder singen über ihre eigene Geschichte und ihre eigene Musik, die ein Teil von ihnen ist und bleiben wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Auseinandersetzung mit der Vergänglichkeit der Zeit und der Unsterblichkeit der Kunst.",
+          "Der Song beginnt mit einer nostalgischen Reise in die Vergangenheit, als die Mitglieder von der Rückwärtsbewegung der Zeit und der Wiederbelebung von Erinnerungen singen.",
+          "Die Texte sind voller Metaphern und Symbolik, die auf die Verbindung zwischen Vergangenheit, Gegenwart und Zukunft hinweisen.",
+          "Der Refrain \"It's timeless\" wird wiederholt und unterstreicht die Idee, dass wahre Kunst und Musik unsterblich sind und über die Zeit hinausgehen.",
+          "Insgesamt ist \"Timeless\" ein Song, der die Zuhörer dazu anregt, über die Bedeutung von Kunst, Musik und Erinnerung nachzudenken und die Verbindung zwischen Vergangenheit, Gegenwart und Zukunft zu erkennen.",
+          "Der Song ist ein Zeichen für die Unsterblichkeit der Kunst und die Möglichkeit, durch Musik und Kreativität ein bleibendes Erbe zu hinterlassen."
+        ],
+        "positive_aspekte": [
+          "Er erkennt korrekt, dass der Text sowohl koreanische als auch englische Passagen enthält.",
+          "Er geht über reine Wiederholungen hinaus und liefert konkrete Beobachtungen zur Sprachmischung und zur thematischen Verknüpfung von Vergangenheit und Gegenwart."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Dieser Button ermöglicht es, die Zeit rückwärts laufen zu lassen und in die Vergangenheit zurückzukehren.",
+          "Die Lyrics beschreiben die Welt als eine Bühne, auf der das Leben eines Menschen wie ein Konzert abläuft.",
+          "Der Song betont, dass die Kunst und die Musik die Macht haben, die Zeit zu überwinden und unsterblich zu machen.",
+          "Der Song ist eine Hommage an die Vergangenheit, aber auch eine Aufforderung, die Gegenwart zu schätzen und die Zukunft zu gestalten.",
+          "Die Lyrics erinnern daran, dass das Leben kurz ist und dass jeder Moment zählt.",
+          "Gleichzeitig betonen sie, dass die Kunst und die Musik die Macht haben, die Zeit zu transzendieren und eine Verbindung zwischen Vergangenheit, Gegenwart und Zukunft herzustellen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Auseinandersetzung mit der Vergänglichkeit der Zeit und der Unsterblichkeit der Kunst.",
+          "Der Song thematisiert die Frage nach der Bedeutung und dem Wert des Lebens.",
+          "Jeder Mensch hat seine eigene Geschichte, die von anderen Menschen wahrgenommen und interpretiert wird.",
+          "Die Zusammenarbeit zwischen Drunken Tiger und BTS bringt eine Vielzahl von Perspektiven und Stilen zusammen, die sich in den Lyrics widerspiegeln.",
+          "Die wiederkehrende Zeile \"It's timeless\" unterstreicht die Idee, dass wahre Kunst und Musik die Zeit überdauern und eine bleibende Wirkung haben.",
+          "Der Song kann auch als eine Reflexion über die eigene Sterblichkeit und die Vergänglichkeit des Lebens interpretiert werden.",
+          "Insgesamt ist \"Timeless\" ein tiefgründiger und emotionaler Song, der zum Nachdenken anregt und die Zuhörer inspiriert."
+        ],
+        "positive_aspekte": [
+          "Er nennt die zentrale Metapher von Play‑Button und Benjamin‑Button.",
+          "Er versucht, die wiederholte Zeile „It's timeless“ mit einer Aussage über Zeitlosigkeit zu verbinden."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Dieser Button ermöglicht es, die Zeit rückwärts laufen zu lassen und in die Vergangenheit zurückzukehren.",
+          "Die Lyrics beschreiben die Welt als eine Bühne, auf der das Leben eines Menschen wie ein Konzert abläuft.",
+          "Der Song betont, dass die Kunst und die Musik die Macht haben, die Zeit zu überwinden und unsterblich zu machen.",
+          "Der Song ist eine Hommage an die Vergangenheit, aber auch eine Aufforderung, die Gegenwart zu schätzen und die Zukunft zu gestalten.",
+          "Die Lyrics beschreiben den Tod als einen natürlichen Teil des Lebens, aber auch als eine Chance, die eigene Legacy zu hinterlassen.",
+          "Der Song endet mit einer Botschaft der Hoffnung und des Trostes, dass die Kunst und die Musik, die wir schaffen, uns überleben und eine bleibende Wirkung haben wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige und philosophische Auseinandersetzung mit der Vergänglichkeit der Zeit und der Unsterblichkeit der Kunst.",
+          "Der Song thematisiert die Frage nach der Bedeutung und dem Wert des Lebens.",
+          "Jeder Mensch hat seine eigene Geschichte, die von anderen Menschen wahrgenommen und interpretiert wird.",
+          "Die Zusammenarbeit zwischen Drunken Tiger und BTS bringt eine Vielzahl von Perspektiven und Stilen zusammen, die sich in den Lyrics widerspiegeln.",
+          "Die wiederkehrende Zeile \"It's timeless\" unterstreicht die Idee, dass wahre Kunst und Musik die Zeit überdauern und eine bleibende Wirkung haben.",
+          "Der Song kann auch als eine Reflexion über die eigene Sterblichkeit und die Vergänglichkeit des Lebens interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederholte Zeile „It's timeless“ und verknüpft sie mit dem Thema Zeitlosigkeit.",
+          "Er bezieht sich auf die Metapher des Play‑Buttons."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen fast dieselben generischen Aussagen; nur Interpretation 5 liefert zusätzliche textbezogene Beobachtungen (bilinguale Texte) und damit mehr analytische Tiefe.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus stärker auf konkrete Textstellen und deren mehrdeutige Bedeutungen gelegt werden, anstatt wiederholte, vage Generalisierungen zu produzieren. Interpretation 5 zeigt, wie ein einziger konkrete Befund (Sprachmix) die Bewertung deutlich verbessern kann."
+  }
+}

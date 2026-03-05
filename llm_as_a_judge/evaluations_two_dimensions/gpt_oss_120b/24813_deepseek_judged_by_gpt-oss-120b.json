@@ -1,0 +1,105 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Absenz wird als ein Loch beschrieben, das das gesamte Leben des Sängers betrifft und ihn selbst zu einem Teil von sich selbst fehlen lässt.",
+          "Er fühlt sich unfähig, sein Leben ohne sie zu meistern, und ist auf der Suche nach einem Ausweg aus dieser emotionalen Not.",
+          "Der Sänger beginnt langsam, sich mit seiner neuen Situation auseinanderzusetzen und einen Weg zu finden, mit dem Verlust umzugehen.",
+          "Der Song endet mit einer nochmaligen Betonung der schmerzlichen Erkenntnis, dass die geliebte Person ihm fehlt und dass er immer mehr in diese Leere hineinsinkt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. Zeit steht still, Zeilen wie „Ich bin wie ausgestorben“, „Ohne dich bin ich ohne mich“, „nur nach vorn zu sehen“).",
+          "Die Interpretation erkennt die Hoffnungslinien im Refrain und die Entwicklung vom Verharren zum Blick nach vorne."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain wird zu einem emotionalen Aufschrei, der die Leere und den Schmerz des Verlusts verdeutlicht.",
+          "Die Absicht, das „Nichts“ als besser als gar nichts zu akzeptieren, wird nur vage erwähnt.",
+          "Die Aussage, dass die Sehnsucht trotz aller Bemühungen bestehen bleibt, bleibt allgemein."
+        ],
+        "positive_aspekte": [
+          "Alle Kernaussagen lassen sich klar aus dem Songtext ableiten (Zeitstillstand, Wunsch, zurückzudrehen, Blick nach vorne).",
+          "Die Interpretation benennt die zentrale Wendung zum „nach vorne schauen“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild eines „innerlich auffressenden Lochs“ ist nicht im Text verankert.",
+          "Die Formulierung, dass die Erkenntnis besonders schmerzhaft ist, bleibt vage.",
+          "Der Refrain wird als „verzweifelter Hilferuf“ bezeichnet, ohne weitere Analyse."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Textstellen werden zitiert und konkret interpretiert (z. B. „Ich bin wie ausgestorben“, „Ich trete auf der Stelle“, „Nichts ist besser als gar nichts“).",
+          "Die Analyse verbindet die einzelnen Bildungen zu einem nachvollziehbaren Entwicklungsbogen vom Verharren zum Versuch, nach vorne zu blicken."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Abwesenheit wird als ein „Loch“ beschrieben, das nicht gefüllt werden kann.",
+          "Die Aussage, dass der Song mit einer „resignierten Erkenntnis“ endet, bleibt vage.",
+          "Die Behauptung, dass der Schmerz „nicht vergehen wird“, ist nicht explizit im Text verankert."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textzeilen mit deren Bedeutungsgehalt (z. B. „ohne dich bin ich ohne mich“, „nur nach vorn zusehen“).",
+          "Erkennt die Entwicklung von Wunsch nach Zeitumkehr hin zu einem (noch) vorsichtigen Blick nach vorne."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain wird als „Klageruf“ bezeichnet, ohne weitere Textbegründung.",
+          "Die Formulierung, dass der Protagonist „langsam beginnt, sich mit seiner neuen Situation auseinanderzusetzen“, bleibt allgemein.",
+          "Die Aussage, dass das Ende eine „resignierte Feststellung“ ist, ist nicht wörtlich belegt."
+        ],
+        "positive_aspekte": [
+          "Systematische Analyse einzelner Zeilen (z. B. „Ich bin wie ausgestorben“, „ohne dich bin ich ohne mich“, „nur nach vorn zusehen“).",
+          "Betont sowohl die Verzweiflung als auch die vorhandene Hoffnungslinie im Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Verlust, Zeitstillstand, Wunsch nach Rückwärtsgehen, Blick nach vorne). Die Varianz liegt hauptsächlich im Anteil vager Formulierungen; die Texttreue ist durchgängig hoch.",
+    "empfehlung": "Interpretationen, die konsequent Textzitate nutzen und gleichzeitig die mehrdeutigen Momente (z. B. Hoffnungslinien) explizit diskutieren, erzielen die höchste Tiefe. Interpretation 3 (und ebenfalls 1 bzw. 5) balanciert faktentreue Analyse mit einer substanziellen, aber nicht übermäßig vagen Auslegung und ist daher am empfehlenswertesten."
+  }
+}

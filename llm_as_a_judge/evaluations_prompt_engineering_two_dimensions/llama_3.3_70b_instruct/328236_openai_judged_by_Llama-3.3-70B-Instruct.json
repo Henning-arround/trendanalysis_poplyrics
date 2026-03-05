@@ -1,0 +1,104 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Identität der 'sie', die alles wegnehmen könnte, bleibt unbestimmt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied als Reflexion kollektiver Ängste"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der paradoxen Dualität zwischen Schmerz und Freundschaft",
+          "Die Betonung der thematischen Komplexität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Diskussion um mentale Gesundheit in der Metal-Subkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität zwischen Schmerz und Freundschaft",
+          "Die Betonung der Ambiguität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wachsende Angst vor Überwachung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied als Reflexion einer Generation"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der paradoxen Dualität",
+          "Die Betonung der thematischen Komplexität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Angst vor dem Verlust individueller Autonomie"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität zwischen Schmerz und Freundschaft",
+          "Die Betonung der Ambiguität"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unsicherheit über die Identität der 'sie'"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied als Reflexion zeitgenössischer Unsicherheiten"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der paradoxen Dualität",
+          "Die Betonung der thematischen Komplexität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der thematischen Komplexität und der paradoxen Dualität zwischen Schmerz und Freundschaft.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

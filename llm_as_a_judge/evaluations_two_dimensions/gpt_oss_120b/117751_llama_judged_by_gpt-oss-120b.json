@@ -1,0 +1,130 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sternengold und Silbermond, die über dem Sänger wohnen, symbolisieren eine Art kosmische Führung, die ihn auf seinem Weg zu seiner Geliebten begleitet.",
+          "Die Lichter des Abends, die erglüh'n, während er die Glücksmelodie singt, verstärken die Atmosphäre der Romantik und Intimität.",
+          "Die ewige Wacht, die Sternengold und Silbermond in der Nacht halten, deutet auf eine Art von Überwachung und Schutz hin, der die Liebe der beiden Menschen umgibt.",
+          "Der Sänger vertraut darauf, dass diese himmlischen Kräfte ihn zu seiner Geliebten führen werden, und seine Worte werden zu einer Glücksmelodie, die sie bald teilen werden.",
+          "Die wiederkehrende Erwähnung von Sternengold und Silbermond unterstreicht die Bedeutung dieser Symbolik und betont die tiefe emotionale Verbindung zwischen den beiden Liebenden.",
+          "Der Song ist ein Ausdruck der Hoffnung und des Vertrauens, dass die Liebe siegen wird und die Trennung überwunden werden kann.",
+          "Durch die Verwendung von Naturbildern und kosmischen Elementen schafft der Song eine poetische und träumerische Atmosphäre, die die Zuhörer in die Welt der Liebe und Sehnsucht entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Sternengold und Silbermond\" von Peter Alexander ist ein romantischer Ausdruck der Sehnsucht und Liebe."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verwendung von Bildsprache aus dem Text (Sterne, Mond, Weg, Glücksmelodie).",
+          "Erkennt die wiederholten Motive und versucht, deren Bedeutung zu erklären."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sternengold und Silbermond, die über dem Sänger wohnen, symbolisieren eine Art höhere Macht oder Führung, die ihn auf seinem Weg zu seiner geliebten Person begleitet.",
+          "Die Tatsache, dass sie \"den weiten Weg zu dir\" führen, deutet darauf hin, dass die Entfernung zwischen den beiden Liebenden groß ist, aber die Sterne und der Mond dienen als Leitsterne, die den Sänger auf seinem Weg begleiten und ihm Hoffnung geben.",
+          "Die Beschreibung der Sterne und des Mondes als \"wunderschön\" und ihre \"ewige Wacht\" in der Nacht unterstreicht die Idee, dass diese himmlischen Körper eine Art Konstante und Verlässlichkeit darstellen, die über die menschliche Liebe wacht.",
+          "Der Sänger singt seiner Geliebten eine \"Glücksmelodie\", wenn die Lichter erglüh'n, was darauf hindeutet, dass die Musik und die Liebe eng miteinander verbunden sind und dass die Sterne und der Mond eine Art Inspiration und Begleitung für die Liebe bieten.",
+          "Die Wiederholung der Zeile \"Sternengold und Silbermond, die halten in der Nacht / Da oben ihre ewige Wacht\" unterstreicht die Idee, dass die Liebe und die himmlischen Körper eine Art ewige und unveränderliche Verbindung haben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Sternengold und Silbermond\" von Peter Alexander ist ein romantischer Ausdruck der Sehnsucht und Liebe."
+        ],
+        "positive_aspekte": [
+          "Zitiert Textstellen (z. B. \"den weiten Weg zu dir\", \"ewige Wacht\") und verknüpft sie mit einer Interpretation.",
+          "Erkennt das Motiv der Wiederholung im Refrain."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sternengold und Silbermond, die über dem Sänger wohnen, symbolisieren eine Art höhere Macht oder Führung, die ihn auf seinem Weg zu seiner Geliebten begleitet.",
+          "Die Lichter des Abends und die Glücksmelodie, die er singt, verstärken die romantische Atmosphäre und unterstreichen die tiefe emotionale Verbindung zwischen den beiden Liebenden.",
+          "Die ewige Wacht, die die Sternengold und Silbermond in der Nacht halten, deutet auf eine Art von Beständigkeit und Treue hin, die auch die Liebe zwischen den beiden Partnern ausmacht.",
+          "Der Sänger vertraut darauf, dass die Sternengold und Silbermond ihn auf seinem Weg zu seiner Geliebten führen und dass seine Worte bald zu einer Glücksmelodie für sie werden, was darauf hindeutet, dass er hofft, seine Liebe bald wiederzusehen und mit ihr glücklich zu sein.",
+          "Die wiederkehrende Erwähnung der Sternengold und Silbermond unterstreicht die Bedeutung dieser Symbolik und betont die zentrale Rolle, die die Liebe und die Sehnsucht im Leben des Sängers spielen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Sternengold und Silbermond\" von Peter Alexander ist ein romantischer Ausdruck der Sehnsucht und Liebe."
+        ],
+        "positive_aspekte": [
+          "Verbindet mehrere Textbilder (Lichter, Glücksmelodie, Wacht) zu einer zusammenhängenden Deutung.",
+          "Erkennt die strukturelle Wiederholung des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sternengold und Silbermond, die über dem Sänger wohnen, symbolisieren eine Art kosmische Führung, die ihn auf seinem Weg zu seiner Geliebten begleitet.",
+          "Die Lichter des Abends, die erglüh'n, während er die Glücksmelodie singt, verstärken die Atmosphäre der Romantik und Intimität.",
+          "Die ewige Wacht, die Sternengold und Silbermond in der Nacht halten, deutet auf eine Art von Überwachung und Schutz hin, der die Liebe der beiden Menschen umgibt.",
+          "Der Sänger vertraut darauf, dass diese himmlischen Kräfte ihn zu seiner Geliebten führen werden, und seine Worte werden zu einer Glücksmelodie, die sie bald teilen werden.",
+          "Die wiederkehrende Erwähnung von Sternengold und Silbermond unterstreicht die Bedeutung dieser Symbolik und betont die tiefe emotionale Verbindung zwischen den beiden Liebenden.",
+          "Der Song ist ein Ausdruck der Hoffnung und des Vertrauens, dass die Liebe siegen wird und die Trennung überwunden werden kann.",
+          "Durch die Verwendung von Naturbildern und kosmischen Elementen schafft der Song eine poetische und träumerische Atmosphäre, die die Zuhörer in die Welt der Liebe und Sehnsucht entführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Sternengold und Silbermond\" von Peter Alexander ist ein romantischer Ausdruck der Sehnsucht und Liebe."
+        ],
+        "positive_aspekte": [
+          "Stellt einen klaren Zusammenhang zwischen Bildsprache und emotionaler Wirkung her.",
+          "Erfasst die wiederholte Struktur des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sternengold und Silbermond, die über dem Sänger wohnen, symbolisieren eine Art höhere Macht oder Führung, die ihn auf seinem Weg zu seiner Geliebten begleitet.",
+          "Die Tatsache, dass sie \"den weiten Weg zu dir\" führen, deutet darauf hin, dass der Sänger sich von seiner Geliebten getrennt fühlt und auf die Wiederkehr zu ihr hofft.",
+          "Die Schönheit und der Glanz der Sternengold und Silbermond werden als \"wunderschön\" beschrieben, was die Intensität der Gefühle des Sängers unterstreicht.",
+          "Die \"Glücksmelodie\", die er abends singt, ist ein Ausdruck seiner Liebe und Sehnsucht, die er seiner Geliebten übermitteln möchte.",
+          "Die ewige Wacht, die die Sternengold und Silbermond in der Nacht halten, suggeriert eine Art Beständigkeit und Treue, die der Sänger auch in seiner Liebe zu seiner Geliebten empfindet.",
+          "Durch die Wiederholung der Zeile ... wird die Idee der Kontinuität und der unveränderlichen Natur der Liebe betont.",
+          "Der Song ist somit ein poetischer Ausdruck der unendlichen Liebe und Sehnsucht, die durch die Symbolik der Sternengold und Silbermond verdeutlicht wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Sternengold und Silbermond\" von Peter Alexander ist ein romantischer Ausdruck der Sehnsucht und Liebe."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich explizit auf mehrere Textpassagen (z. B. \"den weiten Weg zu dir\", \"ewige Wacht\").",
+          "Versucht, die emotionale Stimmung des Liedes zu erfassen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben generischen Aussagen; die Varianz ist gering, was auf ein hohes Maß an Redundanz und wenig originelle Analyse hindeutet.",
+    "empfehlung": "Ein besserer Ansatz wäre, sich stärker an den konkreten Textzeilen zu orientieren, mehr Ambivalenz zuzulassen und weniger spekulative, nicht belegbare Deutungen zu liefern. Dadurch steigt sowohl die Faktentreue als auch die analytische Tiefe."
+  }
+}

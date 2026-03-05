@@ -1,0 +1,91 @@
+{
+  "song": "Assistant's Cry - Yello (1980)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung von 'hunderttausend Menschen, die die Straße entlanggehen, um ihren Traum zu schützen' verdeutlicht das kollektive Streben nach einem unerreichbaren Ideal"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Oberflächlichkeit des Alltags und die Verdrängung von Angst durch oberflächliche Lacher"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung von 'a hundred thousand people / Walking down the streets / Trying to protect their dream' schildert das kollektive Streben nach einem unerreichbaren Ideal"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Entfremdung des Erzählers von der Masse und die Zyklen von Oberflächlichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die 'hunderttausend Menschen, die die Straße entlanggehen, um ihren Traum zu schützen', suggerieren das kollektive Streben nach einem Ideal"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation kritisiert die Entfremdung des Einzelnen in einer Gesellschaft, die das echte Gefühl in laute, oberflächliche Showeinlagen verwandelt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Verurteilung 'They're all fucking crazy' wirkt nicht als reine Beschimpfung, sondern als Spiegel, der die Absurdität einer Gesellschaft reflektiert"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation reflektiert die Absurdität einer Gesellschaft, die sich selbst als normal präsentiert, obwohl sie von inneren Konflikten zerrissen ist"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Masse – 'a hundred thousand people / Walking down the streets' – in einem mechanischen Trott ihre Träume zu schützen versucht, ohne zu wissen, wonach sie wirklich suchen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von 'looking for the skies / For the stars' symbolisiert das unerreichbare Ideal"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Absurdität des Alltags und die Sehnsucht nach Authentizität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, jedoch mit leichten Abweichungen in der Tiefe und den Halluzinationen",
+    "empfehlung": "Die vierte Interpretation bietet eine sehr tiefe Analyse des Songs und balanciert Textreue mit analytischer Tiefe"
+  }
+}

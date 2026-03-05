@@ -1,0 +1,100 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Entmenschlichung durch technologische Übermacht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Selbstzufriedenheit einer Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse des Textes",
+          "Kritische Auseinandersetzung mit der Entfremdung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Flucht in das All als Metapher für die Entfremdung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gesellschaft lebt in einer von Technologie und Befehlen dominierten Welt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Zeile 'Keine Sehnsucht / (Warum?) / Nach Mutter Erde'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die autoritäre Kraft, die das Individuum in höhere Sphären befördert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Entfremdung von der Natur"
+        ],
+        "positive_aspekte": [
+          "Gute Erklärung des Bildes 'Behind the moon / Verglühen wir gerne'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Selbstzufriedenheit als ironische Selbsttäuschung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gesellschaft verliert die Bindung zur Natur"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Refrains 'Uns geht's gut / Wirklich gut'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kritische Auseinandersetzung mit der technokratischen Moderne"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Entfremdung von der Erde"
+        ],
+        "positive_aspekte": [
+          "Gute Erklärung des Bildes 'Am Heck die Glut'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse des Textes und eine kritische Auseinandersetzung mit der Entfremdung zeigt."
+  }
+}

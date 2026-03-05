@@ -1,0 +1,95 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … gibt Einblick in die Gedanken und Gefühle eines Menschen, der sich in einer Phase der Resignation und des Desinteresses befindet."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich klar aus dem Text ableiten (z. B. die Analyse von „Keine Ahnung, keine Meinung, kein Konzept …“).",
+          "Durchgängige, textbezogene Interpretation ohne spekulative Biografiedetails."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … gibt Einblick in die Gedanken und Gefühle eines Menschen, der sich in einer Phase der Resignation und des Desinteresses befindet."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse mehrerer Bildungen (z. B. Symbolik von Ginger Rodgers/Fred Astaire, Metapher „über's Wasser gehen“).",
+          "Konsistente Verknüpfung von Textstellen mit interpretativen Schlüssen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … gibt Einblick in die Gedanken und Gefühle eines Menschen, der sich in einer Phase der Resignation und des Desinteresses befindet."
+        ],
+        "positive_aspekte": [
+          "Wiederholung der Kerninterpretation mit klaren Bezügen zum Text.",
+          "Keine unbelegten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … gibt Einblick in die Gedanken und Gefühle eines Menschen, der sich in einer Phase der Resignation und des Desinteresses befindet."
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textzeilen mit der Analyse von Apathie und innerer Emigration.",
+          "Keine spekulativen Angaben zu Genre, Produktion oder Künstlerbiografie."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song … ist eine melancholische und introspektive Reflexion über das Leben und die eigene Existenz."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte, zeilenbezogene Analyse (z. B. einzelne Zeilen wie „Mach Dir keine Sorgen …“).",
+          "Berücksichtigt mehrere Ebenen (Stimmung, Symbolik, Ironie) und bleibt dabei textnah.",
+          "Keine erfundenen Fakten, reine Interpretation des vorhandenen Materials."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Kernthesen, wodurch die Varianz gering ist. Interpretation 4 sticht durch zusätzliche Textbezüge und weniger allgemeine Aussagen hervor.",
+    "empfehlung": "Ein Ansatz, der konsequent jede Textzeile einzeln beleuchtet und gleichzeitig die Mehrdeutigkeit des Songs anerkennt (wie Interpretation 4), liefert die beste Balance aus Faktentreue und analytischer Tiefe."
+  }
+}

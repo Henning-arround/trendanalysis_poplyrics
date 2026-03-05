@@ -1,0 +1,117 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück in das frühe 1960er‑Jahre eingebettet, eine Zeit, in der populäre Musik zunehmend persönliche Autonomie und emotionale Authentizität thematisierte.",
+          "Die wiederholte Betonung von „my life“ reflektiert den wachsenden Individualismus der Nachkriegs‑USA, während die unerfüllte Liebesbeziehung die gesellschaftlichen Spannungen zwischen traditionellen Rollenbildern und dem aufkommenden Wunsch nach selbstbestimmter Partnerschaft widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Struktur bleibt fragmentarisch: Es gibt keinen klaren Anfang oder Abschluss, sondern ein fortlaufendes „if‑then“‑Gerüst, das die innere Zerrissenheit betont.",
+          "Die offene Form lässt jedoch bewusst Raum für widersprüchliche Lesarten: Das Versprechen einer „good and true“ Liebe kann zugleich als Kritik an idealisierter Romantik verstanden werden, ohne dass der Text eine definitive Auflösung bietet."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen leiten sich direkt aus dem Songtext ab (5 von 9).",
+          "Die Analyse geht detailliert auf Bildsprache, Metaphern und strukturelle Wiederholungen ein.",
+          "Ambivalenzen werden textbasiert herausgearbeitet, was die Interpretation tiefgründig macht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück in den frühen 1960‑Jahren zu verorten, einer Zeit, in der populäre Musik häufig romantische Ideale mit dem wachsenden Individualismus verband.",
+          "Die Betonung, dass das eigene Glück ausschließlich von einer anderen Person abhängt, spiegelt zugleich traditionelle Geschlechterrollen und die beginnende Kritik an deren Unzulänglichkeit wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains erzeugt ein fast liturgisches Mantra, während die Bildsprache von „kissing“ und „love that's good and true“ zugleich sinnlich und symbolisch für gesellschaftliche Ideale von ehelicher Treue steht.",
+          "Die narrative Struktur bleibt fragmentarisch: Es fehlt ein klarer Handlungsbogen, was die Ambiguität zwischen Wunsch und Realität verstärkt."
+        ],
+        "positive_aspekte": [
+          "Vier klare, textbasierte Aussagen (44 % der Gesamtbehauptungen).",
+          "Gute Balance zwischen Beschreibung des Inhalts und kritischer Reflexion.",
+          "Erkennt die offene, fragmentarische Struktur des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Lied in einer Phase entstanden, in der populäre Musik zunehmend persönliche Sehnsüchte und gesellschaftliche Rollenbilder verhandelte.",
+          "Die Betonung einer „love that's good and true“ spiegelt das post‑war‑optimistische Ideal der Ehe als stabilisierendes Element wider, während die wiederholte Betonung von „no day … sad or blue“ die Angst vor emotionaler Instabilität in einer Zeit des wachsenden Individualismus offenbart."
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Ambivalenz zwischen Wunsch nach totaler Hingabe und der Erfahrung von Enttäuschung bleibt ungelöst und lässt den Hörer im Spannungsfeld zwischen romantischer Utopie und realer Entfremdung verharren."
+        ],
+        "positive_aspekte": [
+          "Fünf gut belegte Textanalysen, die Metaphern und Wiederholungen klar herausarbeiten.",
+          "Verknüpft Symbolik (z. B. „miracle“) mit möglichen Bedeutungen, bleibt dabei am Text orientiert.",
+          "Zeigt ein gutes Gespür für die Spannung zwischen Wunsch und Erfahrung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im historischen Kontext von 1960, einer Zeit des wirtschaftlichen Aufschwungs und der beginnenden Gegenkultur, spiegelt das Lied die konventionelle Vorstellung von romantischer Erfüllung wider, die jedoch bereits von den aufkommenden Individualisierungsprozessen unterminiert wird.",
+          "Nat „King“ Coles sanfte Baritonstimme, die typischerweise für Wohlklang und Stabilität stand, kontrastiert mit den lyrischen Widersprüchen und lässt das Stück zwischen klassischer Liebesballade und einer unterschwelligen Kritik an idealisierter Partnerschaft oszillieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains … fungiert als Leitmotiv, das zugleich Hoffnung und Verzweiflung verstärkt.",
+          "Die Zeile … enthält einen grammatikalischen Bruch, der die Unsicherheit des Sprechers betont und die Authentizität der Zuneigung infrage stellt."
+        ],
+        "positive_aspekte": [
+          "Vier Aussagen sind klar aus dem Text ableitbar.",
+          "Erkennt die mehrdeutige Funktion des Konditional‑„if“ im Text.",
+          "Bietet eine plausible, wenn auch etwas generische, historische Einordnung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet lässt sich das Stück in das frühe 1960er‑Jahre einordnen, eine Phase, in der traditionelle Geschlechterrollen noch stark verankert waren, aber bereits erste Gegenbewegungen zur Selbstbestimmung von Frauen aufkamen.",
+          "Die lyrische Konstruktion spiegelt diese Übergangszeit wider: einerseits die klassische Idealisierung der Frau als „rettende“ Liebe, andererseits die unterschwellige Kritik an einer Beziehung, die nur durch äußere Gesten („kissing“) und nicht durch authentisches Empfinden legitimiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textambiguitäten … lassen Raum für eine mehrschichtige Interpretation, die sowohl romantische Sehnsucht als auch die Gefahr einer erdrückenden Besitzergreifung thematisiert."
+        ],
+        "positive_aspekte": [
+          "Sechs Aussagen beruhen direkt auf dem Songtext (≈ 67 %).",
+          "Analysiert die Spannung zwischen spiritueller „miracle“-Metapher und Besitzanspruch.",
+          "Verknüpft Textstruktur (Wiederholungen, Refrain) mit inhaltlicher Mehrdeutigkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen ähnliche Grundanalysen (Traum‑Motiv, Konditional‑„if“, Wiederholung des Refrains), unterscheiden sich jedoch stark im Umfang historischer Spekulationen. Halluzinationsraten variieren von 2‑3, Tiefe von 3‑4, was auf konsistente, aber nicht einheitliche Qualitätsniveaus hindeutet.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance aus Texttreue und analytischer Tiefe bei gleichzeitig geringster Halluzinationsrate. Für zukünftige Modelle sollte der Fokus darauf liegen, spekulative historische Kontextualisierungen zu minimieren und stattdessen mehr textbasierte, mehrschichtige Analysen zu liefern."
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ist nicht ein einfacher Reue-Ton"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der historischen Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'So many drinking songs were waiting to be sung' spiegelt die damalige Partykultur wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt ambivalent"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Natur- und Bühnenmetaphern",
+          "Berücksichtigung der Wiederholungen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft liegt in der Gegenüberstellung von 'Yesterday, when I was young' und dem gegenwärtigen Bewusstsein"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der narrativen Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'The friends I made all seemed somehow to drift away' einführt einen Gegenpol von sozialer Entfremdung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt ambivalent"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der historischen Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt ambivalent"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik",
+          "Berücksichtigung der narrativen Struktur"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metaphern und Symbolik, jedoch variieren sie in ihrer Fähigkeit, die historische Kontextualisierung und die narrative Struktur zu berücksichtigen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Metaphern und Symbolik bietet und die historische Kontextualisierung berücksichtigt. Es ist jedoch wichtig, die anderen Interpretationen zu berücksichtigen, um eine umfassendere Übersicht über den Song zu erhalten."
+  }
+}

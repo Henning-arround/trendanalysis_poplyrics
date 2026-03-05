@@ -1,0 +1,116 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbolik der \"17\" und der \"7 Tage\" könnte auf die Unschuld und die Vergänglichkeit der Liebe hinweisen.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs könnte auf die Freiheit und die Unabhängigkeit der Jugendlichen in den 1990er Jahren hinweisen, die sich von traditionellen Bindungen lösen und ihre eigenen Wege gehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Liebe, Verlust und Sehnsucht.",
+          "Die literarischen Stilmittel, ... tragen zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene ... könnte in der Auseinandersetzung ... liegen, ..."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. zentrale Zeilen, narrative Struktur).",
+          "Es wird auf konkrete Textstellen verwiesen und Metaphern werden begründet."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in den 1990er Jahren entstand, kann als eine Reflexion der damaligen Gesellschaft und ihrer Werte gesehen werden, in der Liebe und Beziehungen eine zentrale Rolle spielten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Liebe, Verlust und Sehnsucht.",
+          "Die literarischen Stilmittel, wie Metaphern und Bilder, tragen zur emotionalen Wirkung des Songs bei.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Exploration der menschlichen Erfahrung von Liebe, Verlust und Sehnsucht, die durch die symbolische Ordnung der Textzeilen und die emotionale Wirkung des Songs verdeutlicht wird."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Textbelege (z. B. Zitate, Analyse von Metaphern, narrative Struktur).",
+          "Wenig erfundene Aussagen, nur ein einziger Kontext‑Hinweis ohne Textgrundlage."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs kann als eine Zeit der Veränderung und Selbstfindung interpretiert werden, in der die Themen von Liebe, Identität und Freiheit besonders relevant waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Liebe, Verlust und Sehnsucht.",
+          "Die literarischen Stilmittel, ... tragen zur thematischen Komplexität bei.",
+          "Die tiefere Bedeutungsebene ... kann als eine Auseinandersetzung mit den Ambiguitäten und Widersprüchen der Liebe gesehen werden, die durch die Zeilen ... verdeutlicht werden."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textstellen mit interpretativen Erklärungen (z. B. „Love is a fire“ als Metapher).",
+          "Nur ein einziger erfundener Kontext‑Hinweis, sonst hohe Texttreue."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"She was only 17, she ran away\" kann als Hinweis auf die jugendliche Unbeschwertheit und die Suche nach Freiheit und Unabhängigkeit interpretiert werden, die in den 1990er Jahren besonders ausgeprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Liebe, Verlust und Sehnsucht.",
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen eine wichtige Rolle in der Textanalyse.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Gute Menge an konkreten Textbelegen (Zitate, Metaphern‑Analyse).",
+          "Erfindungen beschränken sich auf einen einzigen Kontext‑Satz."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Symbolik der \"17\" und der \"7 Tage\" könnte auf die Unschuld und die Vergänglichkeit der Liebe hinweisen.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs könnte auf die Freiheit und die Unabhängigkeit der Jugendlichen in den 1990er Jahren hinweisen, die sich von traditionellen Bindungen lösen und ihre eigenen Wege gehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Liebe, Verlust und Sehnsucht.",
+          "Die literarischen Stilmittel, ... tragen zur thematischen Komplexität des Songs bei.",
+          "Die tiefere Bedeutungsebene ... könnte in der Auseinandersetzung ... liegen, ..."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind textbasiert und zitieren konkrete Zeilen.",
+          "Analyse von Metaphern und narrativer Struktur ist vorhanden."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2 und 5 zeigen hohe Konsistenz: sie stützen sich fast ausschließlich auf Textbelege und enthalten nur wenige erfundene Kontext‑Hinweise. 3 und 4 wiederholen ähnliche Inhalte, enthalten jedoch mehr spekulative Aussagen, was zu einer niedrigeren Tiefe führt.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance zwischen Texttreue und analytischer Tiefe. Sie nutzt zahlreiche konkrete Textstellen, erklärt stilistische Mittel und vermeidet übermäßige Spekulationen, wodurch sie sowohl faktentreu als auch tiefgehend ist."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das späte 90er‑Jahrzehnt einordnen, eine Phase, in der elektronische Subkulturen vermehrt postmoderne Skepsis gegenüber Fortschritt und Technologie artikulierten.",
+          "Die „spiritual black dimensions aura“ … spiegeln das damalige Interesse an virtuellen Räumen als neue spirituelle Territorien wider."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr genaue Verknüpfung von Textzeilen mit interpretatorischen Aussagen.",
+          "Durchgängige Analyse von Metaphern (z. B. „serpents temptation“, „swirling black aura of united burning chaos“).",
+          "Klare Strukturierung der thematischen Dualität zwischen kosmischer Sehnsucht und Fehlfunktion."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text spiegelt gesellschaftliche Ängste vor einer „black dimension“ des digitalen Zeitalters wider.",
+          "Die Spannung zwischen kosmischer Sehnsucht und der „cosmic error“ bleibt ungelöst, was den Song zu einem offenen Spiegel kultureller Unsicherheit macht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen kosmischer Sehnsucht und der „cosmic error“ bleibt ungelöst, was den Song zu einem offenen Spiegel kultureller Unsicherheit macht."
+        ],
+        "positive_aspekte": [
+          "Umfassende Erfassung aller Bildfelder des Textes.",
+          "Gute Balance zwischen wörtlicher Textbeobachtung und interpretatorischer Tiefe.",
+          "Erklärung der Zirkularität durch Refrain‑Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1997 in einer Phase des wachsenden Interesses an New‑Age‑ und Cyber‑Kultur zu verorten, in der digitale Welten und spirituelle Erkundungen parallelisiert wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Nutzung von Textzitaten zur Untermauerung der Analyse.",
+          "Ausführliche Betrachtung der Wiederholung als rituelles Element.",
+          "Verknüpfung von Bildsprache und möglicher narrativer Entwicklung (vom äußeren Suchen zum inneren Vollenden)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk 1997 im Kontext der späten 90er‑Jahre zu verorten, einer Phase, in der elektronische Subkulturen vermehrt postmoderne Skepsis gegenüber Fortschritt und Technologie ausdrückten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Spannung zwischen … eröffnet eine affektive Ebene, die sowohl Ehrfurcht als auch Melancholie transportiert, ohne diese Gefühle eindeutig zu kanalisieren – ein bewusstes Spiel mit Widersprüchen, das die Vielschichtigkeit moderner Identitätskonstruktionen reflektiert."
+        ],
+        "positive_aspekte": [
+          "Klare Herausarbeitung der Mehrdeutigkeit der Bildsprache.",
+          "Gute Balance zwischen konkreten Textbezügen und konzeptueller Reflexion.",
+          "Erkenntnis, dass die Wiederholung eine narrative Schleife erzeugt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk 1997 in einer Phase post‑modernen Skepsis gegenüber Fortschritt und Technologie zu verorten; das Interesse an kosmischen und esoterischen Themen spiegelt das späte 20. Jahrhundert wider, in dem digitale Vernetzung zugleich Entfremdung erzeugte."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Zuordnung von Symbolen (Serpent, Black Dimensions Aura) zu möglichen Bedeutungen.",
+          "Durchgängige Bezugnahme auf die Zirkularität des Textes.",
+          "Stimmige Verknüpfung von Bildsprache und thematischer Ambivalenz."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen behandeln dieselben Kernbilder; die Varianz liegt hauptsächlich im Umfang historischer Kontextualisierungen. Die drei Top‑Interpretationen (2,4,5) zeigen die geringste Halluzinationsrate und höchste textbezogene Tiefe.",
+    "empfehlung": "Interpretationen, die sich streng an den Songtext halten und nur sparsam externe Kontextualisierungen einbringen (z. B. Interpretation 5), erzielen die beste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

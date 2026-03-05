@@ -1,0 +1,95 @@
+{
+  "song": "Uns geht's gut - And One (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kritik an der menschlichen Tendenz",
+          "Metapher für die menschliche Existenz"
+        ],
+        "oberflächliche_aussagen": [
+          "surreale und ironische Betrachtung des menschlichen Zustands"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Textdetails"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kritik an der Oberflächlichkeit und der Selbstzufriedenheit"
+        ],
+        "oberflächliche_aussagen": [
+          "surreale und ironische Betrachtung des menschlichen Zustands",
+          "Zufriedenheit und Wohlbefinden"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Metapher für die menschliche Suche nach Freiheit und Selbstverwirklichung"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Spezifische Textanalyse",
+          "Erwähnung von Textdetails"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Spezifische Textanalyse",
+          "Erwähnung von Textdetails"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Spezifische Textanalyse",
+          "Erwähnung von Textdetails"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 1.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine hohe Konsistenz in der textbezogenen Analyse",
+    "empfehlung": "Die Ansätze der Interpretationen 3, 4 und 5 sollten weiterverfolgt werden, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweisen"
+  }
+}

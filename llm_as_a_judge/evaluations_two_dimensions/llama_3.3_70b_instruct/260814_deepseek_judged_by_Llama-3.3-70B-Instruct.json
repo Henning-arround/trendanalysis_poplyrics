@@ -1,0 +1,101 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stadt Glasgow wird als Ort der Jugend und der Freiheit dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine nostalgische und poetische Hommage an die Jugend und die Stadt Glasgow"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene am Clyde ist detailliert und atmosphärisch"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stadt Glasgow wird als Ort der Jugend und der Freiheit dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine nostalgische und poetische Hommage an die Jugend und die Stadt Glasgow"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene am Clyde ist detailliert und atmosphärisch"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stadt Glasgow wird als Ort der Jugend und der Freiheit dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine nostalgische und poetische Hommage an die Jugend und die Stadt Glasgow"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene am Clyde ist detailliert und atmosphärisch"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'The Union's south' könnte auf die Verbindung zur Gewerkschaftsbewegung anspielen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reise durch die Stadt"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Menschen, die von Hampden kommen, ist detailliert und atmosphärisch",
+          "Die Figur von Billy ist ein interessantes Beispiel für die Veränderungen in der Stadt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stadt Glasgow wird als Ort der Jugend und der Freiheit dargestellt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine nostalgische und poetische Hommage an die Jugend und die Stadt Glasgow"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der Szene am Clyde ist detailliert und atmosphärisch",
+          "Der Song ist ein Porträt der Stadt und ihrer Bewohner"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-3 sind sehr ähnlich und zeigen eine geringe Varianz, während Interpretation 4 hervorsticht durch ihre Tiefe und Interpretation 5 eine gute Balance zwischen Textreue und analytischer Tiefe zeigt",
+    "empfehlung": "Interpretation 4 ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt und interessante Einblicke in die Bedeutung des Songs bietet"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielung auf 'forgotten masters' verweist auf ein kulturelles Gedächtnis"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen kosmischer Sehnsucht und der 'cosmic error' bleibt ungelöst"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität zwischen transzendentalem Wissen und Vergänglichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Skepsis gegenüber Fortschritt und Technologie"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Spannung zwischen 'wonder and confusion'"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambivalenz zwischen Begeisterung und Verlorenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verortung des Werks in der späten 90er-Jahre-Subkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz zwischen Schöpfung und Zerstörung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Trinkens"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Skepsis gegenüber linearem Fortschritt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die lyrische Spannung zwischen 'wonder and confusion'"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Gegenüberstellung zwischen kosmischer Erhebung und 'cosmic error'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verortung des Stücks in der New-Age- und Cyber-Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz zwischen Erkenntnisdrang und existenzieller Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der zentralen Botschaft und der wiederholten Aufforderung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der textlichen Elemente, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

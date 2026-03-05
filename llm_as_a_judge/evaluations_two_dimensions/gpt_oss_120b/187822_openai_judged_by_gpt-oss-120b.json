@@ -1,0 +1,94 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Klare Verknüpfung von einzelnen Zeilen mit interpretativen Aussagen",
+          "Erkenntnis von Macht‑ und Hilflosigkeitsdynamiken",
+          "Berücksichtigung von Mehrdeutigkeit (z. B. mögliche Illusion der Liebe)"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Wiederholung von Schlüsselmotiven des Textes",
+          "Gute Herausarbeitung von inneren Konflikten des Erzählers",
+          "Verknüpfung von „Ich dachte, ich könnte dich retten“ mit dem Motiv der Selbstüberschätzung",
+          "Offenheit für Ambivalenz (Manipulation vs. Anziehungskraft)"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematischer Aufbau von Macht‑ und Wissensasymmetrie",
+          "Verknüpfung von „under your spell“ mit destruktiver Verführung",
+          "Schlüssige Interpretation der Zeile „Did you know the ending right from the start“",
+          "Abschließende Darstellung eines „Awakening‑Prozesses“"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betonung von Erinnerung vs. Erkenntnis als strukturelles Spannungsfeld",
+          "Ausführliche Analyse der Selbstkritik des Erzählers",
+          "Klarer Bezug zu wiederholten Motiven („good at breaking my heart“, „under your spell“)",
+          "Erkenntnis einer kalkulierten, unausgesprochenen Entscheidung"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Verknüpfung aller Song‑Elemente zu einem kohärenten Bild",
+          "Differenzierte Darstellung von Opfer‑ und Selbstüberschätzungsrollen",
+          "Explizite Analyse des Refrains als kathartischen Ausbruch",
+          "Erkenntnis, dass das Herz‑brechen als „Kunstform“ stilisiert wird"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen nahezu identische Faktentreue (0 % Halluzination) und hohe inhaltliche Tiefe, sodass die Varianz praktisch null ist.",
+    "empfehlung": "Da sämtliche Interpretationen gleichermaßen texttreu und tiefgehend sind, kann jede als vorbildlich gelten. Für zukünftige Aufgaben empfiehlt es sich, weiterhin den Fokus auf textbasierte Evidenz zu legen und gleichzeitig die Mehrdeutigkeit des Songs zu betonen, um die analytische Tiefe zu erhalten."
+  }
+}

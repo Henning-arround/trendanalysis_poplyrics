@@ -1,0 +1,139 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft ... die bereits mit einem anderen Mann, Dick, verheiratet ist.",
+          "Die Erzählung von unerfüllter Liebe und Verlust kann als Spiegelbild der gesellschaftlichen Erwartungen und Normen der 1970er Jahre verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und mehrschichtige Erzählung, die sich auf den ersten Blick als einfache Liebesgeschichte darstellt.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Die wiederkehrende Zeile … kann als metaphorische Aufforderung verstanden werden, Jane nicht nur als Person, sondern auch als Symbol der unerreichbaren Liebe zu betrachten.",
+          "Die Bilder von Jane … kontrastieren … was die emotionale Wirkung des Songs noch verstärkt.",
+          "Der kulturelle, historische und gesellschaftliche Kontext … spielt ebenfalls eine Rolle bei der Interpretation.",
+          "Die tiefere Bedeutungsebene … liegt möglicherweise in der symbolischen Ordnung der unerreichbaren Liebe, die als universelles menschliches Erlebnis dargestellt wird."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textstellen und verknüpft sie plausibel mit emotionaler Bindung (Beleg).",
+          "Erkennt die anhaltende Ambiguität und das Fehlen einer Auflösung im Song (Beleg).",
+          "Verknüpft das Motiv des Kusses bei der Beerdigung mit einer klaren metaphorischen Deutung (Beleg)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft … die bereits mit einem anderen Mann, Dick, verheiratet ist.",
+          "Die Erzählung spielt offensichtlich in einer kleinen Gemeinde oder einem Dorf, in dem jeder jeden kennt.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Konfrontation mit der eigenen Sterblichkeit … liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und mehrschichtige Erzählung, die sich auf den ersten Blick als einfache Liebesgeschichte darstellt.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext … ist ebenfalls von Bedeutung.",
+          "Die Ambiguität und Spannung … werden im Song nicht aufgelöst, sondern bleiben bestehen (zu allgemein).",
+          "Die symbolische Ordnung des Songs wird durch die Kontraste … geprägt (vage)."
+        ],
+        "positive_aspekte": [
+          "Zieht konkrete Textzitate heran und erklärt deren Bedeutung (Beleg).",
+          "Analysiert wiederholte Anrede und Bildsprache (Beleg).",
+          "Erkennt die Symbolik des Kusses bei der Beerdigung (Beleg)."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft … die bereits mit einem anderen Mann, Dick, verheiratet ist.",
+          "Die Erzählung spielt offensichtlich in einer kleinen Gemeinde oder einem Dorf, in dem jeder jeden kennt.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Konfrontation mit der eigenen Sterblichkeit … liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und mehrschichtige Erzählung, die sich auf den ersten Blick als einfache Liebesgeschichte darstellt.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext … ist ebenfalls von Bedeutung.",
+          "Die Ambiguität und Spannung … werden im Song nicht aufgelöst, sondern bleiben bestehen (zu allgemein).",
+          "Die symbolische Ordnung des Songs wird durch die Kontraste … geprägt (vage)."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textstellen mit konkreten stilistischen Mitteln (Beleg).",
+          "Erklärt die metaphorische Bedeutung des Kusses bei der Beerdigung (Beleg).",
+          "Erkennt die anhaltende Unaufgelöstheit der Spannung (Beleg)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft … die bereits mit einem anderen Mann, Dick, verheiratet ist.",
+          "Die Erzählung spielt offensichtlich in einer kleinen Gemeinde oder einem Dorf, in dem jeder jeden kennt.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Konfrontation mit der eigenen Sterblichkeit … liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und mehrschichtige Erzählung, die sich auf den ersten Blick als einfache Liebesgeschichte darstellt.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext … ist ebenfalls von Bedeutung.",
+          "Die Ambiguität und Spannung … werden im Song nicht aufgelöst, sondern bleiben bestehen (zu allgemein).",
+          "Die symbolische Ordnung des Songs wird durch die Kontraste … geprägt (vage)."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive (Lachen, Kuss, Tod) und verknüpft sie mit dem Text (Beleg).",
+          "Betont die wiederholte Struktur des Refrains (Beleg).",
+          "Diskutiert die symbolische Gegenüberstellung von Leben und Tod (Beleg)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft … die bereits mit einem anderen Mann, Dick, verheiratet ist.",
+          "Die Erzählung spielt offensichtlich in einer kleinen Gemeinde oder einem Dorf, in dem jeder jeden kennt.",
+          "Die tiefere Bedeutungsebene des Songs könnte in der Konfrontation mit der eigenen Sterblichkeit … liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song … bietet eine komplexe und mehrschichtige Erzählung, die sich auf den ersten Blick als einfache Liebesgeschichte darstellt.",
+          "Die literarischen Stilmittel … tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext … ist ebenfalls von Bedeutung.",
+          "Die Ambiguität und Spannung … werden im Song nicht aufgelöst, sondern bleiben bestehen (zu allgemein).",
+          "Die symbolische Ordnung des Songs wird durch die Kontraste … geprägt (vage)."
+        ],
+        "positive_aspekte": [
+          "Verweist konsequent auf wiederholte Textpassagen (Beleg).",
+          "Analysiert die metaphorische Bedeutung des Kusses bei der Beerdigung (Beleg).",
+          "Erkennt die offene, nicht aufgelöste Spannung im Narrativ (Beleg)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen fast identische Inhalte; nur Interpretation 2 weicht leicht ab, bleibt aber in Qualität ähnlich. Die Varianz ist gering.",
+    "empfehlung": "Interpretation 2 ist leicht besser, weil sie mehr konkrete Textbelege nutzt und weniger spekulative Kontextualisierungen enthält. Für zukünftige Modelle sollte der Fokus auf belegbare Textanalysen und weniger auf vage gesellschaftliche oder historische Verallgemeinerungen gelegt werden."
+  }
+}

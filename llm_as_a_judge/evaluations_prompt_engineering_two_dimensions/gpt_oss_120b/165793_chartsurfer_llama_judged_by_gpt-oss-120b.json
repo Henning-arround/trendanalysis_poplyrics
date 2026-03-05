@@ -1,0 +1,109 @@
+{
+  "song": "On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist ebenfalls von Bedeutung. Die Veröffentlichung im Jahr 1957 fällt in eine Zeit des wirtschaftlichen Aufschwungs und der kulturellen Veränderungen in den USA."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine vielschichtige Botschaft, die sich auf die thematische Komplexität von Optimismus, Liebe und Selbstfindung konzentriert.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung von Glück, Liebe und Selbstfindung."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Aussagen sind direkt aus dem Text ableitbar (z. B. die Analyse der Zeile mit dem Affen, die Metapher der „Sunny Side“, die Liebes‑ und Optimismus‑Passagen).",
+          "Die Interpretation geht über reine Oberflächlichkeit hinaus, indem sie die ironische/humorvolle Note des Affen‑Bildes herausarbeitet und damit Ambivalenz zeigt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist ebenfalls von Bedeutung, da er in den 1950er Jahren, einer Zeit des wirtschaftlichen Aufschwungs und sozialer Veränderungen in den USA, entstand."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine vielschichtige Botschaft, die sich auf die thematische Komplexität von Optimismus, Liebe und Selbstfindung konzentriert.",
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung von Freiheit, Glück und Liebe gesehen werden, die in den Textzeilen und der Musik zum Ausdruck kommt.",
+          "Durch die Analyse dieser Elemente kann ein umfassendes Verständnis des Songs und seiner kulturellen Bedeutung gewonnen werden."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge zu den Metaphern („Sunny Side of the Street“), zu den Zeilen über Armut vs. Reichtum und zur Wiederholung von „I know why my mother“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist ebenfalls von Bedeutung, da er in den 1950er Jahren, einer Zeit des wirtschaftlichen Aufschwungs und sozialer Veränderungen in den USA, entstand."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine vielschichtige Botschaft, die sich auf die thematische Komplexität von Optimismus, Liebe und Selbstfindung konzentriert.",
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung von Freiheit, Glück und Liebe gesehen werden, die in den Textzeilen und der Musik zum Ausdruck kommt.",
+          "Durch die Analyse dieser Elemente kann ein umfassendes Verständnis des Songs und seiner kulturellen Bedeutung gewonnen werden."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Belege aus dem Text (z. B. die Gegenüberstellung von Armut und Reichtum, die Wiederholung von „I know why my mother“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Einbettung des Songs in die 1950er Jahre ist ebenfalls von Bedeutung, da er die Werte und Träume der damaligen Gesellschaft widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine vielschichtige Botschaft, die sich auf die thematische Komplexität von Optimismus, Liebe und Selbstfindung konzentriert.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung von Glück, Liebe und Selbstverwirklichung.",
+          "Durch die Analyse dieser Elemente kann ein umfassendes Verständnis des Songs und seiner kulturellen Bedeutung gewonnen werden."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge zu den zentralen Metaphern und zur Wiederholung von „I know why my mother“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist ebenfalls von Bedeutung, da er in den 1950er Jahren, einer Zeit des wirtschaftlichen Aufschwungs und sozialer Veränderungen in den USA, entstand."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine vielschichtige Botschaft, die sich auf die thematische Komplexität von Optimismus, Liebe und Selbstfindung konzentriert.",
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung von Freiheit, Glück und Liebe gesehen werden, die in den Textzeilen und der Musik zum Ausdruck kommt.",
+          "Durch die Analyse dieser Elemente kann ein umfassendes Verständnis des Songs und seiner kulturellen Bedeutung gewonnen werden."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Textstellen zu den Themen Optimismus, Armut vs. Reichtum und der Mutter‑Motivation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben generischen Kernthesen; nur Interpretation 3 fügt einen zusätzlichen, textbasierten Befund (Affe‑Zeile) ein, was die Varianz gering, aber die Tiefe erhöht.",
+    "empfehlung": "Ein guter Ansatz sollte die im Text vorhandenen konkreten Bilder (z. B. den Affen, die Wiederholungen) nutzen und gleichzeitig spekulative historische Kontextualisierungen vermeiden. Interpretation 3 demonstriert dies am besten."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Club‑Szenerie … und die Referenz zu Kanye … verankern das Stück in einer urban‑populären Kultur, die 2007 von globalisierten Club‑Ritualen und dem Aufstieg von R&B‑Fusion geprägt war.",
+          "Die Gegenüberstellung von … lässt offene Fragen nach Authentizität, Machtverhältnissen und der Rolle von Konsum‑Ritualen in der modernen Liebes­kultur entstehen, ohne dass der Song eine eindeutige Auflösung anbietet."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast alle Aussagen lassen sich direkt aus den Zeilen des Songs ableiten.",
+          "Klare strukturelle Analyse (Refrain, Bildsprache, narrative Brüche).",
+          "Widersprüchliche Bedeutungen werden explizit benannt, was die Ambivalenz des Textes gut einfängt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Ride it“ kann als Metapher für das Durchleben von Momenten ohne Bindung gelesen werden, während das wiederholte „let me feel you“ zugleich ein Appell an Authentizität in einer von Oberflächlichkeit geprägten Clubkultur ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Club‑Szenerie … und die Referenz zu Kanye … verorten das Stück in einer urban‑late‑2000er‑Kultur, in der Konsum, Marken‑ und Musik‑Signaturen als Statussymbole fungieren."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von formalen Elementen (Refrains, Bildsprache) mit inhaltlichen Spannungen.",
+          "Erkennt die fragmentierte Erzählstruktur (Telefon, Gewalt) und diskutiert deren Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Spannungen zwischen Verführung und Flucht erzeugen ein ambivalentes Narrativ, das keine klare Auflösung bietet.",
+          "Die Wiederholung des Refrains verstärkt die hypnotische Wirkung und lässt die Grenze zwischen Wunsch und Zwang verschwimmen.",
+          "Gleichzeitig erzeugen die Dialogfragmente … ein fragmentiertes Storytelling, das die Unsicherheit des Protagonisten betont.",
+          "Die Mischung aus englischen Slang‑Elementen und popkulturellen Referenzen … verankert den Text in einer urbanen, globalisierten Jugendkultur der späten 2000er‑Jahre.",
+          "Historisch ist das Stück in die Ära der R&B‑ und Club‑Fusion eingebettet, in der sexuelle Selbstbestimmung und das Spiel mit Identitäten zentrale Themen waren.",
+          "Die wiederholte Forderung nach „Feeling“ und „Riding“ reflektiert zugleich das wachsende Interesse an körperlicher Autonomie und die gleichzeitige Angst vor emotionaler Entfremdung, die in der Zeile … zum Ausdruck kommt.",
+          "Die Ambivalenz zwischen Verlangen nach Nähe und dem Bedürfnis, sich zu distanzieren, bleibt offen und lässt den Hörer im Spannungsfeld zwischen Intimität und Selbstschutz verharren."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentralen wiederholten Motive („Ride it“, „let me feel you“).",
+          "Verknüpft Textstellen mit allgemeinen Themen von Macht und Spiel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt der Song wiederholte Refrains … als hypnotisches Symbol für die Zyklen von Verführung und Ablehnung, während Bildsprache … sinnliche Räume schafft, die zugleich als Bühnen für performative Geschlechterrollen fungieren.",
+          "Die Erwähnung von Marken und Konsum … verankert das Geschehen im urbanen Club‑Milieu der späten 2000er‑Jahre, das von Globalisierung und Medienpräsenz geprägt war.",
+          "Diese Ambivalenz spiegelt gesellschaftliche Spannungen wider, in denen intime Beziehungen gleichzeitig als Markt‑Transaktion und als Raum für authentische Selbsterfahrung verstanden werden, ohne dass der Text eine endgültige Position einnimmt."
+        ],
+        "positive_aspekte": [
+          "Klare Aufschlüsselung von Textteilen (Club‑Szene, Telefon‑Störung).",
+          "Verbindet formale Wiederholungen mit inhaltlichen Spannungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Verweis auf „Kanye’s on“ … verankert das Stück in einem spezifischen Pop‑Kultur‑Milieu der 2000er‑Jahre, das Hip‑Hop‑Prestige als Statussymbol einsetzt.",
+          "Gleichzeitig erzeugen Wiederholungen … eine fast rituelle Beschwörung, die sowohl Verführung als auch Zwang suggeriert, ohne diese eindeutig zuzuordnen.",
+          "Im kulturellen Kontext spiegelt das Werk die Konsum‑ und Geschlechterdynamiken einer globalisierten Clubkultur wider: Das Bild der „diva“ … und das Spiel mit Geld … verdeutlichen ein Machtspiel, das zwischen Verführung und ökonomischer Transaktion pendelt.",
+          "Diese Ambiguitäten – zwischen Lust und Ablehnung, Nähe und Flucht – bleiben ungelöst und erzeugen ein anhaltendes Spannungsfeld, das den Hörer zugleich in die Sinnlichkeit und die Unsicherheit moderner Begehren zieht."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit einer Analyse von Macht‑ und Konsumspiel.",
+          "Erkennt die zentrale Rolle des plötzlich klingelnden Handys als Störfaktor."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine relativ hohe Konsistenz bei der Identifikation von Schlüsselmotiven (z. B. Refrain, Club‑Szene, Telefon‑Störung). Unterschiede liegen vor allem im Umfang der kulturellen Kontextualisierung – einige Interpretationen bleiben stark textnah, andere streuen vage, oberflächliche Kultur‑Bezüge ein.",
+    "empfehlung": "Interpretationen, die fast ausschließlich aus dem Text ableitbare Aussagen nutzen und gleichzeitig tiefgehende strukturelle Analysen bieten (wie Interpretation 3), erzielen das beste Verhältnis von Faktentreue und analytischer Tiefe. Künftige Modelle sollten darauf achten, spekulative Kultur‑ oder Gesellschaftsdeutungen klar zu kennzeichnen oder zu vermeiden, um Halluzinations‑Score niedrig zu halten."
+  }
+}

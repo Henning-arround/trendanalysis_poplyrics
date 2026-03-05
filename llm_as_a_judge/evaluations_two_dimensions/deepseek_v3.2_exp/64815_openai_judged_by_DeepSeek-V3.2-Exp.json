@@ -1,0 +1,95 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt verbindet der Song persönliche Reflexion mit einer fast mythologischen Sicht auf den historischen Wandel."
+        ],
+        "positive_aspekte": [
+          "Der Interpretation gelingt es, den Text sehr genau zu analysieren und tiefere Bedeutungen herauszuarbeiten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Wort „turning“ impliziert eine Rotation, ein Zyklus, der sich schließt und zugleich einen neuen Anfang eröffnet."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert der Song einen transzendentalen Übergang, in dem das Bewusstsein für den unvermeidlichen Wandel und die Notwendigkeit des Loslassens zu einer fast rituellen Erkenntnis wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse des Textes und seiner Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch die Wiederholung der Schlüsselphrasen entsteht ein hypnotischer Rhythmus, der den Hörer in den Fluss des Wandels zieht und das Bewusstsein für die Vergänglichkeit schärft."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse des Textes und seiner Struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des „falling“ des alten Weltbildes vermittelt ein Bild des Zerfalls, das jedoch nicht destruktiv, sondern befreiend wirkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert der Song einen kollektiven, fast rituellen Übergang, in dem das Weben von Geschichte, das Akzeptieren des Unvermeidlichen und das bewusste Loslassen zu einer neuen, emergenten Ordnung führen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse des Textes und seiner Symbolik."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die „peculiar ways that we behave“ deuten darauf hin, dass menschliche Gewohnheiten und Rituale in dieser Phase besonders auffällig oder sogar absurd erscheinen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert der Song einen kollektiven, fast mythischen Übergang, in dem das Individuum sowohl Zeuge als auch Mitgestalter einer neuen Weltordnung ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse des Textes und seiner Struktur."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt bieten sie eine gute Analyse des Textes.",
+    "empfehlung": "Die erste Interpretation ist die beste, da sie eine sehr genaue Analyse des Textes bietet und tiefere Bedeutungen herausarbeitet."
+  }
+}

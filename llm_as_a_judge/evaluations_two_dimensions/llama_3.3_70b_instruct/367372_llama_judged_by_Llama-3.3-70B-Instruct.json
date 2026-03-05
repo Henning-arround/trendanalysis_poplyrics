@@ -1,0 +1,103 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Grenzen zwischen den Individuen aufgehoben sind"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Prozess der Befreiung und des Ausdrucks durch Tanz und Musik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel",
+          "Die Nacht und der Tag überdauert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Grenzen zwischen den Individuen aufgehoben sind",
+          "Die Energie und Ekstase der Party"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Prozess der Befreiung und des Ausdrucks durch Tanz und Musik"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Freiheit und Ekstase bieten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Prozess der Befreiung und des Ausdrucks durch Tanz und Musik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel",
+          "Die Schönheit und Anziehungskraft der weiblichen Tanzpartner"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Grenzen zwischen den Individuen aufgehoben sind",
+          "Die Energie und Ekstase der Party"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Prozess der Befreiung und des Ausdrucks durch Tanz und Musik"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Tanz werden zu einem universellen Sprachmittel"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Grenzen zwischen den Individuen aufgehoben sind"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Prozess der Befreiung und des Ausdrucks durch Tanz und Musik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Beschreibung des Prozesses der Befreiung und des Ausdrucks durch Tanz und Musik",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und beschreibt den Prozess der Befreiung und des Ausdrucks durch Tanz und Musik"
+  }
+}

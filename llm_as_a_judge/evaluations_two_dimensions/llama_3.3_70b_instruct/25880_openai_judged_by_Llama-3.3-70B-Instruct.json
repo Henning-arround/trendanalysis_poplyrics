@@ -1,0 +1,93 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Motivs verstärkt die Idee, dass Liebe nicht nur ein Gefühl, sondern ein rettender Leitfaden ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und bietet eine klare Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von kaltem Schicksal und wärmender, menschlicher Nähe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft der Liebe betont"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die emotionale Reise des Protagonisten zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Motivs betont, dass die Begegnung nicht zufällig, sondern zielgerichtet ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und bietet eine klare Analyse der emotionalen Entwicklung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Motivs verstärkt die Idee, dass Liebe nicht nur ein Gefühl, sondern ein rettender Leitfaden ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und bietet eine klare Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Referenz zu 'Augen in der Menschenmasse' fungiert als Symbol für das Durchdringen der Anonymität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wärme der Haut des Gegenübers löst den 'Nebel meiner Traurigkeit' auf"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die emotionale Reise des Protagonisten zu erfassen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf Texttreue und analytische Tiefe",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe, wie in Interpretation 1 und 3 zu sehen ist"
+  }
+}

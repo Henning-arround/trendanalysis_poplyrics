@@ -1,0 +1,99 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem \"Ride It\" entstand, ist der britische Popmusik‑Diskurs der 2000er Jahre."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich eindeutig aus dem Songtext ableiten (z. B. Metaphern, Symbolik, narrative Wendepunkte).",
+          "Die Interpretation geht über reine Wiederholungen hinaus und analysiert Ambivalenz, emotionale Oszillation und den Wendepunkt durch das Telefon.",
+          "Sie verbindet Textbelege mit einer differenzierten Lesart, ohne unnötige Verallgemeinerungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem \"Ride It\" entstand, ist der britische Popmusik‑Diskurs der 2000er Jahre.",
+          "Der Song kann als Teil einer kulturellen Bewegung interpretiert werden, die sich mit Themen wie Liebe, Verlangen und Identität auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Textbezüge (Metaphern, Symbolik, wiederholte Refrains) werden konsequent analysiert.",
+          "Die Analyse liefert eine kohärente Darstellung der narrativen Struktur und der affektiven Dimension."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem \"Ride It\" entstand, ist der britische Popmusik‑Diskurs der 2000er Jahre.",
+          "Der Song kann als Teil einer kulturellen Bewegung interpretiert werden, die sich mit Fragen von Identität, Sexualität und Beziehungen auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Aufzählung von Stilmitteln (Metaphern, Symbole) mit direktem Bezug zum Text.",
+          "Gute Balance zwischen Beschreibung der Textinhalte und deren weiterführender Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem \"Ride It\" entstand, ist der britische Popmusik‑Diskurs der 2000er Jahre.",
+          "Der Song kann als Teil einer kulturellen Bewegung interpretiert werden, die sich mit Fragen von Identität, Sexualität und Beziehungen auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um den konkreten Hinweis auf die Zeile über das klingelnde Telefon und verknüpft sie mit dem Thema Störung der Intimität.",
+          "Stilistisch konsistent und textnah, ohne überflüssige Verallgemeinerungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem \"Ride It\" entstand, ist der britische Popmusik‑Diskurs der 2000er Jahre.",
+          "Der Song kann als Teil einer kulturellen Bewegung interpretiert werden, die sich mit Themen wie Liebe, Verlangen und Identität auseinandersetzte."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Metaphern, Symbolen und narrativen Elementen.",
+          "Verknüpft die wiederholte Refrain‑Formel mit einer Analyse der emotionalen Spannung im Song."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch kaum in inhaltlicher Tiefe. Die Varianz liegt hauptsächlich im Umfang der erfundenen Kontextangaben (2‑3 pro Text).",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Analyse: sie bleibt fast vollständig textbasiert, weist die geringste Halluzinationsrate auf und bietet gleichzeitig eine tiefgehende, nuancierte Lesart des Songs. Für zukünftige Bewertungen sollte darauf geachtet werden, externe Kontextualisierungen zu vermeiden, sofern sie nicht im Text verankert sind."
+  }
+}

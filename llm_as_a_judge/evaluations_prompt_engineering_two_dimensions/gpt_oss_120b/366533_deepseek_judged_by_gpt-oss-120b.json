@@ -1,0 +1,132 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik stark von der Rock‑and‑Roll‑Bewegung geprägt.",
+          "\"Hold Me\" ist ein Beispiel für die frühe Rockmusik.",
+          "Der Song spiegelt auch die gesellschaftlichen Veränderungen und die zunehmende Liberalisierung der 1960er Jahre wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck von Sehnsucht und Verlangen nach Nähe und Geborgenheit.",
+          "Die Verwendung von Metaphern und Symbolen ist in diesem Song eher subtil, aber dennoch vorhanden.",
+          "Der kulturelle und historische Kontext, in dem der Song entstand, ist ebenfalls von Bedeutung.",
+          "Insgesamt offenbart \"Hold Me\" eine tiefere Bedeutungsebene, in der es um die menschliche Sehnsucht nach Verbindung und Anerkennung geht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textpassagen (z. B. „Hold me…“, „Thrill me“) und leitet daraus konkrete Bedeutungen ab.",
+          "Verknüpft wiederholte Imperative mit dem Wunsch nach Nähe, was eine nachvollziehbare Textanalyse darstellt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit waren die Rollen von Frauen und Männern streng definiert, und emotionale Ausdrucksformen waren oft eingeschränkt.",
+          "Die emotionale Wirkung des Songs ist geprägt von der authentischen und verletzlichen Stimme von Brenda Lee, die die affektive Dimension des Songs unterstreicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck von Sehnsucht und Verlangen nach Nähe und Geborgenheit.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre betrachtet werden.",
+          "Der Song kann als Ausdruck der Sehnsucht nach emotionaler Freiheit und Authentizität interpretiert werden.",
+          "Insgesamt zeigt \"Hold Me\" eine komplexe emotionale Landschaft, die von Sehnsucht, Verlangen und Verletzlichkeit geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der rhetorischen Mittel (Imperative, Wiederholungen, Metaphern).",
+          "Verknüpft Textstellen mit konkreten interpretativen Aussagen (z. B. Ambivalenz zwischen Nähe‑Wunsch und Angst vor Eingrenzung).",
+          "Berücksichtigt den historischen Kontext, ohne ihn zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren wurden traditionelle Normen und Werte in Frage gestellt.",
+          "Der Song kann als Ausdruck der zunehmenden Liberalisierung und des Wandels der Sexualmoral interpretiert werden.",
+          "Die emotionale Wirkung des Songs liegt in seiner authentischen und direkten Darstellung von Verlangen und Sehnsucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck von Sehnsucht und Verlangen nach Nähe und Geborgenheit.",
+          "Die literarischen Stilmittel in \"Hold Me\" sind einfach, aber effektiv.",
+          "Der Song muss im kulturellen und historischen Kontext der 1960er Jahre gesehen werden.",
+          "Insgesamt zeigt \"Hold Me\" eine komplexe emotionale Landschaft, die die Zuhörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Erkennt und erklärt die zentrale Rolle der Imperative und Wiederholungen.",
+          "Analysiert die Metapher „Hold me tenderly infold me“ und verbindet sie mit dem Wunsch nach körperlicher und emotionaler Nähe.",
+          "Bezieht die mögliche sexuelle Komponente („Thrill me…“) in die Interpretation ein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die Popmusik stark von der Rock‑and‑Roll‑Bewegung geprägt.",
+          "\"Hold Me\" ist ein Beispiel für die frühe Rockmusik.",
+          "Der Song spiegelt auch die gesellschaftlichen Veränderungen und die zunehmende Liberalisierung der 1960er Jahre wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck von Sehnsucht und Verlangen nach Nähe und Geborgenheit.",
+          "Die Verwendung von Metaphern und Symbolen ist in diesem Song eher subtil, aber dennoch vorhanden.",
+          "Der kulturelle und historische Kontext, in dem der Song entstand, ist ebenfalls von Bedeutung.",
+          "Der emotionale Effekt ist intensiv und dringt direkt auf den Hörer ein, indem er eine Atmosphäre der Verletzlichkeit schafft.",
+          "Insgesamt offenbart \"Hold Me\" eine tiefere Bedeutungsebene, in der es um die menschliche Sehnsucht nach Verbindung und Anerkennung geht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert wiederholte Imperative („Hold me“, „Thrill me“) und verknüpft sie mit physischem und emotionalem Verlangen.",
+          "Stellt einen Zusammenhang zwischen Text und möglicher Angst vor Verlassenwerden her."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit waren die Rollen von Frauen und Männern streng definiert, und emotionale Ausdrucksformen waren oft eingeschränkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Ausdruck von Sehnsucht und Verlangen nach Nähe und Geborgenheit.",
+          "Literarische Stilmittel in \"Hold Me\" sind einfach, aber effektiv.",
+          "Der Song muss auch im kulturellen und historischen Kontext der frühen 1960er Jahre betrachtet werden.",
+          "Der Song kann als Ausdruck einer Sehnsucht nach emotionaler Freiheit interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist intensiv und direkt, was durch die einfache und repetitive Struktur unterstrichen wird.",
+          "Insgesamt zeigt \"Hold Me\" eine komplexe emotionale Landschaft, die von Sehnsucht, Verlangen und emotionaler Abhängigkeit geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Imperative und ihrer Dringlichkeit.",
+          "Erklärt die Metapher „infold me“ als Symbol für körperliche und emotionale Nähe.",
+          "Verbindet Textmerkmale mit einer klaren, wenn auch etwas allgemeinen, historischen Einordnung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen wiederholen viele Grundthesen (Sehnsucht, Imperative, historischer Kontext). Unterschiede liegen hauptsächlich im Umfang der erfundenen historischen Aussagen und im Grad der Textdetail‑Analyse. Die Varianz ist moderat; keine Interpretation ist extrem abweichend.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance zwischen faktentreuer Textbezug und analytischer Tiefe. Für zukünftige Modelle sollte der Fokus darauf liegen, spekulative historische Aussagen zu reduzieren und gleichzeitig mehr konkrete Textanalysen (z. B. syntaktische Muster, Wortwahl) zu integrieren."
+  }
+}

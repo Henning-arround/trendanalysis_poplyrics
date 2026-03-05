@@ -1,0 +1,97 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität zwischen der persönlichen und universellen Dimension der Liebe bleibt jedoch bestehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die Wiederholung der Zeile 'You're my number one' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Metapher 'Love is like the sun' symbolisiert die universelle und allgegenwärtige Natur der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird hier als etwas dargestellt, das über den mainstream-Erfolg hinausgeht und eine tiefere Bedeutung hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'Love is like the sun' verstärkt diese emotionale Wirkung"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Love is everywhere' schafft ein Bild von einer Welt, in der die Liebe allgegenwärtig ist"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität zwischen der persönlichen und der öffentlichen Ebene der Liebe bleibt jedoch bestehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die Wiederholung der Zeile 'You're my number one' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Metapher 'Love is like the sun' symbolisiert die universelle und allgegenwärtige Natur der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird hier als etwas dargestellt, das über den mainstream-Erfolg hinausgeht und eine tiefere Bedeutung hat"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'Love is like the sun' verstärkt diese emotionale Wirkung"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Love is everywhere' schafft ein Bild von einer Welt, in der die Liebe allgegenwärtig ist"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die Wiederholung der Zeile 'You're my number one' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Metapher 'Love is like the sun' symbolisiert die universelle und allgegenwärtige Natur der Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf die textliche Analyse konzentrieren und weniger auf allgemeine Aussagen"
+  }
+}

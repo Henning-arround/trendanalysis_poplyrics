@@ -1,0 +1,99 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 2001 entstanden, einer Zeit, in der post‑9/11‑Unsicherheiten und das Aufkommen von Diskussionen über mentale Gesundheit das kulturelle Klima prägten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge (Metaphern, Antithesen, Wiederholungen).",
+          "Klare Herausarbeitung von Ambiguitäten und offenen Fragen.",
+          "Gute Verknüpfung von formalen Elementen (Wortwahl, Struktur) mit inhaltlicher Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell verortet sich das Stück im frühen 21. Jahrhundert, einer Zeit, in der psychische Fragmentierung und das Aufbrechen traditioneller Rollenbilder vermehrt thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Metaphern und Bildsprache.",
+          "Erkenntnisreiche Diskussion über die Ambivalenz von „peel“ (Befreiung vs. Zerstörung).",
+          "Stilistische Beobachtungen (Mantra‑artige Wiederholung) sind gut begründet."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 2001 in einer Phase entstanden, in der Heavy Metal vermehrt Themen von Identitätsfragmentierung und gesellschaftlicher Unsicherheit behandelte – ein Echo der nach‑9/11‑Ära, in der das Vertrauen in stabile Narrative erschüttert war."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von lyrischen Bildern (Masken, Käfig, Barrikaden) mit dem zentralen Dualitätsmotiv.",
+          "Klare Herausarbeitung der Mehrdeutigkeit von „love hating / Baiting me“.",
+          "Gute Balance zwischen Texttreue und weiterführender kultureller Kontextualisierung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in die frühe‑2000er‑Metal‑Szene einordnen, die nach den Ereignissen von 2001 vermehrt Themen von Identitätsfragmentierung und gesellschaftlicher Maskierung bearbeitete."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Aufschlüsselung von formalen Mitteln (Metaphern, Wiederholungen).",
+          "Erkenntnisreiche Diskussion über die Ambivalenz von „Schizophrenic basic needs“.",
+          "Starke Verknüpfung des Jekyll‑Hyde‑Mythos mit postmoderner Identitätskritik."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 21. Jahrhunderts spiegelt das Stück die post‑9/11‑Unsicherheit und das wachsende Misstrauen gegenüber maskierten Identitäten wider; das Motiv des Doppelgängers ist ein Echo klassischer Literatur (Stevenson) und moderner Medien, die das Versteckte als Bedrohung inszenieren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ausführliche stilistische Analyse (Alliteration, hypnotischer Rhythmus).",
+          "Klare Herausarbeitung der Mehrdeutigkeit von „monster“ als persönlicher oder gesellschaftlicher Feind.",
+          "Gut strukturierte Argumentation, die Textbelege konsequent einbindet."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein ähnliches Niveau: wenige erfundene Kontextualisierungen (je 1 pro Text) und keine oberflächlichen Floskeln. Die Varianz ist gering, was auf konsistente Bewertungskriterien hinweist.",
+    "empfehlung": "Die Interpretationen sind insgesamt solide und textnah. Für zukünftige Modelle sollte der Fokus darauf liegen, kulturelle Kontextualisierungen stärker mit konkreten Textbelegen zu verknüpfen, um die Halluzinationsrate weiter zu senken, während die bereits gute analytische Tiefe beibehalten wird."
+  }
+}

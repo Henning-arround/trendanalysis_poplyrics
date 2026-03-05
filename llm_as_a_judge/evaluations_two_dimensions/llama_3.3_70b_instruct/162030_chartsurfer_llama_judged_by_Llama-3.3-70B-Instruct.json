@@ -1,0 +1,99 @@
+{
+  "song": "The Flat Foot Floogee - Louis Armstrong (1954)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Gesang von Louis Armstrong, der von seiner typischen Warmherzigkeit und Spontanität geprägt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zuhörer auffordert, ihre Sorgen zu vergessen und sich dem Rhythmus der Musik hinzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Textzeilen 'Whenever your cares are chronic / Just tell the world, 'go hang'' werden korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Gesang von Louis Armstrong, der von seiner typischen Warmherzigkeit und Spontanität geprägt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zuhörer auffordert, ihre Sorgen zu vergessen und sich dem Rhythmus der Musik hinzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Textzeilen 'Whenever your cares are chronic / Just tell the world, 'go hang'' werden korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Gesang von Louis Armstrong, der von seiner typischen Warmherzigkeit und Spontanität geprägt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zuhörer auffordert, ihre Sorgen zu vergessen und sich dem Rhythmus der Musik hinzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Textzeilen 'Whenever your cares are chronic / Just tell the world, 'go hang'' werden korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Gesang von Louis Armstrong, der von seiner typischen Warmherzigkeit und Spontanität geprägt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zuhörer auffordert, ihre Sorgen zu vergessen und sich dem Rhythmus der Musik hinzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Textzeilen 'Whenever your cares are chronic / Just tell the world, 'go hang'' werden korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Gesang von Louis Armstrong, der von seiner typischen Warmherzigkeit und Spontanität geprägt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zuhörer auffordert, ihre Sorgen zu vergessen und sich dem Rhythmus der Musik hinzugeben"
+        ],
+        "positive_aspekte": [
+          "Die Textzeilen 'Whenever your cares are chronic / Just tell the world, 'go hang'' werden korrekt interpretiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Keine der Interpretationen ragt heraus, da sie alle sehr ähnlich sind",
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich, was auf eine mangelnde Vielfalt in den Interpretationen hinweist",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und Vielfalt in die Analyse zu bringen"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Klare Verknüpfung von Metaphern (Naht, Kleid der Täuschung, Licht im Dunkeln) mit den jeweiligen Zeilen",
+          "Berücksichtigung von Ambivalenzen (Erster/Letzter, Zukunft aus der Vergangenheit)",
+          "Keine spekulativen biografischen oder genrebezogenen Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Bildinterpretation (Naht, Kleid der Täuschung, Licht im Dunkeln)",
+          "Explizite Verknüpfung von „Erster/Letzter“ mit zeitloser Bindung",
+          "Keine unbelegten Fakten über Künstler oder Genre"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„ein stilles Versprechen, das niemals losgelassen wird“ – sehr allgemeine Formulierung ohne konkreten Textbezug"
+        ],
+        "positive_aspekte": [
+          "Konsistente Bezugnahme auf zentrale Motive des Songs",
+          "Klare Strukturierung von Einleitung, Refrain‑Analyse und Schlussfolgerung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um das Motiv des Pilgers, was die Ambivalenz des Textes gut einfängt",
+          "Verknüpft „spell“ und „Zauber“ präzise mit dem Originaltext",
+          "Keine spekulativen Angaben außerhalb des Songtexts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betont die wiederholte Frage „Where are you now?“ und deren emotionale Wirkung",
+          "Verbindet die Zeile „You are the future from the past“ mit dem Konzept von Zeit und Magie",
+          "Durchgehend textbasierte Interpretation ohne externe Kontextualisierung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben stark am Text verankert; Unterschiede liegen nur im Detailgrad der Analyse. Keine signifikanten Halluzinationen, aber leichte Variation in Oberflächlichkeit (Interpretation 5).",
+    "empfehlung": "Interpretation 2 liefert die ausgewogenste Mischung aus texttreuer Analyse und tiefgehender, aber nicht redundanter Interpretation. Für zukünftige Bewertungen sollte darauf geachtet werden, generische Floskeln zu vermeiden, um die Oberflächlichkeitsrate niedrig zu halten."
+  }
+}

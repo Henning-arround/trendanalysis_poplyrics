@@ -1,0 +1,94 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Vergangenheit erscheint als eine Zeit der Unschuld und des Leichtsinns"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Sandes",
+          "Gute Beschreibung der Jugend als Zeit der Exzesse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist auch ein Ausdruck der Reue und der Sehnsucht nach einer verlorenen Zeit"
+        ],
+        "positive_aspekte": [
+          "Gute Beschreibung der Jugend als Zeit der Exzesse",
+          "Gute Analyse der Vergangenheit als Zeit der Unschuld"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Fazit eines Lebens, das von Exzessen und mangelnder Selbstwahrnehmung geprägt war"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Sandes",
+          "Gute Beschreibung der Jugend als Zeit der Exzesse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Jetzt, im Rückblick, erkennt der Sänger, dass seine Jugend und seine Zeit davongelaufen sind"
+        ],
+        "positive_aspekte": [
+          "Gute Beschreibung der Jugend als Zeit der Exzesse",
+          "Gute Analyse der Vergangenheit als Zeit der Unschuld"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Vergangenheit erscheint als eine Zeit der Unschuld und des Leichtsinns"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Sandes",
+          "Gute Beschreibung der Jugend als Zeit der Exzesse"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Jugend als Zeit der Exzesse und der Vergangenheit als Zeit der Unschuld",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik ist ein poetisches Bekenntnis",
+          "Die Gitarrenlinien und die Stimme untermauern die Spannung"
+        ],
+        "oberflächliche_aussagen": [
+          "zeitloses Bild von Hoffnung",
+          "Wiedergeburt und dem unaufhörlichen Drang"
+        ],
+        "positive_aspekte": [
+          "Verbindung von Naturbildern und persönlicher Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "sakrale Anrufung des Geliebten"
+        ],
+        "oberflächliche_aussagen": [
+          "universelles Bild",
+          "persönliche Perspektive"
+        ],
+        "positive_aspekte": [
+          "Kontrastierung von kollektivem Erwachen und individueller Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "universelles Bild",
+          "persönliche Perspektive"
+        ],
+        "positive_aspekte": [
+          "Verbindung von Naturbildern und persönlicher Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik wirkt wie ein poetisches Bekenntnis",
+          "Die Gitarrenklänge wirken wie das entfernte Murmeln des Morgens"
+        ],
+        "oberflächliche_aussagen": [
+          "zeitloses Symbol",
+          "Zusammenspiel von äußeren Zyklen und inneren Sehnsüchten"
+        ],
+        "positive_aspekte": [
+          "Verbindung von Naturbildern und persönlicher Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "universelles Bild",
+          "persönliche Perspektive"
+        ],
+        "positive_aspekte": [
+          "Kontrastierung von kollektivem Erwachen und individueller Sehnsucht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen 2, 3 und 5 zeigen eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

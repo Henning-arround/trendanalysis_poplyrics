@@ -1,0 +1,98 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung des Wortes 'all' unterstreicht die Einfachheit und zugleich die Tiefe dieser Sehnsucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' (Songtext) erkennbar."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel wie Metaphern und Symbole."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Kritik an der materialistischen Gesellschaft gelesen werden, in der 'money' und 'time' (Songtext) oft als die wichtigsten Güter angesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' (Songtext) zusammengefasst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs kann als eine Reaktion auf die zunehmende Isolation und Vereinsamung in der modernen Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' (Songtext) zusammengefasst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel wie Metaphern und Symbole."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs kann als eine Reaktion auf die zunehmende Isolation und Vereinsamung in der modernen Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' (Songtext) zusammengefasst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist in den Zeilen 'Can we love each other / And respect each other / Find some joy together / 'Cause that's all i need' (Songtext) erkennbar."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung literarischer Stilmittel wie Metaphern und Symbole.",
+          "Die Interpretation diskutiert die emotionale Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die beste Interpretation (Interpretation 5) zeigt eine hohe Textreue und analytische Tiefe.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine Balance zwischen Textreue und analytischer Tiefe findet, wie in Interpretation 5."
+  }
+}

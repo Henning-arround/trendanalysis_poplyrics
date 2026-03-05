@@ -1,0 +1,104 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass der Text in das Jahr 1968 einzuordnen ist, ohne direkten Bezug im Text"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Erwähnung von 'kultureller Stimmung' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Dualität zwischen Aktivität und Resignation",
+          "Erfolgreiche Aufdeckung der Ambivalenz in der Aussage über Geheimnisse"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'Monkey' als direkten Hinweis auf Drogenkonsum ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text die 'kulturelle Stimmung des Jahres 1968 widerspiegelt', ohne spezifische Belege"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Paradoxie in 'The deeper you go, the higher you fly'",
+          "Erkennung der Spannung zwischen heiterer Oberflächlichkeit und unterschwelliger Dringlichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Behauptung, dass die Beatles von östlicher Philosophie beeinflusst waren, ohne direkten Bezug im Text"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Erwähnung von 'psychedelischer Kunst' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Gute Darstellung der Ambivalenz zwischen Authentizität und Versteckspiel",
+          "Erfolgreiche Analyse der Verknüpfung von 'deeper' und 'higher'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'Monkey' als 'orientalische Affengestalt' ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'zeitlos' ist, ohne spezifische Begründung"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Dualität zwischen Aktivität und Resignation",
+          "Gute Erkennung der Spannung zwischen 'joy' und 'hide'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Behauptung, dass der Text eine 'ironische Kritik an der Selbstinszenierung der Gegenkultur' ist, ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Erwähnung von 'Protest' und 'sexueller Befreiung' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Paradoxie in 'Your inside is out when your outside is in'",
+          "Erfolgreiche Aufdeckung der Ambivalenz in der Aussage über 'easy' und 'hide'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Textinhalte, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf textbasierten Interpretationen liegen, um Halluzinationen zu minimieren und die Tiefe der Analyse zu maximieren"
+  }
+}

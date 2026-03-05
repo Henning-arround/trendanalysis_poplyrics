@@ -1,0 +1,97 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität und Spannung im Song liegen in der Unvereinbarkeit zwischen der Exklusivität und der Freiheit in der Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Aufforderung 'Dance, dance, only with me' und 'Love, love, love only me' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen, historischen und gesellschaftlichen Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Balance zwischen der Exklusivität und der Freiheit in der Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Aufforderung 'Dance, dance, only with me' und 'Love, love, love only me' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die symbolische Ordnung der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung der Exklusivität und Besitzergreifung"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der Textzeilen und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die gesellschaftlichen Normen und Erwartungen an Beziehungen in den 1950er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Aufforderung 'Dance, dance, only with me' und 'Love, love, love only me' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse des kulturellen und historischen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die gesellschaftlichen Normen und Erwartungen an Beziehungen in den 1950er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Aufforderung 'Dance, dance, only with me' und 'Love, love, love only me' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die symbolische Ordnung des Tanzes"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsscore, aber insgesamt bieten sie eine gute Analyse des Songs",
+    "empfehlung": "Die Interpretation 3 bietet die tiefste und texttreueste Analyse des Songs"
+  }
+}

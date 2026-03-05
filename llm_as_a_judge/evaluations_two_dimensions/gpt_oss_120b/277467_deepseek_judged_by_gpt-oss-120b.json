@@ -1,0 +1,115 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Frage nach Identität und Selbstfindung.",
+          "Er stellt fest, dass er sich in einer Welt befindet, in der Werte und Prioritäten durcheinandergeraten sind.",
+          "Der Refrain ... kann als Aufruf zur Selbstlosigkeit und zur Weitergabe von Liebe und positiven Emotionen interpretiert werden.",
+          "Der Song kann als eine Meditation über die Bedeutung von Geben und Teilen verstanden werden, um sich selbst und andere zu bereichern.",
+          "Die Wiederholung des Refrains unterstreicht die Dringlichkeit und die Wichtigkeit dieser Erkenntnis."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. das Erwachen, das Café, die verschiedenen Figuren, der Refrain).",
+          "Keine biografischen oder genrebezogenen Halluzinationen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song entwickelt sich zu einer Reflexion über die menschliche Existenz und die Suche nach Sinn und Bedeutung.",
+          "Es geht um die Bedeutung von Verbindung und Austausch, um die Erkenntnis, dass unsere Emotionen und Erfahrungen nur durch die Interaktion mit anderen Menschen wirklich werden.",
+          "Der Song kann auch als eine spirituelle Suche interpretiert werden, bei der der Protagonist nach Erleuchtung und Sinn sucht.",
+          "Insgesamt beschreibt der Song die menschliche Erfahrung der Suche nach Sinn, Verbindung und Bedeutung.",
+          "Der Protagonist erkennt, dass unsere Emotionen und Erfahrungen nur durch die Weitergabe an andere wirklich werden und dass dies der Schlüssel zu einem erfüllten Leben ist."
+        ],
+        "positive_aspekte": [
+          "Hoher Anteil an textbasierten, belegten Aussagen (9 von 14).",
+          "Keine erfundenen biografischen oder historischen Details."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Frage nach Identität und Selbstfindung.",
+          "Er stellt fest, dass er sich in einer Welt befindet, in denen Werte und Normen durcheinandergeraten sind.",
+          "Der Refrain ... kann als Aufruf zur Selbstlosigkeit und zur Weitergabe von Emotionen und Erfahrungen interpretiert werden.",
+          "Der Song kann als Aufruf zur Verbindung mit anderen Menschen und zur Überwindung von Egoismus und Isolation interpretiert werden.",
+          "Der Song thematisiert auch die Frage nach der Suche nach Sinn und Erleuchtung in einer Welt, die von Problemen und Konflikten geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem Songtext ableiten; keine Halluzinationen.",
+          "Guter Mix aus konkreten Textbezügen und etwas weiterführender Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Frage nach Identität und Selbstfindung.",
+          "Er stellt fest, dass er sich in einer Welt befindet, in der Werte und Normen durcheinandergeraten sind.",
+          "Der Refrain ... kann als Aufruf zur Selbstlosigkeit und zur Weitergabe von Emotionen und Erfahrungen interpretiert werden.",
+          "Dies kann als eine Art spirituelle oder emotionale Erfahrung interpretiert werden, die nur durch die Weitergabe an andere Menschen lebendig bleibt.",
+          "Der Song kann auch als eine Reflexion über die menschliche Existenz und die Suche nach Sinn und Bedeutung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge (9 belegte Aussagen von 14).",
+          "Keine erfundenen Fakten über den Künstler oder das Genre."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Frage nach Identität und Selbstfindung.",
+          "Er stellt fest, dass er sich in einer Welt befindet, in der Werte und Normen durcheinandergeraten sind.",
+          "Der Refrain ... kann als Aufruf zur Selbstlosigkeit und zur Weitergabe von Emotionen und Erfahrungen interpretiert werden.",
+          "Dies kann als eine Art spirituelle oder emotionale Erfahrung interpretiert werden, die nur durch die Weitergabe an andere Menschen Sinn und Bedeutung erlangt.",
+          "Der Song kann auch als eine Reflexion über die menschliche Existenz und die Suche nach Sinn und Bedeutung interpretiert werden.",
+          "Die Antwort liegt in der Weitergabe von Emotionen und Erfahrungen an andere Menschen, wodurch ein Gefühl von Verbundenheit und Sinn entsteht."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen sind textbasiert, keine Halluzinationen.",
+          "Belegbare Details aus dem Song (z. B. Café, Punks, Tigers, Lambs, Refrain)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch stark im Anteil oberflächlicher Aussagen. Die besten Modelle (1,2,5) kombinieren viele textbasierte Belege mit moderaten, aber nicht übertriebenen, allgemeinen Aussagen.",
+    "empfehlung": "Ein Ansatz, der primär textgebundene Belege liefert und nur sparsam allgemeine, aber sinnvolle Interpretationen einbringt (wie Interpretation 1), erzielt die höchste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

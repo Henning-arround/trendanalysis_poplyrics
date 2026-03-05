@@ -1,0 +1,96 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist ein komplexes und vielschichtiges Phänomen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Himmels als 'blackboard'",
+          "Gute Interpretation der Sehnsucht nach Liebe und Wissen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist ein komplexes und vielschichtiges Phänomen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Himmels als 'blackboard'",
+          "Gute Interpretation der Sehnsucht nach Liebe und Wissen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Did you say I got a lot to learn' deutet darauf hin, dass der Sänger sich bewusst ist, dass er noch viel über die Liebe zu lernen hat"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Himmels als 'Schwarzes Brett'",
+          "Gute Interpretation der Sehnsucht nach Liebe und Wissen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Shooting Star, die als Schreibinstrument verwendet wird, um 'I love you' über den Himmel zu schreiben, symbolisiert die Intensität und Leidenschaft der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist ein weites, unendliches Feld"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Himmels als 'blackboard'",
+          "Gute Interpretation der Sehnsucht nach Liebe und Wissen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist ein komplexes und vielschichtiges Phänomen"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Himmels als 'blackboard'",
+          "Gute Interpretation der Sehnsucht nach Liebe und Wissen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Metapher des Himmels als 'blackboard' und der Sehnsucht nach Liebe und Wissen",
+    "empfehlung": "Die Interpretationen sollten sich auf eine tiefere Analyse des Songtextes konzentrieren und weniger auf Allgemeinplätze zurückgreifen"
+  }
+}

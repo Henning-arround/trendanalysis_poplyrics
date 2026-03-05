@@ -1,0 +1,111 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das „Monkey“ kann als Symbol für das unzensierte, kindliche Ich verstanden werden, das frei von Masken und Versteckspielen ist; es steht für das Unbewusste, das unbefangen neben dem rationalen Selbst existiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song nutzt einfache, fast kindliche Wiederholungen, um komplexe Themen wie Selbsterkenntnis, die Auflösung von Rollenbildern und die Freude am Loslassen zu vermitteln, wobei die musikalische Leichtigkeit die philosophische Tiefe spielerisch maskiert."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge und differenzierte Analyse der Dualität zwischen Innen‑ und Außenwelt.",
+          "Gute Verknüpfung von Wiederholungen („come on“, „take it easy“) mit der Idee einer tranceartigen Stimmung.",
+          "Stilistisch konsistente Argumentation ohne unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das „Monkey“ kann als Symbol für das unzensierte, kindliche Ich verstanden werden, das frei von Masken und Versteckspielen ist; es steht für das Unbewusste, das unbefangen neben dem rationalen Selbst existiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Verschmelzung suggeriert, dass Authentizität nicht durch äußere Schichten, sondern durch das Durchdringen des eigenen Selbst erreicht wird.",
+          "So wird das Lied zu einer Meditation über Transparenz, Selbstakzeptanz und die Befreiung von gesellschaftlichen Fassaden, wobei das „Monkey“ als treuer Begleiter das ungeschönte Ich verkörpert, das im Spiel von Innen‑ und Außenwelt frei bleibt."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Text und Symbolik, besonders bei den Zeilen zu Dualität und Flug‑Metaphern.",
+          "Detaillierte Betrachtung der wiederholten Phrasen und ihrer psychologischen Wirkung.",
+          "Konsistente Argumentationslinie, die die ironische Note des Refrains erklärt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Indem der Sprecher behauptet, er und sein „Monkey“ – ein möglicher Verweis auf das unzensierte, animalische Selbst oder ein Symbol für das unbewusste Ich – seien die einzigen, die nichts verbergen, wird ein paradoxes Selbstbewusstsein erzeugt, das zugleich Prahlerei und Selbstironie enthält."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einer kritischen Reflexion über die Fassade des öffentlichen Lebens, die gleichzeitig die Möglichkeit feiert, im eigenen, unverfälschten „Monkey“ – dem ungeschliffenen Kern – authentisch zu sein, ohne Angst vor dem Blick anderer."
+        ],
+        "positive_aspekte": [
+          "Erkennt die ironische Funktion der wiederholten Aufforderungen („come on, it’s such a joy“).",
+          "Verbindet die Textzeilen mit den Themen Transparenz und gesellschaftliche Maskerade.",
+          "Guter Überblick über die mögliche Symbolik des „Monkey“ ohne zu stark ins Detail zu gehen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In diesem Kontext wird das zentrale Motiv „Everybody's got something to hide / Except for me and my monkey“ zu einer provokanten Behauptung der Transparenz: Während alle anderen Geheimnisse bewahren, sei der Sprecher – zusammen mit seinem „Monkey“, einem möglichen Symbol für das ungezähmte, kindliche oder tierische Ich – völlig offen.",
+          "Der „Monkey“ kann als Metapher für das unzensierte, spontane Selbst verstanden werden, das jenseits von gesellschaftlichen Erwartungen agiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt lässt sich der Song als ironische Hymne auf Authentizität lesen, die durch spielerische Wiederholungen, paradoxe Bildsprache und die Figur des „Monkey“ die Idee vermittelt, dass wahre Freiheit darin besteht, die eigenen Schichten abzulegen und das Unverfälschte zu umarmen, während die Gesellschaft weiterhin ihre Masken trägt."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der Textstruktur und der wiederholten Motive.",
+          "Klare Verknüpfung von „inside is out / outside is in“ mit der Auflösung von Rollen und Masken.",
+          "Gute Balance zwischen textbasierter Argumentation und kritischer Reflexion."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der „Monkey“ kann als Symbol für das unzensierte, animalische Selbst verstanden werden, das jenseits von Konventionen agiert und damit die Möglichkeit bietet, authentisch zu sein."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einer ironischen Hymne auf Transparenz, die gleichzeitig die Unmöglichkeit völliger Offenheit anerkennt und den Wunsch nach einer Welt ausdrückt, in der das „Monkey“ – das ungeschönte Ich – frei und ohne Versteckspiel existieren kann."
+        ],
+        "positive_aspekte": [
+          "Konsistente Darstellung der Dualität zwischen Leichtigkeit und kritischer Gesellschaftsanalyse.",
+          "Präzise Bezugnahme auf die Textzeilen zu „deeper you go, the higher you fly“ und deren metaphorische Bedeutung.",
+          "Gut strukturierte Argumentationskette, die den hypnotischen Effekt der Wiederholungen erklärt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine relativ einheitliche Grundanalyse (Mantra‑Charakter, Dualität, Symbolik des Monkey). Unterschiede liegen hauptsächlich im Umfang der spekulativen Symboldeutungen und in der Oberflächlichkeit mancher Schlussfolgerungen.",
+    "empfehlung": "Interpretation 2 bietet die beste Balance aus Texttreue und analytischer Tiefe, da sie wenige unbelegte Spekulationen enthält und gleichzeitig eine differenzierte, textbasierte Deutung liefert. Für zukünftige Analysen sollte der Fokus auf klar belegbare Textbezüge gelegt werden, während spekulative Symbolik nur als mögliche, nicht definitive Lesart gekennzeichnet wird."
+  }
+}

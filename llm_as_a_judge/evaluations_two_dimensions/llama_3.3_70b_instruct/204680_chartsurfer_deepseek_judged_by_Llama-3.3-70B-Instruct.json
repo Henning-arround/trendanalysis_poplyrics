@@ -1,0 +1,99 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Only with me near your heart' suggeriert, dass die geliebte Person nicht nur körperlich, sondern auch seelisch bei ihm sein soll."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein romantischer Liebeshit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile 'Never to part' und ihre Bedeutung für die Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Unsicherheit und Eifersucht interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind von einer tiefen Zuneigung und Hingabe geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die instrumentale Pause und ihre Wirkung auf den Hörer"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Unsicherheit und Eifersucht interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind von einer tiefen Zuneigung und Hingabe geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die instrumentale Pause und ihre Wirkung auf den Hörer"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Unsicherheit und Eifersucht interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind von einer tiefen Zuneigung und Hingabe geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die instrumentale Pause und ihre Wirkung auf den Hörer"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck der Unsicherheit und Eifersucht interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics sind von einer tiefen Zuneigung und Hingabe geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die instrumentale Pause und ihre Wirkung auf den Hörer"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-5 sind sehr ähnlich und zeigen eine geringe Varianz",
+    "empfehlung": "Die erste Interpretation zeigt die beste Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

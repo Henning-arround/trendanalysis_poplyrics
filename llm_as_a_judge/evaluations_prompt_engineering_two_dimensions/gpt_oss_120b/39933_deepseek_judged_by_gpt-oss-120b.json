@@ -1,0 +1,111 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs kann als Reaktion auf die Herausforderungen und Unsicherheiten der modernen Welt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song als ein Ausdruck der menschlichen Suche nach Sinn, Erlösung und Schönheit in einer komplexen und unsicheren Welt verstanden werden."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich direkt aus dem Text ableiten (7 von 9).",
+          "Analyse einzelner Zeilen wie „Down the road I would fall / The wrong side of the wall“ und „There's a hole in the sun“ liefert konkrete Bildinterpretationen.",
+          "Wenig spekulative bzw. erfundene Inhalte (nur 1 von 9)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In diesem Kontext kann der Song als eine Suche nach Sinn und Orientierung in einer komplexen Welt verstanden werden, in der die Hoffnung auf „Himmelstau“ und die Präsenz einer anderen Person Halt und Richtung bieten."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannung zwischen Licht und Dunkelheit, Hoffnung und Schmerz bleibt im gesamten Song bestehen.",
+          "Der Song kann auch als ein Kommentar zur menschlichen Erfahrung von Orientierungslosigkeit und Suche interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei 8 von 11 Aussagen.",
+          "Gute Balance zwischen konkreter Bildanalyse und übergeordneten Themen wie Hoffnung und Erlösung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die schönen Geschichten stellen möglicherweise eine Art von kollektiver Erinnerung oder kultureller Erzählung dar, die den Sänger mit seiner Vergangenheit verbindet."
+        ],
+        "oberflächliche_aussagen": [
+          "Song kann ein Kommentar zu den menschlichen Erfahrungen von Schmerz, Verlust und Erlösung sein, der die Zuhörer auf eine emotionale Reise mitnimmt.",
+          "Dennoch kann der Song als ein Ausdruck der menschlichen Erfahrung von Hoffnung und Sehnsucht in einer zunehmend komplexen und unsicheren Welt interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Hoher Anteil belegbarer Aussagen (6 von 10).",
+          "Erkenntnisse zu Symbolen wie „Heavens Rain“ und „kingdom of beautiful stories“ sind textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen und historischen Kontext der späten 2000er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Kommentar zur menschlichen Erfahrung von Orientierungslosigkeit und Suche interpretiert werden.",
+          "Die Ambivalenz von Licht und Dunkelheit, Hoffnung und Schmerz verweist auf die Komplexität menschlicher Erfahrung und die Schwierigkeit, eindeutige Antworten zu finden.",
+          "Insgesamt zeigt \"Heavens Rain\" eine tiefe emotionale Wirkung und eine reiche symbolische Ordnung, die zur Interpretation einlädt."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich aus dem Text ableiten (6 von 11).",
+          "Erwähnt strukturelle Mittel wie Wiederholungen und Imperative."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die schönen Geschichten stellen möglicherweise eine Art von kollektiver Erinnerung oder kultureller Erzählung dar, die den Sänger mit seiner Vergangenheit verbindet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Kommentar zu den menschlichen Erfahrungen von Schmerz, Verlust und Erlösung interpretiert werden, der die Zuhörer auf eine emotionale Reise mitnimmt.",
+          "Die kulturelle und historische Kontextualisierung des Songs ist schwierig, da der Text keine expliziten Verweise auf bestimmte Ereignisse oder Epochen enthält.",
+          "Dennoch kann der Song als ein Ausdruck der menschlichen Erfahrung von Hoffnung und Sehnsucht in einer zunehmend komplexen und unsicheren Welt interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei 6 von 10 Aussagen.",
+          "Gute Analyse von Metaphern (z. B. „Heavens Rain“, „hole in the sun“)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das Grundgerüst (Dunkelheit → Licht, Metaphern, Suche nach Sinn). Die Varianz liegt vor allem im Ausmaß der spekulativen Kontextualisierung – Interpretation 2 ist am oberflächlichsten, während 3, 1, 4 und 5 mehr textbasierte Tiefe bieten.",
+    "empfehlung": "Ein Ansatz, der primär auf den konkreten Textzeilen aufbaut, wenige unbelegte kulturelle oder biografische Annahmen macht und gleichzeitig die Mehrdeutigkeit der Metaphern auslotet, liefert die überzeugendste Analyse. Interpretation 3 erfüllt diese Kriterien am besten."
+  }
+}

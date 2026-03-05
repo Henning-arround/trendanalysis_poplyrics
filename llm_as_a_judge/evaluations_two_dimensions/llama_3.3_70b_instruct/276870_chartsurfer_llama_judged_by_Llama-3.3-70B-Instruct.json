@@ -1,0 +1,99 @@
+{
+  "song": "It’s Alright - The Osmonds (1973)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bemerkung, dass einige Menschen diese Art von Erkenntnis oder Chance finden, während andere sie übersehen oder wegwerfen, legt nahe, dass der Song auch von der Bedeutung des Bewusstseins und der Wertschätzung solcher Momente handelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Wortes 'alright' kann als eine Art Selbstberuhigung oder Akzeptanz interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Someday just by chance you see what I'm trying to say' lässt darauf schließen, dass er hofft, andere könnten seine Perspektive oder sein Verständnis teilen, vielleicht durch eine ähnliche Erfahrung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains am Ende des Songs betont die Akzeptanz und den Trost"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Textanalyse, aber könnte tiefer gehen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bemerkung, dass einige Menschen diese Art von Offenbarung oder Chance erkennen und nutzen, während andere sie übersehen oder wegwerfen, unterstreicht die Idee, dass manchmal das, was uns begegnet, von unserer eigenen Wahrnehmung und unserem Willen abhängt, es zu sehen und zu schätzen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die ständige Wiederholung von 'it's alright' vermittelt eine Botschaft der Hoffnung und des Trostes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bemerkung, dass einige Menschen diese Art von Erkenntnis oder Glück finden, während andere es möglicherweise übersehen oder wegwerfen, unterstreicht die Idee, dass das Leben voller Zufälle und Gelegenheiten ist, die man nutzen oder verpassen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Die ständige Wiederholung von 'it's alright' vermittelt eine Botschaft der Hoffnung und des Trostes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Textanalyse, aber könnte tiefer gehen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bemerkung, dass einige Menschen diese Art von Erkenntnis oder Glück finden, während andere es möglicherweise übersehen oder wegwerfen, unterstreicht die Idee, dass das Leben voller Zufälle und Gelegenheiten ist, die man nutzen oder verpassen kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Die ständige Wiederholung von 'it's alright' vermittelt eine Botschaft der Hoffnung und des Trostes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Textanalyse, aber könnte tiefer gehen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine gute Balance zwischen beiden Aspekten"
+  }
+}

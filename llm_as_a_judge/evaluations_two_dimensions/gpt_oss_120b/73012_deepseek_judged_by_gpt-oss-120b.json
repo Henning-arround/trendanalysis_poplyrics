@@ -1,0 +1,114 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext zeichnet ein Bild von Gewalt, Tod und Trauer, das durch die Musik von Rammstein noch verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Aufforderung \"Reise, Reise, Seemann, Reise\" kann als eine Art von dunkler Verlockung interpretiert werden, die den Seemann auffordert, seine Reise fortzusetzen, ohne Rücksicht auf die Konsequenzen.",
+          "\"Jeder tut's auf seine Weise\" deutet darauf hin, dass jeder Mensch seine eigene Art von Gewalt und Zerstörung auslebt.",
+          "Die Zeile \"In ihrem Herzen steckt ein Speer\" deutet auf eine tiefe Verletzung hin, die nicht nur physisch, sondern auch emotional ist.",
+          "Insgesamt kann \"Reise, Reise\" als ein Song interpretiert werden, der die dunkle Seite der menschlichen Natur und die Zerstörung, die wir in der Welt anrichten, thematisiert."
+        ],
+        "positive_aspekte": [
+          "Mehrere Aussagen (z. B. die Beschreibung von Kampf, Wellen als Schlachtfeld, melancholische Stimmung) sind klar aus dem Text ableitbar.",
+          "Die Analyse enthält sowohl textbezogene Beobachtungen als auch eine eigenständige, wenn auch teilweise spekulative, Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Aufforderung \"Reise, Reise, Seemann, Reise\" kann als eine Art von dunkler Verlockung interpretiert werden, die den Seemann auffordert, seine Reise fortzusetzen, ohne Rücksicht auf die Konsequenzen.",
+          "Die Zeile \"Jeder tut's auf seine Weise\" unterstreicht die Individualität und die Unterschiedlichkeit der Menschen, aber auch ihre grundsätzliche Gleichheit im Angesicht des Todes.",
+          "Die Zeile \"In ihrem Herzen steckt ein Speer\" deutet auf eine tiefe Verletzung hin, die nicht nur physisch, sondern auch emotional ist.",
+          "Insgesamt kann \"Reise, Reise\" als ein Song interpretiert werden, der die dunkle Seite der menschlichen Natur und die Zerstörung, die wir in der Welt anrichten, thematisiert.",
+          "Der Song ist ein Kommentar zu Krieg, Gewalt und Tod, aber auch zu der Trauer und der Melancholie, die diese Ereignisse begleiten."
+        ],
+        "positive_aspekte": [
+          "Vier Aussagen (z. B. die Beschreibung von Kampf, das Bild der Wellen als Schlachtfeld, die melancholische Stimmung) sind eindeutig aus dem Text ableitbar.",
+          "Die Interpretation bleibt beim Text und fügt keine falschen biografischen oder historischen Details ein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain kann als Aufforderung zum Weiterziehen und zur Suche nach neuen Abenteuern interpretiert werden, aber auch als ein fatalistischer Gesang, der den Tod und die Zerstörung als Teil des Lebens akzeptiert.",
+          "Die Zeile \"Jeder tut's auf seine Weise\" unterstreicht die Individualität und die Unterschiedlichkeit der Menschen, aber auch ihre gemeinsame Bestimmung, dem Tod zu begegnen.",
+          "Die wiederkehrende Metapher des Speers symbolisiert die Gewalt und den Tod, der in diesem Kampf auf hoher See herrscht.",
+          "Die schwarze Seele, die in den Tiefen des Meeres wohnt, repräsentiert die dunkle Seite der menschlichen Natur.",
+          "Der Song kann auch als eine Allegorie auf den Krieg und die menschliche Natur interpretiert werden, in der Gewalt und Tod als Teil des menschlichen Daseins akzeptiert werden.",
+          "Die Wellen, die leise weinen, symbolisieren die Trauer und den Schmerz, der durch den Tod und die Zerstörung entsteht.",
+          "Insgesamt beschreibt \"Reise, Reise\" eine düstere und gewalttätige Welt, in der der Tod und die Zerstörung allgegenwärtig sind."
+        ],
+        "positive_aspekte": [
+          "Die beiden ersten Aussagen (Beschreibung von Kampf und Einsatz von Lanzen) sind klar textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Aufforderung \"Reise, Reise, Seemann, Reise\" kann als eine Art von dunkler Verlockung interpretiert werden, die den Seemann auffordert, seine Reise fortzusetzen, ohne Rücksicht auf die Konsequenzen.",
+          "Die Zeile \"Jeder tut's auf seine Weise\" deutet darauf hin, dass jeder Mensch seine eigene Art von Gewalt und Zerstörung auslebt.",
+          "Die Zeile \"In ihrem Herzen steckt ein Speer\" deutet darauf hin, dass die Gewalt und der Schmerz tief in der Seele der Menschen verwurzelt sind.",
+          "Insgesamt kann \"Reise, Reise\" als ein Song interpretiert werden, der die dunkle Seite der menschlichen Natur und die Zerstörung, die durch Gewalt und Krieg entsteht, thematisiert.",
+          "Der Songtext zeichnet ein düsteres Bild von der Welt, in dem die Menschen sich gegenseitig und die Natur zerstören."
+        ],
+        "positive_aspekte": [
+          "Drei Aussagen (Kampf‑Beschreibung, Wellen als Schlachtfeld, melancholische Stimmung) sind eindeutig aus dem Text ableitbar."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrende Aufforderung \"Reise, Reise, Seemann, Reise\" kann als eine Art von dunkler Verlockung interpretiert werden, die den Seemann auffordert, seine Reise fortzusetzen, ohne Rücksicht auf die Konsequenzen.",
+          "Die Zeile \"Jeder tut's auf seine Weise\" deutet darauf hin, dass jeder Mensch seine eigene Art von Gewalt und Zerstörung auslebt.",
+          "Die Zeile \"In ihrem Herzen steckt ein Speer\" deutet darauf hin, dass die Gewalt und der Schmerz tief in der Seele der Menschen verwurzelt sind.",
+          "Insgesamt kann \"Reise, Reise\" als ein Song interpretiert werden, der die dunkle Seite der menschlichen Natur und die Zerstörung, die wir in der Welt anrichten, thematisiert.",
+          "Der Songtext zeichnet ein Bild von einer Welt, in der Gewalt und Tod allgegenwärtig sind und in der die Menschen ihre eigene Zerstörung herbeiführen."
+        ],
+        "positive_aspekte": [
+          "Drei Aussagen (Kampf‑Beschreibung, Wellen als Schlachtfeld, melancholische Stimmung) sind klar textbasiert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Kampf, Blut, melancholische Wellen). Die Variation liegt hauptsächlich im Umfang vager, nicht belegter Aussagen. Die Konsistenz ist hoch, aber die inhaltliche Tiefe bleibt mittelmäßig.",
+    "empfehlung": "Interpretationen 1‑4 erreichen eine gute Faktentreue, jedoch fehlt es an tiefer textanalytischer Differenzierung. Interpretation 1 ist am ausgewogensten, weil sie die meisten textbasierten Beobachtungen liefert, ohne erfundene Details. Für zukünftige Analysen sollte man stärker auf mehrschichtige Bedeutungen (z. B. Symbolik von Wasser, Speer, Wiederholungen) eingehen und vage Generalisierungen vermeiden."
+  }
+}

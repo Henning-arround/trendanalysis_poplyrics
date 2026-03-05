@@ -1,0 +1,146 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein exemplarischer Vertreter der Fitness- und Tanzmusik der 1980er Jahre.",
+          "Der Song thematisiert nicht nur die Freude am Tanzen, sondern auch die Idee der Selbstoptimierung und des körperlichen Wohlbefindens, wie die Zeile ... verdeutlicht.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Bilder unterstreicht die emotionale Wirkung des Songs.",
+          "Die Aufforderung ... kann als eine Form der körperlichen Unterwerfung unter die Musik interpretiert werden, während die Zeile ... impliziert.",
+          "Die repetitive Struktur des Songs ... erzeugt eine Art von körperlicher und rhythmischer Erwartungshaltung.",
+          "In kultureller, historischer und gesellschaftlicher Hinsicht kann der Song als Ausdruck der Fitness- und Gesundheitsbewegung der 1980er Jahre interpretiert werden.",
+          "Der Songtext spiegelt die zunehmende Popularität von Aerobic und Fitness-Programmen in dieser Zeit wider.",
+          "Die Aufforderung zum Tanzen ... kann auch als eine Form der sozialen Integration und Gemeinschaftsbildung interpretiert werden, wie die Zeile ... nahelegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die textuelle Oberfläche ist dabei auffällig simpel und direkt, was die unmittelbare emotionale Wirkung des Songs unterstreicht.",
+          "Insgesamt offenbart der Song ... eine komplexe thematische Struktur, die ... aufweist."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textstellen (z. B. „Dance, dance, dance“, „Shake a leg“, „Warming up, cooling down“).",
+          "Erkennt wiederkehrende Motive (Wiederholung, Imperative) im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 1,
+      "gesamt_score": 1.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein exemplarischer Vertreter der Fitness- und Tanzmusik der 1980er Jahre.",
+          "Der Song thematisiert nicht nur die Freude am Tanzen, sondern auch die Idee der Selbstoptimierung und des körperlichen Wohlbefindens, wie die Zeile ... verdeutlicht.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Bilder unterstreicht die emotionale Wirkung des Songs.",
+          "Die Aufforderung ... kann als eine Form der körperlichen Unterwerfung unter die Musik interpretiert werden, während die Zeile ... impliziert.",
+          "Die repetitive Struktur des Songs ... erzeugt eine Art von körperlicher und rhythmischer Erwartungshaltung.",
+          "Die textliche Struktur mit ihren einfachen, leicht verständlichen Anweisungen und der Verwendung von Imperativen wie \"Shake a leg\" und \"Work it out\" (Z. 31) erzeugt eine direkte, affektive Ansprache an den Hörer.",
+          "In kultureller, historischer und gesellschaftlicher Hinsicht kann der Song als Ausdruck der Fitness- und Gesundheitsbewegung der 1980er Jahre interpretiert werden.",
+          "Der Songtext spiegelt die zunehmende Popularität von Aerobic und Fitness-Programmen in dieser Zeit wider.",
+          "Die Aufforderung zum Tanzen ... kann auch als eine Form der sozialen Integration und Gemeinschaftsbildung interpretiert werden, wie die Zeile ... nahelegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Insgesamt kann der Song ... als ein kulturelles Dokument der 1980er Jahre betrachtet werden, das die Werte von Fitness, Gesundheit und körperlicher Bewegung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Enthält einen zusätzlichen Hinweis auf die imperativische Textstruktur, was ein wenig mehr Textbezug liefert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein exemplarischer Vertreter der Fitness- und Tanzmusik der 1980er Jahre.",
+          "Der Song thematisiert nicht nur die Freude am Tanzen, sondern auch die Idee der Selbstoptimierung und des körperlichen Wohlbefindens, wie die Zeile ... verdeutlicht.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Bilder unterstreicht die emotionale Wirkung des Songs.",
+          "Die Aufforderung ... kann als eine Form der körperlichen Unterwerfung unter die Musik interpretiert werden, während die Zeile ... impliziert.",
+          "Die repetitive Struktur des Songs ... erzeugt eine Art von körperlicher und rhythmischer Erwartungshaltung.",
+          "In kultureller, historischer und gesellschaftlicher Hinsicht kann der Song als Ausdruck der Fitness- und Gesundheitsbewegung der 1980er Jahre interpretiert werden.",
+          "Der Songtext spiegelt die zunehmende Popularität von Aerobic und Fitness-Programmen in dieser Zeit wider.",
+          "Die Aufforderung zum Tanzen ... kann auch als eine Form der sozialen Integration und Gemeinschaftsbildung interpretiert werden, wie die Zeile ... nahelegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die textuelle Oberfläche ist dabei auffällig simpel und direkt, was die unmittelbare emotionale Wirkung des Songs unterstreicht.",
+          "Insgesamt offenbart der Song ... eine komplexe thematische Struktur, die ... aufweist."
+        ],
+        "positive_aspekte": [
+          "Klare Bezugnahme auf konkrete Textstellen.",
+          "Erkennt die wiederholende Struktur („Warming up, cooling down“, „One‑two‑three‑four…“)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein exemplarischer Vertreter der Fitness- und Tanzmusik der 1980er Jahre.",
+          "Der Song thematisiert nicht nur die Freude am Tanzen, sondern auch die Idee der Selbstoptimierung und des körperlichen Wohlbefindens, wie die Zeile ... verdeutlicht.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Bilder unterstreicht die emotionale Wirkung des Songs.",
+          "Die Aufforderung ... kann als eine Form der körperlichen Unterwerfung unter die Musik interpretiert werden, während die Zeile ... impliziert.",
+          "Die repetitive Struktur des Songs ... erzeugt eine Art von körperlicher und rhythmischer Erwartungshaltung.",
+          "In kultureller, historischer und gesellschaftlicher Hinsicht kann der Song als Ausdruck der Fitness- und Gesundheitsbewegung der 1980er Jahre interpretiert werden.",
+          "Der Songtext spiegelt die zunehmende Popularität von Aerobic und Fitness-Programmen in dieser Zeit wider.",
+          "Die Aufforderung zum Tanzen ... kann auch als eine Form der sozialen Integration und Gemeinschaftsbildung interpretiert werden, wie die Zeile ... nahelegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die textuelle Oberfläche ist dabei auffällig simpel und direkt, was die unmittelbare emotionale Wirkung des Songs unterstreicht.",
+          "Insgesamt offenbart der Song ... eine komplexe thematische Struktur, die ... aufweist."
+        ],
+        "positive_aspekte": [
+          "Stetiger Verweis auf Textzitate stärkt die Textnähe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein exemplarischer Vertreter der Fitness- und Tanzmusik der 1980er Jahre.",
+          "Der Song thematisiert nicht nur die Freude am Tanzen, sondern auch die Idee der Selbstoptimierung und des körperlichen Wohlbefindens, wie die Zeile ... verdeutlicht.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Bilder unterstreicht die emotionale Wirkung des Songs.",
+          "Die Aufforderung ... kann als eine Form der körperlichen Unterwerfung unter die Musik interpretiert werden, während die Zeile ... impliziert.",
+          "Die repetitive Struktur des Songs ... erzeugt eine Art von körperlicher und rhythmischer Erwartungshaltung.",
+          "In kultureller, historischer und gesellschaftlicher Hinsicht kann der Song als Ausdruck der Fitness- und Gesundheitsbewegung der 1980er Jahre interpretiert werden.",
+          "Der Songtext spiegelt die zunehmende Popularität von Aerobic und Fitness-Programmen in dieser Zeit wider.",
+          "Die Aufforderung zum Tanzen ... kann auch als eine Form der sozialen Integration und Gemeinschaftsbildung interpretiert werden, wie die Zeile ... nahelegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die textuelle Oberfläche ist dabei auffällig simpel und direkt, was die unmittelbare emotionale Wirkung des Songs unterstreicht.",
+          "Insgesamt offenbart der Song ... eine komplexe thematische Struktur, die ... aufweist."
+        ],
+        "positive_aspekte": [
+          "Verknüpft wiederholende Imperative mit dem Konzept von „Warming up, cooling down“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 1.8,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch, was auf ein hohes Maß an Redundanz und geringe Varianz hinweist.",
+    "empfehlung": "Die Interpretationen zeigen wenig eigenständige Analyse; zukünftige Modelle sollten stärker auf textbasierte Evidenz setzen, spekulative Aussagen reduzieren und mehr differenzierte, mehrschichtige Deutungen anbieten."
+  }
+}

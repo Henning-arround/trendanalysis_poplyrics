@@ -1,0 +1,109 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft ambivalent zwischen Befreiung und Manipulation positioniert",
+          "post-war-Deutungen von Autorität"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein liberierendes Ritual",
+          "zerfetzter Identität und kultureller Fragmentierung"
+        ],
+        "positive_aspekte": [
+          "Die Vielschichtigkeit entsteht durch die simultane Nennung von Ritualen und grotesken Elementen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine performative, fast rituelle Aggression suggeriert",
+          "die Angst vor öffentlicher Zensur reflektiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Befreiung von gesellschaftlichen Zwängen",
+          "Inszenierung von Macht- und Kontrollmechanismen"
+        ],
+        "positive_aspekte": [
+          "Die Bildsprünge erzeugen Spannungen zwischen Tradition und Subversion"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "transkulturelle Durchlässigkeit jener Zeit",
+          "das Werk in den Kontext der frühen 60er-Jahre einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Eine ambivalente Beziehung zwischen Subjekt und Publikum",
+          "ein offenes, mehrdeutiges Spiegelbild einer sich wandelnden Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Die Mischung aus britischem Beat, deutschen Wortspielen und Anspielungen auf zeitgenössische Medien"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "ein kollektives Ritual",
+          "die Manipulation des Begehrens durch äußere Signale"
+        ],
+        "oberflächliche_aussagen": [
+          "Befreiung durch Bewegung",
+          "ein Hinweis auf die Manipulation"
+        ],
+        "positive_aspekte": [
+          "Die ständige Wiederholung der 'ersten Hookline' erzeugt ein Zirkularitäts-Motiv"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-warme Jugendkultur der 1960er-Jahre",
+          "Globalisierung reflektiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Ein Spannungsfeld zwischen körperlicher Unruhe und ritualisiertem Konsum",
+          "eine ambivalente Haltung gegenüber dem Militarismus des Kalten Krieges"
+        ],
+        "positive_aspekte": [
+          "Die wiederholte Aufforderung 'Lass' sie tanzen!' wirkt als Leitmotiv"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Fähigkeit, Ambivalenzen und Mehrdeutigkeiten textbasiert zu interpretieren"
+  }
+}

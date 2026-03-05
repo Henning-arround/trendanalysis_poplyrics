@@ -1,0 +1,100 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit der Frage nach dem Ursprung und Ziel des Schiffs, was die Ungewissheit über den Kurs der Zivilisation betont: Ohne kritisches Bewusstsein treiben wir weiter, unfähig, dem eigenen Untergang zu entkommen."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse mit vielen konkreten Belegen aus dem Songtext.",
+          "Klare Verknüpfung von Symbolen (Joker, Kreuze, Sodom) mit deren möglichen Bedeutungen.",
+          "Gute Balance zwischen Interpretation und Offenheit für Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einer kritischen Allegorie über menschliche Hybris, moralische Blindheit und die unausweichliche Vergeltung, die aus dem kollektiven Irrsinn erwächst."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Auslegung einzelner Textzeilen.",
+          "Verknüpft wiederholte Motive (Zahlung, Rettungsruf) mit einer kohärenten Gesamtaussage.",
+          "Wenig bis keine spekulativen Ergänzungen, hohe Texttreue."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Abschließend bleibt das Schiff ein Symbol für die menschliche Tendenz, sich in illusionären Versprechen zu verlieren, während die unausweichliche Rechnung – das „Morgen“ – stets im Hintergrund lauert."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Bildsprache (Gold, Perlen, Sodom) mit gesellschaftskritischen Themen.",
+          "Konsistente Nutzung des Refrains als moralische Mahnung.",
+          "Klare Struktur, die von der Ausgangssituation bis zum Schluss führt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Lied bleibt damit ein kritischer Kommentar zu kollektiver Blindheit, materialistischer Verlockung und der unausweichlichen moralischen Abrechnung, die jeden, der sich dem „Schiff der Narren“ anschließt, erwartet."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse aller wiederkehrenden Motive (Joker, Kreuze, Sodom).",
+          "Verbindet die wiederholte Warnung „you will pay tomorrow“ mit einer klaren moralischen Botschaft.",
+          "Gute Balance zwischen konkreter Textinterpretation und Hinweis auf mögliche gesellschaftliche Implikationen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song endet mit der Frage nach Herkunft und Ziel des Schiffs, was die Orientierungslosigkeit einer Gesellschaft widerspiegelt, die sich blind in ein Meer aus Geschichte und Selbsttäuschung stürzt.",
+          "Das Bild des „Schiffs der Narren“ bleibt ein warnendes Symbol für die Gefahr, sich von Gier und Illusionen leiten zu lassen, während das eigentliche Licht – das Bewusstsein für Verantwortung – im Dunkeln versinkt."
+        ],
+        "positive_aspekte": [
+          "Klare Herausarbeitung der Symbolik von „Kreuze, die brennen“ als Licht der Vernunft.",
+          "Verknüpft die Themen Gier und Ausbeutung mit dem Bild des Sodom.",
+          "Stellt den wiederholten Refrain als zentrale moralische Mahnung heraus."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben stark am Text verankert, unterscheiden sich jedoch im Anteil an generischen Schlussfolgerungen. Die ersten drei Varianten zeigen die höchste inhaltliche Tiefe, während die letzten beiden mehr zusammenfassende, oberflächliche Aussagen enthalten.",
+    "empfehlung": "Für eine fundierte Analyse sollte man den Ansatz von Interpretation 1 (bzw. 2/3) übernehmen: hohe Texttreue, detaillierte Symboldeutung und wenig generische Aussagen. Das liefert die beste Balance zwischen faktischer Genauigkeit und analytischer Tiefe."
+  }
+}

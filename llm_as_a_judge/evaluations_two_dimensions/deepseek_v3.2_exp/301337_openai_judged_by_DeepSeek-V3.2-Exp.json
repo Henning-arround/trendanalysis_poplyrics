@@ -1,0 +1,98 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Hymne der Selbstbestimmung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Spannungsbogens zwischen Anpassung und Selbstverwirklichung",
+          "Gute Interpretation der Symbolik von 'da da da' und 'Ichi, Ni, San'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Post-9/11 Stimmung"
+        ],
+        "oberflächliche_aussagen": [
+          "paradoxe Dynamik von Anpassung und Innovation"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Refrains",
+          "Gute Interpretation der japanischen Zählweise"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "paradoxe Haltung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Spannungsfeldes zwischen Konformität und Rebellion",
+          "Gute Interpretation der Symbolik von 'da da da' und 'Ichi, Ni, San'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "mechanische Struktur von Trends"
+        ],
+        "oberflächliche_aussagen": [
+          "Ambivalenz des modernen Lebensstils"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Refrains",
+          "Gute Interpretation der Aufforderung zum Anderssein"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Hymne des individuellen Ausdrucks"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse des Spannungsfeldes zwischen Konformität und Innovation",
+          "Gute Interpretation der Symbolik von 'Get in, fit in, get out'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse des Songtextes, jedoch mit einigen Variationen in der Tiefe und Halluzinationsrate",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

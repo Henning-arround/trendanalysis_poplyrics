@@ -1,0 +1,95 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Liverpool'-Zeile könnte auf eine Art von Exzess oder Verlust hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine vielschichtige Textstruktur"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Textstruktur zu analysieren"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Liverpool'-Zeile könnte auf eine Art von Exzess oder Verlust hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine vielschichtige Textstruktur"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Textstruktur zu analysieren"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen könnten auf eine Suche nach Erlebnissen und Erfahrungen hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song hat eine Atmosphäre der Sehnsucht und des Verlangens"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Textstruktur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen könnten auf eine Suche nach Erlebnissen und Erfahrungen hinweisen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song hat eine Atmosphäre der Unsicherheit und der Offenheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Textstruktur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr gute Analyse der Textstruktur und ist textbasiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 1.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie eine sehr gute Analyse der Textstruktur bietet und textbasiert ist"
+  }
+}

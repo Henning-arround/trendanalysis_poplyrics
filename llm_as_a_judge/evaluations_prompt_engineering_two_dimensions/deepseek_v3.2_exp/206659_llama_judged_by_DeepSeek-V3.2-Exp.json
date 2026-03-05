@@ -1,0 +1,90 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Frage 'Where's it comin' from or where's it goin' to?' bleibt unbeantwortet und hinterlässt eine Atmosphäre der Unsicherheit und des Zweifels."
+        ],
+        "positive_aspekte": [
+          "Die Metapher des 'Schiffes der Narren' selbst ist ein starkes Symbol für die menschliche Torheit und die Neigung, sich von falschen Versprechungen und Träumen leiten zu lassen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Drowning in the oceans of history' und 'Travellin' the world, you're in search of no good' deuten auf eine Art von historischer und kultureller Verantwortung hin, die die Menschen nicht wahrnehmen."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Menschen von ihren eigenen Begierden und Interessen getrieben werden, ohne Rücksicht auf die Konsequenzen ihrer Handlungen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist komplex und vielschichtig."
+        ],
+        "positive_aspekte": [
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv, da der Sänger seine Angst und sein Unbehagen vor der Zukunft ausdrückt und um Rettung fleht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig und reichhaltig."
+        ],
+        "positive_aspekte": [
+          "Die Metapher des 'Schiffes der Narren' selbst ist ein starkes Symbol für die menschliche Torheit und die Neigung, sich von falschen Versprechungen und Träumen leiten zu lassen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Menschen sind auf der Suche nach Glück und Erfüllung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kulturelles Artefakt seiner Zeit.",
+          "Es geht um die menschliche Erfahrung."
+        ],
+        "positive_aspekte": []
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-4 zeigen eine hohe Konsistenz in ihrer Analyse, während Interpretation 5 deutlich abweicht.",
+    "empfehlung": "Die Interpretationen 1-4 bieten eine gute Balance zwischen Textreue und analytischer Tiefe. Es wird empfohlen, diese Ansätze weiterzuverfolgen."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielung auf Schmerzensgeld von der AOK unterstreicht die Kommerzialisierung von Körperbeschwerden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen über das Tanzen und das Fragen der Leute, ob man helfen könne, verdeutlichen das Spannungsfeld zwischen öffentlicher Wahrnehmung und innerer Selbstakzeptanz"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher der 'Pflaume' und ihre Bedeutung für die Charakterisierung des Subjekts"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Für jedes Wort gibt es Schmerzensgeld von der AOK' spielt auf die heutige Kultur der Empfindlichkeit und der rechtlichen Absicherung an"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung kritisiert die Oberflächlichkeit der Medien, die 'glatten Movie-Stars'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des Refrains und seiner Bedeutung für die Gesamtbotschaft des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Für jedes Wort gibt es Schmerzensgeld von der AOK' ironisiert die heutige Rechtskultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung kritisiert die Oberflächlichkeit der Medien"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Rolle des 'Pflegers' und seiner Bedeutung für die Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Für jedes Wort gibt es Schmerzensgeld von der AOK' spielt auf die zunehmende Rechtsvorschrift und Sensibilisierung gegenüber Beleidigungen an"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Kritik an der Medienkultur, in der 'glatte Movie-Stars' als Ideal gelten"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des Bildes des 'Pflegers' und seiner Bedeutung für die Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielung auf 'Schmerzensgeld von der AOK' und die Ablehnung von glatten Movie-Stars verdeutlichen eine kritische Haltung gegenüber einer konsumorientierten Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass Schönheit vergänglich sei, während ein 'Arschgesicht' beständig bleibt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Du bist 'ne Pflaume' und ihrer Bedeutung für die Charakterisierung des Subjekts"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse des Songs, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt"
+  }
+}

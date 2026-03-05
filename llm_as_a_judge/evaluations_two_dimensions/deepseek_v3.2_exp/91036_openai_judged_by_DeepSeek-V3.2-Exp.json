@@ -1,0 +1,89 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen \"They poke around until they get what they want\" beschreiben das invasive Durchsuchen von Daten, Gefühle und Identität durch eine digitale Öffentlichkeit"
+        ],
+        "positive_aspekte": [
+          "Der Song kritisiert damit die Illusion von Leichtigkeit, die digitale Kultur vorgibt, und enthüllt die tiefe Einsamkeit, die hinter dem ständigen Wechseln der Bildschirme verborgen bleibt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild des \"Switch Screens\" verstärkt das Motiv der ständigen Ablenkung"
+        ],
+        "positive_aspekte": [
+          "Der Refrain, der das Herz immer wieder herauszieht, wird zu einem Kreislauf, in dem das Streben nach Einfachheit das Gegenteil bewirkt: Es vergrößert die Einsamkeit und lässt das Individuum in einer endlosen Schleife aus Selbstoffenbarung und Entfremdung gefangen bleiben"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Stimme von Lorde, kalt und doch emotional, verleiht dem Text eine Distanz"
+        ],
+        "positive_aspekte": [
+          "Der Song bleibt damit ein eindringlicher Kommentar zur Selbstentfremdung im Zeitalter der ständigen Ablenkung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Motiv des \"Throw out the lunch you pay for\" ist ein Bild für das Wegwerfen von Selbstfürsorge"
+        ],
+        "positive_aspekte": [
+          "So wird das Lied zu einer melancholischen Anklage gegen die Oberflächlichkeit einer vernetzten Welt, die das Herz ausbeutet, um das Gefühl der Einsamkeit zu verstärken"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das \"easy\" zugleich das Gefängnis und die Illusion von Freiheit ist"
+        ],
+        "positive_aspekte": [
+          "Insgesamt zeichnet das Stück ein Bild von Selbstaufgabe und Oberflächlichkeit, in dem das Streben nach Leichtigkeit zu einer tieferen Entfremdung führt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs",
+    "empfehlung": "Die dritte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

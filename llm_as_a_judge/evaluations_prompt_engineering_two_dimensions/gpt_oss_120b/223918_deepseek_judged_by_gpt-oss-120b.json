@@ -1,0 +1,154 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Thematik ... kann als Kommentar zu den sozialen und politischen Verhältnissen der späten 1970er Jahre interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi‑Szenario wirkt.",
+          "Die zentrale Botschaft ... die Dekonstruktion von Fassaden und die Enthüllung von Geheimnissen zu sein.",
+          "Hier wird die Spannung zwischen öffentlicher Erscheinung und privater Wirklichkeit aufgemacht.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern, Symbole und Bilder unterstreicht die thematische Komplexität des Songs.",
+          "So wird beispielsweise die \"leaking pen\" … zu einem Symbol für die Unzuverlässigkeit von Informationen, während die \"shrunken head\" … auf eine Art von Verkleinerung oder Verzerrung hinweist.",
+          "Die Wiederholung der Phrase … kann als ironische Kommentierung der Verdrängung von Wissen und der Verleugnung von Verantwortung interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Unsicherheit und des Misstrauens.",
+          "Die tiefere Bedeutungsebene des Songs scheint die Frage nach der Konstruktion von Wirklichkeit und der Rolle von Informationen in dieser Konstruktion aufzuwerfen.",
+          "Die symbolische Ordnung des Songs ist geprägt von einer Spannung zwischen Oberfläche und Tiefe, zwischen öffentlicher Erscheinung und privater Wirklichkeit.",
+          "Diese Spannung wird durch die Verwendung von Ambiguitäten und Widersprüchen … aufrechterhalten."
+        ],
+        "positive_aspekte": [
+          "Verweist korrekt auf die Textzeilen (z. B. \"A public face / A private eye\").",
+          "Erkennt die Oxymora und die wiederholten Motive im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von \"Hear no evil / See no evil / Speak no evil\" kann als Referenz an die bekannten Affengesichter interpretiert werden, die für die Verdrängung von Wissen und Schuld stehen.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist der späte 1970er Jahre, eine Zeit, in der die Postmoderne und die Dekonstruktion von Sinn und Wahrheit begannen, die kulturelle Landschaft zu prägen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi anmutet.",
+          "Die zentrale Botschaft ... die Dekonstruktion von Fassaden und die Enthüllung von Geheimnissen zu sein.",
+          "Hier wird die Spannung zwischen öffentlicher Erscheinung und privater Wirklichkeit aufgemacht.",
+          "Der \"private eye\" kann sowohl als Detektiv als auch als ein inneres, privates Auge interpretiert werden.",
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen in diesem Song eine wichtige Rolle.",
+          "Die emotionale Wirkung des Songs ist ambivalent und changiert zwischen Distanz und Intimität.",
+          "Die affektive Dimension wird durch die Verwendung von Fragmenten und assoziativen Bildern erzeugt, die den Hörer auffordern, selbst Verbindungen herzustellen.",
+          "In diesem Kontext kann \"Clues\" als ein Kommentar zu den Fassaden und Masken der modernen Gesellschaft interpretiert werden, die die wahre Natur der Dinge zu verbergen suchen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt mehrere Textstellen (z. B. \"A public face / A private eye\", \"Hear no evil / See no evil / Speak no evil\").",
+          "Analysiert die Verwendung von Oxymora im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von \"Hear no evil / See no evil / Speak no evil\" kann als Referenz an die bekannten Affenfiguren interpretiert werden, die für die Verdrängung von Wissen und Schuld stehen.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist in den späten 1970er Jahren angesiedelt, einer Zeit, in der die Postmoderne und die Dekonstruktion von Sinn und Wahrheit begannen, die kulturelle Landschaft zu prägen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi anmutet.",
+          "Die zentrale Botschaft des Songs scheint jedoch die Dekonstruktion von Fassaden und die Enthüllung von Geheimnissen zu sein.",
+          "Hier wird die Spannung zwischen öffentlicher Erscheinung und privater Wirklichkeit aufgemacht.",
+          "Der \"private eye\" kann sowohl als Detektiv als auch als ein inneres, privates Auge interpretiert werden.",
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen in diesem Song eine wichtige Rolle.",
+          "Die Verwendung von Oxymora ... erzeugt eine Atmosphäre der Spannung und des Widerspruchs.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Unsicherheit und des Zweifels.",
+          "Die affektive Dimension wird durch die Verwendung von Fragen und Negationen ... unterstrichen.",
+          "Insgesamt kann \"Clues\" als ein Song interpretiert werden, der die Fragmentierung von Identität und Wirklichkeit thematisiert und die Suche nach Wahrheit und Sinn in einer ambigen Welt reflektiert."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf Textzeilen und erkennt wiederholte Motive.",
+          "Erkennt die Oxymora und deren mögliche Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Clues erschien 1979, einer Zeit, in der die Postmoderne und die Dekonstruktion von Meta‑Erzählungen in der Kunst und Philosophie aufkamen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi anmutet.",
+          "Die zentrale Botschaft ... die Dekonstruktion von Fassaden und die Enthüllung von Geheimnissen zu sein.",
+          "Hier wird die Spannung zwischen öffentlicher Erscheinung und privater Wirklichkeit aufgemacht.",
+          "Der \"private eye\" kann sowohl als Detektiv als auch als ein inneres Auge interpretiert werden, das die wahre Natur der Dinge betrachtet.",
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs.",
+          "So wird beispielsweise die \"leaking pen\" … zu einem Symbol für die Unzuverlässigkeit von Informationen oder die \"shrunken head\" … zu einem Hinweis auf die Verkleinerung oder Verzerrung von Wahrheiten.",
+          "Die Wiederholung der Zeilen \"Hear no evil / See no evil / Speak no evil\" … kann als ironische Kommentierung der Verdrängung von Wissen oder der Weigerung, die Wahrheit zu sehen, interpretiert werden.",
+          "Der Songtext ist voller Ambiguitäten und Spannungen, die eine eindeutige Interpretation erschweren.",
+          "Der kulturelle und historische Kontext des Songs ist auch von Bedeutung.",
+          "Der Song kann als ein Beitrag zu dieser Diskussion gesehen werden, indem er die Konstruktion von Wirklichkeit und die Rolle von Informationen und Wissen in dieser Konstruktion hinterfragt.",
+          "Insgesamt zeigt \"Clues\" … eine tiefe Bedeutungsebene, die sich mit Fragen der Wahrnehmung, der Wahrheit und der Konstruktion von Wirklichkeit auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Nutzt korrekte Zitatstellen aus dem Text.",
+          "Erkennt die wiederholte „Hear no evil / See no evil / Speak no evil“-Sequenz."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1970er Jahre waren geprägt von einer zunehmenden Skepsis gegenüber Institutionen und Autoritäten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi anmutet.",
+          "Die zentrale Botschaft des Songs scheint jedoch die Dekonstruktion von Fassaden und die Enthüllung von Geheimnissen zu sein.",
+          "Dies wird bereits in den ersten Zeilen deutlich: \"A public face / A private eye\" (Z. 1-2).",
+          "Hier wird die Spannung zwischen öffentlicher Erscheinung und privater Wirklichkeit aufgemacht.",
+          "Der \"private eye\" kann sowohl als Detektiv als auch als ein inneres, privates Auge interpretiert werden.",
+          "Die literarischen Stilmittel, die im Song verwendet werden, sind vielfältig.",
+          "Metaphern wie \"A leaking pen\" (Z. 6) und \"A shrunken head\" (Z. 7) erzeugen eine Atmosphäre der Unsicherheit und des Verfalls.",
+          "Die Wiederholung von \"Hear no evil / See no evil / Speak no evil\" (Z. 11-13) kann als eine Art von Verdrängung oder Verleugnung interpretiert werden.",
+          "Die Verwendung von Symbolen wie dem \"ceiling fan\" (Z. 14) und dem \"cigar smoke\" (Z. 20) erzeugt eine Art von Unbehagen und Lähmung.",
+          "Der emotionale Wirkung des Songs ist daher eher kühl und distanziert.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls von Bedeutung.",
+          "Der Song kann daher als eine Art von Kommentar zu dieser Zeit interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs scheint jedoch die Frage nach der Wahrheit und der Möglichkeit ihrer Enthüllung zu sein.",
+          "Die Wiederholung von \"A public face / A private eye\" am Ende des Songs kann als eine Art von Resignation oder Verzweiflung interpretiert werden.",
+          "Insgesamt bleibt der Song ... ein vielschichtiges und ambigues Werk, das zur Interpretation einlädt."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich korrekt auf mehrere Textstellen.",
+          "Erkennt die wiederholte Motive (z. B. \"Hear no evil / See no evil / Speak no evil\")."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Dekonstruktion von Fassaden, Hinweis auf \"Hear no evil/See no evil/Speak no evil\"). Die Varianz liegt hauptsächlich in der Menge an spekulativem Kontext – Interpretation 5 und 1 enthalten die wenigsten erfundenen Kontextualisierungen.",
+    "empfehlung": "Interpretation 5 bietet die ausgewogenste Mischung aus textnaher Analyse (Erkennen von Oxymora, Wiederholungen) und moderater Spekulation, ohne zu viele unbelegte historische Behauptungen. Für zukünftige Analysen sollte der Fokus stärker auf konkrete Textbelege gelegt werden, während spekulative Kontextualisierungen klar als Interpretation gekennzeichnet werden."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird hier als eine Art Heilung und Rettung dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und bietet eine klare Analyse der emotionalen Reise des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird hier als eine Art Heilung und Rettung dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Beschreibung der Verzweiflung und der Rettung durch die Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird hier als eine Art Heilung und Rettung dargestellt",
+          "Die wiederkehrende Erwähnung der Augen unterstreicht die Bedeutung der visuellen und emotionalen Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu, aber könnte tiefer in die Analyse eintauchen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird hier als eine Art Heilung und Rettung dargestellt",
+          "Die wiederkehrende Erwähnung der Augen unterstreicht die Bedeutung der visuellen und emotionalen Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu, aber könnte tiefer in die Analyse eintauchen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird hier als eine Art Heilung und Rettung dargestellt",
+          "Die wiederkehrende Erwähnung der Augen unterstreicht die Bedeutung der visuellen und emotionalen Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu, aber könnte tiefer in die Analyse eintauchen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine geringere Tiefe und mehr Wiederholungen oberflächlicher Aussagen im Vergleich zu den Interpretationen 1 und 2",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf die textgetreue Analyse konzentrieren und versuchen, tiefer in die emotionale Reise des Protagonisten einzutauchen, ohne dabei in allgemeine oder oberflächliche Aussagen zu verfallen"
+  }
+}

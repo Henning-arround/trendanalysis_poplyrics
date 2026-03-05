@@ -1,0 +1,99 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als 'tall and handsome' zeigt, dass die Protagonistin von äußeren Attributen angezogen wird, was ihre Naivität und Unerfahrenheit unterstreicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Geschichte der Protagonistin ist eine Mischung aus Hoffnung, Liebe, Enttäuschung und Gewalt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'Hamburger-Stands' als Symbol für die amerikanische Kultur und den Traum von einem besseren Leben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textzeile 'She shot him dead / On a sunny Florida road' ist ein abrupter Wechsel in der Erzählung und zeigt, dass die Protagonistin zu extremen Maßnahmen greift, um sich von ihrer unglücklichen Ehe zu befreien."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Geschichte der Protagonistin ist eine Mischung aus Hoffnung, Liebe, Enttäuschung und Gewalt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der wiederkehrenden Phrase 'From small things, mama / Big things one day come' als Leitmotiv."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als 'tall and handsome' zeigt, dass die Protagonistin von äußeren Attributen angezogen wird, was ihre Naivität und Unerfahrenheit unterstreicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Geschichte der Protagonistin ist eine Mischung aus Hoffnung, Liebe, Enttäuschung und Gewalt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'Hamburger-Stands' als Symbol für die amerikanische Kultur und den Traum von einem besseren Leben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als 'tall and handsome' zeigt, dass die Protagonistin von äußeren Attributen angezogen wird, was später zu Problemen führt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Protagonistin ist eine Figur, die sowohl sympathisch als auch unsympathisch ist, was die Zuhörer dazu bringt, ihre eigenen Urteile zu fällen."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeile 'She shot him dead / On a sunny Florida road' als schockierender Wendepunkt in der Geschichte."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wyomie County real estate man als 'tall and handsome' zeigt, dass die Protagonistin von äußeren Attributen angezogen wird, was ihre Naivität und Unerfahrenheit unterstreicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Geschichte der Protagonistin ist eine Mischung aus Hoffnung, Liebe, Enttäuschung und Gewalt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'Hamburger-Stands' als Symbol für die amerikanische Kultur und den Traum von einem besseren Leben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die emotionale Wirkung des Songs.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die emotionale Wirkung des Songs."
+  }
+}

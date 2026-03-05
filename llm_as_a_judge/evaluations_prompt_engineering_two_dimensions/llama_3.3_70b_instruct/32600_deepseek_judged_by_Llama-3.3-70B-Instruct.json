@@ -1,0 +1,97 @@
+{
+  "song": "Assistant's Cry - Yello (1980)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die westliche Gesellschaft von einer zunehmenden Kommerzialisierung und Oberflächlichkeit geprägt war"
+        ],
+        "oberflächliche_aussagen": [
+          "eine simple, oberflächliche Kritik an der Masse und ihrem Verhalten"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von Metaphern und Symbolen wie 'cries and fears' und 'look at them / Really can't believe it'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Masse der Menschen auf der Straße kann als Symbol für die Anonymität und Verunsicherung in der modernen Gesellschaft gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "eine tiefe Unsicherheit und Verzweiflung, die unter der Oberfläche der menschlichen Existenz verborgen ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguitäten und Spannungen in den Lyrics"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Masse der Menschen auf der Straße kann als Symbol für die Anonymität und Verunsicherung in der modernen Gesellschaft gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "eine affektive Dimension, die über die Oberfläche der Kritik hinausgeht"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von Metaphern und Symbolen wie 'cries and fears' und 'look at them / Really can't believe it'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Masse der Menschen auf der Straße kann als Symbol für die Anonymität und Verunsicherung in der modernen Gesellschaft gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "eine tiefe Unsicherheit und Verzweiflung, die unter der Oberfläche der menschlichen Existenz verborgen ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguitäten und Spannungen in den Lyrics"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine Art von Zynismus und Resignation"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von literarischen Stilmitteln wie Ironie und Sarkasmus"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Lyrics, aber variieren in der Tiefe und der Anzahl an halluzinierten Aussagen",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine gute Balance zwischen Textreue und analytischer Tiefe findet, wie Interpretation 5"
+  }
+}

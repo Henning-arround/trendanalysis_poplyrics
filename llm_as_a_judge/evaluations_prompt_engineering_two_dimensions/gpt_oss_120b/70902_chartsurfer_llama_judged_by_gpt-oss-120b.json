@@ -1,0 +1,115 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Vision einer harmonischen Gesellschaft ist typisch für die 1970er Jahre, eine Zeit, in der die Gesellschaft nach dem Trauma des Vietnamkriegs und der sozialen Unruhen nach einer neuen Orientierung suchte.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen erreicht, die eine Atmosphäre der Hoffnung und des Optimismus schaffen.“",
+          "„Die affektive Dimension des Songs wird durch die Wiederholung der Phrase „One day tomorrow“ verstärkt, die eine Art von Beschwörung oder Gebet darstellt.“",
+          "„Der kulturelle und historische Kontext des Songs ist wichtig, um seine tieferen Bedeutungsebenen und symbolischen Ordnungen zu verstehen.“",
+          "„Die Ambiguitäten und Spannungen im Song, wie die Frage, ob diese Utopie jemals erreicht werden kann, bleiben jedoch ungelöst und lassen Raum für Interpretationen.“"
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei den meisten Interpretationen von Metaphern und Wiederholungen.",
+          "Erkennt die zentrale Botschaft des Liedes und verknüpft sie mit konkreten Zeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen erreicht, die eine Atmosphäre der Hoffnung und des Optimismus schaffen.“",
+          "„Die affektive Dimension des Songs wird durch die Wiederholung des Refrains „One day tomorrow“ verstärkt, der eine Art von hypnotischer Wirkung auf den Hörer ausübt.“",
+          "„Der kulturelle und historische Kontext des Songs ist wichtig, um seine tieferen Bedeutungsebenen und symbolischen Ordnungen zu verstehen.“",
+          "„Die Ambiguität und Spannung zwischen der aktuellen Realität und der erhofften Zukunft werden im Song nicht aufgelöst, sondern bleiben als offene Fragestellung bestehen, die den Hörer zum Nachdenken anregt.“"
+        ],
+        "positive_aspekte": [
+          "Fast ausschließlich textbasierte Analysen, kaum spekulative Aussagen.",
+          "Gute Balance zwischen konkreter Zeileninterpretation und Hinweis auf offene Mehrdeutigkeiten."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der kulturelle und historische Kontext des Songs, der in den 1970er Jahren entstand, könnte auf die damalige Sehnsucht nach Frieden und Harmonie hinweisen, die in der Gesellschaft vorherrschte.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen erreicht, die eine Atmosphäre der Hoffnung und des Optimismus schaffen.“",
+          "„Die Wiederholung dieser Metapher im gesamten Song unterstreicht die Sehnsucht nach dieser Zukunft und schafft eine Art von affektiver Dimension, die den Hörer emotional anspricht.“",
+          "„Die Ambiguität und Spannung zwischen der aktuellen Realität und der erhofften Zukunft werden im Song nicht aufgelöst, sondern bleiben als offene Fragestellung bestehen, die den Hörer zum Nachdenken anregt.“"
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Metapher und deren Wiederholung im Text.",
+          "Verknüpft Textstelle „There’ll be nothing left for me to say“ mit einer möglichen emotionalen Befreiung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Vision einer harmonischen Gesellschaft ist typisch für die 1970er Jahre, eine Zeit, in der die Gesellschaft nach dem Trauma des Vietnamkriegs und der sozialen Unruhen nach einer neuen Orientierung suchte.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen erreicht, die eine Atmosphäre der Hoffnung und des Optimismus schaffen.“",
+          "„Die affektive Dimension des Songs wird durch die Wiederholung der Phrase „One day tomorrow“ verstärkt, die eine Art von Beschwörung oder Gebet darstellt.“",
+          "„Der kulturelle und historische Kontext des Songs ist wichtig, um seine tieferen Bedeutungsebenen und symbolischen Ordnungen zu verstehen.“",
+          "„Die Ambiguitäten und Spannungen im Song, wie die Frage, ob diese Utopie jemals erreicht werden kann, bleiben jedoch ungelöst und lassen Raum für Interpretationen.“"
+        ],
+        "positive_aspekte": [
+          "Gute Textbelege für die zentrale Metapher und die Wiederholung.",
+          "Erkennt die Zeile über das Verblassen vergangener Träume und interpretiert sie sinnvoll."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der kulturelle und historische Kontext des Songs, der in den 1970er Jahren entstand, könnte auf die damalige Sehnsucht nach Frieden und Harmonie hinweisen, die in der Gesellschaft vorherrschte.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Narrativen erreicht, die eine Atmosphäre der Hoffnung und des Optimismus schaffen.“",
+          "„Die Wiederholung dieser Metapher im gesamten Song unterstreicht die Sehnsucht nach dieser Zukunft und schafft eine Art von affektiver Dimension, die den Hörer emotional anspricht.“",
+          "„Die Ambiguität und Spannung zwischen der aktuellen Realität und der erhofften Zukunft werden im Song nicht aufgelöst, sondern bleiben als offene Fragestellung bestehen, die den Hörer zum Nachdenken anregt.“"
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Wiederholung und deren mögliche emotionale Funktion.",
+          "Verknüpft die Zeile „There’ll be nothing left for me to say“ mit einer Idee von Befreiung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich in den zusätzlichen (teils erfundenen) historischen Kontexten. Die inhaltliche Konsistenz ist hoch, aber die kreative Tiefe variiert stark.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Analyse: sie bleibt fast ausschließlich textgebunden, vermeidet unbelegte historische Spekulationen und bietet gleichzeitig eine substanzielle, aber nicht übermäßig ausschweifende Interpretation. Für zukünftige Bewertungen sollte man darauf achten, spekulative Kontextualisierungen zu kennzeichnen oder zu vermeiden, um den Halluzinations‑Score niedrig zu halten, während man gleichzeitig mehr konkrete Textanalysen einbaut, um die Tiefe zu erhöhen."
+  }
+}

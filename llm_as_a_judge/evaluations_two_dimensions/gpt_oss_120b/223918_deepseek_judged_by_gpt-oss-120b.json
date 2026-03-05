@@ -1,0 +1,131 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte sind voller Hinweise auf Verbrechen und Schuld, wie ein \"heinous crime\", ein \"broken jaw\" und \"dabs on glass\", die auf eine dunkle und komplexe Handlung hindeuten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Fassade der Öffentlichkeit und der Privatsphäre, die von den Protagonisten des Songs aufrechterhalten wird.",
+          "Die Texte beschreiben eine Welt, in der alles kontrolliert und manipuliert wird, von der \"public face\" bis hin zum \"private eye\", der verdeutlicht, dass selbst die Privatsphäre nicht sicher ist.",
+          "Die wiederkehrenden Zeilen ... deuten auf eine Art von Selbstzensur oder Verdrängung hin, bei der die Wahrheit nicht ausgesprochen oder wahrgenommen werden soll.",
+          "Die Verwendung von Symbolen wie dem \"paperweight\" und dem \"ceiling fan\" erzeugt eine Atmosphäre der Unsicherheit und des Chaos.",
+          "Der Song kann auch als Kritik an der Gesellschaft interpretiert werden, in der die Menschen ihre wahren Gesichter verbergen ...",
+          "Die Wiederholung ... kann als Kommentar zu der Tendenz der Menschen gesehen werden, die Augen vor der Wahrheit zu verschließen ...",
+          "Insgesamt zeichnet der Song ein Bild einer Welt, in der die Wahrheit schwer zu finden ist und die Menschen sich in einem Labyrinth von Lügen und Verdrängung bewegen."
+        ],
+        "positive_aspekte": [
+          "Verweist konkret auf eine Textzeile (\"Now I can't remember\") und kennzeichnet sie korrekt als belegt.",
+          "Bietet einige spezifische Bildanalysen (z. B. Paperweight, Ceiling Fan) statt nur allgemeiner Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"leaking pen\" und der \"broken jaw\" können als Zeichen für die Verletzlichkeit und die Zerbrechlichkeit der Wahrheit interpretiert werden.",
+          "Die \"hat check girl\", die mit einem Siamese‑Zwilling \"necking\" ist, kann als Symbol für die Verstrickung von Liebe und Lüge interpretiert werden.",
+          "Der Song kann als Kritik an der Gesellschaft und der Politik interpretiert werden, die die Wahrheit verschleiern und manipulieren, um ihre eigenen Interessen zu verfolgen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Fassade der Öffentlichkeit und der Privatsphäre, die von den Protagonisten des Songs aufrechterhalten wird.",
+          "Die Texte beschreiben eine Welt, in der alles kontrolliert und manipuliert wird, von der \"public face\" bis hin zum \"private eye\".",
+          "Die Verwendung von Oxymorons ... unterstreicht die Spannung zwischen Schein und Sein.",
+          "Die wiederholte Refrainzeile ... kann als Hinweis auf die Verdrängung von Wahrheit und die Weigerung, Verantwortung zu übernehmen, interpretiert werden.",
+          "Die Texte beschreiben auch eine Welt der Lügen und der Verheimlichung, in der \"alibis\" und \"jumped‑up fees\" verwendet werden, um die Wahrheit zu verschleiern.",
+          "Der Songtext ist voller Metaphern und Symbolen, die auf die Verstrickung von Lügen und Wahrheit hinweisen.",
+          "Insgesamt beschreibt der Song eine Welt, in der die Grenzen zwischen Wahrheit und Lüge verwischt sind und in der die Menschen versuchen, ihre eigene Realität zu konstruieren."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte „Hear/See/Speak no evil“-Zeile und verbindet sie mit einem thematischen Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Fassade der Öffentlichkeit und der Privatsphäre, die von den Protagonisten des Songs aufrechterhalten wird.",
+          "Die Texte beschreiben eine Welt, in der alles kontrolliert und manipuliert wird, von der \"public face\" bis hin zum \"private eye\", der verdeutlicht, dass selbst die Privatsphäre nicht sicher ist.",
+          "Die wiederkehrenden Zeilen ... deuten auf eine Art von Selbstzensur oder Verdrängung hin, bei der die Wahrheit nicht ausgesprochen oder wahrgenommen werden soll.",
+          "Die Texte sind voller Hinweise auf Verbrechen und Schuld, wie ein \"heinous crime\", ein \"broken jaw\" und ein \"body blow\", aber auch ... \"alibi\" und \"jumped‑up fee\".",
+          "Die Szene, in der eine \"hat check girl\" mit einem Siamese‑Zwilling \"necking\" ist, wirkt wie ein surrealer Traum, der die Grenzen zwischen Realität und Fantasie verwischt.",
+          "Der Song kann als Kritik an der Gesellschaft interpretiert werden, ...",
+          "Die Wiederholung ... unterstreicht die These, dass diese Art von Verdrängung ...",
+          "Insgesamt zeichnet der Song ein Bild einer Welt, in der die Wahrheit schwer zu finden ist und die Menschen oft in einem Labyrinth von Lügen und Halbwahrheiten gefangen sind."
+        ],
+        "positive_aspekte": [
+          "Keine unbelegten Fakten oder biografischen Angaben – reine Text‑Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"A body blow on the table waiting\" deutet auf eine verdeckte Wahrheit hin, die ans Licht kommen wird.",
+          "Die zweite Hälfte des Songs beschreibt eine chaotische Szene, in der ein Detektiv nach Hinweisen sucht, aber immer wieder auf Widersprüche und falsche Fährten stößt.",
+          "Die Zeile \"Walls have ears\" unterstreicht die Vorstellung, dass nichts unbemerkt bleibt und dass die Wahrheit irgendwann ans Licht kommen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Fassade der Öffentlichkeit und der verborgenen Wahrheit.",
+          "Der Text beschreibt eine Person mit einem öffentlichen Gesicht und einem privaten Auge, das nach Antworten sucht.",
+          "Die Verwendung von Symbolen ... unterstreicht die Diskrepanz zwischen Schein und Sein.",
+          "Die wiederholte Phrase ... kann als Hinweis auf die Verdrängung von Wahrheit ... interpretiert werden.",
+          "Der Song kann als Kritik an der Verdrängung von Wahrheit und der Verwendung von Macht und Einfluss, um die Wahrheit zu verschleiern, interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die Textzeile \"It wasn't meant to be\" als Hinweis auf ein unbeabsichtigtes Verbrechen (belegt)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"A body blow on the table waiting\" deutet auf eine verdeckte Wahrheit hin, die ans Licht kommen wird.",
+          "Die zweite Hälfte des Songs wird zunehmend surrealer, mit Bildern wie einer \"hat check girl\", die mit einem siamesischen Zwilling neckt, und \"dabs on glass\", die auf eine Spur oder einen Hinweis hindeuten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Fassade der Öffentlichkeit und der verborgenen Wahrheit.",
+          "Der Text beschreibt eine Person mit einem öffentlichen Gesicht und einem privaten Auge, das nach Antworten sucht.",
+          "Die Verwendung von Symbolen ... unterstreicht die Diskrepanz zwischen Schein und Sein.",
+          "Die wiederholte Phrase ... kann als Hinweis auf die Verdrängung von Wahrheit ... interpretiert werden.",
+          "Der Text endet mit der Wiederholung ... was darauf hindeutet, dass die Wahrheit weiterhin verborgen bleibt und die Fassade der Öffentlichkeit aufrechterhalten wird.",
+          "Insgesamt kann \"Clues\" als eine Kritik an der Verdrängung von Wahrheit und der Macht der Fassade interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich korrekt auf die Textzeile \"Heinous crime / It wasn't meant to be\" (belegt)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark im Detailgrad; einige wiederholen nur allgemeine Themen, während andere konkrete (wenn auch spekulative) Bildanalysen liefern. Die Varianz ist moderat.",
+    "empfehlung": "Interpretation 3 bietet die beste Balance aus Texttreue (geringe Halluzinationsrate) und analytischer Tiefe. Für zukünftige Modelle sollte der Fokus darauf liegen, belegbare Textstellen zu markieren und spekulative Aussagen klar als Interpretation zu kennzeichnen, um Halluzinationen zu minimieren und die inhaltliche Tiefe zu erhöhen."
+  }
+}

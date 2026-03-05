@@ -1,0 +1,106 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen eine wichtige Rolle in der Textanalyse.",
+          "Die kulturelle und historische Dimension des Songs kann im Kontext der gesellschaftlichen Erwartungen an Beziehungen und Trennungen gesehen werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung, die durch die Verwendung von Naturbildern, wie dem Regen, und Alltagsgegenständen, wie dem Fenster, hervorgerufen wird."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Songtext ableitbar (z. B. Regen gegen das Fenster, süße Erinnerungen, das Bild des leeren Kissens).",
+          "Der Interpret nutzt konkrete Textstellen, um Symbolik (Fenster, Regen) zu erklären.",
+          "Es wird ein zusammenhängendes Bild von Erinnerung, Verlust und Unfähigkeit, loszulassen, gezeichnet."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen eine wichtige Rolle in der Textinterpretation.",
+          "Der Song thematisiert auch die kulturelle und gesellschaftliche Dimension der Liebe und der Trennung, indem er die Frage aufwirft, wie man mit Erinnerungen an eine vergangene Beziehung umgeht und wie man sie in die Gegenwart integriert."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse (Fenster‑Symbol, Regen‑Symbol, „sweet memories“, „alone with the pillow“).",
+          "Erklärt die emotionale Belastung und die affektive Dimension des Songs.",
+          "Zeigt ein gutes Verständnis für die Metapher des Fensters als Grenze zwischen Innen‑ und Außenwelt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen eine wichtige Rolle in der Textanalyse.",
+          "Die kulturelle und historische Dimension des Songs kann in der Verwendung von Naturbildern, wie dem Regen, gesehen werden, die oft als Symbol für Trauer und Verlust verwendet werden.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung, die durch die Verwendung von Bildern und Metaphern hervorgerufen wird, und die den Zuhörer auffordert, die eigene Vergangenheit und die damit verbundenen Emotionen zu reflektieren."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung von Symbolen (Fenster, Regen) aus dem Text.",
+          "Verknüpft die wiederholte Zeile „I can’t stand the rain“ mit dem Motiv der unvermeidlichen Erinnerung.",
+          "Erkennt die affektive Wirkung der Zeilen über das leere Kissen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen eine wichtige Rolle in der Textinterpretation.",
+          "Der Song thematisiert auch die kulturelle und gesellschaftliche Dimension der Liebe und der Trennung, indem er die Frage aufwirft, wie man mit Erinnerungen an eine vergangene Beziehung umgeht und wie sie in die Gegenwart integriert."
+        ],
+        "positive_aspekte": [
+          "Sehr strukturiert: Erst Analyse der Symbolik, dann emotionale Wirkung, abschließend kulturelle Dimension.",
+          "Alle genannten Interpretationen lassen sich direkt im Text nachweisen.",
+          "Gute Balance zwischen konkreter Textbeobachtung und weiterführender Reflexion."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie Metaphern und Symbole, spielen eine wichtige Rolle in der Textinterpretation.",
+          "Der Song thematisiert auch die kulturelle und gesellschaftliche Dimension der Liebe und der Trennung, indem er die Frage aufwirft, wie man mit Erinnerungen an eine vergangene Beziehung umgeht und wie man sie in die Gegenwart integriert."
+        ],
+        "positive_aspekte": [
+          "Starke Textbelege für Symbolik (Fenster, Regen, Kissen).",
+          "Erklärt die wiederholte Refrain‑Struktur als Verstärkung der Unfähigkeit, die Erinnerung zu ertragen.",
+          "Verbindet die emotionale Belastung mit einer allgemeinen, aber nachvollziehbaren, kulturellen Lesart."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen fast identische Argumentationsmuster (Symbolik von Fenster und Regen, affektive Dimension, kulturelle Reflexion). Dadurch entsteht ein hoher Oberflächlichkeitsanteil bei den generischen Aussagen, aber die textbezogenen Analysen bleiben konsistent.",
+    "empfehlung": "Ein Ansatz, der die klaren Textbelege (Fenster‑/Regen‑Symbolik, \"sweet memories\", das leere Kissen) beibehält, aber die vagen, kultur‑ und geschichtlichen Verallgemeinerungen reduziert, liefert die tiefgründigste und zugleich faktentreue Interpretation. Interpretation 1 (und ihre Duplikate) zeigen das beste Gleichgewicht zwischen Texttreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die optimistische Sicht auf die Zukunft kann als Reaktion auf die politischen und sozialen Umbrüche dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von Metaphern und Symbolen ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die optimistische Sicht auf die Zukunft kann als Reaktion auf die politischen und sozialen Umbrüche dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von Metaphern und Symbolen ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die optimistische Sicht auf die Zukunft kann als Reaktion auf die politischen und sozialen Umbrüche dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von Metaphern und Symbolen ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die optimistische Sicht auf die Zukunft kann als Reaktion auf die politischen und sozialen Umbrüche dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von Metaphern und Symbolen ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die optimistische Sicht auf die Zukunft kann als Reaktion auf die politischen und sozialen Umbrüche dieser Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist, dass die Dinge eines Tages besser werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verwendung von Metaphern und Symbolen ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

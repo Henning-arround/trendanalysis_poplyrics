@@ -1,0 +1,99 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung von Emily als einer traumhaften, überirdischen Figur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vorstellung, dass Emily in einer Art Spiel oder Traum gefangen ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'There is no other day' und deren Bedeutung für Emilys Wahrnehmung der Zeit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der 'Free games for May' als Symbol für die unbeschwerte Natur der Kindheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die wiederholte Aufforderung 'See Emily play' zu einem Mantra wird"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung von Emily als einer Figur, die in einer Welt der Fantasie und des Traums lebt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Deutung der Zeile 'Float on a river / Forever and ever, Emily' als spirituelle oder mystische Erfahrung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song eine Ode an die Fantasie und die Freiheit des Traums ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Aufforderung 'Let's try it another way' und deren Bedeutung für Emilys Verständnis der Realität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der 'Free games for May' als Symbol für die Freiheit und den Spaß in der Traumwelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die wiederholte Aufforderung 'See Emily play' die Zuhörer einlädt, sich Emily anzuschließen"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung von Emily als einer Figur, die in einer Welt der Fantasie und des Traums lebt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Deutung der Zeile 'Float on a river / Forever and ever, Emily' als Zeitlosigkeit und Freiheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song eine Ode an die Fantasie und die Freiheit des Traums ist"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Aufforderung 'Let's try it another way' und deren Bedeutung für Emilys Verständnis der Realität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Songtexte, jedoch gibt es einige Wiederholungen und Unstimmigkeiten",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate. Es ist ratsam, die Interpretationen kritisch zu bewerten und auf Textbezug und analytische Tiefe zu achten."
+  }
+}

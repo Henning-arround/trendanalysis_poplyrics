@@ -1,0 +1,99 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich bleib’ ein Komödiant mit Blick ins Märchenland' offenbart eine spielerische Selbstwahrnehmung, die das Leben als Bühne und die Beziehung als märchenhafte Erzählung begreift."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe als Quelle kontinuierlicher Erneuerung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und ihre Bedeutung im Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Selbsthilfe-Mantras der 80er-Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Das klassische deutschsprachige Liebeslied"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Universalität des Gefühls"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die neue, zeitlose Dimension"
+        ],
+        "oberflächliche_aussagen": [
+          "Die universelle Botschaft"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'Ein Atemzug der Ewigkeit'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sakrale Bildsprache"
+        ],
+        "oberflächliche_aussagen": [
+          "Die fast poetische Dualität"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der existenziellen Wiedergeburt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die transzendente Kraft einer Begegnung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die poetische Doppelstruktur"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metamorphose des Individuums durch Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metaphern und ihrer Bedeutung.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Let's Get Together Soon\" ein herzlicher und emotionaler Ausdruck von Liebe und Sehnsucht, der die Zuhörer mit seiner Authentizität und Sensibilität berührt."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich direkt aus dem Songtext ableiten.",
+          "Wenig bis keine spekulativen Ergänzungen.",
+          "Analyse ist konkret und bezieht sich auf wiederkehrende Textpassagen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Aufruf nach Liebe und Verbindung."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen sind textbasiert.",
+          "Gute Detailtiefe, z. B. Bezug zu konkreten Zeilen wie „Chills run up and down my spine“.",
+          "Wenig Wiederholung von rein allgemeinen Formulierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile … zeigt die tiefe Sehnsucht nach einer Wiedervereinigung und die Ungeduld, die damit einhergeht."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Let's Get Together Soon\" ein herzlicher und emotionaler Song, der die Sehnsucht nach Liebe und Verbindung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind korrekt aus dem Text abgeleitet.",
+          "Erkennt die zentrale Thematik von Unsicherheit und Selbstzweifel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Let's Get Together Soon\" ein herzlicher und emotionaler Ausdruck von Liebe und Sehnsucht, der die Zuhörer mit seiner Authentizität und Sensibilität berührt."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse.",
+          "Erfasst sowohl die Sehnsucht als auch die Unsicherheit im Song.",
+          "Wenig redundante Formulierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Let's Get Together Soon\" ein herzlicher und emotionaler Ausdruck von Liebe und Sehnsucht, der die Zuhörer mit seiner Authentizität und Verletzlichkeit berührt."
+        ],
+        "positive_aspekte": [
+          "Vollständige Ableitung aus den Songzeilen.",
+          "Berücksichtigt die wiederholte Unsicherheit der Sängerin.",
+          "Gute Balance zwischen Zusammenfassung und Detailanalyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Kernpunkte (Sehnsucht, Unsicherheit, Wiederholung von Schlüsselzeilen). Nur Interpretation 5 fügt eine spekulative Aussage über \"Ungeduld\" hinzu, was die Halluzinationsrate leicht erhöht.",
+    "empfehlung": "Interpretationen 1‑4 zeigen ein hohes Maß an Texttreue und angemessener analytischer Tiefe. Sie balancieren faktische Ableitung mit einer differenzierten Betrachtung von Mehrdeutigkeiten. Für zukünftige Bewertungen sollte man darauf achten, generische Schlussfolgerungen zu vermeiden und spekulative Emotionen nur zu verwenden, wenn sie klar aus dem Text hervorgehen."
+  }
+}

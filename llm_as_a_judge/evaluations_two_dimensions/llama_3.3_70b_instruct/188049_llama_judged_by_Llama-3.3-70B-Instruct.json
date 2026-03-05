@@ -1,0 +1,99 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Take away all the cameras' symbolisiert die Notwendigkeit, sich von der ständigen Beobachtung und Kontrolle durch die Gesellschaft zu befreien, um authentisch leben zu können."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Authentizität und Wahrheit in einer Welt, die von Oberflächlichkeit und Kommerzialisierung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der 'glorious contest' als Metapher für die Suche nach dem wahren Selbst oder der wahren Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erkenntnis, dass 'it was good while it lasted, but now it has gone' zeigt, dass man sich nicht an vergangenen Erfolgen oder Sicherheiten festhalten kann, sondern sich den Veränderungen des Lebens stellen muss."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Authentizität und Wahrheit in einer Welt, die von Oberflächlichkeit und Kommerzialisierung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der 'glorious contest' als Metapher für die Suche nach Selbstfindung und Unverletzlichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Take away all the cameras' symbolisiert die Notwendigkeit, sich von der ständigen Beobachtung und Bewertung durch andere zu befreien, um authentisch sein zu können."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Authentizität und Wahrheit in einer Welt, die von Oberflächlichkeit und Kommerzialisierung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der 'glorious contest' als Metapher für die Suche nach dem wahren Selbst oder der wahren Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Take away all the cameras' symbolisiert die Notwendigkeit, sich von der ständigen Beobachtung und Kontrolle durch die Gesellschaft zu befreien, um authentisch leben zu können."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Authentizität und Wahrheit in einer Welt, die von Oberflächlichkeit und Kommerzialisierung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der 'glorious contest' als Metapher für die Suche nach dem wahren Selbst oder der wahren Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Take away all the cameras' symbolisiert die Notwendigkeit, sich von der ständigen Beobachtung und Kontrolle durch die Gesellschaft zu befreien, um authentisch leben zu können."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Suche nach Authentizität und Wahrheit in einer Welt, die von Oberflächlichkeit und Kommerzialisierung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der 'glorious contest' als Metapher für die Suche nach dem wahren Selbst oder der wahren Liebe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und wiederholen ähnliche Punkte.",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen."
+  }
+}

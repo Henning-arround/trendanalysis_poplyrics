@@ -1,0 +1,99 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beschreibung des Wiedersehens als 'warm as the wind, soft as the kiss of snow' verknüpft Wärme und Zärtlichkeit mit der kühlen Reinheit des Schnees"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wird zu einem meditativen Bekenntnis, das das Leid des Wartens mit der Gewissheit einer kommenden, erneuernden Liebe verbindet"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Naturbilder und ihrer Bedeutung für die Sehnsucht und Hoffnung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Träume, die das Herz fassen kann, stehen für die unerschöpfliche Kraft der Erinnerung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wird zu einem Spiegelbild von Hoffnung, Geduld und dem unerschütterlichen Glauben, dass Liebe selbst die kältesten Jahreszeiten überdauert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der Erinnerung und der Hoffnung für die Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Eröffnungslinie 'Somewhere my love there will be songs to sing' suggeriert, dass das Herz des Sängers einen inneren Ort bewahrt, an dem Liebe und Musik untrennbar verbunden sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wird zu einer Meditation über Geduld, Vertrauen und die unerschütterliche Kraft der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Eröffnungslinie und ihrer Bedeutung für die Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Someday, we'll meet again, my love' fungiert als Anker, ein Versprechen, das die Zeit überbrückt und das Warten erträglich macht"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied vermittelt ein Bild von Liebe, die trotz Kälte, Distanz und Zeit beständig bleibt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung des Versprechens für die Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von Kälte und aufblühender Natur verdeutlicht den inneren Konflikt zwischen gegenwärtigem Schmerz und dem Glauben an ein besseres Morgen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied vermittelt ein Bild von unerschütterlicher Liebe, die trotz aller Widrigkeiten an das Versprechen einer erneuten Begegnung glaubt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Gegenüberstellung von Kälte und aufblühender Natur"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Naturbilder und der Sehnsucht",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Naturbilder und ihrer Bedeutung für die Sehnsucht bietet"
+  }
+}

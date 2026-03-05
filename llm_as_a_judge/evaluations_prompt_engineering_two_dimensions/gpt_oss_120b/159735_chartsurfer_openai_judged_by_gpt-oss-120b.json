@@ -1,0 +1,106 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sonnenaufgang kann als Metapher für den Wiederaufstieg Westdeutschlands gelesen werden, während die persönliche Liebesansprache die Sehnsucht nach individueller Stabilität widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Historisch entstand das Stück 1951, in einer Nachkriegszeit, in der das Wiederaufleben von Hoffnung und Normalität zentral war."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzeilen konsequent mit Symbolik (Rose, Tau, Drossel).",
+          "Erkennt die strukturelle Wiederholung und deren Wirkung.",
+          "Bietet eine klare Analyse der Ambivalenz zwischen öffentlicher Erwartung und privatem Begehren."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Gleichzeitig spiegeln die Naturmetaphern eine Rückkehr zur Idylle nach den Zerstörungen des Krieges wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Historisch entstand das Stück 1951, in der Nachkriegszeit, als das Bild des Sonnenaufgangs häufig als Metapher für Wiederaufbau und neue Hoffnung verwendet wurde."
+        ],
+        "positive_aspekte": [
+          "Detaillierte Betrachtung der Bildsprache (Rose, Tau, Drossel).",
+          "Erklärt die Mehrschichtigkeit der Metaphern und deren mögliche Bedeutungen.",
+          "Verbindet Textanalyse mit einem historischen Kontext, ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch ist das Lied 1951 in der Nachkriegszeit entstanden, einer Phase, in der das kollektive Bewusstsein nach Stabilität und einem „neuen Morgen“ suchte.",
+          "Die wiederholte Erwartung des Sonnenaufgangs kann als kulturelles Echo der Hoffnung auf Wiederaufbau und Frieden gelesen werden, während das persönliche „my heart is calling you“ die individuelle Sehnsucht nach Nähe in einer Zeit sozialer Neuorientierung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Konsistente und textnahe Interpretation aller Bildmotive.",
+          "Klare Darstellung der Spannung zwischen kollektiver Erwartung und individueller Sehnsucht.",
+          "Gute strukturelle Analyse der Wiederholungen im Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Unschärfe spiegelt gesellschaftliche Spannungen wider: das Verlangen nach Normalität steht im Widerspruch zu den noch spürbaren Nachwirkungen des Krieges."
+        ],
+        "oberflächliche_aussagen": [
+          "Historisch entstand das Stück 1951, in der Nachkriegszeit, als das kollektive Bewusstsein nach Stabilität und Neubeginn suchte."
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Textzeilen mit den jeweiligen Symbolen.",
+          "Erkennt die zyklische, fast kreisförmige Struktur des Liedes.",
+          "Bietet eine nachvollziehbare Lesart der Ambivalenz zwischen Erwartung und Stillstand."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch entstand das Stück 1951, in der Nachkriegszeit, als Amerika von Wiederaufbau und Optimismus geprägt war."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte, zeilenbezogene Analyse aller Metaphern.",
+          "Ausgewogene Betrachtung von Mehrdeutigkeit und möglicher Bedeutungen des „you“.",
+          "Verknüpft historische Einordnung sachlich, ohne spekulative Behauptungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen insgesamt eine konsistente Erfassung der Kernbilder (Sonnenaufgang, Rose, Tau, Drossel) und der Spannung zwischen kollektiver Erwartung und persönlicher Sehnsucht. Unterschiede liegen hauptsächlich im Umfang historischer Kontextualisierung und in spekulativen Aussagen.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus faktentreuer Textanalyse und tiefgehender, aber textbasierter Interpretation. Für zukünftige Modelle sollte der Fokus darauf liegen, spekulative historische Deutungen zu minimieren und gleichzeitig die mehrdeutigen Bildlichkeiten des Textes weiter zu explorieren."
+  }
+}

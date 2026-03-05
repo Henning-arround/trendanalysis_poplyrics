@@ -1,0 +1,122 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile ... symbolisiert den Neubeginn und die Hoffnung, die mit jedem neuen Tag kommt, während die Zeile ... die tiefe emotionale Verbindung zum Ausdruck bringt, die der Sprecher zu der geliebten Person empfindet.",
+          "Die Naturbeschreibungen, wie die mit Tau bedeckten Rosen und die singenden Vögel, dienen als Metapher für die Schönheit und Harmonie der Welt, die jedoch durch die Abwesenheit der geliebten Person gestört wird.",
+          "Der Sprecher sehnt sich nach der Rückkehr der geliebten Person und hofft, dass die Welt, die auf den Sonnenaufgang wartet, auch ein neues Kapitel in ihrer Beziehung einleiten wird.",
+          "Der Song ist eine nostalgische und sentimentale Darstellung der Liebe und Sehnsucht, die durch die sanfte und melancholische Musik von Les Paul und Mary Ford unterstrichen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist der Song eine poetische und emotionale Darstellung der menschlichen Erfahrung, die die Zuhörer zum Nachdenken und Fühlen einlädt."
+        ],
+        "positive_aspekte": [
+          "Klare Benennung von Bildmotiven (Rosen, Tau, Vögel) aus dem Text.",
+          "Erste beiden Sätze sind textnah und korrekt wiedergegeben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile ... symbolisiert den Neubeginn und die Hoffnung, die mit jedem neuen Tag kommt, während die Zeile ... die tiefe emotionale Verbindung zum Ausdruck bringt, die der Sprecher zu der geliebten Person empfindet.",
+          "Die Naturbeschreibungen, ... dienen als Metapher für die Schönheit und Harmonie der Welt, die jedoch durch die Abwesenheit der geliebten Person gestört wird.",
+          "Der Sprecher sehnt sich nach der Rückkehr der geliebten Person, um die Einsamkeit zu überwinden und die Schönheit der Welt gemeinsam zu erleben.",
+          "Der Song ist eine nostalgische und sentimentale Darstellung der Liebe und Sehnsucht, die durch die sanfte und melancholische Musik von Les Paul und Mary Ford unterstrichen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist der Song eine poetische und emotionale Darstellung der menschlichen Erfahrung, die die Zuhörer zum Nachdenken und Fühlen einlädt."
+        ],
+        "positive_aspekte": [
+          "Gute Erfassung der Grundstimmung (Romantik, Melancholie).",
+          "Bezug zu den wiederholten Zeilen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile ... symbolisiert den Neubeginn und die Hoffnung, die mit jedem neuen Tag kommt, während die Zeile ... die tiefe emotionale Verbindung zum Ausdruck bringt, die der Sprecher zu der geliebten Person empfindet.",
+          "Die Naturbeschreibungen, ... dienen als Metapher für die Schönheit und Harmonie der Welt, die jedoch durch die Abwesenheit der geliebten Person gestört wird.",
+          "Der Sprecher sehnt sich nach der Rückkehr der geliebten Person, um die Einsamkeit zu überwinden und die Schönheit der Welt gemeinsam zu erleben.",
+          "Der Song ist eine nostalgische und sentimentale Darstellung der Liebe und Sehnsucht, die durch die sanfte und melancholische Musik von Les Paul & Mary Ford unterstrichen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"The World Is Waiting For Sunrise\" ein zeitloser Klassiker, der die universellen Gefühle von Liebe, Sehnsucht und Hoffnung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe der Bildsprache (Rosen, Tau, Thrasch).",
+          "Konsistente thematische Linie (Sehnsucht, Natur)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile ... symbolisiert den Neubeginn und die Hoffnung, die mit jedem neuen Tag kommt, während die Zeile ... die tiefe emotionale Verbindung zum Ausdruck bringt, die der Sprecher zu der geliebten Person empfindet.",
+          "Die Naturbeschreibungen, ... dienen als Metapher für die Schönheit und Harmonie der Welt, die jedoch durch die Abwesenheit der geliebten Person gestört wird.",
+          "Der Sprecher sehnt sich nach der Rückkehr der geliebten Person, um die Einsamkeit zu überwinden und die Schönheit der Welt gemeinsam zu erleben.",
+          "Der Song ist eine nostalgische und sentimentale Darstellung der Liebe und Sehnsucht, die durch die sanfte und melancholische Musik von Les Paul und Mary Ford unterstrichen wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist der Song eine poetische und emotionale Darstellung der menschlichen Erfahrung, die die Zuhörer zum Nachdenken und Fühlen einlädt."
+        ],
+        "positive_aspekte": [
+          "Stimmige Einleitung, die das Genre (Romantik, Melancholie) nennt.",
+          "Verknüpfung von Naturmotiven mit emotionaler Lage des Sprechers."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile ... dient als Metapher für die Hoffnung und den Neubeginn, aber für den Sänger ist dies nur ein Anlass, um an die geliebte Person zu denken.",
+          "Die Beschreibung der Rosen ... und der Gesang des Thruschs ... unterstreichen die Schönheit und Harmonie der Natur.",
+          "Im Kontrast dazu steht die Sehnsucht des Sängers, der seine Herzensperson vermisst.",
+          "Die Interpretation des Songs lässt darauf schließen, dass der Sänger eine tiefe emotionale Verbindung zu der Person hat, die er vermisst.",
+          "Der Sonnenaufgang symbolisiert Hoffnung und Neubeginn, aber für den Sänger ist dies nur ein Anlass, um an die Vergangenheit oder die Abwesenheit der geliebten Person zu denken."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist einfach und direkt, aber die emotionale Tiefe und die Sehnsucht, die er ausdrückt, machen den Song zu einer zeitlosen Ballade.",
+          "Der Song ist ein Ausdruck der menschlichen Erfahrung, dass die Schönheit der Welt nur durch die Abwesenheit eines geliebten Menschen vollständig wahrgenommen wird."
+        ],
+        "positive_aspekte": [
+          "Erste beiden Sätze sind textnah und korrekt.",
+          "Bietet mehr differenzierte Reflexion (z. B. Gegenüberstellung von Hoffnung und persönlicher Erinnerung).",
+          "Zeigt ein Bewusstsein für Mehrdeutigkeit des Symbols „Sonnenaufgang“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen fast identische Grundaussagen; die Varianz ist gering. Nur Interpretation 3 fügt zusätzliche differenzierte Reflexionen ein, wodurch sie leicht tiefer wirkt.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus stärker auf textbasierte Belege gelegt und spekulative Symboldeutungen klar als Interpretation gekennzeichnet werden. Eine ausgewogene Mischung aus belegten Beobachtungen und begründeten, aber explizit als hypothesisch gekennzeichneten, Deutungen erhöht sowohl die Faktentreue als auch die analytische Tiefe."
+  }
+}

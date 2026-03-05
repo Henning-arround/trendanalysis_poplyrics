@@ -1,0 +1,103 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Satire auf die deutsche Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "fröhliches und humorvolles Lied",
+          "deutsche Kultur und Tradition"
+        ],
+        "positive_aspekte": [
+          "Textanalyse",
+          "Erwähnung von wiederholten Elementen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Schlager-Musik der 1960er Jahre",
+          "humorvolle und leicht konsumierbare Texte"
+        ],
+        "positive_aspekte": [
+          "Erwähnung von Refrain und Wortwitz"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Schlager-Musik der 1960er Jahre",
+          "humorvolle und leicht konsumierbare Texte"
+        ],
+        "positive_aspekte": [
+          "Erwähnung von Refrain und Wortwitz"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Satire auf die deutsche Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "fröhliches und humorvolles Lied",
+          "deutsche Kultur und Tradition"
+        ],
+        "positive_aspekte": [
+          "Textanalyse",
+          "Erwähnung von wiederholten Elementen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Satire auf die deutsche Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "fröhliches und humorvolles Lied"
+        ],
+        "positive_aspekte": [
+          "Textanalyse",
+          "Erwähnung von wiederholten Elementen im Song",
+          "Ambivalenzen und Mehrdeutigkeiten"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz, aber die Tiefe und der Halluzinations-Score variieren.",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

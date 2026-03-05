@@ -1,0 +1,144 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit war die Musikindustrie stark von der romantischen und sentimentalen Musik beeinflusst, die oft die Sehnsucht nach Liebe und Geborgenheit thematisierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als romantische und optimistische Hymne interpretiert werden, die die Sehnsucht nach einer geliebten Person ausdrückt.",
+          "Die zentrale Botschaft ... dass die Welt auf den Sonnenaufgang wartet, aber für den Sänger ist die Anwesenheit seiner Geliebten das Wesentliche.",
+          "Die \"Welt, die auf den Sonnenaufgang wartet\", kann als Symbol ...",
+          "Die \"Rose, die mit Tau bedeckt ist\", ist ein klassisches Symbol ...",
+          "Die Verwendung dieser Symbole schafft eine romantische und idyllische Atmosphäre, die die emotionale Wirkung des Songs unterstreicht.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre interpretiert werden.",
+          "Der Song ... passt in dieses Schema und bietet eine optimistische Vision von Liebe und Zusammensein.",
+          "Die Ambiguität des Songs liegt darin, dass die Welt auf den Sonnenaufgang wartet, aber die eigentliche Sehnsucht des Sängers nach seiner Geliebten nicht erfüllt ist.",
+          "Diese Spannung bleibt im Song unausgelöst und schafft eine tiefe emotionale Wirkung."
+        ],
+        "positive_aspekte": [
+          "Mehrere konkrete Textbezüge (Zeilenangaben) zeigen genaue Lektüre.",
+          "Erkennt die Ambiguität des Textes und diskutiert die Spannung zwischen Welt‑ und Liebesmotiven."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit erlebte die westliche Welt eine Phase des wirtschaftlichen Aufschwungs und der kulturellen Blüte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als romantische und optimistische Hymne interpretiert werden, die die Sehnsucht nach einer geliebten Person ausdrückt.",
+          "Die zentrale Botschaft ... Aufforderung an die geliebte Person, sich der Welt zu öffnen, die auf den Sonnenaufgang wartet.",
+          "Diese Metapher symbolisiert den Neubeginn und die Hoffnung auf eine bessere Zukunft.",
+          "Die Rose ... kann als Symbol für die Schönheit und Zerbrechlichkeit der Liebe interpretiert werden.",
+          "Der Gesang des Thrusch ... kann als weitere Metapher für die Sehnsucht und die Kommunikation zwischen den Liebenden gesehen werden.",
+          "Die Wiederholung ... unterstreicht die emotionale Intensität und die affektive Dimension des Songs.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre interpretiert werden.",
+          "Der Song kann als Ausdruck der Hoffnung und Optimismus gesehen werden, die in dieser Zeit vorherrschten.",
+          "Gleichzeitig kann die Sehnsucht ... als Flucht vor den Herausforderungen und Unsicherheiten der Zeit interpretiert werden.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Wirkung, die zwischen Hoffnung, Sehnsucht und Optimismus schwankt."
+        ],
+        "positive_aspekte": [
+          "Nutzt konkrete Zitate aus dem Text (z. B. Wiederholungen, Metaphern).",
+          "Bietet historischen Kontext, wenn auch sehr allgemein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit erlebte die westliche Welt eine Phase des wirtschaftlichen Aufschwungs und der kulturellen Blüte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als romantische und optimistische Hymne interpretiert werden, die die Sehnsucht nach einer geliebten Person ausdrückt.",
+          "Die zentrale Botschaft ... Aufforderung an die geliebte Person, sich der Welt zu öffnen, die auf den Sonnenaufgang wartet.",
+          "Diese Metapher symbolisiert den Neubeginn und die Hoffnung auf eine bessere Zukunft.",
+          "Die Rose ... Symbol für die Schönheit und Zerbrechlichkeit der Liebe.",
+          "Der Gesang des Thrusch ... Metapher für die Sehnsucht und das Verlangen nach Verbindung.",
+          "Die Wiederholung ... unterstreicht die emotionale Intensität und die affektive Dimension des Songs.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre interpretiert werden.",
+          "Der Song kann als Ausdruck der Hoffnung und Optimismus dieser Zeit gesehen werden.",
+          "Gleichzeitig kann die Sehnsucht ... als Flucht vor den Unsicherheiten interpretiert werden.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Wirkung, die zwischen Hoffnung, Sehnsucht und Melancholie schwankt."
+        ],
+        "positive_aspekte": [
+          "Erwähnt konkrete Textstellen (z. B. Wiederholung von „In my heart is calling you“).",
+          "Verbindet Text mit einem breiteren historischen Bild, wenn auch sehr allgemein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als romantische und optimistische Hymne interpretiert werden, die die Sehnsucht nach einer geliebten Person ausdrückt.",
+          "Die zentrale Botschaft ... Aufforderung an die geliebte Person, sich der Welt zu öffnen, die auf den Sonnenaufgang wartet.",
+          "Der kulturelle, historische und gesellschaftliche Kontext ... Beginn der 1950er Jahre, Zeit des Wiederaufbaus und Hoffnung.",
+          "Der Song kann als ein Ausdruck dieser optimistischen Stimmung interpretiert werden, die durch die Metapher des Sonnenaufgangs symbolisiert wird.",
+          "Gleichzeitig kann der Song auch als ein Ausdruck der romantischen Sehnsucht und der Bedeutung von zwischenmenschlichen Beziehungen in einer Zeit des Umbruchs und der Veränderung gesehen werden.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und eine komplexe symbolische Ordnung, die ihn zu einem interessanten Objekt für eine kulturwissenschaftliche Analyse macht."
+        ],
+        "positive_aspekte": [
+          "Mehrere konkrete Textbelege (Wiederholungen von „Dear one“, „In my heart is calling you“).",
+          "Verknüpft Textanalyse mit einem historischen Kontext, ohne unbegründete Fakten zu erfinden."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit war die Musikindustrie stark von der romantischen und sentimentalen Musik beeinflusst, die oft die Sehnsucht nach Liebe und Geborgenheit thematisierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... kann als romantische und optimistische Hymne interpretiert werden, die die Sehnsucht nach einer geliebten Person ausdrückt.",
+          "Die zentrale Botschaft ... dass die Welt auf den Sonnenaufgang wartet, aber für den Sänger ist die Anwesenheit seiner Geliebten das Wesentliche.",
+          "Dies wird in den Zeilen ... deutlich.",
+          "Die literarischen Stilmittel ... Metaphern und Symbole.",
+          "Die \"Welt, die auf den Sonnenaufgang wartet\", kann als Symbol ...",
+          "Die \"Rose, die mit Tau bedeckt ist\", ist ein klassisches Symbol ...",
+          "Die Verwendung dieser Symbole schafft eine romantische und idyllische Atmosphäre, die die emotionale Wirkung des Songs unterstreicht.",
+          "Die Zeile ... zeigt, dass die Natur selbst die Verbindung zwischen den Liebenden unterstützt.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1950er Jahre interpretiert werden.",
+          "Der Song ... passt in dieses Schema und bietet eine optimistische Vision von Liebe und Zusammensein.",
+          "Die Ambiguität des Songs liegt darin, dass die Welt auf den Sonnenaufgang wartet, aber die eigentliche Sehnsucht des Sängers nach seiner Geliebten nicht erfüllt ist.",
+          "Diese Spannung bleibt im Song unausgelöst und schafft eine tiefe emotionale Wirkung."
+        ],
+        "positive_aspekte": [
+          "Genaue Textreferenzen und Analyse der Symbolik.",
+          "Erkennt und diskutiert die Ambiguität des Textes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Interpretationen 3 und 4 sind nahezu identisch, was die Varianz reduziert; insgesamt zeigen die Modelle jedoch ähnliche Muster (viel Wiederholung von Standard‑Interpretationen).",
+    "empfehlung": "Interpretation 2 liefert die höchste Faktentreue (keine erfundenen Fakten) und gleichzeitig eine solide textbasierte Analyse. Für zukünftige Bewertungen sollte ein Fokus auf konkrete Textbelege und das Vermeiden allgemeiner, nicht belegbarer Geschichtsdarstellungen gelegt werden."
+  }
+}

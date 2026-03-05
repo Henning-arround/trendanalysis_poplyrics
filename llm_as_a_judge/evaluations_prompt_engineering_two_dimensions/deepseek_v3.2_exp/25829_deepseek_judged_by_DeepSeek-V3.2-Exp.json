@@ -1,0 +1,106 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Songs scheint jedoch komplexer zu sein, wenn man die Textebene genauer betrachtet.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs.",
+          "Insgesamt kann der Song 'Es geht mir gut' als ein vielschichtiges Werk interpretiert werden, das die Desillusionierung und Resignation einer Generation in den 1990er Jahren widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeilen ist weitgehend korrekt.",
+          "Die Interpretation berücksichtigt den historischen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz auf die legendären Tänzer Ginger Rogers und Fred Astaire dient möglicherweise als eine Art von kulturellem Gedächtnis, das die Sehnsucht nach einer vergangenen, vielleicht glänzenderen Zeit ausdrückt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und changiert zwischen Resignation, Zynismus und Melancholie."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und analytisch.",
+          "Die Berücksichtigung des kulturellen Kontexts ist angemessen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz auf die legendären Tänzer Ginger Rogers und Fred Astaire dient möglicherweise als eine Art von kulturellem Code, der für Eleganz, Grazie und Sorglosigkeit steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und changiert zwischen Resignation, Zynismus und einer gewissen Sehnsucht nach Sorglosigkeit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist weitgehend textbezogen.",
+          "Die Analyse der literarischen Stilmittel ist angemessen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Michael Jackson geht mit kleinen Jungs ins Bett / Und ich kann über's Wasser gehn' (Songtext) unterstreicht die Ambiguität zwischen der Welt der Stars und der Realität des Alltags."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Resignation und Gleichgültigkeit, die jedoch auch als eine Art von Schutzmechanismus interpretiert werden kann."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und analytisch.",
+          "Die Berücksichtigung der emotionalen Dimension ist angemessen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song erschien 1994, einer Zeit, in der die deutsche Gesellschaft mit den Herausforderungen der Wiedervereinigung und dem Wandel der politischen und wirtschaftlichen Strukturen konfrontiert war."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann der Song 'Es geht mir gut' als ein vielschichtiges Werk interpretiert werden, das die Desillusionierung und Resignation einer Generation in den 1990er Jahren widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Textzeilen ist weitgehend korrekt.",
+          "Die Interpretation berücksichtigt den historischen Kontext."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen (2 und 3) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf den Text beziehen und weniger spekulativ sein. Eine gute Interpretation sollte eine Balance zwischen Textreue und analytischer Tiefe finden."
+  }
+}

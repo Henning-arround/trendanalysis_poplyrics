@@ -1,0 +1,129 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... entfaltet ein Bild von innerer Zerrissenheit, das sich zwischen flüchtiger Alltäglichkeit und einer tiefen, fast rituellen Sehnsucht nach Halt bewegt.",
+          "Die Eröffnung ... ein Packungsangebot, das nicht geraucht wird – wirkt wie ein Symbol für das Aufsuchen von Ablenkungen, die jedoch keine wirkliche Befriedigung bringen.",
+          "Das Bild des „car crash“‑Outfits und der umgekehrten Räder suggeriert, dass das Leben des Protagonisten sich im Kreis dreht, jedoch verkehrt und ohne Fortschritt.",
+          "Die Zeilen ... offenbaren eine paradoxe Beziehung zu Schmerz, die als Beweis für Existenz und Lebendigkeit dient.",
+          "Das Wechselspiel von Rot‑ und Graulicht, von Vampir und Opfer, verdeutlicht die Ambivalenz zwischen Macht und Ohnmacht, je nach sozialem Umfeld.",
+          "Das wiederholte Motiv des „Stays“ fungiert als Wunsch nach Beständigkeit …",
+          "Die Aufzählung von Städten und Medien … erweitert das Bild zu einer globalen Entfremdung …",
+          "Der späte Morgen, das „bang and the clatter“ eines gefallenen Engels, symbolisiert den Zusammenbruch von Idealen …"
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen beziehen sich eindeutig auf Textpassagen (z. B. 7‑Eleven, Car‑Crash‑Metapher, Städte).",
+          "Die Interpretation ist durchgehend textnah und vermeidet spekulative Biografien oder Genre‑Zuweisungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... entfaltet ein Bild von innerer Zerrissenheit, das sich zwischen flüchtiger Alltäglichkeit und einer tiefen, fast spirituellen Leere bewegt.",
+          "Die Eröffnung ... suggeriert eine Sucht nach etwas, das nie befriedigt wird.",
+          "Das Bild des „Car Crash“ ... stellt Selbstzerstörung in einer stilisierten, fast ästhetischen Form dar.",
+          "Das Motiv des Auf‑ und Umkippens der Räder verdeutlicht, dass das Leben weiterläuft, obwohl die Protagonistin sich verkehrt fühlt.",
+          "Die paradoxe Aussage, dass Schmerz das Gefühl von Lebendigkeit schenkt, offenbart eine perverse Bindung an das Leiden.",
+          "Der Wechsel von Rot‑ zu Graulicht ... verdeutlicht die Ambivalenz zwischen Macht und Ohnmacht.",
+          "Medienreferenzen … zeigen eine Oberflächlichkeit, in der das Ich nur als Spiegel für andere fungiert.",
+          "Das wiederholte „If I could stay“ fungiert als Wunsch nach Stabilität …",
+          "Die Aufzählung globaler Städte … suggerieren ein Gefühl von Allgegenwart, das jedoch keine echte Verbindung schafft.",
+          "Die wiederkehrenden Warnungen … betonen die Gefahr, sich in dieser virtuellen Distanz zu verlieren.",
+          "Der Schluss mit dem nächtlichen „bang and clatter“ eines gefallenen Engels symbolisiert den endgültigen Bruch zwischen himmlischer Reinheit und irdischer Zerbrechlichkeit."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Verknüpfung von Textstellen (z. B. Farben, Medien, Städte) mit interpretativen Aussagen.",
+          "Keine unbegründeten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... entfaltet ein Bild von innerer Zerrissenheit, das sich zwischen flüchtiger Alltäglichkeit und einer bedrückenden, fast surrealen Nachtwelt bewegt.",
+          "Die Eröffnungsszene ... Symbol für schnelle, oberflächliche Konsumgewohnheiten … Hinweis auf ein Verlangen nach etwas, das nie befriedigt wird.",
+          "Das „grüne Licht“ steht für Erlaubnis, doch das „rote Licht“ und der „graue Morgen“ kontern mit Warnungen … Bild für das Aufsteigen aus einer tiefen, dunklen Phase.",
+          "Die wiederkehrende Gegenüberstellung von „Vampir“ und „Opfer“ verdeutlicht die Ambivalenz zwischen Macht und Ohnmacht.",
+          "Das ständige „Durch‑schauen“ und das Fehlen von Berührung … suggerieren eine Entfremdung von sich selbst und von anderen …",
+          "Die Aufzählung weltweiter Städte … verweist auf die globale Vernetzung, die jedoch keine echte Verbindung schafft.",
+          "Der nächtliche Höhepunkt um drei Uhr, in dem ein Engel „auf den Boden läuft“ und „auf den Boden schlägt“, symbolisiert den Verlust von Unschuld …"
+        ],
+        "positive_aspekte": [
+          "Alle Punkte bleiben beim Text verankert, es gibt keine spekulativen Fakten.",
+          "Erkennt die wiederkehrenden Motive (Licht, Städte, Engel) und verknüpft sie mit einer kohärenten Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... zeichnet ein Bild von innerer Zerrissenheit, das zwischen flüchtiger Oberflächlichkeit und einer tiefen, fast schon selbstzerstörerischen Sehnsucht nach Verbindung schwankt.",
+          "Die Eröffnung ... wirkt wie ein Symbol für das Suchen nach etwas, das man nicht wirklich braucht, ein Versuch, das eigene Vakuum zu füllen.",
+          "Die Metapher „dressed up like a car crash“ verdeutlicht … das Leben dreht sich, doch die Person fühlt sich umgekehrt …",
+          "Der Wechsel von Rot‑ zu Graulicht und das Bild eines „Vampirs oder Opfers“ verdeutlichen die Ambivalenz zwischen Macht und Ohnmacht.",
+          "Das wiederholte Motiv des Nicht‑Gehörens … verstärkt das Gefühl der Isolation …",
+          "Die Aufzählung von Städten und Medien illustriert die globale Vernetzung, die jedoch keine echte Nähe schafft …",
+          "Das nächtliche Bild einer „angel runs to ground“ … symbolisieren den Zusammenbruch einer heiligen, unberührten Sphäre."
+        ],
+        "positive_aspekte": [
+          "Konsistente Bezugnahme auf konkrete Textstellen (z. B. Farben, Städte, Wiederholungen).",
+          "Vermeidet jede Form von biografischer oder genre‑spezifischer Spekulation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... zeichnet ein Bild von innerer Zerrissenheit, das zwischen flüchtiger Oberflächlichkeit und einer tiefen, fast schmerzhaften Sehnsucht nach Verbindung pendelt.",
+          "Die Eröffnungsszene ... symbolisiert eine Sucht nach etwas, das nie wirklich befriedigt wird; das „grüne Licht“ steht für die Erlaubnis, weiterzumachen, während das „rote Licht“ das drohende Ende oder die Gefahr markiert.",
+          "Die Metapher des „auf dem Kopf stehenden Autos“ verdeutlicht … Gewalt und Schmerz paradox als Lebensquellen empfunden werden.",
+          "Der Refrain verknüpft das Verweilen mit dem Wechselspiel von Tag und Nacht … ein Versuch, das Chaos zu stabilisieren.",
+          "Die Aufzählung von Städten … verdeutlichen die globale Entfremdung, in der man überall sein kann, aber dennoch nicht wirklich ankommt.",
+          "Die Zeilen „Wenn ich dich berühre, fühlst du nichts“ und „Wenn ich dich anrufe, kann ich nicht hören“ verstärken das Bild einer Beziehung, die von Distanz und Unfähigkeit, echte Empfindungen zu teilen, geprägt ist.",
+          "Das nächtliche Bild einer „Engel, der zu Boden fällt“ schließt den Kreis … das wiederholte „Bang und Klirren“ …"
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse ohne externe Annahmen.",
+          "Erkennt und interpretiert zentrale Gegenüberstellungen (Licht, Farben, Städte, Engel)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen bleiben strikt beim Songtext und vermeiden biografische oder genre‑spezifische Spekulationen. Die Varianz liegt hauptsächlich im Grad der analytischen Tiefe; Interpretation 5 ist etwas oberflächlicher, die übrigen erreichen ein hohes Niveau an textnaher Substanz.",
+    "empfehlung": "Interpretation 1 bietet die beste Balance aus Texttreue und analytischer Tiefe. Sie verbindet detaillierte Verweise auf einzelne Textstellen mit einer differenzierten, aber gut begründeten Deutung, ohne in spekulative Halluzinationen abzudriften."
+  }
+}

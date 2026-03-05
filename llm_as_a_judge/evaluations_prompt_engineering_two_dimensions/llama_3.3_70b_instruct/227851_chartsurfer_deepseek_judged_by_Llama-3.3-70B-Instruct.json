@@ -1,0 +1,97 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Liebe und Verbindung entspricht den kulturellen Werten der 1980er Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Sehnsucht und der Hoffnung erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Liebe und Verbindung in einer zunehmend technisierten und isolierten Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Sehnsucht und der Hoffnung erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Naturbilder und ihrer Bedeutung ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einer idyllischen und harmonischen Zukunft"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist textbezogen und korrekt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Popmusik der 1980er Jahre war von romantischen Balladen und Liebesliedern geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Sehnsucht und der Hoffnung erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Naturbilder und ihrer Bedeutung ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sentimentale und emotionale Seite der Popmusik der 1980er Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Sehnsucht und der Hoffnung erzeugt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Symbole, aber variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet allzu spekulative Aussagen"
+  }
+}

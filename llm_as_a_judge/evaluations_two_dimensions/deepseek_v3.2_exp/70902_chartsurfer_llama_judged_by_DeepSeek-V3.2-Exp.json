@@ -1,0 +1,99 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'There'll be nothing left for me to say' deutet darauf hin, dass der Sänger in dieser Zukunft keine Worte mehr finden wird, um seine Gefühle und Gedanken auszudrücken"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Art Gebet oder Wunsch nach einem besseren Leben interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird weitgehend korrekt interpretiert und wichtige Aspekte wie die Hoffnung auf eine bessere Zukunft werden hervorgehoben"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Gebet oder Wunsch nach einem besseren Leben interpretiert werden, in dem die Liebe und die Hoffnung die Oberhand gewinnen und alle Probleme überwinden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zukunft wird als eine Zeit der Freude und des Friedens dargestellt, in der nichts mehr zu zerstören ist und in der die Träume endlich wahr werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist leicht verständlich und vermittelt eine positive Botschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Gebet oder Wunsch nach einem besseren Leben interpretiert werden, in dem die Liebe und die Hoffnung auf eine bessere Zukunft die Oberhand gewinnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zukunft wird als eine Zeit der Freude und des Friedens dargestellt, in der nichts mehr zu zerstören ist und alle Träume wahr werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist ausgewogen und bietet eine gute Mischung aus allgemeinen und spezifischen Aussagen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass dann alles zu tun sein wird, suggeriert eine Welt voller Möglichkeiten und Chancen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext wird weitgehend korrekt interpretiert und wichtige Aspekte wie die Hoffnung auf eine bessere Zukunft werden hervorgehoben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist tiefgehend und bietet eine gute Analyse des Songtextes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Gebet oder Wunsch nach einem besseren Leben interpretiert werden, in dem die Liebe und die Hoffnung auf eine bessere Zukunft die Oberhand gewinnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zukunft wird als eine Zeit der Freude und des Friedens dargestellt, in der nichts mehr zu zerstören ist und in der die Träume endlich wahr werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist leicht verständlich und vermittelt eine positive Botschaft"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt bieten sie eine gute Analyse des Songtextes",
+    "empfehlung": "Die vierte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher die empfehlenswerteste"
+  }
+}

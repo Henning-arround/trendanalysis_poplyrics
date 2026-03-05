@@ -1,0 +1,109 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Dualität wird durch die Metapher des \"Jekyll und Hyde\" symbolisiert, die auf den Roman \\\"Der seltsame Fall des Dr. Jekyll und Mr. Hyde\\\" von Robert Louis Stevenson zurückgeht.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Insgesamt zeigt der Song eine komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur und der Spannung zwischen Gut und Böse.“"
+        ],
+        "positive_aspekte": [
+          "Zahlreiche direkte Bezüge zu konkreten Textzeilen (z. B. „Behind the mask a monster snarls“, „Oh it's killing me your unpredictability“).",
+          "Klare Analyse von Metaphern wie „Veneer“ und „Fassade“.",
+          "Kohärente Argumentationskette, die die Dualität und das Motiv Jekyll/Hyde nachvollziehbar erklärt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Dualität wird durch die Metapher des \"Jekyll und Hyde\" symbolisiert, die auf den Roman \\\"Der seltsame Fall des Dr. Jekyll und Mr. Hyde\\\" von Robert Louis Stevenson zurückgeht.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Insgesamt zeigt der Song eine komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur und der Spannung zwischen Gut und Böse.“"
+        ],
+        "positive_aspekte": [
+          "Umfangreiche, textbasierte Begründungen.",
+          "Verknüpfung von wiederholten Zeilen mit ihrer interpretativen Bedeutung.",
+          "Gute Balance zwischen Beschreibung und Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Dualität wird durch die Metapher des \"Jekyll und Hyde\" symbolisiert, die auf den Roman \\\"Der seltsame Fall des Dr. Jekyll und Mr. Hyde\\\" von Robert Louis Stevenson zurückgeht.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Insgesamt zeigt der Song eine komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur und der Spannung zwischen Gut und Böse.“"
+        ],
+        "positive_aspekte": [
+          "Starke Textbelege für fast jede interpretative Behauptung.",
+          "Konsistente Verwendung von Zitaten aus dem Song.",
+          "Erkenntnisreiche Darstellung der inneren Zerrissenheit des lyrischen Ichs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Dualität wird durch die Metapher des \"Jekyll und Hyde\" symbolisiert, die auf den Roman \\\"Der seltsame Fall des Dr. Jekyll und Mr. Hyde\\\" von Robert Louis Stevenson zurückgeht.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Insgesamt zeigt der Song eine komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur und der Spannung zwischen Gut und Böse.“"
+        ],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von Bildsprache und thematischer Aussage.",
+          "Durchgängige Referenz zu den wiederholten Refrains, die die Unberechenbarkeit betonen.",
+          "Klare, nachvollziehbare Argumentationsstruktur."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Diese Dualität wird durch die Metapher des \"Jekyll und Hyde\" symbolisiert, die auf den Roman \\\"Der seltsame Fall des Dr. Jekyll und Mr. Hyde\\\" von Robert Louis Stevenson zurückgeht.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Insgesamt zeigt der Song eine komplexe und vielschichtige Auseinandersetzung mit der menschlichen Natur und der Spannung zwischen Gut und Böse.“"
+        ],
+        "positive_aspekte": [
+          "Umfangreiche Analyse der lyrischen Motive (Maske, Monster, Barrikaden).",
+          "Stetiger Bezug zu konkreten Zeilen, wodurch die Interpretation gut verankert ist.",
+          "Erkenntnisreiche Diskussion über die Wiederholung von „Jekyll and Hyde“ als Hinweis auf die Unveränderlichkeit der dunklen Seite."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch, wodurch die Varianz in Halluzinations‑ und Tiefescores praktisch null ist (hohe Konsistenz).",
+    "empfehlung": "Da alle Modelle dieselbe, gut textbasierte, aber leicht über‑kulturell verknüpfte Analyse liefern, reicht es, eine einzige, klar strukturierte Interpretation zu verwenden. Der aktuelle Ansatz balanciert Texttreue und analytische Tiefe gut, jedoch sollte die unnötige kulturelle Referenz (Verbindung zum Roman) als optional gekennzeichnet werden, um den Halluzinations‑Score zu optimieren."
+  }
+}

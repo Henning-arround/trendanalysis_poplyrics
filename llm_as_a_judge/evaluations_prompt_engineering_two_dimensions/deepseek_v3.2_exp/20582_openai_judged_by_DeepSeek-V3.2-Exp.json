@@ -1,0 +1,104 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die Post‑9/11‑Reise‑ und Globalisierungsdebatte einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten zwischen Liebe, Besitz, Freiheit und Kolonial‑Erinnerungen bleiben bewusst offen"
+        ],
+        "positive_aspekte": [
+          "Der Song verknüpft Reise‑ und Entdeckungsbilder mit einer Besitzansage",
+          "Die wiederholte Aufforderung 'Just remember…' fungiert als rhetorisches Mittel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich die Referenz zu Algiers als Hinweis auf frühere europäische Handelsnetzwerke lesen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen der Sehnsucht nach Nähe und der Androhung von Einsamkeit für den Gegenpart bleibt ambivalent"
+        ],
+        "positive_aspekte": [
+          "Der Song verknüpft persönliche Besitzansprüche mit einer touristischen Bildsprache",
+          "Die thematische Komplexität entsteht aus der Gegenüberstellung von Freiheit und Kontrolle"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die Post‑9/11‑Ära einordnen, in der Reisen und globale Bilder zugleich als Flucht und als Mittel zur Selbstbestätigung dienten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Alliterationen verstärkt die klangliche Leichtigkeit"
+        ],
+        "positive_aspekte": [
+          "Der Song verknüpft persönliche Besitzansprüche mit einer globalen Reiserezeption",
+          "Die Aufzählung exotischer Orte bleibt unkommentiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die Post‑9/11‑Ära einordnen, in der Reisen und globale Vernetzung zugleich romantisiert und mit Unsicherheit behaftet waren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'I'll be so alone without you / Maybe you'll be lonesome, too / And blue' eröffnet eine affektive Dualität"
+        ],
+        "positive_aspekte": [
+          "Der Song verknüpft persönliche Besitzansprüche mit einer globalen Reiserepräsentation",
+          "Das Motiv des Reisens dient zugleich als Metapher für Freiheit und als Rahmen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die exotischen Schauplätze spiegeln ein westlich‑zentrisches Tourist*innen‑Bild wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene Form des Textes lässt jedoch Raum für Gegeninterpretationen"
+        ],
+        "positive_aspekte": [
+          "Der Song verknüpft persönliche Besitzansprüche mit einer globalen Reiserezeption",
+          "Die zentrale Botschaft bleibt ambivalent"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

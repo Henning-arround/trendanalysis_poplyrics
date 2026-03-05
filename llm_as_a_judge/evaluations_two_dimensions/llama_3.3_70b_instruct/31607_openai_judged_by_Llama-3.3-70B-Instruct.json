@@ -1,0 +1,99 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee des amerikanischen Traums als zentrales Thema"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von Hoffnung und Gewalt ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Protagonistin und ihrer Entwicklung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des Hauses am Hügel als Symbol für Stabilität und familiären Fortschritt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung der 'klassischen Idee des Aufstiegs' ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Rolle der Mutter und der Briefe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Deutung des 'one two three four' als Metronom für das Leben der Protagonistin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung der 'nüchternen Realität' ohne weitere Konkretisierung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Beziehung zwischen der Protagonistin und dem Fremden"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des Songs als Kritik an der 'narzisstischen Selbsttäuschung'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung der 'zyklischen Natur von Hoffnung, Verlust und Warten' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Rolle der Gewalt und ihrer Konsequenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Deutung des Songs als 'kulturelles Artefakt' ohne weitere Erläuterung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung der 'Oberflächlichkeit des erlangten Wohlstands' ohne weitere Konkretisierung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Protagonistin und ihrer Entscheidungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Protagonistin und ihrer Entwicklung, jedoch variieren die Tiefe und die Halluzinationsrate zwischen den Interpretationen",
+    "empfehlung": "Eine Kombination aus textgetreuer Analyse und tiefergehender Interpretation der Protagonistin und ihrer Entscheidungen scheint der effektivste Ansatz zu sein"
+  }
+}

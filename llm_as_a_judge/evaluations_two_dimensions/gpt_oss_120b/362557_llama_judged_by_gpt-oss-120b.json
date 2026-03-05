@@ -1,0 +1,87 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogen und konkret",
+          "Nutzt viele direkte Zitate aus dem Song",
+          "Erklärt einzelne Anweisungen (z. B. „Cross‑cross, one‑two‑three‑four“)",
+          "Bietet eine plausible Interpretation als Tanz‑Workout"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit der Aussage, dass der Song zum Tanzen auffordert",
+          "Erwähnt gesundheitliche Aspekte (Aerobic, Auf‑/Abwärmen) exakt aus dem Text",
+          "Schließt eine mögliche befreiende Funktion des Tanzes aus einer konkreten Zeile („Look, no time to read a book“) ab"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Wiederholt die wichtigsten Textzitate, bleibt dabei aber immer am Inhalt orientiert",
+          "Verbindet die Wiederholungen („Shake a leg“, „Dance, dance, dance“) mit der motivierenden Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identisch zu Interpretation 1, damit ebenfalls vollständig textbasiert",
+          "Gute Struktur: Einleitung, Analyse der Schlüsselzeilen, Schlussfolgerung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Entspricht Interpretation 3, also ebenfalls stark textbezogen",
+          "Betont die 80er‑Jahre‑Aerobic‑Kultur, was im Text explizit genannt wird"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen identische Qualität – keine Varianz in Halluzinations‑ oder Tiefescore.",
+    "empfehlung": "Alle Modelle liefern faktentreue, textbasierte Analysen. Für zukünftige Aufgaben sollte man darauf achten, mehr mehrdeutige bzw. ambivalente Lesarten zu integrieren, um die Tiefenbewertung von 4 auf 5 zu heben, ohne die Faktentreue zu verlieren."
+  }
+}

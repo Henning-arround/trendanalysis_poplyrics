@@ -1,0 +1,89 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Textbindung – fast jede Aussage lässt sich direkt aus den Zeilen ableiten.",
+          "Klare Analyse von Motiv‑ und Symbolik (z. B. „Fehlen von Kommunikation“ als Symbol).",
+          "Stilistisch konsistent, wenig Wiederholungen ohne Mehrwert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, aber präzise Analyse der Ambivalenz zwischen Fürsorge und ungesunder Anhaftung.",
+          "Verknüpfung von Refrain‑ und Bildsprache (Feuer vs. Spiel) mit innerer Zerrissenheit.",
+          "Durchgehend textbasiert, keine spekulativen Biografien oder Genre‑Zuweisungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verknüpfung von wiederholten Motiven (Briefe, „anytime and anyway“).",
+          "Erkenntnis über gesellschaftliche Erwartungshaltungen, die im Text implizit mitschwingen.",
+          "Konsistente Argumentationskette ohne unnötige Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Darstellung des Wiederholungs‑Motivs und der Kommunikationslücke.",
+          "Stilistisch präzise, wenig redundante Formulierungen.",
+          "Verständliche Interpretation des Refrains als „Mantra“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Herausarbeitung der Rollenambivalenz (little guy / brother).",
+          "Verbindung von Bildsprache (Feuer, Spiel) mit emotionaler Instabilität.",
+          "Durchgehend textnah, keine spekulativen Kontextualisierungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben stark textgebunden und vermeiden spekulative Ergänzungen; die Varianz liegt hauptsächlich im Detailgrad der Analyse, nicht in grundsätzlichen Fehlinterpretationen.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus faktentreuer Textbezug und tiefgehender, differenzierter Analyse. Für zukünftige Bewertungen sollte man darauf achten, dass die Tiefe nicht durch reine Wiederholungen erhöht wird, sondern durch neue, textbasierte Einsichten."
+  }
+}

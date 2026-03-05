@@ -1,0 +1,99 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild von 'Jimmy Choo's' und dem 'DJ's rocking all night long' verankert die Szene in einer glamourösen, aber zugleich alltagstauglichen Umgebung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung, nicht allein zu bleiben, betont die soziale Komponente des Ausbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und textbasierte Analyse der Songstruktur und -botschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Sipping on your one drink / Makes no sense at al­l' kritisiert das passive Konsumieren von Momenten"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Tanzen wird nicht nur als körperliche Bewegung, sondern als Symbol für das Loslassen von Selbstzweifeln verstanden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die emotionale und psychologische Tiefe des Songs zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild von 'Jimmy Choo's' und dem 'DJ's rocking all night long' verankert die Szene in einer glamourösen Umgebung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung, nicht allein zu bleiben, betont die soziale Komponente des Ausbruchs"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und textbasierte Analyse der Songstruktur und -botschaft"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You don't have a thing to lose / Time to work your Jimmy Choo's' verbindet materielle Symbolik mit dem Mut, sich zu zeigen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text fordert, die Komfortzone zu verlassen und das eigene Potenzial zu zeigen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die emotionale und psychologische Tiefe des Songs zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You don't have a thing to lose' und 'I know you're hear your song' betonen, dass das Risiko des Ausbruchs gering ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aufforderung, die Musik 'do you right' zu lassen, verdeutlicht, dass das Hören und Bewegen zur eigenen Identität wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und textbasierte Analyse der Songstruktur und -botschaft"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Songstruktur und -botschaft",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine klare und textbasierte Analyse der Songstruktur und -botschaft"
+  }
+}

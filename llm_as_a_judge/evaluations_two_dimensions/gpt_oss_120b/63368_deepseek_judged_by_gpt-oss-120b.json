@@ -1,0 +1,113 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Er nimmt jedoch diese Unzulänglichkeiten nicht als Problem wahr, sondern als charmanten Teil ihrer Persönlichkeit.",
+          "Die Lyrics drücken eine gewisse Nonchalance und Akzeptanz gegenüber den Unzulänglichkeiten der Partnerin aus.",
+          "Die wiederholte Anrede als \"Arschgesicht\" wird zu einer Art Kosewort, das die Partnerin in ihrer Einzigartigkeit und Individualität würdigt.",
+          "Der Song ist eine Hymne an die Selbstakzeptanz und die Liebe jenseits von Schönheitsidealen.",
+          "Lindenberg feiert die Unperfektheit und den Charme seiner Partnerin und setzt damit ein Statement für die Wertschätzung von Individualität und Natürlichkeit.",
+          "Der Songtext ist eine humorvolle und satirische Auseinandersetzung mit den Konventionen von Schönheit und Attraktivität."
+        ],
+        "positive_aspekte": [
+          "Alle wesentlichen Bildungen aus dem Text (Pflaume, Arschgesicht, vergängliche Schönheit, Kritik an Movie‑Stars) werden korrekt wiedergegeben.",
+          "Keine erfundenen biografischen Details oder genre‑bezogenen Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Er nimmt jedoch diese Unzulänglichkeiten nicht als Problem wahr, sondern als charmanten Teil ihrer Persönlichkeit.",
+          "Die Lyrics drücken eine gewisse Nonchalance und Akzeptanz gegenüber den Unzulänglichkeiten der Partnerin aus.",
+          "Die wiederholte Anrede als \"Arschgesicht\" wird zu einer Art Kosewort, das die Partnerin in ihrer Einzigartigkeit und Individualität würdigt.",
+          "Der Song ist eine Hymne an die Selbstakzeptanz und die Liebe jenseits von Schönheitsidealen.",
+          "Lindenberg feiert die Unperfektheit und den Charme seiner Partnerin und setzt damit ein Statement für die Wertschätzung von Individualität und Natürlichkeit.",
+          "Der Songtext ist eine humorvolle und satirische Auseinandersetzung mit den Konventionen von Schönheit und Attraktivität."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe der im Text genannten Motive (Pflaume, Arschgesicht, vergängliche Schönheit, Movie‑Stars).",
+          "Keine falschen biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Provokation gegen die gängigen Schönheitsideale und die damit verbundene Erwartungshaltung an Frauen.",
+          "Die Lyrics sind auch als Kommentar zur Gesellschaft und ihren Erwartungen an Frauen zu interpretieren.",
+          "Lindenberg kritisiert die Tatsache, dass Frauen oft unter Druck gesetzt werden, einem bestimmten Schönheitsideal zu entsprechen, und lobt die Authentizität und Individualität seiner Partnerin.",
+          "Insgesamt ist \"Arschgesicht\" ein Plädoyer für die Akzeptanz von Unterschieden und die Liebe zu jemandem, der nicht den gängigen Normen entspricht."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textstellen (z. B. „Schönheit ist vergänglich… Doch ein Arschgesicht besteht“) mit einer klaren, textbasierten Argumentation.",
+          "Weniger vage Formulierungen als in den ersten beiden Interpretationen, dafür mehr konkrete Bezüge zum Songtext."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Provokation der gängigen Schönheitsideale und ein Plädoyer für die Akzeptanz von Individualität.",
+          "Die Lyrics sind auch als eine Kritik an der Oberflächlichkeit der Gesellschaft zu interpretieren, die Menschen aufgrund ihres Aussehens beurteilt.",
+          "Der Sänger stellt sich gegen diese Oberflächlichkeit und zeigt, dass wahre Schönheit nicht nur im physischen Erscheinungsbild liegt, sondern auch in der Persönlichkeit und den individuellen Eigenschaften.",
+          "Insgesamt ist \"Arschgesicht\" ein humorvoller und provokativer Song, der zum Nachdenken über Schönheitsideale und Individualität anregt."
+        ],
+        "positive_aspekte": [
+          "Alle zentralen Bildungen des Textes werden korrekt wiedergegeben.",
+          "Die Analyse geht über reine Wiederholungen hinaus und verbindet mehrere Textstellen zu einer zusammenhängenden Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Kritik an den Schönheitsidealen der Gesellschaft interpretiert werden, die oft unerreichbare Standards setzen.",
+          "Lindenberg stellt seine Partnerin als eine Person dar, die nicht den Erwartungen entspricht, aber gerade deshalb liebenswert ist.",
+          "Der Song ist somit auch eine Hymne auf die Individualität und die Selbstakzeptanz, die über die oberflächlichen Schönheitsideale hinausgeht.",
+          "Durch die ironische und humorvolle Art des Songs schafft Lindenberg eine positive und aufmunternde Atmosphäre, die die Zuneigung zu seiner Partnerin trotz ihrer Unzulänglichkeiten unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Stellt klare Bezüge zu den Textpassagen her (z. B. „Schönheit ist vergänglich… Doch ein Arschgesicht besteht“, Kritik an Movie‑Stars).",
+          "Bietet eine etwas differenziertere Sichtweise als die rein wiederholenden Interpretationen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Ironie, Kritik an Schönheitsidealen, Movie‑Stars). Die Tiefe variiert leicht; drei Versionen (2, 4, 5) bieten mehr textbezogene Verknüpfungen, während 1 und 3 stark oberflächlich bleiben.",
+    "empfehlung": "Interpretationen, die konkrete Textstellen mit einer klaren, aber nicht übertriebenen Analyse verbinden (z. B. Interpretation 2), erzielen das beste Gleichgewicht zwischen Faktentreue und analytischer Tiefe."
+  }
+}

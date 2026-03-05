@@ -1,0 +1,98 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert „Coffee“ ein modernes Liebesbild, das zwischen erotischer Hingabe und pragmatischer Lebensführung balanciert, wobei das morgendliche Zusammensein als kurzer, aber intensiver Akt der Selbstbestätigung und des gemeinsamen Widerstands gegen die Zeit fungiert."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Gute Analyse von Metaphern (z. B. „morning wood“, „stack our pay up“).",
+          "Klare Struktur, wenig vage Allgemeinplätze."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Durch die Mischung aus spielerischen Wortspielen (…) entsteht ein Bild von Liebe, die zugleich praktisch und luxuriös ist: Sie soll den Alltag erleichtern, das Einkommen sichern (…) und gleichzeitig ein kleines, exklusives Refugium bilden.",
+          "Insgesamt schildert „Coffee“ ein modernes Beziehungsmodell, in dem Zweisamkeit als täglicher Kraftstoff dient, der den Rhythmus von Arbeit und Freizeit ausbalanciert und die Angst vor dem Verstreichen kostbarer Momente in den Hintergrund drängt."
+        ],
+        "positive_aspekte": [
+          "Umfassende, aber textbasierte Interpretation der wiederholten Motive („No time to waste“, „morning wood“).",
+          "Verknüpft einzelne Zeilen zu einem kohärenten Bild von Dringlichkeit und Intimität."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholten „No‑no“‑Phrasen wirken wie ein innerer Monolog, der das Bewusstsein für die Vergänglichkeit des Moments verstärkt und gleichzeitig die Dringlichkeit betont, das Hier‑und‑Jetzt voll auszukosten.",
+          "Insgesamt vermittelt der Song ein Bild von Liebe, die sowohl als Flucht vor Stress als auch als Quelle von Energie fungiert, wobei das morgendliche Ritual als Metapher für das ständige Auf und Ab zwischen Verpflichtungen und Zweisamkeit dient."
+        ],
+        "positive_aspekte": [
+          "Konsistente Ableitung von Symbolik (z. B. „vacay in the sheets“, „morning wood“).",
+          "Gute Balance zwischen Beschreibung und Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die lyrische Stimme fordert damit ein Gleichgewicht: die notwendige Produktivität des Tages, gepaart mit einer beständigen, fast therapeutischen Intimität, die das tägliche Überleben emotional stabilisiert."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse, kaum vage Formulierungen.",
+          "Erkennt das Machtspiel zwischen den Partnern und verknüpft es mit den Zeilen zu „bitches“ und „heavy“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Spannung erzeugt ein Gefühl von Dringlichkeit, das die Intimität gleichzeitig intensiviert und bedroht.",
+          "Insgesamt zeichnet der Text ein Bild von Liebe, die als tägliche, fast rituelle Therapie verstanden wird, in der Sexualität, Fürsorge und ökonomischer Druck miteinander ringen."
+        ],
+        "positive_aspekte": [
+          "Klare Herausarbeitung der zentralen Motive („No time to waste“, „morning wood“, „All‑around remedy“).",
+          "Verknüpft die Textstellen mit dem Konzept von Arbeit‑/Alltagsdruck."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben eng am Text; die Varianz liegt hauptsächlich im Anteil an oberflächlichen Generalisierungen. Die drei Top‑Interpretationen (1,2,3) zeigen die geringste Oberflächlichkeit.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf die textbasierte Detailarbeit (wie in Interpretation 2) gelegt werden, während vage Generalisierungen reduziert werden. Alle fünf Modelle vermeiden Halluzinationen, aber die Tiefe lässt sich durch gezieltere Verknüpfungen von Metaphern und Kontext weiter steigern."
+  }
+}

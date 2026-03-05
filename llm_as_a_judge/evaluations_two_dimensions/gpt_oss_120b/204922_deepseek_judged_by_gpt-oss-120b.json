@@ -1,0 +1,102 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Kritik an Menschen interpretiert werden, die sich selbst zu wichtig nehmen und andere Menschen manipulieren wollen.",
+          "Insgesamt vermittelt der Song eine Botschaft von Selbstbewusstsein und Unabhängigkeit."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. „lucky loser“, „big lie“, „swanker“).",
+          "Analyse einzelner Zeilen (z. B. „You are one big lie“) erhöht die Textnähe.",
+          "Wenig bis keine spekulativen biografischen oder stilistischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt drückt der Song eine selbstbewusste und unabhängige Haltung aus, in der die Sängerin ihre eigenen Ansprüche und Erwartungen durchsetzt."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Ableitung von Textstellen (z. B. Hinweis auf „You’re so vain – but you feel so hip“).",
+          "Konsistente Argumentationskette, die von der Fassade bis zum abschließenden Tipp führt.",
+          "Keine unbelegten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Kritik an Menschen interpretiert werden, die sich selbst zu wichtig nehmen und andere Menschen manipulieren wollen.",
+          "Insgesamt vermittelt der Song eine Botschaft von Selbstbewusstsein und Unabhängigkeit."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung, fast identisch zu Interpretation 3, aber mit klarer Struktur.",
+          "Vermeidet spekulative Kontextualisierungen.",
+          "Gute Balance zwischen konkreten Zeilenbezügen und übergeordneten Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text zeigt auch, dass die Sängerin sich selbst als stark und selbstbewusst sieht, die Kontrolle über ihre eigenen Gefühle und Beziehungen hat und nicht bereit ist, sich auf jemanden einzulassen, der nicht ihren Erwartungen entspricht.",
+          "Der Song kann auch als eine Kritik an der Oberflächlichkeit und Selbstüberschätzung einiger Menschen interpretiert werden, die denken, sie könnten durch ihr Aussehen oder ihre Attitüde andere Menschen manipulieren.",
+          "Die Sängerin stellt sich dagegen als jemand dar, der Authentizität und Tiefe in Beziehungen sucht und nicht bereit ist, sich mit jemandem abzufinden, der nicht diese Qualitäten besitzt."
+        ],
+        "positive_aspekte": [
+          "Alle konkreten Beobachtungen (z. B. „lucky loser“, „swanker“, „not good enough“) sind textbasiert.",
+          "Ergänzt den Text um eine übergeordnete gesellschaftskritische Perspektive, die jedoch klar als Interpretation gekennzeichnet ist."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Kritik an Menschen interpretiert werden, die sich selbst zu wichtig nehmen und andere Menschen manipulieren wollen.",
+          "Insgesamt vermittelt der Song eine Botschaft von Selbstbewusstsein und Unabhängigkeit."
+        ],
+        "positive_aspekte": [
+          "Identisch zu Interpretation 3/5, aber mit klarer Aufzählung der Textbelege.",
+          "Keine spekulativen Angaben zu Genre, Historie oder Künstlerbiografie."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Kernthesen (Blender, lucky loser, swanker). Nur Interpretation 2 fügt zusätzliche, aber sehr allgemeine gesellschaftliche Kommentare ein, was die Oberflächlichkeit erhöht.",
+    "empfehlung": "Interpretationen, die sich eng am Text orientieren, konkrete Zeilen analysieren und gleichzeitig Raum für mehrdeutige Bedeutungen lassen (z. B. Interpretation 1), erzielen die höchste Balance aus Texttreue und analytischer Tiefe. Zukunftige Modelle sollten generische Moral‑ oder Gesellschaftsdeutungen vermeiden, wenn sie nicht klar aus dem Text hervorgehen."
+  }
+}

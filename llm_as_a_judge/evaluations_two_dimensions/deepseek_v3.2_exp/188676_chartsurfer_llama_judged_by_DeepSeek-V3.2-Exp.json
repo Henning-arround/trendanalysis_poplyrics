@@ -1,0 +1,99 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einladung in einen Raum der Freiheit und des Vergessens",
+          "Ort der Kreativität und des Ausdrucks"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erläuterung von Song-Elementen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einladung in einen Raum der Freiheit und des Vergessens",
+          "Ort der Kreativität und des Ausdrucks"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erläuterung von Song-Elementen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einladung in einen Raum der Freiheit und des Vergessens",
+          "Ort der Kreativität und des Ausdrucks"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erläuterung von Song-Elementen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einladung in einen Raum der Freiheit und des Vergessens",
+          "Ort der Kreativität und des Ausdrucks"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erläuterung von Song-Elementen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einladung in einen Raum der Freiheit und des Vergessens",
+          "Ort der Kreativität und des Ausdrucks"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erläuterung von Song-Elementen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen eine hohe Konsistenz in ihrer Analyse",
+    "empfehlung": "Die Interpretationen zeigen eine gute Balance zwischen Textreue und analytischer Tiefe, könnten jedoch von einer tieferen Analyse der Song-Elemente profitieren"
+  }
+}

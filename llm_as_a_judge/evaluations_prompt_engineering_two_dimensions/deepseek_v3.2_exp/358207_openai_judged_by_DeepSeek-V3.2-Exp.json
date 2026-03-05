@@ -1,0 +1,97 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Post-2000-Pop-Ballade ohne textliche Belege"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen persönlicher Sehnsucht und mythologischer Verheißung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und der anaphorischen Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Frühe 2000er-Jahre Kontext ohne konkrete Bezüge"
+        ],
+        "oberflächliche_aussagen": [
+          "Paradoxes Beziehungsmodell"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Dualität und der sakralen Kontinuität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Postmoderne Motiv ohne klare Kontextualisierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Persönliche Liebe als transzendente Kraft"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der zeitlichen Spannung und der symbolischen Leitbilder"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Post-2000-Pop-Ballade ohne textliche Belege"
+        ],
+        "oberflächliche_aussagen": [
+          "Universelles Symbol für Erlösung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Ambivalenz von Genuss und Leid"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Hybridität von Hoch- und Popkultur ohne klare Bezüge"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der lyrischen Sprache und der Ambivalenzen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie eine sehr gute Analyse der lyrischen Sprache und der Ambivalenzen liefert und gleichzeitig wenige Erfindungen aufweist."
+  }
+}

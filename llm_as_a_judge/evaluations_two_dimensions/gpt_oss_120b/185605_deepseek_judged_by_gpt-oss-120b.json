@@ -1,0 +1,119 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine Verletzlichkeit und Offenheit aus, in der die Sängerin ihre wahren Bedürfnisse und Wünsche ausspricht.",
+          "Sie sehnt sich nach einer echten, emotionalen Verbindung, in der beide Partner füreinander da sind.",
+          "Hier bietet die Sängerin Trost und Unterstützung in schwierigen Zeiten an und unterstreicht die Bedeutung gegenseitiger Fürsorge in einer Beziehung.",
+          "Insgesamt vermittelt \"All I Need\" eine Botschaft der Einfachheit, Verletzlichkeit und gegenseitigen Unterstützung in Beziehungen.",
+          "Der Song ist eine herzliche und aufrichtige Darstellung der menschlichen Sehnsucht nach Liebe, Verbindung und Verständnis."
+        ],
+        "positive_aspekte": [
+          "Identifiziert und analysiert konkrete Textstellen (z. B. „Just a heart that's beating with mine“).",
+          "Erkennt das zentrale Motiv von gegenseitiger Unterstützung im Refrain.",
+          "Bleibt faktentreu – es gibt keine erfundenen biografischen oder stilistischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine Verletzlichkeit und Offenheit aus, in der die Sängerin ihre wahren Bedürfnisse und Wünsche ausspricht.",
+          "Sie sehnt sich nach einer echten, emotionalen Verbindung, in der beide Partner füreinander da sind.",
+          "Hier wird deutlich, dass die Sängerin nicht nur eine oberflächliche Beziehung sucht, sondern eine, in der beide Partner einander in schwierigen Zeiten beistehen.",
+          "Insgesamt vermittelt der Song eine Botschaft der Einfachheit, Verletzlichkeit und gegenseitigen Unterstützung in Beziehungen.",
+          "Die Sängerin sehnt sich nach einer tiefen, emotionalen Verbindung, in der beide Partner einander lieben, respektieren und unterstützen."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge zu den wiederholten Zeilen „That's all I need“ und zu den Versen über Herzschlag und Schulterwunden.",
+          "Erkennt, dass materielle Dinge im Song nicht wichtig sind.",
+          "Keine spekulativen biografischen Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine Verletzlichkeit und Offenheit aus, in der die Sängerin ihre wahren Bedürfnisse und Wünsche ausspricht.",
+          "Sie sehnt sich nach einer echten, emotionalen Verbindung, in der beide Partner füreinander da sind.",
+          "Hier wird deutlich, dass die Sängerin nicht nur eine oberflächliche Beziehung sucht, sondern eine, in der beide Partner einander in schwierigen Zeiten beistehen.",
+          "Insgesamt vermittelt \"All I Need\" eine Botschaft der Einfachheit, Verletzlichkeit und gegenseitigen Unterstützung in Beziehungen.",
+          "Der Song ist eine herzliche und aufrichtige Darstellung der menschlichen Sehnsucht nach Liebe, Verbindung und Verständnis."
+        ],
+        "positive_aspekte": [
+          "Korrekte Zuordnung der Kernaussage des Songs zu gegenseitiger Liebe und Respekt.",
+          "Erwähnt konkrete Textstellen, die die Analyse stützen.",
+          "Bleibt bei den im Text vorhandenen Informationen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine Verletzlichkeit und Offenheit aus, in der die Sängerin ihre wahren Bedürfnisse und Wünsche ausspricht.",
+          "Sie sehnt sich nach einer echten, emotionalen Verbindung, in der beide Partner füreinander da sind.",
+          "Hier wird deutlich, dass die Sängerin nicht nur eine oberflächliche Beziehung sucht, sondern eine, in der beide Partner einander in schwierigen Zeiten beistehen.",
+          "Insgesamt vermittelt der Song eine Botschaft der Einfachheit, Verletzlichkeit und gegenseitigen Unterstützung in Beziehungen.",
+          "Die Sängerin sehnt sich nach einer tiefen, emotionalen Verbindung, in der beide Partner einander lieben, respektieren und unterstützen."
+        ],
+        "positive_aspekte": [
+          "Identifiziert das zentrale Motiv von gegenseitiger Unterstützung.",
+          "Bezieht sich auf die wiederholte Zeile „That's all I need“ als Ausdruck von Einfachheit.",
+          "Keine erfundenen Fakten über die Künstlerin oder das Genre."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Lyrics drücken eine Verletzlichkeit und Offenheit aus, in der die Sängerin ihre wahren Bedürfnisse und Wünsche ausspricht.",
+          "Sie sehnt sich nach einer echten, emotionalen Verbindung, in der beide Partner füreinander da sind.",
+          "Hier wird deutlich, dass die Sängerin nicht nur eine oberflächliche Beziehung sucht, sondern eine, in der beide Partner einander in schwierigen Zeiten beistehen.",
+          "Insgesamt vermittelt \"All I Need\" eine Botschaft der Einfachheit, Verletzlichkeit und gegenseitigen Unterstützung in Beziehungen.",
+          "Der Song ist eine herzliche und aufrichtige Darstellung der menschlichen Sehnsucht nach Liebe, Verbindung und Verständnis."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Zeile über die Schulterwunde und das Versprechen, da zu sein.",
+          "Erkennt, dass materielle Dinge im Song nicht erwünscht sind.",
+          "Bleibt faktentreu, keine spekulativen Angaben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Alle Interpretationen erreichen identische Scores (Halluzination 5, Tiefe 3). Es gibt keinen klaren Favoriten; sie sind gleichwertig.",
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die fünf Texte sind nahezu identisch, was zu einer sehr geringen Varianz in den Scores führt.",
+    "empfehlung": "Ein besserer Ansatz wäre, mehr textbasierte Detailanalysen (z. B. metrische Struktur, Wiederholungsmechanik, mögliche Mehrdeutigkeiten) zu integrieren und vage Generalisierungen zu reduzieren, um die Tiefe‑Score zu erhöhen, ohne Halluzinationen einzuführen."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Fragen wie 'If it's alright with you, then it's alright with me' zeigt, dass er ihre Zustimmung und ihre Bereitschaft benötigt, um die Beziehung wieder aufzunehmen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song hat auch eine sinnliche und einladende Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die nostalgische und romantische Aufforderung des Songs gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wird von einem catchy Beat und einer einprägsamen Melodie getragen, die die nostalgische Stimmung unterstreicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist geprägt von einer Sehnsucht nach Wiedervereinigung und einer Hoffnung auf eine zweite Chance"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Sehnsucht nach einer vergangenen Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist teilweise in einem spielerischen, lockeren Ton geschrieben, der die Leichtigkeit und Freude einer vergangenen Beziehung widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song enthält auch Elemente von Dancehall und Reggae"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht nach einer vergangenen Liebe und den Wunsch, die Zeit zurückzudrehen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain 'Do you remember?' wird zu einem wiederkehrenden Motiv, das die Erinnerung an die Vergangenheit und die gemeinsamen Erfahrungen beschwört."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist geprägt von einer Sehnsucht nach Wiedervereinigung und einer Hoffnung auf eine zweite Chance"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Sehnsucht nach einer vergangenen Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain 'Do you remember?' wird zu einem wiederkehrenden Motiv, das die Erinnerung an die Vergangenheit und die gemeinsamen Erfahrungen beschwört."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist geprägt von einer Sehnsucht nach Wiedervereinigung und einer Hoffnung auf eine zweite Chance"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Sehnsucht nach einer vergangenen Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2, 4 und 5 sind sehr ähnlich und haben eine geringere Tiefe und Halluzinationsrate als die Interpretationen 1 und 3.",
+    "empfehlung": "Die Interpretationen 1 und 3 sind die besten, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweisen."
+  }
+}

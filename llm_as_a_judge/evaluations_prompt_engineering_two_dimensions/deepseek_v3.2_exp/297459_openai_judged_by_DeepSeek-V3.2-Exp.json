@@ -1,0 +1,97 @@
+{
+  "song": "Skipping Like A Stone - The Chemical Brothers feat. Beck (2023)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑Pandemie‑Ära einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains verstärkt die Unbestimmtheit"
+        ],
+        "positive_aspekte": [
+          "Das Motiv des springenden Steins fungiert als ambivalentes Symbol"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrufung von „skipping“ als Fluchtmechanismus spiegelt digitale Fluchtformen wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von „shadows of love“ und dem Wunsch, „Where no one goes“ erzeugt eine Spannung"
+        ],
+        "positive_aspekte": [
+          "Das Motiv des springenden Steins fungiert als ambivalentes Symbol"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die post‑pandemische Kultur einordnen"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Gegenüberstellung von „shadow of love“ und dem Wunsch, „where no one goes“ erzeugt eine Spannung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile „I, I, I see the sun now“ bildet einen abrupten Lichtwechsel"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von „shadow of love“ erzeugt ein Bild von Liebe als dunklem Raum"
+        ],
+        "positive_aspekte": [
+          "Das Motiv des springenden Steins fungiert als ambivalentes Symbol"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die post‑pandemische Kultur einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von „I don’t want to let you go / I don’t want to lose your love“ verstärkt die affektive Intensität"
+        ],
+        "positive_aspekte": [
+          "Die Kombination aus repetitiver Struktur, unaufgelösten Widersprüchen und dem Bild des springenden Steins"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

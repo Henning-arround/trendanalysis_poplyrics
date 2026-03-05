@@ -1,0 +1,89 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt die Erinnerungen an ihre Vergangenheit, die langsam verblassen, und die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Home is where my heart is' unterstreicht die Bedeutung dieses Ortes für die Sängerin und verdeutlicht, dass es nicht nur um einen physischen Ort geht, sondern auch um ein Gefühl von Zugehörigkeit und Sicherheit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt die Erinnerungen an ihre Vergangenheit, die langsam verblassen, und die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Home is where my heart is' unterstreicht die Bedeutung dieses Ortes für die Sängerin und verdeutlicht, dass es nicht nur um einen physischen Ort geht, sondern auch um ein Gefühl von Zugehörigkeit und Sicherheit."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin hatte früher den Wunsch, von ihrer Umgebung und ihren Mitmenschen wegzukommen, jetzt jedoch sehnt sie sich danach, nah bei ihnen zu sein und ihre Nähe zu spüren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Song kann auch als eine Reflexion über die Veränderung von Prioritäten und Werten interpretiert werden."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt die Erinnerungen an ihre Vergangenheit, die langsam verblassen, und die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Home is where my heart is' unterstreicht die Bedeutung dieses Ortes für die Sängerin und ihre emotionale Verbindung zu ihm."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin beschreibt die Erinnerungen an ihre Vergangenheit, die langsam verblassen, und die Schwierigkeit, loszulassen."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Home is where my heart is' unterstreicht die Bedeutung dieses Ortes für die Sängerin und ihre emotionale Verbindung zu ihm."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 2, 4 und 5 sind sehr ähnlich und wiederholen sich stark, während Interpretation 3 etwas abweicht und mehr Tiefe bietet.",
+    "empfehlung": "Interpretation 3 bietet die beste Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz dienen."
+  }
+}

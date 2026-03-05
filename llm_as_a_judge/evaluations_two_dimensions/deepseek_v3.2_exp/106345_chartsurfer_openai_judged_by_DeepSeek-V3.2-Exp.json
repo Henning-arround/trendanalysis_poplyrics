@@ -1,0 +1,89 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Straße symbolisiert Angst und Unterdrückung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von Leben und Tod verdeutlicht die Zerbrechlichkeit menschlicher Existenz"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Textinhalte und -struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die innere Selbstüberwachung zwingt den Einzelnen, sich ständig zu rechtfertigen und zu kontrollieren"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textinhalte und -struktur, gute Interpretation der Ambivalenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Überleben in dieser Umgebung von einer ständigen Wahl zwischen flüchtiger Freude und erstickender Panik abhängt"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Textinhalte, aber einige oberflächliche Aussagen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Straße fungiert nicht nur als physischer Ort, sondern als Metapher für ein gesellschaftliches Gefüge"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Interpretation der Textinhalte und -struktur, aber einige Erfindungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse der Textinhalte und -struktur",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und liefert eine substanzielle Analyse der Textinhalte und -struktur"
+  }
+}

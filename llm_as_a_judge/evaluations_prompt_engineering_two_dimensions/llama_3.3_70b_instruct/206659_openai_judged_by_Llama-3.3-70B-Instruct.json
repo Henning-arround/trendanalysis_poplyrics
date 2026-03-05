@@ -1,0 +1,99 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung des Kalten Krieges und der Globalisierung als direkter Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die Kritik an der modernen Gesellschaft"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Symbolik im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische Erwähnung von Umweltkrise ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'kollektive, selbstzerstörerische Irreführung' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambivalenz in der moralischen Bewertung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'Sodom' als mythologisch-biblische Schuld ohne weitere Erläuterung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Kritik an einer dekadenten Zivilisation'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Licht und Dunkelheit im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung von 'Avarice and greed' mit historischer Sklaverei ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'kollektive Flucht' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Wiederholung von 'pay tomorrow' als moralisches Echo"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'Ship of Fools' als Allegorie für historische Kolonialexpeditionen ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Kritik an Konsumismus und neoliberaler Politik'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der maritimen Symbolik und ihrer Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (1, 3, 5) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Für eine tiefergehende Analyse des Songs 'Ship of Fools' sollten Interpretationen wie die erste, dritte und fünfte bevorzugt werden, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten."
+  }
+}

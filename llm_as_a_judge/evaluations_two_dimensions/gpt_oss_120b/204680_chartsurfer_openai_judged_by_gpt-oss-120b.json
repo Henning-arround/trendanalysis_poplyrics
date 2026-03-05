@@ -1,0 +1,106 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verkörpert die romantische Sehnsucht einer Ära, in der das Tanzen noch als Metapher für innige Verbundenheit galt.",
+          "Als Teil der Broadway‑Produktion „Say Darling“ spiegelt das Stück zudem das post‑kriegszeitliche Bedürfnis nach Stabilität und romantischer Sicherheit wider, wobei die eingängige Melodie von Julie Styne und Perry Comos samtige Stimme das Ideal einer unerschütterlichen, musikalisch untermalten Liebe verkörpern."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage bezieht sich direkt auf ein Wort oder eine Phrase des Liedes.",
+          "Klare Analyse von Wiederholungen, Metaphern und dem Refrain.",
+          "Gute Balance zwischen konkreter Textinterpretation und stilistischer Beschreibung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verkörpert die romantische Sehnsucht einer Ära, in der das Tanzen noch als zentrales Symbol für Nähe und Verbindlichkeit galt.",
+          "Das Herz wird zum Ankerpunkt, an dem die beiden Tänzer ihre Welt verankern.",
+          "Der musikalische Aufbau, geprägt von Julie Stynes eingängiger Melodie, lässt die Worte in einem leichten, fast schwebenden Rhythmus schweben.",
+          "So wird der Tanz zu einer Metapher für ein Liebesversprechen, das in der Nachkriegszeit sowohl Unbeschwertheit als auch das Verlangen nach dauerhafter Geborgenheit verkörpert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfangreiche, aber textbezogene Analyse von Wortwahl und Wiederholungen.",
+          "Verknüpft musikalische Eindrücke mit dem lyrischen Inhalt, ohne zu sehr zu spekulieren."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verkörpert die romantische Ideologie der Nachkriegszeit, in der das Tanzen als Metapher für intime Verbundenheit und dauerhafte Partnerschaft dient.",
+          "Durch die enge Verknüpfung von Tanz und Liebe entsteht ein Bild von Einheit … die Angst vor Trennung und Verlust, die in einer Zeit des Wiederaufbaus besonders präsent war.",
+          "Der instrumentale Break bietet einen Moment der Reflexion, in dem die Worte schweigen und die Melodie die Sehnsucht nach ununterbrochener Harmonie verkörpert."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt stellt das Stück ein idealisiertes Bild einer exklusiven, unerschütterlichen Partnerschaft dar, das durch die einfache, aber eindringliche Wiederholung von Tanz und Liebe eine zeitlose, fast märchenhafte Sehnsucht nach ewiger Zweisamkeit ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Wiederholung als stilistisches Mittel und verbindet sie mit einer allgemeinen Aussage über Idealität.",
+          "Bezieht sich auf die emotionale Wirkung des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die instrumentale Pause bietet Raum für die emotionale Resonanz des Gesangs, während die Broadway‑Ursprünge des Stücks durch die eingängige Melodie von Julie Styne eine leichte, optimistische Atmosphäre schaffen, die das Ideal einer ungeteilten, lebenslangen Partnerschaft romantisch idealisiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse, jede Zeile wird systematisch interpretiert.",
+          "Erkennt und diskutiert Mehrdeutigkeiten (z. B. Endlichkeit vs. Unsterblichkeit).",
+          "Sehr hohe analytische Tiefe ohne unnötige Spekulation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song verkörpert die romantische Sehnsucht einer Ära, in der das Tanzen noch als Metapher für innige Verbundenheit galt.",
+          "Dieser Abschluss lässt das Versprechen einer ewigen Bindung zugleich fragil erscheinen, weil es an das Ende der Musik – das Ende des Lebens oder der Beziehung – erinnert.",
+          "Musikalisch, aus der Broadway‑Produktion „Say Darling“ stammend, verbindet das Stück die leichte, swingende Begleitung von Julie Styne mit Perry Comos samtiger Baritonstimme, die Wärme und Geborgenheit ausstrahlt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textanalyse und musikalischer Vorstellung.",
+          "Erklärt die Wirkung der Wiederholungen und der instrumentalen Pause."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑5 wiederholen ähnliche Grundthesen (Romantik, Tanz‑Metapher, Nachkriegs‑Kontext). Unterschiede liegen vor allem im Umfang der spekulativen Kontextualisierung. Die Varianz ist moderat; Interpretation 3 bleibt am textnahesten, während 1, 2 und 4 mehr historisch‑kulturelle Spekulation einfließen lassen.",
+    "empfehlung": "Ein Ansatz, der primär am Text bleibt und nur sparsam kontextuelle Ergänzungen nutzt (wie Interpretation 3), liefert die beste Balance aus Faktentreue und analytischer Tiefe. Modelle sollten Halluzinationen unter 30 % halten und gleichzeitig konkrete Textbelege für jede interpretative Aussage anführen."
+  }
+}

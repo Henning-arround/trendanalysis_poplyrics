@@ -1,0 +1,97 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Insgesamt spiegelt der Song die Fähigkeit von Ray Charles wider, emotionale Tiefe und Authentizität in seiner Musik auszudrücken.",
+          "Der Song ist ein Beispiel für seine Fähigkeit, komplexe Emotionen und Erfahrungen in seiner Musik zu verarbeiten und eine Verbindung zu seinen Zuhörern herzustellen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verweist konkret auf einzelne Zeilen des Textes (z. B. „Every road must have a turning“).",
+          "Bietet eine nachvollziehbare Entwicklung des Erzählers und bindet die Textzeilen logisch ein."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Insgesamt spiegelt \"I Cried for You\" die Fähigkeit von Ray Charles wider, emotionale Tiefe und Verletzlichkeit in seiner Musik auszudrücken, während er zugleich eine Botschaft der Hoffnung und des Neubeginns vermittelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Allerdings wird diese Interpretation durch die eher resignative und weniger aggressive Haltung des Sängers abgeschwächt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Ableitungen (z. B. „what a fool that I used to be“).",
+          "Erkennt die mögliche Rache‑Komponente, bleibt aber im Rahmen des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Insgesamt zeigt der Song die Fähigkeit von Ray Charles, komplexe Emotionen und Erfahrungen in seiner Musik zu verarbeiten und eine Atmosphäre von Melancholie und Resignation zu schaffen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare, textnahe Interpretation aller wiederholten Zeilen.",
+          "Erkennt die mögliche Rachefantasie und verbindet sie mit dem Motiv des Neuanfangs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der wiederholte Refrain unterstreicht die Genugtuung und die Befreiung, die der Sänger empfindet, nun, da er seine Tränen für die falsche Person geweint hat und seine ehemalige Partnerin an seiner Stelle weint."
+        ],
+        "positive_aspekte": [
+          "Komplett textbasierte Analyse ohne erfundene Fakten.",
+          "Gute Balance zwischen Beschreibung (Karmische Gerechtigkeit) und Interpretation (Rachefantasie)."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der wiederholte Refrain unterstreicht die Genugtuung und die Befreiung, die der Sänger empfindet, nun, da er seine Tränen für die falsche Person geweint hat und seine ehemalige Partnerin an seiner Stelle weint."
+        ],
+        "positive_aspekte": [
+          "Identisch zur vorherigen Interpretation – ebenfalls komplett textgetreu.",
+          "Stellt die Kernbotschaft klar heraus und bleibt bei den im Text vorhandenen Hinweisen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Grundthesen (Karmische Gerechtigkeit, Rachefantasie, Neuanfang). Unterschiede liegen hauptsächlich im Anteil erfundener Künstler‑Statements. Die Varianz ist gering, was auf ein hohes Maß an Redundanz hinweist.",
+    "empfehlung": "Interpretationen 2 und 3 sind am faktentreuesten (keine erfundenen Fakten) und gleichzeitig tiefgehend. Sie bieten die beste Balance zwischen Texttreue und analytischer Tiefe, weshalb sie als Vorbild für zukünftige LLM‑Interpretationen dienen sollten."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Glück – oder die Liebe – sich in einer zarten, fast flüchtigen Form zeigt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Liebe als eine berauschende Droge, die sowohl ekstatisch als auch zerstörerisch wirkt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Refrain-Struktur",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Symbolik und Metaphern",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zarte, aber zugleich unbeständige Natur des Glücks"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Refrain-Struktur",
+          "Textbezogene Argumentation"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik",
+          "Textbezogene Argumentation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Symbolik und Metaphern",
+    "empfehlung": "Die dritte Interpretation zeigt eine sehr gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

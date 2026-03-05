@@ -1,0 +1,94 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-9/11-Gefühl der Unsicherheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Themen der persönlichen Trauer und existenziellen Isolation"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-Britpop-Ära"
+        ],
+        "oberflächliche_aussagen": [
+          "Themen der emotionalen Entfremdung und nächtlichen Selbstreflexion"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Wiederholungen und Metaphern im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der textlichen Struktur und der verwendeten Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Indie-Rock-Durchbruch"
+        ],
+        "oberflächliche_aussagen": [
+          "Themen der emotionalen Entfremdung und nächtlichen Selbstreflexion"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbole im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der textlichen Struktur und der verwendeten Metaphern"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      3,
+      5
+    ],
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der textlichen Struktur und der verwendeten Metaphern",
+    "empfehlung": "Die Interpretationen von 3 und 5 sind sehr gut und balancieren Textreue mit analytischer Tiefe"
+  }
+}

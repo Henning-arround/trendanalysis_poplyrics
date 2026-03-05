@@ -1,0 +1,95 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Hear no evil / See no evil / Speak no evil' nehmen Bezug auf die japanische Redewendung 'die drei Affen'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Verwirrung und Desorientierung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Textstruktur und der Verwendung literarischer Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Hear no evil / See no evil / Speak no evil' nehmen Bezug auf die japanische Redewendung 'den drei Affen'"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt somit auf einer metaphorischen Ebene, die es dem Hörer überlässt, die tiefere Bedeutung und symbolische Ordnung zu entschlüsseln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Textstruktur und der Verwendung literarischer Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Hear no evil / See no evil / Speak no evil' nehmen Bezug auf die japanische Redewendung 'den drei Affen'"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt somit auf einer metaphorischen Ebene, die es dem Hörer überlässt, die tiefere Bedeutung und symbolische Ordnung zu entschlüsseln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Textstruktur und der Verwendung literarischer Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in der späten 1970er Jahre entstand, kann als eine Zeit der sozialen und politischen Umbrüche verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr gute Analyse der Textstruktur und der Verwendung literarischer Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in der späten 1970er Jahre entstand, kann als eine Zeit der sozialen und politischen Umbrüche verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr gute Analyse der Textstruktur und der Verwendung literarischer Stilmittel"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-3 zeigen eine hohe Übereinstimmung in ihrer Analyse, während die Interpretationen 4 und 5 eine höhere Tiefe und Faktentreue aufweisen",
+    "empfehlung": "Die Interpretationen 4 und 5 bieten eine gute Balance zwischen Textreue und analytischer Tiefe und sind daher empfehlenswert"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Kombination von Jay Seans souligen Vocals, Sean Pauls ragga‑inspirierten Beats und Lil Jons energiegeladenen Rap‑Parts entsteht ein einzigartiger Sound, der die emotionale Tiefe des Songs unterstreicht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Hauptaussagen (Sehnsucht, Rückblick, Appell, Aufruf) lassen sich klar aus dem Text ableiten.",
+          "Die Analyse ist strukturiert und wiederholt keine reinen Allgemeinplätze.",
+          "Nur ein einziger stilistischer Kommentar ist erfunden, wodurch die Halluzinations‑Rate unter 15 % bleibt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song hat eine nostalgische und romantische Atmosphäre, die durch die melodische Melodie und die sanften Rhythmen verstärkt wird.",
+          "Die Beteiligung von Sean Paul und Lil Jon fügt dem Song eine weitere Ebene hinzu, indem sie ihre eigenen Perspektiven und Stile einbringen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Grundlegende inhaltliche Aussagen (Sehnsucht, Rückkehr, Wiederholung des Refrains) sind textbasiert.",
+          "Die Interpretation bleibt insgesamt kohärent, obwohl sie einige nicht belegte Stilurteile enthält."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Zusammenarbeit mit Sean Paul und Lil Jon wird der Song zu einem energiegeladenen und tanzbaren Track, der die Sehnsucht und die Hoffnung auf eine Wiederbelebung der Beziehung ausdrückt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle inhaltlichen Punkte (Sehnsucht, Erinnerungen, Appell) sind klar aus dem Text ableitbar.",
+          "Nur ein stilistischer Kommentar ist erfunden, sodass die Halluzinations‑Rate gering bleibt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Kombination von Jay Seans souligen Vocals, Sean Pauls ragga‑inspirierten Beats und Lil Jons energiegeladenen Rap‑Parts entsteht ein einzigartiger Sound, der die emotionale Tiefe des Songs unterstreicht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Vollständige, textbasierte Analyse der Themen und des Aufrufs im Song.",
+          "Nur ein einziger nicht belegter Stil‑Hinweis, wodurch die Halluzinations‑Rate unter 15 % bleibt."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Zusammenarbeit mit Sean Paul und Lil Jon wird der Song zu einem energiegeladenen und tanzbaren Track, der die Sehnsucht und die Hoffnung auf eine Wiederbelebung der Beziehung ausdrückt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle inhaltlichen Aussagen sind klar aus dem Text ableitbar.",
+          "Nur ein stilistischer Kommentar ist erfunden, sodass die Halluzinations‑Rate gering bleibt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen wiederholen im Wesentlichen dieselben inhaltlichen Punkte (Sehnsucht, Rückblick, Appell, Aufruf). Unterschiede liegen nur in einzelnen stilistischen Einschätzungen, die meist erfunden sind. Die Varianz ist gering, was auf ein hohes Maß an Redundanz, aber gleichzeitig auf konsistente Grundinterpretation hinweist.",
+    "empfehlung": "Interpretationen, die fast ausschließlich textbasierte Aussagen enthalten und nur einen einzigen, klar gekennzeichneten erfundenen Stil‑Hinweis aufweisen, erzielen die besten Scores. Zukunftige Modelle sollten darauf achten, spekulative Musikanalysen zu vermeiden oder deutlich als solche zu kennzeichnen, um Halluzinations‑Scores zu minimieren, während sie gleichzeitig tiefere, textgebundene Analysen anbieten."
+  }
+}

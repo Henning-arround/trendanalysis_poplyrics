@@ -1,0 +1,98 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von exotischer Flucht nach Hawaii und dem bedrückenden Bild eines blutroten Pfades erzeugt eine Spannung zwischen Illusion und Realität"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik im Text",
+          "Gute Verknüpfung von Textelementen mit Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des Trident-Flugzeugs symbolisiert das Aufeinandertreffen von Zivilisation und Chaos"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Bitte um Gnade offenbart die Verzweiflung des Individuums"
+        ],
+        "positive_aspekte": [
+          "Gute Erklärung der Rolle des Clowns und des Dominion",
+          "Analyse der Wiederholung des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Dauerhaftigkeit des Schreckens wird betont"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Zirkus",
+          "Erklärung der Rolle des Clowns und des Dominion"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das System – verkörpert durch den Clown – unbeirrbar weiterzieht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains verstärkt den hypnotischen Charakter"
+        ],
+        "positive_aspekte": [
+          "Gute Erklärung der Rolle des Clowns und des Dominion",
+          "Analyse der Wiederholung des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die eindringlichen Bitten spiegeln die Verzweiflung einzelner Individuen wider"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des Zirkus",
+          "Erklärung der Rolle des Clowns und des Dominion"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und Symbolik, aber variieren in der Tiefe und der Anzahl der erfundenen Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Metaphern und Symbolik bietet und keine erfundenen Aussagen enthält"
+  }
+}

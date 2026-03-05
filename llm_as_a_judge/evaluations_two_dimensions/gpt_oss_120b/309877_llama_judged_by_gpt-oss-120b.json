@@ -1,0 +1,91 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Ode an die morgendliche Intimität und die Bedeutung von Qualitätzeit in einer Beziehung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse.",
+          "Klare Verknüpfung von einzelnen Zeilen mit ihrer Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Metaphern‑Analyse (z. B. „vacay in the sheets“).",
+          "Berücksichtigt Wiederholungen und deren funktionale Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Erwähnung von \"Honeymoon that, wedding day that\" und \"Still stack our pay up\" lässt darauf schließen, dass die Beziehung langfristig und stabil ist, und die beiden Partner sich gegenseitig unterstützen und ihre Liebe als eine Art Investition in ihre gemeinsame Zukunft sehen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt zusätzliche Textstellen (Honeymoon, pay) und versucht, deren mögliche Bedeutung zu erschließen.",
+          "Verknüpft emotionale Aussagen („best of me“, „stress relief“) mit einer konkreten Interpretation der Sprecher‑Intention."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Ode an die morgendliche Intimität und die Bedeutung von Qualitätzeit in einer Beziehung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Gute Struktur: Einleitung, Analyse einzelner Zeilen, Schlussfolgerung.",
+          "Verweist konsequent auf wiederholte Motive („No time to waste“)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse der Spannung zwischen romantischer Idylle und Alltagsdruck.",
+          "Keine vagen Verallgemeinerungen, sondern konkrete Textbezüge.",
+          "Offen für Ambivalenz (z. B. „die Realität des Alltags stört die Idylle“)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernthemen (Intimität, Zeitdruck) auf; die Varianz liegt hauptsächlich im Detailgrad und in spekulativen Aussagen.",
+    "empfehlung": "Interpretation 4 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe, ohne unnötige Spekulationen. Modelle sollten darauf achten, spekulative Schlüsse zu kennzeichnen und Oberflächlichkeiten zu vermeiden."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die späte 1990er‑Jahre einordnen, eine Phase, in der Popmusik vermehrt introspektive, postmoderne Themen wie Fragmentierung und das Spiel mit Symbolen aufgriff."
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch dominieren Metaphern und Bildhaftigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das Bild des Zigarettenrauchs mit einer persistierenden, aber bereits beendeten Liebesbeziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Lied im Kontext der späten 1990er‑Jahre zu sehen, einer Phase, in der das Rauchen noch als kulturelles Symbol für Rebellion und Sinnlichkeit galt, gleichzeitig aber zunehmend kritisiert wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Zigaretten als Metapher reflektiert damit ein Spannungsfeld zwischen romantischer Nostalgie und gesellschaftlicher Gesundheitsdebatte."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft ist das Fortbestehen einer emotionalen Bindung trotz bewusster Trennung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In der Popkultur jener Zeit fungierte das Bild des „smoke ring“ zudem als visuelle Metapher für das Verblassen von Identität und Erinnerung."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation arbeitet mit Metaphern und Bildhaftigkeit, die das Rauchen als Metonym für das „Einatmen“ vergangener Gefühle nutzt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext der späten 1990er Jahre, einer Phase zunehmender Postmoderne und der Auflösung traditioneller Liebesideale."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Symbolik des Rauchs als Medium, das sowohl verbirgt als auch enthüllt, verknüpft persönliche Trauer mit einer breiteren gesellschaftlichen Tendenz."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft ist das Fortbestehen einer emotionalen Bindung trotz rationaler Trennung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die offene Ambiguität des Textes lässt Raum für verschiedene Interpretationen – von einer reinen Trauerballade bis zu einer kritischen Reflexion über die romantische Verklärung von Sucht und Erinnerung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das Bild des Zigarettenrauchs mit einer persistierenden, aber bereits beendeten Liebesbeziehung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Analyse des Songs.",
+    "empfehlung": "Die dritte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

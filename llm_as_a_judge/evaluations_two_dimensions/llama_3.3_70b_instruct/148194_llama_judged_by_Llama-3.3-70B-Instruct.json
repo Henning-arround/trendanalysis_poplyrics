@@ -1,0 +1,99 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als transformative Erfahrung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe bringt Freude und Glück"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und bietet eine klare Analyse der Emotionen und Erfahrungen des Protagonisten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als Rauschzustand, der die Rationalität außer Kraft setzt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist überwältigend und unkontrollierbar"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Intensität der Emotionen zu erfassen, aber bleibt teilweise zu allgemein"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als überwältigende und unkontrollierbare Kraft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe bringt Verwirrung und Desorientierung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu, aber könnte tiefer in die Analyse eintauchen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als Trancezustand, der das Leben beherrscht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe ist eine Art Euphorie"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet einige interessante Punkte, aber bleibt größtenteils oberflächlich und spekulativ"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als allumfassende und überwältigende Kraft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe bringt Freude und Ekstase"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und textgetreue Analyse der Emotionen und Erfahrungen des Protagonisten, mit einer guten Balance zwischen Tiefe und Textreue"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten bieten eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die Interpretationen 1 und 5 bieten die beste Balance zwischen Textreue und analytischer Tiefe und sollten als Vorbild für zukünftige Interpretationen dienen"
+  }
+}

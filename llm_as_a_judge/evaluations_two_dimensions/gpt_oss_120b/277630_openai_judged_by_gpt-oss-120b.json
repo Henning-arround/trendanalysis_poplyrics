@@ -1,0 +1,89 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Textbindung – fast jede Aussage lässt sich direkt aus dem Liedtext ableiten.",
+          "Vielschichtige Analyse von Symbolik (z. B. „Herz des Hauses“, „halo“).",
+          "Klare Argumentationskette, die von der Szene im Küchenbereich zu gesellschaftlichen Implikationen führt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Verantwortung – sowohl individueller als auch kollektiver Art.",
+          "Verknüpfung von Bildsprache (z. B. zerbrochene Wand) mit abstrakten Konzepten wie Ignoranz und Schweigen.",
+          "Durchgängige Textreferenz, die die Interpretation fest verankert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Betont das psychologische Abwehrverhalten („als Traum abtun“) und verknüpft es mit struktureller Gewalt.",
+          "Erkennt die gesellschaftliche Erwartungshaltung an Opfer, ihre Geschichte zu erzählen.",
+          "Verwendet die Küche als kraftvolles Symbol für Sicherheit und deren Zerbrechlichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Hervorhebung des Refrains als „Mantra“ und dessen hypnotische Wirkung.",
+          "Differenzierung zwischen kriminalistischer und moralischer Lesart der Frage.",
+          "Kritik am kollektiven Versagen, das Gewalt normalisiert, wird klar aus dem Text abgeleitet."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse der Rolle von Institutionen (Polizei) im Kontext des Traumas.",
+          "Erkennt den Kontrast zwischen öffentlicher Fröhlichkeit und privatem Leid.",
+          "Verbindet die wiederholte Frage mit einem kritischen Kommentar zur gesellschaftlichen Moral."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen eine konsistente, textnahe Herangehensweise ohne erfundene Fakten. Die Varianz liegt fast ausschließlich im stilistischen Ausdruck, nicht in der Substanz.",
+    "empfehlung": "Alle fünf Interpretationen erfüllen die Kriterien hervorragend – sie balancieren Texttreue mit analytischer Tiefe. Für weitere Arbeiten empfiehlt es sich, den bereits hohen Standard beizubehalten und weiterhin jede Aussage klar aus dem Text abzuleiten, um die Halluzinationsrate bei 0 % zu halten."
+  }
+}

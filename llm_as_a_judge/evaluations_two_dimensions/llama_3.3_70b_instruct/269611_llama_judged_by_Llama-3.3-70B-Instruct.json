@@ -1,0 +1,94 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerungen an die gemeinsame Zeit werden durch die Regen-Geräusche gegen das Fenster hervorgerufen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Regen-Szenarie als Metapher für die Erinnerungen an die vergangene Beziehung",
+          "Die Zeile 'You're bringing back sweet memories' wird als ambivalent interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Regen wird zu einem Symbol für die Traurigkeit und die Einsamkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Intensität des Schmerzes und der Sehnsucht",
+          "Die Wiederholung des Refrains 'I can't stand the rain' wird als Ausdruck der Verzweiflung interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerungen an die gemeinsame Zeit werden durch die Regen-Geräusche gegen das Fenster hervorgerufen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Regen-Szenarie als Metapher für die Erinnerungen an die vergangene Beziehung",
+          "Die Zeile 'You're bringing back sweet memories' wird als ambivalent interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erinnerungen an die gemeinsame Zeit werden durch die Regen-Geräusche gegen das Fenster hervorgerufen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Regen-Szenarie als Metapher für die Erinnerungen an die vergangene Beziehung",
+          "Die Zeile 'You're bringing back sweet memories' wird als ambivalent interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist kann den Regen nicht ertragen, da er ihn an die verlorene Liebe erinnert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Traurigkeit und Sehnsucht nach einer verlorenen Liebe",
+          "Die Wiederholung des Refrains 'I can't stand the rain' wird als emotionaler Ausdruck der Unfähigkeit interpretiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Regen-Szenarie als Metapher für die Erinnerungen an die vergangene Beziehung analysiert und die Zeile 'You're bringing back sweet memories' als ambivalent interpretiert"
+  }
+}

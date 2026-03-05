@@ -1,0 +1,141 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren.",
+          "In kultureller, historischer und gesellschaftlicher Hinsicht ist \"You Know I Miss You\" ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren.",
+          "Der Song ist ein Produkt der urbanen Kultur und der Musikszene in den USA, die durch die Verbindung von Rhythm and Blues und Country Music entstanden ist.",
+          "Insgesamt ist \"You Know I Miss You\" ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren und eine starke Verbindung zwischen der Musik und der kulturellen, historischen und gesellschaftlichen Entwicklung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text des Liedes ist eindeutig und klar, was die Interpretation erleichtert.",
+          "Die Symbole und Bilder, die in dem Lied verwendet werden, sind einfach und direkt.",
+          "Die Emotionale Wirkung des Liedes ist stark und eindringlich.",
+          "Die tieferen Bedeutungsebenen und symbolische Ordnungen des Liedes sind durch die Metaphern und Symbole unterstützt."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei den meisten Interpretationen von Metaphern (Lordy, sky, hold her tight).",
+          "Mehrere konkrete Zitate aus dem Song werden korrekt wiedergegeben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren.",
+          "Das Bild des Himmels, das klar wird, ist ein häufiges Symbol für Hoffnung und Wiedersehen in der Musik der 1950er Jahre.",
+          "In kultureller, historischer und gesellschaftlicher Hinsicht ist \"You Know I Miss You\" ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren.",
+          "Die Verwendung von Metaphern und Symbolen ist ein charakteristisches Merkmal der Musik der 1950er Jahre und wird in \"You Know I Miss You\" verwendet, um die Emotionen des Sängers zu verstärken.",
+          "Insgesamt ist \"You Know I Miss You\" ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text des Liedes ist eindeutig und klar, was die Interpretation erleichtert.",
+          "Die Symbole und Bilder, die in dem Lied verwendet werden, sind einfach und direkt.",
+          "Die Emotionale Wirkung des Liedes ist stark und eindringlich.",
+          "Der Song ist eindeutig und klar, was die Interpretation erleichtert.",
+          "Die tieferen Bedeutungsebenen und symbolische Ordnungen sind in dem Lied durch die Metaphern und Symbole vermittelt.",
+          "Der Song ist eindeutig und klar, was die Interpretation erleichtert.",
+          "Die Metaphern und Symbole, die in dem Lied verwendet werden, verstärken die Emotionen des Sängers und vermitteln die tieferen Bedeutungsebenen und symbolischen Ordnungen."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der wiederholten Metaphern und ihrer emotionalen Wirkung.",
+          "Konsistente Verknüpfung von Textstellen mit der Interpretation von Sehnsucht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist der Beginn der 1950er Jahre, einer Zeit der Veränderung und der Entwicklung des Rock'n'Roll.",
+          "Der Sänger, Fats Domino, war einer der ersten großen Stars des Rock'n'Roll und seine Musik hatte einen großen Einfluss auf die Entwicklung des Genres.",
+          "Insgesamt ist \"You Know I Miss You\" ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren und zeigt die starke Sehnsucht und Verliebtheit des Sängers."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text des Liedes ist eindeutig und klar, was die Interpretation erleichtert.",
+          "Die Symbole und Bilder, die in dem Lied verwendet werden, sind einfach und direkt.",
+          "Die Emotionale Wirkung des Liedes ist stark und eindringlich."
+        ],
+        "positive_aspekte": [
+          "Höchster Anteil an belegbaren Aussagen (8 von 15).",
+          "Klare, textbasierte Erläuterungen zu den Metaphern \"Lordy\", \"sky\" und \"hold her tight\"."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren.",
+          "Der Rock'n'Roll war eine neue Musikform, die in den 1950er Jahren entstand und eine neue Art von Liebe und Beziehung symbolisierte.",
+          "Domino war einer der ersten Künstler, die diese neue Musikform populär machten.",
+          "Insgesamt ist \"You Know I Miss You\" ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren und die Sehnsucht nach Liebe und Nähe, die Domino in dem Lied zum Vorschein bringt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text des Liedes ist eindeutig und klar, was die Interpretation erleichtert.",
+          "Die literarischen Stilmittel, die Domino verwendet, sind einfach und direkt.",
+          "Die Bilder sind klar und einfach, was die Wirkung des Liedes verstärkt.",
+          "Die Emotionale Wirkung des Liedes ist stark.",
+          "Domino singt mit einer Tiefe und einer Intensität, die die Sehnsucht nach Liebe und Nähe zum Vorschein bringt.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist wichtig."
+        ],
+        "positive_aspekte": [
+          "Mehrere direkte Zitate aus dem Song werden korrekt wiedergegeben.",
+          "Konsistente Interpretation der zentralen Botschaft (Sehnsucht nach Liebe)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren.",
+          "Der Rock'n'Roll, der in den 1950er Jahren entstand, war eine Reaktion auf die konservative Moral der 1950er Jahre.",
+          "Das Lied \"You Know I Miss You\" ist ein Beispiel für die Freiheit und Offenheit, die mit dem Rock'n'Roll verbunden waren.",
+          "Insgesamt ist \"You Know I Miss You\" ein Beispiel für die Entwicklung des Rock'n'Roll in den 1950er Jahren und eine Metapher für die menschliche Liebe und Sehnsucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text des Liedes ist eindeutig und klar, was die Interpretation erleichtert.",
+          "Die Symbole und Bilder, die in dem Lied verwendet werden, sind einfach und direkt.",
+          "Die Emotionale Wirkung des Liedes ist stark und eindringlich.",
+          "In kultureller, historischer und gesellschaftlicher Hinsicht ist das Lied ein Produkt seiner Zeit.",
+          "In tiefere Bedeutungsebenen und symbolische Ordnungen hinein betrachtet, kann man sagen, dass das Lied eine Metapher für die menschliche Liebe und Sehnsucht ist.",
+          "Der Sänger vermittelt eine starke Sehnsucht und Verliebtheit, die durch die Metaphern und Symbole verstärkt wird."
+        ],
+        "positive_aspekte": [
+          "Klare Analyse der wiederholten Metaphern und ihrer emotionalen Funktion.",
+          "Verknüpfung von Textstellen mit einer nachvollziehbaren Interpretation von Sehnsucht und Liebe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Rock'n'Roll‑Entwicklung, Sehnsucht, Metaphern). Die Varianz liegt hauptsächlich im Anteil belegbarer Aussagen; Interpretation 5 weist den höchsten Faktenanteil auf.",
+    "empfehlung": "Interpretation 5 ist am ausgewogensten: sie bleibt textnah, liefert die meisten belegbaren Analysen und minimiert spekulative Kontextualisierungen. Für zukünftige Modelle sollte der Fokus auf mehr differenzierte, textbasierte Analysen gelegt werden, während pauschale historische oder genrebezogene Aussagen vermieden werden."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Assistant's Cry - Yello (1980)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Only a few know why' lässt darauf schließen, dass die wenigsten die wahren Gründe für ihre Unzufriedenheit und ihre Sehnsüchte kennen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Lyrics zeichnen das Bild einer anonymen Menge, die in ihrem hektischen Alltag gefangen ist und nach etwas Höherem strebt, ohne es jedoch zu finden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile 'A hundred thousand people / Walking down the streets / Trying to protect their dream / Following their feet' und zeigt, wie sie die Verfolgung eines Traums verdeutlicht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I can't believe it / Look at them' drückt eine Mischung aus Unglauben und Verachtung für die Masse aus, die als blind und ziellos dargestellt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song könnte auch als Kommentar zu einer Gesellschaft gesehen werden, in der die Menschen in ihrer täglichen Routine gefangen sind und nicht in der Lage sind, ihre Träume und Sehnsüchte zu verwirklichen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die satirische Kritik an der Massenkultur und der Oberflächlichkeit des Alltags."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Only a few know why' lässt darauf schließen, dass es eine tiefere, verborgene Wahrheit oder Unzufriedenheit gibt, die nur von wenigen erkannt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint also eine Kritik an der modernen Gesellschaft und ihrer Oberflächlichkeit zu sein, in der die Menschen ihre wahren Bedürfnisse und Gefühle unterdrücken."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Verachtung für die Masse und die Darstellung der Menschen als blind und ziellos."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'A hundred thousand people / Walking down the streets / Trying to protect their dream / Following their feet' lässt darauf schließen, dass die Menschen in ihrer hektischen, alltäglichen Routine gefangen sind und nicht wirklich wissen, was sie wollen oder suchen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song scheint also eine Kritik an der modernen Gesellschaft und ihrer Oberflächlichkeit zu sein, in der die Menschen ihre wahren Bedürfnisse und Gefühle unterdrücken."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Refrain 'No tears / Just cries and fears' und zeigt, wie er die tiefe Unsicherheit und Angst der Menschen verdeutlicht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I can't believe it / Look at them' drückt eine Mischung aus Unglauben und Verachtung für die Masse aus, die als blind und ziellos dargestellt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song könnte auch als Kommentar zu einer Gesellschaft gesehen werden, die ihre Mitglieder als Konsumenten und nicht als Individuen betrachtet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die satirische Kritik an der Massenkultur und der Oberflächlichkeit des Alltags."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten bleiben auf einem mittleren Niveau.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und erkennt die satirische Kritik an der Massenkultur und der Oberflächlichkeit des Alltags."
+  }
+}

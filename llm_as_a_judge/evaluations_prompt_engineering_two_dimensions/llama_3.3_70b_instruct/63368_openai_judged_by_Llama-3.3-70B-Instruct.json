@@ -1,0 +1,97 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Die glatten Movie-Stars, die sind zwar wunderschön' verweist auf die Ablehnung des Hollywood-Schönheitsideals."
+        ],
+        "oberflächliche_aussagen": [
+          "Die offenen Widersprüche – Liebe zum Unattraktiven, Ablehnung des Schönen, gleichzeitige Sehnsucht nach Anerkennung – bleiben unbeantwortet"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Bildsprache, wie 'Pflaume' und 'Experiment', ist sehr detailliert und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Für jedes Wort gibt es Schmerzensgeld von der AOK' verweist auf das wachsende Bewusstsein für psychische Belastungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Doppeldeutigkeit erzeugt ein Spannungsfeld zwischen Ablehnung und Zuneigung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Stilistik und der Verwendung von Metaphern ist gut, aber nicht so detailliert wie in Interpretation 1."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Schönheit ist vergänglich / Sie kommt und geht' spiegelt den Diskurs um die Auflösung klassischer Ästhetik wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten – etwa die gleichzeitige Liebe zum 'Arschgesicht' und die Ablehnung seiner Ästhetik – bleiben offen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der historischen Kontextualisierung und der kulturellen Spannungen ist sehr gut und textbezogen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Die glatten Movie-Stars, die sind zwar wunderschön / Doch trotzdem möchte ich nicht gern mit denen geh'n' reflektiert den Widerstand gegen mediale Ideale"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Doppeldeutigkeit erzeugt ein Spannungsfeld zwischen Ablehnung und Zuneigung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und der Verwendung von Bildsprache ist gut, aber nicht so detailliert wie in Interpretation 1 oder 3."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die ironische Verherrlichung des 'Arschgesichts' reflektiert die Gegenkultur-Bewegung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der linguistischen Mittel und der Verwendung von Metaphern ist sehr detailliert und textbezogen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Interpretation 1 und 3 sind die besten, da sie eine sehr detaillierte und textbezogene Analyse bieten. Interpretation 5 ist auch sehr gut, da sie keine halluzinierten Aussagen enthält."
+  }
+}

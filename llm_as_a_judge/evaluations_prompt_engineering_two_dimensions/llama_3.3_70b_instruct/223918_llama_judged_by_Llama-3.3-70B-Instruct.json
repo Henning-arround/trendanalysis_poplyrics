@@ -1,0 +1,99 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in der späten 1970er Jahre entstand, kann als eine Zeit der sozialen und politischen Umbrüche gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Auseinandersetzung mit der Oberfläche und der Wahrheit zu liegen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der literarischen Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Hear no evil / See no evil / Speak no evil' nehmen Bezug auf die japanische Redewendung 'den drei Affen'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Verwirrung und Desorientierung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung literarischer Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song bleibt somit auf einer metaphorischen Ebene, die es dem Hörer überlässt, die tiefere Bedeutung und symbolische Ordnung zu entschlüsseln"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Auseinandersetzung mit der Oberfläche und der Wahrheit zu liegen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Ambiguitäten und Widersprüchen der menschlichen Natur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs, der in der späten 1970er Jahre entstand, kann als eine Zeit der sozialen und politischen Umbrüche verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Atmosphäre der Verwirrung und Desorientierung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung literarischer Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song bleibt somit auf einer metaphorischen Ebene und lädt den Hörer ein, die eigenen Interpretationen und Assoziationen zu entwickeln"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Auseinandersetzung mit der Oberfläche und der Wahrheit zu liegen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Ambiguitäten und Widersprüchen der menschlichen Natur"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und bieten eine gute Analyse des Songs",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

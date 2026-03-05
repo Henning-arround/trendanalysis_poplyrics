@@ -1,0 +1,97 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'cosmic error' deutet auf eine Art von Irrtum oder Fehlverständnis hin, das die Menschheit in ihrer Wahrnehmung des Kosmos und ihrer eigenen Rolle darin begangen hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Reise der Selbstentdeckung und spirituellen Erleuchtung"
+        ],
+        "positive_aspekte": [
+          "Der Protagonist strebt danach, die Grenzen der menschlichen Wahrnehmung zu überschreiten und die universalen Geheimnisse zu entschlüsseln"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist ist von den Leidenschaften und Emotionen derer angezogen, die sich in einem Paradox verloren haben"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Reise der Selbstentdeckung und spirituellen Erleuchtung"
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung des Refrains 'Reach beyond the constellations' unterstreicht die Notwendigkeit, die Grenzen der menschlichen Wahrnehmung zu überschreiten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist ist von den Leidenschaften und Emotionen derer angezogen, die sich in einem Paradox verloren haben"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Reise der Selbstentdeckung und spirituellen Erleuchtung"
+        ],
+        "positive_aspekte": [
+          "Die 'swirling black aura of united burning chaos' symbolisiert eine Art von kosmischer Energie"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist strebt danach, die Grenzen der menschlichen Wahrnehmung zu überschreiten",
+          "Der Song beschreibt eine Reise der Selbstentdeckung"
+        ],
+        "positive_aspekte": [
+          "Der Text wird weitgehend korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Protagonist strebt danach, die Grenzen der menschlichen Wahrnehmung zu überschreiten",
+          "Der Song beschreibt eine Reise der Selbstentdeckung"
+        ],
+        "positive_aspekte": [
+          "Der Text wird weitgehend korrekt interpretiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Wiedergabe des Textes, aber auch eine hohe Oberflächlichkeit",
+    "empfehlung": "Eine tiefergehende Analyse des Textes, die auch die Symbolik und die poetische Struktur berücksichtigt, könnte zu einer besseren Interpretation führen"
+  }
+}

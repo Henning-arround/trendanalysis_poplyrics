@@ -1,0 +1,85 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aussage \"Es geht mir gut\" fungiert dabei als sarkastischer Puffer gegen die Sinnlosigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ironie und die gesellschaftliche Kritik im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt damit ein Spiegelbild einer Generation, die zwischen dem Wunsch nach Bedeutung und der lähmenden Leere schwankt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erfasst die Resignation und innere Leere im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Auseinandersetzung mit Entfremdung und Selbsttäuschung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt damit in einem Zustand zwischen passiver Akzeptanz und stiller Rebellion"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erfasst das Spannungsfeld zwischen Selbsttäuschung und existenzieller Leere"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Resignation und des Verlangens nach Verbindung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsscore, aber die besten Interpretationen bieten eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die Interpretationen sollten sich auf eine textbasierte Analyse konzentrieren und weniger auf kreative Ergänzungen zurückgreifen"
+  }
+}

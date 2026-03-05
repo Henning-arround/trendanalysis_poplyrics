@@ -1,0 +1,113 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden, einer Zeit, in der Themen wie Beziehungsdynamiken, emotionale Intelligenz und Selbstreflexion in der Popkultur zunehmend relevant wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Wait\" von Martin Jensen feat. Loote aus dem Jahr 2017 handelt von einer komplexen Beziehung, die von einer tiefen emotionalen Verbindung und einer gleichzeitigen Ambivalenz geprägt ist.",
+          "Die Wiederholung der Zeile \"Every day I'll wait\" kann als ein Ausdruck von emotionaler Ausdauer und Loyalität interpretiert werden, die in der heutigen Gesellschaft oft als Ideal angesehen wird.",
+          "Die zentrale Botschaft des Songs lässt sich in der wiederholten Zeile \"Every day I'll wait\" zusammenfassen, die eine Art von emotionaler Bindung und Loyalität ausdrückt, trotz der offensichtlichen Probleme in der Beziehung."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Metaphern (leere Sitz, paper walls) und verknüpft sie mit dem Text.",
+          "Bezieht sich konkret auf wiederholte Textstellen und deren mögliche Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei der Interpretation.",
+          "Der Song kann als Ausdruck der aktuellen Diskussionen über Beziehungen, Liebe und Identität gelesen werden.",
+          "Die tiefe emotionale Verbindung zwischen den Partnern und die Versicherung des Sprechers, dass er bleiben und halten wird, können als Ausdruck eines Wunsches nach Stabilität und Sicherheit in einer zunehmend unsicheren Welt interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einer komplexen Beziehung, die von einer tiefen emotionalen Verbindung und einer gleichzeitigen Ambivalenz geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse (Wiederholungen, Metaphern, Bildsprache).",
+          "Erklärt, wie das Motiv des Wartens Stimmung erzeugt.",
+          "Verknüpft einzelne Textpassagen (paper walls, back when we were so young) mit einer kohärenten Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext von 2017 verortet werden, einer Zeit, in der Themen wie Beziehungsdynamiken, emotionale Intelligenz und Selbstreflexion in der Popkultur zunehmend relevant wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einer komplexen Beziehung, die von einer tiefen emotionalen Verbindung und einer gleichzeitigen Ambivalenz geprägt ist.",
+          "Die Zeile ... kann als Ausdruck einer tiefen emotionalen Verbindung interpretiert werden, die auf einer gemeinsamen Geschichte basiert.",
+          "Insgesamt kann \"Wait\" als ein vielschichtiges und emotional komplexes Lied interpretiert werden, das die Ambivalenz und Unsicherheit von Beziehungen thematisiert und die Zuhörer dazu einlädt, über die Natur von Liebe, Loyalität und emotionaler Bindung nachzudenken."
+        ],
+        "positive_aspekte": [
+          "Erkennt zentrale Wiederholungen und deren mögliche emotionale Wirkung.",
+          "Identifiziert Metaphern (leere Sitz, paper walls) und gibt plausible Deutungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext betrachtet werden, einer Zeit, in der Themen wie Beziehungsdynamiken, emotionale Intelligenz und Selbstreflexion in der Popkultur zunehmend relevant wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einer komplexen Beziehung, die von einer tiefen emotionalen Verbindung und einer gleichzeitigen Ambivalenz geprägt ist.",
+          "Die Wiederholung der Zeile \"Every day I'll wait\" kann als ein Ausdruck von emotionaler Ausdauer und Loyalität interpretiert werden, die in der heutigen Gesellschaft oft als Ideal angesehen wird.",
+          "Die zentrale Botschaft des Songs lässt sich in der wiederholten Zeile \"Every day I'll wait\" zusammenfassen, die eine Art von emotionaler Bindung und Loyalität ausdrückt, trotz der offensichtlichen Probleme in der Beziehung."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Bildsprache (leere Sitz, paper walls).",
+          "Verknüpft Textstruktur (Repetition) mit emotionaler Dringlichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... handelt von einer komplexen Beziehung, die von einer tiefen emotionalen Verbindung und einer gleichzeitigen Ambivalenz geprägt ist.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen und Emotionen ... sind universell und können in verschiedenen Kontexten interpretiert werden.",
+          "Die ambivalente Haltung ... kann als ein Zeichen für die Komplexität menschlicher Emotionen ... Die Spannung ... kann als ein Zeichen für die menschliche Neigung gesehen werden, an Beziehungen festzuhalten, die möglicherweise nicht mehr funktionieren."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Wiederholung \"Every day I'll wait\" und verbindet sie mit einer möglichen Loyalität.",
+          "Nimmt die Textzeilen \"Woke up home half drunk / Got a feeling we ain't done\" als Hinweis auf eine nicht beendete Beziehung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Komplexität der Beziehung, Wiederholung von \"Every day I'll wait\"). Die Unterschiede liegen hauptsächlich im Umfang der spekulativen Kontextualisierung und im Grad der Oberflächlichkeit. Die Varianz ist moderat – einige Modelle (z. B. #5) fügen mehr textbasierte Analyse hinzu, während andere (z. B. #2) stark verallgemeinern.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance zwischen Texttreue und analytischer Tiefe. Sie bleibt weitgehend im Text verankert, nutzt konkrete Bildsprache und erklärt deren Wirkung, während sie nur wenige spekulative Kontextualisierungen einbringt. Für zukünftige LLM‑Interpretationen sollte der Fokus auf textbasierte Evidenz und differenzierte, aber belegbare Deutungen gelegt werden, um Halluzinationen zu minimieren und die analytische Tiefe zu erhöhen."
+  }
+}

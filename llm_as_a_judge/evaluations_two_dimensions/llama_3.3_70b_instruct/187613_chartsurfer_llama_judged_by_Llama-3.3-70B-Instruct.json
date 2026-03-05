@@ -1,0 +1,99 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Sternen und dem Himmel als Symbolen der Liebe und des Universums betont die Unendlichkeit und die Magie der Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine innige und poetische Bitte um Liebe und Wissen, die die tiefe Sehnsucht des Protagonisten nach Verbindung und Erfüllung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des Himmels als 'blackboard' und die Erwähnung von 'A B C' und 'XYZ' als Hinweis auf die Komplexität der Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Sternen und dem Himmel als Symbolen der Liebe und des Universums betont die Unendlichkeit und die Magie der Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine innige und poetische Bitte um Liebe und Wissen, die die tiefe Sehnsucht des Protagonisten nach Verbindung und Erfüllung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des Himmels als 'blackboard' und die Erwähnung von 'A B C' und 'XYZ' als Hinweis auf die Komplexität der Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frage 'Should the teacher stand so near, my love?' deutet auf die körperliche und emotionale Nähe hin, die der Sänger mit seiner Geliebten teilen möchte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist voller Metaphern und Wortspiele, die die Intimität und die Sehnsucht des Sängers ausdrücken."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Zeile 'Did you say I got a lot to learn' als Hinweis auf die Selbstreflexion des Sängers."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Shooting Star, die als Schreibinstrument verwendet wird, um 'I love you' über den Himmel zu schreiben, symbolisiert die Intensität und Leidenschaft der Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der Sehnsucht nach Liebe, Nähe und dem Wunsch, von der Partnerin geleitet und unterrichtet zu werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des Himmels als 'blackboard' und die Erwähnung von 'A B C' und 'XYZ' als Hinweis auf die Komplexität der Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Sternen und dem Himmel als Symbolen der Liebe und des Universums betont die Unendlichkeit und die Magie der Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine innige und poetische Bitte um Liebe und Wissen, die die tiefe Sehnsucht des Protagonisten nach Verbindung und Erfüllung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des Himmels als 'blackboard' und die Erwähnung von 'A B C' und 'XYZ' als Hinweis auf die Komplexität der Liebe."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet unnötige Wiederholungen."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1963 veröffentlicht, eine Zeit, in der die Rolle der Frau in der Gesellschaft sich wandelte.",
+          "Die Sprecherin des Songs repräsentiert eine starke, unabhängige Frau, die ihre Emotionen und Erfahrungen reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie die Metapher der Zeit, unterstreichen die thematische Komplexität des Songs und betonen die emotionale Wirkung auf den Hörer.",
+          "Die emotionale Wirkung des Songs wird durch die Konfrontation der Sprecherin mit ihrer Vergangenheit und der Erinnerung an eine vergangene Beziehung erreicht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die Kernthemen des Textes (Vergänglichkeit, Beziehungsspannungen).",
+          "Verknüpft Textstellen mit einer nachvollziehbaren, wenn auch etwas allgemeinen, Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Wanda Jackson war eine der ersten weiblichen Rock‑'n‑Roll‑Künstlerinnen und ihre Musik spiegelte die Unabhängigkeit und Selbstbestimmung der Frauen wider.",
+          "Der Song kann als Ausdruck dieser Unabhängigkeit und Selbstbestimmung gesehen werden, die die Sprecherin in ihrer Beziehung und in ihrem Leben einfordert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie die Metapher der Zeit, unterstreichen die thematische Komplexität des Songs und betonen die emotionale Wirkung auf den Hörer.",
+          "Die emotionale Wirkung des Songs wird durch die Konfrontation der Sprecherin mit ihrer Vergangenheit und der Erinnerung an eine vergangene Beziehung erreicht."
+        ],
+        "positive_aspekte": [
+          "Bietet einen historischen Kontext zur Künstlerin, was die Interpretation für ein breiteres Publikum interessanter macht.",
+          "Bleibt bei den Hauptthemen des Textes und wiederholt diese konsequent."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Zeit und der Beziehungen.",
+          "Die Zeilen deuten auf eine Art von moralischer Rechenschaft und die Anerkennung der eigenen Verantwortung hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie die Metapher der Zeit, unterstreichen die thematische Komplexität des Songs und betonen die emotionale Wirkung auf den Hörer.",
+          "Der kulturelle und historische Kontext des Songs, der in den 1960er Jahren entstand, ist ebenfalls wichtig, da er die gesellschaftlichen Normen und Erwartungen an Beziehungen und die Rolle der Frau in der Gesellschaft widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Geht über die reine Textwiedergabe hinaus und versucht, eine tiefere symbolische Ebene zu erschließen.",
+          "Verknüpft die Textzeilen mit einer moralischen Interpretation, die das Nachdenken anregt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Zeit und der Beziehungen.",
+          "Die Zeilen deuten auf eine Art von Gerechtigkeit oder Konsequenz hin, die die Sprecherin für die Vergangenheit erwartet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie die Metapher der Zeit, unterstreichen die thematische Komplexität des Songs und betonen die emotionale Wirkung auf den Hörer.",
+          "Der kulturelle und historische Kontext des Songs, der in den 1960er Jahren entstand, ist ebenfalls wichtig, da er die gesellschaftlichen Normen und Erwartungen an Beziehungen und die Rolle der Frau in der Gesellschaft widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um das Motiv von Gerechtigkeit, was dem Text zusätzliche Interpretationsmöglichkeiten gibt.",
+          "Bleibt bei den zentralen Textstellen und verknüpft sie mit einer kohärenten, wenn auch spekulativen, Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1963 veröffentlicht, eine Zeit, in der die Rolle der Frau in der Gesellschaft sich wandelte.",
+          "Die Zeilen deuten auf eine Art von Emanzipation und Selbstbewusstsein hin, das für die damalige Zeit bemerkenswert ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie die Metapher der Zeit, unterstreichen die thematische Komplexität des Songs und betonen die emotionale Wirkung auf den Hörer.",
+          "Die emotionale Wirkung des Songs wird durch die Konfrontation der Sprecherin mit ihrer Vergangenheit und der Erinnerung an eine vergangene Beziehung erreicht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die Hauptthemen des Songs und verbindet sie mit einem historischen Kontext.",
+          "Bietet eine nachvollziehbare Interpretation der Zeilen über Zeit und Beziehung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Vergänglichkeit, Beziehungsspannungen) und nutzen fast identische Formulierungen, wodurch die Varianz gering ist. Der Unterschied liegt hauptsächlich in den zusätzlichen, teils spekulativen, historischen bzw. moralischen Kontexten.",
+    "empfehlung": "Ein Ansatz, der die Textbelege klar kennzeichnet, wenig spekulative Biografie‑ oder Geschichtsinformationen einbringt und gleichzeitig tiefere, textbasierte Analysen (z. B. Mehrdeutigkeit, Symbolik) liefert, ist am ausgewogensten. Interpretation 1 erfüllt diese Kriterien am besten, weil sie die wenigsten unbelegten Behauptungen enthält und dennoch eine kohärente, nachvollziehbare Analyse bietet."
+  }
+}

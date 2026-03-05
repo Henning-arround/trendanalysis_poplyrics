@@ -1,0 +1,99 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Verortung in den frühen 1970er-Jahren als Zeit des gesellschaftlichen Aufbruchs und der Gegenkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen jugendlicher Neugier und elterlicher Warnung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diskrepanz zwischen elterlichem Appell und urbaner Partykultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen jugendlicher Neugier und elterlicher Warnung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Verortung in die frühe 1970-er-Ära"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen jugendlicher Neugier und elterlicher Vorsicht"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Verortung in den frühen 1970er-Jahren als Phase intensiver Gegenkultur und sexueller Liberalisierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Diskrepanz zwischen elterlicher Warnung und jugendlicher Neugierde"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Verortung in den frühen 1970er-Jahren als Phase intensiver Gegenkultur und sexueller Befreiung"
+        ],
+        "oberflächliche_aussagen": [
+          "Ambivalente Warnung vor einer exzessiven Partykultur"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren und weniger auf historische und biografische Spekulationen"
+  }
+}

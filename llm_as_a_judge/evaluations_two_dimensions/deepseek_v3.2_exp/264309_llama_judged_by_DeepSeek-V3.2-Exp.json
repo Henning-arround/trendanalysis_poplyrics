@@ -1,0 +1,91 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Aufforderungen, es easy zu nehmen und sich zu entspannen, suggerieren eine Sehnsucht nach Unbeschwertheit und Freiheit von den Zwängen und Erwartungen der Gesellschaft."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, mit einer guten Analyse der Symbolik und der Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Aufforderungen, es easy zu nehmen und sich zu entspannen, suggerieren eine Sehnsucht nach Unbeschwertheit und Freiheit von den Zwängen und Erwartungen der Gesellschaft."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, mit einer guten Analyse der Symbolik und der Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'The deeper you go, the higher you fly / The higher you fly, the deeper you go' deutet auf eine Art spirituelle oder philosophische Reise hin."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr tiefgehend und bietet eine überzeugende Analyse der Symbolik und der Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Come on, it's such a joy' und 'Take it easy' unterstreicht die Bedeutung von Freude und Entspannung in einer Welt, in der die Menschen oft von ihren Geheimnissen und Sorgen belastet werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Interpretation ist substanziell und bietet eine gute Analyse der Aussagen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist substanziell und bietet eine gute Analyse der Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Aufforderung verstanden werden, sich von den Zwängen der Gesellschaft zu befreien und sich selbst und anderen gegenüber ehrlich und authentisch zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber etwas oberflächlich."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine gute Analyse des Songs.",
+    "empfehlung": "Die Interpretation mit der Nummer 3 bietet die tiefste und überzeugendste Analyse des Songs."
+  }
+}

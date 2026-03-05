@@ -1,0 +1,99 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ginger Rodgers hat mit Fred Astaire gesteppt / Und ich kann über's Wasser gehn' kann als ein Beispiel für die Kontrastierung von Traum und Realität gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint komplexer zu sein, wenn man die Textebene genauer betrachtet."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz auf die legendären Tänzer Ginger Rogers und Fred Astaire dient möglicherweise als eine Art von kulturellem Gedächtnis, das die Sehnsucht nach einer vergangenen, vielleicht glänzenderen Zeit ausdrückt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf der Oberfläche eine Botschaft der Gleichgültigkeit und des Fatalismus zu sein."
+        ],
+        "positive_aspekte": [
+          "Die literarischen Stilmittel, die Westernhagen verwendet, sind vielfältig und vielschichtig."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz auf die legendären Tänzer Ginger Rogers und Fred Astaire dient möglicherweise als eine Art von kulturellem Code, der für Eleganz, Grazie und Sorglosigkeit steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und changiert zwischen Resignation, Zynismus und einer gewissen Sehnsucht nach Sorglosigkeit."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Michael Jackson geht mit kleinen Jungs ins Bett / Und ich kann über's Wasser gehn' unterstreicht die Ambiguität zwischen der Welt der Stars und der Realität des Alltags."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Resignation und Gleichgültigkeit."
+        ],
+        "positive_aspekte": [
+          "Die literarischen Stilmittel, die Westernhagen verwendet, sind vielfältig und vielschichtig."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ginger Rodgers hat mit Fred Astaire gesteppt / Und ich kann über's Wasser gehn' kann als ein Beispiel für die Kontrastierung von Traum und Realität gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint komplexer zu sein, wenn man die Textebene genauer betrachtet."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole unterstreicht die thematische Komplexität des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine durchschnittliche Konsistenz in Bezug auf die Tiefe und die Halluzinationen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

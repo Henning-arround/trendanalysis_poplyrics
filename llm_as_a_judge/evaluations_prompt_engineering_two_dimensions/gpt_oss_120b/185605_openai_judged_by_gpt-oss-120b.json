@@ -1,0 +1,142 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 2003 in einer Phase post‑9/11‑Unsicherheit entstanden, ...",
+          "Gleichzeitig spiegelt es die Indie‑Ästhetik der frühen 2000er wider, Authentizität über kommerzielle Werte stellte.",
+          "Ablehnung von Geld und Zeit kann als Kritik an der wachsenden Ökonomisierung von Beziehungen im frühen 21. Jahrhundert gelesen werden, ...",
+          "Diese offenen Spannungsfelder lassen den Song als kulturelles Spiegelbild einer Zeit im Übergang zwischen persönlicher Intimität und gesellschaftlicher Ökonomisierung fungieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verkörpert eine reduzierte, fast mantraartige Aussage über zwischenmenschliche Bedürfnisse.",
+          "Der Refrain fungiert als Leitmotiv und rhetorische Reduktion komplexer Beziehungsdynamiken.",
+          "Zentrale Botschaft ist das Verlangen nach gegenseitiger Liebe und Respekt, wobei materielle Bedingungen ausgeschlossen werden.",
+          "Gegenüberstellung erzeugt Spannung zwischen Ideal und Alltagsrealität, die nicht aufgelöst wird.",
+          "Stilistisch nutzt Nova einfache, fast kindliche Metaphern … Symbol für Verletzlichkeit und gegenseitige Fürsorge.",
+          "Wiederholtes \"All I need\" wirkt wie ein zirkuläres Narrativ, das den Text in einen meditativen Loop versetzt, Scat‑Singen verwischt Grenzen zwischen Sprache und Klang.",
+          "Wiederholung erzeugt hypnotische Wirkung, versetzt das Publikum in einen Erwartungszustand, ohne klare Auflösung – bewusstes Spiel mit Ambiguitäten."
+        ],
+        "positive_aspekte": [
+          "Zitiert konsequent Textzeilen und erkennt wiederkehrende Motive (Refrain, Herz‑Metapher, Wunde).",
+          "Verknüpft formale Wiederholungen mit einer möglichen hypnotischen Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 2000er‑Jahre, einer Phase zunehmender Individualisierung und gleichzeitig wachsender Diskussion über emotionale Authentizität, reflektiert der Text das Spannungsfeld zwischen Selbstbestimmung und dem Wunsch nach verbindlicher Gemeinschaft.",
+          "Die Betonung von Respekt und Liebe ohne materielle Bedingungen spricht ein post‑modernes Ideal an, das jedoch durch die wiederholte, fast rituelle Formulierung von „all i need“ zugleich die Gefahr einer reduzierten, konsumähnlichen Reduktion komplexer Beziehungen auf ein einziges Bedürfnis offenbart."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verkörpert eine reduzierte, fast mantraartige Forderung nach gegenseitiger Anerkennung.",
+          "Die zentrale Botschaft – ein Bedürfnis nach emotionaler Gleichwertigkeit – wird hervorgehoben.",
+          "Die wiederholte Refrain‑Formel betont thematische Einfachheit, lässt aber Raum für Mehrdeutigkeit.",
+          "Die Gegenüberstellung von materiellen Angeboten und dem Wunsch nach einem synchronen Herzschlag erzeugt Spannung zwischen ökonomischer Distanz und körperlicher Nähe, die nicht eindeutig aufgelöst wird.",
+          "Literarisch nutzt Nova Metaphern wie das „wound on your shoulders“, das sowohl Verletzlichkeit als auch Last suggeriert.",
+          "Das Bild des gegenseitigen Beistands etabliert eine symmetrische Narrative von Fürsorge, jedoch suggeriert die Wiederholung des Wortes „need“ eine implizite Abhängigkeit.",
+          "Das Scat‑Singen wirkt als nonverbale Erweiterung des emotionalen Ausdrucks und eröffnet eine weitere Ebene der Ambiguität.",
+          "Diese Dualität bleibt bewusst offen, ohne dass der Song eine definitive Auflösung anbietet."
+        ],
+        "positive_aspekte": [
+          "Gute Detailgenauigkeit beim Zitieren von Textstellen (Zeilenangaben).",
+          "Erkennt und diskutiert mehrschichtige Bedeutungen von Wiederholungen und Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Ambiguität zwischen ernstem Bekenntnis und spielerischer Improvisation lässt die Aussage offen, ob das Bedürfnis nach Nähe letztlich ein kulturelles Ideal von Partnerschaft oder ein individueller, post‑9/11‑Gefühl von Unsicherheit widerspiegelt.",
+          "Historisch ist das Stück in einer Phase entstanden, in der Singer‑Songwriter*innen vermehrt persönliche Authentizität gegenüber kommerziellen Erwartungen betonten.",
+          "Die Ablehnung von Geld und Zeit kann als Kritik an der wachsenden Ökonomisierung von Beziehungen im frühen 21. Jahrhundert gelesen werden, während die Betonung von Herzschlag und gegenseitiger Unterstützung zugleich ein nostalgisches Bild traditioneller Intimität heraufbeschwört."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song stellt eine einfache, aber mehrschichtige Forderung nach wechselseitiger Zuneigung dar.",
+          "Die Wiederholung fungiert als mantraartige Reduktion komplexer Bedürfnisse auf ein Symbol – das Herz.",
+          "Gleichzeitig bleibt unklar, ob das „All“ materiell oder emotional gemeint ist, weil die Gegenüberstellung von Geld/Zeit und Herzschlag dies offen lässt.",
+          "Stilistisch nutzt Nova Metaphern wie das „wound on your shoulders“, das sowohl körperliche Verletzlichkeit als auch psychische Last impliziert, und positioniert das lyrische Ich als „be there for you“, was wechselseitige Fürsorge suggeriert, jedoch gleichzeitig die Erwartung einer Gegenleistung impliziert.",
+          "Das beiläufige Scat‑Singen am Schluss bricht die verbale Klarheit, eröffnet einen spielerischen, fast jazzigen Raum, in dem die vorherige Ernsthaftigkeit relativiert wird.",
+          "Die wiederholte Formel bleibt bewusst offen, sodass das Publikum die eigene Definition von „genug“ projizieren kann, ohne dass der Text eine endgültige Auflösung bietet."
+        ],
+        "positive_aspekte": [
+          "Konsistente Nennung von Schlüsselmotiven (Herz, Geld/Zeit, Scat).",
+          "Erkennt die offene Natur der Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild der wound … Symbol für kollektive Lasten, die in der post‑9/11‑Ära und den frühen 2000er‑Jahren vermehrt in Popkultur thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verkörpert eine reduzierte, fast mantraartige Forderung nach gegenseitiger Anerkennung.",
+          "Die Bitte nach einer Beziehung, die nicht durch materielle oder zeitliche Verpflichtungen definiert wird, stellt das Herz als Kernsymbol dar.",
+          "Gleichzeitig bleibt die Aussage offen, ob das Herz als biologisches Organ, als Metapher für emotionale Synchronität oder als kulturelles Ideal von Intimität zu verstehen ist – eine Ambiguität, die das lyrische Ich zwischen persönlicher Sehnsucht und gesellschaftlicher Forderung nach Authentizität schwanken lässt.",
+          "Stilistisch nutzt Nova Wiederholungen als hypnotisches Mittel, das die Dringlichkeit des Gesuchten betont und zugleich die Monotonie einer unerfüllten Erwartung suggeriert.",
+          "Die Gegenüberstellung von Hilfe erzeugt ein Spannungsfeld zwischen gegenseitiger Unterstützung und der impliziten Erwartung einer wechselseitigen Verpflichtung, das nicht eindeutig aufgelöst wird.",
+          "Emotional erzeugt das Stück durch die schlichte Sprache und das gelegentliche Scat‑Singen eine Mischung aus Intimität und Unsicherheit, die das Publikum gleichzeitig einlädt, sich zu identifizieren, und es zugleich im Unklaren lässt, ob die geforderte „joy“ ein dauerhaftes Glück oder ein flüchtiger Moment ist.",
+          "Insofern reflektiert der Song die kulturelle Sehnsucht nach simplen, aber tief verankerten menschlichen Verbindungen, während er gleichzeitig die Komplexität moderner Beziehungen – geprägt von ökonomischen Zwängen, zeitlichen Beschränkungen und psychischen Narben – offenlegt, ohne diese Widersprüche zu harmonisieren."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Analyse der Wiederholungsstruktur und ihrer möglichen psychologischen Wirkung.",
+          "Erkennt und diskutiert die Ambiguität des Herz‑Symbols."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Post‑9/11‑Ära einordnen, in der persönliche Sicherheit und zwischenmenschliche Bindungen vermehrt thematisiert wurden.",
+          "Gleichzeitig reflektiert es die frühe 2000er‑Kultur des „individuellen Glücks“ und der Ablehnung von Konsum‑ und Zeitdruck.",
+          "Die wiederholte Formel kann als Kritik an einer konsumorientierten Gesellschaft gelesen werden, während die gleichzeitige Unbestimmtheit des „Bedarfs“ Raum für multiple Deutungen lässt – etwa als Aufruf zu emotionaler Selbstgenügsamkeit oder als Hinweis auf die Unzulänglichkeit rein emotionaler Bindungen, wenn strukturelle Ungleichheiten bestehen bleiben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verkörpert eine reduzierte, fast mantraartige Forderung nach gegenseitiger Anerkennung.",
+          "Die zentrale Botschaft ist relationaler Gleichwertigkeit, als Gegenpol zu materiellen oder zeitlichen Forderungen.",
+          "Die Wiederholung von „that's all i need“ erzeugt Zirkularität, die sowohl Bestätigung als auch Unausweichlichkeit suggeriert, ohne zu definieren, was genau unter „need“ zu verstehen ist.",
+          "Stilistisch nutzt Nova einfache Metaphern („a heart that's beating / With mine“) als Bild für intime Synchronität.",
+          "Das Bild der „wound on your shoulders“ fungiert als Symbol für individuelle Lasten, die durch wechselseitige Präsenz gemildert werden.",
+          "Das Scat‑Element bricht die lyrische Klarheit, erzeugt eine improvisatorische, fast jazzige Unsicherheit, die die vorherige Festlegung des „Bedarfs“ kontrastiert.",
+          "Diese Mehrdeutigkeit bleibt bewusst offen, ohne eindeutige Lösung zu präsentieren."
+        ],
+        "positive_aspekte": [
+          "Verknüpft formale Wiederholungen mit möglichen interpretativen Konsequenzen (Zirkularität, Kritik).",
+          "Bezieht stilistische Mittel (Metaphern, Scat) in die Analyse ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 2.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundbeobachtungen (Wiederholung, Herz‑Metapher, Scat), jedoch variieren sie stark im Anteil spekulativer historischer Kontextualisierungen. Die Varianz der Halluzinations‑Scores ist moderat (2‑4).",
+    "empfehlung": "Interpretation 4 liefert die höchste Faktentreue (nur ein einziger erfundener Kontextbezug) und bleibt dabei analytisch fokussiert auf Textstruktur und Symbolik. Für zukünftige Bewertungen sollte ein stärkeres Gewicht auf textbasierte Evidenz gelegt werden, während spekulative historische Einordnungen klar als Hypothesen gekennzeichnet werden."
+  }
+}

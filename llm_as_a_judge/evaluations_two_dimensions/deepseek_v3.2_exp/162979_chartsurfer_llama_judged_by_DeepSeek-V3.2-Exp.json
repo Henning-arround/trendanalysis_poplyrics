@@ -1,0 +1,108 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kommunikation zwischen dem Mann und seiner Frau ist geprägt von einer lockeren und scherzhaften Atmosphäre",
+          "Der Song endet mit einer Art stillschweigender Übereinkunft"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine humorvolle und unterhaltsame Darstellung eines häuslichen Szenarios",
+          "Die Enttäuschung und Frustration des Mannes werden durch die wiederholte Zeile 'All that meat and no potatoes' zum Ausdruck gebracht"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert",
+          "Die Verwendung von Metaphern wie 'grüne Tomaten' wird erwähnt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach 'Fleisch und Kartoffeln' kann als Symbol für die grundlegenden Bedürfnisse und Wünsche in einer Beziehung gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine humorvolle und unterhaltsame Darstellung eines häuslichen Szenarios",
+          "Die Kommunikation zwischen dem Mann und seiner Frau ist geprägt von einer lockeren und scherzhaften Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert",
+          "Die Metapher 'Fleisch und Kartoffeln' wird tiefgehend analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach 'Fleisch und Kartoffeln' kann als Symbol für die grundlegenden Bedürfnisse und Wünsche in einer Beziehung gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine humorvolle und unterhaltsame Darstellung eines häuslichen Szenarios",
+          "Die Kommunikation zwischen dem Mann und seiner Frau ist geprägt von einer lockeren und scherzhaften Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert",
+          "Die Metapher 'Fleisch und Kartoffeln' wird tiefgehend analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach 'Fleisch und Kartoffeln' kann als Symbol für die grundlegenden Bedürfnisse und Wünsche in einer Beziehung gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine humorvolle und unterhaltsame Darstellung eines häuslichen Szenarios",
+          "Die Kommunikation zwischen dem Mann und seiner Frau ist geprägt von einer lockeren und scherzhaften Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert",
+          "Die Metapher 'Fleisch und Kartoffeln' wird tiefgehend analysiert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine humorvolle und unterhaltsame Darstellung eines häuslichen Szenarios",
+          "Die Interaktion zwischen dem Mann und seiner Frau ist geprägt von einem lockeren und scherzhaften Ton"
+        ],
+        "positive_aspekte": [
+          "Der Songtext wird korrekt interpretiert",
+          "Die Musik und der Gesang von Louis Armstrong werden erwähnt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songtextes, aber auch eine hohe Varianz in der Tiefe der Analyse",
+    "empfehlung": "Die beste Interpretation ist die Nummer 2, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

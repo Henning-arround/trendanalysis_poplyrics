@@ -1,0 +1,105 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Lied im Kontext der 1990er‑Jahre zu sehen, einer Phase, in der das Rauchen noch als Symbol für Rebellion und Sinnsuche galt, gleichzeitig aber zunehmend gesundheitlich kritisiert wurde.",
+          "Die visuelle Metapher des „smoke ring“ fungiert als Symbol für das Verblassen von Identität und Erinnerung und ordnet den Song in ein breiteres kulturelles Narrativ von Verlust, Nostalgie und der Unfähigkeit, vergangene Beziehungen vollständig zu „verbrennen“."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Klare Analyse von Bildmotiven (smoke rings, smoke dreams) und ihrer zirkulären Struktur.",
+          "Erkennt die Mehrdeutigkeit zwischen Vergänglichkeit und Wiederkehr ohne spekulative Abschlüsse."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die späte 1990‑Jahre einordnen, eine Phase, in der Popmusik vermehrt introspektive, postmoderne Themen wie Fragmentierung und das Spiel mit Symbolen aufgriff.",
+          "Das Bild des Zigarettenrauchs verweist auf eine Subkultur des „Smokers“ als Symbol für Rebellion und Selbstinszenierung.",
+          "Die offene Struktur des Textes lässt bewusst Raum für widersprüchliche Deutungen, ohne diese zu harmonisieren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, aber textbasierte Kontextualisierung (musikalisch, kulturell).",
+          "Gute Balance zwischen Beschreibung (Metaphern, Wiederholungen) und Interpretation (Ambiguität, Spannung).",
+          "Wenig spekulative Aussagen, dafür klare Belege aus dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Lied im Kontext der späten 1990er‑Jahre zu sehen, einer Phase, in der das Rauchen noch als Symbol für Rebellion und Sinnlichkeit galt, gleichzeitig aber zunehmend kritisiert wurde.",
+          "In einer Kultur, die das Individuum und seine innere Gefühlswelt stärker thematisierte, fungiert das Rauchen hier als Metapher für das „verbrannte“ Selbst, das dennoch immer wieder neu entfacht wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Bildsprache (visuell‑olfaktorisch) und deren funktionaler Rolle.",
+          "Klare Darstellung des Konflikts zwischen „pretend“ und „heart tells me no“.",
+          "Durchgehend textbezogene Argumentation, nur wenige spekulative Kontextualisierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Lied im Kontext der späten 1990er‑Jahre zu sehen, einer Phase, in der das Rauchen noch als kulturelles Symbol für Rebellion und Sinnlichkeit galt, gleichzeitig aber zunehmend kritisiert wurde.",
+          "Die Verwendung von Zigaretten als Metapher reflektiert damit ein Spannungsfeld zwischen romantischer Nostalgie und gesellschaftlicher Gesundheitsdebatte."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse der doppelten Lesbarkeit der Wiederholung „still smoke rings / bring smoke dreams“.",
+          "Verknüpfung von formaler Wiederholung mit inhaltlicher Spannung (Vergessen vs. Fortbestehen).",
+          "Gut strukturierte Argumentationskette, die den Text konsequent im Blick behält."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext der späten 1990er Jahre, einer Phase zunehmender Postmoderne und der Auflösung traditioneller Liebesideale, reflektiert das Lied die wachsende Sichtbarkeit von inneren Konflikten und die Normalisierung von Selbstreflexion durch Alltagsrituale wie das Rauchen.",
+          "Die Symbolik des Rauchs als Medium, das sowohl verbirgt als auch enthüllt, verknüpft persönliche Trauer mit einer breiteren gesellschaftlichen Tendenz, intime Gefühle in fragmentierten, visuell‑ästhetischen Formen zu artikulieren."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Verknüpfung von formaler Analyse (Wiederholungen, Zirkularität) mit kultureller Kontextualisierung.",
+          "Erkennt die Ambivalenz zwischen Befreiung und Erstickung des Bildes „smoke rings / smoke dreams“.",
+          "Durchgehend textbasierte Argumentation, nur wenige spekulative Ergänzungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Bild des Rauchs als Symbol für Erinnerung/Verlust). Die Unterschiede liegen in der Menge spekulativer historischer/kultureller Kontextualisierungen. Die Varianz der Halluzinations‑Scores ist gering (2‑3), was auf insgesamt moderate Texttreue hinweist.",
+    "empfehlung": "Interpretation 1 liefert die beste Balance aus Texttreue und analytischer Tiefe, da sie nur wenige spekulative Kontextualisierungen enthält und gleichzeitig die Mehrdeutigkeit des Textes fundiert ausarbeitet. Für zukünftige Analysen sollte man die historischen/kulturellen Einordnungen stärker mit konkreten Textbelegen untermauern, um Halluzinations‑Scores weiter zu senken."
+  }
+}

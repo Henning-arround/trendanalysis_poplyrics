@@ -1,0 +1,100 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Zeilen deuten auf eine tiefe emotionale Wirkung und affektive Dimension hin, die den Hörer dazu bringt, über die Komplexität der menschlichen Emotionen nachzudenken."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Geht über reine Dualitäts‑Interpretation hinaus und verknüpft die Textelemente mit zwischenmenschlichen Beziehungen.",
+          "Wenig spekulative Aussagen über die Musik, dafür klare Analyse der Bildsprache."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Darstellung der menschlichen Natur als zweigeteilt und widersprüchlich korreliert mit der emotionalen Wirkung des Songs, die durch die affektive Dimension der Musik und des Gesangs verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse.",
+          "Verknüpft literarische Stilmittel mit der Songbotschaft.",
+          "Erklärt die Wiederholung der Jekyll‑und‑Hyde‑Zeile im Kontext der Unvorhersehbarkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Darstellung der menschlichen Natur als zweigeteilt und widersprüchlich korreliert mit der emotionalen Wirkung des Songs, die durch die affektive Dimension der Musik und des Gesangs verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Ableitung aller Bildsprache aus dem Text.",
+          "Betont die thematische Wiederholung und deren Bedeutung für die Ambiguität.",
+          "Keine unnötigen biografischen oder stilistischen Spekulationen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in der Darstellung dieser inneren Konflikte und der Unberechenbarkeit der menschlichen Natur.",
+          "Die Zeile \"Oh it's killing me your unpredictability\" unterstreicht die affektive Dimension, indem sie die emotionale Belastung thematisiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Verbindung von Textzeilen zu allgemeinen Konzepten von Unberechenbarkeit.",
+          "Erwähnt konsequent die literarische Referenz."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Diese Darstellung der menschlichen Natur als zweigeteilt und widersprüchlich korreliert mit der emotionalen Wirkung des Songs, die durch die affektive Dimension der Musik und des Gesangs verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannungen und Widersprüche, die im Song thematisiert werden, bleiben ungeklärt und lassen den Hörer mit der Frage zurück, ob die menschliche Natur tatsächlich so zweigeteilt und widersprüchlich ist, wie der Song suggeriert."
+        ],
+        "positive_aspekte": [
+          "Klare Aufschlüsselung der wichtigsten Metaphern.",
+          "Bezieht die Wiederholung der Schluszeile in die Analyse ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Dualität, Jekyll‑Hyde‑Referenz, innere Zerrissenheit). Unterschiede liegen im Grad der spekulativen Aussagen über die emotionale Wirkung des Songs. Die Varianz ist gering, was auf ein starkes Muster in den LLM‑Ausgaben hinweist.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Analyse: sie bleibt fast ausschließlich textbasiert, erweitert die Bedeutung um zwischenmenschliche Dynamiken und vermeidet unnötige Spekulationen über die musikalische Wirkung. Für zukünftige LLM‑Bewertungen sollte man Modelle anleiten, explizit zwischen textbasierter Analyse und spekulativen Aussagen zu unterscheiden, um Halluzinationen zu minimieren und die analytische Tiefe zu erhöhen."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "They Only Come Out At Night - Lordi (2006)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Themen Angst, Unsicherheit und die Bedrohung durch das Unbekannte sind universell und können in verschiedenen Kontexten interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist, dass es Kräfte gibt, die nur unter dem Schutz der Nacht agieren und die Ordnung der Welt bedrohen."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2006 veröffentlicht, einer Zeit, in der die globale Sicherheitslage angespannt war und die Angst vor Terrorismus und Gewalt in vielen Ländern präsent war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Verwendung von Imperativen wie 'Gotta stay awake' erzeugen eine emotionale Wirkung der Angst und der Dringlichkeit."
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung des kulturellen, historischen und gesellschaftlichen Kontexts ist ein positiver Aspekt."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Eine tiefere Bedeutungsebene des Songs könnte die Angst vor der eigenen dunklen Seite oder die Angst vor dem Verlust der Kontrolle sein."
+        ],
+        "oberflächliche_aussagen": [
+          "Die symbolische Ordnung des Songs ist geprägt von einer klaren Trennung zwischen Licht und Dunkelheit, Gut und Böse."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität und Spannung im Song ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Eine tiefere Bedeutungsebene des Songs könnte die Angst vor der eigenen dunklen Seite oder die Angst vor dem Verlust der Kontrolle sein."
+        ],
+        "oberflächliche_aussagen": [
+          "Die symbolische Ordnung des Songs ist geprägt von einer klaren Trennung zwischen Licht und Dunkelheit, Gut und Böse."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Metapher für die Angst vor dem Fremden und dem Unbekannten interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Metaphern und Symbolen aufrechterhält die Ambiguität und die Spannung zwischen Licht und Dunkelheit, Ordnung und Chaos."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der komplexen und vielschichtigen Bedeutung des Songs ist gut durchgeführt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die Bedeutung des Songs.",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "It’s Alright - The Osmonds (1973)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unschärfe des zentralen Symbols lässt Raum für verschiedene Deutungen – von einer persönlichen Befreiung bis zu einer kollektiven Sehnsucht nach Sinn in einer fragmentierten Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile „Alright, oh, it’s alright“ fungiert als mantraartiger Anker"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Metaphern und die Struktur des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Osmonds, als Teil einer konservativen Familienband, nutzen hier eine scheinbar leichte Form („it’s alright“) als Schleier für tiefere Fragen nach Sinn und Wahrnehmung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Bestätigung „it’s alright“ kann sowohl als Trost als auch als Verdrängungsmechanismus gelesen werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die stilistischen Mittel und die historische Kontextualisierung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen „Someday just by chance you see what I'm trying to say“ deuten auf eine zukünftige, zufällige Deutung hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile „Alright, oh, it’s alright“ fungiert als mantraartiger Anker"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text und analysiert die stilistischen Mittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Bildsprache von Blitz und Donner verweist auf die damals populäre Esoterik"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song eröffnet mit einer fast mantraartigen Wiederholung von „Alright“, die zugleich als beruhigendes Mantra und als ironischer Verweis auf die Unbestimmtheit des Gesagten fungiert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der stilistischen Mittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die vage, fast mystische Sprache spiegelt die damalige Suche nach Sinn jenseits materieller Sicherheit wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile „Alright, oh, it’s alright“ fungiert als Refrain, der sowohl Beruhigung als auch eine Art resignierte Akzeptanz suggeriert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text und bietet eine Analyse der stilistischen Mittel"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Eine ausgewogene Interpretation, die Textreue mit analytischer Tiefe kombiniert, ist am besten geeignet"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Verquickung koreanischer und englischer Phrasen entsteht ein interkultureller Dialog, der die Grenzen von Zeit und Raum auflöst – ein typisches Merkmal von Drunken Tigers Hip‑Hop‑Ästhetik, die stets zwischen Tradition und Moderne pendelt.",
+          "BTS‑Mitglieder tragen mit ihrer Stimme das Bild einer Generation, die trotz „무의미한 시간“ (sinnloser Zeit) Leben in Kunst einhaucht und damit persönliche Narrative zu kollektiven Ausstellungen erhebt."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das Stück zu einer Reflexion über die Fähigkeit von Musik, Erinnerungen zu konservieren, Identität zu formen und letztlich die Ewigkeit in flüchtigen Augenblicken zu verankern."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar und werden präzise zitiert.",
+          "Die Interpretation erkennt die zentrale Thematik von Vergänglichkeit und Unsterblichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drunken Tiger positioniert sich dabei als „Raptimyst“ – ein Rhythmus‑Magier, der durch Klang die Grenzen der Zeit auflöst.",
+          "Die Zusammenarbeit mit BTS bringt eine zusätzliche Schicht ein: Die jungen Rapper repräsentieren die neue Generation, die das Erbe der Hip‑Hop‑Pioniere weiterträgt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song fordert den Hörer auf, im Moment zu leben, während er gleichzeitig die Idee vermittelt, dass wahre Kunst – wie ein immer wieder gedrückter Play‑Button – niemals wirklich endet."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textstellen werden exakt wiedergegeben und in den Kontext gestellt.",
+          "Die Analyse verbindet Bildsprache (Meer, Berge, Wind) mit dem übergeordneten Motiv der Zeitlosigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die Referenz auf das Jahr 1990, ein Symbol für die Anfänge des Hip‑Hop in Korea, wird ein historischer Kontext geschaffen, der die Entwicklung des Genres und die persönliche Geschichte des Künstlers reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das zentrale Motiv des Songs – die Suche nach einer zeitlosen Identität, die über den flüchtigen Moment hinausreicht – zu einer poetischen Reflexion über Kunst, Erinnerung und das unaufhörliche Streben nach Unsterblichkeit."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textzitaten mit interpretativen Aussagen.",
+          "Erklärt die Wiederholung des Refrains als Mantra, was gut im Text verankert ist."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zusammenarbeit mit BTS bringt eine zusätzliche Dimension von Jugend und globaler Reichweite ein, während die Zeilen über „your whole life was a damn concert“ und das Aufziehen eines neuen „Monsters“ die Verantwortung des Künstlers für kommende Generationen betonen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnah, fast jede Aussage lässt sich auf eine konkrete Zeile zurückführen.",
+          "Verknüpft philosophische Reflexionen (Ursache‑Wirkung) mit den im Song vorkommenden Sprichwörtern."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drunken Tigers Rap‑Stil, gepaart mit BTS‑Vokalen, erzeugt ein Dialog‑Gefühl zwischen Generationen: die ältere, erfahrene Stimme des „Raptimisten“ trifft auf die jugendliche Energie der K‑Pop‑Idole, was das Thema des kulturellen Erbes und der Weitergabe von künstlerischem Feuer unterstreicht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogen, nutzt Zitate aus dem Song, um die Symbolik von Meer, Nebel und Sturm zu erklären.",
+          "Erklärt das Paradoxon von „letztem Album, das für immer bleibt“ sehr präzise."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Halluzinations‑Scores liegen zwischen 3 und 4, die Tiefen‑Scores zwischen 3 und 4 – die Bewertungen sind relativ homogen, es gibt keine extreme Ausreißer.",
+    "empfehlung": "Interpretation 1 (und ebenfalls 2, 4) bieten die beste Balance aus Texttreue und analytischer Tiefe. Sie bleiben nah am Originaltext, vermeiden spekulative Biografien und liefern zugleich fundierte, differenzierte Deutungen."
+  }
+}

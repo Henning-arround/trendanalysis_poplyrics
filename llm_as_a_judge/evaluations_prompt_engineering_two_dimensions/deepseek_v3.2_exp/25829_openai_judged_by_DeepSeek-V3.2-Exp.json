@@ -1,0 +1,104 @@
+{
+  "song": "Es geht mir gut - Westernhagen (1994)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk 1994 in einer Phase des deutschen Wiedervereinigungs‑ und Globalisierungsprozesses entstanden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ambivalent zwischen Trotz und Kapitulation schwankt"
+        ],
+        "positive_aspekte": [
+          "Stilistisch nutzt Marius Müller-Westernhagen eine Collage aus popkulturellen Referenzen",
+          "Die Zeile „und ich kann über’s Wasser gehn“ fungiert als ironisches Selbstüberlebenssymbol"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anspielungen auf internationale Stars spiegeln die Durchdringung nationaler Kultur durch globale Pop‑Ikonen wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen dem beruhigenden Imperativ und der resignierten Aussicht auf verpasste Chancen erzeugt eine mehrschichtige Botschaft"
+        ],
+        "positive_aspekte": [
+          "Stilistisch nutzt der Text fragmentarische Bildsprache und popkulturelle Referenzen",
+          "Die Zeile „Schreib mir mal ’ne Karte, wenn Du da drüben bist“ verweist auf räumliche und emotionale Distanz"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im historischen Kontext von 1994, einer Phase nach der Wiedervereinigung und vor dem Aufstieg des Internets"
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannung zwischen beruhigender Floskel und existenzieller Auszeit erzeugt eine mehrschichtige Botschaft"
+        ],
+        "positive_aspekte": [
+          "Stilistisch nutzt der Text fragmentarische Bildsprache und popkulturelle Referenzen",
+          "Die Wiederholung von „Keine Ahnung, keine Meinung, kein Konzept“ fungiert als Selbstreflexion und zugleich als Ablehnung einer kohärenten Identität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile „Schreib mir mal 'ne Karte, wenn Du da drüben bist“ verweist auf die räumliche Trennung zwischen Ost‑ und Westdeutschland"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz bleibt offen, weil der Sprecher weder erklärt, warum er sich gut fühlt, noch ob die Aussage als Selbstironie zu verstehen ist"
+        ],
+        "positive_aspekte": [
+          "Stilistisch nutzt der Text fragmentarische Bildsprache und popkulturelle Referenzen",
+          "Die Anspielung „Michael Jackson geht mit kleinen Jungs ins Bett“ thematisiert gesellschaftliche Skandalisierung von Prominenten"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Werk 1994 in einer Phase post‑kalten Krieg‑Unsicherheit und wachsender Medienkritik zu verorten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten – etwa die gleichzeitige Verneinung von Sorge und das Eingeständnis von Müdigkeit – erhalten den Song als offene, vielschichtige Reflexion über persönliche und gesellschaftliche Entfremdung"
+        ],
+        "positive_aspekte": [
+          "Stilistisch nutzt Marius Müller-Westernhagen eine Collage aus popkulturellen Referenzen",
+          "Die wiederholte Zeile „Keine Ahnung, keine Meinung, kein Konzept / Keine Lust um aufzustehen“ fungiert als narrativer Leerstelle"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

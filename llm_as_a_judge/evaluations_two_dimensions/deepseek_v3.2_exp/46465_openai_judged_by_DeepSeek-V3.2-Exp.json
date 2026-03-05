@@ -1,0 +1,90 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'every way holds something that's nice' und 'every time holds something that’s better' suggerieren"
+        ],
+        "positive_aspekte": [
+          "Der Text thematisiert die Dynamik von Geben und Nehmen in zwischenmenschlichen Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Prinzip des wechselseitigen Ausgleichs",
+          "ein fast sakrales Ritual"
+        ],
+        "positive_aspekte": [
+          "Der Text thematisiert die Mechanik von Geben‑und‑Nehmen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ein Kreislauf, in dem das Geben zur Pflicht wird"
+        ],
+        "positive_aspekte": [
+          "Der Text thematisiert die Dynamik von Geben und Nehmen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine fragile Balance zwischen Selbstaufopferung, Erwartung und dem unaufhörlichen Wunsch nach Bestätigung"
+        ],
+        "positive_aspekte": [
+          "Der Text thematisiert die Dynamik von Geben und Nehmen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine ironische Reflexion über die Oberflächlichkeit von Gefälligkeiten"
+        ],
+        "positive_aspekte": [
+          "Der Text thematisiert die Dynamik von Geben und Nehmen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Thematik, aber variieren in der Tiefe der Analyse",
+    "empfehlung": "Die dritte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

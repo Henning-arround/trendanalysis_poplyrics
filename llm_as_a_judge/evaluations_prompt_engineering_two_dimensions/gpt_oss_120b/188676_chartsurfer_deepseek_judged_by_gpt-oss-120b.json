@@ -1,0 +1,146 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der 'big room' ist ein Ort der Freiheit und des Friedens (Interpretation, nicht im Text).",
+          "Metaphern und Symbole werden als literarische Stilmittel benannt.",
+          "Der 'big room' wird als Metapher für einen utopischen Raum gedeutet.",
+          "Die Zeile über Kameras deutet auf Intimität und Privatheit hin.",
+          "Die Wiederholung von 'It's alright' wird als Mantra interpretiert.",
+          "Der historische Kontext 2015 wird als Hinweis auf Krisenzeit gedeutet.",
+          "Die Zeile 'Check your problems at the door' wird als Gesellschaftskritik gelesen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Erfahrung und die Suche nach Sicherheit und Geborgenheit.",
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Insgesamt ist der Song eine Reflexion über die menschliche Erfahrung in einer unsicheren Welt."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die wiederholte Einladung im Text (Beleg).",
+          "Er versucht, den historischen Kontext zu berücksichtigen, auch wenn das spekulativ ist."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der 'big room' ist ein Ort der Freiheit und des Friedens.",
+          "Metaphern und Symbole werden als literarische Stilmittel benannt.",
+          "Der 'big room' ist eine Metapher für einen utopischen Raum.",
+          "Die Kamerazeile deutet auf Intimität und Privatheit hin.",
+          "Die Wiederholung von 'It's alright' ist ein beruhigendes Mantra.",
+          "Der Song spiegelt die Krisenwelt von 2015 wider und vermittelt Hoffnung.",
+          "Die Zeile 'Check your problems at the door' ist eine Kritik an der Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Erfahrung und die Suche nach Sicherheit und Geborgenheit.",
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Insgesamt ist der Song eine Reflexion über die menschliche Erfahrung in einer unsicheren Welt."
+        ],
+        "positive_aspekte": [
+          "Er nennt das zentrale Zitat aus dem Text (Beleg).",
+          "Er erkennt die wiederholte Einladung im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der 'big room' ist ein Ort der Freiheit und des Friedens.",
+          "Metaphern und Symbole werden als literarische Stilmittel benannt.",
+          "Der 'big room' ist eine Metapher für einen utopischen Raum.",
+          "Die Kamerazeile deutet auf Intimität und Privatheit hin.",
+          "Der Begriff 'talent' weist auf kreative Entfaltung im Raum hin.",
+          "Die emotionale Wirkung ist beruhigend und tröstend.",
+          "Der Song reagiert auf die zunehmende Komplexität und Unsicherheit der modernen Welt.",
+          "Der 'big room' symbolisiert die Sehnsucht nach einem einfachen Leben.",
+          "Die Bedeutungsebenen bleiben ambig und machen den Song vielschichtig."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Erfahrung und die Suche nach Sicherheit und Geborgenheit."
+        ],
+        "positive_aspekte": [
+          "Er bezieht sich auf das konkrete Zitat 'Check your problems at the door' (Beleg).",
+          "Er erwähnt das wiederholte Motiv 'talent' aus dem Text."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der 'big room' ist ein Ort der Freiheit und des Friedens.",
+          "Metaphern und Symbole werden als literarische Stilmittel benannt.",
+          "Der 'big room' ist eine Metapher für einen utopischen Raum.",
+          "Die Kamerazeile deutet auf Intimität und Privatheit hin.",
+          "Die Wiederholung von 'It's alright' ist ein beruhigendes Mantra.",
+          "Die Phrase kann auch als Verdrängung oder Verleugnung von Problemen gelesen werden.",
+          "Der Song reagiert auf die zunehmende Komplexität und Unsicherheit der modernen Welt.",
+          "Die Zeile 'Check your problems at the door' fordert zum Loslassen der Alltagslasten auf.",
+          "Die emotionale Wirkung ist beruhigend, tröstend und zugleich ambivalent."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Erfahrung und die Suche nach Sicherheit und Geborgenheit.",
+          "Der kulturelle, historische und gesellschaftliche Kontext spielt eine Rolle.",
+          "Insgesamt ist der Song eine Suche nach Ruhe und Frieden in einer chaotischen Welt."
+        ],
+        "positive_aspekte": [
+          "Er erkennt die doppelte Bedeutung der Phrase 'It's alright' (Beruhigung vs. Verdrängung).",
+          "Er liefert eine differenzierte, ambivalente Interpretation, die über reine Oberflächlichkeit hinausgeht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der 'big room' ist ein Ort der Freiheit und des Friedens.",
+          "Metaphern und Symbole werden als literarische Stilmittel benannt.",
+          "Der 'big room' ist eine Metapher für einen utopischen Raum.",
+          "Die Kamerazeile deutet auf Intimität und Privatheit hin.",
+          "Die Wiederholung von 'It's alright' ist ein beruhigendes Mantra.",
+          "Der Song spiegelt die Krisenwelt von 2015 wider und vermittelt Hoffnung.",
+          "Die Zeile 'Check your problems at the door' ist eine Kritik an der Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Reflexion über die menschliche Erfahrung und die Suche nach Sicherheit und Geborgenheit.",
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Insgesamt ist der Song eine Reflexion über die menschliche Erfahrung in einer unsicheren Welt."
+        ],
+        "positive_aspekte": [
+          "Er nennt das zentrale Zitat aus dem Text (Beleg).",
+          "Er erkennt die wiederholte Einladung im Song."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, wodurch die Varianz gering ist; nur Interpretation 4 fügt zusätzliche Ambivalenz‑Analyse hinzu.",
+    "empfehlung": "Ein Ansatz, der neben texttreuen Belegen auch mehr differenzierte, textbasierte Ambivalenz‑Betrachtungen liefert (wie Interpretation 4), ist vorzuziehen. Rein wiederholende, oberflächliche Analysen sollten vermieden werden."
+  }
+}

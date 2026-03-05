@@ -1,0 +1,114 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft kann als Aufforderung zur Großzügigkeit und zum Teilen von Emotionen, Erfahrungen und Ressourcen interpretiert werden.",
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Die \"OJ's gloves\" können als Symbol für eine Art von Schutz oder Verkleidung interpretiert werden, die der Sänger nicht loswerden kann.",
+          "Die \"parrot things on the porch next door\" symbolisieren möglicherweise die Stimmen der Stadt oder der Gesellschaft."
+        ],
+        "positive_aspekte": [
+          "Zitiert korrekt Textstellen (z. B. das Baby‑Bild, die wiederholte Refrain‑Zeile).",
+          "Erkennt die wiederholte Struktur des Refrains und verbindet sie mit dem Thema des Gebens."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Der Text ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Der Song kann im kulturellen, historischen und gesellschaftlichen Kontext interpretiert werden.",
+          "Die Erwähnung von Prince Charles' Amex‑Account deutet auf eine kritische Auseinandersetzung mit Konsumkultur hin.",
+          "Insgesamt zeigt der Song eine tiefe emotionale Wirkung und regt zum Nachdenken an."
+        ],
+        "positive_aspekte": [
+          "Stellt die zentrale Wiederholung („I've got this thing in my heart …“) klar heraus.",
+          "Verknüpft konkrete Bildsprache (z. B. „hard floor of day“, „OJ's gloves“) mit einer Interpretation des Übergangs von Traum zu Realität."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft scheint die Bedeutung von Geben und Teilen zu sein.",
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Die Erwähnung von Prince Charles' Amex‑Account deutet auf eine kritische Auseinandersetzung mit der Gesellschaft hin.",
+          "Der Song kann als Aufforderung zur Reflexion über die Bedeutung von Geben, Teilen und Verbindung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Nutzt korrekte Zitate aus dem Text, um die Analyse zu stützen.",
+          "Identifiziert wiederkehrende Motive (z. B. das Bild des Babys, die wiederholte Refrain‑Zeile)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft ist die Bedeutung von Geben und Teilen.",
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Die \"OJ's gloves\" können als Symbol für Schutz oder Verkleidung interpretiert werden.",
+          "Die \"parrot things\" symbolisieren möglicherweise die Stimmen der Stadt."
+        ],
+        "positive_aspekte": [
+          "Zitiert die Schlüsselleitlinie des Refrains korrekt.",
+          "Verbindet die Bildsprache des Songs mit einer möglichen gesellschaftskritischen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft ist die Bedeutung von Geben und Teilen.",
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Die \"OJ's gloves\" können als Symbol für Schutz oder Verkleidung interpretiert werden.",
+          "Die \"parrot things\" symbolisieren möglicherweise die Stimmen der Stadt."
+        ],
+        "positive_aspekte": [
+          "Verweist korrekt auf die wiederholte Refrain‑Zeile als Kernbotschaft.",
+          "Erkennt die Vielschichtigkeit der Figuren im Café und verbindet sie mit dem Thema Vielfalt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind in Struktur und Inhalt stark ähnlich; es gibt kaum Varianz in Tiefe oder Halluzinationsrate.",
+    "empfehlung": "Die Modelle liefern faktentreue, aber überwiegend oberflächliche Analysen. Ein besserer Ansatz wäre, mehr textbezogene, differenzierte Interpretationen zu erzeugen, die konkrete Bildanalysen mit offenen Mehrdeutigkeiten verbinden, anstatt generische Aussagen zu wiederholen."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Kugel', die sein Leben bestimmt"
+        ],
+        "oberflächliche_aussagen": [
+          "eine tiefe, reine und wahre Liebe"
+        ],
+        "positive_aspekte": [
+          "Der Text wird gut interpretiert, insbesondere die Rolle der Augen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Kugel', die sein Leben bestimmt"
+        ],
+        "oberflächliche_aussagen": [
+          "eine tiefe, reine und wahre Liebe"
+        ],
+        "positive_aspekte": [
+          "Der Text wird gut interpretiert, insbesondere die Rolle der Augen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textbezogene Interpretation, gute Analyse der Augen-Metapher"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textbezogene Interpretation, gute Analyse der Augen-Metapher"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textbezogene Interpretation, gute Analyse der Augen-Metapher"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      3,
+      4,
+      5
+    ],
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine hohe Konsistenz in ihrer textbezogenen Analyse",
+    "empfehlung": "Die Ansätze von Interpretationen 3, 4 und 5 sind empfehlenswert, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bieten"
+  }
+}

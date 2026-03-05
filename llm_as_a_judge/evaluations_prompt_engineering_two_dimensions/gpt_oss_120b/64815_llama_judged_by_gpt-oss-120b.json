@@ -1,0 +1,109 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die Gabriel verwendet, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist eng mit den Themen des Wandels und der Transformation verbunden.",
+          "Die Ambiguitäten und Spannungen im Lied bleiben erhalten und laden den Hörer ein, sich mit den komplexen Themen auseinanderzusetzen."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse fast jeder Zeile.",
+          "Wenig bis keine unbelegte Behauptungen.",
+          "Gute Balance zwischen konkreter Interpretation und Offenheit für Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die Gabriel verwendet, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist eng mit den Themen des Wandels und der Transformation verbunden.",
+          "Die Ambiguitäten und Spannungen im Lied bleiben erhalten und laden den Hörer ein, sich mit den komplexen Themen auseinanderzusetzen."
+        ],
+        "positive_aspekte": [
+          "Besonders präzise Benennung der emotionalen Wirkung („tiefe Melancholie und Verlustangst“).",
+          "Durchgehend textbezogene Argumentation.",
+          "Erkennt die Ambivalenz des Wandels als Chance und Zerstörung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die Gabriel verwendet, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist eng mit den Themen des Wandels und der Transformation verbunden.",
+          "Die Ambiguitäten und Spannungen, die im Lied vorhanden sind, bleiben bewusst ungelöst, um den Hörer zu ermutigen, eigene Interpretationen und Reflexionen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textzeilen mit gesellschaftlichen Implikationen.",
+          "Vermeidet spekulative Biografien oder Genre‑Zuweisungen.",
+          "Stellt die Idee des Wandels als notwendigen Schritt zur Erneuerung klar heraus."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die Gabriel verwendet, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist eng mit den Themen des Wandels und der Transformation verbunden.",
+          "Die Ambiguitäten und Spannungen, die im Lied vorhanden sind, bleiben erhalten und laden den Hörer ein, seine eigene Interpretation zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Saubere Ableitung aller Hauptaussagen aus dem Text.",
+          "Gute Differenzierung zwischen Symbolik („cloth that I weave“) und emotionaler Wirkung.",
+          "Erkennt die wiederholte Aufforderung zum Abschied als zentrales Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die Gabriel verwendet, sind vielfältig und reichhaltig.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Liedes ist eng mit den Themen des Wandels und der Transformation verbunden.",
+          "Die Ambiguitäten und Spannungen im Lied bleiben bewusst ungelöst, um den Hörer zu ermutigen, eigene Interpretationen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Verbindet die Textzeile „we'd better learn to say our goodbyes“ klar mit dem Konzept des notwendigen Wandels.",
+          "Beschreibt die emotionale Wirkung („Verlust und Unbeständigkeit“) präzise.",
+          "Betont die Chance des Wandels neben seiner destruktiven Seite."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch, was zu sehr geringen Varianz in Halluzinations‑ und Tiefenscores führt.",
+    "empfehlung": "Da alle Modelle die Textbasis korrekt wiedergeben, reicht die Differenzierung auf stilistische Nuancen (z. B. konkretere emotionale Beschreibungen) für eine höhere Bewertung. Ein Ansatz, der mehr differenzierte, textgebundene Analysen liefert, wird leicht als überlegen erkannt."
+  }
+}

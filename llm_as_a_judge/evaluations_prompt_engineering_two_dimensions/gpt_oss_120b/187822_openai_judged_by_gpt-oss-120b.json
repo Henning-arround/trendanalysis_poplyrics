@@ -1,0 +1,107 @@
+{
+  "song": "Breaking My Heart - Richard Marx (2022)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im kulturellen Kontext des Jahres 2022 spiegelt das Lied die post‑pandemische Unsicherheit in intimen Beziehungen wider, in der digitale Kommunikation oft zu Missverständnissen führt und das „Ich‑als‑Opfer“-Narrativ verstärkt wird.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song … verhandelt das Motiv des unerwiderten Liebesglücks als wiederkehrendes Narrativ von Verlust und Selbsttäuschung.“"
+        ],
+        "positive_aspekte": [
+          "Sehr textnah: fast jede Aussage wird mit einer konkreten Zeile aus dem Song belegt.",
+          "Analytisch differenziert – erkennt wiederkehrende Metaphern, Loop‑Strukturen und das Spannungsfeld zwischen Vorhersehbarkeit und Naivität.",
+          "Verknüpft stilistische Mittel (Metaphern, Wiederholungen) mit inhaltlichen Bedeutungen, ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im kulturellen Kontext des Jahres 2022, geprägt von digitaler Beziehungsmüdigkeit und einer verstärkten Reflexion über emotionale Authentizität, spiegelt der Text die Angst vor performativem Liebesversagen wider.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song … verhandelt das Motiv des unerwiderten Liebesglücks als wiederkehrende Schleife von Erwartung und Enttäuschung.“"
+        ],
+        "positive_aspekte": [
+          "Gute Balance zwischen reiner Textanalyse und Einordnung in breitere gesellschaftliche Tendenzen (auch wenn diese teilweise spekulativ sind).",
+          "Erkennt die Ambivalenz zwischen Selbstopfer‑ und Selbstschutz‑Motiven und verknüpft sie mit konkreten Zeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im kulturellen Kontext spiegelt das Werk die post‑pandemische Unsicherheit über intime Bindungen wider, in der das Versprechen von Exklusivität zunehmend als unrealistisches Ideal erscheint.“",
+          "„Gleichzeitig lässt die wiederholte Frage nach dem Vorherwissen des Partners an die Pop‑Kultur‑Tropen von ‚tragischen Liebenden‘ anknüpfen, die bewusst das Scheitern inszenieren.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song … verhandelt das Motiv des unerwiderten Liebesglücks als wiederkehrendes Narrativ von Verlust und Selbsttäuschung.“"
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der wiederholten Motive (z. B. Aufwachen, sleepless nights) und ihrer symbolischen Funktion.",
+          "Klare Verknüpfung von Metaphern („under your spell“) mit der Idee von Machtlosigkeit des Subjekts."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im kulturellen Kontext lässt sich das Stück in die Tradition der Pop‑Ballade einordnen, die seit den 1980er‑Jahren das Bild des verletzlichen, aber dennoch selbstbewussten Mann präsentiert.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song … verhandelt das Motiv des unerwiderten Liebesglücks als wiederkehrende Schleife von Erwartung und Enttäuschung.“"
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Bildsprache, Struktur und narrativer Fragmentierung.",
+          "Verbindet lyrische Fragen mit einer übergeordneten Dualität zwischen Retter‑ und Opferrolle."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Symbolisch steht das ‚good‘ für eine erlernte Fähigkeit, die in der Popkultur des 2020er‑Jahre als Zeichen von emotionaler Kompetenz – jedoch zugleich toxischer – interpretiert werden kann.“",
+          "„Im kulturellen Kontext spiegelt das Stück die post‑pandemische Unsicherheit über intime Bindungen wider, in der digitale Kommunikation häufig zu Missverständnissen führt.“"
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song … verhandelt das Motiv des unerwiderten Liebesglücks als wiederkehrendes Narrativ von Erwartung und Enttäuschung.“"
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die zentrale Frage nach Vorhersehbarkeit und die Ambivalenz zwischen Liebe und Unmöglichkeit.",
+          "Bezieht stilistische Mittel (Metaphern, Wiederholungen) in die Interpretation ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernzeilen auf, unterscheiden sich jedoch stark im Anteil spekulativer Kontextualisierungen. Die Halluzinations‑Raten schwanken von moderat (3) bis leicht überdurchschnittlich (4).",
+    "empfehlung": "Interpretation 5 bietet die beste Balance: sie bleibt größtenteils texttreu, liefert eine tiefe, zeilenbezogene Analyse und minimiert spekulative, nicht belegbare Aussagen. Für zukünftige Bewertungen sollte man darauf achten, kulturelle Einordnungen stärker mit konkreten Textbelegen zu verknüpfen, um Halluzinations‑Scores weiter zu senken."
+  }
+}

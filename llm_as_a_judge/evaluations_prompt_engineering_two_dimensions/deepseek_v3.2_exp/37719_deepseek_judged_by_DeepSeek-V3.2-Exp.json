@@ -1,0 +1,95 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer Hedonismus- und Spaßkultur interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Betonung der Bedeutung des aktuellen Moments"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und erwähnt spezifische Textzeilen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer hedonistischen und individualistischen Jugendkultur interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Nacht wird als ein Moment der Freiheit und des unbeschränkten Genusses dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist differenziert und erwähnt Ambivalenzen im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als einprägsame Hymne an die Freude und die Unbeschwertheit interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu und erwähnt spezifische Textzeilen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck einer narcissistischen Selbstinszenierung interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Betonung der Bedeutung eines unvergesslichen Abends"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist differenziert und erwähnt spezifische Textzeilen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als einprägsames Beispiel für eine hymnische Darstellung von Freiheit und Hedonismus interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu, aber oberflächlich"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die vierte Interpretation balanciert Textreue mit analytischer Tiefe am besten"
+  }
+}

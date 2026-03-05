@@ -1,0 +1,91 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "die Rammstein typischerweise in einer rohen, fast rituellen Sprache präsentiert"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Viele textbezogene Analysen (z. B. „Hol weg“ als verzweifelter Versuch, das Unausweichliche zu vertreiben).",
+          "Klare Verknüpfung von Symbolen (Speer, Lanze, weinende Wellen) mit dem Liedinhalt.",
+          "Durchgängige, substanzielle Interpretation ohne Wiederholungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, textbasierte Analyse aller wiederkehrenden Motive.",
+          "Verknüpft die Metapher des Meeres mit menschlicher Existenz, ohne spekulative Biografien.",
+          "Keine vagen Allgemeinplätze, sondern konkrete Bezüge zum Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Krieg, Ausbeutung und existenzieller Verlorenheit mit den Bildungen des Songs.",
+          "Detailreiche Auslegung von „Hol weg“, den weinenden Wellen und der „schwarzen Seele“.",
+          "Durchgehend textgebundene Interpretation, keine spekulativen Ergänzungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse der Dualität von Angriff und Ausstoß.",
+          "Klare Erläuterung des Refrains als Hinweis auf individuelle Verantwortung.",
+          "Keine unnötigen Wiederholungen, sondern differenzierte Textbezüge."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ausführliche Darstellung des Meeres als Metapher für das Unausweichliche.",
+          "Gute Balance zwischen Bildanalyse (Lanze, schwarze Seele) und thematischer Tiefe.",
+          "Keine spekulativen oder biografischen Elemente, reine Textinterpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben eng am Text; nur Interpretation 3 enthält eine minimale, nicht textbasierte Stilbehauptung. Die übrigen zeigen hohe Konsistenz.",
+    "empfehlung": "Interpretationen 1, 2, 4 und 5 erreichen perfekte Texttreue und Tiefe. Sie sind gleichermaßen empfehlenswert; Interpretation 1 ist besonders gelungen durch ihre klare Struktur und umfassende, aber präzise Analyse."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Mischung aus freundlichem Smalltalk und unterschwelliger Drohung spiegelt die wachsende Emanzipation von Frauen wider"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stimme einer weiblichen Künstlerin wie Wanda Jackson ist besonders bedeutsam"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz zwischen nostalgischer Rückschau und unklarer Zukunft bleibt bewusst ungelöst"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Betonung von Zeit als 'funny' lässt Raum für eine kritische Reflexion"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz liegt darin, dass das 'lange' und das 'gestern' gleichzeitig präsent sind"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Betonung des Zeitverlustes resoniert mit dem post-WWII-Gefühl des schnellen gesellschaftlichen Wandels"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erzählstimme bleibt im Präsens, während sie über vergangene Ereignisse reflektiert"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stimme einer ehemaligen Rock-'n-Roll-Künstlerin (Wanda Jackson) reflektiert eine selbstbewusste, aber zugleich verletzte Position"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten – etwa die gleichzeitige Verurteilung und Nostalgie – bleiben ungelöst"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur und -inhalte",
+          "Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textstruktur und -inhalte",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

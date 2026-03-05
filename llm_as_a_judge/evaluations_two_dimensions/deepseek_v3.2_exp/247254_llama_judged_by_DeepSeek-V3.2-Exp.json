@@ -1,0 +1,93 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte entwickelt sich weiter, als das Mädchen mit 17 Jahren wegläuft und der Protagonist nie wieder von ihr hört."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von einer unerfüllten Liebe und der Sehnsucht nach einer verlorenen Beziehung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist größtenteils textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung einer neuen Beziehung des Mädchens mit einem anderen Mann verstärkt die Eifersucht und Verzweiflung des Protagonisten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von einer unerfüllten Liebe und der Sehnsucht nach einer verlorenen Beziehung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist größtenteils textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe unterstreichen die emotionale Turbulenz und die Unsicherheit, die mit der Liebe einhergehen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und analytisch."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe unterstreichen die emotionale Turbulenz und die Unsicherheit, die mit der Liebe einhergehen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und analytisch."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe unterstreichen die emotionale Turbulenz und die Unsicherheit, die mit der Liebe einhergehen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und analytisch."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen eine hohe Konsistenz in ihrer textbezogenen Analyse.",
+    "empfehlung": "Die Interpretationen 3, 4 und 5 bieten eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

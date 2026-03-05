@@ -1,0 +1,102 @@
+{
+  "song": "Streets of Fear - Hawkwind (1981)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die historische Einordnung in das frühe 80er-Jahre-Klima"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'kulturelle Angst vor autoritären Strukturen'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Symbolik",
+          "Die Diskussion über die Ambiguität des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische Erwähnung der 'Cyber-Ästhetik'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'duale Ordnung von Schutz und Bestrafung' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Bedeutung von Macht und Angst im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'energising ray' als 'technisches, fast übernatürliches Werkzeug'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'existenzielle Dualität'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der aggressiven Bildsprache und Symbolik",
+          "Die Diskussion über die Ambivalenz zwischen persönlicher Verantwortung und systemischer Gewalt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische Erwähnung des 'neoliberalen Sicherheitsdiskurses'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'urbane Kulisse als Metapher für ein gesellschaftliches Kontrollsystem' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Bedeutung von Macht und Kontrolle im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'energising ray' als 'techno-magische Kraft'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'technokratische Kontrolle'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Symbolik",
+          "Die Diskussion über die Ambiguität des Textes und die Unsicherheit über die eigene Beteiligung an einem repressiven System"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Symbolik, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate. Es ist ratsam, bei der Analyse von Songtexten auf eine detaillierte und textbasierte Herangehensweise zu achten und spekulative oder allgemeine Aussagen zu vermeiden."
+  }
+}

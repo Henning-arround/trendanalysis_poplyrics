@@ -1,0 +1,97 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die lyrische Stimme von Jay Sean spricht in einem vertraulichen Ton, der von einer leichten Melancholie durchzogen ist"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft nostalgische Sehnsucht mit einer klaren Aufforderung zum Neubeginn"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten Zeilen 'There’s nothing left to say, don’t waste another day' fungieren als Dringlichkeits­signal"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein nostalgischer Aufruf"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft die sanften R&B-Melodien von Jay Sean mit den tanzbaren Reggae-Einflüssen von Sean Paul"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain fungiert als kollektiver Gedächtnisaufruf"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein modernes Liebesmanifest"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft nostalgische Sehnsucht mit einer Einladung zur Wiederbelebung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'If it’s alright with you, then it’s alright with me' signalisieren einvernehmliche Bereitschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Aufruf zur Rekonstruktion einer verlorenen Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft die Erinnerung an vergangene Zweisamkeit als emotionalen Anker"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain fungiert als Mantra, das den Wunsch nach Wiederherstellung einer früheren Intimität in ein fast rituelles Mantra verwandelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Mischung aus Rückblick und Vorwärtsdrang"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft nostalgische Sehnsucht mit einer Einladung, die vergangene Romanze neu zu entfachen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

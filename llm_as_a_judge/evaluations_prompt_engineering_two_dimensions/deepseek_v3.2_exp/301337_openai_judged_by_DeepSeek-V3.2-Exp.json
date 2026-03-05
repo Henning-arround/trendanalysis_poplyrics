@@ -1,0 +1,99 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufforderung, 'move how you want' reflektiert die damalige DIY-Ästhetik"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song feiert das Anderssein, doch verpackt es in ein Format, das selbst stark an konventionelle Pop-Strukturen gebunden ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz zwischen Konformität und individueller Innovation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einbindung japanischer Zählwörter ('Ichi, Ni, San') verweist auf die Globalisierung popkultureller Codes"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain fordert zum 'Fit-in' auf, während er gleichzeitig das 'Fit-out' betont"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Dualität von Konformität und Individualität tiefgehend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Before you know it, they'll be following you' verdeutlicht die ambivalente Haltung gegenüber Kritik"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt damit ein offenes Feld für weitere Deutungen, ohne eine eindeutige Position zu beanspruchen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die thematische Ambivalenz des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einbindung japanischer Zählwörter ('Ichi, Ni, San') verweist auf die Globalisierung pop-kultureller Ästhetik"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine ambivalente Aufforderung zur Individualität"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die lyrische Mehrdeutigkeit des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Gegenüberstellung von Konformität und Rebellion bleibt offen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song stellt das Spannungsfeld zwischen Konformität und individueller Selbstbehauptung in den Mittelpunkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die thematische Ambivalenz des Songs tiefgehend"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der thematischen Ambivalenz des Songs",
+    "empfehlung": "Die Interpretationen sollten stärker auf textbasierte Analysen fokussieren und weniger auf spekulative Aussagen zurückgreifen"
+  }
+}

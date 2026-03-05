@@ -1,0 +1,117 @@
+{
+  "song": "Everybody's Got Something To Hide Except Me And My Monkey - The Beatles (1968)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine Art surrealer, psychedelischer Kommentar zur menschlichen Natur und Gesellschaft interpretiert werden.",
+          "Der Refrain ... suggeriert, dass die meisten Menschen etwas verbergen, während der Sänger und sein \"Monkey\" ... keine Geheimnisse haben.",
+          "Die Zeilen ... deuten auf eine Umkehrung von Erwartungen und eine Verkehrung von Innen- und Außenwelt hin. Dies könnte als Kritik an gesellschaftlichen Konventionen und Normen gesehen werden, die Menschen dazu bringen, ihre wahren Gefühle und Gedanken zu verbergen.",
+          "Der Songtext ist auch von einer gewissen Leichtigkeit und Sorglosigkeit geprägt, die durch die wiederholten Aufforderungen ... vermittelt wird. Dies könnte als Aufruf zur Befreiung von gesellschaftlichen Zwängen und zur Annahme einer carefree‑Attitude interpretiert werden.",
+          "Insgesamt kann der Song als eine Art psychedelische Reflexion über die menschliche Natur, Gesellschaft und die Rolle des Individuums darin gesehen werden, die zum Nachdenken anregt und eine gewisse Freiheit und Leichtigkeit ausstrahlt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf wiederholte Textstellen (z. B. „Come on“, „take it easy“).",
+          "Erkennt die thematische Gegenüberstellung von Innen‑/Außenwelt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine Art surrealer, psychedelischer Kommentar zur menschlichen Natur und Gesellschaft interpretiert werden.",
+          "Der Refrain ... suggeriert, dass die meisten Menschen etwas verbergen, während der Sänger und sein \"Monkey\" ... keine Geheimnisse haben.",
+          "Die Zeilen ... deuten auf eine Art von Umkehrung oder Verkehrung der Perspektive hin, die möglicherweise auf die Erfahrungen der psychedelischen Bewegung der 1960er Jahre anspielt.",
+          "Der Songtext durchbricht zudem konventionelle logische Strukturen und schafft so eine Art von Traum‑ oder Trancezustand, in dem die gewohnten Regeln und Normen außer Kraft gesetzt sind.",
+          "Insgesamt kann der Song als eine Art von Provokation und Infragestellung gesellschaftlicher Konventionen und Erwartungen verstanden werden, bei der die Beatles ihre Zuhörer dazu einladen, die Dinge aus einer neuen, ungewohnten Perspektive zu betrachten und sich von den Zwängen der Realität zu befreien.",
+          "Der Song ist ein Aufruf zur Leichtigkeit, zur Spontanität und zur Befreiung von den Lasten der Gesellschaft."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Nutzt mehrere Textzitate (z. B. „The deeper you go, the higher you fly“).",
+          "Verbindet die Wiederholungen mit einer möglichen psychedelischen Erfahrung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine Art surrealer, psychedelischer Kommentar zur menschlichen Natur und Gesellschaft interpretiert werden.",
+          "Der Refrain ... suggeriert, dass die meisten Menschen etwas verbergen, während der Sänger und sein \"Monkey\" ... keine Geheimnisse haben.",
+          "Die Zeilen ... deuten auf eine Umkehrung von Erwartungen und eine Verkehrung von Innen‑ und Außenwelt hin. Dies könnte als Kritik an gesellschaftlichen Konventionen und der Erwartung, dass Menschen eine bestimmte Fassade aufrechterhalten müssen, interpretiert werden.",
+          "Der Songtext ist auch reich an Wiederholungen und variierenden Aufforderungen, \"come on\" und \"take it easy\", die eine Art von gemeinschaftlicher, befreiender Erfahrung suggerieren. Der Sänger scheint zu einer Art von unbeschwerter, spielerischer Freiheit einzuladen, in der man sich von den Zwängen der Gesellschaft löst und einfach \"easy\" macht.",
+          "Insgesamt kann der Song als eine Art von psychedelischem Manifest für eine freie, unbeschwerte und authentische Lebensweise interpretiert werden, in der man sich von den Erwartungen und Zwängen der Gesellschaft löst und einfach \"kommt, wie man ist\"."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erwähnt explizit die Wiederholung von \"come on\" und \"take it easy\" als stilistisches Merkmal.",
+          "Bietet einen zusammenfassenden „Manifest“-Ansatz, der die Textthematik konsistent verknüpft."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine Art surrealer, psychedelischer Kommentar zur menschlichen Natur und Gesellschaft interpretiert werden.",
+          "Der Refrain ... suggeriert, dass die meisten Menschen etwas verbergen, während der Sänger und sein \"Monkey\" ... keine Geheimnisse haben.",
+          "Die Zeilen ... deuten auf eine Umkehrung von Erwartungen und eine Verkehrung von Innen‑ und Außenwelt hin. Dies könnte als Kritik an gesellschaftlichen Konventionen und der Erwartung, dass Menschen bestimmte Rollen spielen oder Masken tragen müssen, interpretiert werden.",
+          "Der Songtext ist auch reich an Wiederholungen und variierenden Aufforderungen, \"come on\" und \"take it easy\" - diese könnten als Einladung zur Befreiung von Zwängen und zur Suche nach Authentizität verstanden werden.",
+          "Der Einsatz von \"Woo!\"‑Rufen und anderen Lautmalereien unterstreicht die spielerische, experimentelle Atmosphäre des Songs.",
+          "Insgesamt kann der Song als eine Art Hymne an die Freiheit und die Suche nach Authentizität interpretiert werden, in der die Konventionen der Gesellschaft und die Erwartungen an den Einzelnen in Frage gestellt werden.",
+          "Der Sänger und sein \"Monkey\" erscheinen als Symbole der Unschuld und der Befreiung von diesen Zwängen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich mehrfach auf konkrete Textpassagen (z. B. Wiederholungen, \"Woo!\").",
+          "Erkennt das Motiv der Gegenüberstellung von Verbergen vs. Offenheit."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... kann als eine Art surrealer, psychedelischer Kommentar zur menschlichen Natur und Gesellschaft interpretiert werden.",
+          "Der Refrain ... suggeriert, dass die meisten Menschen etwas verbergen, während der Sänger und sein \"Monkey\" ... keine Geheimnisse haben.",
+          "Die Zeilen ... deuten auf eine Umkehrung von Erwartungen und eine Verkehrung von Innen‑ und Außenwelt hin. Dies könnte als Kritik an gesellschaftlichen Konventionen und Normen gesehen werden, die Menschen dazu bringen, ihre wahren Gefühle und Gedanken zu verbergen.",
+          "Der Songtext ist auch von einer gewissen Leichtigkeit und Sorglosigkeit geprägt, die durch die wiederholten Aufforderungen \"Come on, let's take it easy\" und \"Take it easy\" vermittelt wird. Dies könnte als Aufruf zur Befreiung von gesellschaftlichen Zwängen und zur Annahme einer carefree‑Attitude interpretiert werden.",
+          "Insgesamt kann der Song als eine Art psychedelische Reflexion über die menschliche Natur, Gesellschaft und die Rolle des Individuums darin gesehen werden, die zum Nachdenken anregt und eine gewisse Freiheit und Leichtigkeit ausstrahlt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft die wiederholten Imperative („come on“, „take it easy“) mit einer möglichen Botschaft von Leichtigkeit.",
+          "Erkennt die thematische Spannung zwischen „inside out“ und „outside in“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen und unterscheiden sich kaum in Inhalt und Struktur; dadurch ist die Varianz sehr gering.",
+    "empfehlung": "Die vorliegenden Analysen sind stark spekulativ und wenig textnah. Ein besserer Ansatz wäre, mehr direkte Textbelege zu nutzen, mehr Ambivalenz zuzulassen und weniger generische, erfundene Bedeutungen zu projizieren."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Liebe als eine Art dunkle Magie"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des 'alten schwarzen Zaubers'",
+          "Gute Interpretation der körperlichen Empfindungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "eine Mischung aus Kälte und elektrisierender Erregung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher der 'alten schwarzen Magie'",
+          "Gute Interpretation der Schicksalsdimension"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Metapher des 'alten schwarzen Zaubers'",
+          "Gute Interpretation der körperlichen Empfindungen und der Schicksalsdimension"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Auftieg des Aufzugs"
+        ],
+        "oberflächliche_aussagen": [
+          "Liebe als ein Zauber, der zugleich verführerisch, gefährlich und unvermeidlich ist"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher des 'alten schwarzen Zaubers'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ein Zauber, der das Leben des Erzählers bestimmt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metapher der 'alten schwarzen Magie'",
+          "Gute Interpretation der körperlichen Empfindungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Metapher des 'alten schwarzen Zaubers', aber variieren in der Tiefe der Interpretation",
+    "empfehlung": "Die Interpretation 3 bietet die beste Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

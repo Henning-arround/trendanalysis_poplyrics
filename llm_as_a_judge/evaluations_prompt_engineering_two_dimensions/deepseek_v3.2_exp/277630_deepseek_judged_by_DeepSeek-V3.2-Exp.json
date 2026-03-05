@@ -1,0 +1,95 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Darstellung von Gewalt und Verwirrung in einer sozialen Umgebung, die von Misstrauen und Verachtung geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metaphern und Symbole des Liedes sind vielschichtig und reflektieren die komplexe Struktur der sozialen Realität."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, den Songtext in einen kulturellen und historischen Kontext zu setzen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und die Textzeilen vermitteln eine Atmosphäre von Unruhe und Spannung, die durch die Metaphern und Symbole verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher 'Blaster on the back porch' verweist auf die Gewalt, die von außerhalb der Küche ausgeht und die Ruhe und Sicherheit der Küche stört."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Metaphern und Symbole des Liedes zu interpretieren."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Waffe, die in der Küche eingeschossen wird, symbolisiert die Gewalt und die Verwüstung, die sie verursacht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher 'Laughter falling down like rain' verweist auf die Verwüstung und die Verwirrung, die durch die Gewalt verursacht wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Metaphern und Symbole des Liedes zu interpretieren."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 4,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die 'halo' der 'everybody' symbolisiert die Verachtung und das Misstrauen, die in der sozialen Umgebung herrschen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend textbezogen und interpretiert die Metaphern und Symbole des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Liedes ist die Darstellung von Gewalt und Verwirrung in einer sozialen Umgebung, die von Misstrauen und Verachtung geprägt ist."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bleibt weitgehend textbezogen und interpretiert die Metaphern und Symbole des Liedes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die besten Interpretationen (4 und 5) zeichnen sich durch ihre Textbezogenheit und analytische Tiefe aus.",
+    "empfehlung": "Die Interpretationen sollten sich bemühen, textbezogen und analytisch tiefgehend zu sein, ohne in Halluzinationen oder Oberflächlichkeit zu verfallen."
+  }
+}

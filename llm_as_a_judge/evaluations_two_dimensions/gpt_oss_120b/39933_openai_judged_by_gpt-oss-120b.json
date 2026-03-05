@@ -1,0 +1,90 @@
+{
+  "song": "Heavens Rain - Uriah Heep (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sprecher wird von einer Stimme geleitet, die ihn zu einem Ort führen will, den er bereits kennt – ein innerer Rückzugsort, den er jedoch erst durch die Begegnung wieder erkennt."
+        ],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einer Meditation über das Durchbrechen von Selbstzweifeln, das Wiederentdecken von Sinn durch zwischenmenschliche Verbindung und das anschließende Strahlen einer erneuerten, fast sakralen Klarheit, die über das eigene Leiden hinaus auf alle ausstrahlt."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Textbezüge, klare Struktur, viele konkrete Bildanalysen.",
+          "Erkennt die zentrale Wendung „good fortune arrived“ und verknüpft sie konsequent mit den Bildmotiven."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse, kaum spekulative Ergänzungen.",
+          "Verbindet alle lyrischen Motive zu einem kohärenten narrativen Bogen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, aber präzise Interpretation aller wiederkehrenden Bilder.",
+          "Gute Balance zwischen Bilddeutung und übergeordneter Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Letz­tlich vermittelt das Lied die Botschaft, dass wahre Befreiung nicht in der Flucht, sondern im gemeinsamen Erleben einer transzendentalen, reinigenden Kraft liegt, die das Herz aller Menschen erhellt."
+        ],
+        "positive_aspekte": [
+          "Klare, textnahe Argumentation, wenig spekulative Abschweifungen.",
+          "Erkennt die wiederholende Mantra‑Struktur des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Vollständige Auswertung aller lyrischen Elemente ohne unnötige Verallgemeinerungen.",
+          "Starke Verknüpfung von Bildsprache und möglicher symbolischer Bedeutung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Grundthesen, jedoch variiert die Tiefe. Interpretation 4 (und 1/5) zeigen die höchste Konsistenz zwischen Texttreue und analytischer Tiefe, während Interpretation 3 einige spekulative Elemente einbringt.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf textbasierte Argumentation bleiben, aber gleichzeitig darauf geachtet werden, vage Generalisierungen zu vermeiden. Interpretation 4 liefert das beste Gleichgewicht aus Faktentreue und tiefgehender, aber präziser Analyse."
+  }
+}

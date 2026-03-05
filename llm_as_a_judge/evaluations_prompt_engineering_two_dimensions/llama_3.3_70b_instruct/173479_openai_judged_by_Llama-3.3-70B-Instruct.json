@@ -1,0 +1,96 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Debatte über Waffenstillstand und Wiederaufbau"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Symbolik",
+          "Gute Einordnung in den historischen Kontext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Antithese zwischen militärischer Erfahrung und zivilen Perspektiven"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Mehrschichtigkeit"
+        ],
+        "positive_aspekte": [
+          "Gute Darstellung der Spannung zwischen Aufforderung und Widerstand"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ist nicht ein einfacher Pazifismus"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der fragmentarischen Erzählstruktur",
+          "Gute Darstellung der Ambivalenz zwischen Resignation und Gewaltverherrlichung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Er kam aus einer Schlacht nach Haus' spiegelt diese Rückkehr in eine veränderte Gesellschaft wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität"
+        ],
+        "positive_aspekte": [
+          "Gute Darstellung der Spannung zwischen äußerer Gewalt und innerer Sinnsuche"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen dem Wunsch nach Frieden und der gleichzeitigen Präsenz von Gewalt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der fragmentarischen Erzählstruktur",
+          "Gute Darstellung der Ambivalenz zwischen Entwaffnung und Gewalt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und Symbolik, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Metaphern und Symbolik bietet und eine gute Einordnung in den historischen Kontext zeigt"
+  }
+}

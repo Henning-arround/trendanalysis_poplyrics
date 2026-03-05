@@ -1,0 +1,89 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das gelegentliche Scat‑Singen am Ende wirkt wie ein spontaner Ausbruch von Unmittelbarkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Sehnsucht nach authentischer menschlicher Verbundenheit und die Ablehnung materieller und zeitlicher Bindungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das abschließende Scat‑Singen, das keine konkreten Worte mehr nutzt, kann als Ausdruck einer reinen, unvermittelten Kommunikation verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung von gegenseitigem Beistand und das Teilen von Freude"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt der Text eine Botschaft von minimalistischer, aber intensiver Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation hebt die Bedeutung von emotionaler Resonanz und gegenseitigem Mitfühlen hervor"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt der Song ein Bild von Liebe, das auf gegenseitigem Vertrauen, Empathie und dem gemeinsamen Tragen von Lasten beruht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung von emotionalem Echo und gegenseitiger Stütze"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das abschließende Scat‑Singen löst die verbale Struktur auf und lässt Raum für improvisierte Emotionen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation hebt die Bedeutung von gegenseitigem Beistand und emotionaler Resonanz hervor"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Bewertung von Halluzinationen und Tiefe",
+    "empfehlung": "Die Interpretationen sollten weiterhin auf ihre Texttreue und analytische Tiefe überprüft werden, um eine optimale Balance zu finden"
+  }
+}

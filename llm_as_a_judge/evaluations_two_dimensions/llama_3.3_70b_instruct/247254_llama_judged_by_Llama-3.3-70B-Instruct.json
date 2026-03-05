@@ -1,0 +1,99 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Geschichte entwickelt sich weiter, als das Mädchen mit 17 Jahren wegläuft und der Protagonist nie wieder von ihr hört, was auf eine tiefere emotionale Verbindung hindeutet"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erzählung beginnt mit der Beschreibung eines jungen Mädchens, das nach dem Tod ihres Geliebten traurig und allein ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die grundlegenden Elemente des Songtexts ab, wie die unerfüllte Liebe und die Sehnsucht nach einer verlorenen Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung einer neuen Beziehung des Mädchens mit einem anderen Mann verstärkt die Eifersucht und Verzweiflung des Protagonisten, was auf eine komplexe emotionale Dynamik schließen lässt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain 'Here I go again' suggeriert, dass der Protagonist immer wieder in ähnliche Situationen gerät, in denen er verletzt wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe unterstreichen die emotionale Turbulenz und die Unsicherheit, die mit der Liebe einhergehen, was eine tiefere Analyse ermöglicht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe manchmal unerreichbar ist und dass die Menschen durch ihre Handlungen und Entscheidungen andere verletzen können"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine differenzierte Betrachtung der emotionalen Komplexität und der Unberechenbarkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die resignierte Erkenntnis, dass die Liebe manchmal zum Verlust und zur Enttäuschung führen kann, und der Protagonist bleibt mit seiner Sehnsucht und seinem Schmerz zurück, was auf eine realistische Darstellung der Liebe hindeutet"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erzählung beginnt mit der Beschreibung eines jungen Mädchens, das nach dem Tod ihres Geliebten traurig und allein ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Konsequenzen unerfüllter Liebe und die emotionale Last, die der Protagonist trägt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung des Refrains und die Betonung der Unberechenbarkeit der Liebe unterstreichen die emotionale Turbulenz und die Unsicherheit, die mit der Liebe einhergehen, was eine tiefere Analyse ermöglicht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe manchmal unerreichbar ist und dass die Menschen durch ihre Handlungen und Entscheidungen andere verletzen können"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine differenzierte Betrachtung der emotionalen Komplexität und der Unberechenbarkeit der Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Bewertung der emotionalen Komplexität und der Unberechenbarkeit der Liebe, jedoch variieren die Ansätze in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Eine Kombination aus textgetreuer Analyse und tieferer Interpretation der emotionalen Dynamiken und Konsequenzen unerfüllter Liebe würde zu einer umfassenderen und differenzierteren Bewertung des Songs führen"
+  }
+}

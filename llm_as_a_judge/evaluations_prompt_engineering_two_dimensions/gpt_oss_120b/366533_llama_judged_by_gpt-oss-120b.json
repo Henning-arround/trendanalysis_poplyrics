@@ -1,0 +1,92 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Klare Benennung von Metaphern und deren Wirkung",
+          "Explizite Diskussion von Ambiguitäten und Spannungen im Text",
+          "Einbettung in den historischen Kontext ohne vage Verallgemeinerungen"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Die emotionale Wirkung und affektive Dimension des Songs können als Ausdruck der damaligen gesellschaftlichen Sehnsüchte und Erwartungen an Liebe und Beziehungen gesehen werden.“ – sehr allgemeine, nicht näher begründete Aussage."
+        ],
+        "positive_aspekte": [
+          "Gute Textbelege für fast alle Aussagen",
+          "Verknüpfung von Stilmitteln mit emotionaler Wirkung",
+          "Berücksichtigung des 1960er‑Jahre‑Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Metaphern „Umarmung“ und „Kuss“",
+          "Konsistente Diskussion von Ambivalenz zwischen Nähe‑ und Autonomie‑Bedürfnis",
+          "Historischer Kontext wird sachlich eingebunden"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Ableitung von Emotionen aus den konkreten Wortwahlen („honey“, „tenderly“)",
+          "Erklärung der Dringlichkeit durch Wiederholungen",
+          "Klare Verknüpfung von Stilmitteln und deren affektiver Wirkung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ausführliche Betrachtung von Kontrolle vs. Hingabe",
+          "Stilistische Analyse kombiniert mit gesellschaftlichem Wandel der 60er‑Jahre",
+          "Durchgehend textbasierte Argumentation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben sehr nah am Originaltext; die Varianz ist gering (nur Interpretation 1 enthält eine leicht oberflächliche Aussage).",
+    "empfehlung": "Interpretationen 2, 3, 4 und 5 zeigen ein hohes Maß an Texttreue und analytischer Tiefe. Sie sind alle gleichwertig, wobei Interpretation 3 besonders durch die explizite Diskussion von Ambiguitäten besticht. Interpretation 1 ist ebenfalls solide, sollte jedoch vage Generalisierungen vermeiden, um die Tiefe zu maximieren."
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song „Ale Ale“ verknüpft ein Selbstinszenierungsskript von Macht und Exklusivität mit einer fragmentierten, fast kaleidoskopischen Bildsprache.",
+          "Im gesellschaftlichen Kontext spiegelt das Werk die post‑pandemische Hybride von Ost‑West‑Identität, Migration und Konsumkultur wider.",
+          "Die Ambiguitäten – zwischen Selbstermächtigung und Selbstzerstörung, zwischen kultureller Vielfalt und deren Reduktion auf Marken – bleiben bewusst offen, sodass der Hörer zwischen Bewunderung und kritischer Reflexion des rap‑zentrierten Machtspiels hin- und hergerissen ist."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich direkt aus dem Songtext ableiten (6 Belege).",
+          "Detaillierte Analyse von Metaphern, Markenreferenzen und Gewaltmotiven.",
+          "Klare Benennung von Textstellen (Zeilen‑Angaben) erhöht Nachvollziehbarkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text bleibt bewusst mehrdeutig: Während er die Ästhetik des „Street‑Royalties“ zelebriert, lässt er offene Fragen nach der tatsächlichen Subjektivität des Sprechers und der gesellschaftlichen Funktion solcher Selbst‑Mythen im post‑migrant‑deutschen Rap‑Milieu.",
+          "Diese Widersprüche verhindern eine eindeutige Deutung und verdeutlichen die komplexe Verflechtung von Identität, Kapital und Gewalt im zeitgenössischen Hip‑Hop."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen (9 von 11) sind klar aus dem Text ableitbar.",
+          "Umfassende Betrachtung von Marken, geografischen Referenzen und Gewaltmotiven.",
+          "Gute Balance zwischen Textbezug und kritischer Reflexion."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt Capital Bra eine Reihe von Metaphern und Bildschichten, die sich gegenseitig überlagern.",
+          "Die ständige Variation von „Bratan“, „Bra“ und „Wallah“ erzeugt ein interkulturelles Register, das russisch‑deutsche Slang‑Elemente mit arabisch‑islamischen Ausrufen vermischt und damit die transnationalen Identitätslagen des Künstlers betont.",
+          "Im gesellschaftlichen Kontext reflektiert das Werk die post‑pandemische Urbanität Berlins, in der „Berlin lebt, Dubai lebt“ (Zeile 2) die Globalisierung von Lifestyle‑Ideologien und die gleichzeitige Marginalisierung von Subkulturen thematisiert.",
+          "Die Ambiguitäten – zwischen echter Bedrohung und spielerischer Übertreibung, zwischen kultureller Zugehörigkeit und provokativer Entfremdung – bleiben bewusst offen, sodass der Song als Spiegel einer von Konkurrenz, Markenfetischismus und performativem Aggressions‑Ritual geprägten Jugendkultur fungiert."
+        ],
+        "positive_aspekte": [
+          "Fünf klare Belege aus dem Text (Marken, Gewalt, geografische Nennungen).",
+          "Erkennt die mehrdeutige Funktion von Wiederholungen und Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext spiegelt das Lied die post‑pandemische Hybride von Urbanität und Globalisierung wider, in der Berliner Rap‑Identität gleichzeitig mit internationalen Luxus‑Codes verhandelt wird.",
+          "Die ständige Andeutung von Gewalt und das Spiel mit Tabus („Ich fick’ jeden, den du liebst“) erzeugen eine affektive Schockwirkung, die zugleich als Kritik an der Medien‑Sensationalisierung von Rap‑Kultur gelesen werden kann.",
+          "Die Ambiguitäten – zwischen Selbstinszenierung und Selbstzerstörung, zwischen lokaler Zugehörigkeit und globalem Konsum – bleiben ungelöst und verdeutlichen die widersprüchliche Position des Künstlers im Spannungsfeld von Authentizität, Kommerz und gesellschaftlicher Marginalität."
+        ],
+        "positive_aspekte": [
+          "Fünf textbasierte Belege (Marken, LKA, Refrain, etc.).",
+          "Verknüpft Textanalyse mit kultureller Kontextualisierung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext spiegelt das Werk die post‑pandemische Hybride von Globalisierung und lokaler Street‑Credibility wider: Die Verortung in Berlin, das Zittern nach Dubai und die Anspielungen auf das LKA (Zeile 15) verweisen auf ein Spannungsfeld zwischen legaler Kontrolle und informeller Subkultur.",
+          "Diese Ambivalenz zwischen Autonomie und Marktzwang eröffnet eine tiefere Lesart, in der das Lied sowohl Selbstbestätigung als auch kritische Reflexion der eigenen Position im kapitalisierten Rap‑Ökosystem darstellt."
+        ],
+        "positive_aspekte": [
+          "Sechs klare Belege aus dem Text (Geografie, Marken, LKA, Release‑Verschiebungen).",
+          "Gute Analyse von Wiederholungen als hypnotisches Mantra."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben textnah (keine Halluzinationen). Die Tiefe variiert: vier Interpretationen erreichen ein hohes analytisches Niveau (Score 4), während eine (Nr. 5) mehr allgemeine Aussagen enthält (Score 3).",
+    "empfehlung": "Interpretation 1 bietet die beste Balance aus Texttreue und analytischer Tiefe. Sie nutzt zahlreiche konkrete Textbelege, liefert differenzierte Metaphern‑ und Markenanalysen und minimiert vage Allgemeinplätze. Für zukünftige Modelle sollte ein ähnlicher Fokus auf belegbare Textstellen kombiniert mit kritischer, aber textbasierter Reflexion angestrebt werden."
+  }
+}

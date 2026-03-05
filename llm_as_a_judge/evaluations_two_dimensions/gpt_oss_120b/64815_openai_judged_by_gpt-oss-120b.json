@@ -1,0 +1,105 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... wirkt wie ein poetisches Manifest des Übergangs, das zugleich persönliche Reflexion und kollektive Beobachtung verknüpft.",
+          "Durch die Wiederholung der Schlüsselphrasen entsteht ein hypnotischer Rhythmus, der den Hörer in den Fluss des Wandels zieht und das Bewusstsein für die Vergänglichkeit schärft.",
+          "Der Song wird so zu einer Meditation über das ständige Auf und Ab von Geschichte und persönlicher Identität, in der das Loslassen nicht als Verlust, sondern als notwendiger Schritt zur Erneuerung verstanden wird."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse jeder Schlüsselzeile.",
+          "Verknüpfung von Bildsprache (Weben, Sturm) mit konkreten Textstellen.",
+          "Erkennt die Mehrdeutigkeit des Refrains und betont sowohl Unvermeidlichkeit als auch Handlungsoptionen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... wirkt wie ein poetischer Kommentar zu einem epochalen Wandel, der zugleich intim und kollektiver Natur ist.",
+          "Insgesamt verbindet der Song persönliche Reflexion mit einer fast mythologischen Sicht auf den historischen Wandel."
+        ],
+        "positive_aspekte": [
+          "Durchgehend Bezug zu konkreten Textpassagen (z. B. „cloth that I weave“, „say our goodbyes“).",
+          "Erklärt die wiederholte Struktur als zirkuläres Motiv.",
+          "Betont sowohl die individuelle als auch die kollektive Dimension des Umbruchs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... wirkt wie ein poetischer Kommentar zu einem epochalen Wandel, der sowohl persönlich als auch kollektiver Natur ist.",
+          "Insgesamt schildert der Song einen kollektiven, fast mythischen Übergang, in dem das Individuum sowohl Zeuge als auch Mitgestalter einer neuen Weltordnung ist."
+        ],
+        "positive_aspekte": [
+          "Detailreiche Auslegung der Metapher des Webens.",
+          "Verknüpft „peculiar ways that we behave“ mit konkreten Verhaltensmustern im Wandel.",
+          "Hervorhebung des Aufrufs zum Abschied als notwendiger Akt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... wirkt wie ein poetisches Manifest einer epochalen Wende, in der das alte Gefüge der Welt unaufhaltsam zerbricht und ein neues, unbestimmtes Zeitalter heranrückt.",
+          "Insgesamt schildert der Song einen transzendentalen Übergang, in dem das Bewusstsein für den unvermeidlichen Wandel und die Notwendigkeit des Loslassens zu einer fast rituellen Erkenntnis wird, die das Publikum dazu einlädt, den Prozess des Umbruchs nicht zu fürchten, sondern als Teil des fortwährenden Webens des menschlichen Schicksals zu akzeptieren."
+        ],
+        "positive_aspekte": [
+          "Systematischer Bezug zu allen wiederholten Phrasen des Songs.",
+          "Erklärt die Symbolik von „turning“ als Zyklus und Neubeginn.",
+          "Betont die Ohnmacht des Individuums und gleichzeitig den Aufruf zur Akzeptanz."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text ... wirkt wie ein poetisches Manifest des Übergangs, das zugleich persönliche Reflexion und kollektive Beobachtung verknüpft.",
+          "Insgesamt schildert der Song einen kollektiven, fast rituellen Übergang, in dem das Weben von Geschichte, das Akzeptieren des Unvermeidlichen und das bewusste Loslassen zu einer neuen, emergenten Ordnung führen."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der Bildsprache (Weben, „something stirring outside“, „falling“).",
+          "Verknüpft jede wiederholte Zeile mit einer konkreten interpretativen Aussage.",
+          "Betont sowohl die destruktive als auch die befreiende Seite des Zerfalls."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben texttreu (keine Halluzinationen) und zeigen eine konsistente, aber leicht variierende Tiefe. Die Unterschiede liegen hauptsächlich im Anteil oberflächlicher Einleitungen; die Kernanalyse ist durchweg substantiiert.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus textbasierter Detailgenauigkeit und tiefgehender, mehrschichtiger Analyse, ohne unnötige Allgemeinplätze. Für zukünftige Bewertungen sollte der Fokus darauf liegen, die einleitenden Generalisierungen zu reduzieren, um die Tiefe weiter zu erhöhen."
+  }
+}

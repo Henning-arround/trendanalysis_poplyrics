@@ -1,0 +1,95 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist vor allem von einer gewissen Melancholie und Resignation geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Reaktion auf die Umbrüche interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zyklische Natur des Lebens und die Gegensätze des menschlichen Daseins"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick als eine simple, fast schon philosophische Betrachtung über die Vergänglichkeit und den Kreislauf des Lebens erscheint"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Friedensbewegung und die Counterculture-Bewegung jener Zeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'A time for peace, I swear it's not too late' kann als ein Appell für eine friedliche Lösung von Konflikten interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Reflexion über die menschliche Existenz und die Suche nach Sinn und Orientierung in einer komplexen Welt interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Wirkung des Songs und die Verwendung von Verben wie 'turn' und 'change'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'A time for peace, I swear it's not too late' kann als ein Kommentar zu den politischen und sozialen Unruhen der 1960er Jahre interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung von Metaphern und Symbolen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre verortet werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Friedensbewegung und die Counterculture-Bewegung jener Zeit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsscore, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die erste Interpretation liefert eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher die empfehlenswerteste"
+  }
+}

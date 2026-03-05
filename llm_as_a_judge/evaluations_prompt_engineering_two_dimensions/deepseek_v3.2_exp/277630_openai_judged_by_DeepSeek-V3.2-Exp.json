@@ -1,0 +1,95 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Laughter falling down like rain' und 'Everybody wears a halo' kontrastieren mit der Brutalität des Schusses, wodurch ein Symbolgeflecht entsteht, das das Alltägliche (Küche, Nachbarschaft) mit dem Heiligen (Halo) vermischt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song stellt ein fragmentiertes Bild urbaner Gewalt dar, das zugleich alltägliche und surreale Elemente vermischt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz zwischen Traum und Realität sowie die wiederholte Frage nach dem Täter."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext von 1984, einer Zeit intensiver politischer Spannungen und urbaner Gewalt in Nordamerika, reflektiert das Stück die Unsicherheit des Individuums gegenüber institutionellen Strukturen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song stellt ein fragmentiertes Bild einer Gewalttat dar, das zugleich alltägliche und surreale Elemente vermischt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die narrative und stilistische Struktur des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das Klima der 1980er-Jahre einordnen, in dem urbane Gewalt, Drogenkonsum ('drinking gin and joking', Zeile 17) und Polizeipräsenz ('Police arrive', Zeile 9) vermehrt in Popkultur thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse der Symbolik und der offenen Struktur des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die unspezifische '.38' (Zeile 13) verweist auf eine verbreitete Pistole, die in populären Darstellungen von Gewalt häufig vorkommt, und verankert den Text in einem breiten kulturellen Bild von Schusswaffen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song stellt ein rätselhaftes Bild von Gewalt im häuslichen Raum dar, das zugleich alltäglich und surreal wirkt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen Sicherheit und Gefahr."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song stellt ein fragmentiertes Bild einer Gewalttat dar, das zugleich alltäglich und surreal wirkt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die stilistischen Mittel und die kulturelle Einordnung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt bieten sie eine gute Analyse des Songs.",
+    "empfehlung": "Die dritte Interpretation bietet die tiefste und textbezogenste Analyse des Songs."
+  }
+}

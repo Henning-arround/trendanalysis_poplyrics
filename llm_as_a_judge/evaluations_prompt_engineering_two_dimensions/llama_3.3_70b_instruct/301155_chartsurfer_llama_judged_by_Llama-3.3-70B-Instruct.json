@@ -1,0 +1,98 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rolle der Frau in der Gesellschaft sich wandelte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Ain't it funny how time slips away' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der emotionalen Wirkung des Songs durch die Konfrontation der Sprecherin mit ihrer Vergangenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die gesellschaftlichen Normen und Erwartungen an Beziehungen und die Rolle der Frau in der Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Ain't it funny how time slips away' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Unbeständigkeit von Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Rolle der Frau in der Gesellschaft sich wandelte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Ain't it funny how time slips away' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der emotionalen Wirkung des Songs durch die Konfrontation der Sprecherin mit ihrer Vergangenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die gesellschaftlichen Normen und Erwartungen an Beziehungen und die Rolle der Frau in der Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Ain't it funny how time slips away' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Unbeständigkeit von Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Ain't it funny how time slips away' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der emotionalen Wirkung des Songs durch die Konfrontation der Sprecherin mit ihrer Vergangenheit",
+          "Die Betonung der Unabhängigkeit und Selbstbestimmung der Sprecherin"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der emotionalen Wirkung und der Unbeständigkeit von Beziehungen",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine Balance zwischen Textreue und analytischer Tiefe findet, wie in Interpretation 5"
+  }
+}

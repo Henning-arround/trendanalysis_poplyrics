@@ -1,0 +1,111 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Mann ist von ihrer Attraktivität und ihrem Verhalten fasziniert und möchte sie näher kennen.",
+          "Der Mann versucht, sich von der Situation zu distanzieren, aber die Frau holt ihn ein und bietet ihm Trost an.",
+          "Der Song ist ein Ausdruck der Leidenschaft und der Sehnsucht nach Nähe und Intimität, aber auch ein Hinweis auf die Komplexität und die Herausforderungen, die mit solchen Beziehungen einhergehen."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich klar aus dem vorliegenden Songtext ableiten.",
+          "Die Interpretation geht über reine Zusammenfassung hinaus und verbindet einzelne Textstellen zu einem kohärenten Bild.",
+          "Wenig oberflächliche Allgemeinplätze – die wenigen vagen Aussagen sind klar erkennbar."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Mann ist von ihrer Attraktivität und ihrem Verhalten fasziniert und möchte sie näher kennen.",
+          "Der Mann versucht, sich von der Situation zu distanzieren, aber die Frau holt ihn ein und bietet ihm Trost an.",
+          "Der Song ist ein Ausdruck der Leidenschaft und der Sehnsucht nach Nähe und Intimität, aber auch ein Hinweis auf die Komplexität und die Herausforderungen, die mit solchen Beziehungen einhergehen."
+        ],
+        "positive_aspekte": [
+          "Vollständige Textbezüge (Club, langsamer machen, Anruf, Refrain) werden korrekt wiedergegeben.",
+          "Die Analyse verbindet wiederholte Motive („Kontrolle verlieren“, „Leidenschaft“) zu einer übergeordneten Aussage.",
+          "Keine erfundenen Fakten – reine Interpretation des vorhandenen Materials."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Mann ist von ihrer Attraktivität und ihrem Verhalten fasziniert und möchte sie näher kennen.",
+          "Der Mann versucht, sich von der Situation zu distanzieren, aber die Frau holt ihn ein und bietet ihm Trost an.",
+          "Der Song ist ein Ausdruck der Leidenschaft und der Sehnsucht nach Nähe und Intimität, aber auch ein Hinweis auf die Komplexität und die Herausforderungen, die mit solchen Beziehungen einhergehen."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von einzelnen Zeilen zu einer zusammenhängenden Interpretation.",
+          "Alle genannten Szenen (Club, Telefon, Refrain) finden sich im Text wieder.",
+          "Wenig vage Formulierungen – die wenigen Oberflächlichkeiten sind klar identifizierbar."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Mann versucht, sich von ihr zu distanzieren, aber sie drängt ihn, mit ihr zu kommen.",
+          "Der Song endet mit einer Szene, in der die Frau den Mann auffordert, ihre körperlichen und emotionalen Verletzungen zu vergessen."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt kann \"Ride It\" als ein Song über die Komplexität von Beziehungen und die Sehnsucht nach körperlicher und emotionaler Nähe interpretiert werden.",
+          "Der Song ist ein Ausdruck der menschlichen Erfahrung, dass Beziehungen oft kompliziert und vielschichtig sind."
+        ],
+        "positive_aspekte": [
+          "Grundlegende Textbezüge (Club, langsamer machen, Telefon, Refrain) sind korrekt wiedergegeben.",
+          "Die Analyse erkennt die wiederkehrenden Motive von Kontrolle und Leidenschaft.",
+          "Trotz einiger erfundener Details bleibt die Interpretation größtenteils textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Mann ist von ihrer Attraktivität und ihrem Verhalten fasziniert und möchte sie näher kennen.",
+          "Der Mann versucht, sich von der Situation zu distanzieren, aber die Frau holt ihn ein und bietet ihm Trost an.",
+          "Der Song ist ein Ausdruck der Leidenschaft und der Sehnsucht nach Nähe und Intimität, aber auch ein Hinweis auf die Komplexität und die Herausforderungen, die mit solchen Beziehungen einhergehen."
+        ],
+        "positive_aspekte": [
+          "Alle Kernelemente des Songtexts werden korrekt wiedergegeben.",
+          "Die Interpretation verbindet einzelne Textpassagen zu einer konsistenten Lesart.",
+          "Nur wenige vage Formulierungen, die klar als oberflächlich erkennbar sind."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen fast identische Inhalte; nur Interpretation 2 weicht mit erfundenen Details ab, was die Konsistenz leicht reduziert.",
+    "empfehlung": "Interpretationen, die strikt am Text bleiben und gleichzeitig einzelne Motive (z. B. Kontrolle, Leidenschaft, Club‑Szene) analytisch verknüpfen, erzielen die höchste Punktzahl. Kreative Erweiterungen sollten nur dann eingebracht werden, wenn sie klar aus dem Text ableitbar sind."
+  }
+}

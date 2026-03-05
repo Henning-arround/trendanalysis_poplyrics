@@ -1,0 +1,107 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Metaphern wie 'Sternengold und Silbermond' als Symbole für die Führung und Leitung unterstreicht die thematische Komplexität des Songs.",
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Gesellschaft sich von den Folgen des Zweiten Weltkriegs erholte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile 'Sie führen mich von hier, den weiten Weg zu dir' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die literarischen Stilmittel des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Schlagermusik sehr beliebt war.",
+          "Die Verwendung von Naturbildern und Symbolen wie Sternen und Mond kann als eine Art von Escapismus interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile 'Sie führen mich von hier, den weiten Weg zu dir' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Bildern und Symbolen im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Gesellschaft sich von den Folgen des Zweiten Weltkriegs erholte und eine neue Ära des Wohlstands und der Romantik begann.",
+          "Die Zeile 'Meine Worte werden für Sie bald zu einer Glücksmelodie' kann als eine Art von Versprechen oder Hoffnung auf eine bessere Zukunft interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile 'Sie führen mich von hier, den weiten Weg zu dir' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die literarischen Stilmittel des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach einer besseren Zukunft und die Suche nach Trost und Geborgenheit mögen in diesem Kontext eine Rolle gespielt haben."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbolen im Song."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den historischen Kontext und die literarischen Stilmittel des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1960er Jahren, einer Zeit, in der die deutsche Schlagermusik sehr beliebt war.",
+          "Die Verwendung von Naturbildern und Symbolen wie Sternen und Mond kann als eine Art von Escapismus interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach einer geliebten Person thematisiert.",
+          "Die zentrale Botschaft des Songs wird durch die Zeile 'Sie führen mich von hier, den weiten Weg zu dir' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Bildern und Symbolen im Song."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die vierte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs wird durch die Darstellung der Konsequenzen unterstrichen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Jugendkultur und die Party-Szene spielten eine wichtige Rolle in den 1970er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Darstellung der Angst und des Unbehagens erreicht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Zeile 'Open up the window' ist kreativ und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs wird durch die Darstellung der Konsequenzen unterstrichen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Jugendkultur und die Party-Szene spielten eine wichtige Rolle in den 1970er Jahren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Darstellung der Angst und des Unbehagens erreicht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Zeile 'Open up the window' ist kreativ und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs wird durch die Darstellung der Konsequenzen unterstrichen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet allzu kreative, aber unbelegte Aussagen"
+  }
+}

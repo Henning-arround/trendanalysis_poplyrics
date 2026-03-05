@@ -1,0 +1,102 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Wiederholte Erwähnung von Lächeln und die Beschreibung der anderen Person als \"seasonal beast\" legen nahe, dass die Beziehung von einer tiefen emotionalen Verbindung und einer gewissen Unberechenbarkeit geprägt ist.",
+          "Der Song endet mit der Feststellung \"Wir sind nicht allein\", was darauf hindeutet, dass die Beziehung von einer tiefen Verbundenheit und einem Gefühl der Zugehörigkeit geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. die wechselnde Gestalt, die Alkoholszenen, das gegenseitige „Lunacy“).",
+          "Die Analyse bleibt größtenteils textbezogen und vermeidet unbegründete biografische oder stilistische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "In diesen Momenten sind sie einander nahe und können ihre wahren Gefühle ausleben.",
+          "Die Wiederholung des Satzes \"Wir sind nicht allein\" am Ende des Songs unterstreicht diese Verbundenheit und das Gefühl, dass sie in ihrer Beziehung eine Art von Zuhause und Verständnis gefunden haben."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretatorischen Schlüssen (z. B. „Your lunacy fits nicely with my own“).",
+          "Wenig spekulative Ausschmückungen, dafür präzise Textbezüge."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Erwähnung von Lächeln und die Beschreibung der anderen Person als \"seasonal beast\" legen nahe, dass die Beziehung von einer tiefen emotionalen Verbindung und einer gewissen Unberechenbarkeit geprägt ist.",
+          "Der Song endet mit der Feststellung \"Wir sind nicht allein\", was darauf hindeutet, dass die Beziehung einzigartig und speziell ist, aber auch, dass sie Teil eines größeren Ganzen sind, in dem sie ihre emotionalen und psychischen Zustände teilen können."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung, insbesondere bei den Metaphern (Fisch, Porpoise, Baby‑Spermwal).",
+          "Erkennt die Ambivalenz zwischen nächtlicher Intimität und morgendlicher Entfremdung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung wird als eine Art Spiel beschrieben, bei dem beide Partner ihre Rollen wechseln und sich an die Launen des anderen anpassen.",
+          "Die Zeile \"We're not alone\" deutet darauf hin, dass diese Art von Beziehung nicht einzigartig ist, sondern dass es andere gibt, die ähnliche Erfahrungen machen.",
+          "Der Song beschreibt auch die Akzeptanz und das Einverständnis in diese ungewöhnliche Beziehung, in der die \"Madness\" und \"Lunacy\" des Partners als Teil des eigenen Lebens akzeptiert werden.",
+          "Naturbilder und die Verwendung von Meeresmetaphern unterstreichen die Unberechenbarkeit und die Tiefe der Emotionen, die in dieser Beziehung erlebt werden."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich aus dem Text ableiten, es gibt keine erfundenen biografischen Details.",
+          "Erfasst die Grundthematik von Veränderung und Alkoholeinfluss."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung wird als eine Art Spiel beschrieben, bei dem beide Partner ihre Rollen wechseln und sich an die Launen des anderen anpassen.",
+          "Die Zeile \"We're not alone\" deutet darauf hin, dass diese Art von Beziehung nicht einzigartig ist, sondern dass es andere gibt, die ähnliche Erfahrungen machen.",
+          "Der Song beschreibt auch die Akzeptanz und das Einverständnis in diese ungewöhnliche Beziehung, in der die \"Madness\" und \"Lunacy\" des Partners als Teil der eigenen Identität akzeptiert werden."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge zu den Metaphern und zur Alkoholsituation.",
+          "Vermeidet spekulative Aussagen über den Künstler oder das Genre."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Moderat – die fünf Analysen wiederholen dieselben Grundthesen, unterscheiden sich jedoch im Anteil an oberflächlichen, nicht textgebundenen Formulierungen.",
+    "empfehlung": "Interpretationen, die fast ausschließlich textbasierte Aussagen nutzen und nur wenige vage, generische Bemerkungen enthalten (z. B. Interpretation 1, 3 und 5), erzielen die höchste kombinierte Bewertung. Ein Ansatz, der konkrete Textstellen mit offenen, mehrdeutigen Deutungen verknüpft, ist am erfolgversprechendsten."
+  }
+}

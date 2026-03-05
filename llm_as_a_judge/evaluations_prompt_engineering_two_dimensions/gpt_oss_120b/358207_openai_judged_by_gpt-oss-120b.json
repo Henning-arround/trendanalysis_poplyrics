@@ -1,0 +1,146 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Stück in die Tradition der späten 1990‑bis‑2000er‑Popballaden einordnen, die persönliche Liebe als transzendente Kraft stilisieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft persönliche Sehnsucht mit einer fast mythologischen Konstruktion des „Anderen“ als Quelle von Hoffnung und Sinn.",
+          "Die Eröffnungszeilen setzen ein Bild von einer Rissstelle zwischen Gegensätzen, das zugleich Verletzlichkeit und Möglichkeit impliziert.",
+          "Diese Dualität wird im weiteren Verlauf durch das Bild einer „cloak of deceit / Brings honour to shame\" verstärkt, das moralische Ambivalenz suggeriert.",
+          "Die wiederholte Frage „Where are you now?“ bleibt unbeantwortet und erzeugt ein offenes Vakuum.",
+          "Im Refrain fungieren Metaphern als symbolische Leitbilder, die sowohl Zukunftsversprechen als auch Rettungsnarrativ tragen.",
+          "Gleichzeitig erzeugt die Gegenüberstellung von „first“ und „last\" eine zeitliche Spannung, die das Subjekt zugleich Ursprung und Endpunkt macht.",
+          "Die Zeile „You are the future from the past\" verknüpft Erinnerung und Erwartung, lässt jedoch offen, ob das „Future\" bereits determiniert ist.",
+          "Die wiederholte Anrufung des „you\" ohne konkrete Kontextualisierung spiegelt ein postmodernes Motiv wider.",
+          "Die Ambiguitäten erzeugen ein Spannungsfeld, das den Hörer zwingt, zwischen romantischer Idealisierung und kritischer Reflexion zu oszillieren."
+        ],
+        "positive_aspekte": [
+          "Gute Textbelege für zentrale Metaphern (tear, cloak, distant horizon).",
+          "Erkennt die Ambivalenz von „first/last\" und die offene Frage nach dem Gegenüber."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in die Post‑2000‑Pop‑Ballade einordnen, die häufig persönliche Beziehungen als kosmische Kräfte stilisiert, was in einer Zeit zunehmender Globalisierung und individueller Unsicherheit resoniert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft in seiner Kernbotschaft ein Spannungsfeld zwischen persönlicher Sehnsucht und einer fast mythologischen Verheißung von Zukunft und Erlösung.",
+          "Die wiederholte Aussage stellt das lyrische Ich in Abhängigkeit von einer anderen Person, die zugleich „the first“ und „the last\" ist.",
+          "Gleichzeitig wird die Beziehung ambivalent, weil das Subjekt sowohl Trost als auch Täuschung impliziert.",
+          "Stilistisch dominieren Metaphern und Bildsprache, etwa das „tear in the seam\" als Symbol für ein Rissstück im Gefüge von Freude und Leid.",
+          "Die „distant horizon\" wird als Bild für ein unerreichbares, aber erstrebenswertes Ziel interpretiert.",
+          "Die Wiederholung von „You are the …\" erzeugt ein anaphorisches Muster, das die Identität des Gegenübers in verschiedene Rollen zwingt.",
+          "Die Zeile „The one I must follow\" suggeriert eine narrative Bewegung, die jedoch nie konkretisiert wird.",
+          "Der Einsatz von „Oom hm…\" bricht die sprachliche Klarheit und lässt Raum für eine meditative, fast rituelle Dimension.",
+          "Die Textpassage „Words can't explain / But the truth I think you know\" offenbart die Unzulänglichkeit sprachlicher Mittel.",
+          "Diese Ambiguitäten bleiben offen, ohne dass der Song eine definitive Auflösung anbietet."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Metaphern (tear, cloak, distant horizon) und deren mögliche Bedeutungen.",
+          "Hinweis auf das anaphorische Muster und die offene Struktur des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 21. Jahrhunderts reflektiert das Stück die post‑moderne Sehnsucht nach stabilen Identitätsanker*innen in einer von Unsicherheit geprägten Zeit.",
+          "Die Bildsprache von „light in the dark“ und „sun through the rain\" erinnert an klassische Romantik, wird jedoch in einer Pop‑Ballade verpackt, was die Hybridität von Hoch‑ und Popkultur verdeutlicht.",
+          "Kulturell lässt sich das Stück in die Tradition der späten 1990‑bis‑2000er‑Popballaden einordnen, die persönliche Liebe als transzendente Kraft stilisieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft persönliche Sehnsucht mit einer fast mythologischen Konstruktion von Zeit und Identität.",
+          "Die Eröffnungszeilen setzen ein Bild von einer Rissstelle zwischen Gegensätzen, das zugleich das Fortbestehen des Lebens suggeriert.",
+          "Diese Spannung zwischen Dualität und Kontinuität wird durch das Bild einer „cloak of deceit / Brings honour to shame\" weiter verstärkt.",
+          "Der Refrain verlagert den Fokus auf ein externalisiertes „You\", das als „the reason / My faith in tomorrow\" fungiert.",
+          "Die lyrische Sprache nutzt wiederholte Metaphern, die eine zeitlose, fast rituelle Ordnung suggerieren, während gleichzeitig das Wort „truth\" als „words can't explain\" bezeichnet wird.",
+          "Diese Diskrepanz zwischen dem Bedürfnis nach narrativer Klarheit und der Anerkennung sprachlicher Grenzen erzeugt ein Spannungsfeld.",
+          "Die wiederholte Anrede „You are to me…You are\" löst die zuvor etablierte Struktur auf, indem sie das Subjekt in ein undefiniertes, fast transzendentes „Du\" überführt.",
+          "Die Ambiguitäten – etwa die gleichzeitige Verherrlichung und Verurteilung von Täuschung, das unbenannte „You\" und die unübersetzbare „truth\" – bleiben bewusst offen."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Bildsprache (tear, cloak, distant horizon).",
+          "Verweist auf die wiederholte Anrufung des „You\" und die damit verbundene Ambiguität."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich der Text in den Kontext der frühen 2000er-Jahre einordnen, einer Phase, in der Pop‑Balladen häufig persönliche Narrative mit globalen Hoffnungen verknüpften, um post‑milleniale Unsicherheiten zu adressieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft persönliche Sehnsucht mit einer fast mythologischen Konstruktion des „Anderen\" als Quelle von Hoffnung und Orientierung.",
+          "Die Eröffnungszeilen setzen ein Bild von einer Rissstelle zwischen Gegensätzen, das zugleich Verletzlichkeit und Möglichkeit impliziert.",
+          "Diese Dualität wird im weiteren Verlauf durch das Bild einer „cloak of deceit / Brings honour to shame\" verstärkt, das die Ambivalenz von Schein und Wirklichkeit thematisiert.",
+          "Der Refrain stellt das Gegenüber als „the reason / My faith in tomorrow\" dar, wobei die Metapher einer „distant horizon\" sowohl Zielgerichtetheit als auch Unbestimmtheit suggeriert.",
+          "Die lyrische Sprache nutzt wiederholte Parataxen, um eine zeitlose, fast sakrale Kontinuität zu erzeugen.",
+          "Die Formulierung „the spell that has been cast\" suggeriert eine magische, aber zugleich unfreiwillige Bindung.",
+          "Die Spannung zwischen Befreiung („Until you are free\") und Festhalten („I could never let you go\") erzeugt ein paradoxes Beziehungsmodell.",
+          "Die wiederholte Anrufung des Gegenübers ohne klare Identität lässt Raum für multiple Deutungen – als Geliebte, als Ideologie oder als kollektives Zukunftsversprechen.",
+          "Die wiederholte Gegenüberstellung von „past\" und „future\" reflektiert ein gesellschaftliches Spannungsfeld zwischen nostalgischer Erinnerung und dem Drang nach Fortschritt.",
+          "Gleichzeitig bleibt die Bedeutung des „Anderen\" bewusst mehrdeutig; das Lied bietet weder eine definitive Auflösung noch ein klares Subjekt."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Wiederholungen und ihrer möglichen Funktion.",
+          "Erkennt die Ambivalenz zwischen Befreiung und Festhalten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Stück in die Post‑2000‑Pop‑Ballade einordnen, die nach einer globalisierten Unsicherheit nach stabilen, fast spirituellen Ankerpunkten sucht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft persönliche Sehnsucht mit einer fast mythologischen Konstruktion des „Anderen\" als Quelle von Hoffnung und Sinn.",
+          "Die Eröffnungszeilen setzen ein Bild von einer Rissstelle zwischen Gegensätzen, das die Ambivalenz von Genuss und Leid betont und zugleich den Übergang zu einer existenziellen „Cloak of deceit / Brings honour to shame\" eröffnet.",
+          "Diese Dualität bleibt ungelöst, weil das „voice I used to know\" sowohl Erinnerung als auch Verlust impliziert.",
+          "Im Refrain wird das lyrische Ich zum „reason\" (Grund) für „faith in tomorrow\" und zu einem „distant horizon\", wobei das Bild des Horizonts sowohl Ziel als auch unerreichbare Ferne suggeriert.",
+          "Die Wiederholung von „You are the first, You are the last\" erzeugt eine zeitlose Schleife, die das Subjekt zugleich einrahmt und entzieht, während die Zeile „I could never let you go\" ein Spannungsfeld zwischen Besitzanspruch und Unmöglichkeit des Loslassens offenbart.",
+          "Die Metapher „light in the dark / the sun through the rain\" fungiert als universelles Symbol für Erlösung, bleibt jedoch vage, weil das „dark\" nicht definiert wird.",
+          "Die wiederholte Verknüpfung von Vergangenheit und Zukunft („You are the future from the past\") reflektiert ein nostalgisches Narrativ, das zugleich Fortschritt verheißt, ohne die Widersprüche zwischen Erinnerung und Erwartung zu lösen.",
+          "So bleibt der Text ein offenes Feld, in dem Liebe, Hoffnung und Täuschung simultan koexistieren und die Hörer*innen zur eigenen Deutung der unausgesprochenen „truth\" (Zeile 18) herausfordern."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Bildsprache (tear, cloak, horizon) und deren Mehrdeutigkeit.",
+          "Hinweis auf das Motiv von „first/last\" und die offene Struktur des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen ähnliche Kernthesen (Metaphern, Ambiguität, kulturelle Einordnung). Die ersten vier zeigen vergleichbare Halluzinations‑ und Tiefenwerte, während Interpretation 5 deutlich mehr erfundene Kontextualisierungen enthält und daher niedriger bewertet wird.",
+    "empfehlung": "Interpretationen 1‑4 balancieren Texttreue und analytische Tiefe gut; sie bleiben nahe am Liedtext, vermeiden unbegründete biografische oder historische Behauptungen und bieten zugleich substanzielle, textbezogene Analysen. Für zukünftige LLM‑Interpretationen sollte der Fokus auf belegbare Textstellen und differenzierte, aber textbasierte Deutungen gelegt werden, um Halluzinationen zu minimieren und die analytische Tiefe zu erhöhen."
+  }
+}

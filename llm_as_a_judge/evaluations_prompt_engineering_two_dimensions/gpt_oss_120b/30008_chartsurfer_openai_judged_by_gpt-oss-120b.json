@@ -1,0 +1,109 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine klaren Erfindungen erkennbar; alle Aussagen lassen sich aus dem Text oder allgemein bekannten historischen Fakten ableiten."
+        ],
+        "oberflächliche_aussagen": [
+          "Keine rein vagen Allgemeinplätze; jede Beobachtung wird mit konkreten Textbeispielen belegt."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse von Wiederholungen, Metaphern (Reception, Kiss) und deren narrativer Funktion.",
+          "Klare Verknüpfung von Kindheits‑Lernformel zu erwachsenen Themen, inkl. Ambivalenz‑Betonung.",
+          "Stilistische und kulturelle Einordnung wird stets mit Textbeispielen untermauert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine erkennbaren Erfindungen; alle historischen Angaben (1970er‑Jahre) und stilistischen Beobachtungen sind durch den Text gedeckt."
+        ],
+        "oberflächliche_aussagen": [
+          "Keine vagen Allgemeinplätze; jede Aussage wird mit konkreten Zeilen aus dem Song belegt."
+        ],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Form, Inhalt und historischer Kontextualisierung.",
+          "Hervorhebung der Beobachter‑Rolle von „Dick“ als distanziertes Subjekt.",
+          "Ausgewogene Diskussion von Hoffnung, Verzweiflung und posthumer Sehnsucht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine spekulativen Biografiedetails; alle Aussagen beruhen auf dem Songtext oder allgemein bekannten Kontexten."
+        ],
+        "oberflächliche_aussagen": [
+          "Keine oberflächlichen Floskeln; jede Beobachtung wird mit Textbeispielen verknüpft."
+        ],
+        "positive_aspekte": [
+          "Klare Herausarbeitung des Motivs des Kusses als Symbol für unerreichbare Nähe und posthume Versöhnung.",
+          "Präzise Analyse der Wiederholungsstruktur als „mantraartiges Erinnerungsritual\".",
+          "Gute Balance zwischen textbasierter Analyse und Hinweis auf kulturelle Prägung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Alle Aussagen lassen sich aus dem Text ableiten; keine unbelegten biografischen Details."
+        ],
+        "oberflächliche_aussagen": [
+          "Keine vagen Formulierungen; jede Behauptung wird mit konkreten Zeilen belegt."
+        ],
+        "positive_aspekte": [
+          "Ausführliche Erläuterung der Spannung zwischen kindlicher Unschuld und erwachsenem Verlust.",
+          "Stilistische Analyse (schulische Syntax, Selbstironie) ist textnah.",
+          "Historische Einordnung in die 1970‑er‑Popkultur wird sachlich dargestellt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine erkennbaren Erfindungen; alle historischen Angaben (1970er) sind korrekt."
+        ],
+        "oberflächliche_aussagen": [
+          "Einige Passagen wiederholen bereits genannte Beobachtungen in leicht veränderter Form (z. B. „die Wiederholung des Refrains erzeugt ein zyklisches Narrativ\"), was als leicht oberflächlich eingestuft wird."
+        ],
+        "positive_aspekte": [
+          "Klare Darstellung der zyklischen Struktur und der fehlenden Auflösung.",
+          "Verknüpfung von Rollenbildern und Geschlechterdynamik wird thematisiert.",
+          "Historischer Kontext wird korrekt benannt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.8,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben weitgehend konsistent in ihrer Textbezug‑ und Kontext‑Bewertung; die Varianz liegt hauptsächlich im Detailgrad (Tiefe) der einzelnen Ausführungen.",
+    "empfehlung": "Interpretation 1 bietet die beste Balance aus faktentreuer Analyse und tiefgehender, textbasierter Interpretation. Sie verbindet klare Belege mit einer nuancierten Diskussion von Ambivalenzen, ohne in spekulative oder oberflächliche Aussagen abzurutschen."
+  }
+}

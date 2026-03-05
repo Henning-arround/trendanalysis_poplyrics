@@ -1,0 +1,107 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die jugendliche Rebellion und die Suche nach Freiheit und Vergnügen interpretiert werden.",
+          "Der Sänger ist von der Party angezogen, obwohl er weiß, dass sie nicht der richtige Weg ist, um Spaß zu haben.",
+          "Insgesamt beschreibt der Song eine Szene der Exzesse und der Desillusionierung, in der der Sänger erkennen muss, dass die wilde Party nicht die Erfüllung ist, die er sich erhofft hat.",
+          "Die Mahnung der Mutter wird zu einer Art von Gewissen, das ihn auf den richtigen Weg zurückführt."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen lassen sich direkt aus dem Text ableiten (z. B. das Öffnen des Fensters, die Zeile „That ain't the way to have fun, son“).",
+          "Die Interpretation verbindet Textbeobachtungen mit einer nachvollziehbaren, aber nicht übertriebenen, metaphorischen Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Blues‑Rock‑Klassiker, der die Themen von Exzess, Verfall und Reue behandelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an der exzessiven Lebensweise und den negativen Auswirkungen, die sie auf die Menschen haben kann."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Beobachtungen sind textnah (z. B. die chaotische Atmosphäre, die Warnung der Mutter).",
+          "Wenig spekulative Biografie‑ oder Genre‑Angaben, nur ein einziger erfundener Fakt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die jugendliche Rebellion und die Suche nach Freiheit und Vergnügen interpretiert werden.",
+          "Der Sänger ist von der Party angezogen, obwohl er weiß, dass sie nicht das ist, was er wirklich will.",
+          "Insgesamt ist \"Mama Told Me Not To Come\" ein Song über die jugendliche Erfahrung, die Suche nach Identität und die Spannung zwischen Vernunft und Vergnügen.",
+          "Der Songtext zeichnet ein lebendiges Bild einer chaotischen Party und reflektiert die Gefühle von Reue und Enttäuschung, die oft mit solchen Erfahrungen einhergehen."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich aus dem Text ableiten, keine falschen Fakten.",
+          "Klare Struktur: Beschreibung, Mutter‑Stimme, Metapher‑Hinweis."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Blues‑Rock‑Klassiker, der die Themen von Exzess, Verfall und Reue behandelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an der exzessiven Lebensweise und den negativen Auswirkungen, die sie auf die Menschen haben kann."
+        ],
+        "positive_aspekte": [
+          "Identisch zur ersten Interpretation – sehr textnahe Analyse.",
+          "Nur ein einziger erfundener Fakt, sonst solide."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die jugendliche Rebellion und die Suche nach Freiheit und Vergnügen interpretiert werden.",
+          "Der Sänger ist von der Party angezogen, obwohl er weiß, dass sie nicht das ist, was er wirklich will.",
+          "Insgesamt ist \"Mama Told Me Not To Come\" ein Song über die jugendliche Erfahrung, die Suche nach Identität und die Spannung zwischen Vernunft und Vergnügen.",
+          "Der Songtext zeichnet ein lebendiges Bild einer chaotischen Party und reflektiert die Gefühle von Reue und Enttäuschung, die oft mit solchen Erfahrungen einhergehen."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen basieren auf dem Text, keine falschen historischen oder biografischen Angaben.",
+          "Verknüpft Textdetails (Fenster öffnen, wiederholte Zeilen) mit einer übergeordneten Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen fast identische Inhalte; nur Interpretation 3 liefert zusätzliche, weniger oberflächliche Einsichten. Die Varianz ist gering, was auf ein hohes Maß an Redundanz hinweist.",
+    "empfehlung": "Interpretation 3 ist am ausgewogensten: sie bleibt texttreu, enthält kaum erfundene Fakten und bietet zugleich eine tiefere, aber noch textbasierte Analyse. Die anderen Versionen sind entweder zu generisch oder enthalten unnötige Genre‑Behauptungen."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Selbstsicherheit und Unsicherheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich mit Themen wie Macht, Status, Beziehungen und Identität auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung literarischer Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frau, die die Protagonisten des Songs begehren, wird als 'Pussy süß, so wie ein Bubble Tea' beschrieben"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern und Symbolen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs und seine affektive Dimension"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach Einfluss und Anerkennung zu sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich mit Themen wie Macht, Status, Beziehungen und Identität auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet den kulturellen, historischen und gesellschaftlichen Kontext des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert die Werte und Normen einer bestimmten sozialen Gruppe"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern und Symbolen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Wirkung des Songs und seine affektive Dimension"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zwischen materiellen Genüssen und sozialem Status wird hergestellt"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung literarischer Stilmittel wie Metaphern und Symbole und analysiert die emotionale Wirkung des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsscore",
+    "empfehlung": "Die fünfte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

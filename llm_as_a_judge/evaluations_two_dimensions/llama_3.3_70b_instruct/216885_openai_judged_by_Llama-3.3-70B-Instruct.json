@@ -1,0 +1,99 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You can go and have your fun' wirkt wie ein resignierter Freiraum"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des kalten Bettes und des leeren Sitzes symbolisiert emotionale Kälte und das Fehlen von Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen 'When times are hard, feels out of place / Our fading love takes us back to yesterday' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You can go and have your fun' offenbart eine tolerante Haltung gegenüber individueller Freiheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild der 'paper walls' suggeriert eine zerbrechliche, doch dennoch umschließende Struktur"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen 'When times are hard, feels out of place / Our fading love takes us back to yesterday' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You can go and have your fun' wirkt wie ein verzweifelter Versuch, die Bindung zu stabilisieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des kalten Bettes und des leeren Sitzes symbolisiert emotionale Kälte und das Fehlen von Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen 'When times are hard, feels out of place / Our fading love takes us back to yesterday' ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You can go and have your fun' offenbart eine tolerante Haltung gegenüber individueller Freiheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild der 'paper walls' beschreibt die zerbrechliche, doch doch undurchdringliche Barriere"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen 'When times are hard, feels out of place / Our fading love takes us back to yesterday' ist okay"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You can go and have your fun' suggeriert eine Mischung aus Flucht und Klarheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild der 'paper walls' symbolisiert die zerbrechliche, doch doch greifbare Grenze"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeilen 'When times are hard, feels out of place / Our fading love takes us back to yesterday' ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Variationen in der Tiefe und Halluzination",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpreten spielen mit der Idee, dass die Kunst eine Möglichkeit ist, die Zeit zu überwinden und die Vergänglichkeit zu überwinden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich mit Themen wie Zeit, Vergänglichkeit und Unsterblichkeit auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'It's timeless' unterstreicht die Idee, dass es Dinge gibt, die über die Zeit hinausgehen und unsterblich sind."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist voller Anspielungen auf die Kunst, die Musik und die Literatur."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich mit Themen wie Zeit, Vergänglichkeit und Unsterblichkeit auseinandersetzt.",
+          "Der Song endet mit der Aussage 'You ain't dead', was darauf hindeutet, dass die Seele oder der Geist des Künstlers auch nach dem Tod weiterlebt."
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Your whole life was a damn concert' suggeriert, dass das Leben selbst eine Art Kunstwerk ist, das von Anfang bis Ende komponiert und aufgeführt wird."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist voller Anspielungen auf die Kunst, die Musik und die Literatur.",
+          "Die Interpreten spielen mit der Idee, dass die Kunst eine Möglichkeit ist, die Zeit zu überwinden und die Vergänglichkeit zu überwinden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich mit Themen wie Zeit, Vergänglichkeit und Unsterblichkeit auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'It's timeless' unterstreicht die Idee, dass es Dinge gibt, die über die Zeit hinausgehen und unsterblich sind."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist auch voller autobiografischer Anspielungen und Reflexionen über das Leben und die Karriere der Interpreten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das sich mit Themen wie Zeit, Vergänglichkeit und Unsterblichkeit auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'Your whole life was a damn concert' suggeriert, dass das Leben selbst eine Art Kunstwerk ist, das von Anfang bis Ende komponiert und aufgeführt wird.",
+          "Der Song endet mit der Aussage 'You ain't dead', was darauf hindeutet, dass die Seele oder der Geist des Künstlers auch nach dem Tod weiterlebt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 5,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine tiefgründige Reflexion über die Zeit, die Vergänglichkeit des Lebens und die Unsterblichkeit der Kunst."
+        ],
+        "positive_aspekte": [
+          "Die Musik und der Text spielen mit der Idee, dass die Zeit rückwärts läuft, und dass die Vergangenheit, Gegenwart und Zukunft miteinander verbunden sind.",
+          "Der Refrain 'It's timeless' unterstreicht die Vorstellung, dass bestimmte Dinge, wie die Seele oder die Kunst, unsterblich sind und nicht von der Zeit beeinflusst werden."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Analyse des Songs.",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet und kaum Halluzinationen enthält."
+  }
+}

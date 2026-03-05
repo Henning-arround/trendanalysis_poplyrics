@@ -1,0 +1,95 @@
+{
+  "song": "I Know - Vanilla Ninja (2005)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin durchschaut deren Fassade und erkennt, dass es sich um einen 'lucky loser' handelt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die Absichten der angesprochenen Person"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin stellt sich dagegen als jemand dar, der Authentizität und Tiefe in Beziehungen sucht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare Analyse der Sängerin und ihrer Haltung gegenüber der angesprochenen Person"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin macht deutlich, dass die andere Person nicht gut genug für sie ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin bleibt selbstbewusst und unabhängig"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Haltung der Sängerin zu erklären"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin macht deutlich, dass die andere Person nicht gut genug für sie ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin bleibt selbstbewusst und unabhängig"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Haltung der Sängerin zu erklären"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin macht deutlich, dass die andere Person nicht gut genug für sie ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin bleibt selbstbewusst und unabhängig"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Haltung der Sängerin zu erklären"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 sind sehr ähnlich und zeigen eine geringe Varianz",
+    "empfehlung": "Die Interpretationen 1 und 2 bieten eine bessere Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

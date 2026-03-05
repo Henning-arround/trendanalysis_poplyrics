@@ -1,0 +1,99 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguitäten bleiben ungelöst und erzeugen ein offenes Feld, in dem die Hörer*innen eigene Bedeutungen konstruieren können, ohne dass der Text eine eindeutige Auflösung anbietet."
+        ],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext der 1980er-Jahre, einer Phase intensiver Selbstreflexion und postmodernen Identitätskrisen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die maritime Symbolik und die saisonalen Zyklen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung maritimer Symbolik reflektiert zugleich das zeitgenössische Interesse an Ökologie und dem 'Rückzug ins Unbewusste' (Wasser als Symbol des Unbewussten)."
+        ],
+        "oberflächliche_aussagen": [
+          "Kulturell lässt sich das Stück in die 1980er-Jahre einordnen, in denen postmoderne Diskurse über Identität, Fluidität und die Auflösung fester Geschlechter- und Rollenbilder aufkamen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Gegenüberstellung von Rausch und Klarheit."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguitäten erzeugen ein Spannungsfeld, das weder Auflösung noch klare Moral bietet."
+        ],
+        "oberflächliche_aussagen": [
+          "Historisch lässt sich das Stück in die Mitte der 1980er Jahre einordnen, einer Phase, in der postmoderne Diskurse über Fragmentierung und Identitätsfluidität in der Popkultur aufkamen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die zyklischen Naturgesetze und lunaren Rhythmen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'So until your blood runs to meet the next full moon' verknüpft biologische Rhythmen mit lunaren Symbolen, wodurch eine weitere Ebene von 'madness' und 'lunacy' eröffnet wird, die zugleich persönliche und kollektive Wahnsinns-Narrative verknüpft."
+        ],
+        "oberflächliche_aussagen": [
+          "Kulturell verortet sich das Stück im Kontext der 1980er-Jahre, einer Phase intensiver Auseinandersetzung mit Konsum- und Subkultur-Identitäten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die emotionale Ebene durch kontrastierende Zustände."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text reflektiert damit das kulturelle Klima von Unsicherheit und dem Wunsch nach fluiden, nicht-binären Selbstkonzepten"
+        ],
+        "oberflächliche_aussagen": [
+          "Historisch lässt sich das Stück in die Mitte der 1980er-Jahre einordnen, einer Phase, in der Popkultur vermehrt postmoderne Identitätsfragen und ökologische Metaphern aufgriff."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die zyklischen Metaphern für emotionale Schwankungen und saisonale Verwandlungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Textinhalte.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren und weniger auf allgemeine kulturelle Kontextualisierungen."
+  }
+}

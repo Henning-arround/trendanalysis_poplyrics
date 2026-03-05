@@ -1,0 +1,136 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine melancholische und nachdenkliche Ballade …",
+          "Der Refrain \"Leg die Knarre weg\" kann als Aufforderung interpretiert werden …",
+          "Der Song ist auch eine Kritik an der Gesellschaft, die Menschen in solche Situationen bringt …",
+          "Der Satz \"Es war zwar ohne Zweck und Sinn, doch ganz und gar korrekt\" zeigt …",
+          "Der Refrain wird so zu einem Symbol für die Sehnsucht nach Frieden und Ruhe …"
+        ],
+        "oberflächliche_aussagen": [
+          "Er ist desillusioniert und findet keinen Sinn mehr im Leben.",
+          "Der Protagonist ist ein Opfer dieser Gesellschaft und findet keinen Ausweg.",
+          "Der Song endet mit der resignierenden Erkenntnis, dass es keinen Ausweg gibt („Hh - nie!“)."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf mehrere Textzeilen (z. B. „Es war zwar ohne Zweck und Sinn…“).",
+          "Versucht, die wiederholte Aufforderung als Symbol für einen tieferen Wunsch nach Frieden zu deuten."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine melancholische und nachdenkliche Ballade …",
+          "Die wiederkehrende Aufforderung kann als ein innerer Monolog interpretiert werden …",
+          "Die Zeile lässt darauf schließen, dass der Protagonist ein Leben führt, das von Konventionen …",
+          "Die abschließende Zeile kann als resignierende Feststellung interpretiert werden …",
+          "Der Song ist eine Kritik an der Gesellschaft …",
+          "Der Songtext ist ein Kommentar zu den Erfahrungen der Nachkriegszeit …"
+        ],
+        "oberflächliche_aussagen": [
+          "Er ist desillusioniert und findet keinen Sinn mehr im Leben.",
+          "Überall dort erlebt er Gewalt, Ziellosigkeit und Einsamkeit.",
+          "Die Menschen um ihn herum sprechen ihm zwar zu …"
+        ],
+        "positive_aspekte": [
+          "Identifiziert die wiederholte Struktur des Textes (Rückkehr, Schiff, Camp).",
+          "Zitiert die Schlüssellinie „Es war zwar ohne Zweck und Sinn, doch ganz und gar korrekt“."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine melancholische und nachdenkliche Ballade …",
+          "Die wiederkehrende Aufforderung kann als ein innerer Monolog interpretiert werden …",
+          "Die Zeile lässt darauf schließen, dass der Protagonist ein Leben führt, das von Konventionen …",
+          "Die abschließende Zeile kann als resignierende Feststellung interpretiert werden …",
+          "Der Song ist eine Kritik an der Gesellschaft …",
+          "Der Songtext ist ein Kommentar zu den Erfahrungen der Nachkriegszeit …"
+        ],
+        "oberflächliche_aussagen": [
+          "Er ist desillusioniert und findet keinen Sinn mehr im Leben.",
+          "Überall dort erlebt er Gewalt, Ziellosigkeit und Einsamkeit.",
+          "Die Menschen um ihn herum sprechen ihm zwar zu …"
+        ],
+        "positive_aspekte": [
+          "Verweist auf mehrere Textstellen (Schlacht, Schiff, Camp).",
+          "Betont die wiederholte Aufforderung, die Waffe niederzulegen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine melancholische und nachdenkliche Ballade …",
+          "Die wiederkehrende Aufforderung kann als ein innerer Monolog interpretiert werden …",
+          "Die anderen Menschen in seinem Umfeld reagieren auf ihn mit Gleichgültigkeit oder sogar Aggression.",
+          "Die Aufforderung bleibt bis zum Ende des Songs bestehen und kann als ein Appell zur Selbstreflexion interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Er ist desillusioniert und findet keinen Sinn mehr im Leben.",
+          "Überall dort erlebt er Gewalt, Ziellosigkeit und Einsamkeit.",
+          "Der Protagonist selbst scheint resigniert zu haben …",
+          "Insgesamt beschreibt der Song ein düsteres Bild der menschlichen Existenz …"
+        ],
+        "positive_aspekte": [
+          "Zitiert exakt die Zeile „Hh - nie!“ und die Schlusszeile „D'rum leg' die Knarre weg“.",
+          "Erkennt die wiederholte Struktur (Krieg → Schiff → Camp) und verbindet sie mit einer möglichen Selbstreflexion."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist eine melancholische und nachdenkliche Ballade …",
+          "Der Refrain kann als Aufforderung interpretiert werden …",
+          "Der Song kann als Kritik an der Gesellschaft und der Politik interpretiert werden …",
+          "Die Zeile deutet darauf hin, dass der Protagonist ein Leben führt, das von Konventionen …",
+          "Die Schlusszeile wird als resignierende Feststellung interpretiert …",
+          "Der Song ist eine Klage … und ein Aufruf, die Gewalt zu lassen …"
+        ],
+        "oberflächliche_aussagen": [
+          "Er ist desillusioniert und findet keinen Sinn mehr im Leben.",
+          "Der Protagonist ist ein Opfer der Umstände …"
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf die Textzeilen „ganz und gar korrekt“ und „D'rum leg' die Knarre weg“.",
+          "Erwähnt explizit die mögliche politische Dimension des Textes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 1.4,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Melancholie, Krieg, Aufforderung zum Ablegen der Waffe) und unterscheiden sich kaum in ihrer Analyse. Die Varianz ist gering; nur Interpretation 2 liefert etwas mehr substanzielle Textbezüge und damit eine höhere Tiefe.",
+    "empfehlung": "Interpretation 2 ist am ausgewogensten: Sie bleibt relativ textnah, liefert konkrete Zitate und bietet eine etwas differenziertere Analyse, ohne zu stark zu spekulieren. Für zukünftige Modelle sollte der Fokus stärker auf belegbare Textstellen gelegt und spekulative gesellschaftliche oder historische Kontextualisierungen nur dann eingebracht werden, wenn sie klar aus dem Text ableitbar sind."
+  }
+}

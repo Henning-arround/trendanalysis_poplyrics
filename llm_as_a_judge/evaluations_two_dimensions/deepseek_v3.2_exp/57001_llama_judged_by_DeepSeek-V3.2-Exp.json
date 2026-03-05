@@ -1,0 +1,89 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Protagonistin scheint in einer Welt zu leben, die von Oberflächlichkeit und Entfremdung geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die toxische Beziehung und die emotionale Abhängigkeit der Protagonistin"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Songtexte malen ein Bild von einer Person, die in einer Welt der Entfremdung und des Schmerzes gefangen ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Sehnsucht nach Verbindung und Nähe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Protagonistin scheint in einer Welt zu leben, die von Oberflächlichkeit und Entfremdung geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die toxische Beziehung und die emotionale Abhängigkeit der Protagonistin"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Protagonistin scheint in einer Welt zu leben, die von Oberflächlichkeit und Entfremdung geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die toxische Beziehung und die emotionale Abhängigkeit der Protagonistin"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Protagonistin scheint in einer Welt zu leben, die von Oberflächlichkeit und Entfremdung geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die toxische Beziehung und die emotionale Abhängigkeit der Protagonistin"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der toxischen Beziehung und der emotionalen Abhängigkeit der Protagonistin",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

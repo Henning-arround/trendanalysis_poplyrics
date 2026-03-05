@@ -1,0 +1,102 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambivalenz zwischen persönlicher Glückseligkeit und globaler Verantwortung bleibt ungelöst"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild einer persönlichen, fast schon sakralen Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Individualität und Universalität",
+          "Die Betonung der Ambivalenz zwischen Inklusion und Exklusivität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von Sorgen und Versöhnung eröffnet ein Spannungsfeld zwischen romantischer Idealität und alltäglicher Konfliktrealität"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Fest als allumfassende Lösung für das Fehlen von Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der wiederholten Bezugnahme auf Straße ins Glück und Menschen, die winken zurück"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Gegenüberstellung von Konflikt und Versöhnung erzeugt ein narratives Pendel zwischen Spannung und Auflösung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild von Wolken und Größe zu einer leicht schwebenden Metapher"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen individueller Intimität und kollektiver Verantwortung",
+          "Die Betonung der Ambivalenz zwischen persönlicher Bindung und globaler Utopie"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Spannung zwischen persönlicher Ekstase und der Forderung nach kollektiver Teilnahme bleibt ungelöst"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Fest als Symbol für Gemeinschaft und Dauerhaftigkeit"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der wiederholten Wendung Wir grüßen die Menschen und sie winken zurück"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguitäten lassen das Lied sowohl als hoffnungsvolle Hymne als auch als kritische Reflexion über die Grenzen romantischer Utopien erscheinen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild einer persönlichen, fast schon sakralen Beziehung als Voraussetzung für dieses kollektive Fest"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen romantischer Idealität und gesellschaftlicher Realität",
+          "Die Betonung der Ambivalenz zwischen individueller Liebe und globaler Utopie"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Ambivalenzen und Mehrdeutigkeiten im Text",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und betont die Ambivalenzen und Mehrdeutigkeiten im Text"
+  }
+}

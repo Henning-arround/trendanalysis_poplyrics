@@ -1,0 +1,98 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische Kontext, in dem der Song entstand, wird als 1980er‑Jahre‑Unruhen bezeichnet – ein Bezug, der im Text nicht vorkommt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse der Metaphern, Bildsprache und narrativen Struktur.",
+          "Durchgehend textbezogene Argumentation, kaum vage Allgemeinplätze."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs wird mit den sozialen und politischen Unruhen der 1980er Jahre verknüpft, obwohl der Text keine solchen Bezüge liefert."
+        ],
+        "oberflächliche_aussagen": [
+          "„Ambiguitäten und Spannungen … bleiben ungelöst und lassen den Hörer zu eigenen Interpretationen anregen.“ – eine sehr allgemeine Feststellung ohne konkrete Textanalyse."
+        ],
+        "positive_aspekte": [
+          "Gute Erfassung der wiederholten Frage als zentrales Motiv.",
+          "Klare Benennung von Stilmitteln (Metapher, Bildsprache) und deren Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext der 1980er Jahre könnte eine Rolle spielen – spekulativ, da der Text keine historischen Anhaltspunkte gibt.",
+          "Die Wiederholung der Frage wird als Hinweis auf die Suche nach Wahrheit und Verantwortung interpretiert – ebenfalls nicht aus dem Text ableitbar."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Metapher, Bildsprache und möglicher kollektiver Verdrängung.",
+          "Stetige Verknüpfung von Textstelle zu interpretativem Ergebnis."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische Kontext wird als 1980er‑Jahre‑Unruhen beschrieben, obwohl der Songtext keine solche Kontextualisierung enthält."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, aber präzise Analyse der wiederholten Frage und ihrer Implikationen.",
+          "Verknüpfung von Bildsprache, Stimmung und gesellschaftlicher Kritik ohne vage Floskeln."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext der 1980er Jahre wird als Hintergrund für soziale Unruhen genannt – nicht im Text belegt.",
+          "Die Wiederholung der Frage wird als Kommentar zu den sozialen und politischen Problemen der Zeit interpretiert – spekulativ."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Darstellung der Metapher des Schusslochs als Symbol für Zerbrechlichkeit.",
+          "Gute Beobachtung der atmosphärischen Bilder (Unsicherheit, Unbehagen)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Verantwortung, Gewalt, Metapher des Schusslochs). Die Variation liegt hauptsächlich im Umfang der spekulativen Kontextualisierung – Interpretation 2 und 3 bleiben am textnahesten, während 4 und 5 mehr erfundene historische Bezüge einbringen.",
+    "empfehlung": "Interpretation 2 (und gleichwertig Interpretation 3) bietet die beste Balance aus Texttreue und analytischer Tiefe. Sie nutzt die vorhandenen Bild- und Wortwiederholungen, um fundierte Bedeutungsansätze zu entwickeln, ohne unnötige, nicht belegte historische oder biografische Angaben."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung ... symbolisiert die Vielseitigkeit der Welt, die der Sprecher für die Geliebte bereithält.",
+          "Das wiederkehrende „You belong to me“ die emotionale Bindung betont und zugleich ein leicht kontrollierendes Unterton trägt.",
+          "Die Zeilen ... offenbaren die gegenseitige Abhängigkeit und das Bewusstsein, dass beide Partner ohne den anderen ein Gefühl der Leere verspüren.",
+          "Das Bild des „silver plane“ verstärkt das Motiv des Fliegens als Metapher für Freiheit, die jedoch durch das wiederholte Erinnern an die Zugehörigkeit eingeschränkt wird.",
+          "Der Sprecher will die Welt für die Geliebte erobern, doch gleichzeitig will er, dass sie trotz aller Entdeckungen immer wieder zu ihm zurückkehrt, weil ihr Herz – und damit ihr Besitz – bei ihm verankert bleibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song entfaltet eine romantische Sehnsucht, die sich in einer Reihe exotischer Reiseziele manifestiert und zugleich die Besitzansprüche einer Beziehung thematisiert."
+        ],
+        "positive_aspekte": [
+          "Klare Trennung von faktischen Textzitaten (z. B. Aufzählung der Orte, „silver plane“, Zeilen über Einsamkeit) und interpretativen Aussagen.",
+          "Gute Balance zwischen textbezogenen Beobachtungen und tiefergehender Analyse der Besitz‑/Kontrollthematik."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung exotischer Schauplätze symbolisiert die Sehnsucht des Erzählers, die Geliebte in allen Teilen der Welt zu begleiten und gleichzeitig zu besitzen.",
+          "Die Wiederholung wirkt wie ein Mantra, das die Bindung über Distanz und Abenteuer hinweg sichern soll.",
+          "Ein unterschwelliger Besitzanspruch verwandelt die romantische Zuneigung in ein kontrollierendes Verlangen.",
+          "Die Zeilen offenbaren die Angst vor Trennung und das Bedürfnis, die andere Person emotional zu verankern.",
+          "Der Kontrast zwischen farbenfrohen Reisebildern und dem Besitzanspruch erzeugt Spannung zwischen Freiheit und Eingrenzung.",
+          "Das Lied reflektiert die Dynamik von Liebe, Verlangen nach gemeinsamer Entdeckung und exklusiver Zugehörigkeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song entfaltet sich als ein romantisches Bekenntnis, das durch das Bild einer weltumspannenden Reise getragen wird."
+        ],
+        "positive_aspekte": [
+          "Nutzt viele konkrete Textstellen (Orte, wiederholtes „you belong to me“, Zeilen über Einsamkeit).",
+          "Erkennt das Spannungsfeld zwischen Freiheit und Besitz."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung suggeriert ein Leben voller Abenteuer, das jedoch immer wieder an einen zentralen Ankerpunkt zurückgeführt wird: die Beziehung zum lyrischen Ich.",
+          "Durch die wiederholte Aufforderung entsteht ein Spannungsfeld zwischen Freiheit und Kontrolle.",
+          "Der Sprecher ermutigt die Geliebte, die Welt zu erkunden, betont aber gleichzeitig seine emotionale Dominanz.",
+          "Die Zeilen verstärken das Gefühl von Abhängigkeit und gegenseitiger Leere.",
+          "Das Bild des „silver plane“ und des „wet jungle“ fungiert als Metapher für das Unbekannte, das zugleich fasziniert und unsicher macht.",
+          "Der Refrain wirkt fast wie ein Mantra, das die Sehnsucht nach Nähe kanalisiert.",
+          "Das Lied spiegelt die moderne Erfahrung von Liebe in einer vernetzten, aber zugleich entkoppelten Welt wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text entfaltet ein Bild von Fernweh und Besitzanspruch, das zugleich romantisch und leicht beunruhigend wirkt."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf wiederholte Textphrasen und deren mögliche Wirkung.",
+          "Bietet eine zeitgenössische Lesart (vernetzte Welt)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung suggeriert ein Leben voller Abenteuer, das jedoch immer wieder von einer einzigen Stimme zurück ins Zentrum einer Beziehung gerufen wird.",
+          "Diese Stimme fungiert als unsichtbarer Anker, der die Freiheit des Reisenden mit einer Besitzansage verknüpft.",
+          "Die wiederholte Aufforderung wirkt fast wie ein Mantra, das die Distanz überbrückt, aber gleichzeitig die Angst vor Verlust verdeckt.",
+          "Die Zeilen offenbaren eine wechselseitige Abhängigkeit, die das Bild einer Beziehung als gegenseitige Rettung aus Einsamkeit malt.",
+          "Ein unterschwelliger Druck nutzt das Reisen als Mittel zur Bestätigung der eigenen Zugehörigkeit.",
+          "Die Bildsprache betont die Sinnlichkeit, während das wiederkehrende „You belong to me“ die emotionale Bindung als unverrückbare Konstante präsentiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text entfaltet ein Bild von Fernweh und Besitzanspruch, das zugleich romantisch und leicht beunruhigend wirkt."
+        ],
+        "positive_aspekte": [
+          "Klare Unterscheidung zwischen faktischen Ortsnennungen und interpretativen Aussagen.",
+          "Erkennt das wiederholte Mantra‑Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung suggeriert ein Leben voller Abenteuer, das jedoch immer wieder von einer einzigen Stimme zurückgehalten wird.",
+          "Diese Stimme erinnert das Gegenüber beständig daran, dass es „zu mir gehört“, wodurch die Freiheit der Reise in ein Gefängnis aus emotionaler Bindung verwandelt wird.",
+          "Die wiederholte Formulierung wirkt fast wie ein Mantra, das Sehnsucht nach Nähe und Kontrolle zugleich ausdrückt.",
+          "Die Zeilen offenbaren die Angst vor Einsamkeit, die den Besitzanspruch nährt; der Sprecher projiziert seine eigene Unsicherheit auf den Partner.",
+          "Das Bild des Reisenden wird zum Symbol für das innere Verlangen nach Flucht, das nie vollständig realisiert wird, weil das emotionale „Zuhause“ immer wieder zurückgerufen wird.",
+          "Der Song spiegelt moderne Beziehungen wider, in denen individuelle Entfaltung mit dem Wunsch nach exklusiver Zugehörigkeit kollidiert.",
+          "Die exotischen Kulissen dienen als Metaphern für die äußere Welt, während das wiederkehrende „You belong to me“ die innere, fast besitzergreifende Sehnsucht nach Beständigkeit betont."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text entfaltet ein Bild von Fernweh und Besitzanspruch, das zugleich romantisch und leicht beunruhigend wirkt."
+        ],
+        "positive_aspekte": [
+          "Verknüpft fast jede Textstelle mit einer weiterführenden Interpretation, was die Analyse konsistent macht.",
+          "Erkennt das wiederholte „Just remember“ als potenzielles Mantra."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 1.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen (1,3,4,5) zeigen ein sehr hohes Maß an Halluzination (Score 1) und moderate Tiefe (Score 3). Interpretation 2 sticht heraus durch geringere Halluzination (Score 2) und höhere analytische Substanz (Score 4). Insgesamt ist die Varianz zwischen den Bewertungen hoch, was auf inkonsistente Anwendung der Kriterien hinweist.",
+    "empfehlung": "Interpretation 2 bietet die beste Balance aus Texttreue und analytischer Tiefe. Für zukünftige Bewertungen sollten die Prüfer klar zwischen rein faktischen Textbezügen und spekulativen Deutungen trennen, um Halluzinations‑Scores konsistenter zu vergeben."
+  }
+}

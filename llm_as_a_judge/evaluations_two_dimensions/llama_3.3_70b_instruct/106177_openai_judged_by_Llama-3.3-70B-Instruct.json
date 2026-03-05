@@ -1,0 +1,99 @@
+{
+  "song": "Home - Birdy (2013)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation unterstellt keine direkten biografischen Details, aber einige emotionale Zustände ohne direkte Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Zuhause ein emotionaler Zustand ist, ohne weitere Spezifizierung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Dualität von Kälte und Wärme, Freiheit und Gefangenschaft im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von Klarheit durch Kälte, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Zuhause ein Gefühl ist, ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Entwicklung von Flucht zu Akzeptanz ist gut begründet"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation unterstellt ein Schuldgefühl ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Zuhause ein emotionaler Zustand ist, ohne Spezifizierung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse des Verfalls von Erinnerungen und der Bedeutung von Nähe ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von emotionaler Distanz als Quelle von Lebendigkeit, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass wahre Geborgenheit nur durch das Verstehen anderer erkennbar ist, ohne weitere Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Dualität von Kälte und Wärme, Freiheit und Eingrenzung ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation unterstellt ein moralisches Dilemma ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Zuhause ein innerer Zustand ist, ohne weitere Spezifizierung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Entwicklung von Flucht zu Akzeptanz und der Bedeutung von Schutz und Geborgenheit ist gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Tiefe und Halluzinationsrate, aber es gibt keine signifikanten Unterschiede zwischen ihnen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

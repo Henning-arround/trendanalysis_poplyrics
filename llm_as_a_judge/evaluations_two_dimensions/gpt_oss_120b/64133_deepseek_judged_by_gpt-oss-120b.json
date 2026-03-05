@@ -1,0 +1,101 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song enthält auch Elemente von Dancehall und Reggae, die durch die Beiträge von Sean Paul und Lil Jon geprägt sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist teilweise in einem spielerischen, lockeren Ton geschrieben, der die Leichtigkeit und Freude einer vergangenen Beziehung widerspiegelt.",
+          "Insgesamt ist \"Do You Remember\" ein Song über die Sehnsucht nach einer vergangenen Liebe und den Wunsch, die Zeit zurückzudrehen, um neue Erinnerungen zu schaffen."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Nostalgie, Wiederaufnahme der Beziehung, wiederholte Refrain‑Zeile).",
+          "Die Interpretation bleibt weitgehend textnah und wiederholt nicht unnötig dieselben Phrasen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song hat auch eine sinnliche und einladende Atmosphäre, die durch die Texte von Sean Paul und Lil Jon noch verstärkt wird.",
+          "Insgesamt ist \"Do You Remember\" ein romantischer und einladender Song, der die Hoffnung auf eine Wiedervereinigung ausdrückt und die Zuhörer dazu einlädt, sich an die guten Zeiten zu erinnern und diese wiederherzustellen."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich direkt aus dem Songtext ableiten (z. B. „There’s nothin’ left to say“, „Don’t waste another day“, Refrain‑Wiederholungen).",
+          "Die Analyse geht über reine Zusammenfassung hinaus, indem sie die Funktion von Fragen im Text erklärt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song wird von einem catchy Beat und einer einprägsamen Melodie getragen, die die nostalgische Stimmung unterstreicht.",
+          "Insgesamt ist \"Do You Remember\" ein Song über die Sehnsucht nach einer vergangenen Liebe und die Hoffnung auf eine zweite Chance."
+        ],
+        "positive_aspekte": [
+          "Alle Kernaussagen (Nostalgie, Wunsch nach Wiedervereinigung, Wiederholung des Refrains) sind textbasiert.",
+          "Die Interpretation bleibt strukturiert und wiederholt keine redundanten Formulierungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song wird von einem catchy Beat und einer einprägsamen Melodie getragen, die die nostalgische Stimmung unterstreicht.",
+          "Insgesamt ist \"Do You Remember\" ein Song über die Sehnsucht nach einer vergangenen Liebe und die Hoffnung auf eine zweite Chance."
+        ],
+        "positive_aspekte": [
+          "Klare Ableitung der Hauptthemen aus dem Text (Erinnerung, Wiederaufnahme, Zeitverschwendung).",
+          "Gute Balance zwischen Zusammenfassung und Analyse der wiederkehrenden Motive."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song wird von einem catchy Beat und einer einprägsamen Melodie getragen, die die nostalgische Stimmung unterstreicht.",
+          "Insgesamt ist \"Do You Remember\" ein Song über die Sehnsucht nach einer vergangenen Liebe und die Hoffnung auf eine zweite Chance."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung – fast jede Aussage lässt sich im Songtext nachweisen.",
+          "Die Interpretation liefert konkrete Beispiele aus dem Text (z. B. „If it’s alright with you…\")."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen wiederholen dieselben Kernthesen, was zu einer hohen Oberflächlichkeit bei den Schlussfolgerungen führt. Nur Interpretation 3 weicht mit genre‑bezogenen Spekulationen ab, was die Varianz erhöht, aber auch Halluzinationen einführt.",
+    "empfehlung": "Interpretationen 1, 2, 4 und 5 sind nahezu identisch und zeigen eine solide Texttreue bei gleichzeitig guter analytischer Tiefe. Interpretation 3 liefert zusätzliche (wenn auch spekulative) Genre‑Einordnungen, die die Gesamtbewertung leicht mindern. Für zukünftige Aufgaben sollte der Fokus auf textbasierte Analysen bleiben, während unnötige Wiederholungen und vage Generalisierungen vermieden werden."
+  }
+}

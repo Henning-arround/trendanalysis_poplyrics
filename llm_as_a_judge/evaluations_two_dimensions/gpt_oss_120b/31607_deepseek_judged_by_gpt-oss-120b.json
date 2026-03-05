@@ -1,0 +1,120 @@
+{
+  "song": "From Small Things (Big Things One Day Come) - Bruce Springsteen (2003)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von einer jungen Frau, die in den 1950er oder 60er Jahren ihr Leben hinter sich lässt …",
+          "Die Geschichte ihrer Kinder, die mittlerweile herangewachsen sind, zeigt …"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gründe für diese Tat sind banal und nicht nachvollziehbar.",
+          "Der Song ist eine Reflexion über die menschliche Erfahrung …",
+          "lässt den Hörer über die menschliche Existenz und die Bedeutung von Hoffnung und Zuversicht nachdenken."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar (z. B. Job im Hamburger‑Stand, Briefe an die Mutter, das Schießen auf der Straße).",
+          "Die Interpretation bleibt weitgehend textbezogen und bietet konkrete Beispiele."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von einer jungen Frau, die in den 1950er oder 60er Jahren ihr Leben hinter sich lässt …",
+          "Am Ende des Songs kehrt die Frau in ihre Heimat zurück und findet Trost in ihren Kindern, die mittlerweile fast erwachsen sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gründe für diese Tat sind banal und nicht nachvollziehbar.",
+          "Der Song kann als eine Reflexion über das Leben und die menschlichen Erfahrungen interpretiert werden.",
+          "Springsteen zeigt, dass das Leben nicht immer linear verläuft …"
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Beschreibungen von Handlungselementen (Kellnerin, Briefe, Schuss).",
+          "Wiederkehrendes Motiv „From small things, mama / Big things one day come“ wird konsequent verknüpft."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von einer jungen Frau, die in den 1950er oder 60er Jahren ihr Leben hinter sich lässt …",
+          "Die Frau wird nach dem Schuss verhaftet.",
+          "In einem letzten Brief beschreibt sie ihr neues Leben in Florida, das jedoch nicht von Dauer ist.",
+          "Der Song thematisiert die Diskrepanz zwischen den Träumen und der Realität, insbesondere für Frauen in den 1950er und 60er Jahren.",
+          "Der Song kann als eine Art amerikanischer Traum‑Kritik interpretiert werden …"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Protagonistin versucht, durch kleine Schritte ein besseres Leben zu erreichen, aber ihre Entscheidungen führen letztlich zu einer Reihe von Konsequenzen, die sie nicht vorhersehen konnte."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textstellen (Job, Briefe, Schuss, Florida).",
+          "Bietet einen gesellschaftskritischen Kontext (American‑Dream‑Kritik)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von einer jungen Frau, die in den 1950er oder 60er Jahren ihr Leben hinter sich lässt …",
+          "Der Song kann auch als eine Metapher für den American Dream interpretiert werden …"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gründe für diese Tat sind banal und nicht nachvollziehbar.",
+          "Die Geschichte zeigt jedoch auch, dass das Leben unvorhersehbar ist …",
+          "Die wiederkehrende Zeile wird zu einer Art Refrain, der die Hoffnung und den Optimismus der Frau unterstreicht, aber auch die Unvorhersehbarkeit des Lebens hervorhebt."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textdetails mit einer breiteren kulturellen Interpretation (American Dream).",
+          "Durchgehend textbasierte Aussagen zu Handlung und Motiv."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song handelt von einer jungen Frau, die in den 1950er oder 60er Jahren ihr Leben hinter sich lässt …",
+          "Die Geschichte ihrer Kinder, die mittlerweile herangewachsen sind, zeigt …"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gründe für diese Tat sind banal und nicht nachvollziehbar.",
+          "Der Song ist eine Reflexion über die menschliche Erfahrung …",
+          "lässt den Hörer über die menschliche Existenz und die Bedeutung von Hoffnung und Zuversicht nachdenken."
+        ],
+        "positive_aspekte": [
+          "Wiederholt die wichtigsten textlichen Elemente (Job, Briefe, Schuss, Wiederholung des Refrains).",
+          "Bietet eine konsistente, textnahe Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Interpretationen 1‑4 zeigen sehr ähnliche Struktur und Inhalt, was auf eine hohe Konsistenz, aber geringe Varianz hinweist. Interpretation 5 weicht stark ab, enthält viele erfundene Kontextualisierungen und damit eine höhere Halluzinationsrate.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man die Herangehensweise von Interpretation 2 übernehmen: sie bleibt texttreu, liefert konkrete Details und ergänzt diese mit einer gut begründeten, aber nicht übertrieben spekulativen, kulturellen Kontextualisierung (American‑Dream‑Metapher)."
+  }
+}

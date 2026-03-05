@@ -1,0 +1,99 @@
+{
+  "song": "It’s Alright - The Osmonds (1973)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild einer 'Licht- und Donnerspur' suggeriert ein plötzliches, fast göttliches Eingreifen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt, dass das Unbekannte, sobald es akzeptiert wird, letztlich 'alright' ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und erkennt die Bedeutung des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild 'wie Blitz und Donner' suggeriert eine plötzliche, kraftvolle Eingebung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt Akzeptanz und das Vertrauen, dass das Unbekannte letztlich harmlos ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der unterschiedlichen Wahrnehmungsfähigkeit der Menschen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild einer 'Licht- und Donnerspur' suggeriert ein plötzliches, fast göttliches Eingreifen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain dient als beruhigender Mantra"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und erkennt die Bedeutung des Refrains"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Some find, some will never see or just throw it away' deuten darauf hin, dass diese Erfahrung nicht universell zugänglich ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine Botschaft von Gelassenheit gegenüber dem Unbekannten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr textbezogen und erkennt die Bedeutung der Ambivalenz"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text verbirgt ein tiefes Bild von innerer Erkenntnis und Akzeptanz"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song endet, ohne eine definitive Auflösung zu geben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und erkennt die Bedeutung des Refrains"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die vierte Interpretation balanciert Textreue mit analytischer Tiefe am besten"
+  }
+}

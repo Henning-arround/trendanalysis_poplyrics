@@ -1,0 +1,96 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist komplex und ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach der anderen Person",
+          "Die Analyse der Zeile 'Every day I'll wait' ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung ist von äußeren Zwängen und Erwartungen geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist komplex und ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Unsicherheit und den Zweifel in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Beziehung ist von äußeren Zwängen und Erwartungen geprägt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist komplex und ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Unsicherheit und den Zweifel in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist von Höhen und Tiefen geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die emotionale Verbindung zwischen den beiden Partnern",
+          "Die Analyse der Zeile 'No one's gonna know you better' ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ist von Fehlern und Enttäuschungen geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die tiefe emotionale Verbindung zwischen den beiden Partnern",
+          "Die Analyse der Zeile 'Every day I'll wait' ist überzeugend"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Sehnsucht und das Verlangen nach der anderen Person am besten beschreibt und eine überzeugende Analyse der Zeile 'Every day I'll wait' liefert"
+  }
+}

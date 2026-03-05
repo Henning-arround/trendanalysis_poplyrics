@@ -1,0 +1,117 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell verortet sich das Stück im post‑pandemischen deutschen Hip‑Hop, das stark von amerikanischen Trap‑Elementen und dem lokalen „Street‑Cred“‑Diskurs geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Spannung zwischen Gemeinschaftsgefühl und Exklusion bleibt ungelöst und lässt den Hörer zwischen Stolz und Isolation schwanken.",
+          "Sprachlich nutzt der Text ein dichtes Netz aus Metaphern und Symbolen, die Luxus, Macht und Hypermaskulinität kodieren.",
+          "Die wiederholten Interjektionen (…) erzeugen einen fragmentierten, fast chat‑artigen Rhythmus, der die Unsicherheit und das performative Selbstbewusstsein der Sprecher widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Textbelege (Marken, Slang, Wiederholungen) werden exakt wiedergegeben.",
+          "Analyse von Symbolik (z. B. Roli‑Uhren, „Head to the cloud“) ist textnah und differenziert.",
+          "Kritische Reflexion von Gender‑ und Ethno‑Stereotypen wird benannt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell verortet sich das Stück im post‑pandemischen deutschen Rap, das vermehrt globale Konsum‑ und Influencer‑Logiken übernimmt."
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungen bleiben ungelöst und erzeugen ein Spannungsfeld zwischen Selbstbewusstsein und Unsicherheit.",
+          "… gleichzeitig eine gewisse Oberflächlichkeit suggeriert.",
+          "… die soziale Fragmentierung der Jugendkultur reflektiert.",
+          "… lässt den Song als Spiegel einer Generation erscheinen, die gleichzeitig nach Anerkennung strebt und die Sinnhaftigkeit dieses Strebens hinterfragt."
+        ],
+        "positive_aspekte": [
+          "Umfangreiche Verknüpfung von Textstellen mit stilistischen Mitteln (Interjektionen, Metaphern).",
+          "Klare Benennung von Symbolen (Roli‑Uhren, „Head to the cloud“).",
+          "Verknüpfung von Wortwahl und möglicher Bedeutung (z. B. Status, Flucht)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext lässt sich das Werk als Produkt der post‑pandemischen deutschen Rap‑Szene lesen, in dem digitale Reputation („Clout“) und materielle Signale als Ersatz für traditionelle Gemeinschaftsformen fungieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Interjektionen (…) erzeugen ein fragmentiertes Narrativ, das die affektive Wirkung von Aggression und Hedonismus gleichzeitig verstärkt und destabilisiert.",
+          "Diese Spannungen bleiben bewusst ungelöst und reflektieren die fragmentierte Identitätskonstruktion einer Generation, die zwischen digitaler Sichtbarkeit und realer Entfremdung schwankt."
+        ],
+        "positive_aspekte": [
+          "Sehr präzise Aufzählung von Textbelegen (Marken, Slang, wiederholte Phrasen).",
+          "Gute Balance zwischen Beschreibung von Stilmitteln und deren möglicher Funktion.",
+          "Erkennt die Ambivalenz von Luxus‑Glorifizierung und Selbstzweifel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell verortet sich das Werk im post‑pandemischen deutschen Hip‑Hop, das stark von amerikanischen Trap‑Elementen und dem „Flex‑Culture“-Narrativ geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Interjektionen (…) erzeugen ein fragmentiertes Narrativ, das die Spannung zwischen Selbstbewusstsein und performativem Zweifel betont."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse von Marken‑ und Gaming‑Referenzen.",
+          "Klare Herausarbeitung von Dualität zwischen Exklusivität und Misstrauen.",
+          "Verknüpfung von Text mit möglichen emotionalen Zuständen (Unsicherheit)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell verortet sich das Werk im post‑digitalen Milieu der deutschen Rap‑Szene, in dem Statussymbole (teure Autos, Marken‑Uhren) und Online‑Reputation („Clout“) zentrale Werte darstellen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Nutzung von Interjektionen (…) erzeugt einen rhythmischen, fast chant‑artigen Effekt, der die emotionale Intensität steigert und zugleich eine Distanz zum Hörer schafft, indem er das Gesagte als Teil einer performativen Szene präsentiert.",
+          "Die Zeile „Hater labern immer, was ich bin“ reflektiert ein Selbst‑Reflexions‑Motiv, das jedoch im Kontext von Selbstinszenierung paradox bleibt.",
+          "Diese Spannungen zwischen Selbst‑Feier, kritischer Selbstreflexion und problematischer Sprache bleiben offen, was den Song zu einem Spiegelbild widersprüchlicher Identitätskonstruktionen im zeitgenössischen Jugend‑ und Subkultur‑Diskurs macht."
+        ],
+        "positive_aspekte": [
+          "Präzise Nennung von Symbolen (Roli‑Uhren, „Ace of Spades“, „Crystal im Glas“).",
+          "Gute Erläuterung, wie Interjektionen den Stil beeinflussen.",
+          "Bewusstes Aufzeigen von problematischer Sprache (Kanaks, Bitches)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.0,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen ein ähnliches Niveau: geringe Halluzinationsrate (≈10 %) und solide textbasierte Tiefe (Score 4). Die Unterschiede liegen hauptsächlich im Anteil belegter Aussagen – Interpretation 5 weist mit 70 % den höchsten Anteil an klaren Textbelegen auf.",
+    "empfehlung": "Interpretation 5 ist am ausgewogensten: sie nutzt fast ausschließlich belegbare Textstellen, liefert eine differenzierte Analyse von Symbolik und Ambivalenz und vermeidet unnötige spekulative Kontextualisierungen. Für zukünftige Bewertungen sollte man darauf achten, den Anteil an rein spekulativen (post‑pandemischen) Aussagen zu minimieren und gleichzeitig die Analyse von Stilmitteln weiter zu vertiefen."
+  }
+}

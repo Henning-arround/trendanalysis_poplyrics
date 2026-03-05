@@ -1,0 +1,96 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "kraftvoller Ausdruck des christlichen Glaubens"
+        ],
+        "positive_aspekte": [
+          "textbezogene Analyse",
+          " Herausstellung der persönlichen Beziehung zu Jesus Christus"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "kraftvoller Ausdruck des christlichen Glaubens"
+        ],
+        "positive_aspekte": [
+          "textbezogene Analyse",
+          " Herausstellung der persönlichen Beziehung zu Jesus Christus"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "herzliches und aufrichtiges Glaubensbekenntnis"
+        ],
+        "positive_aspekte": [
+          "textbezogene Analyse",
+          " Herausstellung der transformativen Kraft der Liebe und Gnade Jesu Christi"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "geistliche Vollkommenheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Ausdruck der tiefen Verbindung zwischen dem Sänger und seinem Glauben"
+        ],
+        "positive_aspekte": [
+          "textbezogene Analyse",
+          " Herausstellung der Bedeutung des Lobpreises für den Sänger"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "herzliches und aufrichtiges Zeugnis des Glaubens"
+        ],
+        "positive_aspekte": [
+          "textbezogene Analyse",
+          " Herausstellung der persönlichen Natur des Sängers und seiner unerschütterlichen Hingabe an seinen Retter"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der textbezogenen Analyse, aber auch eine Tendenz zu oberflächlichen Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet oberflächliche Aussagen."
+  }
+}

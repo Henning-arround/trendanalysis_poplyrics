@@ -1,0 +1,116 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sprecher erkennt, dass er noch viel zu begreifen hat, doch er stellt klar, dass er nicht aus Trotz, sondern aus echter Neugierde lernen will."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aufforderung „Teach me, tonight“ verknüpft das Lernen mit dem Moment, in dem die beiden zusammenkommen, und lässt das Wort „night“ für Intimität und Geheimnis stehen.",
+          "Der Hinweis auf die bevorstehende „Graduation“ suggeriert, dass das Lernstadium bald endet und ein neuer Lebensabschnitt beginnt, in dem das Gelernte in eine feste Bindung übergeht.",
+          "So wird das Lied zu einer poetischen Darstellung, wie Liebe durch gemeinsames Entdecken, Vertrauen und das Teilen von Wissen reift."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (Alphabet‑Liste, Black‑board‑Metapher, Stern‑Schrift) werden konsequent analysiert.",
+          "Wenig erfundene Inhalte – nur ein einziger spekulativer Satz.",
+          "Tiefe Analyse der Rollen‑Verwischung von Lehrer/Schüler und der Symbolik von Graduation."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das „perfekte“ Lernumfeld ist dabei nicht ein Klassenraum, sondern das nächtliche Zusammensein mit dem Geliebten, das zur Lehrerin, zur Mentorin wird.",
+          "Die Bildsprache des Himmels … verleiht dem Ganzen eine fast sakrale Dimension.",
+          "Das Motiv des fallenden Sterns … bis sie fast schon zu einer Beschwörung wird.",
+          "Der bevorstehende „Graduation“ symbolisiert den Übergang … in die Zukunft getragen wird.",
+          "So wird das nächtliche Lernen zu einem Akt der Vereinigung, bei dem das Lehren und das Lieben untrennbar miteinander verwoben sind."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig aus dem Songtext ableiten (z. B. Alphabet‑Liste, Black‑board‑Metapher, Graduation).",
+          "Wenig bis keine erfundenen Fakten – Halluzinations‑Score maximal.",
+          "Gute Balance zwischen konkreten Textbezügen und weiterführender Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das „perfekte“ Lernumfeld ist dabei nicht ein klassischer Klassenraum, sondern ein intimes, fast sakrales Setting, in dem die Nacht selbst zur Tafel wird.",
+          "Diese Bildsprache verbindet das Unendliche des Kosmos mit der Unendlichkeit seiner Gefühle und suggeriert, dass Liebe ebenso ein Lernprozess ist, der immer wieder neu geschrieben werden muss.",
+          "Der Hinweis auf die bevorstehende „Graduation“ symbolisiert einen Wendepunkt, an dem das bisherige Lernstadium endet und ein neuer Lebensabschnitt beginnt, in dem das Gelernte – die Liebe – endgültig besiegelt werden soll.",
+          "So wird das Lied zu einer Allegorie für das Erwachsenwerden, in dem Wissen, Leidenschaft und das Streben nach Vollkommenheit untrennbar miteinander verwoben sind."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analysen (Blackboard‑Metapher, Stern‑Schrift, Rollen‑Verschmelzung).",
+          "Keine erfundenen biografischen oder stilistischen Angaben – Halluzinations‑Score 5.",
+          "Gute strukturelle Gliederung: von Metapher über Symbolik bis zur Graduation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "weil das „perfekte“ Umfeld – das hier als „Spot“ bezeichnet wird – bereits die nötige Nähe und Sicherheit bietet.",
+          "Das wiederholte „Teach me, tonight“ fungiert als Bitte um sofortige, intensive Erfahrung, die über das rein intellektuelle Lernen hinausgeht und in das emotionale Terrain vordringt.",
+          "Diese Bildsprache verbindet das Universelle (Sterne, Himmel) mit dem Persönlichen (Liebesbekenntnis) und suggeriert, dass Liebe ein Lernprozess ist, der sich über Zeit und Raum erstreckt.",
+          "Der bevorstehende „Graduation“ symbolisiert den Abschluss einer Lernphase, doch gleichzeitig bleibt das Lernen selbst unvollendet, weil die Beziehung weiter wächst.",
+          "Zusammenfassend schildert der Song das Verlangen, durch die Anleitung des geliebten Menschen zu reifen, während er gleichzeitig die Unendlichkeit der Liebe in kosmischen Bildern feiert."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich aus dem Text ableiten, keine Halluzinationen.",
+          "Erfasst zentrale Motive (Alphabet‑Liste, Blackboard, Stern‑Schrift, Graduation)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "weil das nächtliche Zusammensein – bereits die nötige Atmosphäre bietet.",
+          "Die Wiederholung von „Teach me, tonight“ fungiert als Bitte um sofortige, intensive Erfahrung, die über das rein intellektuelle Lernen hinausgeht und das Herz einbezieht.",
+          "Der Hinweis auf die bevorstehende „Graduation“ suggeriert, dass das Lernen nicht nur ein Moment, sondern ein Abschluss eines Entwicklungsabschnitts ist, nach dem ein neuer Lebensabschnitt beginnt.",
+          "Insgesamt verbindet der Song das schulische Bild mit romantischer Sehnsucht, indem er das Lernen als Akt der Hingabe und des gemeinsamen Wachstums darstellt, das in der Nacht, unter dem Sternenhimmel, vollendet werden will."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (Alphabet‑Liste, Blackboard, Graduation) werden konsequent wiederholt.",
+          "Keine erfundenen Fakten – Halluzinations‑Score 5.",
+          "Gute Mischung aus konkreten Beobachtungen und weiterführender Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben im Rahmen des Songtexts, es gibt keine biografischen oder stilistischen Fehlannahmen. Der Unterschied liegt vor allem im Anteil oberflächlicher, generischer Formulierungen – Interpretation 2 ist am wenigsten tiefgehend, während Interpretation 3 die höchste inhaltliche Tiefe aufweist.",
+    "empfehlung": "Interpretation 3 bietet die beste Balance aus Texttreue und analytischer Tiefe. Sie enthält nur eine minimale spekulative Aussage, liefert detaillierte, textbasierte Deutungen und geht über reine Oberflächlichkeit hinaus, ohne in Halluzinationen abzurutschen."
+  }
+}

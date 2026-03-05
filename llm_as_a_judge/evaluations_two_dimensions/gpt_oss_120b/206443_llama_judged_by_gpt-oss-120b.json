@@ -1,0 +1,89 @@
+{
+  "song": "Where Do We Go From Here - Charles & Eddie (1992)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig aus dem vorliegenden Songtext ableiten.",
+          "Die Interpretation geht über reine Stichworte hinaus und verknüpft mehrere Textstellen zu einer kohärenten Analyse.",
+          "Sie erkennt die Ambivalenz zwischen Wunsch nach Trennung und Unfähigkeit, loszulassen, und verweist auf das Motiv des „Stillstands“ sowie der unterschiedlichen Träume."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Vollständig textbezogen, keine spekulativen Biografie‑ oder Genre‑Angaben.",
+          "Gute Struktur: Einleitung, Darstellung des Konflikts, Hinweis auf das wiederkehrende Refrain‑Motiv und Schlussfolgerung.",
+          "Erfasst die zentrale Spannung zwischen zunehmender Selbstaufgabe und dem Bewusstsein unterschiedlicher Lebensziele."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Ableitung der Zeile „hurting just to get back where we were“ als Rückkehrversuch zum Ausgangspunkt.",
+          "Verknüpft das Motiv des „mehr Gebens“ mit dem Bild des inneren Verfalls („die mehr wir geben, desto mehr sterben wir innerlich“).",
+          "Erkennt die finale Resignation („eventually give up trying“) und verbindet sie mit den nicht vereinbaren Träumen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erweitert die Analyse um die Idee, dass das gegenseitige Wehtun ein Versuch ist, zum Ausgangspunkt zurückzukehren.",
+          "Betont die Dynamik des „Beziehung‑am‑Leben‑erhalten‑Willens“ und dessen Selbstaufopferung.",
+          "Stellt klar heraus, dass die unterschiedlichen Träume die Beziehung zum Stillstand führen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, keine überflüssigen kulturellen oder biografischen Spekulationen.",
+          "Gute Balance zwischen Beschreibung des Konflikts und Hinweis auf die unvermeidliche Resignation.",
+          "Verwendet klare, nachvollziehbare Formulierungen, die die Mehrdeutigkeit des Refrains respektieren."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen im Wesentlichen dieselben inhaltlichen Punkte, unterscheiden sich jedoch kaum in Wortwahl. Die Varianz ist gering, was auf ein starkes Kopieren bzw. Paraphrasieren hindeutet.",
+    "empfehlung": "Der Ansatz, der die meisten textbezogenen Details liefert und gleichzeitig die Ambivalenz des Refrains betont (Interpretation 3), ist am ausgewogensten. Für zukünftige Modelle sollte angeregt werden, mehr differenzierte Perspektiven (z. B. stilistische, narrative oder kulturelle Kontextualisierungen) einzubringen, ohne dabei spekulative Halluzinationen zu erzeugen."
+  }
+}

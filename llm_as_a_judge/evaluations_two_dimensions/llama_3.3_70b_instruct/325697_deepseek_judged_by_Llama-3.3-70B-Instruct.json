@@ -1,0 +1,99 @@
+{
+  "song": "My Life - Nat \"King\" Cole (1960)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt seine Träume und Hoffnungen für eine Beziehung, in der er sich vollständig öffnen und hingeben kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein herzliches und emotionales Lied, das die Sehnsucht nach einer wahren Liebe ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Lyrics und identifiziert die Sehnsucht nach einer erfüllenden Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger beschreibt, wie die Küsse der Geliebten ihn nicht wirklich berührt haben und die Liebe nicht echt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song gipfelt in der Sehnsucht nach einem Moment, in dem die Geliebte ihm gehört und er sich vollständig in ihrer Liebe geborgen fühlt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Unsicherheit und Enttäuschung im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger sehnt sich nach einer neuen Chance, nach einer Liebe, die ihn glücklich macht und ihm einen Sinn gibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein herzliches und emotionales Lied, das die universelle Sehnsucht nach Liebe und Zugehörigkeit ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung einer erfüllenden Liebe für den Sänger."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You gave me a love which failed to make me feel / Even with your kissing me, that it was something real' zeigt, dass die bisherige Liebe nicht authentisch war und der Sänger sich nicht wirklich geliebt fühlte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain 'The most memorable moment in my life / Will be when you belong to me' unterstreicht die Bedeutung, die der Sänger einer erfüllenden Liebe beimisst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Lyrics und identifiziert die Sehnsucht nach einer erfüllenden Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'If you would bring to my life / A love that's good and true / There'd be no day in my life / That could be sad or blue' zeigt, dass er sich eine Zukunft ohne Traurigkeit und Schmerz vorstellt, wenn er nur eine echte Liebe finden könnte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain 'The most memorable moment in my life / Will be when you belong to me' unterstreicht die Bedeutung, die der Sänger einer erfüllenden Beziehung beimisst."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung einer erfüllenden Liebe für den Sänger."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent in ihrer Analyse der Sehnsucht nach einer erfüllenden Liebe.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

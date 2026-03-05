@@ -1,0 +1,99 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die frühen 1960er-Jahre als Zeit des Übergangs von traditionellen Popballaden zu rockigeren Strömungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Einfachheit des Textes, fast kindlich in ihrer Direktheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Anrede 'Mr. C.' als Symbol für den vertrauensvollen Vermittler von Trost und Geborgenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik als intimer Dialog, der das Individuum aus der Anonymität löst"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vorstellung, dass Musik als Fluchtmittel dient"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Exklusivität durch das 'just for me'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die sanfte Baritonstimme Como als beruhigender Anker"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Idee, dass Musik als Fluchtmittel dient"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'The song that I've been waiting to hear' als Hinweis auf eine tiefe emotionale Resonanz"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Brücke zwischen dem inneren Wunsch des Sängers und dem äußeren Klang"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Musik als intimer Dialog"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der individuellen Bestätigung und emotionalen Nähe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die fast vertrauliche, fast kindliche Qualität der Anrede 'Mr. C.'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vorstellung, dass die Musik eine temporäre, aber kraftvolle Isolation von der Außenwelt schafft"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Bitte um ein persönliches Lied als Akt der Selbstbestätigung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textinhalte, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe, wie in Interpretation 1 und 3 zu sehen ist. Es ist wichtig, kreative Interpretationen zu vermeiden, die nicht durch den Text gestützt werden."
+  }
+}

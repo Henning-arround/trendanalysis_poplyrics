@@ -1,0 +1,99 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1962 im Kontext des Nachkriegs‑Wohlstands und der Aufbruchsstimmung des Wirtschaftswunders"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ist ein Wunsch nach Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das romantische Motiv des nächtlichen Himmels mit einer Sehnsucht nach einer fernen Begegnung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1962 im Kontext des Nachkriegs‑Wohlstands und der beginnenden Popkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wortwahl verbindet kosmische Elemente mit persönlicher Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation vermittelt eine zentrale Botschaft von Sehnsucht nach einer transzendenten Begegnung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nachkriegszeit widerspiegelte die Unsicherheit des Kalten Krieges"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song verknüpft das romantische Motiv des nächtlichen Himmels mit einer Sehnsucht nach Wiedervereinigung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erzeugt ein zyklisches Muster, das sowohl Beständigkeit als auch Unbestimmtheit betont"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück im Kontext des Nachkriegs‑Wohlstands und der wachsenden Medienkultur Westdeutschlands"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ist ein Aufruf zur transzendentalen Verbindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft das romantische Motiv des nächtlichen Himmels mit einer Sehnsucht nach einer fernen Begegnung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch entstand das Stück 1962 im Kontext des Nachkriegs‑Wohlstands und der beginnenden Popkultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine zentrale Botschaft von Sehnsucht nach einer transzendenten Begegnung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erzeugt eine thematische Schlichtheit, zugleich eröffnet sie ein mehrschichtiges Bildfeld"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren und weniger auf historische oder biografische Spekulationen"
+  }
+}

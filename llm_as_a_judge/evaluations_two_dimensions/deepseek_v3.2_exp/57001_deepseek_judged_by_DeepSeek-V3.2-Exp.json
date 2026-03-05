@@ -1,0 +1,98 @@
+{
+  "song": "Stay (Far Away, So Close) - Gregorian (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die '7-Eleven' und die 'satellite television' stehen für die globale Vernetzung und die Verfügbarkeit von Informationen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Beziehung, die von emotionaler Leere, Distanz und Selbstzerstörung geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Distanz und die Oberflächlichkeit der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die '7-Eleven' und die 'satellite television' stehen für die globale Vernetzung und die Verfügbarkeit von Informationen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Beziehung, die von emotionaler Leere, Distanz und Selbstzerstörung geprägt ist",
+          "Die Bitte 'Stay' kann als Versuch interpretiert werden, diese Beziehung aufrechtzuerhalten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Abhängigkeit und die Machtlosigkeit in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Beziehung, die von emotionaler Distanz und Isolation geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Leere und die Bitte 'Stay'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Because when he hurts you you feel alive' lässt darauf schließen, dass die Protagonistin in einer toxischen Beziehung ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine tragische und schmerzhafte Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Distanz und die Kommunikationsprobleme in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin kann sich in verschiedene Orte und Zeiten flüchten"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine Beziehung, die von emotionaler Distanz, Selbstzerstörung und Verunsicherung geprägt ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die emotionale Isolation der Protagonistin"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die vierte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

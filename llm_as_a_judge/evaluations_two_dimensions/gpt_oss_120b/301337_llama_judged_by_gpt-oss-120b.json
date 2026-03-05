@@ -1,0 +1,101 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch den Einsatz von Wiederholungen und einfachen Melodien schafft Ciara eine einprägsame und energiegeladene Atmosphäre, die die Botschaft des Songs unterstreicht.",
+          "Die wiederholte Aufforderung \"Say: Ichi, Ni, San\" kann als Symbol für die Befreiung von Konventionen und die Entdeckung der eigenen Individualität gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Get in, fit in, get in, get out\" kann als Aufforderung interpretiert werden, sich in die Masse einzufügen, um dann wieder auszubrechen und seine eigene Identität zu finden."
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar das zentrale Thema von Konformität und Individualität, das im Text mehrfach vorkommt.",
+          "Verknüpft die wiederholten Elemente des Songs (z. B. \"Ichi, Ni, San\") mit einer möglichen symbolischen Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Get in, fit in, get in, get out\" kann als Aufforderung interpretiert werden, sich in die Masse einzufügen, um dann wieder auszubrechen und seine eigene Identität zu finden.",
+          "Durch die Wiederholung von \"Ichi, Ni, San\", einem japanischen Zählreim, schafft Ciara eine rhythmische und einprägsame Atmosphäre, die die Botschaft des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Stützt fast jede Aussage direkt auf Textpassagen (z. B. \"Take a chance\", \"Some people might call you crazy\").",
+          "Bietet eine konsistente, textbasierte Interpretation ohne spekulative Biografie‑ oder Genre‑Angaben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Get in, fit in, get in, get out\" kann als Aufforderung interpretiert werden, sich in die Masse einzufügen, um dann wieder auszubrechen und seine eigene Identität zu finden.",
+          "Durch die Wiederholung von \"Ichi, Ni, San\", einem japanischen Zählreim, schafft Ciara eine rhythmische und einprägsame Atmosphäre, die die Botschaft des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die Kernthemen (Konformität, Mut zum Anderssein) exakt aus dem Text.",
+          "Vermeidet unnötige Spekulationen über Produktion oder Künstlerbiografie."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Get in, fit in, get in, get out\" kann als Aufforderung interpretiert werden, sich in die Masse einzufügen, um dann wieder auszubrechen und seine eigene Identität zu finden.",
+          "Durch die Wiederholung von \"Ichi, Ni, San\", einem japanischen Zählreim, schafft Ciara eine rhythmische und einprägsame Atmosphäre, die die Botschaft des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Konsistente Analyse, die sich ausschließlich auf den vorliegenden Text stützt.",
+          "Gute Balance zwischen thematischer Zusammenfassung und konkreten Textbeispielen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"Get in, fit in, get in, get out\" kann als Aufforderung interpretiert werden, sich in die Masse einzufügen, um dann wieder auszubrechen und seine eigene Identität zu finden.",
+          "Durch die Wiederholung von \"Ichi, Ni, San\", einem japanischen Zählreim, schafft Ciara eine rhythmische und einprägsame Atmosphäre, die die Botschaft des Songs unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Argumentation ohne spekulative Zusatzinformationen.",
+          "Erfasst die wiederkehrenden Motive (Konformität, Individualität, Zählreim) präzise."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen (1,2,3,5) zeigen sehr hohe Faktentreue und ähnliche Tiefenwerte, während Interpretation 4 deutlich mehr erfundene Aussagen enthält, was zu einer moderaten Varianz führt.",
+    "empfehlung": "Interpretationen 1‑3 und 5 liefern die beste Balance aus Texttreue und analytischer Tiefe. Sie vermeiden spekulative Aussagen über Stil oder Symbolik, fokussieren sich auf nachweisbare Textinhalte und bieten gleichzeitig eine substanzielle, aber nicht oberflächliche Analyse. Für zukünftige Aufgaben sollte dieser Ansatz beibehalten werden."
+  }
+}

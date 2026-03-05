@@ -1,0 +1,99 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1960er Jahre waren eine Zeit der sozialen und kulturellen Veränderungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe als eine Art Zauberbann"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als eine Art von Befreiung und Selbstentdeckung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Bedeutung der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Verwendung von Symbolen wie dem 'Elevator'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als eine Art von transzendenter Erfahrung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Bedeutung der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe als eine Art von Befreiung und Selbstentdeckung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Bedeutung der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Verwendung von Symbolen wie dem 'Elevator'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1960er Jahre waren eine Zeit der sozialen und kulturellen Veränderungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe als eine Art Zauberbann"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und Symbole im Songtext"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine mittlere Konsistenz",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein kulturelles Dokument der 1990er Jahre interpretiert werden, das die Erfahrungen von Liebe, Verlust und Erinnerung in einer postmodernen Gesellschaft reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Melancholie und Sehnsucht geprägt, die durch die affektive Dimension der Erinnerung an die verlorene Liebe erzeugt wird.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Erinnerung, die durch die Rauchmetapher und die narrative Struktur des Songs erzeugt wird.",
+          "Die Ambiguität zwischen Verdrängung und Erinnerung wird in der Zeile … deutlich, die die Spannung zwischen der bewussten Verdrängung und der emotionalen Wirklichkeit der Erinnerung aufzeigt."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse der Metaphern (Rauch, Rauchringe, Zigarette).",
+          "Erkannte Wiederholungen und deren Bedeutung für das Motiv der Erinnerung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Traurigkeit und Sehnsucht geprägt, die durch die affektive Dimension der Erinnerungen an die verlorene Liebe noch verstärkt wird.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Themen von Liebe, Verlust und Erinnerung sind universell und kontextübergreifend.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Erinnerung, die durch die Zigarette und die \"rauchenden Träume\" vermittelt wird.",
+          "Die Ambiguität zwischen der bewussten Verdrängung der Erinnerung … erzeugt eine Spannung, die den Song emotional auflädt."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich direkt aus dem Songtext ableiten oder ergeben sich logisch daraus.",
+          "Gute Struktur: Einleitung, Analyse der Metaphern, emotionale Wirkung, Hinweis auf fehlenden Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein kulturelles Dokument der 1990er Jahre interpretiert werden, das die Erfahrungen von Liebe, Verlust und Erinnerung in einer postmodernen Gesellschaft reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Melancholie und Sehnsucht geprägt, die durch die affektive Dimension der Erinnerung an die verlorene Liebe erzeugt wird.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Erinnerung, die durch die Rauchmetapher und die narrative Struktur des Songs erzeugt wird.",
+          "Die Ambiguität zwischen Verdrängung und Erinnerung wird in der Zeile … deutlich, die die Spannung zwischen der bewussten Verdrängung und der emotionalen Wirklichkeit der Erinnerung aufzeigt."
+        ],
+        "positive_aspekte": [
+          "Präzise Benennung der zentralen Metaphern (Rauch, Zigarette, Rauchringe).",
+          "Erkennt die Wiederholung als stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein kulturelles Dokument der 1990er Jahre interpretiert werden, das die Erfahrungen von Liebe, Verlust und Erinnerung in einer postmodernen Gesellschaft reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Melancholie und Sehnsucht geprägt, die durch die affektive Dimension der Erinnerung an die verlorene Liebe erzeugt wird.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Erinnerung, die durch die Rauchmetapher und die narrative Struktur des Songs erzeugt wird.",
+          "Die Ambiguität zwischen Verdrängung und Erinnerung wird in der Zeile … deutlich, die die Spannung zwischen der bewussten Verdrängung und der emotionalen Wirklichkeit der Erinnerung aufzeigt."
+        ],
+        "positive_aspekte": [
+          "Klare Herausarbeitung der Metapher des Rauchs als Symbol für Vergänglichkeit.",
+          "Verknüpfung von Textzeilen mit den emotionalen Zuständen des Sprechers."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein kulturelles Dokument der 1990er Jahre interpretiert werden, das die Erfahrungen von Liebe, Verlust und Erinnerung in einer postmodernen Gesellschaft reflektiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Melancholie und Sehnsucht geprägt, die durch die affektive Dimension der Erinnerung an die verlorene Liebe erzeugt wird.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Erinnerung, die durch die Rauchmetapher und die narrative Struktur des Songs erzeugt wird.",
+          "Die Ambiguität zwischen Verdrängung und Erinnerung wird in der Zeile … deutlich, die die Spannung zwischen der bewussten Verdrängung und der emotionalen Wirklichkeit der Erinnerung aufzeigt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konsequent die zentrale Bildsprache (Rauch, Zigarette).",
+          "Verbindet Textstellen mit dem Motiv des Festhaltens an Erinnerungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundanalysen; nur die erste verzichtet auf erfundene kulturelle Kontextualisierungen, die anderen fügen leicht spekulative Aussagen hinzu.",
+    "empfehlung": "Eine Interpretation, die strikt am Text bleibt und nur minimale, gut begründete Kontextualisierungen einbringt, erzielt die höchste Halluzinationsbewertung. Gleichzeitig sollte sie konkrete Textanalysen (Metaphern, Wiederholungen, Ambivalenz) beibehalten, um die Tiefe zu sichern."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der damaligen Jugendkultur und der Gegenkultur der 1970er Jahre verbunden.",
+          "Der Song kann als Reflexion dieser Veränderungen gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung einer Person, die sich in einer unangenehmen und überwältigenden Party‑Situation befindet.",
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Zeile „Mama told me not to come“ verdeutlicht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textstellen (z. B. „stale perfume“, „open up the window“) und verknüpft sie mit möglichen Symbolen.",
+          "Erwähnt die Ambivalenz zwischen Warnung und Neugierde, was dem Text gerecht wird."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung, die die Warnung und die Konsequenzen als Teil einer größeren sozialen und kulturellen Ordnung darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung einer Person, die sich in einer unangenehmen und überwältigenden Party‑Situation befindet.",
+          "Die literarischen Stilmittel umfassen Metaphern, Symbole und Bilder."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Bildsprache (z. B. „stale perfume“, „cigarette you’re smokin bout“).",
+          "Verknüpft die wiederholte Warnung mit einer moralischen Botschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des sozialen und kulturellen Umbruchs, und der Song kann als Reflexion dieser Veränderungen gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung einer Person, die sich in einer unangenehmen und überwältigenden Party‑Situation befindet.",
+          "Die zentrale Botschaft wird durch die wiederholte Zeile „Mama told me not to come“ verdeutlicht."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Zeile „That ain’t the way to have fun, son“ als kritische Stimme.",
+          "Verbindet Textstellen mit möglichen Symbolen (z. B. Fenster öffnen = Sehnsucht nach Freiheit)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist eng mit der damaligen Jugendkultur und der Gegenkultur der 1970er Jahre verbunden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung einer Person, die sich in einer unangenehmen und überwältigenden Situation befindet.",
+          "Die literarischen Stilmittel umfassen Metaphern, Symbole und Bilder."
+        ],
+        "positive_aspekte": [
+          "Interpretation der Zeile „Open up the window“ als Symbol für Freiheit.",
+          "Hinweis auf die Spannung zwischen Sehnsucht nach Freiheit und Angst vor dem Unbekannten."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, spielt eine wichtige Rolle bei der Interpretation des Songs."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung einer Person, die sich in einer unangenehmen und überwältigenden Party‑Situation befindet.",
+          "Die zentrale Botschaft wird durch die wiederholte Zeile „Mama told me not to come“ verdeutlicht."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederholte Warnung als kritische Reflexion gesellschaftlicher Erwartungen.",
+          "Verknüpft Textstellen mit möglichen Symbolen (z. B. Fenster öffnen = Befreiung)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich stark redundant; sie wiederholen dieselben generischen Aussagen und unterscheiden sich kaum in Tiefe oder Originalität.",
+    "empfehlung": "Ein besserer Ansatz wäre, weniger generische Behauptungen zu wiederholen und stattdessen stärker textbezogene Analysen (z. B. konkrete Wortwahl, Rhythmus, Wiederholungsstruktur) sowie differenzierte, durch den Text gestützte Mehrdeutigkeiten zu bieten."
+  }
+}

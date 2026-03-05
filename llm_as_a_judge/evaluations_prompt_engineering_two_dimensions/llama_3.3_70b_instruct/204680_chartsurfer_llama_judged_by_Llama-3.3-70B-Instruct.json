@@ -1,0 +1,99 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung der Beziehung gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Aufforderung deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Tanzes als Symbol für die gemeinsame Bewegung und Harmonie in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität und Spannung im Song liegen in der Balance zwischen der Exklusivität und der Freiheit in der Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Aufforderung deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Tanzes als Ritual der Verbundenheit und der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung der Exklusivität und Besitzergreifung gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Musik und des Gesangs verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'till all our sweet music is gone' als Hinweis auf die Vergänglichkeit der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung der Exklusivität und Treue in der Beziehung spiegelt die traditionellen Werte und Ideale der Zeit wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Aufforderung deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Tanzes als Ausdruck der emotionalen und physischen Verbundenheit zwischen den Partnern"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann auch in der symbolischen Ordnung des Tanzes als Ausdruck der emotionalen und physischen Verbundenheit zwischen den Partnern gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die wiederholte Aufforderung deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zeile 'till all our sweet music is gone' als Hinweis auf die Vergänglichkeit und die Endlichkeit der Beziehung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der Metapher des Tanzes und der Exklusivität in der Beziehung",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine hohe Sensibilität für die Ambivalenzen und Mehrdeutigkeiten im Songtext"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft Popkultur-Referenz und Bedrohungsmythos ohne direkte Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'post-kalter Krieg-Panik' und 'Medienkritik' ohne direkte Textbelege"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'circus of death' und die Rolle des Clowns ist tiefgehend und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft das 'circus' mit gesellschaftlichen Kontrollmechanismen ohne direkte Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'apokalyptischer Gewalt' ohne direkte Textbelege"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität zwischen realer und symbolischer Bedrohung ist textbasiert und tiefgehend"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft die 'narcotic that forges their union' mit staatlichen Experimenten ohne direkte Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'post-Kaltem-Krieg-Unsicherheit' ohne direkte Textbelege"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'circus' und die Rolle des Clowns ist tiefgehend und textbasiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft das 'circus' mit innerpsychischen Phänomenen ohne direkte Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'dystopischer Bildwelt' ohne direkte Textbelege"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität zwischen realer und symbolischer Bedrohung ist textbasiert und tiefgehend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verknüpft die 'secret drug' mit undurchsichtigen Machtstrukturen ohne direkte Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'post-kalter Kriegs-Unsicherheit' ohne direkte Textbelege"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'circus' und die Rolle des Clowns ist tiefgehend und textbasiert"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Varianz in Bezug auf Halluzinationen und Tiefe",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und vermeidet unnötige Halluzinationen"
+  }
+}

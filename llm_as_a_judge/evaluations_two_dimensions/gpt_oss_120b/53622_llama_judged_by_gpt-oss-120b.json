@@ -1,0 +1,108 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Art Selbstinszenierung verstanden werden, bei der die Rapper ihre eigene Legende und ihren Status als erfolgreiche Künstler betonen.",
+          "Die Wiederholung von Phrasen wie \"It's not how they say\" und \"I head to the cloud\" unterstreicht dies, indem sie die Rapper als überlegen und unangreifbar darstellen.",
+          "Insgesamt kann \"Drinks & Clout\" als ein Song verstanden werden, der die Oberflächlichkeit und den Materialismus der heutigen Gesellschaft reflektiert und gleichzeitig die Selbstinszenierung und den Erfolg der Rapper feiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Zieht konsequent Textzitate heran (z. B. „Hunderttausend Euro ist ein Feature wert“, „Ich stapel auf dei'm Booty Money Stacks“).",
+          "Erklärt klar, dass der Text von Luxus, Selbstbewusstsein und Materialismus handelt.",
+          "Bietet eine zusammenhängende Interpretation, die den gesamten Song im Blick behält."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Trotz der oberflächlichen und oft sexistischen Texte kann man auch eine gewisse Selbstreflexion und Ironie in den Aussagen erkennen.",
+          "Die Rapper scheinen sich ihrer eigenen Rolle und ihrer Position in der Gesellschaft bewusst zu sein und spielen mit den Erwartungen und Klischees, die an sie gestellt werden.",
+          "Der Song kann auch als eine Art Satire auf die moderne Gesellschaft und die Oberflächlichkeit der sozialen Medien interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Hauptaussagen lassen sich direkt aus dem Songtext ableiten (Selbstbewusstsein, Luxus, Gang‑Zugehörigkeit, Sexismus).",
+          "Verknüpft die Textpassagen zu einer kohärenten Gesamtaussage über Macht und Materialismus.",
+          "Vermeidet unnötige biografische Details, die nicht im Text vorkommen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als Ausdruck einer bestimmten Machokultur interpretiert werden, in der die Männlichkeit durch die Fähigkeit, Frauen zu verführen und zu beherrschen, demonstriert wird.",
+          "Insgesamt spiegelt der Song eine Welt wider, in der der Konsum, die soziale Anerkennung und die Männlichkeit im Vordergrund stehen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stützt sich stark auf konkrete Textstellen (z. B. „Sie will meine Drinks und die Clout“, „Hunderttausend Euro ist ein Feature wert“).",
+          "Erkennt die Machokultur‑Komponente, die im Text implizit vorhanden ist, und formuliert sie klar.",
+          "Bietet eine gut strukturierte Analyse, die sowohl Luxus‑ als auch Aggressiv‑Elemente des Songs berücksichtigt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussagen \"Sie will meine Drinks und die Clout\" unterstreichen, dass die Frauen nachteilig und manipulativ dargestellt werden.",
+          "Der Song kann auch als eine Art Selbstinszenierung verstanden werden, bei der die Rapper ihre eigene Legende und ihren Status als erfolgreiche Künstler betonen.",
+          "Die Wiederholung von Phrasen wie \"It's not how they say\" und \"I head to the cloud\" unterstreicht dies, indem sie die Rapper als überlegen und unangreifbar darstellen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit einer Analyse von Materialismus und Selbstinszenierung.",
+          "Erkennt die aggressive und misogynistische Tonalität des Textes und benennt sie klar.",
+          "Bleibt bei den im Song vorhandenen Fakten und vermeidet spekulative Biografien."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Trotz der oft provokativen und sexistischen Aussagen kann der Song auch als eine Art Selbstreflexion und Kritik an der Oberflächlichkeit und dem Materialismus der heutigen Gesellschaft interpretiert werden.",
+          "Die Rapper thematisieren die Oberflächlichkeit und die Sucht nach Anerkennung und Ruhm, die in der heutigen Gesellschaft vorherrschen.",
+          "Der Song kann auch als eine Art Parodie auf die Exzesse und den Überkonsum der heutigen Gesellschaft verstanden werden, in der die Menschen nach immer mehr und immer teureren Dingen streben, ohne sich um die wirklichen Werte und Bedürfnisse zu kümmern."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt klar fest, dass der Text Luxus, Gang‑Zugehörigkeit und Aggression thematisiert.",
+          "Erkennt mögliche kritische Untertöne (Satire/Parodie) und benennt sie als mögliche Interpretation.",
+          "Bleibt bei den im Text vorhandenen Elementen und fügt keine unbelegten biografischen Fakten hinzu."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Selbstbewusstsein, Luxus, Gang‑Zugehörigkeit, Sexismus). Die Varianz liegt hauptsächlich in den spekulativen Schlussfolgerungen; Interpretation 5 enthält die wenigsten unbelegten Aussagen.",
+    "empfehlung": "Interpretation 5 liefert die ausgewogenste Analyse: sie bleibt größtenteils texttreu, weist die geringste Halluzinationsrate auf und bietet gleichzeitig eine tiefgehende, aber textbasierte Betrachtung der Machokultur‑Komponente des Songs."
+  }
+}

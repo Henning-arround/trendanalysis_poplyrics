@@ -1,0 +1,105 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholten „da da da“ und das japanische Zählen „Ichi, Ni, San“ dienen nicht nur als rhythmische Elemente, sondern symbolisieren die universelle, fast mechanische Struktur von Trends, die überall gleich ablaufen.",
+          "Schließlich wird das Publikum aktiv einbezogen („If you want some, come get some“), was den Song zu einem Aufruf macht, die eigene Kreativität zu entfalten und gleichzeitig zu zeigen, dass wahre Innovation erst entsteht, wenn man den Mut hat, aus dem Strom auszubrechen und neue Wege zu beschreiten."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse fast jedes einzelnen Satzes des Songs.",
+          "Erkennt und erklärt die paradoxen Elemente von „Get in, fit in, get out“.",
+          "Verknüpft wiederholte Motive (da‑da, Ichi‑Ni‑San) mit ihrer funktionalen Rolle im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholten lautmalerischen „da da da“ und das japanische Zählen „Ichi, Ni, San“ dienen nicht nur als rhythmische Elemente, sondern symbolisieren die universelle, fast spielerische Natur des Aufrufs, etwas Neues zu probieren, ohne sprachliche Barrieren.",
+          "Durch die ständige Wiederholung von Schlüsselphrasen entsteht ein hypnotischer Effekt, der die Hörer in den Prozess des Ausprobierens einbindet.",
+          "Der Song schließt mit einem offenen „Do, do, do…“, das die Möglichkeit betont, eigenständig zu handeln, während die vorherige Struktur bereits gezeigt hat, dass das Brechen von Normen nicht nur akzeptiert, sondern letztlich nachgeahmt wird.",
+          "So wird das Stück zu einer Hymne der Selbstbestimmung, die gleichzeitig die Dynamik von Trendbildung und individueller Innovation reflektiert."
+        ],
+        "positive_aspekte": [
+          "Gute Verbindung von Textzitat und Interpretation (z. B. „Everyone wants to be like the other“).",
+          "Erklärt den paradoxen Charakter des Refrains."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die wiederholten „Da‑da“- und „Ichi, Ni, San“-Passagen wirken wie rhythmische Befreiungsrufe, die das monotone Kopieren von Stilen durchbrechen und zum Experimentieren einladen.",
+          "Indem die Sängerin die Hörer auffordert, „something different“ zu versuchen, wird ein Aufruf zur kreativen Selbstverwirklichung ausgesprochen, der letztlich suggeriert, dass wahre Führungspositionen erst entstehen, wenn man den Mut hat, abseits des Mainstreams zu handeln.",
+          "So wird das Lied zu einer Hymne des individuellen Ausdrucks im Spannungsfeld zwischen Konformität und Innovation."
+        ],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung von Vers‑ und Refrain‑Inhalten.",
+          "Verweist konsequent auf die wiederkehrenden Motive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Einbinden der japanischen Zählweise „Ichi, Ni, San“ verleiht dem Stück einen internationalen, spielerischen Charakter und unterstreicht die Idee, dass man die eigenen Schritte bewusst zählen und steuern kann.",
+          "Am Ende des Songs wird die Aufforderung, „etwas anderes zu versuchen“ und „zu tun, was man wollte“, zu einem manifesten Appell an die Hörer, die eigenen Grenzen zu überschreiten und damit unbeabsichtigt Trends zu setzen.",
+          "So wird das Stück zu einer Hymne der Selbstbestimmung, die gleichzeitig die paradoxe Dynamik von Anpassung und Innovation in der Popkultur reflektiert."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die „da da da“-Sequenz mit ihrer möglichen Funktion als „musikalischer Schleier\".",
+          "Erklärt den Wechsel von Konformität zu Rebellion im Refrain."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Einbindung japanischer Zählwörter („Ichi, Ni, San“) bricht die sprachliche Erwartungshaltung und symbolisiert das bewusste Durchbrechen kultureller Grenzen, was den Aufruf untermauert, eigene Bewegungen zu wählen („move how you want“, „do what you wanted“).",
+          "Insgesamt präsentiert der Song eine paradoxe Haltung: Er ermutigt zum Experimentieren und zur Selbstverwirklichung, während er gleichzeitig die unvermeidliche Dynamik von Nachahmung und Trendbildung anerkennt.",
+          "Die Botschaft ist, dass wahre Veränderung erst entsteht, wenn man den Mut hat, aus dem Strom auszubrechen, weil das, was heute als verrückt gilt, morgen die neue Norm werden kann."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse jedes thematischen Elements (Konformität, Spott, „da da da“, japanische Zählung).",
+          "Erkennt und erklärt die ironische Wirkung des Mantras „Get in, fit in, get out\"."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5.0,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben faktentreu (keine Halluzinationen). Die Tiefe variiert: Interpretationen 3 und 4 bieten die tiefste, textbasierte Analyse, während 1, 2 und 5 mehr allgemeine, oberflächliche Aussagen enthalten.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf einer balancierten Mischung aus konkreter Textbeobachtung und tiefer, aber begründeter Interpretation liegen – wie in Interpretation 3 und 4 gezeigt. Vermeiden Sie vage, nicht belegbare Aussagen, um die Tiefe zu erhöhen, ohne die Faktentreue zu gefährden."
+  }
+}

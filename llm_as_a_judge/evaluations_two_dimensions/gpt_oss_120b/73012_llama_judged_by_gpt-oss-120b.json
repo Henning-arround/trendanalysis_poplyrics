@@ -1,0 +1,125 @@
+{
+  "song": "Reise, Reise - Rammstein (2004)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Textzeilen und die rhythmische Struktur des Songs verstärken die Atmosphäre der Bedrohung und der Gefahr, die den Song durchzieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Tod, der auf den Weltmeeren herrscht, wobei die Band die Parallelen zwischen dem Kampf der Menschen und dem Kampf in der Natur zieht.",
+          "Die wiederkehrende Aufforderung kann als Mahnung oder Fluch verstanden werden.",
+          "Die Wellen, die \"leise weinen\", symbolisieren die Trauer und den Schmerz.",
+          "Die Lanze und das Blut unterstreichen Brutalität und Endgültigkeit des Todes.",
+          "Der Refrain deutet darauf hin, dass Gewalt und Tod ein universelles Phänomen sind.",
+          "Die schwarze Seele symbolisiert Dunkelheit und Hoffnungslosigkeit."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die zentralen Bildmotive (Speer, Blut, weinende Wellen).",
+          "Stellt einen klaren Zusammenhang zwischen den wiederholten Textzeilen und dem Thema Gewalt her."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Tod, der auf den Weltmeeren herrscht, wobei die Band die Parallelen zwischen dem Kampf der Menschen und dem Kampf in der Natur zieht.",
+          "Die wiederkehrende Aufforderung kann als Mahnung oder Fluch verstanden werden.",
+          "Die Wellen, die \"leise weinen\", symbolisieren die Trauer und den Schmerz.",
+          "Die Lanze und das Blut unterstreichen Brutalität und Endgültigkeit des Todes.",
+          "Der Refrain deutet darauf hin, dass Gewalt und Tod ein universelles Phänomen sind.",
+          "Die schwarze Seele symbolisiert Dunkelheit und Hoffnungslosigkeit.",
+          "Der Song endet mit einer Wiederholung, die wie ein Echo durch die Zeit hallt."
+        ],
+        "positive_aspekte": [
+          "Stellt die wichtigsten Textstellen korrekt wieder.",
+          "Verknüpft die Symbolik von Blut und Wellen mit dem Gesamtthema."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Tod, der auf den Weltmeeren herrscht, wobei die Grenzen zwischen Mensch und Tier, zwischen Krieg und Jagd, verschwimmen.",
+          "Die wiederkehrende Aufforderung kann als Mahnung oder Fluch verstanden werden, die den Seemann auf eine Reise in den Tod schickt.",
+          "Die Wellen, die \"leise weinen\", symbolisieren die Trauer und den Schmerz.",
+          "Die Lanze und das Blut unterstreichen Brutalität und Tod auf den Meeren.",
+          "Die Zeile über die schwarze Seele deutet auf spirituelle Leere oder Verzweiflung hin.",
+          "Der Song endet mit einer Wiederholung, die die Gewalt als unvermeidliches Schicksal darstellt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die thematische Verschmelzung von Mensch‑Tier‑Konflikt und Krieg/Jagd.",
+          "Bietet eine etwas differenziertere Interpretation der „schwarzen Seele“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung der Textzeilen und die rhythmische Struktur des Songs verstärken die Atmosphäre der Bedrohung und der Gefahr, die den Song durchzieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Tod, der auf den Weltmeeren herrscht, wobei die Band die Parallelen zwischen dem Kampf der Menschen und dem Kampf in der Natur zieht.",
+          "Die wiederkehrende Aufforderung kann als Mahnung oder Fluch verstanden werden.",
+          "Die Wellen, die \"leise weinen\", symbolisieren die Trauer und den Schmerz.",
+          "Die Lanze und das Blut unterstreichen Brutalität und Endgültigkeit des Todes.",
+          "Die schwarze Seele kann als Symbol für Dunkelheit und Hoffnungslosigkeit verstanden werden.",
+          "Der Refrain suggeriert, dass jeder auf seine eigene Art an Gewalt und Tod beteiligt ist."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Bildsprache (Speer, Blut, weinende Wellen).",
+          "Verbindet die wiederholten Zeilen mit einer Aussage über universelle Gewalt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Gewalt und den Tod, der auf den Weltmeeren herrscht, wobei die Band die Parallelen zwischen dem Kampf der Menschen und dem Kampf in der Natur zieht.",
+          "Die wiederkehrende Aufforderung kann als Mahnung oder Fluch verstanden werden.",
+          "Die Wellen, die \"leise weinen\", symbolisieren die Trauer und den Schmerz.",
+          "Die Lanze und das Blut unterstreichen Brutalität und Endgültigkeit des Todes.",
+          "Der Refrain deutet darauf hin, dass Gewalt und Tod ein universelles Phänomen sind.",
+          "Die schwarze Seele symbolisiert Dunkelheit und Hoffnungslosigkeit.",
+          "Der Song endet mit einer Wiederholung, die die Zuhörer an universelle Gewalt erinnert."
+        ],
+        "positive_aspekte": [
+          "Korrekte Wiedergabe der wichtigsten Textstellen.",
+          "Klare Verbindung zwischen Bildsprache und dem Thema Gewalt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich in zusätzlichen, teils erfundenen Aussagen (z.B. zur Rhythmik).",
+    "empfehlung": "Interpretation 4 liefert die faktentreueste Analyse und geht am tiefsten auf die Textbilder ein, ohne spekulative Musikanalysen. Ein Ansatz, der klare Textbelege mit einer differenzierten, aber nicht übertriebenen Symboldeutung kombiniert, ist am erfolgversprechendsten."
+  }
+}

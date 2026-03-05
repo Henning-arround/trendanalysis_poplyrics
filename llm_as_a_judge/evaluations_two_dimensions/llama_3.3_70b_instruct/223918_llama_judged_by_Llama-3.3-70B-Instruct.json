@@ -1,0 +1,99 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Verdrängung und Schweigen' als Thema ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass der Text 'eine Atmosphäre der Verwirrung und des Rätsels schafft'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textzeilen und die Identifizierung von Symbolen und Bildern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'patent shoe' und 'wider belt' als Oberflächlichkeit und Konformismus ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Textzeilen 'eine komplexe Welt der Illusionen' schaffen, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Identifizierung der Doppelbödigkeit der menschlichen Natur durch 'public face' und 'private eye'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'heinous crime' und 'body blow' als dunkle und gewaltsame Realität ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass die Textzeilen 'eine Welt der Illusionen' schaffen, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Identifizierung der Wiederkehr der Phrase 'Hear no evil, See no evil, Speak no evil' als Hinweis auf die Verdrängung der Wahrheit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'patent shoe' und 'wider belt' als Oberflächlichkeit und Konformismus ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass die Textzeilen 'eine komplexe Welt der Illusionen' schaffen, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Identifizierung der Doppelbödigkeit der menschlichen Natur durch 'public face' und 'private eye'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'Clues' als Einladung, selbst nach den 'Clues' zu suchen, um die Wahrheit zu entdecken, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass der Text 'eine Atmosphäre der Verwirrung und des Rätsels schafft'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textzeilen und die Identifizierung von Symbolen und Bildern"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Identifizierung von Symbolen und Bildern, aber variieren in der Tiefe der Analyse",
+    "empfehlung": "Eine Kombination aus detaillierter Textanalyse und offener Interpretation, die die Ambivalenzen und Mehrdeutigkeiten des Textes berücksichtigt, wäre der beste Ansatz"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Planetarium - Covenant (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Überreste vergangener Kulturen, Mythen und Ideale bilden das Fundament des gegenwärtigen Weltbildes"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Streben nach den 'outer dimensions' wird zum Akt der Selbstvervollständigung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Textes, die die zentralen Themen und Motive hervorhebt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Universum wird nicht als bloße Ansammlung physischer Phänomene dargestellt, sondern als Träger 'universal secrets'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bildsprache von Sternen, schwarzen Auren und serpentinischen Versuchungen verkörpert das zentrale Motiv einer existenziellen Suche nach Sinn"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die verwendete Bildsprache und ihre Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I drank the passions of those lost in the paradox' fungiert als Bild für das innere Aufsaugen widersprüchlicher Emotionen und Ideen, die in den Paradoxien der Geschichte verankert sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild der Sterne, die die eigene Essenz berühren, lässt den Sprecher in einen Zustand der Ehrfurcht und Verwirrung fallen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der verwendeten Metaphern und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'universal secrets' und der 'cosmic error' suggerieren, dass das Wissen um das All zugleich ein Irrtum ist, ein Paradoxon, das von den 'dying generations' geformt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Streben nach den 'outer dimensions' wird zum Akt der Selbstvervollständigung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die zentralen Themen und Motive des Textes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung 'reach beyond the constellations' fungiert als Mantra, das den Protagonisten zu einem Sprung über das Bekannte hinaus drängt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Begegnung mit den Sternen, die die eigene Essenz berühren, löst ein 'weinen des letzten Schöpfungs' aus"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine klare und strukturierte Analyse des Textes, die die zentralen Themen und Motive hervorhebt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der zentralen Themen und Motive, jedoch gibt es einige Variationen in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine klare und strukturierte Analyse des Textes bietet und die zentralen Themen und Motive hervorhebt. Es ist jedoch wichtig, die anderen Interpretationen zu berücksichtigen, um eine umfassendere Übersicht über den Text zu erhalten"
+  }
+}

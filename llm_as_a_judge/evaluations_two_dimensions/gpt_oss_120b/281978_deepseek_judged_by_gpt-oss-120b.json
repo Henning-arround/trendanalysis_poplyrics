@@ -1,0 +1,96 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text von \"You Know I Miss You\" sind ein früher Ausdruck des Rock 'n' Roll und zeigen die Fähigkeit von Fats Domino, emotionale und authentische Musik zu schaffen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle inhaltlichen Aussagen beziehen sich direkt auf Textzeilen.",
+          "Klare, textbasierte Analyse der Wiederholungen und ihrer Bedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text von \"You Know I Miss You\" sind ein früher Ausdruck des R&B-Stils, der in den 1950er Jahren populär wurde und der die emotionale Intensität und die sinnliche Attraktivität von Fats Dominos Musik widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Durcharbeitung jedes lyrischen Elements (Refrain, „Lordy“, zweite Strophe).",
+          "Verknüpfung von Wortwahl und emotionaler Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein klassisches Beispiel für die frühe Rock-and-Roll-Musik und zeigt Fats Dominos Fähigkeit, emotionale und einprägsame Songs zu schreiben."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"You Know I Miss You\" ein Song, der die universellen menschlichen Emotionen von Sehnsucht, Verlangen und Liebe ausdrückt und die tiefe emotionale Verbindung zwischen zwei Menschen thematisiert."
+        ],
+        "positive_aspekte": [
+          "Gute Struktur: Einleitung, Analyse der einzelnen Zeilen, zusammenfassende Bewertung.",
+          "Vermeidet unnötige biografische Details."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt spiegelt der Song die universellen menschlichen Erfahrungen von Sehnsucht, Liebe und Verlangen wider und zeigt, wie Musik als Medium dienen kann, um tiefe emotionale Zustände auszudrücken."
+        ],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, keine falschen Genre‑ oder Biografie‑Angaben.",
+          "Erklärt die Erwartungshaltung in der zweiten Strophe."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text von \"You Know I Miss You\" sind ein früher Ausdruck des Rock 'n' Roll und zeigen bereits die charakteristischen Elemente von Fats Dominos Stil, wie seine einzigartige Stimme und seine Fähigkeit, emotionale Tiefe in seinen Songs zu erzeugen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Analysepunkte lassen sich klar auf die vorliegenden Zeilen zurückführen.",
+          "Ergänzt die Interpretation um stilistische Hinweise, die jedoch im Text verankert sind."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich in den zusätzlichen (teils erfundenen) Genre‑ und Stilbehauptungen.",
+    "empfehlung": "Interpretation 2 liefert die höchste faktentreue (keine erfundenen Aussagen) und bleibt gleichzeitig textnah. Für zukünftige Analysen sollte man die Balance zwischen textbasierter Detailtiefe und Vermeidung von unbegründeten Genre‑ oder Biografie‑Einordnungen weiter stärken."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von 'survival' und 'lost' in einer postmodernen Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Pop-Ballade-Tradition, die persönliche Vulnerabilität in den Vordergrund stellt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und Metaphern, die den inneren Kreislauf von Angst und Sehnsucht bildlich machen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die thematische Komplexität entsteht aus dem Spannungsfeld zwischen Liebe als lebensspendender Kraft und als potenziell zerstörerischer Obsession"
+        ],
+        "oberflächliche_aussagen": [
+          "Die narrative Struktur bleibt fragmentarisch"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambiguität zwischen Hoffnung und Resignation"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die thematische Komplexität entsteht aus der Spannung zwischen einer scheinbar romantischen Selbstaufgabe und einer impliziten Angst vor Verlust"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bildsprache bleibt jedoch ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und Metaphern, die die Verzweiflung verstärken"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Gleichsetzung von 'love' mit Existenz"
+        ],
+        "oberflächliche_aussagen": [
+          "Die damalige Ideologie von romantischer Unverzichtbarkeit und gleichzeitigem Wunsch nach individueller Autonomie"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Anaphern und Wiederholungen, die ein Gefühl von Dringlichkeit und Verzweiflung erzeugen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die subtile Machtspiel-Dynamik, die weder eindeutig als Opfer- noch als Täterposition aufgelöst wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die gender-spezifische Erwartung, dass Frauen ihre emotionale Stabilität über die Beziehung definieren"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und Metaphern, die die innere Verzweiflung akustisch verstärken"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die beste Interpretation (Nr. 5) zeigt eine hohe Tiefe und eine moderate Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine hohe Sensibilität für die Ambivalenzen und Mehrdeutigkeiten im Text."
+  }
+}

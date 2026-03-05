@@ -1,0 +1,99 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sonne als Symbol für Liebe verstärkt diesen Gedanken: Sie ist allgegenwärtig, unverzichtbar und spendet Energie, doch zugleich kann sie blendend und übermächtig sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Love is here / Love is there / Love is everywhere' deuten auf eine omnipräsente, fast kommerzialisierte Liebe hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Reflexion über die Art, wie moderne Beziehungen und Selbstwertgefühl im Zeitalter der Popkultur konstruiert werden"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Durch die ständige Wiederholung von 'Love is like the sun' entsteht ein hypnotischer Effekt, der die Unmittelbarkeit des Gefühls betont, aber gleichzeitig die Oberflächlichkeit einer immer wieder neu aufgelegten Pop-Hook widerspiegelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Love is here / Love is there / Love is everywhere' erweitern das Bild zu einer omnipräsenten, fast schon kommerzialisierten Emotion"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation kritisiert subtil die Tendenz, Liebe in ein messbares, chartbasiertes Format zu pressen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Metapher 'Love is like the sun' fungiert als Bild für allgegenwärtige, lebensspendende Energie"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sonne steht für Beständigkeit, Wärme und das Durchdringen aller Räume"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verbindet das persönliche Verlangen nach Exklusivität mit einer universellen, fast spirituellen Sichtweise von Liebe als lebensspendendes Licht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sonne als Symbol für Liebe verstärkt diesen Gedanken: Sie ist allgegenwärtig, unverzichtbar und spendet Energie, doch zugleich ist sie unbarmherzig und kann alles verbrennen, was ihr zu nahe kommt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Love is here / Love is there / Love is everywhere' erweitern das Bild zu einer omnipräsenten, fast kommerzialisierten Präsenz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation kritisiert die Oberflächlichkeit des Ausdrucks und die Reduktion von Liebe auf eine simplen Formel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sonne als Symbol für Liebe verstärkt diesen Gedanken: Sie ist allgegenwärtig, unverzichtbar und spendet Wärme, doch zugleich ist sie ein grelles, unbarmherziges Licht, das alles offenlegt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Love is here / Love is there / Love is everywhere' erweitern das Bild zu einer omnipräsenten Kraft, die jedoch kaum differenziert wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation kann als Kommentar auf die Kommodifizierung von Emotionen gelesen werden"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber alle bieten interessante Einblicke in den Songtext",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und bietet eine tiefere Reflexion über die Art, wie moderne Beziehungen und Selbstwertgefühl im Zeitalter der Popkultur konstruiert werden"
+  }
+}

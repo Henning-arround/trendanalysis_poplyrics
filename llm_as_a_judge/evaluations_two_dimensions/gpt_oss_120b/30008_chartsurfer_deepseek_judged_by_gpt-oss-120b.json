@@ -1,0 +1,124 @@
+{
+  "song": "Dick and Jane - Bobby Vinton (1974)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch eine Hommage an die Kindheit und die Unschuld der Jugend.",
+          "Doch die Zeit vergeht, und die Dinge ändern sich.",
+          "Jane stirbt, und der Sänger ist gezwungen, sich von ihr zu verabschieden.",
+          "Der Refrain \"Look, Dick look, look at Jane\" wird zu einem Symbol für die Verdrängung und die Weigerung, die Realität anzuerkennen.",
+          "Der Sänger kann nicht akzeptieren, dass Jane nicht mehr da ist, und er bleibt in seiner Fantasie von einer vergangenen Zeit stecken.",
+          "Der Song ist eine melancholische Reflexion über die Vergänglichkeit des Lebens und die Macht der Erinnerung.",
+          "Durch die simple und fast kindliche Struktur des Textes unterstreicht Vinton die Tragik und die Einsamkeit des Sängers, der in seiner Erinnerung an Jane gefangen bleibt."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen, die sich auf den Text beziehen, sind korrekt wiedergegeben.",
+          "Die Interpretation folgt einer klaren, linearen Struktur, die den Handlungsablauf des Songs nachvollziehbar macht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Jane und Dick wegziehen, verliert den Kontakt zu ihr.",
+          "Er kann nur noch einmal ihre Hand küssen, als er an ihrem Grab steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch eine Hommage an die unschuldige und unkomplizierte Liebe der Kindheit.",
+          "Der Refrain \"Look, Dick look, look at Jane\" wird zu einer Art von Verklärung, in der der Sänger seine Erinnerungen an Jane noch einmal durchlebt.",
+          "Der Song kann auch als eine Metapher für die Vergänglichkeit der Jugend und der Liebe interpretiert werden.",
+          "Der Sänger bleibt in seiner Vergangenheit stecken und kann nicht loslassen, während die Zeit weiterläuft und die Menschen um ihn herum altern und sterben.",
+          "Der Song ist eine melancholische Reflexion über die Verlorenheit und die Unerfülltheit der menschlichen Existenz."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte Wiedergabe der konkreten Textstellen (Kindheitsschwärmerei, Heiratswunsch, Tod).",
+          "Bietet eine weiterführende Interpretation (Metapher für Vergänglichkeit), die über die reine Inhaltsangabe hinausgeht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch eine Hommage an die Kindheit und die Unschuld der Jugend.",
+          "Doch die Zeit vergeht, und die Dinge ändern sich.",
+          "Jane stirbt, und der Sänger bleibt zurück, um seine Erinnerungen an sie zu bewahren.",
+          "Der Refrain \"Look, Dick look, look at Jane\" wird zu einem Symbol für die Verdrängung und die Weigerung, die Realität anzuerkennen.",
+          "Der Sänger kann nicht akzeptieren, dass Jane nicht mehr da ist, und er bleibt in seiner Vorstellung von ihr als das Mädchen, das er liebt, gefangen.",
+          "Der Song ist eine melancholische Reflexion über die Vergänglichkeit des Lebens und die Macht der Erinnerung."
+        ],
+        "positive_aspekte": [
+          "Alle faktischen Aussagen zum Songinhalt sind korrekt.",
+          "Konsistente Sprache und klare Gliederung der Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch eine Hommage an die Kindheit und die Unschuld der Jugend.",
+          "Doch die Zeit vergeht, und die Dinge ändern sich.",
+          "Jane stirbt, und der Sänger bleibt zurück, um seine Erinnerungen an sie zu bewahren.",
+          "Der Refrain \"Look, Dick look, look at Jane\" wird zu einem Symbol für die Verdrängung und die Weigerung, die Realität anzuerkennen.",
+          "Der Sänger kann nicht akzeptieren, dass Jane nicht mehr da ist, und er bleibt in seiner Fantasie von einer vergangenen Zeit gefangen.",
+          "Der Song ist eine melancholische Reflexion über die Vergänglichkeit des Lebens und die Macht der Erinnerung.",
+          "Durch die simple und fast kindliche Struktur des Textes unterstreicht Vinton die Tragik und die Einsamkeit des Sängers."
+        ],
+        "positive_aspekte": [
+          "Stimmt exakt mit den im Text genannten Ereignissen überein.",
+          "Gute Übersicht über die narrative Entwicklung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist auch eine Hommage an die Kindheit und die Unschuld der Jugend.",
+          "Doch die Zeit vergeht, und die Dinge ändern sich.",
+          "Jane stirbt, und der Sänger ist gezwungen, sich von ihr zu verabschieden.",
+          "Der Refrain \"Look, Dick look, look at Jane\" wird zu einem Symbol für die Verdrängung und die Weigerung, die Realität anzuerkennen.",
+          "Der Sänger kann nicht akzeptieren, dass Jane nicht mehr da ist, und er bleibt in seiner Fantasie von einer vergangenen Zeit stecken.",
+          "Der Song ist eine melancholische Reflexion über die Vergänglichkeit des Lebens und die Macht der Erinnerung.",
+          "Durch die simple und fast kindliche Struktur des Textes unterstreicht Vinton die Tragik und die Einsamkeit des Sängers, der in seiner Erinnerung an Jane gefangen bleibt."
+        ],
+        "positive_aspekte": [
+          "Vollständige und korrekte Wiedergabe der Songinhalte.",
+          "Klare, nachvollziehbare Argumentationskette."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im Anteil an oberflächlichen, nicht textbasierten Aussagen. Interpretation 1 enthält die meisten eigenständigen, textgebundenen Analysen, während die anderen stark von generischen, vagen Formulierungen geprägt sind.",
+    "empfehlung": "Für eine ausgewogene Analyse, die sowohl faktentreu als auch tiefgehend ist, sollte man den Ansatz von Interpretation 1 übernehmen und gleichzeitig die überflüssigen, oberflächlichen Generalisierungen reduzieren. So entsteht eine Interpretation, die den Songtext präzise wiedergibt und zugleich tiefere, begründete Bedeutungsansätze bietet."
+  }
+}

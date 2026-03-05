@@ -1,0 +1,111 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität des Adressaten „Mr. C.“ – als mögliche Selbstreferenz des Sängers Perry Como, als archetypischer Crooner oder als paternal‑ähnliche Figur – lässt mehrere Deutungen zu, ohne dass der Text eine eindeutige Auflösung bietet.",
+          "Historisch ist das Werk in das frühe 1960er‑Jahrzehnt eingebettet, eine Phase, in der der Crooner‑Stil noch als Symbol für Stabilität und häusliche Geborgenheit nach dem Zweiten Weltkrieg fungierte.",
+          "In einer Zeit wachsender Jugendkultur und beginnender gesellschaftlicher Aufbrüche bietet das Lied eine Flucht in die vertraute, männlich‑stimmige Intimität, die zugleich die wachsende Individualisierung widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Textanalyse (Wiederholungen, Anapher, Präsens‑Stimme).",
+          "Klare Herausarbeitung von Spannungsfeldern zwischen Intimität und Isolation.",
+          "Gute Balance zwischen textgebundener Interpretation und historischer Kontextualisierung (trotz einiger spekulativer Elemente)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anrede „Mr. C.“ bleibt mehrdeutig: sie kann Perry Como selbst, einen idealisierten Crooner oder ein generisches Symbol für die Popkultur der frühen 60er‑Jahre bezeichnen, was die narrative Klarheit bewusst unterläuft.",
+          "Historisch verortet sich das Werk im Kontext des aufkommenden Massenmedienzeitalters, in dem der Sänger als Vermittler persönlicher Sehnsüchte fungierte.",
+          "Die Sehnsucht nach einem „nur für mich“‑Lied spiegelt die post‑war‑Entfremdung und das Bedürfnis nach individueller Identität in einer zunehmend uniformierten Gesellschaft wider."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Analyse von Stilmitteln (Wiederholung, Anrede).",
+          "Erkenntnis der Mehrdeutigkeit von „Mr. C.“ und deren mögliche Bedeutungen.",
+          "Verknüpfung von Textinhalt mit gesellschaftlichen Tendenzen der 60er‑Jahre."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anrede „Mr. C.“ – ein Hinweis auf Perry Como selbst – eröffnet eine meta‑narrative Schicht, in der der Sänger zugleich Subjekt und Objekt des Begehrens ist.",
+          "Die affektive Wirkung ist dabei zugleich beruhigend (durch die sanfte Stimme Como’s) und leicht beunruhigend, weil das Verschwinden der Gemeinschaft eine unterschwellige Einsamkeit suggeriert.",
+          "Historisch ist das Stück in den frühen 1960er‑Jahren zu verorten, einer Phase, in der das amerikanische Konsumideal von Individualisierung und persönlichem Komfort wuchs.",
+          "Das Verlangen nach einem „song … just for me“ spiegelt das Aufkommen von Medien, die private Unterhaltung in den Vordergrund stellten, während das implizite Ausblenden anderer Personen die wachsende Fragmentierung sozialer Räume andeutet."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Herausarbeitung der Wiederholungsstruktur als „Mantra\".",
+          "Verbindung von Textinhalt mit dem Konzept von Individualität und Medienkonsum.",
+          "Erkenntnis der Ambivalenz zwischen Nähe und Isolation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Mr. C.“ fungiert zugleich als vertrauter Freund und als Symbol der massenkompatiblen Crooner‑Kultur der frühen 1960er‑Jahre.",
+          "Die sanfte Baritonlage erzeugt eine beruhigende, fast hypnotische Atmosphäre, die zugleich ein Gefühl von Sehnsucht und Unsicherheit erzeugt, weil das Versprechen einer exklusiven Darbietung nie konkretisiert wird.",
+          "Im historischen Kontext von 1962, einer Übergangsphase zwischen dem goldenen Zeitalter der Crooner und dem Aufkommen der Rock‑&‑Pop‑Rebellion, kann das Lied als kulturelles Echo der Sehnsucht nach Stabilität und persönlicher Nähe interpretiert werden.",
+          "Die Figur „Mr. C.“ steht symbolisch für die Autorität des Rundfunks, während die Forderung nach Exklusivität die wachsende Kritik an der Massenkultur impliziert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Analyse der Wiederholung als anaphorisches Mittel.",
+          "Erkenntnis der ambivalenten Lesart des „Verschwindens“.",
+          "Einbindung des historischen Übergangs von Crooner zu Rock‑&‑Pop."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anrede „Mr. C.“ fungiert als Metonymie für den Crooner, den Radiomoderator oder sogar für das Konzept des kulturellen Konsums; sie bleibt bewusst mehrdeutig.",
+          "Historisch verortet sich das Werk im frühen 1960er‑Jahre‑Amerika, einer Phase, in der der Crooner‑Stil noch als Gegenpol zu den aufkommenden Rock‑‘n‑Roll‑Klängen galt und gleichzeitig als Medium der post‑war‑Entspannung fungierte.",
+          "In diesem Kontext kann das Lied als Ausdruck einer Generation gelesen werden, die nach Stabilität und persönlicher Geborgenheit sucht, während die implizite „Verschwinden‑der‑Anderen“-Logik die Angst vor kultureller Homogenisierung widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klar strukturierte Analyse von Stilmitteln (Wiederholung, Anapher).",
+          "Erkenntnis der Mehrdeutigkeit von „Mr. C.“ und deren mögliche Funktionen.",
+          "Verknüpfung von Textinhalt mit einer breiteren kulturellen Entwicklung der 60er‑Jahre."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.0,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen die zentrale Wiederholung und das Motiv des Verschwindens auf; die Varianz liegt vor allem in der Tiefe historischer Kontextualisierung und im Anteil spekulativer Aussagen.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus textnaher Analyse und tiefgehender, aber begründeter Kontextualisierung, während sie die spekulativen Elemente auf ein Minimum reduziert. Für zukünftige Bewertungen sollte der Fokus auf belegbare Textbezüge gelegt werden, um den Halluzinations‑Score zu senken, ohne die analytische Tiefe zu verlieren."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung des Songs kann als eine Exploration der menschlichen Emotionen und der Komplexität von Beziehungen verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Sehnsucht nach einer nahenden Person zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung literarischer Stilmittel wie Metaphern und Symbole wird gut analysiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bitte, 'einen Moment Zeit zu nehmen und ihn zurückzudrehen, damit wir von vorne beginnen können', verdeutlicht den Wunsch nach einer zweiten Chance und einer möglichen Korrektur vergangener Fehler."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Texte noch verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der 'silky skin' als Symbol für Attraktivität und Verletzlichkeit ist interessant."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'That is just a smile' kann als Hinweis auf die fragile Natur der Beziehung interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert universelle Emotionen wie Liebe, Verlust und Sehnsucht."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Refrains und der Bitte, 'mir zu zeigen, dass du fein bist', ist gut."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Bitte, 'eine Momentaufnahme zu nehmen und zurückzudrehen, damit wir von vorne beginnen können', verdeutlicht den Wunsch nach einer zweiten Chance und einer möglichen Korrektur vergangener Fehler."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der 'seidene Haut' als Symbol für Attraktivität und Anziehungskraft ist interessant."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die ambige Haltung des Sängers zwischen der Bitte, die Person zu bleiben, und der Akzeptanz ihrer möglichen Entscheidung, zu gehen, schafft eine Spannung, die den emotionalen Gehalt des Songs ausmacht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bewegt sich im kulturellen und historischen Kontext der frühen 2000er Jahre."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Chorus und der insistierenden Bitte, 'mir zu zeigen, dass du fein bist', ist gut."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Songtexte, aber es gibt auch einige Wiederholungen und oberflächliche Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist wichtig, kreative Interpretationen zu vermeiden, die nicht durch den Text gestützt werden."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass Tom Jones, ein Künstler mit einer langen Karriere, diesen Song 2015 veröffentlicht hat, lässt darauf schließen, dass diese Themen auch in späteren Jahren noch aktuell sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Thematik der Einsamkeit, der Verlorenheit und der obsessiven Liebe ist in der Popmusik weit verbreitet und spricht ein breites Publikum an."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rückens, der keine Knochen mehr hat, und ihre Wiederholung als Symbol für die völlige Erschöpfung und den emotionalen Zusammenbruch des Sprechers."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Art und Weise, wie diese Themen in dem Song behandelt werden, könnte auch von der persönlichen Erfahrung und der emotionalen Verletzlichkeit des Künstlers beeinflusst sein."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Themen Liebe, Verlust und die Suche nach Verbindung sind universell und in vielen Kulturen und zu verschiedenen Zeiten relevant."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Stadt als Labyrinth, in dem jede Frau ein potenzieller Ersatz für seine verlorene Liebe ist, und die Verwechslung von Identitäten als Desorientierung und emotionale Verstörung des Protagonisten."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass Tom Jones, ein Künstler mit einer langen Karriere, diesen Song 2015 veröffentlicht hat, lässt darauf schließen, dass er auch als eine Reflexion über das eigene Leben und die eigene Erfahrung interpretiert werden kann."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Thematik der Einsamkeit, der Verlorenheit und der obsessiven Liebe ist in der Popmusik weit verbreitet und spricht ein breites Publikum an."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rückens, der keine Knochen mehr hat, und ihre Wiederholung als Symbol für die völlige Erschöpfung und den emotionalen Zusammenbruch des Sprechers."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Veröffentlichung im Jahr 2015, in einer Zeit, in der Themen wie mentale Gesundheit und emotionale Verletzlichkeit zunehmend diskutiert werden, gibt dem Song eine besondere Relevanz."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und erzeugt eine Atmosphäre der Verzweiflung und des emotionalen Schmerzes."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Stadt als Symbol für die Anonymität und die Verlorenheit des Individuums in der Moderne und die 'dummies in a showcase' als Konfrontation mit einer Welt, die ihn nicht versteht oder verurteilt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Veröffentlichung im Jahr 2015, in einer Zeit, in der Themen wie mentale Gesundheit und emotionale Verletzlichkeit zunehmend diskutiert werden, gibt dem Song eine besondere Relevanz."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und erzeugt eine Atmosphäre der Verzweiflung und des emotionalen Schmerzes."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des Rückens, der keine Knochen mehr hat, und ihre Wiederholung als Symbol für die völlige Erschöpfung und den emotionalen Zusammenbruch des Sprechers."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und der emotionalen Wirkung des Songs, aber variieren in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Fähigkeit, die Ambivalenzen und Mehrdeutigkeiten des Songs zu erfassen."
+  }
+}

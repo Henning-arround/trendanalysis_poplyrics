@@ -1,0 +1,91 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild des 'walking till my back ain’t got no bone' verdeutlicht, dass er bereit ist, jede physische Grenze zu überschreiten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und tiefgehend, mit einer klaren Analyse der Metaphern und Motive."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Rücken ohne Knochen ist ein grotesker, fast surrealistischer Metapher"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wird zu einer Parabel über das Durchhalten in einer kalten, gleichgültigen Welt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Symbolik und Motive, aber enthält einige spekulative Elemente."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song schildert einen endlosen Marsch durch Kälte und Verzweiflung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und bietet eine gute Analyse der Motive, aber einige Aussagen sind etwas vage."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song lässt den Hörer zwischen physischer Müdigkeit und einer tieferen, existenziellen Leere schwanken"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Symbolik, aber einige Aussagen sind etwas oberflächlich."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt in einer Schleife aus Bewegung und Hilferuf gefangen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Motive, aber einige Aussagen sind etwas vage."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine gute Analyse der Symbolik und Motive des Songs.",
+    "empfehlung": "Die erste Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

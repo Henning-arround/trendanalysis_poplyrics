@@ -1,0 +1,93 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das lyrische Ich fragt, ob es Besitzrechte über das Andere hat"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Ambivalenz der Identitätsfluktuation und die Verbindung zum lunaren Rhythmus"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine fluiden, fast mythischen Unterwelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Vielschichtigkeit suggeriert ein Wesen, das zugleich verführerisch und ungreifbar ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erfasst die Thematik von Identität und Wandel"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das wiederholte 'Wir lächeln' wirkt fast mechanisch"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verbindet das Individuum mit dem Rhythmus der Natur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das wiederholte 'We smile' wirkt wie ein kollektives, fast mechanisches Lächeln"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erfasst die Verschmelzung von Arten und die Verbindung zum Mondzyklus"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "ein Spiegel für das eigene innere Chaos des Erzählers"
+        ],
+        "oberflächliche_aussagen": [
+          "Das wiederholte 'We smile' wirkt wie ein kollektives, fast resigniertes Mantra"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Thematik von Identität und Wandel"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die erste Interpretation ist eine der besten, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Figur des Songs ist eine Frau, die als eine Art Muse oder Ikone dargestellt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Kritik an der Oberflächlichkeit und dem Konformismus der Gesellschaft interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Der Text ist jedoch auch voller Ironie und Selbstironie, da die Performer ihre eigene Künstlichkeit und Übertreibung thematisieren"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene ist geprägt von einer Atmosphäre der Dekadenz und des Exzesses"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zu den gesellschaftlichen und kulturellen Veränderungen der 1960er Jahre interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Der Text ist ein Spiegelbild dieser Veränderungen, in dem die Protagonisten sich durch eine Welt von Provokation und Experimentation bewegen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte sind voller Ironie und Zynismus, die die Oberflächlichkeit und den Konformismus der modernen Gesellschaft kritisieren"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Performance selbst kann als eine Art von Rebellion gegen die Normen und Konventionen der Gesellschaft gesehen werden"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonisten agieren in einer Welt von Masken und Verkleidungen, in der die Grenzen zwischen Realität und Fiktion verwischen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Art Kommentar zur Popkultur und zur Gesellschaft der 1960er Jahre interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Der Text reflektiert die Suche nach neuen Formen der Kunst und der Selbstexpression, die in dieser Zeit stattfand"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text beschreibt eine Art von 'Bilderbuch-Surrealismus', in dem die Protagonisten in einer Welt von übertriebenen Posen und Gesten agieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als Kommentar zur Popkultur der 1960er Jahre interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Musik und der Text arbeiten zusammen, um eine Atmosphäre von Freiheit und Experimentierfreudigkeit zu schaffen, die für die 1960er Jahre typisch war"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

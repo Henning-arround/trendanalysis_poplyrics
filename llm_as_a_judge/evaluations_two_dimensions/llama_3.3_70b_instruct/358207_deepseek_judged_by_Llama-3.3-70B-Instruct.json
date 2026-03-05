@@ -1,0 +1,89 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'You are the reason, my faith in tomorrow' zeigt, dass die Existenz dieser Person den Glauben an eine positive Zukunft aufrechterhält."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation deckt die Komplexität menschlichen Erlebens ab und betont die Einzigartigkeit der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person wird als erste und letzte Instanz beschrieben, die ihm hilft, Licht in der Dunkelheit und Hoffnung im Schmerz zu finden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation unterstreicht die Bedeutung der Person für die Zukunft des Sängers und die Tiefe ihrer emotionalen Bindung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Until you are free and facing the truth that words can't explain' suggeriert, dass die betreffende Person noch nicht vollständig befreit oder im Klaren über ihre Situation ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Idee der Freiheit und der Wahrheit und betont die unerschütterliche Bindung des Sängers an die Person."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Person ist nicht nur eine Quelle der Inspiration, sondern auch eine Verbindung zur Vergangenheit, die einen Zauber oder eine Verzauberung darstellt, die nicht gebrochen werden kann."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation unterstreicht die transformative Kraft der Beziehung und die Unauflöslichkeit ihrer Verbindung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains unterstreicht die Tiefe dieser emotionalen Bindung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation symbolisiert die transformative Kraft der Beziehung und die Unauflöslichkeit ihrer Verbindung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Tiefe und Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die Komplexität menschlichen Erlebens deckt und die Einzigartigkeit der Beziehung betont."
+  }
+}

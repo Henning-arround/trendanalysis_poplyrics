@@ -1,0 +1,85 @@
+{
+  "song": "Leg die Knarre weg - Udo Jürgens (1958)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrungen von Soldaten, die aus dem Krieg zurückkehren und mit den Herausforderungen der Wiederintegration in die Zivilgesellschaft konfrontiert sind."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Desillusionierung und Orientierungslosigkeit nach dem Krieg und analysiert die wiederkehrende Aufforderung 'Leg die Knarre weg'."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Kommentar zu den Erfahrungen von Soldaten und Zivilisten in dieser Zeit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Sinnlosigkeit und Ziellosigkeit des Lebens nach dem Krieg."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Bedeutungsebene, die über die simple Aufforderung zur Gewaltabkehr hinausgeht und eine Auseinandersetzung mit den menschlichen Erfahrungen von Krieg, Verlust und Sinnsuche darstellt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erfahrung von Krieg und Gewalt hatte zu einer tiefen Verunsicherung und Sinnkrise geführt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Schwierigkeiten, mit der Vergangenheit umzugehen und eine neue Perspektive für die Zukunft zu finden."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Bedeutungsebene, die über die simple Aufforderung zur Gewaltabkehr hinausgeht und eine Auseinandersetzung mit den menschlichen Erfahrungen von Krieg, Verlust und Sinnsuche darstellt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, jedoch mit leichten Variationen in der Tiefe und im Halluzinationsscore.",
+    "empfehlung": "Die Interpretationen 3 und 5 bieten die tiefsten und faktentreuesten Analysen des Songs."
+  }
+}

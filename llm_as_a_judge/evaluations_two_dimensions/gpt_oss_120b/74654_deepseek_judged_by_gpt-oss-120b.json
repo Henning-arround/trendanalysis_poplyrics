@@ -1,0 +1,102 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die \"lonely holy spirit's masquerade\" scheint ein Ort zu sein, an dem man sich frei von den Zwängen der Realität bewegen kann und sich in einer Welt der Fantasie und des Vergnügens verliert.",
+          "Insgesamt beschreibt der Song eine Flucht vor der Realität in eine Welt der Fantasie und des Vergnügens, die jedoch nur temporär ist."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen lassen sich klar aus dem Songtext ableiten.",
+          "Die Interpretation geht über reine Zusammenfassung hinaus und verbindet einzelne Bildungen (z. B. „scarlet fever“, „desire“) zu einer kohärenten Sinnesebene.",
+          "Wenig Wiederholung – die Argumentation bleibt fokussiert."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die \"lonely holy spirit's masquerade\" scheint ein Ort zu sein, an dem man sich frei von den Zwängen der Realität bewegen kann und sich den eigenen Begierden überlassen kann.",
+          "Dies deutet darauf hin, dass die spirituelle Reise auch eine Art von Flucht vor der Realität und den eigenen Taten ist.",
+          "Insgesamt beschreibt der Song eine komplexe und vielschichtige emotionale Erfahrung, die von Ekstase, Verlangen und spiritueller Suche geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Enthält einige konkrete Textbezüge (Violinen, Light of Day, Forget).",
+          "Erkennt die ambivalente Stimmung – sowohl ekstatisch als auch dunkel."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die \"lonely holy spirit's masquerade\" scheint ein Ort zu sein, an dem man sich frei von den Zwängen der Realität bewegen kann und sich den eigenen Begierden überlassen kann.",
+          "Der Text lässt offen, ob der Protagonist durch diese Erfahrung tatsächlich Erlösung findet oder ob es sich nur um eine Flucht vor den Problemen des Alltags handelt."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt im Lyrics‑Material verorten.",
+          "Bietet differenzierte Lesarten (Erlösung vs. Flucht) und bleibt offen für Mehrdeutigkeit.",
+          "Wenig redundante Formulierungen, klare Struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die \"lonely holy spirit's masquerade\" scheint ein Ort zu sein, an dem man sich frei von den Zwängen der Realität bewegen kann und sich in einer Welt der Fantasie und des Vergnügens verliert.",
+          "Insgesamt beschreibt der Song eine Flucht vor der Realität in eine Welt der Fantasie und des Vergnügens, die jedoch nur temporär ist."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Bildsprache und thematischer Aussage (Erlösung, Vergänglichkeit).",
+          "Gute Balance zwischen konkreter Textanalyse und offener Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die \"lonely holy spirit's masquerade\" scheint ein Ort zu sein, an dem man sich frei von den Zwängen der Realität bewegen kann und sich in einer Welt der Fantasie und des Vergnügens verliert.",
+          "Insgesamt beschreibt der Song eine Flucht vor der Realität in eine Welt der Fantasie und des Vergnügens, die jedoch nur temporär ist."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Argumentation, die die zentralen Motive (Erlösung, Vergessen) herausarbeitet.",
+          "Vermeidet unnötige Spekulationen, bleibt bei dem, was der Text liefert."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen im Wesentlichen dieselben Kernaussagen; die Varianz liegt hauptsächlich im Umfang der oberflächlichen Generalisierungen. Die ersten vier erreichen eine ähnliche Tiefe, während Interpretation 5 mehr allgemeine Aussagen enthält und daher etwas flacher wirkt.",
+    "empfehlung": "Interpretationen, die eng am Text bleiben, konkrete Bildungen verknüpfen und gleichzeitig die mehrdeutige Natur des Songs anerkennen (z. B. Interpretation 1), bieten das beste Verhältnis von Faktentreue und analytischer Tiefe. Modelle sollten darauf trainiert werden, vage Generalisierungen zu vermeiden und stattdessen textbasierte, differenzierte Lesarten zu formulieren."
+  }
+}

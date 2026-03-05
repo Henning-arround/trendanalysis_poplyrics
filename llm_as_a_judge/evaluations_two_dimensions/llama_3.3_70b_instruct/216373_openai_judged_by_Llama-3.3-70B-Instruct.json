@@ -1,0 +1,99 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die körperliche Handlung des Rauchens wird zum Akt des Wiedererinnerns"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des Zigarettenrauchs als zentrales Symbol für das Verweilen in einer zerbrechlichen, aber hartnäckigen Erinnerung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Songtexts und seiner Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Rauch steigt, verflüchtigt sich und hinterlässt doch ein flüchtiges Muster, das das innere Bild des Geliebten wieder hervorruft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die klassische Spannung zwischen Verstand und Gefühl"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der emotionalen Konflikte im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Rauch – vergänglich und doch sichtbar – die Vergangenheit in die Gegenwart zieht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher, dass die Träume, die man zu unterdrücken versucht, nicht 'dismissed' werden können"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Songstruktur und seiner Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Brennen der Zigarette steht dabei für das anhaltende, schmerzhafte Verlangen nach einer verlorenen Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'I keep yearning for you' verdeutlicht, dass das Verlangen nicht nur körperlich, sondern tief emotional ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der emotionalen Tiefe des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der wiederkehrende Kreis der Rauchschwaden steht für die zyklische Natur von Sehnsucht und Trauer"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'I keep yearning for you' verdeutlicht, dass das Verlangen nicht durch das äußere Ende der Beziehung, sondern durch das innere Bild des Rauchs genährt wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Songmetaphern und ihrer Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in ihrer Analyse der Songmetaphern und ihrer Bedeutung",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse des Songtexts und seiner Metaphern bietet und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

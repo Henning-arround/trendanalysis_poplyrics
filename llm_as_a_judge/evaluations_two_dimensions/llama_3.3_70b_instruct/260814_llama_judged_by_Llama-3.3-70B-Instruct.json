@@ -1,0 +1,99 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Atmosphäre der Unbeschwertheit und des jugendlichen Überschwangs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verbindung von historischen und lokalen Elementen mit persönlichen Erinnerungen und Beobachtungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der schottischen Kultur und Geschichte"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur von Billy, dem Metzger, fügt der Geschichte eine Note von Groteske und sozialer Kritik hinzu"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Szene, in der der Erzähler mit Feuerwerkskörpern und Tizer durch die Stadt geht, suggeriert eine Atmosphäre des Festes und der Feier"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Arbeiterklasse und die Gewerkschaftsbewegung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Billy, dem Metzger, zeigt eine Verbindung zur lokalen Wirtschaft und zur Gemeinschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verbindung von historischen und lokalen Elementen mit persönlichen Erinnerungen und Erfahrungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über die schottische Kultur und Geschichte"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur von Billy, dem Metzger, fügt der Geschichte eine Note von Groteske und sozialer Kritik hinzu"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Szene, in der der Erzähler mit Feuerwerkskörpern und Tizer durch die Stadt geht, suggeriert eine Atmosphäre des Festes und der Feier"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Arbeiterklasse und die Gewerkschaftsbewegung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur von Billy, dem Metzger, fügt der Geschichte eine Note von Groteske und sozialer Kritik hinzu"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Szene, in der der Erzähler mit Feuerwerkskörpern und Tizer durch die Stadt geht, suggeriert eine Atmosphäre des Festes und der Feier"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die Arbeiterklasse und die Gewerkschaftsbewegung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der schottischen Kultur und Geschichte",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der schottischen Kultur und Geschichte bietet und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

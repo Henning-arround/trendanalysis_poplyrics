@@ -1,0 +1,99 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Konsumgesellschaft der 1980er Jahre als Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aufforderung, sich der Tanzbewegung anzuschließen, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass der Körper durch Tanz und Bewegung zu einem schönen und perfekten Objekt gemacht werden kann, ohne textliche Belege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von Aussagen ohne weitere Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Verbindung zwischen Tanz und körperlicher Fitness"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die symbolische Ordnung der Tanzbewegung als soziales Ritual"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung der Schönheitsideale der 1980er Jahre ohne weitere Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs, sowie die Betonung der individuellen Schönheit und Perfektion"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Idee, dass der Körper durch Tanz und Bewegung zu einem schönen und perfekten Objekt gemacht werden kann, ohne textliche Belege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von Aussagen ohne weitere Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Verbindung zwischen Tanz und körperlicher Fitness"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Konsumgesellschaft der 1980er Jahre als Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aufforderung, sich der Tanzbewegung anzuschließen, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs, sowie die Betonung der individuellen Schönheit und Perfektion"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine mittlere Konsistenz, mit einigen Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe, wie in Interpretation 3 zu sehen ist. Es ist wichtig, kreative Interpretationen zu vermeiden, die nicht auf textlichen Belegen basieren."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, lässt sich nicht explizit bestimmen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs wird durch die Gegenüberstellung von Hoffnungslosigkeit und Liebe erreicht"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach echter Liebe und emotionaler Verbindung kann als Reaktion auf die zunehmende Digitalisierung und Virtualisierung der Kommunikation interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Augen als Symbol für die Liebe und die Hoffnung unterstreicht die Bedeutung von emotionaler Verbindung und Verständnis"
+        ],
+        "positive_aspekte": [
+          "Die Beschreibung der affektiven Dimension des Songs ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, lässt sich nicht explizit bestimmen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs wird durch die Gegenüberstellung von Hoffnungslosigkeit und Liebe erreicht"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, lässt sich nicht explizit bestimmen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs wird durch die Gegenüberstellung von Hoffnungslosigkeit und Liebe erreicht"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs kann in der Suche nach Sinn und Bedeutung in einer scheinbar sinnlosen Welt gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die symbolische Ordnung, die hier aufgebaut wird, stellt die Liebe als eine Art Erlösung dar"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, was auf eine gute Textanalyse hinweist",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

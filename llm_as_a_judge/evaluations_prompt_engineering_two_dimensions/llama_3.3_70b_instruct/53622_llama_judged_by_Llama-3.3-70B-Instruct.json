@@ -1,0 +1,99 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte darin bestehen, dass er die Oberflächlichkeit und den Konsum von Luxusgütern kritisiert, indem er sie überzeichnet und karikiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass der Künstler seine Macht und seinen Einfluss durch den Konsum von teuren Getränken und die Zurschaustellung seines Reichtums demonstrieren will."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt jedoch in der Frage, ob diese Oberflächlichkeit und dieser Konsum von Luxusgütern nicht auch eine Form der Entfremdung und der Isolation darstellen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert die Werte und die Ästhetik der Hip-Hop-Szene, in der der Konsum von Luxusgütern und die Zurschaustellung von Reichtum und Macht als Statussymbole gelten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert den kulturellen und historischen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte darin bestehen, dass er die Oberflächlichkeit und den Konsum von Luxusgütern kritisiert, indem er sie überzeichnet und karikiert."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass der Künstler seine Macht und seinen Einfluss durch den Konsum von teuren Getränken und die Zurschaustellung seines Reichtums demonstrieren will."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die emotionale Wirkung des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs liegt jedoch in der Frage, ob diese Oberflächlichkeit und dieser Konsum von Luxusgütern nicht auch eine Form der Entfremdung und der Isolation darstellen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert die Werte und die Ästhetik der Hip-Hop-Szene, in der der Konsum von Luxusgütern und die Zurschaustellung von Reichtum und Macht als Statussymbole gelten."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert den kulturellen und historischen Kontext des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte darin bestehen, dass er die Oberflächlichkeit und den Konsum von Luxusgütern kritisiert, indem er sie übertrieben und ironisch darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass der Künstler seine Macht und seinen Einfluss durch den Konsum von teuren Getränken und die Zurschaustellung seines Reichtums demonstrieren will."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und die emotionale Wirkung des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die emotionale Wirkung des Songs.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und diskutiert den kulturellen und historischen Kontext des Songs."
+  }
+}

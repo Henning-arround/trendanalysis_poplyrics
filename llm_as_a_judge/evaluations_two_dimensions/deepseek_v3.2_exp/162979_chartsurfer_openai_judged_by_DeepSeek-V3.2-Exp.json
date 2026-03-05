@@ -1,0 +1,102 @@
+{
+  "song": "All That Meat and Potatoes - Louis Armstrong (1955)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kartoffel dient als Metapher für Geborgenheit, Beständigkeit und familiäre Wärme.",
+          "Die wiederholte Gegenüberstellung von 'Fleisch' und 'Kartoffeln' spiegelt ein Ungleichgewicht zwischen körperlicher Arbeit und emotionaler Nahrung wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein leichtfüßige Kritik an der Erwartung, dass materielle Fülle automatisch emotionale Zufriedenheit bringt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannungen zwischen Erwartung und Realität im häuslichen Alltag der Nachkriegszeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Gesang von Louis Armstrong verleiht dem Stück eine ironische Leichtigkeit, die die zugrundeliegende Frustration mildert und gleichzeitig die Resilienz der Gemeinschaft betont.",
+          "Die afro-amerikanische Küche findet trotz knapper Ressourcen kreative Lösungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine humorvolle Kritik an Überfluss und Verschwendung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannungen zwischen Erwartung und Realität im Nachkriegs-Amerika."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Kartoffel fungiert hier als Metapher für das fehlende Fundament, das das Fleisch – die grelle, sichtbare Fülle – nicht ersetzen kann.",
+          "Der Song lässt sich als Kommentar zur sozialen Struktur der Nachkriegszeit lesen, in der Arbeit, Familie und Nahrung als zentrale Pfeiler des Wohlstands galten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Bild von Erwartung, Enttäuschung und dem Wunsch nach Ausgewogenheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die häusliche Situation und die Erwartungen des Sprechers."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Dialoge zwischen 'Pops' und seiner Partnerin offenbaren ein humorvolles, aber zugleich kritisches Spiel mit Rollenbildern."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Bild von Arbeit, Erwartung und familiärer Kommunikation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Notwendigkeit von Ausgewogenheit in einer Zeit des Wiederaufbaus."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als subtile Kritik an der einseitigen Betonung von Erfolg und Konsum verstanden werden, die das Wesentliche – die einfache, nährende Basis des Zusammenlebens – vernachlässigt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Bild von häuslicher Unzufriedenheit und dem Wunsch nach Ausgewogenheit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Notwendigkeit von Balance zwischen Arbeit, Genuss und häuslicher Geborgenheit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Analyse des Songs.",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

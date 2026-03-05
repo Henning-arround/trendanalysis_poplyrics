@@ -1,0 +1,99 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Time to work you Jimmy Choo's' kann als Hinweis auf die Bedeutung von Mode und Selbstpräsentation interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist eine Mischung aus Ermutigung, Freude und Selbstbefreiung."
+        ],
+        "positive_aspekte": [
+          "Der Song thematisiert auch die Idee, dass man sich in der Menge verstecken kann, aber auch, dass man sich selbst befreien und im Mittelpunkt stehen kann."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck dieser kulturellen Bewegung interpretiert werden, die Selbstbefreiung und Selbstinszenierung als zentrale Werte propagierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist euphorisch und auffordernd, er erzeugt eine affektive Dimension, die den Hörer zum Tanzen und Feiern auffordert."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, wie Metaphern und Symbole, um seine Botschaft zu vermitteln."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Ausdruck dieser kulturellen Bewegung interpretiert werden, die Selbstbefreiung und Selbstinszenierung als zentrale Werte propagierte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist euphorisch und auffordernd, er erzeugt eine affektive Dimension, die den Hörer zum Tanzen und Feiern auffordert."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, wie Metaphern und Symbole, um seine Botschaft zu vermitteln."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You don't have a thing to lose' kann auch als Hinweis auf die ökonomischen und sozialen Unsicherheiten der Zeit interpretiert werden, in der der Song erschien."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Sehnsucht nach Freiheit und Selbstentfaltung in einer kontrollierten Umgebung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, wie Metaphern und Bilder, um die emotionale Wirkung zu verstärken."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You don't have a thing to lose' kann auch als Hinweis auf die ökonomischen und sozialen Unsicherheiten der Zeit interpretiert werden, in der der Song erschien."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Ausdruck der Sehnsucht nach Freiheit und Selbstentfaltung in einer kontrollierten Umgebung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Song verwendet verschiedene literarische Stilmittel, wie Metaphern und Bilder, um die emotionale Wirkung zu verstärken."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1-3 sind sehr konsistent in ihrer Analyse, während die Interpretationen 4 und 5 einige Unterschiede aufweisen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

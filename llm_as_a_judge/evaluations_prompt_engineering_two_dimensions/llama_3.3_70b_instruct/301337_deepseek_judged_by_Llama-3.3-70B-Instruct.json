@@ -1,0 +1,97 @@
+{
+  "song": "Get In, Fit In - Ciara (2007)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von japanischen Begriffen wie 'Ichi, Ni, San' kann als ein Hinweis auf die kulturelle Hybridität und die Verbindung von unterschiedlichen kulturellen Traditionen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Ermutigung und Provokation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der zentralen Botschaft des Songs und der Verwendung von literarischen Stilmitteln."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Beitrag zu dieser kulturellen Debatte um Individualität und Konformität interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Ermutigung und Provokation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der zentralen Botschaft des Songs und der Verwendung von literarischen Stilmitteln."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von japanischen Begriffen wie 'Ichi, Ni, San' kann als ein Zeichen für die zunehmende Globalisierung und kulturellen Austausch interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Ermutigung und Provokation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der zentralen Botschaft des Songs und der Verwendung von literarischen Stilmitteln."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Beitrag zu dieser kulturellen Debatte um Individualität und Konformität interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer Mischung aus Ermutigung und Provokation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der zentralen Botschaft des Songs und der Verwendung von literarischen Stilmitteln."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die repetitive Verwendung des Refrains 'Get in, fit in, get in, get out' ambivalent, der sowohl als Aufruf zur Anpassung als auch zur Abgrenzung interpretiert werden kann."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr gute Analyse der zentralen Botschaft des Songs, der Verwendung von literarischen Stilmitteln und der emotionalen Wirkung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der zentralen Botschaft und der Verwendung von literarischen Stilmitteln.",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine gute Balance zwischen Textreue und analytischer Tiefe bietet und Ambivalenzen und Mehrdeutigkeiten textbasiert aufgreift."
+  }
+}

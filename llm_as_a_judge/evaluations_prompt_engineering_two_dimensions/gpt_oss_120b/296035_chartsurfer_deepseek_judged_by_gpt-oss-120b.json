@@ -1,0 +1,132 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich jedoch als eine tiefere Auseinandersetzung mit der menschlichen Existenz, Identität und dem Streben nach Sinn und Erfüllung interpretieren.",
+          "Die literarischen Stilmittel, die Jürgens verwendet, sind vielfältig und umfassen Metaphern, Symbole und Bilder.",
+          "Die Verwendung von englischen und deutschen Textpassagen erzeugt eine spannende Ambiguität und verweist auf die kulturelle und sprachliche Vielfalt der Moderne.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Sehnsucht nach Verbindung und Erfüllung.",
+          "Im kulturellen und historischen Kontext der 1980er Jahre kann der Song als Ausdruck einer neuen Selbstfindung und Individualisierung interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs verweist auf die symbolische Ordnung einer Sehnsucht nach Einheit und Ganzheit, die in der Beziehung zur anderen Person gefunden wird.",
+          "Dabei bleibt der Songtext jedoch ambivalent und lässt Raum für multiple Interpretationen, was seine anhaltende Relevanz und emotionale Wirkung unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textbelege werden konkret zitiert (z. B. „Ein Wort, das alles trägt …“, „The sunshine in your eyes“, „Ein Atemzug der Ewigkeit“).",
+          "Metaphern und Symbolik werden nachvollziehbar erklärt.",
+          "Die Analyse bleibt eng am vorliegenden Text und vermeidet unbelegte biografische oder historische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist in den 1980er Jahren angesiedelt, einer Zeit, in der Themen wie Selbstverwirklichung und Partnerschaft zunehmend an Bedeutung gewannen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick eine romantische Liebesbeziehung thematisiert.",
+          "Der Songtext ist reich an literarischen Stilmitteln, die zur emotionalen Wirkung und affektiven Dimension beitragen.",
+          "Die wiederkehrende Phrase kann als Ausdruck eines neuen Selbstbewusstseins und einer Ermächtigung durch die Beziehung interpretiert werden.",
+          "Die Verwendung von englischen und deutschen Textpassagen erzeugt eine spannende Ambiguität, die die Universalität und zugleich die persönliche Bedeutung der Erfahrung unterstreicht.",
+          "Der Song berührt auch tiefere Bedeutungsebenen und symbolische Ordnungen, indem er die Liebe als eine Art Lebenselixir darstellt, das den Sprecher zu einem neuen Leben erweckt.",
+          "Insgesamt zeigt der Song eine komplexe emotionale Wirkung, die zwischen Euphorie, Sehnsucht und der Suche nach Sinn und Erfüllung pendelt."
+        ],
+        "positive_aspekte": [
+          "Mehrere Textstellen werden exakt wiedergegeben und anschließend sinnvoll interpretiert (z. B. „Ein Atemzug der Ewigkeit“, „Ich bleib' ein Komödiant / Mit Blick ins Märchenland“).",
+          "Die Analyse verbindet konkrete Textbelege mit einer nachvollziehbaren Deutung von Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In dieser Zeit erlebte die westliche Gesellschaft eine Phase des wirtschaftlichen Aufschwungs und der politischen Stabilität, was zu einem verstärkten Fokus auf individuelle Freiheit und Selbstverwirklichung führte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick eine romantische Liebesbeziehung zu beschreiben scheint.",
+          "Die zentrale Botschaft des Songs lässt sich jedoch als eine tiefere Auseinandersetzung mit der menschlichen Existenz, Identität und dem Streben nach Sinn und Erfüllung interpretieren.",
+          "Die literarischen Stilmittel ... umfassen Metaphern, Symbole und Bilder, die eine emotionale Wirkung erzeugen und die affektive Dimension des Songs unterstreichen.",
+          "Die wiederkehrende Verwendung der Phrase kann als Ausdruck eines neuen Selbstbewusstseins und einer Ermächtigung verstanden werden.",
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der 1980er Jahre betrachtet werden.",
+          "Gleichzeitig wird durch die mehrsprachige Textgestaltung ... eine kosmopolitische und aufgeschlossene Haltung demonstriert, die für die gesellschaftlichen und kulturellen Entwicklungen der Zeit charakteristisch war.",
+          "Insgesamt zeigt der Song eine komplexe Verbindung von Liebe, Identität und Ermächtigung, die in einem breiteren kulturellen und historischen Kontext verortet werden muss."
+        ],
+        "positive_aspekte": [
+          "Zitate aus dem Song werden korrekt wiedergegeben und anschließend inhaltlich erklärt.",
+          "Die Analyse stellt einen Zusammenhang zwischen der wiederholten Phrase „Ich will – ich kann / I can – I will“ und dem Motiv der Selbstermächtigung her."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fokussierung auf zwischenmenschliche Beziehungen und persönliche Entwicklung könnte als Reaktion auf die gesellschaftlichen und politischen Herausforderungen jener Zeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann.",
+          "Die zentrale Botschaft des Songs scheint die transformative Kraft einer zwischenmenschlichen Beziehung zu sein.",
+          "Der Songtext ist reich an literarischen Stilmitteln wie Metaphern, Symbolen und Bildern.",
+          "Die Verwendung von englischen Textzeilen unterstreicht die universelle und emotionale Dimension der Botschaft.",
+          "Die affektive Dimension des Songs wird durch die wiederholte Betonung von „Ich will - ich kann\" und \"I can - I will\" verstärkt, was eine gewisse Entschlossenheit und Selbstgewissheit ausdrückt, die durch die Beziehung erlangt wird.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der 1980er Jahre interpretiert werden.",
+          "Die Textelemente \"Ein Leben lang mit dir\" und \"Ein Leben, das ich spür'\" deuten auf eine Sehnsucht nach Stabilität und Sinn in einer zunehmend komplexen Welt hin.",
+          "Insgesamt zeigt der Song eine tiefere Bedeutungsebene, in der es um die Konstruktion von Identität und die Bedeutung von Beziehungen für die persönliche Entwicklung geht."
+        ],
+        "positive_aspekte": [
+          "Mehrere Textstellen werden konkret zitiert und deren Bildhaftigkeit erklärt (z. B. „Ein Atemzug der Ewigkeit“).",
+          "Die Analyse erkennt die mehrsprachige Gestaltung des Textes und weist auf deren mögliche Wirkung hin."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs lässt sich jedoch als eine tiefere Auseinandersetzung mit der menschlichen Existenz, Identität und dem Streben nach Sinn und Erfüllung interpretieren.",
+          "Die literarischen Stilmittel, die Jürgens verwendet, sind vielfältig und umfassen Metaphern, Symbole und Bilder.",
+          "Die Verwendung von englischen und deutschen Textpassagen erzeugt eine spannende Ambiguität und verweist auf die kulturelle und sprachliche Vielfalt der Moderne.",
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Sehnsucht nach Verbindung und Erfüllung.",
+          "Im kulturellen und historischen Kontext der 1980er Jahre kann der Song als Ausdruck einer neuen Selbstfindung und Individualisierung interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs verweist auf die symbolische Ordnung einer Sehnsucht nach Einheit und Ganzheit, die in der Beziehung zur anderen Person gefunden wird.",
+          "Dabei bleibt der Songtext jedoch ambivalent und lässt Raum für multiple Interpretationen, was seine anhaltende Relevanz und emotionale Wirkung unterstreicht."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textzitate werden exakt wiedergegeben und anschließend inhaltlich analysiert.",
+          "Metaphern wie „Ein Atemzug der Ewigkeit“ werden klar interpretiert und mit dem Gesamtthema verknüpft.",
+          "Die Analyse bleibt strikt beim vorliegenden Text und vermeidet unbelegte biografische oder historische Behauptungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1, 3 und 2 zeigen ähnliche strukturelle Muster (Einleitung, Textbelege, allgemeine Kontextualisierung). Interpretation 4 ist am wenigsten tiefgehend, während 5 etwas mehr Textbezug liefert. Insgesamt gibt es eine moderate Varianz – die Kernbehauptungen (Beziehung als transformative Kraft) wiederholen sich, aber die Detailtiefe schwankt.",
+    "empfehlung": "Interpretation 1 (und identisch Interpretation 3) liefert die beste Balance aus Texttreue und analytischer Tiefe, ohne unbelegte Fakten. Für zukünftige Modelle sollte der Fokus darauf liegen, konkrete Textstellen zu zitieren, deren Bildhaftigkeit zu erklären und gleichzeitig spekulative Kontextualisierungen zu minimieren."
+  }
+}

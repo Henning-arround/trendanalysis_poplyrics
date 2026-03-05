@@ -1,0 +1,109 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Zeile 'There is no other day / Let's try it another way' suggeriert eine Endlosschleife, in der Alternativen nur scheinbar angeboten, aber nie realisiert werden.",
+          "Die Gegenüberstellung von 'You'll lose your mind and play / Free games for May' erzeugt ein Spannungsfeld zwischen Befreiung und Gefahr des Wahnsinns"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textambiguitäten lassen offen, ob Emily als Symbol für individuelle Freiheit, kollektive Träume oder als Opfer einer überfordernden Moderne zu verstehen ist"
+        ],
+        "positive_aspekte": [
+          "Stilistisch dominieren fragmentarische Metaphern und Bildsprache",
+          "Historisch ist das Stück im Kontext der britischen Psychedelia 1967 zu verorten"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You'll lose your mind and play' impliziert die Gefahr von Selbstaufgabe",
+          "Die Ambiguitäten spiegeln die kulturelle Spannung zwischen Befreiung und Angst vor dem Verlust der Identität wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung schwankt zwischen melancholischem 'Emily cries' und dem fast kindlichen 'See Emily play'"
+        ],
+        "positive_aspekte": [
+          "Stilistisch dominieren wiederholte Metaphern und Bildsprache",
+          "Historisch ist das Stück im Kontext des psychedelischen Sommers 1967 zu verorten"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholten 'Ah-ooh'-Laute fungieren als vokale Signaturen, die das Geschehen sowohl betonen als auch in eine fast tranceartige Unbestimmtheit tauchen",
+          "Die Figur Emily kann als Allegorie für die junge Frau in einer sich wandelnden Gesellschaft gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Emotional erzeugt das Stück ein Gefühl von melancholischer Erwartung"
+        ],
+        "positive_aspekte": [
+          "Die Sprache ist stark bildhaft",
+          "Historisch lässt sich das Werk in das späte 60er-Jahre-Milieu einordnen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Free games for May' verknüpft das Spiel mit einem saisonalen, fast rituellen Kontext",
+          "Die wiederkehrende Spannung zwischen Aktivität und Passivität spiegelt das damalige Ringen junger Frauen um Selbstbestimmung in einer von männlich dominierten Musikwelt wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bedeutung bleibt offen: Ist Emily ein Symbol für das kollektive Jugend-Ich oder ein Individuum, das in den Strukturen des Spiels gefangen ist?"
+        ],
+        "positive_aspekte": [
+          "Metaphorisch fungieren 'borrow / Somebody's dreams till tomorrow' als Bild für das Aneignen fremder Wünsche",
+          "Historisch lässt sich das Stück in die psychedelische Gegenkultur der späten 60er-Jahre einordnen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Zeile 'There is no other day / Let's try it another way' suggeriert ein Bewusstsein für die Endlichkeit des Moments",
+          "Die mehrschichtige Symbolik lässt Raum für Interpretationen, die von einer Kritik an der Oberflächlichkeit des 'Spiels' bis zu einer poetischen Darstellung von Emily als Archetyp einer Generation im Übergang reichen"
+        ],
+        "oberflächliche_aussagen": [
+          "Emotional erzeugt das Stück ein schwebendes, leicht beklemmendes Gefühl"
+        ],
+        "positive_aspekte": [
+          "Stilistisch dominieren wiederkehrende Metaphern und Bildungen, die das Unwirkliche betonen",
+          "Historisch entstand das Lied im Kontext der späten 1960-er-Jugendkultur"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die zweite Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

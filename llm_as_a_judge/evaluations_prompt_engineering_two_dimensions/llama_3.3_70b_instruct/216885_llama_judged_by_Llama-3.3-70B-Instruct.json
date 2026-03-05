@@ -1,0 +1,100 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Woke up home half drunk' deutet auf eine Kultur hin, in der Alkohol und Party als Flucht vor den Problemen dienen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes scheint die Sehnsucht und das Verlangen nach einer verlorenen Liebe zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der 'paper walls' als Symbol für die eingeschränkte Freiheit und die Enge der Beziehung ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Betonung der Vergangenheit und der Erinnerungen an die erste Liebe kann als Kommentar zur gesellschaftlichen Erwartung an Beziehungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Liedes wird durch die wiederholte Aussage 'Every day I'll wait' verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität und der Spannungen im Lied ist gut."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Woke up home half drunk' deutet auf eine Kultur hin, in der Alkohol als Flucht vor Problemen verwendet wird.",
+          "Die wiederholte Betonung der Vergangenheit und der Erinnerungen an die erste Liebe kann als Kommentar zur gesellschaftlichen Erwartung an Beziehungen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Liedes scheint die Sehnsucht und das Verlangen nach einer verlorenen Liebe zu sein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der 'paper walls' als Symbol für die eingeschränkte Freiheit und die Enge der Beziehung ist okay."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I was your first one / Back when we were so young' deutet auf eine starke emotionale Bindung hin, die durch die gemeinsame Vergangenheit und die ersten Erfahrungen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Wiederholung des Refrains 'Every day I'll wait' verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität und der Spannungen im Lied ist gut."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'I was your first one / Back when we were so young' deutet auf eine starke emotionale Bindung hin, die durch die gemeinsame Vergangenheit und die ersten Erfahrungen geprägt ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Wiederholung des Refrains 'Every day I'll wait' verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität und der Spannungen im Lied ist gut."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist wichtig, Ambivalenzen und Mehrdeutigkeiten zu berücksichtigen, um eine umfassende Analyse zu erstellen."
+  }
+}

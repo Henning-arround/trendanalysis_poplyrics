@@ -1,0 +1,95 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrede 'Lordy' wirkt wie ein fast liturgischer Aufruf"
+        ],
+        "oberflächliche_aussagen": [
+          "ein einfaches, aber kraftvolles Ausdruck von Sehnsucht, Hoffnung und dem Wunsch nach emotionaler und körperlicher Vereinigung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Sehnsucht und emotionale Not im Songtext"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrede 'Lordy' wirkt wie ein verzweifelter Ruf nach göttlicher Hilfe"
+        ],
+        "oberflächliche_aussagen": [
+          "ein Bild einer liebevollen, aber zugleich von Unsicherheit geprägten Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Rhythm-and-Blues-Tradition und die emotionale Resonanz des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bleibt eng am Text und liefert eine tiefgehende Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrede 'Lordy' wirkt wie ein verzweifelter Ruf nach göttlicher Hilfe"
+        ],
+        "oberflächliche_aussagen": [
+          "ein hypnotischer Rhythmus, der das innere Pochen des Herzens nach körperlicher Nähe widerspiegelt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die emotionale Dringlichkeit und die universelle Erfahrung von Verlust und Wiedervereinigung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrede 'Lordy' wirkt wie ein verzweifelter Ruf nach göttlicher Hilfe"
+        ],
+        "oberflächliche_aussagen": [
+          "ein Zeugnis für die emotionale Direktheit, die Fats Domino in seiner Musik auszeichnet"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation liefert eine klare und textbezogene Analyse"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten liefern eine gute Analyse des Songtextes",
+    "empfehlung": "Die beste Interpretation ist die Nummer 3, da sie eng am Text bleibt und eine tiefgehende Analyse liefert"
+  }
+}

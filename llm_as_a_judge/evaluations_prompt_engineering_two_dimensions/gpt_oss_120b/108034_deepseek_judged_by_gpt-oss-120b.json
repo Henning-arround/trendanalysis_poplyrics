@@ -1,0 +1,134 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1985 veröffentlicht, einer Zeit, in der die Postmoderne und die Dekonstruktion von Identitäten in der Kunst und Kultur an Bedeutung gewannen.",
+          "Der Song kann als ein Ausdruck dieser Tendenzen gesehen werden, indem er die Veränderlichkeit und Unbeständigkeit von Identitäten thematisiert.",
+          "Die Zeile \"We're not alone\" kann als ein Hinweis auf die Suche nach Verbindung und Gemeinschaft in einer Zeit der Verunsicherung und Dekonstruktion gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich einer tiefen Analyse aus kulturwissenschaftlicher Perspektive öffnet.",
+          "Die Verwendung von Metaphern und Symbolen unterstreicht die thematische Komplexität des Songs.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "Insgesamt zeigt sich, dass \"Sea Song\" ein vielschichtiges Werk ist, das eine tiefe Analyse aus kulturwissenschaftlicher Perspektive verdient."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche Textzitate (z. B. die ersten Zeilen, die Metapher mit dem Meerwesen) sind korrekt wiedergegeben.",
+          "Die Interpretation verbindet die Bildsprache des Textes (Veränderlichkeit, Meer, Mond) mit einer nachvollziehbaren Lesart über Unsicherheit in Beziehungen.",
+          "Es wird ein zusammenhängender roter Faden erkennbar – von der Beschreibung des Partners über die emotionale Dynamik bis hin zu einem kulturellen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1985 veröffentlicht, einer Zeit, in der die Postmoderne und die Dekonstruktion von Identitäten in der Kunst und Kultur an Bedeutung gewannen.",
+          "Der Song kann als ein Ausdruck dieser Tendenzen gesehen werden, indem er die Veränderlichkeit und Unbeständigkeit von Identitäten thematisiert.",
+          "Die Zeile \"We're not alone\" kann als ein Hinweis auf die Suche nach Verbindung und Gemeinschaft in einer Zeit der Verunsicherung und Dekonstruktion gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich einer tiefen Analyse aus kulturwissenschaftlicher Perspektive öffnet.",
+          "Die Verwendung von Metaphern und Symbolen unterstreicht die thematische Komplexität des Songs.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "Insgesamt zeigt sich, dass \"Sea Song\" ein vielschichtiges Werk ist, das eine tiefe Analyse aus kulturwissenschaftlicher Perspektive verdient."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretatorischen Aussagen (z. B. die Metapher des Meerwesens).",
+          "Erkennt die zentrale Thematik von Veränderlichkeit und Unsicherheit in der Beziehung.",
+          "Bietet einen nachvollziehbaren kulturellen Rahmen (Postmoderne) ohne zu stark zu spekulieren."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1985 veröffentlicht, einer Zeit, in der die Postmoderne und die Dekonstruktion von Identitäten in der Kunst und Kultur an Bedeutung gewannen.",
+          "Der Song kann als ein Ausdruck dieser Tendenzen gesehen werden, indem er die Veränderlichkeit und Unbeständigkeit von Identitäten thematisiert.",
+          "Die Zeile \"We're not alone\" kann als ein Hinweis auf die Suche nach Verbindung und Gemeinschaft in einer Zeit der Verunsicherung und Dekonstruktion gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich einer tiefen Analyse aus kulturwissenschaftlicher Perspektive öffnet.",
+          "Die Verwendung von Metaphern und Symbolen unterstreicht die thematische Komplexität des Songs.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "Insgesamt zeigt sich, dass \"Sea Song\" ein vielschichtiges Werk ist, das eine tiefe Analyse aus kulturwissenschaftlicher Perspektive verdient."
+        ],
+        "positive_aspekte": [
+          "Gute Textbelege für die Hauptmetaphern (Meer, Tierbilder, Alkohol).",
+          "Erkennt die Ambivalenz zwischen nächtlicher Anziehung und morgendlicher Verwirrung.",
+          "Verbindet die lyrische Analyse mit einem breiteren kulturellen Kontext, ohne die Textbasis zu verlieren."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1985 veröffentlicht, einer Zeit, in der die Postmoderne und die Dekonstruktion von Identitäten in der Kunst und Kultur an Bedeutung gewannen.",
+          "Der Song kann als ein Ausdruck dieser Tendenzen gesehen werden, indem er die Veränderlichkeit und Unbeständigkeit von Identitäten thematisiert.",
+          "Die Zeile \"We're not alone\" kann als ein Hinweis auf die Suche nach Verbindung und Gemeinschaft in einer Zeit der Verunsicherung und Dekonstruktion gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich einer tiefen Analyse aus kulturwissenschaftlicher Perspektive öffnet.",
+          "Die Verwendung von Metaphern und Symbolen unterstreicht die thematische Komplexität des Songs.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "Insgesamt zeigt sich, dass \"Sea Song\" ein vielschichtiges Werk ist, das eine tiefe Analyse aus kulturwissenschaftlicher Perspektive verdient."
+        ],
+        "positive_aspekte": [
+          "Systematischer Bezug zu fast allen Textzeilen (z. B. „When you're drunk…“, „Your madness…“).",
+          "Erklärt die emotionale Dynamik zwischen den Sprechern klar und textnah.",
+          "Bietet einen konsistenten Rahmen, der sowohl die Bildsprache als auch die mögliche postmoderne Lesart berücksichtigt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1985 veröffentlicht, einer Zeit, in der die Postmoderne und die Dekonstruktion von Identitäten in der Kunst und Kultur an Bedeutung gewannen.",
+          "Der Song kann als ein Ausdruck dieser Tendenzen gesehen werden, indem er die Veränderlichkeit und Unbeständigkeit von Identitäten thematisiert.",
+          "Die Zeile \"We're not alone\" kann als ein Hinweis auf die Suche nach Verbindung und Gemeinschaft in einer Zeit der Verunsicherung und Dekonstruktion gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das sich einer tiefen Analyse aus kulturwissenschaftlicher Perspektive öffnet.",
+          "Die Verwendung von Metaphern und Symbolen unterstreicht die thematische Komplexität des Songs.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist auch von Bedeutung.",
+          "Insgesamt zeigt sich, dass \"Sea Song\" ein vielschichtiges Werk ist, das eine tiefe Analyse aus kulturwissenschaftlicher Perspektive verdient."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textzitat und Interpretation (z. B. „partly fish…“).",
+          "Erfasst die zentrale Spannung zwischen nächtlicher Anziehung und morgendlicher Entfremdung.",
+          "Bietet einen nachvollziehbaren kulturellen Kontext (Postmoderne) und verknüpft ihn mit den Themen des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch, was zu einer geringen Varianz in Halluzinations‑ und Tiefescores führt (je 3 bzw. 4).",
+    "empfehlung": "Die besten Ergebnisse erzielen Interpretationen, die den Text eng zitieren, konkrete Bild‑ und Emotionsanalysen liefern und nur sparsam kulturelle Kontextualisierungen einbringen. Ein ausgewogenes Verhältnis von Texttreue und analytischer Tiefe (Score 4‑5) ist optimal."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "song": "One More Time - Robin Schulz & Felix Jaehn feat. Alida (2021)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert auch die kulturelle und gesellschaftliche Dimension ... (keine Textbasis)",
+          "Die tiefere Bedeutungsebene ... symbolische Ordnung von Liebe, Verlust und Erinnerung ... (nicht aus dem Text ableitbar)"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Komplexität von Trennungen und die Sehnsucht nach einem letzten gemeinsamen Moment (allgemein, nicht konkret belegt)",
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei (vage)",
+          "Die Wiederholung von \"Then we'll do it one more time\" unterstreicht Verzweiflung und Sehnsucht (wiederholte, nicht spezifizierte Aussage)"
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Analyse von \"You can break my heart…\" und der Wiederholung von \"One more time\")",
+          "Zeigt ein gutes Gleichgewicht zwischen textnaher Analyse und dem Aufzeigen von Mehrdeutigkeiten"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Bedeutung des Songs kann im Kontext moderner Beziehungen gesehen werden (Spekulation)",
+          "Die Wiederholung von \"One more time\" kann als rituelle Handlung verstanden werden (keine Textbasis)",
+          "Die tiefere Bedeutungsebene liegt in der symbolischen Ordnung von Liebe und Trennung (nicht belegt)"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Komplexität von Trennungen und die Sehnsucht nach einem letzten gemeinsamen Moment (allgemein)",
+          "Literarische Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei (vage)",
+          "Die Verwendung von Kontrasten ... betont die Ambiguität und Spannung (vage)",
+          "Ambiguität und Spannung bleiben im Song bestehen und lassen den Hörer zu eigenen Interpretationen einladen (allgemein)"
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge bei den wichtigsten Zeilen (z. B. „You can break my heart…“, „Last kiss, goodbye ain’t done yet“)",
+          "Erkennt die Wiederholungen als stilistisches Mittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs kann in der Betonung der emotionalen Authentizität gesehen werden (Spekulation)",
+          "Die tiefere Bedeutungsebene liegt in der Auseinandersetzung mit der Vergänglichkeit von Beziehungen (nicht belegt)"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Komplexität von Trennungen und die Sehnsucht nach einem letzten gemeinsamen Moment (allgemein)",
+          "Literarische Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei (vage)",
+          "Die Wiederholung von \"Then we'll do it one more time\" wird zu einem refrainartigen Ausdruck der Sehnsucht und Verzweiflung (wiederholt, wenig konkret)",
+          "Die Ambiguität in den Zeilen lässt darauf schließen, dass die Sprecherin ihre innere Lichtquelle nicht verlieren wird (vage)",
+          "Spannungen und Widersprüche bleiben offen und lassen Raum für Interpretationen (allgemein)"
+        ],
+        "positive_aspekte": [
+          "Zieht konsequent Textzitate heran, um die Analyse zu stützen",
+          "Erkennt die Symbolik von Naturbildern (Sunset, Morgen) im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension kann in der Darstellung von Trennungen und Beziehungen gesehen werden (allgemein, nicht belegt)",
+          "Die Zeilen \"Then we'll do it one more time\" können als Ausdruck der Unfähigkeit, sich von einer toten Beziehung zu lösen, interpretiert werden (Spekulation)"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Komplexität von Trennungen und die Sehnsucht nach einem letzten gemeinsamen Moment (allgemein)",
+          "Die zentrale Botschaft betont die Endgültigkeit der Trennung, aber gleichzeitig die Unfähigkeit, sich zu lösen (vage)",
+          "Literarische Stilmittel, Metaphern und Symbole spielen eine wichtige Rolle (vage)",
+          "Die emotionale Wirkung wird durch die affektive Dimension verstärkt (vage)",
+          "Die Wiederholung unterstreicht Ambiguität und Widerspruch zwischen Akzeptanz und Sehnsucht (vage)"
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die Metapher von Herz und Geist",
+          "Verknüpft die Wiederholung mit emotionaler Verzweiflung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension kann in der Betonung der emotionalen Authentizität gesehen werden (Spekulation)",
+          "Die tiefere Bedeutungsebene liegt in der Auseinandersetzung mit der Vergänglichkeit von Beziehungen (nicht belegt)"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Komplexität von Trennungen und die Sehnsucht nach einem letzten gemeinsamen Moment (allgemein)",
+          "Literarische Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei (vage)",
+          "Die Wiederholung wird zu einem refrainartigen Ausdruck der Sehnsucht und Verzweiflung (vage)",
+          "Die Ambiguität lässt darauf schließen, dass die Sprecherin ihre innere Lichtquelle nicht verlieren wird (vage)",
+          "Spannungen und Widersprüche bleiben offen und lassen Raum für Interpretationen (allgemein)"
+        ],
+        "positive_aspekte": [
+          "Starke Textbelege für die Analyse von \"You can break my heart…\" und \"You can shut the lights…\"",
+          "Erkennt die Gegenüberstellung von \"Last song\" und \"One more time\" als zentrales Spannungsfeld"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.0,
+    "konsistenz_über_wiederholungen": "Die Interpretationen wiederholen viele der gleichen Grundthesen, wodurch die Varianz gering ist. Unterschiede zeigen sich hauptsächlich im Verhältnis von belegten zu spekulativen Aussagen.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Analyse: sie stützt sich stark auf den Text, bietet konkrete Interpretationen und lässt gleichzeitig Raum für Mehrdeutigkeit, ohne übermäßige Spekulation."
+  }
+}

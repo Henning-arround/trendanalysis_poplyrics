@@ -1,0 +1,99 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen über 'pretenders to somebody's throne' und das 'glorious contest' verdeutlichen den Kampf um Anerkennung, der von egoistischen Ambitionen getrieben ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied schildert einen inneren Konflikt zwischen dem Drang nach allumfassender Erkenntnis und der Ablehnung einer von Kommerz und Schein beherrschten Welt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des 'house that we live in is falling apart' verdeutlicht den Zerfall gesellschaftlicher Strukturen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Verabschiedung von Geld, Öffentlichkeit und Kameras wirkt wie ein kritischer Abschied von der kommerziellen und voyeuristischen Kultur"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der textlichen Elemente und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Suche nach dem 'invincible one' wird zu einer Art heroischer Mission"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied zeichnet ein Bild von einer Welt, die in endlosen Machtkämpfen gefangen ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die textliche Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrenden Abschiede von 'Geld', 'öffentlicher' und 'Kameras' kritisieren die Kommodifizierung von Privatsphäre und die Überwachung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild eines 'fallenden Hauses' steht für den Zerfall gesellschaftlicher Fundamente"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der textlichen Elemente und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen über 'pretenders to somebody's throne' und das 'glorious contest' verdeutlichen den Kampf um Anerkennung"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied zeichnet ein Bild von einer Gesellschaft, die nach einer unverrückbaren Identität sucht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine interessante Perspektive auf die textliche Symbolik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der textlichen Elemente",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

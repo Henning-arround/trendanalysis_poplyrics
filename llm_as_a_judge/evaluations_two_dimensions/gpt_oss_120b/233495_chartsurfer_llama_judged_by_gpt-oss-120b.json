@@ -1,0 +1,89 @@
+{
+  "song": "That Old Black Magic - Sam The Sham & The Pharaohs (1965)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Aussagen",
+          "Verknüpft einzelne Bildungen des Liedes (z. B. „eisige Finger“, „Küsse löschen das Feuer“) mit einer kohärenten Interpretation",
+          "Keine spekulativen biografischen oder historischen Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Analyse der Metaphern „alte schwarze Magie“ und der Wiederholungen",
+          "Verknüpft die Bildsprache mit dem Motiv einer emotionalen Spirale",
+          "Bleibt strikt beim Text, keine unbelegten Zusatzinformationen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Systematische Aufschlüsselung der einzelnen Bildungen des Songs",
+          "Betont das Schicksalsmotiv, das im Text vorkommt („mate that fate had me created for“)",
+          "Keine spekulativen Aussagen über Genre, Historie oder Künstlerbiografie"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um die spezifische Zeile über den Kuss, der das Feuer löscht",
+          "Verbindet das Schicksalsmotiv mit der Idee der „Seelenverwandten“ – beides im Text verankert",
+          "Bleibt vollständig textbasiert, keine erfundenen Kontextualisierungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt die Liebe als „Zauberbann“ und „Schicksal“ klar dar, beides aus dem Text ableitbar",
+          "Betont die Hilflosigkeit des Erzählers – ein wiederkehrendes Motiv im Lied",
+          "Keine überflüssigen, nicht belegten Informationen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen im Wesentlichen dieselben textbasierten Punkte; die Varianz ist gering, was auf ein hohes Maß an Konsistenz, aber wenig kreative Divergenz hinweist.",
+    "empfehlung": "Alle Modelle liefern faktentreue, textnahe Analysen. Für mehr Tiefe könnte man künftig stärker auf mehrdeutige Passagen eingehen und unterschiedliche mögliche Lesarten ausarbeiten, anstatt dieselben Schlussfolgerungen zu wiederholen."
+  }
+}

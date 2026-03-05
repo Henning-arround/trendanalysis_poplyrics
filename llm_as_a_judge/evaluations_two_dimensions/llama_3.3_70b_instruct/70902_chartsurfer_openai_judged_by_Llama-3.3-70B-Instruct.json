@@ -1,0 +1,99 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch, in den 70er-Jahren verankert, spiegelt das Stück den optimistischen Zeitgeist des Post-Woodstock-Zeitalters wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Wort \"everything\" impliziert ein unbeschränktes Potenzial"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von \"One day tomorrow\" als Mantra und der Bedeutung von \"dreams of yesterday\""
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen \"Things are gonna seem worthwhile\" und \"I will face the world with a smile\" deuten darauf hin, dass das lyrische Ich die Gegenwart als belastend empfindet"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Morgen wird als Ort der Sinnhaftigkeit und des Optimismus konzipiert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verbindung zwischen persönlichem Erwachen und kollektiver Verwirklichung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch, im Kontext des Jahres 1975, verknüpft Winter rockige Elemente mit einer fast spirituellen Leichtigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Wort \"everything\" impliziert ein unbeschränktes Potenzial"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von \"One day tomorrow\" als Mantra und der Bedeutung von \"dreams of yesterday\""
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"Things are gonna seem worthwhile\" deutet darauf hin, dass das gegenwärtige Gefühl von Sinnlosigkeit nicht dauerhaft ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild, die Welt mit einem Lächeln zu begegnen, symbolisiert die innere Transformation von Resignation zu Selbstvertrauen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verbindung zwischen persönlichem Erwachen und kollektiver Verwirklichung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch verankert die repetitive Struktur des Textes die Erwartungshaltung, dass das ersehnte Morgen unvermeidlich ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Versprechen, dass \"nothing will be left to destroy\" und \"there’ll be everything for us to do\", suggeriert, dass das Erreichen gemeinsamer Träume nicht nur Konflikte eliminiert, sondern zugleich ein kreatives Potenzial freisetzt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verwendung von \"One day tomorrow\" als Mantra und der Bedeutung von \"dreams of yesterday\""
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Verwendung von \"One day tomorrow\" als Mantra und der Bedeutung von \"dreams of yesterday\". Es gibt jedoch einige Variationen in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet. Es ist jedoch wichtig, die anderen Interpretationen zu berücksichtigen, um eine umfassendere Analyse des Songs zu erhalten."
+  }
+}

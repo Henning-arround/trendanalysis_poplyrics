@@ -1,0 +1,119 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die zentrale Botschaft des Songs scheint die Frage zu sein, wie wir unsere Identität konstruieren und präsentieren…“ – keine Textstelle belegt diese Frage.",
+          "„Der Song reflektiert die Veränderungen in der Pop‑Kultur der 1960er Jahre.“ – historischer Kontext wird ohne Hinweis im Text angenommen.",
+          "„Die Zeile ‚Das Arte‑Ballet, schießt doch mal nett‘ verweist auf die Verbindung zwischen Kunst und Performance.“ – spekulative Deutung ohne Beleg."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie eine surreale und chaotische Ansammlung von Bildern wirkt.“ – allgemeine, nicht näher erläuterte Charakterisierung.",
+          "„Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Distanz und Faszination.“ – vage Gefühlsbeschreibung ohne Textbezug."
+        ],
+        "positive_aspekte": [
+          "Zieht zahlreiche Textstellen (z. B. „Tremor im Handgelenk…“, „Horrorclowning“, „Banjo“) korrekt als Beleg für Bildhaftigkeit heran.",
+          "Erkennt und benennt mehrere wiederkehrende Motive (Banjo, Kanone, Tanz) und verknüpft sie mit dem übergeordneten Thema Performance."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die zentrale Botschaft des Songs scheint die Beobachtung einer Gruppe von Menschen zu sein, die in einer Art von theatralischer Performance gefangen sind.“ – keine explizite Aussage im Text.",
+          "„Im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre kann der Song als Kommentar zu den Veränderungen in der Kunst und der Gesellschaft jener Zeit interpretiert werden.“ – spekulative Geschichtseinordnung.",
+          "„Die Verwendung von Symbolen wie dem ‚Banjo‘ oder der ‚Kanone‘ lässt auf eine Auseinandersetzung mit Themen wie Kreativität, Kontrolle und Macht schließen.“ – Interpretation ohne Textbeleg."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie eine surreale und chaotische Ansammlung von Bildern und Szenen wirkt.“ – allgemeine, nicht weiter ausgeführte Aussage.",
+          "„Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Distanz und Faszination.“ – vage Gefühlsbeschreibung."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt mehrere konkrete Textzeilen (z. B. „Tremor im Handgelenk, Rauchen“, „Ein kleinkariertes Theaterprojekt“) und nutzt sie als Anker für die Analyse.",
+          "Erwähnt die stilistischen Mittel (Metaphern, Symbole) und verknüpft sie mit der surrealen Atmosphäre des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der Song ist ein Kommentar zu den Veränderungen in der Pop‑Kultur der 1960er Jahre.“ – keine Textgrundlage.",
+          "„Die wiederholte Nennung von ‚Sie‘ und die Beschreibung ihrer Handlungen suggeriert Distanz und Beobachtung.“ – spekulativ, nicht im Text verankert.",
+          "„Der kulturelle, historische und gesellschaftliche Kontext des Songs ist in den 1960er Jahren zu verorten.“ – Kontext wird angenommen, ohne Hinweis im Text."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie eine surreale und chaotische Ansammlung von Bildern wirkt.“ – allgemeine Charakterisierung.",
+          "„Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Distanz und Faszination.“ – vage Gefühlsbeschreibung."
+        ],
+        "positive_aspekte": [
+          "Zieht zahlreiche Textzitate (z. B. „Banjo“, „Kanone“, „Capoeira‑Tänzchen“) korrekt als Beleg für die Bildsprache heran.",
+          "Erkennt das wiederkehrende Motiv des Tanzes und verknüpft es mit dem Titel‑Aufruf „Lass’ sie tanzen!“."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der Song ist ein Kommentar zu den Veränderungen in der Kunst und Gesellschaft der 1960er Jahre.“ – keine Textbasis.",
+          "„Die Verwendung von Symbolen wie dem ‚Banjo‘ oder der ‚Kanone‘ lässt auf eine Auseinandersetzung mit Themen wie Kreativität, Kontrolle und Macht schließen.“ – spekulativ.",
+          "„Im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre kann der Song als Kommentar zu den Veränderungen in der Kunst und der Gesellschaft jener Zeit interpretiert werden.“ – erfundene Kontextualisierung."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie eine surreale und chaotische Ansammlung von Bildern und Szenen wirkt.“ – allgemeine Aussage.",
+          "„Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Distanz und Faszination.“ – vage."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich korrekt auf konkrete Textstellen (z. B. „Ein kleinkariertes Theaterprojekt“, „Tremor im Handgelenk, Rauchen“).",
+          "Identifiziert die wiederkehrenden Motive (Tanz, Waffen, Banjo) und verknüpft sie mit dem übergeordneten Thema Performance."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der Song reflektiert die Veränderungen in der Pop‑Kultur der 1960er Jahre.“ – keine Textgrundlage.",
+          "„Die Zeile ‚Das Arte‑Ballet, schießt doch mal nett‘ verweist auf die Verbindung zwischen Kunst und Performance.“ – spekulativ.",
+          "„Im kulturellen, historischen und gesellschaftlichen Kontext der 1960er Jahre kann der Song als Kommentar zu den Veränderungen in der Kunst und der Gesellschaft jener Zeit interpretiert werden.“ – erfundene Kontextualisierung."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie eine surreale und chaotische Ansammlung von Bildern wirkt.“ – allgemeine Charakterisierung.",
+          "„Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Distanz und Faszination.“ – vage."
+        ],
+        "positive_aspekte": [
+          "Zieht zahlreiche Textzitate (z. B. „Horrorclowning“, „Missglücktes Halloween‑Outfit“, „Banjo“) korrekt als Beleg für die Bildsprache heran.",
+          "Erkennt und diskutiert das Motiv des Theaters („kleinkariertes Theaterprojekt“) und verknüpft es mit dem Konzept von Performance."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 2,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Grundthesen (Performance, Identität, 60er‑Jahre‑Kontext) und nutzen fast identische Formulierungen. Dadurch entsteht ein hoher Anteil an wiederholten, oberflächlichen Aussagen, was die Varianz gering hält.",
+    "empfehlung": "Ein Ansatz, der stärker textgebunden bleibt, konkrete Bildanalysen liefert und spekulative Geschichtseinordnungen vermeidet, erzielt die beste Balance zwischen Faktentreue und analytischer Tiefe. Interpretation 3 (und 4) kommen diesem Ideal am nächsten, weil sie mehr spezifische Textbelege nutzen und gleichzeitig weniger vage Allgemeinplätze enthalten."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "song": "Ein Festival der Liebe - Jürgen Marcus (1972)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ... verpackt das Ideal einer allumfassenden, gemeinschaftlichen Glückseligkeit in einer leichtfüßigen, fast märchenhaften Bildsprache, die den Geist der frühen 70er‑Jahre widerspiegelt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Motive ... symbolisieren ein beflügeltes Selbstbewusstsein, das aus der Gegenwart einer geliebten Person entsteht; die Liebe wird zum Anker, der das Ich stabilisiert und zugleich beflügelt.",
+          "Durch die Einladung an alle Gleichgesinnten entsteht ein utopischer Appell an Solidarität: Liebe wird als universelle Ressource dargestellt, deren Fehlen das Leben leer macht.",
+          "Insgesamt lässt sich das Lied als Hymne auf die transformative Kraft der Liebe lesen, die sowohl das Individuum als auch die Gesellschaft zu einem dauerhaften Fest zusammenführt, in dem jeder Teilnehmer eingeladen ist, das fehlende Element – die Liebe – zu teilen und zu feiern."
+        ],
+        "positive_aspekte": [
+          "Zieht klare Bezüge zu den im Text genannten Motiven (Wolken, Größe, Festival).",
+          "Erkennt die Spannung zwischen Ideal und realen Konflikten (Sorgen, Streit, Versöhnung).",
+          "Bietet einen strukturierten Überblick über die Hauptthemen des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "So wird das Lied zu einem Aufruf, das eigene Leben bewusst als Fest der Liebe zu inszenieren und damit einen Beitrag zu einer solidarischeren, emotional vernetzten Gesellschaft zu leisten."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Analysiert sowohl die positiven als auch die problematischen Passagen (Streit, Versöhnung).",
+          "Verbindet die wiederholten Refrains zu einer kohärenten Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ... ist ein typisches Produkt der frühen 70er‑Jahre, das die optimistische Sehnsucht nach Gemeinschaft und emotionaler Befreiung verkörpert.",
+          "Der Refrain ... reflektiert das damalige Aufkommen von Friedens- und Liebesbewegungen, die globale Harmonie als Gegenpol zu politischen Spannungen suchten."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt vermittelt das Lied ein Bild von Liebe als lebensspendendes Fest, das sowohl individuell als auch gesellschaftlich wirkt, und ruft dazu auf, dieses Fest aktiv zu teilen, weil ohne Liebe das menschliche Dasein leer bleibt."
+        ],
+        "positive_aspekte": [
+          "Erfasst die Hauptmotive (Wolken, Festival, Versöhnung) korrekt.",
+          "Stellt den historischen Kontext her, wenn auch spekulativ, was die Interpretation interessanter macht."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Bereitschaft verleiht dem „Festival“ eine nachhaltige, resiliente Qualität, die über flüchtige Euphorie hinausgeht.",
+          "Der Refrain ... unterstreicht den inklusiven Charakter des Gesangs: Liebe ist ein universelles Gut, das geteilt werden muss, um die Welt zu heilen.",
+          "Der abschließende Ausruf „Woah‑ahh“ wirkt wie ein ekstatischer Ausbruch, der die emotionale Intensität des Gesangs noch einmal verstärkt und das Bild einer feierlichen, grenzenlosen Gemeinschaft abschließt."
+        ],
+        "positive_aspekte": [
+          "Sehr gründlich – deckt fast jede Textzeile ab.",
+          "Verbindet die musikalischen Elemente (Woah‑ahh) mit der inhaltlichen Aussage.",
+          "Betont die wiederholte Aufforderung zur Inklusion und das Motiv der Versöhnung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Es spiegelt die Sehnsucht der frühen 70er‑Jahre nach Gemeinschaft, Frieden und einer emotionalen Revolution wider, die über das Individuum hinausreicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Metapher des Fliegens auf Wolken ... symbolisiert das Aufblühen des Selbstwerts durch die Liebe; das Gegenüber wird zum Katalysator, der das eigene Ich erweitert und beflügelt.",
+          "Das wiederholte „Oh‑oh, ah‑ah“ wirkt wie ein musikalischer Aufschrei, der die Euphorie und das unbeschwerte Festgefühl unterstreicht.",
+          "Insgesamt vermittelt das Lied eine utopische Vision, in der persönliche Liebe zur kollektiven Kraft wird, die gesellschaftliche Trennung überwindet und ein dauerhaftes Fest des Miteinanders ermöglicht."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die lyrischen Wiederholungen (Oh‑oh, ah‑ah) mit ihrer emotionalen Wirkung.",
+          "Bezieht sowohl die persönliche als auch die gesellschaftliche Dimension des Songs ein.",
+          "Erkennt die zentrale Rolle des Refrains als Lebensmodell."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1 und 2 zeigen die höchste Texttreue und zugleich gute analytische Tiefe; sie wiederholen zentrale Motive, ohne unnötige Spekulation. Interpretationen 3‑5 enthalten vermehrt historische Spekulationen und allgemeinere Aussagen, was zu höheren Halluzinationsraten führt.",
+    "empfehlung": "Ein Ansatz, der strikt am Text bleibt (wie Interpretation 1) und gleichzeitig strukturiert zwischen Bildsprache, Konflikt‑ und Versöhnungsaspekten differenziert, liefert die beste Balance aus Faktentreue und analytischer Tiefe."
+  }
+}

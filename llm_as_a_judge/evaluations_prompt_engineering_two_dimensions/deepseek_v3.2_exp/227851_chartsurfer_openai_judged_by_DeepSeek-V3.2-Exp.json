@@ -1,0 +1,99 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 1982 in einer Phase des Kalten Krieges zu verorten"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität entsteht durch das Nebeneinander von Jahreszeiten‑Metaphern"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Anrufung von 'God speed' spiegelt ein kulturelles Vertrauen in göttliche Fürsorge"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine doppelte Sehnsucht nach Wiederkehr und nach einer idealisierten Natur"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Aufruf 'God speed my love 'til you are mine again' verknüpft religiöse Segenswünsche mit einer persönlichen Liebesbeziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Kern des Liedes ist ein Ausdruck von sehnsuchtsvoller Erwartung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der kontrastierenden Bilder und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Motiv des Wiedersehens kann daher als kollektive Sehnsucht nach Überwindung von Barrieren gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität entsteht aus der Gegenüberstellung von Winter und Frühlingsblüte"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Jahreszeiten‑Symbolik spiegelt das kollektive Verlangen nach einem 'Frühling' nach der 'Kälte' des Konflikts wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song vermittelt eine zentrale Botschaft von sehnsuchtsvoller Erwartung und transzendenter Hoffnung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der kontrastierenden Metaphern und Symbolik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf den Text beziehen und weniger spekulativ sein"
+  }
+}

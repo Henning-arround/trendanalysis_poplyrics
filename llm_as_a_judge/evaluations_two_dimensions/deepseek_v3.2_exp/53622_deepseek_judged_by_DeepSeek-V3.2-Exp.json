@@ -1,0 +1,99 @@
+{
+  "song": "Drinks & Clout - Fler feat. Bass Sultan Hengzt (2021)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Künstler betonen ihre Herkunft aus Berlin und ihre Verbindungen zur Rap-Szene."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Darstellung von Luxus, Macht und Selbstbewusstsein."
+        ],
+        "positive_aspekte": [
+          "Der Text ist geprägt von Anspielungen auf Luxusmarken, teure Getränke und ein extravagantes Leben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Fler und Bass Sultan Hengzt beziehen sich auf ihre Herkunft aus Berlin und ihre Verbindungen zur Rap-Szene."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zelebriert die Werte von Macht, Status und Selbstbewusstsein."
+        ],
+        "positive_aspekte": [
+          "Der Text ist geprägt von einer selbstbewussten, teilweise aggressiven Sprache."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Künstler betonen ihre Herkunft und ihre Zugehörigkeit zu bestimmten sozialen Kreisen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Darstellung von Luxus, Macht und Selbstbewusstsein."
+        ],
+        "positive_aspekte": [
+          "Der Text ist geprägt von einer Mischung aus Deutsch und Englisch."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Künstler präsentieren sich als erfolgreiche, einflussreiche Männer."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zelebriert die Werte von Macht, Luxus und Selbstbewusstsein."
+        ],
+        "positive_aspekte": [
+          "Der Text ist geprägt von Anspielungen auf Luxusmarken und teure Getränke."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Fler und Bass Sultan Hengzt beziehen sich auf ihre Herkunft aus Berlin."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Darstellung von Luxus, Macht und Selbstbewusstsein."
+        ],
+        "positive_aspekte": [
+          "Der Text ist geprägt von einer selbstbewussten Sprache."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die Interpretationen sollten sich stärker auf textbasierte Analysen konzentrieren und weniger auf allgemeine Aussagen."
+  }
+}

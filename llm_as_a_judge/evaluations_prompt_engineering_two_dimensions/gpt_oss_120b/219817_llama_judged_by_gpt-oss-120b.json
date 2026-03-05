@@ -1,0 +1,108 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text könnte auf die Erfahrungen und Perspektiven des Künstlers in seinem sozialen Umfeld hinweisen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und vielschichtige Textstruktur, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Der kulturelle und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei seiner Interpretation."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Bezug zu Status, Luxusmarken, Aggression).",
+          "Es wird auf Symbolik (Pyramidengruß, Identitäts‑Reihe) eingegangen und deren mögliche Bedeutung erläutert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text könnte auf die Erfahrungen und Perspektiven des Künstlers in seinem sozialen Umfeld hinweisen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und vielschichtige Textstruktur, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Der kulturelle und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei seiner Interpretation."
+        ],
+        "positive_aspekte": [
+          "Gute Verknüpfung von Textstellen mit Themen wie Macht, Identität und Konsum.",
+          "Erklärung von Metaphern (Pyramidengruß, Identitäts‑Reihe) mit konkreten Beispielen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Themen wie Gewalt und Aggression weisen auf eine komplexe und möglicherweise problematische Beziehung zur Gesellschaft hin."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und vielschichtige Textstruktur, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die emotionale Wirkung und affektive Dimension des Textes sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden, in dem der Song entstanden ist.",
+          "Durch die Analyse dieser Elemente kann eine tiefere Bedeutungsebene des Textes erschlossen werden, die über die Oberfläche der Selbstbehauptung und des Überlegenheitsgefühls hinausgeht und Fragen nach der Rolle von Macht, Status und Gewalt in der Gesellschaft aufwirft."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen beruhen direkt auf Textbeispielen (Status, Marken, Aggression).",
+          "Erweiterte Analyse der emotionalen Wirkung und der Bildsprache."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und vielschichtige Textstruktur, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Der kulturelle und gesellschaftliche Kontext des Textes ist ebenfalls von Bedeutung.",
+          "Der Song spiegelt eine Welt wider, in der Status, Reichtum und Macht die wichtigsten Werte sind, und in der Aggression und Konkurrenz die dominierenden Verhaltensmuster sind."
+        ],
+        "positive_aspekte": [
+          "Alle inhaltlichen Behauptungen lassen sich eindeutig aus dem Songtext ableiten.",
+          "Hinweis auf Ambiguitäten und Widersprüche im Text, was die Analyse vertieft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine komplexe und vielschichtige Textstruktur, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Der kulturelle und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei seiner Interpretation.",
+          "Diese Spannungen bleiben im Song ungelöst und bieten Raum für weitere Interpretationen und Analysen."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte, textbasierte Analyse (Symbolik, Marken, Status, Aggression).",
+          "Erkennt und benennt bewusst die im Text vorhandenen Ambiguitäten und Spannungen, was die Interpretation besonders tiefgehend macht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑3 sind fast identisch und wiederholen dieselben Punkte, wodurch sie in ihrer Tiefe begrenzt sind. Interpretation 4 hebt sich durch zusätzliche Analyse von Spannungen und Ambiguitäten ab, während Interpretation 2 und 5 mehr allgemeine Aussagen enthalten. Insgesamt variiert die Qualität stark, aber die meisten Aussagen bleiben textgebunden.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man den Ansatz von Interpretation 4 als Vorbild nehmen: klare, textbasierte Beobachtungen kombiniert mit einer kritischen Reflexion von Mehrdeutigkeiten. Vermeiden Sie übermäßige Allgemeinplätze und unbegründete biografische Spekulationen, um den Halluzinations‑Score niedrig zu halten."
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "song": "Ale Ale - Capital Bra (2023)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein aggressiver und provokativer Track, der von Selbstbewusstsein, Macht und Rache handelt.",
+          "Der Rapper präsentiert sich als eine Art \"König\" der Berliner Szene, der sich nicht um die Meinung anderer kümmert und seine eigene Weltordnung schafft.",
+          "Seine Lyrics sind voller Hass und Aggression, die er direkt an seine Gegner richtet.",
+          "Capital Bra präsentiert sich auch als jemand, der keine Angst hat und immer liefert, was er verspricht.",
+          "Er betont, dass er in eine andere Welt gehört und dass seine Gegner nicht auf seinem Niveau sind.",
+          "Der Refrain ... ist ein Ausdruck seiner Verachtung und seines Hasses gegenüber seinen Feinden.",
+          "Insgesamt ist \"Ale Ale\" ein Song, der von Macht, Selbstbewusstsein und Rache handelt und Capital Bra als einen Künstler präsentiert, der keine Angst hat, seine Meinung zu äußern und seine Gegner anzugreifen.",
+          "Der Song ist ein Ausdruck seiner Stärke und seiner Überlegenheit in der Rap‑Szene."
+        ],
+        "positive_aspekte": [
+          "Nennung konkreter Marken (Gucci, Bugatti, Bentley) und Zitate aus dem Text, die klar belegt sind.",
+          "Konsistente Beschreibung des aggressiven Tons des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song enthält auch Anspielungen auf seine Vergangenheit und seine Erfolge, die ihn zu dem gemacht haben, was er heute ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Rapper präsentiert sich als eine Art \"König\" der Straße, der niemanden fürchten muss und jeden, der sich ihm in den Weg stellt, dominiert.",
+          "Er präsentiert sich als jemand, der keine Angst hat und bereit ist, für seine Interessen zu kämpfen.",
+          "Er betont, dass er immer liefert und dass seine Musik von anderen Künstlern respektiert wird, die sogar ihre Releases verschieben, weil sie Angst vor ihm haben.",
+          "Die wiederholte Zeile ... ist ein Ausdruck seiner Verachtung und seines Hasses gegenüber seinen Feinden und zeigt, dass er bereit ist, alles zu tun, um seine Macht und seinen Status zu behaupten.",
+          "Insgesamt ist \"Ale Ale\" ein Song, der von Aggression, Macht und Selbstbewusstsein geprägt ist und Capital Bra als einen Künstler präsentiert, der keine Angst hat, seine Meinung zu sagen und seine dunkle und provokative Seite aufmerksam macht."
+        ],
+        "positive_aspekte": [
+          "Korrekte Identifikation mehrerer Textstellen (z. B. Marken, Zeile \"Ich würd gern diese Hurensöhne töten\").",
+          "Ergänzt die Analyse um die Erwähnung verschiedener Städte, was im Text vorkommt."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein aggressiver und provokativer Track, der von Selbstbewusstsein, Macht und Rache handelt.",
+          "Der Rapper präsentiert sich als eine Art \"König\" der Berliner Szene, der sich nicht um die Meinung anderer kümmert und seine eigene Weltordnung schafft.",
+          "Seine Lyrics sind voller Hass und Aggression, die er direkt an seine Gegner richtet.",
+          "Capital Bra präsentiert sich auch als jemand, der keine Angst hat und immer liefert, was er verspricht.",
+          "Er betont, dass er in eine andere Welt gehört und dass seine Gegner nicht auf seinem Niveau sind.",
+          "Der Refrain ... ist ein Ausdruck seiner Verachtung und seines Hasses gegenüber seinen Feinden.",
+          "Insgesamt ist \"Ale Ale\" ein Song, der von Macht, Selbstbewusstsein und Rache handelt und Capital Bra als einen Künstler präsentiert, der keine Angst hat, seine Meinung zu äußern und seine Gegner anzugreifen.",
+          "Der Song ist ein Ausdruck seiner Stärke und seiner Überlegenheit in der Rap‑Szene."
+        ],
+        "positive_aspekte": [
+          "Klare Bezugnahme auf konkrete Marken und die wiederholte Zeile aus dem Song."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song enthält auch Anspielungen auf seine Vergangenheit und seine Erfolge, die ihn zu dem gemacht haben, was er heute ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Rapper präsentiert sich als eine Art \"König\" der Straße, der niemanden fürchten muss und jeden, der sich ihm in den Weg stellt, dominiert.",
+          "Er präsentiert sich als jemand, der keine Angst hat und bereit ist, für seine Interessen zu kämpfen.",
+          "Die wiederholte Zeile ... ist ein Ausdruck seiner Verachtung und seines Hasses gegenüber seinen Feinden und zeigt, dass er bereit ist, alles zu tun, um seine Macht und seinen Status zu behaupten.",
+          "Insgesamt ist \"Ale Ale\" ein Song, der von Aggression, Macht und Selbstbewusstsein geprägt ist und Capital Bra als einen Künstler präsentiert, der keine Angst hat, seine Meinung zu sagen und seine dunkle und provokative Seite aufmerksam macht."
+        ],
+        "positive_aspekte": [
+          "Richtige Identifikation von Marken, Städten und der Zeile \"Ich würd gern diese Hurensöhne töten\".",
+          "Erwähnt die Passage über das Verschieben von Releases, die im Text vorkommt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein aggressiver und provokativer Track, der von Selbstbewusstsein, Macht und Rache handelt.",
+          "Der Rapper präsentiert sich als eine Art \"König\" der Berliner Szene, der sich nicht um die Meinung anderer kümmert und seine eigene Weltordnung schafft.",
+          "Seine Lyrics sind voller Hass und Aggression, die er direkt an seine Gegner richtet.",
+          "Capital Bra präsentiert sich auch als jemand, der keine Angst hat und immer liefert, was er verspricht.",
+          "Er betont, dass er in eine andere Welt gehört und dass seine Gegner nicht auf seinem Niveau sind.",
+          "Der Refrain ... ist ein Ausdruck seiner Verachtung und seines Hasses gegenüber seinen Feinden.",
+          "Insgesamt ist \"Ale Ale\" ein Song, der von Macht, Selbstbewusstsein und Rache handelt und Capital Bra als einen Künstler präsentiert, der keine Angst hat, seine Meinung zu äußern und seine Gegner anzugreifen.",
+          "Der Song ist ein Ausdruck seiner Stärke und seiner Überlegenheit in der Rap‑Szene."
+        ],
+        "positive_aspekte": [
+          "Korrekte Nennung von Marken (Gucci, Bugatti, Bentley) und der wiederholten Zeile aus dem Song."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die ersten drei Interpretationen wiederholen fast identische Aussagen, wodurch sie sehr oberflächlich wirken. Interpretation 4 und 5 bringen zusätzliche, teils erfundene Details ein, was die Varianz erhöht, aber auch Halluzinationen erzeugt.",
+    "empfehlung": "Eine gute Interpretation sollte die belegten Textstellen (Marken, Städte, wiederholte Zeile) klar hervorheben und gleichzeitig tiefere, textbasierte Analysen (z. B. Wortwahl, Wiederholungsstruktur, Mehrdeutigkeit) bieten, ohne erfundene biografische oder kontextuelle Behauptungen. Interpretation 4 liegt am nächsten an diesem Ideal, weil sie mehr konkrete Textbezüge liefert, obwohl sie eine kleine Halluzination enthält."
+  }
+}

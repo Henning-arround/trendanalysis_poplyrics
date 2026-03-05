@@ -1,0 +1,106 @@
+{
+  "song": "Pay The Man - The Offspring (1998)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte von The Offspring sind oft von einer kritischen Haltung gegenüber der Gesellschaft und Politik geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Es geht um die Kritik an den gesellschaftlichen Strukturen und Machtverhältnissen.",
+          "Der Song kann im Kontext der späten 1990er Jahre in den USA und Europa interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs, die Kontrolle über das eigene Leben zurückzugewinnen.",
+          "Die Verwendung von literarischen Stilmitteln wie der Metapher des 'Jester in the corner' wird analysiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'And all the girlies say, I'm pretty fly for a white guy' kann als ironische Anspielung auf die Oberflächlichkeit der Popkultur interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an den gesellschaftlichen Strukturen und Machtverhältnissen.",
+          "Die Wiederholung der Phrase 'In our souls' unterstreicht die emotionale Wirkung des Songs."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Imperativen wie 'Ho-ho, shut up, you talk too much' und 'Pay the man'.",
+          "Der Song kann im Kontext der alternativen Punk-Bewegung interpretiert werden."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die neoliberale Globalisierung und die zunehmende Konzentration von Macht und Reichtum bei einer kleinen Elite führten zu einer zunehmenden Verunsicherung und Kritik an den bestehenden Verhältnissen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Aufforderung, die Kontrolle über das eigene Leben zurückzugewinnen.",
+          "Die Textzeile 'See the way the wind blows, lives are intertwined' lässt darauf schließen, dass die individuellen Schicksale miteinander verbunden sind."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung von literarischen Stilmitteln wie der Metapher des 'Jester in the corner'.",
+          "Die Analyse der affektiven Dimension des Songs ist tiefgehend."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1990er Jahre verortet werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Imperativen wie 'Ho-ho, shut up, you talk too much' und 'Pay the man'.",
+          "Die Analyse der Metapher des 'Jester in the corner' ist tiefgehend."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die neoliberale Globalisierung und die zunehmende Konzentration von Macht und Reichtum bei einer kleinen Elite führten zu einer zunehmenden Verunsicherung und Unzufriedenheit in der Bevölkerung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Kritik an den gesellschaftlichen Strukturen und Machtverhältnissen.",
+          "Die Wiederholung der Phrase 'In our souls' unterstreicht die emotionale Wirkung des Songs."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs, die Kontrolle über das eigene Leben zurückzugewinnen.",
+          "Die Analyse der affektiven Dimension des Songs ist tiefgehend."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsscore, aber insgesamt liefern sie eine gute Analyse des Songs.",
+    "empfehlung": "Die Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher die empfehlenswerteste."
+  }
+}

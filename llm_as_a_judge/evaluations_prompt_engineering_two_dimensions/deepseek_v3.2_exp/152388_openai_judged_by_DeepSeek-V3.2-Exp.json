@@ -1,0 +1,99 @@
+{
+  "song": "Number One - Laid Back (2019)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher der Sonne fungiert zugleich als Symbol für Erleuchtung und als Zeichen kapitalistischer Sichtbarkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'Love is here / Love is there / Love is everywhere' erzeugt eine flächendeckende, fast omnipräsente Bildsprache"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen Kontext von 2019 und reflektiert die Tendenz, persönliche Beziehungen in quantifizierbare Rankings zu überführen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage 'Love is like the sun' fungiert als zentrale Metapher, die Liebe sowohl als allgegenwärtige, lebensspendende Kraft als auch als übermächtiges, fast göttliches Symbol positioniert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Fixierung auf 'Number one' die Sehnsucht nach Anerkennung in einer Plattform-ökonomischen Kultur offenbart"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Verquickung von persönlicher Intimität und datengetriebener Sichtbarkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verortung von Liebe in einem Chart-System ('On top of the charts') kann als Kritik an der Kommodifizierung von Emotionen gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die strukturelle Monotonie und das Fehlen einer narrativen Entwicklung erzeugen eine affektive Schlichtheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation reflektiert die Verquickung von Gefühlsleben mit quantifizierbaren Erfolgsmetriken"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Selbstreferenz 'On top of the charts' reflektiert diese Selbstinszenierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die ständige Wiederholung von 'Love is…' die allgegenwärtige, aber oft unkritisch konsumierte Ideologie von Liebe als universelles Heilmittel widerspiegelt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Ambiguität zwischen Aufrichtigkeit und Parodie"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aussage 'Love is everywhere' verstärkt diese Allgegenwart, lässt jedoch offen, ob diese Allgegenwart als befreiend oder als erdrückend empfunden wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Tendenz, Liebe in quantifizierbare Kategorien zu pressen ('Number one', 'charts')"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation reflektiert die Ambivalenz des Bildes der Sonne"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt liefern sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die zweite Interpretation liefert eine gute Balance zwischen Textreue und analytischer Tiefe und berücksichtigt die Verquickung von persönlicher Intimität und datengetriebener Sichtbarkeit"
+  }
+}

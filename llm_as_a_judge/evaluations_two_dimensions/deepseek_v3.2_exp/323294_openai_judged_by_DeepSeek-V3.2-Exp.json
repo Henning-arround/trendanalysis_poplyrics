@@ -1,0 +1,93 @@
+{
+  "song": "Blessed Assurance - Burl Ives (1950)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Interpretation ist sehr textbezogen, aber einige Aussagen könnten tiefer analysiert werden"
+        ],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -inhalte, insbesondere die Rolle des Refrains und der Strophen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einige Aussagen sind sehr allgemein, aber insgesamt eine gute Interpretation"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der theologischen und persönlichen Aspekte im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einige Aussagen sind sehr allgemein und wiederholen sich"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textstruktur, aber einige Aussagen könnten spezifischer sein"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einige Aussagen über den historischen Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Einige Aussagen sind sehr allgemein"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textinhalte und -struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einige Aussagen über den historischen Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Einige Aussagen sind sehr allgemein und wiederholen sich"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textinhalte, aber einige Aussagen könnten spezifischer sein"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt sind sie sehr textbezogen",
+    "empfehlung": "Die erste Interpretation ist ein gutes Beispiel für eine ausgewogene Analyse, die sowohl textbezogen als auch tiefgehend ist"
+  }
+}

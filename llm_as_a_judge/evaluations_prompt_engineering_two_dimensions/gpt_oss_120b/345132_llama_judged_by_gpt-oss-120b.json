@@ -1,0 +1,112 @@
+{
+  "song": "'Til My Back Ain't Got No Bone - Tom Jones (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"Dummies in a showcase / They all seem to come alive\" kann beispielsweise als Symbol für die Leere und Unwirklichkeit der Welt ohne die Geliebte interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei der Interpretation.",
+          "Der Song kann als Ausdruck der universellen menschlichen Erfahrung von Verlust und Sehnsucht verstanden werden, die unabhängig von kulturellen oder historischen Kontexten ist.",
+          "Diese Ambiguitäten und Spannungen laden den Hörer ein, eigene Interpretationen zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge (z. B. Metapher, Bildhaftigkeit von Regen und Kälte).",
+          "Klare Struktur: Einleitung, Analyse der Stilmittel, Hinweis auf Mehrdeutigkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"Dummies in a showcase / They all seem to come alive\" kann beispielsweise als Symbol für die Leere und Oberflächlichkeit der modernen Gesellschaft interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstanden ist, spielt eine wichtige Rolle bei der Interpretation.",
+          "Der Song kann als Ausdruck der universellen menschlichen Erfahrung von Verlust und Sehnsucht verstanden werden, die unabhängig von kulturellen oder historischen Kontexten ist."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textstellen mit konkreten Bild- und Metaphernanalysen.",
+          "Erkennt die Wiederholung als zentrales stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Blues- und Soul-Elementen im Song verweist auf eine lange Tradition von Musik, die sich mit Themen wie Liebe, Verlust und sozialer Gerechtigkeit auseinandersetzt.",
+          "Die tiefere Bedeutungsebene des Songs kann auch in der symbolischen Ordnung von Körper und Seele gesehen werden, wo der Körper als Träger von Emotionen und Erfahrungen dient."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine komplexe Exploration von Liebe, Verlust und emotionaler Not interpretiert werden.",
+          "Die emotionale Wirkung des Songs wird auch durch den kulturellen, historischen und gesellschaftlichen Kontext, in dem er entstanden ist, verstärkt.",
+          "Durch die Identifizierung von Ambiguitäten, Spannungen und Widersprüchen im Song kann eine nuanciertere Interpretation des Songs entwickelt werden, die die Komplexität der menschlichen Erfahrung widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die narrative Struktur (Wiederholungen, Refrains) und deren Verstärkung der Emotionalität.",
+          "Bezieht Symbolik (Regen, Stadt) konkret auf das Bild der Einsamkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist nicht explizit angegeben, aber die Themen der Liebe, Sehnsucht und Verlust sind universell und zeitlos."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse, kaum spekulative Aussagen.",
+          "Verknüpft Bildsprache (Regen, Kälte) mit emotionaler Lage des Protagonisten.",
+          "Erklärt die Funktion der Wiederholungen als Refrain‑ähnliches Element."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist durch die Verwendung von Blues- und Soul-Elementen geprägt, die auf die afroamerikanische Musiktradition zurückgehen.",
+          "Die tiefere Bedeutungsebene des Songs kann in der symbolischen Ordnung der \"Knochen\" gesehen werden, die für die Struktur und den Halt des Körpers stehen und deren Fehlen für die emotionale Zerrüttung des Protagonisten steht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, wie die Verwendung von Metaphern und Bildern, tragen zur thematischen Komplexität des Songs bei und ermöglichen eine tiefere Interpretation.",
+          "Die Ambiguitäten und Spannungen im Song werden durch die Kontraste zwischen der körperlichen und emotionalen Erschöpfung des Protagonisten und seiner Entschlossenheit, weiter zu gehen, verdeutlicht.",
+          "Die Widersprüche zwischen der Sehnsucht nach der Geliebten und der Unfähigkeit, sie zu erreichen, werden durch die Wiederholung der Zeile \"I'll be walkin' 'til my back ain't got no bone\" hervorgehoben, die eine Art von emotionaler Sackgasse darstellt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Metapher und deren emotionale Implikation.",
+          "Bezieht die Wiederholung \"I gotta keep walking\" als Hinweis auf Durchhaltewillen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren stark im Anteil spekulativer Aussagen. Interpretation 2 ist am konsistentesten, da sie kaum Halluzinationen enthält, während 4 und 5 mehr unbelegte kulturelle Kontextualisierungen einbringen.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man den textnahen Ansatz von Interpretation 2 als Vorbild nehmen: wenig spekulative Zusatzinformationen, dafür klare Bezüge zu Bildsprache, Wiederholungen und Metaphern. Gleichzeitig können gezielte, begründete kulturelle Bezüge (wie bei Interpretation 1) die Tiefe erhöhen, solange sie klar als Hypothese gekennzeichnet werden."
+  }
+}

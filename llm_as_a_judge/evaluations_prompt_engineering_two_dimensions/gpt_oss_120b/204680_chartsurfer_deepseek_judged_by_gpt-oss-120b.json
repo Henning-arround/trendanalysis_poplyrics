@@ -1,0 +1,104 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse der Metaphern und Symbole.",
+          "Gute Einbindung historischer Fakten ohne spekulative Behauptungen.",
+          "Erkennt die Ambiguitäten zwischen Exklusivität und Endlichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song birgt eine tiefere Bedeutungsebene, die die Sehnsucht nach Freiheit und Selbstbestimmung in der Liebe andeutet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung.",
+          "Diese Ambiguität macht den Song zu einem interessanten Objekt kulturwissenschaftlicher Analyse."
+        ],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Metaphern, Symbolen und der affektiven Dimension.",
+          "Verknüpfung von Textanalyse mit historisch‑sozialem Kontext.",
+          "Erkennt und benennt die mögliche Mehrdeutigkeit des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeigt \"Dance Only With Me\" eine komplexe emotionale Wirkung, die zwischen Sehnsucht, Intimität und Vergänglichkeit oszilliert."
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse von Wiederholungen, Refrain und instrumentaler Pause.",
+          "Verknüpft Textinhalt mit den gesellschaftlichen Normen der 1950er Jahre.",
+          "Bietet eine tiefere Interpretation der Zeile über das Ende der Musik als Hinweis auf Vergänglichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Präzise Ableitung von Metaphern und Symbolen aus dem Text.",
+          "Klare Darstellung der Ambiguitäten zwischen Exklusivität und Endlichkeit.",
+          "Stichhaltige historische Einordnung ohne spekulative Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist ebenfalls von Bedeutung.",
+          "Die affektive Dimension des Songs ist geprägt von Sehnsucht, Liebe und dem Wunsch nach Nähe.",
+          "Insgesamt kann \"Dance Only With Me\" als ein Song interpretiert werden, der die Sehnsucht nach exklusiver Liebe und Gemeinsamkeit in einer Zeit traditioneller Werte und Normen ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Verknüpfung des Songs mit seiner Broadway‑Ursprung (Say Darling).",
+          "Ausführliche Analyse der Symbolik von Tanz und Musik.",
+          "Stichhaltige historische Kontextualisierung ohne erfundene Details."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen, unterscheiden sich jedoch kaum in Tiefe oder Originalität. Die Varianz ist gering; die meisten Scores liegen bei 4‑5.",
+    "empfehlung": "Interpretationen 2‑5 erreichen eine hohe Faktentreue und substantielle Textanalyse. Für zukünftige Bewertungen sollte man darauf achten, vage Allgemeinplätze zu reduzieren und mehr differenzierte, textbasierte Ambivalenzen zu explorieren."
+  }
+}

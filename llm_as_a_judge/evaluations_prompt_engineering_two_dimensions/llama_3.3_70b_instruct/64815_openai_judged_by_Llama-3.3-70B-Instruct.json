@@ -1,0 +1,99 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation bezieht sich auf das post-milleniale Klima um 2000, ohne dass dies direkt im Text erwähnt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song ein 'Spiegel einer Ära' ist, bleibt etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Metaphern und Bildsprache im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von 'post-kolonialen Umbrüchen' ohne direkten Bezug im Text."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine Spannung zwischen fatalistischer Passivität und aktiver Ritualisierung des Loslassens' erzeugt, ist etwas allgemein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der textile Metaphern und ihrer Bedeutung für die Identität ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation bezieht sich auf das 'post-milleniale Klima' ohne direkten Textbezug."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine paradoxes Spannungsfeld' erzeugt, bleibt etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Wiederholungen und ihrer Wirkung ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation spricht von 'globaler Globalisierung' und 'kultureller Hybridisierung' ohne direkten Textbezug."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine dialektische Spannung' erzeugt, ist etwas allgemein."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und ihrer Bedeutung für den Wandel ist ansprechend."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation bezieht sich auf den 'digitalen Umbruch' ohne direkten Textbezug."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine zirkuläre Struktur' hat, bleibt etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Imperative und ihrer Bedeutung ist überzeugend."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt bieten sie eine gute Mischung aus textbezogener Analyse und interpretativer Tiefe.",
+    "empfehlung": "Für zukünftige Interpretationen sollte der Fokus auf einer ausgewogenen Mischung aus textbezogener Analyse und interpretativer Tiefe liegen, wobei spekulative Aussagen minimiert und die Ambiguitäten und Mehrdeutigkeiten im Text berücksichtigt werden sollten."
+  }
+}

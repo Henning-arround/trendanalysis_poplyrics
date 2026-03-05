@@ -1,0 +1,99 @@
+{
+  "song": "On the Sunny Side of the Street / Exactly Like You - Louis Prima (1957)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-war-amerikanische Werbeästhetik von 1957"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Streben nach Glück"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambivalenz zwischen Optimismus und Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-modernen Collage-Techniken"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Spannung zwischen öffentlicher Positivität und privater Unsicherheit"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Wiederholungen und assoziativen Bildsprünge"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wachsende Subkultur der Selbstfindung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz des amerikanischen Traums"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und assoziativen Sprünge"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die ironische Selbstinszenierung als Gegenmittel zu wirtschaftlicher Unsicherheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die unaufgelösten Widersprüche zwischen Glück und Armut"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Wiederholung von 'mother'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wachsende Konsumgesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz zwischen Hoffnung und Zweifel"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der surrealen Bildsprache"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Textstruktur und der Verwendung von Metaphern und assoziativen Sprüngen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate. Es ist ratsam, die Interpretationen zu überarbeiten, um die Halluzinationsrate zu reduzieren und die Tiefe zu erhöhen."
+  }
+}

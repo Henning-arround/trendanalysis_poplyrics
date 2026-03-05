@@ -1,0 +1,85 @@
+{
+  "song": "The Time Of The Turning (Reprise) / The Weavers Reel - Peter Gabriel (2000)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Verwendung von Metaphern unterstreicht die thematische Komplexität des Liedes"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Bedeutung der Metaphern ein und analysiert die emotionale Wirkung des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Liedes wird durch die Zeile 'If you stop for a moment you can feel it all slipping away' verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der Metaphern und der emotionalen Wirkung des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene des Liedes liegt in der symbolischen Ordnung des Wandels"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Bedeutung der Metaphern und der symbolischen Ordnung des Wandels"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Bedeutung der Metaphern ein und analysiert die emotionale Wirkung des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Bedeutung der Metaphern ein und analysiert die emotionale Wirkung des Liedes"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind konsistent in ihrer Analyse der Metaphern und der emotionalen Wirkung des Liedes",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie am tiefsten in die Bedeutung der Metaphern eingeht und die emotionale Wirkung des Liedes analysiert"
+  }
+}

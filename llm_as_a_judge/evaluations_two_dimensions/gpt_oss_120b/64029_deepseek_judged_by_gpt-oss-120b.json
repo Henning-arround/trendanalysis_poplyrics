@@ -1,0 +1,94 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Worth It All\" ein emotionaler und aufrichtiger Song über die Komplexität der Liebe und die Bedeutung von Engagement und Vertrauen in einer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Alle Hauptaussagen lassen sich direkt aus dem Songtext ableiten.",
+          "Konsistente Zusammenfassung der wiederkehrenden Themen (Höhen und Tiefen, Nicht‑Film‑Liebe, Bereitschaft zu kämpfen)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Worth It All\" ein emotionaler und aufrichtiger Song über die Komplexität der Liebe und die Bedeutung von Engagement und Vertrauen in einer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Interpretation ohne spekulative Biografie‑ oder Genre‑Angaben.",
+          "Gute Struktur: Einleitung, Refrain‑Analyse, Schlussfolgerung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Worth It All\" ein emotionaler und aufrichtiger Song über die Komplexität der Liebe und die Bedeutung von Engagement und Vertrauen in einer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Vollständig textgetreu, keine erfundenen Fakten.",
+          "Wiederholt zentrale Botschaft konsequent."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Worth It All\" ein emotionaler und aufrichtiger Song über die Komplexität der Liebe und die Bereitschaft, für sie zu kämpfen."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Grundinterpretation um spezifische Beobachtungen (Intensität der Gefühle, „Welt um ihn herum verschwindet“, Absage an Außenstehende).",
+          "Zeigt ein tieferes Textverständnis durch Hinweis auf die Zeile „People talk too much\"."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist \"Worth It All\" ein emotionaler und aufrichtiger Song über die Komplexität der Liebe und die Bedeutung von Engagement und Vertrauen in einer Beziehung."
+        ],
+        "positive_aspekte": [
+          "Stimmt in allen Punkten mit dem Songtext überein.",
+          "Konsistente Wiederholung der Kernaussagen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen dieselben Grundthesen, wobei Interpretation 2 zusätzliche, textbasierte Details liefert und damit die größte inhaltliche Tiefe erreicht.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus darauf liegen, neben der korrekten Textwiedergabe weitere konkrete Textstellen zu zitieren und deren mehrdeutige Bedeutung zu diskutieren. Das erhöht die analytische Tiefe, ohne die Faktentreue zu gefährden."
+  }
+}

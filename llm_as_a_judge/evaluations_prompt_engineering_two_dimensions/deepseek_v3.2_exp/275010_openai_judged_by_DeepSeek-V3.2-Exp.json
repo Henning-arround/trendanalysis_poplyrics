@@ -1,0 +1,95 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Gegenüberstellung von 'love' und 'loss' lässt Raum für mehrere Deutungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Aussage ist zugleich simpel und komplex"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft von existenzieller Abhängigkeit und analysiert stilistische Mittel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song reflektiert das postmoderne Narrativ von Selbstidentität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe wird zugleich als Rettungsanker und als Gefängnis dargestellt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation arbeitet die thematische Komplexität heraus und beleuchtet stilistische Aspekte"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song spiegelt die damalige Populärkultur wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Bildsprache bleibt jedoch ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Spannung zwischen romantischer Selbstaufgabe und Angst vor Verlust"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der zentrale Kern des Liedes ist ein verzweifeltes Flehen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt eng am Text und arbeitet die thematische Mehrschichtigkeit heraus"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Bitte um Nicht-Verlassen lässt eine subtile Machtspiel-Dynamik erkennen"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefgehende Analyse der stilistischen Mittel und der thematischen Komplexität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die vierte Interpretation bietet eine ausgewogene Analyse, die eng am Text bleibt und gleichzeitig tiefgehende Erkenntnisse liefert"
+  }
+}

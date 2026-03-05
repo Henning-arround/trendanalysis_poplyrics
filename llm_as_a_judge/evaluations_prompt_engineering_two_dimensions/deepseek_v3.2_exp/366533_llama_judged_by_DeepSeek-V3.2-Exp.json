@@ -1,0 +1,99 @@
+{
+  "song": "Hold Me - Brenda Lee (1961)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung und affektive Dimension des Songs können als Ausdruck der damaligen gesellschaftlichen Sehnsüchte und Erwartungen an Liebe und Beziehungen gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song muss im kulturellen, historischen und gesellschaftlichen Kontext der frühen 1960er Jahre betrachtet werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Darstellung von Abhängigkeit und Hingabe in der Liebe liegen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung und affektive Dimension des Songs werden durch die Verwendung von Worten wie 'honey' und 'tenderly' verstärkt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Wiederholung von 'Hold me' und 'Take me'."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Textzeilen 'Hold me tenderly infold me never try to hold me from you' können als Ausdruck des Wunsches nach einer engen, schützenden Beziehung gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song muss auch im kulturellen, historischen und gesellschaftlichen Kontext der frühen 1960er Jahre betrachtet werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die literarischen Stilmittel und beleuchtet die Ambivalenzen in der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die frühen 1960er Jahre waren eine Zeit, in der traditionelle Rollenbilder und soziale Normen allmählich in Frage gestellt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song 'Hold Me' spiegelt diese Veränderungen wider, indem er eine Frau zeigt, die ihre emotionalen und physischen Bedürfnisse offen ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Darstellung der weiblichen Emotionalität und der Suche nach Autonomie und Selbstausdruck."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die frühen 1960er Jahre waren eine Zeit, in der traditionelle Rollenbilder und soziale Normen allmählich in Frage gestellt wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song 'Hold Me' spiegelt diese Veränderungen wider, indem er eine Frau zeigt, die ihre emotionalen und physischen Bedürfnisse offen ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Darstellung der weiblichen Emotionalität und der Suche nach Autonomie und Selbstausdruck."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse des Songs.",
+    "empfehlung": "Die vierte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

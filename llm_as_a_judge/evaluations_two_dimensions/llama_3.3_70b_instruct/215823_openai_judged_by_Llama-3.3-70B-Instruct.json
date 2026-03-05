@@ -1,0 +1,98 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Oberflächlichkeit des Hedonismus"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Bildsprache",
+          "Gute Einordnung der Warnung der Mutter"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Party als toxische Selbstzerstörung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Warnung der Mutter als moralischer Kompass"
+        ],
+        "positive_aspekte": [
+          "Gute Beschreibung der Atmosphäre",
+          "Erkenntnis der Gefahr"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Kultur als oberflächlich"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Fragen",
+          "Erkenntnis der Sinnlosigkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Party als gefährlicher Sog"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Warnung der Mutter als innerer Dialog"
+        ],
+        "positive_aspekte": [
+          "Gute Beschreibung der Szene",
+          "Erkenntnis der Entfremdung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Party als hohle Vergnügungskultur"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Bildsprache",
+          "Erkenntnis der Resignation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Bildsprache und der Warnung der Mutter, aber variieren in der Tiefe und der Halluzination",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse der Bildsprache und der Warnung der Mutter bietet, ohne halluzinierende Aussagen zu machen"
+  }
+}

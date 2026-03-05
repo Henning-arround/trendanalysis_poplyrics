@@ -1,0 +1,96 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song hat auch eine sinnliche und einladende Atmosphäre, die durch die Texte von Sean Paul und Lil Jon noch verstärkt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Do You Remember' ein romantischer und einladender Song, der die Hoffnung auf eine Wiedervereinigung ausdrückt und die Zuhörer dazu einlädt, sich an die guten Zeiten zu erinnern und diese wiederherzustellen."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Do you remember?' wird zu einem wiederkehrenden Motiv, das die Erinnerungen an die Vergangenheit beschwört und die Hoffnung auf eine Wiedervereinigung ausdrückt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist geprägt von einer Sehnsucht nach Wiedervereinigung und einer Hoffnung auf eine zweite Chance.",
+          "Insgesamt ist 'Do You Remember' ein Song über die Sehnsucht nach einer vergangenen Liebe und die Hoffnung auf eine zweite Chance."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Do you remember?' wird zu einem wiederkehrenden Motiv, das die Erinnerung an die Vergangenheit und die gemeinsamen Erfahrungen beschwört."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song enthält auch Elemente von Dancehall und Reggae, die durch die Beiträge von Sean Paul und Lil Jon geprägt sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Do You Remember' ein Song über die Sehnsucht nach einer vergangenen Liebe und den Wunsch, die Zeit zurückzudrehen, um neue Erinnerungen zu schaffen."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Do you remember?' wird zu einem emotionalen Appell, die Vergangenheit wieder aufleben zu lassen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist geprägt von einer Sehnsucht nach Wiedervereinigung und einer Hoffnung auf eine zweite Chance.",
+          "Insgesamt ist 'Do You Remember' ein Song über die Sehnsucht nach einer vergangenen Liebe und die Hoffnung auf eine zweite Chance."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Do you remember?' wird zu einem wiederkehrenden Motiv, das die Erinnerung an die Vergangenheit und die gemeinsamen Erfahrungen beschwört."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist geprägt von einer Sehnsucht nach Wiedervereinigung und einer Hoffnung auf eine zweite Chance.",
+          "Insgesamt ist 'Do You Remember' ein Song über die Sehnsucht nach einer vergangenen Liebe und die Hoffnung auf eine zweite Chance."
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Do you remember?' wird zu einem wiederkehrenden Motiv, das die Erinnerung an die Vergangenheit und die gemeinsamen Erfahrungen beschwört."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, aber auch eine Tendenz zu oberflächlichen Aussagen.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und sollte als Referenz für weitere Analysen dienen."
+  }
+}

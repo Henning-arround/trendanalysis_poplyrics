@@ -1,0 +1,104 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung ... wird durch die Kontraste zwischen Hoffnungslosigkeit und Liebe, sowie zwischen Kälte und Wärme (\"Nebel meiner Traurigkeit\" und \"deine warme Haut\") erzeugt.",
+          "Die tiefere Bedeutungsebene ... könnte in der Suche nach Authentizität und menschlicher Verbindung in einer oft entfremdeten Gesellschaft liegen.",
+          "Die Spannung ... bleibt im Song bestehen und lässt den Hörer über die Komplexität der menschlichen Erfahrung nachdenken."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich klar aus dem vorliegenden Text ab (z. B. die Analyse der Roulette‑Metapher, die Rolle der Augen).",
+          "Die Interpretation erkennt Ambivalenz (Augen als Kontrolle + Liebe) und bleibt textnah."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen Licht und Dunkel, Hoffnung und Verzweiflung verstärkt.",
+          "Die Widersprüche und Ambiguitäten im Song, wie die Koexistenz von Hoffnung und Verzweiflung, werden nicht aufgelöst, sondern bleiben bestehen, um die Komplexität der menschlichen Erfahrung zu reflektieren."
+        ],
+        "positive_aspekte": [
+          "Sehr hohe Quote an textbasierten Aussagen (9 von 11).",
+          "Gute Verknüpfung von Stilmitteln (Metaphern, Augen) mit einer tieferen Bedeutungsebene."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen Hoffnungslosigkeit und Liebe, sowie zwischen Kälte und Wärme erreicht.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der Darstellung der menschlichen Suche nach Sinn und Liebe in einer oft feindlichen Umgebung.",
+          "Die Spannung zwischen der Ohnmacht des Einzelnen und der rettenden Kraft der Liebe wird durch die gesamte Songstruktur hindurch aufrechterhalten.",
+          "Der Song bietet somit eine komplexe und mehrschichtige Darstellung der menschlichen Erfahrung und der Suche nach wahrer Liebe."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse fast aller Textzeilen (z. B. Roulette‑Metapher, Feuer, Nebel, warme Haut).",
+          "Klare Herausarbeitung der Symbolik der Augen und ihrer Doppelbedeutung."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung ... wird durch die Kontraste zwischen Licht und Dunkel, Hoffnungslosigkeit und Liebe, sowie durch die Verwendung von Symbolen wie der \"warmen Haut\" und dem \"Nebel der Traurigkeit\" verstärkt.",
+          "Die tiefere Bedeutungsebene ... liegt in der Darstellung der menschlichen Suche nach Sinn und Verbindung in einer oft sinnlosen und kalten Welt.",
+          "Die Ambiguität und Spannung ... werden im Song nicht aufgelöst, sondern bleiben bestehen."
+        ],
+        "positive_aspekte": [
+          "Konsistente Ableitung der Hauptthemen (Schicksal, Augen, Rettung durch Liebe).",
+          "Ergänzt die Analyse um die Symbolik von Wärme und Nebel."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung ... wird durch die Kontraste zwischen Hoffnungslosigkeit und Liebe, sowie zwischen Kälte und Wärme (\"Nebel meiner Traurigkeit\" und \"deine warme Haut\") erzeugt.",
+          "Die tiefere Bedeutungsebene ... könnte in der Suche nach Authentizität und menschlicher Verbindung in einer oft entfremdeten Gesellschaft liegen.",
+          "Die Spannung ... bleibt im Song bestehen und lässt den Hörer über die Komplexität der menschlichen Erfahrung nachdenken."
+        ],
+        "positive_aspekte": [
+          "Gute Textbezüge (Roulette‑Metapher, Augen, Feuer).",
+          "Erkennt die ambivalente Symbolik der Augen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Roulette‑Metapher, Augen als Symbol, Liebe als Rettung). Die Varianz liegt vor allem im Anteil oberflächlicher, generischer Aussagen – Interpretation 1 hat den geringsten Anteil und wirkt am präzisesten.",
+    "empfehlung": "Eine Interpretation, die fast ausschließlich textbasierte Analysen liefert und nur wenige vage, generische Aussagen enthält, ist am wertvollsten. Interpretation 1 erfüllt dieses Kriterium am besten, gefolgt von Interpretation 5, die ebenfalls viele konkrete Textbezüge bietet."
+  }
+}

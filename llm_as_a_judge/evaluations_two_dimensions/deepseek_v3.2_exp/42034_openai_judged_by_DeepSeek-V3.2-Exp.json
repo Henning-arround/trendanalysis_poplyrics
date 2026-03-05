@@ -1,0 +1,99 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von \"There is no other day\" betont die Endlosigkeit einer inneren Schleife"
+        ],
+        "oberflächliche_aussagen": [
+          "eine psychedelische Reflexion über das Spannungsfeld zwischen kindlicher Unbeschwertheit"
+        ],
+        "positive_aspekte": [
+          "Der Text wird tief analysiert und in den Kontext gesetzt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "ein kollektives Bewusstsein, in dem persönliche Sehnsüchte und Ängste miteinander verwoben sind"
+        ],
+        "oberflächliche_aussagen": [
+          "eine Generation, die zwischen psychedelischer Ekstase und existenzieller Verunsicherung hin- und hergerissen ist"
+        ],
+        "positive_aspekte": [
+          "Der Text wird detailliert interpretiert und in einen kulturellen Kontext gesetzt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine innere Zerrissenheit, die durch das \"Ausleihen von jemandes Träumen bis zum nächsten Tag\" noch verstärkt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "ein verführerischer Aufruf zu psychedelischer Ekstase"
+        ],
+        "positive_aspekte": [
+          "Der Text wird sehr tief und analytisch interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine surreale Traumwelt, deren Grenzen sich ständig verschieben"
+        ],
+        "oberflächliche_aussagen": [
+          "eine melancholische Reflexion über das Verlorensein in fremden Träumen"
+        ],
+        "positive_aspekte": [
+          "Der Text wird kreativ und tief interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine Figur, die zwischen kindlicher Naivität und einer tiefen, fast traumhaften Verlorenheit schwebt"
+        ],
+        "oberflächliche_aussagen": [
+          "ein menschliches Streben nach Flucht aus der Realität"
+        ],
+        "positive_aspekte": [
+          "Der Text wird in einen emotionalen Kontext gesetzt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Interpretation 3 bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

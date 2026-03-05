@@ -1,0 +1,99 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Figur der Edeltraud unterstreicht die Idee, dass die Liebe und die Partnerschaft auf gemeinsamen Interessen und Vorlieben basieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein unterhaltsamer und humorvoller Song, der die deutsche Kultur und die Liebe zu traditionellen Gerichten und Tänzen auf eine spielerische Weise zelebriert."
+        ],
+        "positive_aspekte": [
+          "Die Analyse der refrainartigen Struktur des Songs und die Betonung der Vorliebe für Sauerkraut und Polka"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Beispiel für die Schlager-Musik der 1960er Jahre, die oft humorvolle und leicht konsumierbare Texte hatte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist ein Beispiel für die humorvolle und leicht konsumierbare Art der Schlager-Musik"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Bedeutung der gemeinsamen Interessen und Werte in einer Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Beispiel für die Schlager-Musik der 1960er Jahre, die oft humorvolle und leicht konsumierbare Texte hatte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text ist ein Beispiel für die humorvolle und leicht konsumierbare Art der Schlager-Musik"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Bedeutung der gemeinsamen Interessen und Werte in einer Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Schön ist die Sauerkraut-Polka, weil doch sauer lustig macht' zeigt, dass der Sänger die Sauerkraut-Polka als eine Art Medizin gegen die Langeweile und die Tristesse des Alltags sieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein fröhliches und humorvolles Lied, das die Liebe des Sängers zu Sauerkraut und Polka-Musik ausdrückt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung des Refrains und die Betonung der Leidenschaft und der Hingabe des Sängers"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Ich bin nur für Sauerkraut und meine Braut gebaut' kann als eine Art Selbstironie verstanden werden, die die Absurdität der Situation unterstreicht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein klassischer Schlager, der die deutsche Kultur und Musiktradition auf eine humorvolle und unterhaltsame Weise widerspiegelt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Musik selbst als Polka-Marsch und die Betonung der Freude an traditioneller deutscher Kultur und Musik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine mittlere Konsistenz, wobei einige Aussagen wiederholt werden, aber auch einige neue Aspekte hinzugefügt werden.",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch zu beachten, dass alle Interpretationen einige Schwächen aufweisen, insbesondere in Bezug auf die Halluzinationen und die Oberflächlichkeit."
+  }
+}

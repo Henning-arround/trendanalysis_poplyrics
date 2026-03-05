@@ -1,0 +1,97 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Beobachtung einer Gruppe von Menschen zu sein, die in einer Art von theatralischer Performance gefangen sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Distanz und Faszination"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die surreale Atmosphäre des Songs und die Verwendung von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Beobachtung einer Gruppe von Menschen zu sein, die in einer Art von theatralischer Performance gefangen sind"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und oszilliert zwischen Distanz und Faszination"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die surreale Atmosphäre des Songs und die Verwendung von Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Frage zu sein, wie wir unsere Identität konstruieren und präsentieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert die Veränderungen in der Kunst und der Gesellschaft jener Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verbindung zwischen Kunst und Performance"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Frage zu sein, wie wir unsere Identität konstruieren und präsentieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song reflektiert die Veränderungen in der Kunst und der Gesellschaft jener Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verbindung zwischen Kunst und Performance"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und changiert zwischen Distanz und Faszination"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt nah am Text und beleuchtet die Verwendung von Symbolen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs",
+    "empfehlung": "Die Interpretationen sollten sich bemühen, eine bessere Balance zwischen Textreue und analytischer Tiefe zu finden"
+  }
+}

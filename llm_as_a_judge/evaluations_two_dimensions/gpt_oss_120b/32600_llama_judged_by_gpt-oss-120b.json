@@ -1,0 +1,87 @@
+{
+  "song": "Assistant's Cry - Yello (1980)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analyse",
+          "Klare Verknüpfung jeder Textzeile mit einer Interpretation",
+          "Keine spekulativen biografischen Angaben"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende, aber präzise Interpretation aller Songabschnitte",
+          "Vermeidet Wiederholungen ohne Mehrwert"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Argumentationskette",
+          "Gute Balance zwischen Texttreue und analytischer Tiefe"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Ableitung von Themen wie Entfremdung und Sinnsuche",
+          "Verknüpft wiederholte Ausrufe mit gesellschaftlicher Kritik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "„Der Song kann als Kommentar zur Entfremdung und zur Suche nach Authentizität …“ – eine sehr allgemeine Zusammenfassung ohne neue Textbelege"
+        ],
+        "positive_aspekte": [
+          "Alle anderen Aussagen sind klar textbasiert",
+          "Ergänzt die vorherigen Interpretationen um einen zusammenfassenden Überblick"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen im Wesentlichen dieselben Kernaussagen; die Varianz liegt nur im Vorhandensein einer leicht oberflächlichen Schlussfolgerung bei Interpretation 4.",
+    "empfehlung": "Interpretationen, die konsequent jede Textzeile mit einer konkreten, textbasierten Analyse verbinden (z. B. Interpretation 1, 2, 3, 5), erzielen die höchste Bewertung. Vermeiden Sie allgemeine Zusammenfassungen ohne zusätzliche Textbelege, da sie die Tiefenbewertung mindern."
+  }
+}

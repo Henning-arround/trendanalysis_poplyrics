@@ -1,0 +1,89 @@
+{
+  "song": "Sing to Me Mr. C - Perry Como (1962)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Metapher für die menschliche Sehnsucht nach Liebe, Zuwendung und emotionaler Verbindung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist des Songs richtet sich direkt an eine Person, die er als 'Mr. C.' anspricht, und bittet ihn, ein bestimmtes Lied nur für ihn zu singen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Metapher für die menschliche Sehnsucht nach Liebe, Zuwendung und emotionaler Verbindung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist des Songs richtet sich direkt an eine Person, die er als 'Mr. C.' anspricht, und bittet ihn, ein bestimmtes Lied nur für ihn zu singen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Hommage an die Vergangenheit interpretiert werden, in der die Menschen noch mehr Zeit für zwischenmenschliche Beziehungen hatten und die Kommunikation noch persönlicher und direkter war."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Protagonist des Songs richtet sich direkt an eine Person, die er als 'Mr. C.' anspricht, und bittet ihn, ein bestimmtes Lied nur für ihn zu singen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Bitte, ein bestimmtes Lied zu singen, kann auch als Metapher für die Sehnsucht nach emotionaler Nahrung und Trost interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist des Songs richtet sich direkt an eine Person, die er als 'Mr. C.' anspricht, und bittet ihn, ein bestimmtes Lied nur für ihn zu singen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt ist 'Sing to Me, Mr. C.' ein sentimentaler und emotionaler Song, der die menschliche Sehnsucht nach Verbindung, Nähe und emotionaler Zuwendung ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Der Protagonist des Songs richtet sich direkt an eine Person, die er als 'Mr. C.' anspricht, und bittet ihn, ein bestimmtes Lied nur für ihn zu singen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, aber variieren in der Tiefe der Interpretation.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert."
+  }
+}

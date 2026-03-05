@@ -1,0 +1,99 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Aufforderung, den '벤자민의 단추' zu drücken, fungiert als Symbol für einen magischen Auslöser"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'Your whole life was a damn concert' kontrastiert das öffentliche Spektakel mit der privaten, fast schon nihilistischen Feststellung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft ein Bewusstsein von Vergänglichkeit mit einer paradoxen Unsterblichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile '죽을 땐 빌린 이 몸 흙이 되는 time table' stellt den Tod als unvermeidliche, aber gleichzeitig temporär geliehene Existenz dar"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Aussage 'It's timless' erzeugt Ambiguität"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft ein Bewusstsein von Zeitlosigkeit mit einer fragmentierten Erzählung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song 'Timeless' verknüpft in seiner Kernbotschaft das Motiv der rückwärtslaufenden Zeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität entsteht aus dem Spannungsfeld zwischen zeitloser Unsterblichkeit und der unvermeidlichen Endlichkeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation nutzt zahlreiche Metaphern und Bildschichten"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile '시간이 말해줄 원인 결과의 법칙' infrage stellt die Vorstellung einer linearen Kausalität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten – etwa das gleichzeitige Feiern und Verwerfen von '예술이 그런 거지 뭐' – lassen den Hörer zwischen Bewunderung für das Kunstwerk und Skepsis gegenüber seiner behaupteten Unsterblichkeit schwanken"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft ein Bewusstsein von Vergänglichkeit mit einer paradoxen Forderung nach Unsterblichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der 'Play-Button' wird zu einem '마술 같은 벤자민의 단추'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten – etwa das gleichzeitige Feiern und Verwerfen von '시간' – bleiben offen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft ein Bewusstsein von Vergänglichkeit mit einer paradoxen Unsterblichkeit und bietet eine sehr tiefgehende Analyse"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die fünfte Interpretation bietet die tiefste und textbezogenste Analyse"
+  }
+}

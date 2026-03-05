@@ -1,0 +1,93 @@
+{
+  "song": "Fellow Hoodlums - Deacon Blue (1991)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Songtexts und identifiziert verschiedene literarische Stilmittel und Symbole. Die emotionale Wirkung des Songs wird ambivalent beschrieben und die Darstellung von Veränderungen und Konstanten in der persönlichen und kollektiven Erfahrungswelt wird hervorgehoben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation geht davon aus, dass der Song eine 'gewisse Nostalgie' und 'Rückkehr zu den Wurzeln der Vergangenheit' darstellt, ohne dies explizit aus dem Text abzuleiten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der emotionalen Wirkung des Songs als 'ambivalent' ist etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation identifiziert verschiedene literarische Stilmittel und Symbole im Songtext und beschreibt die Darstellung von Subkulturen und sozialen Gruppen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation geht davon aus, dass der Song eine 'gewisse Nostalgie' und 'Rückkehr zu den Wurzeln der Vergangenheit' darstellt, ohne dies explizit aus dem Text abzuleiten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der emotionalen Wirkung des Songs als 'ambivalent' ist etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation identifiziert verschiedene literarische Stilmittel und Symbole im Songtext und beschreibt die Darstellung von Subkulturen und sozialen Gruppen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation geht davon aus, dass der Song eine 'gewisse Nostalgie' und 'Rückkehr zu den Wurzeln der Vergangenheit' darstellt, ohne dies explizit aus dem Text abzuleiten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der emotionalen Wirkung des Songs als 'ambivalent' ist etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation identifiziert verschiedene literarische Stilmittel und Symbole im Songtext und beschreibt die Darstellung von Subkulturen und sozialen Gruppen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der emotionalen Wirkung des Songs als 'ambivalent' ist etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Songtexts und identifiziert verschiedene literarische Stilmittel und Symbole. Die Darstellung von Veränderungen und Konstanten in der persönlichen und kollektiven Erfahrungswelt wird hervorgehoben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gewisse Konsistenz in der Analyse des Songtexts, aber es gibt auch einige Wiederholungen und Unstimmigkeiten.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse des Songtexts bietet und verschiedene literarische Stilmittel und Symbole identifiziert. Es ist jedoch wichtig, auch die anderen Interpretationen zu berücksichtigen, um eine umfassendere Übersicht über den Song zu erhalten."
+  }
+}

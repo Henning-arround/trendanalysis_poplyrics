@@ -1,0 +1,99 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die postmoderne Verquickung von Identität und Konsum"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'You don't have a thing to lose' suggeriert Befreiung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Autonomie und Performativität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ideologie, dass Musik als Authentizitäts-Medium fungiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von Isolation und sozialer Sichtbarkeit"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambiguität zwischen Befreiung und Anpassungsdruck"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verquickung von Identität und Konsum"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'You can't spend the night alone' thematisiert Isolation und gesellschaftlichen Zwang"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Individualität und sozialer Sichtbarkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die nihilistische Unterströmung in der Zeile 'You don't have a thing to lose'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung von 'shadows' und 'light'"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Ambiguität zwischen Befreiung und Anpassungsdruck"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-moderne Ideologie, dass Musik als Authentizitäts-Medium fungiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'let the music do you right' thematisiert die Verherrlichung des Tanzes"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen Befreiung und Selbstvermarktung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Ambiguitäten und Spannungen im Songtext",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und thematisiert die Ambiguitäten und Spannungen im Songtext"
+  }
+}

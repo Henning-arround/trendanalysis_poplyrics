@@ -1,0 +1,97 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Check your problems at the door' unterstreicht dies, indem sie die Hörer auffordert, ihre Sorgen und Probleme zurückzulassen, bevor sie den 'big room' betreten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Einladung in einen Raum der Entspannung und des Vergessens interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ablehnung von Kameras und der Fokus auf die unmittelbare Erfahrung können als eine Kritik an der Überwachung und der Medienpräsenz in der heutigen Gesellschaft verstanden werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Einladung in einen Raum der Entspannung und des Vergessens interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist teilweise textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Einladung in einen Raum der Entspannung und des Vergessens interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen, konkret und offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung und affektive Dimension des Songs werden durch die Wiederholung von 'It's alright' und die Einladung, 'Check your problems at the door', noch verstärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Einladung in einen Raum der Entspannung und des Vergessens interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'It's alright' wird zu einer Art von Mantra, das die Hörer beruhigt und ihnen das Gefühl gibt, dass alles in Ordnung ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann aus kulturwissenschaftlicher Perspektive als eine Einladung in einen Raum der Entspannung und des Vergessens interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Bewertung.",
+    "empfehlung": "Die beste Interpretation ist die Nummer 3, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

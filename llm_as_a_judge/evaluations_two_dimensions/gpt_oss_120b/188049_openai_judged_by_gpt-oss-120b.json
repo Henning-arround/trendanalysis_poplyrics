@@ -1,0 +1,98 @@
+{
+  "song": "Time Immemorial - Crowded House (1990)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeichnet das Lied ein Bild von einer Welt, die in endlosen Machtkämpfen gefangen ist, während die Protagonisten nach Authentizität und einem unverrückbaren Kern suchen, der jenseits von Geld, Medien und flüchtigen Versprechen existiert."
+        ],
+        "positive_aspekte": [
+          "Sehr viele Aussagen lassen sich klar aus dem Text ableiten (z. B. die wiederholten Verweise auf ‚Geld‘, ‚Kameras‘, das ‚fallende Haus‘).",
+          "Die Analyse ist strukturiert und verbindet einzelne Textpassagen mit konkreten Interpretationsschlüssen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied einen inneren Konflikt zwischen dem Drang, die Wahrheit zu ergründen, und der Resignation gegenüber einer Welt, die durch Geld, Öffentlichkeit und permanente Beobachtung strukturiert ist; es bleibt ein Aufruf, die alte Ordnung zu hinterfragen und nach einer unverrückbaren, inneren Stärke zu suchen."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Argumentation, kaum spekulative Ausschmückungen.",
+          "Gute Balance zwischen konkreten Textbezügen und einer übergeordneten Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeichnet das Lied ein Bild von einer Gesellschaft, die nach einer unverrückbaren Identität sucht, dabei aber von inneren Zerbröckelungen, Medienmanipulation und dem unstillbaren Drang nach Allwissenheit zerrissen wird."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von wiederholten Textmotiven (z. B. „time immemorial“, „invincible one“, „goodbye to you and your money“) mit einer kohärenten inhaltlichen Deutung.",
+          "Wenig bis keine unbelegten Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Verabschiedung von Geld, Öffentlichkeit und Kameras wirkt wie ein kritischer Abschied von der kommerziellen und voyeuristischen Kultur der Unterhaltungsindustrie, in der das Haus – Symbol für das persönliche Umfeld – zerfällt, weil es „for free“ erhalten wurde.",
+          "Die Zeilen über „pretenders to somebody's throne“ und das „glorious contest“ verdeutlichen den Kampf um Anerkennung, der von egoistischen Ambitionen getrieben ist, während die eigentliche Substanz verloren geht.",
+          "Der Sprecher bietet an, überall zu gehen, wo man ihn hinschickt, doch nur unter der Bedingung, dass keine Eintrittsgelder verlangt werden – ein Hinweis auf die Sehnsucht nach authentischer Kunst, die nicht monetarisiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Insgesamt schildert das Lied einen inneren Konflikt zwischen dem Drang nach allumfassender Erkenntnis und der Ablehnung einer von Kommerz und Schein beherrschten Welt, wobei die Suche nach dem „invincible one“ als Symbol für ein unverfälschtes Selbstverständnis dient."
+        ],
+        "positive_aspekte": [
+          "Erkennt einige zentrale Motive (z. B. „tear down the fence“, „time immemorial“).",
+          "Versucht, den Text in einen größeren kulturellen Kontext zu stellen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Insgesamt zeichnet der Song ein Bild von einem endlosen, aber zugleich zerbrechlichen Zyklus aus Macht, Suche nach Unbesiegbarkeit und dem Versuch, sich von den Fesseln des Konsums und der Beobachtung zu befreien – ein Spiegel der menschlichen Existenz im Angesicht einer unaufhörlichen Zeit."
+        ],
+        "positive_aspekte": [
+          "Umfassende, textnahe Analyse mit vielen konkreten Belegen aus dem Song.",
+          "Hohe inhaltliche Tiefe: jede Textzeile wird thematisch verknüpft und gleichzeitig offen für Mehrdeutigkeit gehalten."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die meisten Interpretationen bleiben stark am Text verankert; nur Interpretation 2 enthält mehrere spekulative, nicht belegte Aussagen, was die Varianz erhöht.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Mischung aus Texttreue und analytischer Tiefe. Für zukünftige Bewertungen sollten LLMs darauf achten, spekulative kulturelle Kontextualisierungen zu vermeiden und stattdessen mehr konkrete Textbezüge zu nutzen."
+  }
+}

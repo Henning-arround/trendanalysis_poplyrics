@@ -1,0 +1,99 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einordnung in die Post-Digital-Ära ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'kulturelle Reaktion auf gesellschaftliche Unsicherheiten'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textstruktur und der Verwendung von Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'big room' als 'symbolische Sphäre' ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'Ambiguität' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Wiederholung als 'mantraartige Vernebelung'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Assoziation mit der 'Kommerzialisierung der Musikindustrie' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'künstlerische Unsterblichkeit'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'big room' als 'kollektives Gedächtnis'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'big room' als 'inszenierter Schauplatz' ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage über die 'Erwartung von ständiger Produktivität' ohne tiefergehende Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der 'ritualisierten' Formeln"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine offensichtlichen Erfindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'zeitlosen Themen'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Textstruktur und der Verwendung von Metaphern, insbesondere die Betonung der Ambivalenz"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Für zukünftige Analysen sollte der Fokus auf einer tiefergehenden, textbasierten Analyse liegen, um die Ambivalenzen und Mehrdeutigkeiten im Text angemessen zu erfassen."
+  }
+}

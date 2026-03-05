@@ -1,0 +1,98 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Sehnsucht nach Rückwärtsbewegung spiegelt ein nostalgisches Verlangen nach einer vermeintlich stabileren Vergangenheit wider, das jedoch nie eindeutig definiert wird.",
+          "Die Ambiguitäten – etwa das unbestimmte „Du“, das gleichzeitige Verlangen nach Flucht und das Festhalten an einem „Nichts“, das besser ist als „gar nichts“ – bleiben offen und verdeutlichen, dass das Lied eher ein Spiegel gesellschaftlicher Fragmentierung als eine klare Lösung anbietet."
+        ],
+        "oberflächliche_aussagen": [
+          "Der zentrale Kern des Liedes ist ein mehrschichtiger Verlust, der nicht nur auf eine konkrete Person, sondern auf das eigene Selbst verweist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Mehrdeutigkeit des Textes und bietet eine tiefere Analyse der verwendeten Metaphern und des kulturellen Kontexts."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 2012 veröffentlichte Single erscheint in einer Phase zunehmender digitaler Entfremdung, was das Motiv des „Verstecks, das für mich jetzt richtig ist“ als Suche nach einem physischen Rückzugsort in einer zunehmend virtuellen Welt interpretiert."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr detaillierte Analyse der Metaphern und des kulturellen Kontexts und berücksichtigt die Ambivalenzen des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz an das „Zurückdrehen“ der Zeit spiegelt ein nostalgisches Verlangen nach früheren, vermeintlich stabileren sozialen Strukturen, das jedoch im Kontext einer zunehmend beschleunigten, digitalisierten Gesellschaft ambivalent bleibt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Kern des Liedes ist das Erleben einer existenziellen Leere, die durch das Fehlen einer anderen Person – oder eines Selbstteils – erzeugt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Metaphern und des kulturellen Kontexts."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile „Ich gebe zu, dass du mir fehlst! Und ich spür, wie ich versinke“ spiegelt ein gesellschaftliches Bewusstsein für das Stigma von Einsamkeit und mentaler Instabilität, das in dieser Zeit verstärkt diskutiert wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Kern des Liedes ist das Erleben einer existenziellen Leere, die durch das Fehlen einer anderen Person (oder eines Selbstteils) erzeugt wird."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine kurze und prägnante Analyse der Metaphern und des kulturellen Kontexts."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 1,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung von Individualität und Selbstverlust reflektiert ein Zeitalter, in dem Identität zunehmend als fluide und durch äußere Beziehungen konstituiert verstanden wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Kern des Liedes ist das Erleben einer existenziellen Leere, die durch das Fehlen einer geliebten Person (oder eines Selbstteils) erzeugt wird: „Du fehlst meinem Leben / Und manchmal auch mir selbst“ (Refrain)."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr kurze und allgemeine Analyse des Textes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsscore, aber insgesamt bieten sie eine gute Analyse des Textes und seines kulturellen Kontexts.",
+    "empfehlung": "Die Interpretation 2 bietet eine sehr detaillierte und tiefere Analyse des Textes und seines kulturellen Kontexts und sollte als Vorbild für zukünftige Interpretationen dienen."
+  }
+}

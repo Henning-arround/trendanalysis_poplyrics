@@ -1,0 +1,100 @@
+{
+  "song": "Jekyll And Hyde - Judas Priest (2001)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anlehnung an die literarische Figur Dr. Jekyll/​Mr. Hyde (Robert Louis Stevenson, 1886) verknüpft das klassische Motiv des gespaltenen Selbst mit zeitgenössischen Diskursen über Identität, Maskierung und performative Authentizität."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert das ständige Wechselspiel zwischen scheinbarer Unschuld und verborgener Aggression"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Metaphern und die Struktur des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Anlehnung an die literarische Figur Dr. Jekyll/​Mr. Hyde (Robert Louis Stevenson, 1886) verknüpft das klassische Motiv des gespaltenen Selbst mit zeitgenössischen Diskursen über Identität, Maskierung und performative Authentizität.",
+          "Der Song eröffnet damit mehrere Bedeutungsebenen: einerseits eine Kritik an der Oberflächlichkeit sozialer Rollen, andererseits ein Spiegel der inneren Zerrissenheit"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song stellt das Spannungsfeld zwischen äußerlicher Unschuld und innerer Bedrohung in den Mittelpunkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Metaphern und Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 2001 entstanden, einer Zeit, in der post-9/11-Unsicherheiten und das Aufkommen von Diskussionen über mentale Gesundheit das kulturelle Klima prägten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert das Auflösen einer scheinbaren Dualität zwischen Unschuld und Bedrohung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Verwendung von Metaphern und antithetischen Paaren"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 21. Jahrhunderts spiegelt das Stück die post-9/11-Unsicherheit und das wachsende Misstrauen gegenüber maskierten Identitäten wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song konstruiert ein Bild von Dualität, das nicht nur als persönliche Psychose, sondern als gesellschaftliches Phänomen gelesen werden kann"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Verwendung von Metaphern und die Struktur des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch ist das Stück 2001 in einer Phase entstanden, in der Heavy Metal vermehrt Themen von Identitätsfragmentierung und gesellschaftlicher Unsicherheit behandelte"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text konfrontiert das Publikum mit einer doppelten Identität, die sich zwischen 'Innocence' und 'monster' bewegt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die Verwendung von Metaphern und die Struktur des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

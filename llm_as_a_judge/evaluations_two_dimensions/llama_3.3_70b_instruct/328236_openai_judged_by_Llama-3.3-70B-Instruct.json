@@ -1,0 +1,99 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des 'caged' Seins symbolisiert die innere Gefangenschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song schildert nicht nur einen äußeren Konflikt, sondern vor allem den ständigen, sich selbst wiederholenden Kampf zwischen Selbstverleugnung und Selbstakzeptanz"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Analyse der Dualität von Schmerz und Anbetung ein"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'sie' könnte gesellschaftliche Erwartungen, äußere Autoritäten oder das unvermeidliche Vergehen der Zeit symbolisieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song zeichnet ein Bild von innerer Schlacht, in der Schmerz, Angst und das Verlangen nach Kontrolle miteinander ringen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die Ambivalenz des Verhältnisses zum Schmerz zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild des 'consuming it all' suggeriert ein verzweifeltes Bedürfnis, das Leben in seiner Gesamtheit zu verschlingen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song schildert einen Kampf zwischen innerer Zerrissenheit und dem Drang, das flüchtige Leben zu ergreifen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Wiederholungen als hypnotischen Rhythmus, der die Unausweichlichkeit des inneren Kampfes betont"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das 'consume it all' kann als Versuch gelesen werden, das Leben in seiner Gesamtheit zu verschlingen, um dem drohenden Verlust entgegenzuwirken"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Bild des 'caged' Seins, das zugleich Schuldzuweisung und Befreiung beinhaltet, verdeutlicht den inneren Konflikt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation versucht, die existenzielle Unsicherheit und das Zögern des lyrischen Ichs zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Pain, you're not my friend, and I despise you / Friend, you are my pain, and I adore you' stellt das ambivalente Verhältnis zum eigenen Leiden dar"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain erzeugt ein Gefühl von Zwang und Endlosschleife, das die Angst vor dem Verlust von Kontrolle und Identität widerspiegelt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Ambivalenz des Verhältnisses zum Schmerz und die Notwendigkeit, diese zu akzeptieren"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine tiefe Analyse der Dualität von Schmerz und Anbetung bietet und nur wenige halluzinierte Aussagen enthält"
+  }
+}

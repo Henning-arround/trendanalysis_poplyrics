@@ -1,0 +1,101 @@
+{
+  "song": "The Flat Foot Floogee - Louis Armstrong (1954)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch entstand das Stück in einer Phase, in der Jazz und Swing als Ausdruck von Befreiung und sozialer Durchmischung dienten, gleichzeitig aber von konservativen Moralvorstellungen kritisiert wurden.",
+          "Die wiederholte Aufforderung, Sorgen zu „hangen“, spiegelt die Nachkriegs‑Entspannung und das Bedürfnis nach leichter Unterhaltung wider, während die unauflösbaren Gegensätze zwischen Flucht, Gemeinschaft und körperlicher Unbeholfenheit auf die anhaltende Unsicherheit einer sich wandelnden Gesellschaft hinweisen."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge und detaillierte Analyse der wiederholten Lautfolgen.",
+          "Gute Balance zwischen formaler Beschreibung (Wiederholungen, Metaphern) und inhaltlicher Interpretation (Mehrdeutigkeit von „go hang“).",
+          "Einbezug historischer Rahmenbedingungen, wenn auch etwas allgemein gehalten."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch entstand das Stück in der Nachkriegszeit, als Swing und Jazz als Ausdruck von sozialer Entgrenzung dienten; Louis Armstrongs Performance verankert den Song zugleich in afro‑amerikanischer Improvisationskultur und in der breiteren Pop‑Kommerzialisierung der 1950er‑Jahre."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse der stilistischen Mittel (Wiederholungen, Nonsens‑Silben).",
+          "Erkennt die Ambiguität zwischen Befreiung und Resignation.",
+          "Verknüpft Textanalyse mit einem plausiblen historischen Kontext."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch verortet sich das Stück in der Nachkriegszeit, als Jazz und Swing als Ausdruck afroamerikanischer Kultur und als Ventil für soziale Mobilität dienten.",
+          "Das wiederholte „yeah, yeah, yeah“ kann als kollektives Stimmungsaufbäumen gelesen werden, das gleichzeitig die kommerzielle Populärkultur und die authentische Improvisation des Jazz widerspiegelt."
+        ],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Textdetails mit einer übergeordneten Aussage über Freiheit vs. Unsicherheit.",
+          "Klare Herausarbeitung der Mehrdeutigkeit von „floogie“ und „go hang“.",
+          "Gute strukturelle Gliederung (Stil, Metaphern, Historie)."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch ist das Stück in den frühen 1950er‑Jahren in den USA verortet, einer Phase, in der Jazz und Swing als Ausdruck afro‑amerikanischer Kultur und als Ventil für post‑Krieg‑Unsicherheiten dienten."
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte, textbasierte Analyse aller wiederkehrenden Elemente.",
+          "Tiefe Auseinandersetzung mit den paradoxen Bedeutungen von „go hang“ und „greater tonic“.",
+          "Ausgewogene Betrachtung von Stil, Metaphern und historischer Einbettung, ohne vage Verallgemeinerungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch ist der Text in die Nachkriegszeit eingebettet, in der Jazz als Ausdruck von Selbstbestimmung und sozialer Integration diente."
+        ],
+        "positive_aspekte": [
+          "Klare Herausarbeitung der Dualität zwischen Nonsens‑Refrain und subversivem Rat.",
+          "Gute Erklärung der musikalischen Metaphern (Tonika, Tonic).",
+          "Stimmige Verknüpfung von stilistischen Mitteln und inhaltlicher Mehrdeutigkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben textnah und vermeiden spekulative Fakten; die Varianz liegt hauptsächlich im Grad der Oberflächlichkeit historischer Kontextualisierungen.",
+    "empfehlung": "Interpretation 3 liefert die tiefgründigste, textbasierte Analyse und kombiniert stilistische, semantische und historische Aspekte ohne vage Verallgemeinerungen. Für zukünftige Bewertungen sollte der Fokus auf dieser Balance zwischen Detailtiefe und Vermeidung von oberflächlichen Kontexten gelegt werden."
+  }
+}

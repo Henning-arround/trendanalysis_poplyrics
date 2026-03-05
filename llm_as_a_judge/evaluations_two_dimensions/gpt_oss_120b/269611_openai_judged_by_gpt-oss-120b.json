@@ -1,0 +1,110 @@
+{
+  "song": "I Can't Stand The Rain - Seal (2008)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der Regen, der unaufhörlich an das Glas schlägt, symbolisiert das stetige Eindringen der Vergangenheit in den gegenwärtigen Alltag, ein unaufhaltsamer Strom, der das Herz „schmerzt“ und das Verlangen nach der verlorenen Nähe weckt.“ – das Wort „schmerzt“ wird nicht im Originaltext verwendet, sondern ist eine Interpretation.",
+          "„Die wiederholten, fast kindlich klingenden „Know, know of the rain“ und das abschließende „Don’t be okay, rain“ verstärken das Gefühl, dass der Regen nicht nur ein Wetterphänomen, sondern ein emotionaler Begleiter ist.“ – die Beschreibung des Regens als „emotionaler Begleiter“ ist spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Text nutzt das Bild des Regens … als Metapher für das unvermeidliche Aufbrechen alter Erinnerungen.“ – allgemeine Aussage ohne konkrete Textbelege.",
+          "„Der Regen ist nicht nur Wetter, sondern ein akustischer Zeuge der Abwesenheit des Geliebten.“ – vage, wiederholt bereits genannte Idee."
+        ],
+        "positive_aspekte": [
+          "Gute Textbindung: die meisten Punkte (Fenster, Pillow, „he’s not here for me“) werden direkt aus dem Songtext gezogen.",
+          "Erkennt Ambivalenz: betont, dass das Regenmotiv sowohl Erinnerung als auch Schmerz transportiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Das Fenster fungiert dabei sowohl als Schutzschicht als auch als Spiegel, der die Vergangenheit reflektiert.“ – die Doppelrolle des Fensters wird nicht explizit im Text genannt, sondern ist eine Interpretation."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Refrain, in dem das Wort „rain“ fast wie ein Mantra wiederholt wird, verstärkt das Gefühl von Verzweiflung und Unausweichlichkeit.“ – wiederholt bereits genannte Beobachtung, bleibt vage.",
+          "„Insgesamt schildert das Lied einen inneren Konflikt zwischen dem Wunsch, die Vergangenheit zu bewahren, und dem Bedürfnis, den schmerzhaften Regen … zu entkommen.“ – allgemeine Zusammenfassung ohne neue Analyse."
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse von Bildsprache (Fenster, Pillow, „nothing to say“).",
+          "Verknüpft wiederholte Textpassagen mit emotionaler Wirkung (Mantra‑Effekt)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Der abschließende Aufruf „Don’t be okay, rain“ lässt das Wetter als fast menschliche Entität erscheinen.“ – Personifizierung des Regens ist spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Regen steht für das Unbehagen gegenüber Erinnerungen.“ – sehr allgemeine Aussage.",
+          "„Das Wort „grand“ betont die Überhöhung der gemeinsamen Zeit.“ – Wiederholung einer bereits genannten Beobachtung ohne weitere Analyse."
+        ],
+        "positive_aspekte": [
+          "Klare Gegenüberstellung von Vergangenheit („everything was so grand“) und Gegenwart.",
+          "Bezieht die physische Leere (leeres Kissen) konkret in die Interpretation ein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Das Wort „know“ wirkt als bewusstes Eingeständnis, dass das Bewusstsein über die eigene Traurigkeit unvermeidlich ist.“ – Der Text liefert keinen Hinweis darauf, dass „know“ ein bewusstes Eingeständnis darstellt."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Regen ist ein innerer Zustand.“ – vage Metapher ohne weitere Ausführung.",
+          "„Die wiederholten Wiederholungen und das fast kindliche „Oh, no yeah“ verstärken das Gefühl von Verzweiflung und Resignation.“ – Wiederholung einer bereits genannten Idee."
+        ],
+        "positive_aspekte": [
+          "Erkennt das Fenster als „stummen Zeugen“ und verbindet es mit der Unfähigkeit, Worte zu finden.",
+          "Bezieht die Zeile „Lone with the pillow / Where's his head used to lay“ konkret ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Die fragmentierten Wiederholungen am Ende spiegeln den mentalen Zustand der Sprecherin wider.“ – Der Text liefert keinen Hinweis auf einen mentalen Zustand, das ist spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Regen ist nicht nur Wetter, sondern ein akustischer Zeuge der Abwesenheit des Geliebten.“ – Wiederholung einer bereits genannten, vagen Metapher.",
+          "„Der Refrain wirkt wie ein Mantra.“ – sehr allgemeine Formulierung."
+        ],
+        "positive_aspekte": [
+          "Analysiert die strukturelle Auflösung des Songs (fragmentierte Wiederholungen).",
+          "Verbindet Bildsprache (Fenster, Pillow) konsequent mit dem Thema Verlust."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernmetaphern (Regen, Fenster, Pillow) auf; die Varianz liegt hauptsächlich im Grad der analytischen Tiefe und im Vorhandensein spekulativer, aber wenig häufiger Aussagen.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus textnaher Analyse und tiefgehender, aber begründeter Interpretation, ohne übermäßige Spekulation. Für zukünftige Bewertungen sollte man darauf achten, spekulative Personifizierungen zu kennzeichnen und Oberflächlichkeiten zu reduzieren."
+  }
+}

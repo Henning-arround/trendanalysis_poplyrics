@@ -1,0 +1,99 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Club-Szenerie verortet das Stück in einer urban-late-2000er-Kultur"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten erzeugen ein Spannungsfeld"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen körperlicher Nähe und emotionaler Distanz"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Dialektik zwischen Kontrolle und Hingabe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beziehung zwischen den Figuren bleibt unbestimmt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des 'Rittens' als kontrolliertes Loslassen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'She takes it to the corner, that's when I start wondering' erzeugt ein narratives Fragment"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text bleibt bewusst mehrdeutig"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen Selbstbeherrschung und Auflösung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Szene, in der das Handy plötzlich klingelt und die Beziehung zerbricht"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten zwischen Lust und Ablehnung, Nähe und Flucht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher des 'Rittens' als Symbol für das Durchdringen von Grenzen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Mischung aus englischen Slang-Elementen und popkulturellen Referenzen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Forderung nach 'Feeling' und 'Riding' reflektiert das wachsende Interesse an körperlicher Autonomie"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen Verlangen nach Nähe und dem Bedürfnis, sich zu distanzieren"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der Songtexte",
+    "empfehlung": "Die vierte Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

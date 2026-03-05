@@ -1,0 +1,99 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit der menschlichen Suche nach Sinn und Überzeugungen liegen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Show me a reason to forget these feelings / Show me a reason I need to believe it' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit der menschlichen Suche nach Sinn und Überzeugungen liegen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Show me a reason to forget these feelings / Show me a reason I need to believe it' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit der menschlichen Suche nach Sinn und Überzeugungen liegen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Show me a reason to forget these feelings / Show me a reason I need to believe it' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit der menschlichen Suche nach Sinn und Überzeugungen liegen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Show me a reason to forget these feelings / Show me a reason I need to believe it' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit der menschlichen Suche nach Sinn und Überzeugungen liegen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'Show me a reason to forget these feelings / Show me a reason I need to believe it' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole ist gut durchgeführt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": "Keine der Interpretationen ragt deutlich hervor",
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent, aber auch sehr ähnlich",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretationen_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch lässt sich das Stück in die Mitte der 1980er Jahre einordnen, einer Phase, in der postmoderne Diskurse über Fragmentierung und Identitätsfluidität in der Popkultur aufkamen."
+        ],
+        "positive_aspekte": [
+          "Sehr textnahes Vorgehen – fast jede Aussage lässt sich direkt auf eine Textstelle zurückführen.",
+          "Klare Analyse von Bildmotiven (Foam, Starfish, Full Moon) und ihrer symbolischen Funktion.",
+          "Erkennt die Ambivalenz zwischen nächtlicher Intimität und morgendlicher Entfremdung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Historisch lässt sich das Stück in die Mitte der 1980er‑Jahre einordnen, einer Phase, in der Popkultur vermehrt postmoderne Identitätsfragen und ökologische Metaphern aufgriff."
+        ],
+        "positive_aspekte": [
+          "Systematischer Durchlauf aller lyrischen Elemente (Identitätswechsel, Alkohol, Mond, Sternenfisch).",
+          "Verknüpfung von Bildhaftigkeit mit emotionaler Instabilität wird gut herausgearbeitet.",
+          "Erklärt die wechselseitige Projektion von Wahnsinn klar und textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Kulturell lässt sich das Stück in die 1980er‑Jahre einordnen, in denen postmoderne Diskurse über Identität, Fluidität und die Auflösung fester Geschlechter‑ und Rollenbilder aufkamen."
+        ],
+        "positive_aspekte": [
+          "Verbindet maritime Symbolik mit ökologischen Assoziationen (Wasser als Unbewusstes).",
+          "Betont die wiederkehrende Mantra‑Funktion von „We smile“ und deren doppelte Wirkung (Trost vs. Oberflächlichkeit).",
+          "Gute Balance zwischen textnaher Analyse und breiter kultureller Kontextualisierung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Kulturell verortet sich das Stück im Kontext der 1980er‑Jahre, einer Phase intensiver Auseinandersetzung mit Konsum‑ und Subkultur‑Identitäten, in der das Meer als Metapher für das Unbewusste und das Unkontrollierbare diente."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der Gegenüberstellung von Besitz‑/Spiel‑Frage und emotionaler Instabilität.",
+          "Erkennt die zynische Wirkung des wiederholten „We smile“ und verknüpft sie mit der lyrischen Maske.",
+          "Verbindet lunare Rhythmen mit persönlicher und kollektiver Wahnsinnsdarstellung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Im kulturellen Kontext der 1980er‑Jahre, einer Phase intensiver Selbstreflexion und postmodernen Identitätskrisen, reflektiert das Stück die Angst vor dem Verlust einer festen Selbstdefinition."
+        ],
+        "positive_aspekte": [
+          "Umfassende Betrachtung von Bildmotiven und deren doppelter Symbolordnung (natürliches Wachstum vs. rhythmische Stabilität).",
+          "Gute Herausarbeitung der Ambivalenz zwischen Ekstase (Alkohol) und morgendlicher Entfremdung.",
+          "Schließt mit einer offenen Lesart, die Hörer*innen zur eigenen Bedeutungsfindung einlädt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen bleiben stark textnah, enthalten kaum erfundene Fakten und zeigen eine einheitliche Tiefe (Score 4). Die Variation liegt lediglich im Umfang der allgemeinen kulturellen Kontextualisierung, die bei einigen Interpretationen als oberflächlich eingestuft wird.",
+    "empfehlung": "Interpretation 1 liefert die ausgewogenste Mischung aus texttreuer Analyse und tiefgehender, aber nicht spekulativer Interpretation. Für zukünftige Bewertungen sollte darauf geachtet werden, allgemeine Kultur‑ oder Geschichtsaussagen zu konkretisieren, um die Oberflächlichkeit zu reduzieren."
+  }
+}

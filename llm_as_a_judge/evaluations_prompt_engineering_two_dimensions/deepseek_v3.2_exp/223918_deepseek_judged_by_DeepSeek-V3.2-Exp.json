@@ -1,0 +1,97 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1970er Jahre waren geprägt von einer zunehmenden Skepsis gegenüber Institutionen und Autoritäten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi anmutet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen öffentlicher Erscheinung und privater Wirklichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1970er Jahre waren geprägt von einer zunehmenden Skepsis gegenüber Institutionen und Autoritäten.",
+          "Der Song kann als eine Art von Kommentar zu dieser Zeit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi anmutet.",
+          "Die emotionale Wirkung des Songs ist eher kühl und distanziert."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erwähnt die Verwendung von Metaphern und Symbolen."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi-Szenario wirkt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung literarischer Stilmittel und die thematische Komplexität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als ein Beitrag zu dieser Diskussion gesehen werden, indem er die Konstruktion von Wirklichkeit und die Rolle von Informationen und Wissen in dieser Konstruktion hinterfragt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung literarischer Stilmittel und die thematische Komplexität des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs ist ambivalent und changiert zwischen Distanz und Intimität."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf den ersten Blick wie ein simples Rätsel oder ein Krimi anmutet."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Verwendung literarischer Stilmittel und die thematische Komplexität des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die vierte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

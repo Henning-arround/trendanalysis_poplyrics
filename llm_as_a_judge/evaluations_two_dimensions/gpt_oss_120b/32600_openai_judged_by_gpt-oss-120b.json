@@ -1,0 +1,119 @@
+{
+  "song": "Assistant's Cry - Yello (1980)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein ironischer Kommentar zur modernen Massenkultur, in der das Individuum zwischen Anonymität und dem Drang nach Selbstdarstellung gefangen ist.",
+          "Die wiederholten Ausrufe … erzeugen eine fast schon zynische Bühnenatmosphäre, als würde ein Showmaster das Publikum gleichzeitig unterhalten und entlarven.",
+          "Die Zeilen … deuten darauf hin, dass das Weinen … nicht aus offenem Schmerz, sondern aus einer tieferen, kaum verstandenen Verzweiflung entsteht – ein stilles Leiden, das im Trubel der Straße verborgen bleibt.",
+          "Das Bild des unerreichbaren Himmels steht für unerfüllte Sehnsüchte, während das wiederholte … die Diskrepanz zwischen äußerer Fassade und innerem Aufruhr betont.",
+          "Die abschließende Ansprache … verleiht dem Ganzen einen Zirkuscharakter, in dem das tägliche Drama zur Unterhaltung wird.",
+          "Damit kritisiert Yello die Entfremdung des Einzelnen in einer Gesellschaft, die das echte Gefühl in laute, oberflächliche Showeinlagen verwandelt, und lässt den Hörer mit dem Eindruck zurück, dass das wahre Weinen hinter dem Lärm kaum gehört wird."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konkrete Textstellen (Yeahhh!, „No tears“, „busy lives“, „hundred thousand people“).",
+          "Stellt einen klaren thematischen Rahmen (Ironie, Zirkus‑Show) her."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein ironischer Kommentar zur modernen Massenkultur, in der das Individuum zwischen Anonymität und dem Drang nach Selbsterkenntnis gefangen ist.",
+          "Die wiederholten Ausrufe … erzeugen eine fast schon zynische Bühnenatmosphäre, als würde ein Showmaster das Publikum gleichzeitig unterhalten und entlarven.",
+          "Die Zeilen … deuten darauf hin, dass das Weinen … ein seltenes, kaum verstandenes Phänomen bleibt, während die Masse … in einem mechanischen Trott ihre Träume zu schützen versucht, ohne zu wissen, wonach sie wirklich suchen.",
+          "Das Bild von … symbolisiert das unerreichbare Ideal, das in einer von Routine dominierten Welt kaum greifbar ist.",
+          "Die Gegenüberstellung von „No tears / Just cries and fears“ verdeutlicht, dass das äußere Lächeln oft nur ein Deckmantel für innere Ängste ist, die im kollektiven Rauschen untergehen.",
+          "Der Sprecher äußert Ungläubigkeit … und stellt damit die Absurdität des Alltags in Frage.",
+          "Der abschließende Aufruf … verfestigt das Bild einer endlosen Zirkusshow, in der das Publikum immer wieder dieselben Rollen spielt, während die eigentliche Sehnsucht nach Authentizität im Hintergrund verklingt."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf wiederkehrende Motive des Textes (Show‑Metapher, „No tears“, Träume, Sterne)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein ironischer Kommentar zur modernen Massenkultur, in der das Individuum zwischen Anonymität und dem Drang nach Selbstdarstellung gefangen ist.",
+          "Die wiederholten Ausrufe … erzeugen eine fast schon zynische Bühnenatmosphäre, als würde ein Showmaster das Publikum gleichzeitig unterhalten und entlarven.",
+          "Die Zeilen … deuten darauf hin, dass das Weinen … nicht aus offenem Schmerz, sondern aus einer verborgenen, kaum verstandenen Verzweiflung entsteht – ein stilles Leiden, das nur wenige wirklich nachvollziehen können.",
+          "Das Bild von … verdeutlicht, dass das Streben nach etwas Höherem – nach Freiheit, Sinn oder Erleuchtung – durch die Hektik des Alltags erstickt wird.",
+          "Der Refrain … kontrastiert das äußere Bild von Stärke mit inneren Ängsten, während das wiederholte … die Entfremdung des Erzählers von der Masse betont.",
+          "Die abschließende Anmoderation … verleiht dem Ganzen den Anschein einer endlosen Zirkusshow, in der das Publikum immer wieder dieselben Rollen spielt, ohne zu erkennen, dass das eigentliche Drama im Inneren jedes Einzelnen stattfindet.",
+          "Die Ironie liegt darin, dass das „Showtime“-Mantra zugleich Befreiung und Gefangenschaft bedeutet."
+        ],
+        "positive_aspekte": [
+          "Erkennt die wiederkehrende Show‑Metapher und verknüpft sie mit dem Konzept von Entfremdung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein ironischer Kommentar zur modernen Massenkultur, in der das Individuum zwischen Anonymität und dem Drang nach Selbstdarstellung gefangen ist.",
+          "Die wiederholten Ausrufe … erzeugen eine fast schon zynische Bühnenatmosphäre, als würde ein Showmaster das Publikum gleichzeitig unterhalten und entlarven.",
+          "Die Zeilen … deuten darauf hin, dass das Weinen … nicht aus offenem Schmerz, sondern aus einer tieferen, kaum verstandenen Verzweiflung entsteht – ein stilles Leiden, das nur wenigen zugänglich ist.",
+          "Die Beschreibung von … schildert das kollektive Streben nach einem unerreichbaren Ideal, das in der Hektik des Alltags immer weiter verwässert wird.",
+          "Das Bild, dass sie … suchen, symbolisiert den Wunsch nach Transzendenz, während die Realität sie mit „busy lives“ und „no tears, just cries and fears“ konfrontiert.",
+          "Die wiederholte Verurteilung … wirkt nicht als reine Beschimpfung, sondern als Spiegel, der die Absurdität einer Gesellschaft reflektiert, die sich selbst als normal präsentiert, obwohl sie von inneren Konflikten zerrissen ist.",
+          "Der Schluss … verstärkt das Bild einer endlosen Zirkusshow, in der das Publikum immer wieder dieselben Rollen spielt, ohne zu erkennen, dass das eigentliche Drama im Inneren jedes Einzelnen stattfindet."
+        ],
+        "positive_aspekte": [
+          "Verbindet die Textpassagen mit einer kritischen Sicht auf gesellschaftliche Oberflächlichkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text wirkt wie ein ironischer Kommentar zur modernen Massenkultur, in der das Individuum zwischen Anonymität und dem Drang nach Selbsterkenntnis gefangen ist.",
+          "Die Zeilen … suggerieren, dass das Weinen der Menschen ein seltenes, kaum verstandenes Phänomen ist – ein Hinweis darauf, dass wahre Emotionen in einer Gesellschaft, die von Routine und Konsum bestimmt wird, kaum Raum finden.",
+          "Das Bild, nach „the skies“ und „the stars“ zu suchen, steht für das Verlangen nach Transzendenz, das im Alltag jedoch immer wieder scheitert („I can't“).",
+          "Die wiederholte Verneinung von Tränen … spiegelt die Verdrängung von Angst durch oberflächliche Lacher wider.",
+          "Der abschließende Aufruf … entmystifiziert das Geschehen als bloße Show, ein inszeniertes Schauspiel, das am nächsten Tag wiederholt wird.",
+          "Damit kritisiert das Stück die Zyklen von Oberflächlichkeit, Selbsttäuschung und der Unfähigkeit, echte menschliche Verbindung zuzulassen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft mehrere Textstellen (Yeahhh!, „No tears“, „busy lives“, Sterne) zu einer kohärenten Analyse.",
+          "Bietet konkrete Interpretationsansätze (Transzendenz, Verdrängung, Show‑Metapher) und bleibt dabei textnah."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Ironie, Show‑Metapher, Entfremdung). Die Varianz liegt hauptsächlich im Detailgrad – Interpretation 1 liefert die tiefste, textbezogene Analyse, während die anderen stärker verallgemeinern.",
+    "empfehlung": "Für eine ausgewogene Bewertung sollte man Interpretation 1 als Vorbild nehmen: sie bleibt faktentreu, nutzt konkrete Textbelege und geht darüber hinaus, indem sie mehrere Ebenen (Ton, Symbolik, gesellschaftliche Kritik) verknüpft, ohne in vage Allgemeinplätze abzudriften."
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "song": "Smoke Dreams - k.d. lang (1997)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die thematische Komplexität des Songs liegt in der Verquickung von Erinnerung, Sehnsucht und Verdrängung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Traurigkeit und Sehnsucht geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Metapher des Rauchs steht für die Vergänglichkeit und Flüchtigkeit von Erinnerungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein kulturelles Dokument der 1990er Jahre interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist überwiegend textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Rauch als Symbol für die Vergänglichkeit und die emotionale Wirkung der Erinnerung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist von einer tiefen Melancholie und Sehnsucht geprägt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist die Schwierigkeit, eine verlorene Liebe zu überwinden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität des Songs liegt in der Verquickung von Erinnerung, Sehnsucht und Verdrängung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist faktentreu"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe am besten"
+  }
+}

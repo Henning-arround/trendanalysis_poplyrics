@@ -1,0 +1,97 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik von In Flames ist im Genre des Melodic Death Metal angesiedelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Es geht um Schmerz, Freiheit und Authentizität"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen 'Pain, you're not my friend, and I despise you / Friend, you are my pain, and I adore you'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'anderen Seite', von der aus 'sie' gehört werden, könnte eine metaphorische Darstellung für die Außenwelt oder die Gesellschaft sein"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Suche nach individueller Freiheit und Authentizität"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Zeile 'Let's consume it all before they take it all away'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs und seine affektive Dimension werden durch die wiederholte Klage 'Let the day go by' und die Frage 'Trying to see if the world is still alive' vermittelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der Unzufriedenheit und des Verlangens nach Veränderung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Textzeilen 'Pain, you're not my friend, and I despise you / Friend, you are my pain, and I adore you'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'anderen Seite', von der aus 'sie' gehört werden, könnte eine metaphorische Darstellung für die Außenwelt oder die Gesellschaft sein"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textzeilen und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emotionale Wirkung des Songs und seine affektive Dimension werden durch die wiederholte Aufforderung, den Tag verstreichen zu lassen ('Let the day go by'), und die Frage nach der Lebendigkeit der Welt ('Trying to see if the world is still alive') unterstrichen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck von Frustration und dem Verlangen nach Autonomie und Selbstbestimmung"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Zeile 'Let's consume it all before they take it all away'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die vierte Interpretation bietet eine sehr gute Analyse der Textzeilen und ihrer Bedeutung"
+  }
+}

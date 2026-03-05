@@ -1,0 +1,98 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text schildert einen inneren Kampf"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik von '4 am'",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text offenbart ein tiefes Gefühl von Verlust"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der wiederholten Fragen",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "romantische Bindung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song wirkt wie ein nächtliches Geständnis"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik von '4 am'",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Text offenbart ein tiefes Gefühl von Verlust"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der wiederholten Fragen",
+          "Textbezogene Interpretation"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Versagen und Selbstvorwurf"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein eindringlicher Monolog"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Symbolik von '4 am'",
+          "Textbezogene Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse der Symbolik und der textbezogenen Interpretation",
+    "empfehlung": "Die Interpretationen sollten weiterhin textbezogen und analytisch tiefgehend sein, jedoch mit einer geringeren Halluzinationsrate"
+  }
+}

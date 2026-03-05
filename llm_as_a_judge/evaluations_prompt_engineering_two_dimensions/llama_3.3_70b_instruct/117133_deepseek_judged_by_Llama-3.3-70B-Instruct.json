@@ -1,0 +1,99 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zwischen Nervosität und künstlerischer Performance"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beobachtung einer Gruppe von Menschen in einer theatralischen Performance"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Betonung der surrealen Atmosphäre"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zwischen Nervosität und künstlerischer Performance"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beobachtung einer Gruppe von Menschen in einer theatralischen Performance"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Betonung der surrealen Atmosphäre"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frage, wie wir unsere Identität konstruieren und präsentieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung der Ambivalenz und des Widerspruchs"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der literarischen Stilmittel und die Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Frage, wie wir unsere Identität konstruieren und präsentieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung der Ambivalenz und des Widerspruchs"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der literarischen Stilmittel und die Berücksichtigung des kulturellen Kontexts"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung der surrealen Atmosphäre"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der literarischen Stilmittel, die Berücksichtigung des kulturellen Kontexts und die textgetreue Interpretation"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 4.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1 und 2 sind sehr ähnlich, während die Interpretationen 3 und 4 ebenfalls Ähnlichkeiten aufweisen. Die Interpretation 5 ist die detaillierteste und textgetreuere.",
+    "empfehlung": "Die beste Interpretation ist die fünfte, da sie eine detaillierte Analyse der literarischen Stilmittel und eine textgetreue Interpretation bietet."
+  }
+}

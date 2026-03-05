@@ -1,0 +1,130 @@
+{
+  "song": "You Belong To Me - Rick Astley (2005)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die globale Kommunikation und Mobilität zunahmen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine interessante Fallstudie für eine kulturwissenschaftliche Analyse.",
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext ... ist ebenfalls von Bedeutung.",
+          "Die Sehnsucht nach einem gemeinsamen Erlebnis und die Verwendung exotischer Orte ... können als Reaktion auf diese Veränderungen interpretiert werden.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Auseinandersetzung mit den Herausforderungen und Chancen der Globalisierung gesehen werden.",
+          "Insgesamt zeigt der Song ... komplexe thematische Struktur ..."
+        ],
+        "positive_aspekte": [
+          "Mehrere konkrete Textbezüge (z. B. „Fly the ocean in a silver plane“ als Symbol für Freiheit).",
+          "Klare Analyse der Wiederholung von „You belong to me“ und deren Spannungsfeld."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die globale Kommunikation und Mobilität zunehmend einfacher wurden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine interessante Fallstudie für eine kulturwissenschaftliche Analyse.",
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die literarischen Stilmittel ... Metaphern und Symbole ...",
+          "Der kulturelle, historische und gesellschaftliche Kontext ... ist ebenfalls von Bedeutung.",
+          "Insgesamt offenbart der Song eine tiefere Bedeutungsebene, in der die symbolische Ordnung von Besitz, Sehnsucht und Nähe verhandelt wird.",
+          "Die Ambiguität zwischen dem Wunsch nach Nähe und dem Anspruch auf Besitz bleibt jedoch bestehen, was den Song zu einer interessanten Fallstudie ... macht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert das Motiv des Flugzeugs als Symbol für Freiheit.",
+          "Bezieht die Wiederholung der Refrains in die Analyse ein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die globale Kommunikation durch das Internet und Mobiltelefone revolutioniert wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine interessante Fallstudie für eine kulturwissenschaftliche Analyse.",
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext ... ist ebenfalls von Bedeutung.",
+          "Die Sehnsucht nach menschlicher Nähe ... kann als tiefere Bedeutungsebene interpretiert werden.",
+          "Insgesamt zeigt der Song ... komplexe thematische Struktur ..."
+        ],
+        "positive_aspekte": [
+          "Umfassende Verknüpfung von Textstellen (Pyramiden, Souvenirs, Flugzeug) mit Themen von Besitz und Sehnsucht.",
+          "Erkennt die Ambivalenz zwischen Nähe und Angst vor Einsamkeit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die globale Kommunikation durch das Internet und Mobiltelefone revolutioniert wurde."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine interessante Fallstudie für eine kulturwissenschaftliche Analyse.",
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext ... ist ebenfalls von Bedeutung.",
+          "Die Sehnsucht nach menschlicher Nähe ... kann als tiefere Bedeutungsebene interpretiert werden.",
+          "Insgesamt zeigt der Song ... komplexe thematische Struktur ..."
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Bildsprache (Pyramiden, Sonnenaufgang, Souvenirs).",
+          "Verknüpft wiederholte Zeile „You belong to me“ mit Themen von Besitz und Angst."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 2005 veröffentlicht, einer Zeit, in der die Globalisierung und die digitale Revolution die Kommunikation und die Beziehungen zwischen Menschen veränderten."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist eine interessante Fallstudie für eine kulturwissenschaftliche Analyse.",
+          "Doch bei näherer Betrachtung offenbart sich eine komplexere thematische Struktur.",
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext ... ist ebenfalls von Bedeutung.",
+          "Insgesamt offenbart der Song eine tiefere Bedeutungsebene, in der die Sehnsucht nach Verbindung und die Angst vor Verlust thematisiert werden.",
+          "Die Ambiguität zwischen Besitzanspruch und Sehnsucht bleibt jedoch bestehen, ..."
+        ],
+        "positive_aspekte": [
+          "Verbindet das Motiv des Flugzeugs explizit mit dem Überwinden von Distanzen, was eine zusätzliche Interpretationsebene eröffnet.",
+          "Starke Textbezüge kombiniert mit einer Reflexion über Globalisierung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen sind stark redundant; sie wiederholen dieselben Grundthesen mit nur geringen Nuancen, was zu einer niedrigen Varianz führt.",
+    "empfehlung": "Ein Ansatz, der konkrete Textstellen systematisch analysiert und gleichzeitig die impliziten Mehrdeutigkeiten herausarbeitet (wie Interpretation 3), liefert die beste Balance zwischen Faktentreue und analytischer Tiefe. Zukunftige Modelle sollten generische Floskeln vermeiden und jede Aussage klar als textbasiert oder spekulativ kennzeichnen."
+  }
+}

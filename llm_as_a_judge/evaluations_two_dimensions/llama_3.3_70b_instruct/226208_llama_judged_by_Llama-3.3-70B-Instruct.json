@@ -1,0 +1,99 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Appell an die Menschen verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'The world we live in is a violent place' unterstreicht die allgegenwärtige Präsenz von Gewalt und Konflikt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und die Sehnsucht nach einem friedlichen Ort"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sänger gibt jedoch auch seiner Unzufriedenheit mit dieser Situation Ausdruck"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Frage 'Who's wrong, who's right' deutet auf die Unsicherheit und Verwirrung hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und die Sehnsucht nach einem friedlichen Ort"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Appell an die Menschen verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'The world we live in is a violent place' unterstreicht die allgegenwärtige Präsenz von Gewalt und Konflikt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und die Sehnsucht nach einem friedlichen Ort"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain 'Here in the eye of the storm' beschreibt den Ort, an dem der Protagonist sich wohlfühlt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Frage 'Who's wrong, who's right' deutet auf die Unsicherheit und den Zweifel hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und die Sehnsucht nach einem friedlichen Ort"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Appell an die Menschen verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Textzeile 'The world we live in is a violent place' unterstreicht die allgegenwärtige Präsenz von Gewalt und Konflikt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und die Sehnsucht nach einem friedlichen Ort"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und wiederholen sich in ihren Aussagen",
+    "empfehlung": "Es wäre ratsam, die Interpretationen noch einmal zu überarbeiten und mehr textbasierte Argumente zu verwenden, um die Tiefe und die Textreue zu verbessern"
+  }
+}

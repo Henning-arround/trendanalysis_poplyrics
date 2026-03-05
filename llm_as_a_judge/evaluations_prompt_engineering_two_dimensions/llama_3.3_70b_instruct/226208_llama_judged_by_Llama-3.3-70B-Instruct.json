@@ -1,0 +1,100 @@
+{
+  "song": "Eye Of The Storm - Pseudo Echo (1989)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No race for another war' unterstreicht diese Angst und betont die Notwendigkeit, nach friedlichen Lösungen zu suchen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und bietet eine tiefere Analyse der Metapher 'Auge des Sturms'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No race for another war' spiegelt die Sehnsucht nach Frieden und die Ablehnung von Gewalt wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, die Zuhörer zum Nachdenken über ihre eigene Rolle in der Gesellschaft anzuregen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine tiefere Analyse der Metapher 'Auge des Sturms' und thematisiert die Frage nach Recht und Unrecht"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No race for another war' spiegelt die Sehnsucht nach Frieden und die Ablehnung von Gewalt wider.",
+          "Der Song ist auch im kulturellen und historischen Kontext der späten 1980er Jahre zu sehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, die Zuhörer zum Nachdenken über ihre eigene Rolle in der Gesellschaft anzuregen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und bietet eine Analyse der Metapher 'Auge des Sturms'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Will we try together for a better life / Or do we live forever on the edge of a knife' betont die Notwendigkeit, gemeinsam nach einer besseren Zukunft zu streben."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs liegt in seiner Fähigkeit, die Zuhörer zum Nachdenken über ihre eigene Rolle in der Gesellschaft anzuregen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und bietet eine tiefere Analyse der Metapher 'Auge des Sturms'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'No race for another war' unterstreicht diese Angst und betont die Notwendigkeit, nach friedlichen Lösungen zu suchen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Textzeilen verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Gewalt und den Konflikt in der Welt und bietet eine tiefere Analyse der Metapher 'Auge des Sturms'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent und bieten eine tiefere Analyse der Metapher 'Auge des Sturms' und der Gewalt und des Konflikts in der Welt.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und thematisiert die Gewalt und den Konflikt in der Welt."
+  }
+}

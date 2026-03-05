@@ -1,0 +1,116 @@
+{
+  "song": "Sea Song - Tears For Fears (1985)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Refrain \"We smile\" wirkt wie eine Art Beschwichtigung oder ein Abwehrmechanismus gegenüber den Unsicherheiten und Veränderungen in der Beziehung.",
+          "Die folgende Strophe unterstreicht die zyklische Natur der Veränderungen, indem sie den Wandel mit den Jahreszeiten und den Gezeiten des Meeres vergleicht.",
+          "Der Song suggeriert, dass die Beziehung trotz oder gerade wegen ihrer Unbeständigkeit und der \"Madness\" des Partners funktioniert.",
+          "Der abschließende Satz \"We're not alone\" kann als eine Art Trost oder Bestätigung interpretiert werden, dass es in Ordnung ist, in einer solchen Beziehung zu sein, in der beide Partner ihre eigenen Unzulänglichkeiten und Veränderungen akzeptieren."
+        ],
+        "positive_aspekte": [
+          "Alle Aussagen basieren direkt auf Textzeilen (z. B. „When you're drunk you're terrific“, „Your lunacy fits neatly with my own“, „We smile“, „We're not alone“).",
+          "Die Interpretation erkennt die zentrale Themen von Veränderlichkeit, Saisonabhängigkeit und gegenseitiger „Madness“.",
+          "Sie verbindet einzelne Bildungen (Meereswesen, Jahreszeiten) zu einer kohärenten Lesart, ohne unbegründete biografische oder stilistische Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile \"When you're drunk you're terrific\" lässt darauf schließen, dass die Beziehung in Momenten der Ekstase oder des Rauschzustands am intensivsten erlebt wird.",
+          "Der Refrain \"We smile\" deutet auf eine fragile Harmonie hin, die durch die wechselnden Stimmungen und Identitäten des Partners bedroht wird.",
+          "Die Zeile \"We're not alone\" lässt darauf schließen, dass die Beziehung trotz ihrer Herausforderungen und Unsicherheiten eine Art von Trost und Gemeinsamkeit bietet.",
+          "Insgesamt beschreibt ... eine komplexe, von Veränderungen geprägte Beziehung, in der beide Partner ihre eigene Form von Verrücktheit finden und akzeptieren."
+        ],
+        "positive_aspekte": [
+          "Klare Verknüpfung von Textstellen mit interpretativen Schlüssen (z. B. „seasonal beast“ → Unbeständigkeit).",
+          "Erkennt die wiederkehrenden Motive: Wandel, Saison, „Madness“ und das wiederholte „We smile“.",
+          "Vermeidet spekulative biografische Angaben; alle Aussagen bleiben im Rahmen des Songtexts."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung ... wird als eine Art Spiel beschrieben, in dem die Veränderlichkeit der Person akzeptiert und sogar geschätzt wird.",
+          "Die Zeile \"When you're drunk you're terrific\" deutet darauf hin, dass die Person in bestimmten Momenten besonders anziehend und unterhaltsam ist.",
+          "Allerdings wird auch die Schwierigkeit deutlich, die Person in anderen Momenten zu verstehen, insbesondere wenn sie \"human\" sein muss.",
+          "Der Songtext suggeriert, dass die Veränderlichkeit der Person saisonal bedingt ist und dass sie sich mit den Gezeiten verändert."
+        ],
+        "positive_aspekte": [
+          "Alle genannten Punkte lassen sich eindeutig aus den Songzeilen ableiten (z. B. „You look different every time“, „partly fish…\", „When you're drunk you're terrific“, „We'll be different in the spring\", „seasonal beast\", \"Madness\"/\"Lunacy\").",
+          "Die Analyse verbindet die Bildsprache (Meereswesen, Jahreszeiten) zu einer konsistenten Lesart über Wandel und gegenseitige Akzeptanz.",
+          "Keine unbegründeten historischen, biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung zwischen den beiden Partnern wird als eine Art Spiel beschrieben, in dem die Veränderlichkeit der Person akzeptiert und sogar genossen wird.",
+          "Die Zeile \"When you're drunk you're terrific\" deutet darauf hin, dass die Person in bestimmten Zuständen besonders anziehend und unterhaltsam ist.",
+          "Der Songtext suggeriert, dass die Veränderlichkeit der Person saisonal bedingt ist und dass sie sich mit den Gezeiten verändert.",
+          "Die Beziehung zwischen den beiden Partnern wird als eine Art gegenseitige Akzeptanz und Verständnis beschrieben, in der die Veränderlichkeit und Unberechenbarkeit des anderen Partners anerkannt und sogar geschätzt wird.",
+          "Die abschließende Zeile \"We're not alone\" deutet darauf hin, dass die beiden Partner in ihrer Veränderlichkeit und Unberechenbarkeit nicht isoliert sind, sondern sich gegenseitig verstehen und akzeptieren."
+        ],
+        "positive_aspekte": [
+          "Starke Textbindung: Jede Aussage bezieht sich auf konkrete Zeilen („You look different every time“, „partly fish…\", „When you're drunk you're terrific“, „You'll be different in the spring\", „seasonal beast\", \"We're not alone\").",
+          "Erkennt die zentrale Dualität von Veränderlichkeit und gegenseitiger Akzeptanz.",
+          "Verzichtet auf spekulative Angaben zu Genre, Produktion oder Künstlerbiografie."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Beziehung zwischen den beiden Partnern wird als eine Art Spiel beschrieben, in dem die Veränderlichkeit der Person akzeptiert und sogar genossen wird.",
+          "Die Zeile \"When you're drunk you're terrific\" deutet darauf hin, dass die Person in bestimmten Zuständen besonders anziehend und unterhaltsam ist.",
+          "Der Songtext suggeriert, dass die Veränderlichkeit der Person saisonal bedingt ist und dass sie sich mit den Gezeiten verändert.",
+          "Die Beziehung zwischen den beiden Partnern wird als eine Art gegenseitige Akzeptanz und Verständnis beschrieben, in der die Veränderlichkeit und Unberechenbarkeit des anderen Partners anerkannt und sogar geschätzt wird.",
+          "Die abschließende Zeile \"We're not alone\" deutet darauf hin, dass die beiden Partner in ihrer Veränderlichkeit und Unberechenbarkeit nicht isoliert sind, sondern sich gegenseitig verstehen und akzeptieren."
+        ],
+        "positive_aspekte": [
+          "Alle Punkte lassen sich eindeutig aus den Songtexten ableiten; es gibt keine erfundenen biografischen oder stilistischen Behauptungen.",
+          "Die Analyse verbindet die Bildsprache (Meereswesen, Jahreszeiten, „seasonal beast“) zu einer kohärenten Interpretation von Wandel und gegenseitiger „Madness“.",
+          "Sie bleibt bei der Ebene des Textes und vermeidet übermäßige Verallgemeinerungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen zeigen sehr hohe Texttreue (keine Halluzinationen) und ähnliche Tiefenwerte (4‑5). Die Unterschiede liegen hauptsächlich im Umfang oberflächlicher Formulierungen; Interpretation 3 nutzt die wenigsten vagen Aussagen und wird daher als am tiefgründigsten bewertet.",
+    "empfehlung": "Für künftige Aufgaben sollte das Vorgehen von Interpretation 3 als Vorbild dienen: klare Textbezüge, gezielte Analyse von Bildsprache und Themen, minimale vage Generalisierungen. Das liefert die beste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

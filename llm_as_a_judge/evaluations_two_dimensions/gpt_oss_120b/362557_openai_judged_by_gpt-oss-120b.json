@@ -1,0 +1,122 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er‑Jahre, das die aufkommende Fitness‑ und Aerobic‑Kultur mit dem unverwechselbaren Disco‑Pop‑Sound verbindet (Genre‑Zuordnung).",
+          "Die Zeile „Why, why do you stand aside“ impliziert, dass das Nicht‑Tanzen gleichbedeutend mit dem Verpassen von Freude und Gemeinschaft ist.",
+          "Die Betonung des Körpers als „beautiful“ und die Versprechen, dass er sich „thank you in return“ zeige, verknüpfen körperliche Anstrengung mit ästhetischer Belohnung.",
+          "Das Stück sei kein einfacher Popsong, sondern ein Leitfaden für ein aktives, selbstbewusstes Leben (kulturelles Manifest)."
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die ständige Wiederholung von Anweisungen entsteht ein strukturiertes Trainingsgerüst, das zugleich rhythmisch und motivierend wirkt.",
+          "Gleichzeitig wird das Tanzen als kollektives Ritual dargestellt, das soziale Bindungen stärkt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die wiederholten Aufforderungen im Text (z. B. „Shake a leg“, „Sway your body“, Zählungen).",
+          "Verknüpft die Textpassagen mit dem allgemeinen Fitness‑ und Aerobic‑Kontext der 80er‑Jahre."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er‑Jahre, in dem die aufkommende Fitness‑ und Aerobic‑Kultur mit dem unverwechselbaren Disco‑Pop‑Sound verschmolzen wird.",
+          "Die wiederholte Aufforderung, nicht beiseite zu stehen, erzeugt sozialen Druck, Teil einer kollektiven Tanz‑ und Trainingsgemeinschaft zu werden.",
+          "Die Betonung von Schönheit („Oh what a wonderful chance to be beautiful“) verknüpft das Tanzen mit ästhetischen Idealen der Popkultur jener Zeit.",
+          "Musikalisch unterstützt das treibende Beat‑Muster die motivierende Botschaft, indem es den Hörer in einen fast hypnotischen Rhythmus zieht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederkehrenden Phrasen spiegeln die strukturierten Abläufe von Aerobic‑Klassen wider und betonen die Disziplin hinter dem scheinbar lockeren Tanzen.",
+          "So wird der Song zu einem Manifest der 80er‑Fitness‑Euphorie, das Tanz, Gesundheit und Selbstinszenierung zu einer einzigen, mitreißenden Erfahrung verbindet."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentralen Textbausteine (z. B. „Warming up, cooling down“, Zählungen).",
+          "Stellt einen Zusammenhang zwischen Text und dem damaligen Fitness‑Boom her."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er‑Jahre, das die aufkommende Fitness‑ und Aerobic‑Kultur mit der Leichtigkeit des Disco‑Pop verbindet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die spielerische Sprache („Oh what a wonderful chance to be beautiful“) betont die ästhetische Komponente des Tanzes.",
+          "Insgesamt vermittelt das Stück eine optimistische Botschaft: Durch rhythmisches Tanzen lässt sich nicht nur der Körper stärken, sondern auch ein Gefühl von Freude und Zugehörigkeit erzeugen."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Analyse der strukturellen Elemente des Textes (Aufwärmen/Abkühlen, Zählungen, Anweisungen wie „cross‑cross“, „step‑step“, „kick, change“).",
+          "Verknüpft diese Elemente konsequent mit dem Konzept von Selbstfürsorge und Gruppendynamik."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er‑Jahre, das die aufkommende Fitness‑ und Aerobic‑Kultur mit dem unverwechselbaren Disco‑Pop‑Sound verbindet.",
+          "Die Zeile „Why, why do you stand aside“ impliziert, dass das Nicht‑Tanzen gleichbedeutend mit dem Verpassen von Freude und Gemeinschaft ist.",
+          "Die Betonung des Körpers als „beautiful“ und die Verheißung, dass er sich „in return“ bedanken wird, verknüpft körperliche Anstrengung mit ästhetischer Belohnung.",
+          "Das Stück ist kein einfacher Popsong, sondern ein kulturelles Manifest der damaligen Zeit, das körperliche Aktivität, Selbstoptimierung und das Bedürfnis nach sozialer Zugehörigkeit zusammenführt."
+        ],
+        "oberflächliche_aussagen": [
+          "Durch die ständige Wiederholung von Anweisungen entsteht ein strukturiertes Trainingsgerüst, das zugleich rhythmisch und motivierend wirkt.",
+          "Gleichzeitig wird das Tanzen als kollektives Ritual dargestellt, das soziale Bindungen stärkt."
+        ],
+        "positive_aspekte": [
+          "Erfasst die wiederholten Imperative und Zählungen korrekt.",
+          "Stellt den Text in den Kontext der 80er‑Fitness‑Bewegung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein typisches Produkt der frühen 80er‑Jahre, das die aufkommende Fitness‑ und Aerobic‑Kultur mit dem unverwechselbaren Disco‑Pop‑Sound verbindet.",
+          "Die wiederholte Aufforderung „Shake a leg“ fungiert als unmittelbarer Aufruf zum Handeln, der das Zögern des Hörers adressiert und ihn aus der Passivität herausreißt.",
+          "Durch die Betonung von Aufwärmen, Abkühlen und präzisen Zählungen wird das Tanzen fast zu einer strukturierten Trainingsroutine, die sowohl körperliche als auch mentale Disziplin fordert.",
+          "Indem das Lied das Tanzen als kollektives Ritual darstellt („let everybody dance“), wird ein Gemeinschaftsgefühl erzeugt, das über das reine Fitness‑Training hinausgeht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sprache bleibt spielerisch und leicht, was den Spaßfaktor betont.",
+          "Die wiederholten Refrains verknüpfen das körperliche Vergnügen mit einer fast spirituellen Selbstfürsorge.",
+          "Das Mantra „Don’t give up until you’ve got it“ vermittelt eine motivierende Botschaft von Durchhaltevermögen."
+        ],
+        "positive_aspekte": [
+          "Verbindet Textbeobachtungen (z. B. Warm‑up/Cold‑down, Zählungen) mit einer tieferen Analyse von Disziplin und Gemeinschaft.",
+          "Erkennt die spielerische Tonalität des Liedes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 1.8,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑4 wiederholen fast identische Argumentationsmuster und weisen hohe Halluzinationsraten auf, während Interpretation 5 deutlich weniger spekulative Aussagen enthält und stärker textbezogen ist.",
+    "empfehlung": "Für künftige Analysen sollte der Fokus stärker auf nachweisbare Textstellen gelegt werden, während spekulative kulturelle oder biografische Einordnungen klar als Interpretation gekennzeichnet werden. Interpretation 5 zeigt, wie man Textbelege mit analytischer Tiefe kombiniert, ohne unnötige Halluzinationen."
+  }
+}

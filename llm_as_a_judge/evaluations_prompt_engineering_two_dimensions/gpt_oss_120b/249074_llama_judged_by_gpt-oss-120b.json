@@ -1,0 +1,132 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"silbernen Sterne, die aus dem Blickfeld verschwinden\" symbolisieren den Übergang von der Nacht zum Tag und damit auch den Übergang von der Freiheit zur Verantwortung.",
+          "Die Aufforderung, \"einen kleinen Kuss\" zu geben, bevor man \"Gute Nacht\" sagt, unterstreicht die Erwartung, dass die Frau ihre Unabhängigkeit aufgibt.",
+          "Die 1950er Jahre waren geprägt von traditionellen Rollenbildern, in denen Frauen oft auf die Rolle der Hausfrau und Mutter reduziert wurden.",
+          "Die Zeile \"She's awake now, this chick\" deutet auf eine Ambiguität hin, dass die Frau vielleicht nicht bereit ist, ihre Unabhängigkeit aufzugeben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine interessante kulturwissenschaftliche Perspektive auf die Rolle der Frau in der Gesellschaft der 1950er Jahre.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden.",
+          "Diese Spannung zwischen der erwarteten Rolle und der tatsächlichen Handlungsfähigkeit der Frau bietet eine interessante Perspektive auf die gesellschaftlichen Normen der Zeit."
+        ],
+        "positive_aspekte": [
+          "Verweist konsequent auf konkrete Textstellen (z. B. Metaphern, Refrain).",
+          "Analysiert die Symbolik der Sterne und des Kusses.",
+          "Erkennt die Ambivalenz im Schlussvers."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1950er Jahre waren eine Zeit, in der traditionelle Rollenmuster und gesellschaftliche Erwartungen an Frauen und Männer noch sehr stark waren.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Darstellung der Spannung zwischen individueller Freiheit und gesellschaftlichen Erwartungen, die auch heute noch aktuell ist.",
+          "Die Zeile \"She's awake now, this chick\" kann als Hinweis auf die beginnende Emanzipation der Frau und ihre wachsende Selbstständigkeit gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine interessante kulturwissenschaftliche Perspektive auf die Rolle der Frau in der Gesellschaft der 1950er Jahre.",
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textanalyse (Metapher „turning night into day“) mit gesellschaftlicher Interpretation.",
+          "Erkennt Mehrdeutigkeit und Spannung zwischen Freiheit und Hausfrauenrolle.",
+          "Bezieht den Schlussvers in die Diskussion über Emanzipation ein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"silbernen Sterne, die aus dem Blickfeld verschwinden\" symbolisieren den Übergang von der Nacht zum Tag und damit auch den Übergang von der Freiheit zur Verantwortung.",
+          "Die Aufforderung, \"einen kleinen Kuss\" zu geben, bevor man \"Gute Nacht\" sagt, unterstreicht die Erwartung, dass die Frau ihre Unabhängigkeit aufgibt.",
+          "Die 1950er Jahre waren geprägt von traditionellen Rollenbildern, in denen Frauen oft auf die Rolle der Hausfrau und Mutter reduziert wurden.",
+          "Die Zeile \"She's awake now, this chick\" deutet auf eine Ambiguität hin, dass die Frau vielleicht nicht bereit ist, ihre Unabhängigkeit aufzugeben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine interessante kulturwissenschaftliche Perspektive auf die Rolle der Frau in der Gesellschaft der 1950er Jahre.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden.",
+          "Diese Spannung zwischen der erwarteten Rolle und der tatsächlichen Handlungsfähigkeit der Frau bietet eine interessante Perspektive auf die gesellschaftlichen Normen der Zeit."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge (Metaphern, Refrain, Schlussvers).",
+          "Erkennt die implizite Erwartungshaltung an die weibliche Figur.",
+          "Diskutiert die Ambivalenz des Schlusses."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"silbernen Sterne, die aus dem Blickfeld verschwinden\" symbolisieren den Übergang von der Nacht zum Tag und damit auch den Übergang von der Freiheit zur Verantwortung.",
+          "Die Aufforderung, \"einen kleinen Kuss\" zu geben, bevor man \"Gute Nacht\" sagt, unterstreicht die Erwartung, dass die Frau ihre Unabhängigkeit aufgibt.",
+          "Die 1950er Jahre waren geprägt von traditionellen Rollenbildern, in denen Frauen oft auf die Rolle der Hausfrau und Mutter reduziert wurden.",
+          "Die Zeile \"She's awake now, this chick\" deutet auf eine Ambiguität hin, dass die Frau vielleicht nicht bereit ist, ihre Unabhängigkeit aufzugeben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine interessante kulturwissenschaftliche Perspektive auf die Rolle der Frau in der Gesellschaft der 1950er Jahre.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden.",
+          "Diese Spannung zwischen der erwarteten Rolle und der tatsächlichen Handlungsfähigkeit der Frau bietet eine interessante Perspektive auf die gesellschaftlichen Normen der Zeit."
+        ],
+        "positive_aspekte": [
+          "Bezieht konkrete Textstellen (Cottage, Kochen & Nähen) in die Analyse ein.",
+          "Erkennt die wiederholte Erwartungshaltung im Refrain.",
+          "Diskutiert die mögliche Ambivalenz des Schlussverses."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die \"silbernen Sterne, die aus dem Blickfeld verschwinden\" symbolisieren den Übergang von der Nacht zum Tag und damit auch den Übergang von der Freiheit zur Verantwortung.",
+          "Die Aufforderung, \"einen kleinen Kuss\" zu geben, bevor man \"Gute Nacht\" sagt, unterstreicht die Erwartung, dass die Frau ihre Unabhängigkeit aufgibt.",
+          "Die 1950er Jahre waren geprägt von traditionellen Rollenbildern, in denen Frauen oft auf die Rolle der Hausfrau und Mutter reduziert wurden.",
+          "Die Zeile \"She's awake now, this chick\" deutet auf eine Ambiguität hin, dass die Frau vielleicht nicht bereit ist, ihre Unabhängigkeit aufzugeben."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bietet eine interessante kulturwissenschaftliche Perspektive auf die Rolle der Frau in der Gesellschaft der 1950er Jahre.",
+          "Die emotionale Wirkung und affektive Dimension des Songs sind eng mit dem kulturellen, historischen und gesellschaftlichen Kontext verbunden.",
+          "Diese Spannung zwischen der erwarteten Rolle und der tatsächlichen Handlungsfähigkeit der Frau bietet eine interessante Perspektive auf die gesellschaftlichen Normen der Zeit."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textanalyse (Metaphern, Refrain) mit gesellschaftlicher Kritik.",
+          "Erkennt die implizite Erwartungshaltung an die weibliche Figur.",
+          "Behandelt die Mehrdeutigkeit des Schlussverses."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen fast identische Argumentationsmuster; nur Interpretation 1 liefert zusätzliche, differenziertere Analysen und damit höhere Tiefe. Die restlichen vier zeigen hohe Redundanz und ähnliche Halluzinationsraten.",
+    "empfehlung": "Interpretation 1 ist am ausgewogensten: sie bleibt größtenteils texttreu, liefert substanzielle Analysen und erkennt Ambivalenzen. Für zukünftige Modelle sollte der Fokus darauf liegen, Textbelege klar zu kennzeichnen und spekulative Kontextualisierungen zu minimieren, um Halluzinationen zu reduzieren."
+  }
+}

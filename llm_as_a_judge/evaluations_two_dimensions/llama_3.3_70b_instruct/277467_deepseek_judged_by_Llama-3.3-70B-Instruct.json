@@ -1,0 +1,99 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Pearls before pigs and dung become jewels' beschreibt eine Welt, in der Werte und Normen durcheinandergeraten sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine spirituelle Suche interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Übergang von der Traumwelt in die harte Realität des Alltags gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Pearls before pigs and dung become jewels' beschreibt eine Welt, in der Werte und Dinge ihren Wert verlieren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Frage nach Identität und Selbstfindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Vielfalt der Menschen im Café"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Pearls before pigs and dung become jewels' beschreibt eine Welt, in der Werte und Prioritäten durcheinandergeraten sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als eine Meditation über die Bedeutung von Geben und Teilen verstanden werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Refrain als Aufruf zur Selbstlosigkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Pearls before pigs and dung become jewels' beschreibt eine Welt, in der Werte und Normen durcheinandergeraten sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Frage nach Identität und Selbstfindung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Suche nach Sinn und Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Pearls before pigs and dung become jewels' beschreibt eine Welt, in der Werte und Bedeutung durcheinandergeraten sind."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als Aufruf zur Verbindung mit anderen Menschen interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt den Refrain als Aufruf zur Selbstlosigkeit"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie den Übergang von der Traumwelt in die harte Realität des Alltags gut beschreibt und den Refrain als Aufruf zur Selbstlosigkeit interpretiert"
+  }
+}

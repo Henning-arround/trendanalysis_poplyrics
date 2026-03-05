@@ -1,0 +1,99 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe wird als etwas Reines und Tiefes beschrieben, das in ihm vorhanden ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft der Liebe, die in der Lage ist, selbst aus tiefster Verzweiflung herauszuführen und einen neuen Weg zu weisen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die emotionale Verbindung zwischen dem Protagonisten und der geliebten Person gut."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Augen symbolisieren die Hoffnung und die Möglichkeit, von der Hoffnungslosigkeit befreit zu werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wahre Liebe wird als etwas Reines und Tiefes beschrieben, das in der Seele des Protagonisten vorhanden ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht nach echter Liebe und der Hoffnung, die diese bringt."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Augen symbolisieren eine tiefe Verbindung und das Gefühl, verstanden und akzeptiert zu werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft der Liebe, die es vermag, selbst aus tiefster Verzweiflung herauszuführen und ein neues Lebensgefühl zu schenken."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Bedeutung der Augen als Leuchtturm in der Dunkelheit gut."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Liebe, die er in diesen Augen sieht, ist rein und tief in ihm."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wahre Liebe wird als etwas Reines und Tiefes beschrieben, das in der Seele des Protagonisten vorhanden ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht nach echter Liebe und der Hoffnung, die diese bringt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Augen symbolisieren die Hoffnung auf eine echte Verbindung und Liebe."
+        ],
+        "oberflächliche_aussagen": [
+          "Die transformative Kraft der Liebe, die den Protagonisten aus seiner Einsamkeit herausführt und ihm ein neues Leben ermöglicht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht nach einer tiefen, reinen und echten Liebe gut."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die emotionale Verbindung zwischen dem Protagonisten und der geliebten Person gut beschreibt und eine gute Balance zwischen Textreue und analytischer Tiefe aufweist."
+  }
+}

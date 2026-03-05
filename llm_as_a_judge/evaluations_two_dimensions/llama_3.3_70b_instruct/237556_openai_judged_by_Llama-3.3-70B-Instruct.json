@@ -1,0 +1,99 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik, getragen von Springfields warmem Timbre, unterstreicht die Verletzlichkeit und den unerschütterlichen Optimismus"
+        ],
+        "oberflächliche_aussagen": [
+          "Die schlichte, fast kindliche Wortwahl entsteht ein Gefühl von Unmittelbarkeit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung von 'I don’t know' und 'wrong or right' ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Motiv des Weinen in Abwesenheit und das Fliegen der Zeit beim Wiedersehen erzeugen einen Kontrast zwischen emotionaler Leere und euphorischer Beschleunigung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Struktur des Liedes, die sich in Schleifen von Refrains und Versen verliert, verstärkt das Gefühl von Endlosschleife"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der inneren Unsicherheit der Sprecherin ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Distanz nicht nur räumlich, sondern auch psychisch belastend wirkt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die schlichte, fast kindliche Sprache entsteht ein Gefühl von Unmittelbarkeit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung von 'I just hope that we can get together soon' ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die lyrische Ich-Stimme schwankt zwischen Unsicherheit und einer unerschütterlichen Hoffnung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambivalenz spiegelt das typische Spannungsfeld von Liebe und Angst wider"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der musikalischen Unterstützung des Wunsches ist gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeit als Spiegel der inneren Gefühlslage"
+        ],
+        "oberflächliche_aussagen": [
+          "Die schlichte, fast kindliche Sprache entsteht ein Gefühl von Unmittelbarkeit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholung von 'Wrong or right, day and night' ist gut durchdacht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent in ihrer Analyse, aber es gibt einige Wiederholungen von Aussagen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe, wie in Interpretation 1 und 3 zu sehen ist"
+  }
+}

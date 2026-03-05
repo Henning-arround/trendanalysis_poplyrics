@@ -1,0 +1,124 @@
+{
+  "song": "Dance Dance Dance - Arabesque (1983)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 3,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Produkt seiner Zeit betrachtet werden – kulturelle Einordnung ohne Textbeleg.",
+          "Die Wiederholungen werden als hypnotische Aufforderung interpretiert – spekulativ.",
+          "„Aerobic dancing has you on the hook“ wird als Hinweis auf die damalige Fitnessbewegung gedeutet – externe Kontextualisierung.",
+          "Die emotionale Wirkung wird als aufmunternd und motivierend beschrieben – nicht aus dem Text ableitbar.",
+          "Die „symbolische Ordnung der Tanzbewegung“ wird als soziales Ritual bezeichnet – reine Interpretation."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Verwendet konkrete Textstellen (z. B. „Why, why do you stand aside…“).",
+          "Geht über reine Wiederholungen hinaus und führt das Motiv der Schönheit („To be beautiful“) an.",
+          "Erkennt die Wiederholung von „Shake a leg“ und „Dance, dance, dance“ als stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit und spiegelt gesellschaftliche Trends wider.",
+          "Die Wiederholungen werden als hypnotische Aufforderung interpretiert.",
+          "Die Zeilen über Aerobic deuten auf die 80er‑Jahre‑Fitness‑Welle hin.",
+          "Der Song übt sozialen Druck aus, um Schönheitsnormen zu erfüllen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene kann in der Verbindung zwischen Tanz, Körper und Gesellschaft gesehen werden.",
+          "Die Ambiguität zwischen Bewegung und Perfektion wird als Spannung zwischen Freiheit und Zwang beschrieben."
+        ],
+        "positive_aspekte": [
+          "Klare Benennung der zentralen Botschaft (Aufforderung zum Tanzen).",
+          "Hinweis auf stilistische Mittel (Wiederholungen)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit und spiegelt gesellschaftliche Trends wider.",
+          "Die Wiederholungen werden als hypnotische Aufforderung interpretiert.",
+          "Die Zeilen über Aerobic deuten auf die 80er‑Jahre‑Fitness‑Welle hin.",
+          "Der Song übt sozialen Druck aus, um Schönheitsnormen zu erfüllen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene kann in der Verbindung zwischen Tanz, Körper und Gesellschaft gesehen werden.",
+          "Die Ambiguität zwischen Bewegung und Perfektion wird als Spannung zwischen Freiheit und Zwang beschrieben."
+        ],
+        "positive_aspekte": [
+          "Bezieht sich konkret auf Textstellen („Why, why do you stand aside…“).",
+          "Erkennt die Wiederholung von Schlüsselphrasen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit und spiegelt gesellschaftliche Trends wider.",
+          "Die Wiederholungen werden als hypnotische Aufforderung interpretiert.",
+          "Die Zeilen über Aerobic deuten auf die 80er‑Jahre‑Fitness‑Welle hin.",
+          "Die Gegenüberstellung von „Warming up“ und „Cooling down“ wird als innerer Konflikt gedeutet.",
+          "Der Song übt sozialen Druck aus, um Schönheitsnormen zu erfüllen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene kann in der Verbindung zwischen Tanz, Körper und Gesellschaft gesehen werden.",
+          "Die Ambiguität zwischen Bewegung und Perfektion wird als Spannung zwischen Freiheit und Zwang beschrieben."
+        ],
+        "positive_aspekte": [
+          "Nutzt konkrete Textzitate zur Untermauerung der Interpretation.",
+          "Erkennt das Motiv der Wiederholung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Produkt seiner Zeit und spiegelt gesellschaftliche Trends wider.",
+          "Die Wiederholungen werden als hypnotische Aufforderung interpretiert.",
+          "Die Zeilen über Aerobic deuten auf die 80er‑Jahre‑Fitness‑Welle hin.",
+          "Der Song übt sozialen Druck aus, um Schönheitsnormen zu erfüllen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die tiefere Bedeutungsebene kann in der Verbindung zwischen Tanz, Körper und Gesellschaft gesehen werden.",
+          "Die Ambiguität zwischen Bewegung und Perfektion wird als Spannung zwischen Freiheit und Zwang beschrieben."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Botschaft (Aufforderung zum Tanzen).",
+          "Bezieht sich auf wiederholte Phrasen im Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen fast identische Argumentationsmuster, wodurch die Varianz gering ist. Nur Interpretation 3 bietet leicht mehr differenzierte, wenn auch spekulative, Analysen.",
+    "empfehlung": "Ein Ansatz, der konkrete Textbelege nutzt, aber gleichzeitig tiefere, textbasierte Analysen (z. B. strukturelle, metrische oder rhetorische Muster) einbringt, wäre wünschenswert. Derzeit fehlt es an substantieller Textanalyse, und die meisten Aussagen sind erfundene Kontextualisierungen."
+  }
+}

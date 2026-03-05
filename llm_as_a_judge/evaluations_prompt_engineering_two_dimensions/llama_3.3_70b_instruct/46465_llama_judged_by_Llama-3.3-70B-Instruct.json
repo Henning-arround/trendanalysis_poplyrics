@@ -1,0 +1,99 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Scratchen des Rückens' und ihre Bedeutung für die Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gegenüberstellung von 'Oh mercy mercy' und 'Oh lawdy lawdy'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität und die Verwendung literarischer Stilmittel in der Musik"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Wiederholung von 'Oh mercy mercy, oh lawdy lawdy' und ihre emotionale Wirkung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguitäten und Widersprüche im Song"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Scratchen des Rückens' und ihre Bedeutung für die Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Oh scratching my back' am Ende des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität und die Verwendung literarischer Stilmittel in der Musik"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Scratchen des Rückens' und ihre Bedeutung für die Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguitäten und Widersprüche im Song"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher 'Scratchen des Rückens' und ihre Bedeutung für die Beziehungen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metapher 'Scratchen des Rückens' und ihre Bedeutung für die Beziehungen",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Konsistenz in Bezug auf die Analyse der Metapher 'Scratchen des Rückens' und ihre Bedeutung für die Beziehungen"
+  }
+}

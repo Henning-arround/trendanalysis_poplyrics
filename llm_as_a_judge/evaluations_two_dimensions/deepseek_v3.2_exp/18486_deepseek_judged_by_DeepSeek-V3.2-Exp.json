@@ -1,0 +1,94 @@
+{
+  "song": "Turn, Turn, Turn - The Simon Sisters (1966)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitloses und universelles Werk"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Gegensätzen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitloses und universelles Werk"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Gegensätzen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitloses und universelles Werk"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Gegensätzen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitloses und universelles Werk"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Gegensätzen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitloses und universelles Werk"
+        ],
+        "positive_aspekte": [
+          "gute Textanalyse",
+          "Berücksichtigung von Gegensätzen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen zeigen eine hohe Konsistenz in ihrer Analyse",
+    "empfehlung": "Die Interpretationen zeigen eine gute Balance zwischen Textreue und analytischer Tiefe, jedoch könnten einige mehr spezifische Details und weniger Allgemeinplätze enthalten."
+  }
+}

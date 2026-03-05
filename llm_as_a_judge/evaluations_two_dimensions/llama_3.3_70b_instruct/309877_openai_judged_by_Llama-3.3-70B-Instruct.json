@@ -1,0 +1,99 @@
+{
+  "song": "Coffee - Kelly Rowland (2020)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Protagonistin positioniert sich als einzigartige Quelle emotionaler und körperlicher Erholung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe soll den Alltag erleichtern, das Einkommen sichern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft körperliche Lust mit alltäglichen Ritualen und betont die Dringlichkeit des Moments"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Bild der 'bitches' suggeriert ein Machtspiel, in dem die Frau sowohl Beschützerin als auch Verführerin ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung von 'wake up' und 'stay up' verdeutlicht das Wechselspiel zwischen Erwachen und Verweilen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Idee, dass sexuelle Nähe als Stress- und Energiespender fungiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sprecherin vermittelt eine Mischung aus Selbstbewusstsein und einer fast schon verzweifelten Angst"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe soll den Alltag überbrücken und die Realität des Arbeitslebens kurzzeitig ausblenden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft körperliche Lust mit alltäglichen Ritualen und betont die Dringlichkeit des Moments"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sprecherin positioniert sich als seltene, heilende Kraft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe soll den Alltag erleichtern und das Einkommen sichern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft körperliche Lust mit alltäglichen Ritualen und betont die Dringlichkeit des Moments"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sprecherin positioniert sich selbst als 'rarity' und 'therapy'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Liebe soll den Alltag überbrücken und die Realität des Arbeitslebens kurzzeitig ausblenden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation verknüpft körperliche Lust mit alltäglichen Ritualen und betont die Dringlichkeit des Moments"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und verknüpft körperliche Lust mit alltäglichen Ritualen"
+  }
+}

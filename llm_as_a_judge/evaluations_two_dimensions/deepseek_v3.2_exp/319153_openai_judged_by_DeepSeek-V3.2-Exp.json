@@ -1,0 +1,99 @@
+{
+  "song": "Light My Fire - Bananafishbones (2002)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein wirrer Wortfluss, doch er lässt sich als Collage jugendlicher Sehnsüchte und urbaner Entfremdung deuten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Zeile 'Saturday Night Nothing To Do' etabliert einen Rahmen von Langeweile und Leere"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text wirkt wie ein kaleidoskopischer Streifzug durch nächtliche Sinneseindrücke"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'I Lose My Liver In The Liverpool' verknüpft ein körperliches Organ mit einer geografischen Metapher"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine kreative und textbezogene Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song 'Light My Fire' wirkt wie ein nächtlicher Streifzug durch ein Labyrinth aus flüchtigen Eindrücken"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Bitte 'Show Me Baby Where It Hurts' verwandelt Schmerz in ein Angebot zur Intimität"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Textstruktur und -inhalte."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text von 'Light My Fire' wirkt auf den ersten Blick wie ein wirrer Wortfluss"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeilen 'Show Me Baby Where It Hurts' und 'Kissing Snowflakes For Desert' verbinden Schmerz und Zärtlichkeit mit paradoxen Naturbildern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Textinhalte und -struktur."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text von 'Light My Fire' wirkt wie ein kaleidoskopischer Streifzug durch nächtliche Sinneseindrücke"
+        ],
+        "oberflächliche_aussagen": [
+          "Die abschließende Zeile 'Let’s Get It Up In Style' verleiht dem Ganzen einen ironischen Abschluss"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr tiefgehende und textbezogene Analyse."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textinhalte und -struktur.",
+    "empfehlung": "Die Interpretationen sollten weiterhin auf einer Balance zwischen Textreue und analytischer Tiefe basieren."
+  }
+}

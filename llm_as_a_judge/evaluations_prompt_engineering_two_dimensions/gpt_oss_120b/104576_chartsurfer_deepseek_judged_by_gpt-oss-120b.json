@@ -1,0 +1,134 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die deutsche Schlager‑Musik geprägt von einer gewissen Naivität und Unschuld.",
+          "Der Song ist ein Beispiel dafür, wie Musik verwendet wurde, um eine heile Welt zu beschwören."
+        ],
+        "oberflächliche_aussagen": [
+          "Der zentrale Botschaft des Songs ist jedoch komplexer und kann als Hymne auf die Einheit von kulinarischen Vorlieben, Tanz und Partnerschaft interpretiert werden.",
+          "Die Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft ist auffällig.",
+          "Die Zeile ... kann als Hinweis auf die ambivalente Natur von Sauerkraut interpretiert werden.",
+          "Der Song kann auch als ein Produkt seiner Zeit interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist jedoch nicht zu unterschätzen, da er eine Art nostalgische Sehnsucht nach einer einfachen, unkomplizierten Zeit wachruft."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die wiederholten Textpassagen (z. B. Refrain, Zeile über Sauerkraut‑Polka).",
+          "Erkennt die einfache, fröhliche Grundstimmung des Liedes."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist die Nachkriegszeit in Deutschland, in der die Sehnsucht nach Frieden, Sicherheit und Normalität groß war.",
+          "Eine tiefere Bedeutungsebene des Songs könnte darin liegen, dass die Sauerkraut‑Polka‑Verbindung als eine Art von kultureller Identität interpretiert wird, die die Verbindung zwischen den Menschen in einer Gemeinschaft stärkt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs ist jedoch komplexer, wenn man die Textebene genauer analysiert.",
+          "Die ständige Wiederholung der Zeilen schafft eine Art von ritueller Struktur, die die Bedeutung der Sauerkraut‑Polka‑Verbindung unterstreicht.",
+          "Sauerkraut‑Polka‑Verbindung kann jedoch als Symbol für eine unbeschwerte, fröhliche Lebensart interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist vor allem fröhlich und unbeschwert, die affektive Dimension ist stark auf die positive Darstellung der Beziehung ausgerichtet.",
+          "Insgesamt zeigt der Song ... eine komplexe Bedeutungsebene, die über die Oberfläche eines einfachen Schlagers hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der formalen Stilmittel (Wiederholung, Rhythmus).",
+          "Verknüpft Textinhalte mit einer plausiblen, wenn auch spekulativen, kulturellen Deutung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die deutsche Schlager‑Musik geprägt von einer gewissen Naivität und Unschuld.",
+          "Der Song ist ein Beispiel dafür, wie Musik verwendet wurde, um eine heile Welt zu beschwören."
+        ],
+        "oberflächliche_aussagen": [
+          "Der zentrale Botschaft des Songs ist jedoch komplexer und kann als Hymne auf die Einheit von kulinarischen Vorlieben, Tanz und Partnerschaft interpretiert werden.",
+          "Die Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft ist auffällig.",
+          "Sauerkraut und Polka werden zu Symbolen für Gemeinsamkeit und Harmonie.",
+          "Die Zeile ... kann als Hinweis auf die ambivalente Natur von Sauerkraut interpretiert werden.",
+          "Der Song kann auch als ein Produkt seiner Zeit interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist jedoch nicht zu unterschätzen, da er eine Art nostalgische Sehnsucht nach einer einfachen, unkomplizierten Zeit wachruft.",
+          "Insgesamt zeigt der Song ... eine tiefere Bedeutungsebene, die über die Oberfläche eines einfachen Party‑Songs hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Erkennt die Wiederholung des Refrains und die zentrale Rolle von Sauerkraut und Polka im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die deutsche Schlager‑Musik geprägt von einer gewissen Naivität und Unschuld.",
+          "Der Song ist ein Beispiel dafür, wie Musik verwendet wurde, um eine heile Welt zu beschwören."
+        ],
+        "oberflächliche_aussagen": [
+          "Der zentrale Botschaft des Songs ist jedoch komplexer, wenn man die Textebene genauer analysiert.",
+          "Die Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft ist auffällig.",
+          "Sauerkraut und Polka werden zu Symbolen für Gemeinsamkeit und Harmonie.",
+          "Die Zeile ... kann als Hinweis auf die ambivalente Natur von Sauerkraut interpretiert werden.",
+          "Diese Ambiguität wird auch in der Wiederholung des Refrains deutlich, der eine Art rituelle Bestätigung der Partnerschaft darstellt.",
+          "Der Song kann auch als ein Produkt seiner Zeit interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist jedoch nicht zu unterschätzen, da er eine Art nostalgische Sehnsucht nach einer einfachen, unkomplizierten Zeit wachruft.",
+          "Insgesamt kann der Song ... als ein vielschichtiges Gebilde interpretiert werden, das sowohl die Oberfläche einer fröhlichen, unbeschwerten Welt als auch tiefere Bedeutungsebenen und symbolische Ordnungen aufweist."
+        ],
+        "positive_aspekte": [
+          "Nimmt die zentrale Textzeile (Refrain) als Ausgangspunkt für die Analyse."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "In den 1960er Jahren war die deutsche Schlager‑Musik geprägt von einer gewissen Naivität und Unschuld.",
+          "Der Song ist ein Beispiel dafür, wie Musik verwendet wurde, um eine heile Welt zu beschwören."
+        ],
+        "oberflächliche_aussagen": [
+          "Der zentrale Botschaft des Songs ist jedoch komplexer, wenn man die Textebene genauer analysiert.",
+          "Die Verwendung von kulinarischen und tänzerischen Elementen als Metaphern für die Partnerschaft ist auffällig.",
+          "Sauerkraut und Polka werden zu Symbolen für Gemeinsamkeiten und Harmonie.",
+          "Die Zeile ... kann als Hinweis auf die ambivalente Natur von Sauerkraut interpretiert werden.",
+          "Diese Ambiguität wird auch in der Wiederholung des Refrains deutlich, der eine Art rituelle Bestätigung der Partnerschaft darstellt.",
+          "Der Song kann auch als ein Produkt seiner Zeit interpretiert werden.",
+          "Die emotionale Wirkung des Songs ist jedoch nicht zu unterschätzen, da er eine Art nostalgische Sehnsucht nach einer einfachen, unkomplizierten Zeit wachruft.",
+          "Insgesamt zeigt der Song ... eine tiefere Bedeutungsebene, die über die Oberfläche eines einfachen Party‑Songs hinausgeht."
+        ],
+        "positive_aspekte": [
+          "Erwähnt korrekt die wiederholte Struktur des Liedes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 2.2,
+    "konsistenz_über_wiederholungen": "Interpretationen 2‑5 sind nahezu identisch und zeigen wenig Variation; Interpretation 1 bietet mehr differenzierte Analyse und damit höhere Tiefe.",
+    "empfehlung": "Ein Ansatz, der konkrete Textbelege mit moderaten, gut begründeten Kontextualisierungen kombiniert (wie Interpretation 1), liefert die ausgewogenste Bewertung. Zu viele vage, historisch spekulative Aussagen reduzieren die Tiefe und erhöhen die Halluzinationsrate."
+  }
+}

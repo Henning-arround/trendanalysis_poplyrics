@@ -1,0 +1,99 @@
+{
+  "song": "The Flat Foot Floogee - Louis Armstrong (1954)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität des Textes lässt offene Fragen nach dem Verhältnis von individueller Bewältigungsstrategie und kollektiver Zugehörigkeit entstehen"
+        ],
+        "oberflächliche_aussagen": [
+          "ein paradoxes Bild von Flucht und Gemeinschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die historischen und kulturellen Kontexte des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "post-war-Optimismus"
+        ],
+        "oberflächliche_aussagen": [
+          "eine thematische Dualität zwischen Flucht in den Rhythmus und einer fast resignativen Ablehnung der Lasten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die stilistischen und metaphorischen Elemente des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine subversive Strategie, die kritische Inhalte hinter einer fröhlichen Fassade zu verbergen"
+        ],
+        "oberflächliche_aussagen": [
+          "ein Spannungsfeld zwischen öffentlicher Unterhaltung und impliziter Kritik an gesellschaftlichen Belastungen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Bedeutung von Nonsens-Silben und Wiederholungen im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "eine Phase, in der Jazz und Swing als Ausdruck von Befreiung und sozialer Durchmischung dienten"
+        ],
+        "oberflächliche_aussagen": [
+          "ein paradoxes Verhältnis von Flucht und Gemeinschaft"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Spannung zwischen Selbstabgrenzung und sozialer Integration"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "ein kollektives Stimmungsaufbäumen"
+        ],
+        "oberflächliche_aussagen": [
+          "ein kulturelles Artefakt, das sowohl Flucht als auch Gemeinschaft zugleich suggeriert"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Bedeutung von Wiederholungen und lautlichen Elementen im Song"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

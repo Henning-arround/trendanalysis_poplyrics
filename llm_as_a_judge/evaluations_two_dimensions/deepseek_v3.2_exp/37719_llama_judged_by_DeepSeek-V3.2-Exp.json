@@ -1,0 +1,95 @@
+{
+  "song": "Best Night - Justice Crew (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Get crazy, get stupid"
+        ],
+        "oberflächliche_aussagen": [
+          "ein perfekter Soundtrack für eine unvergessliche Nacht"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse von wiederkehrenden Zeilen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ein Tribut an die Freude und die Ekstase des Lebens"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ein Tribut an die Freude und die Ekstase des Lebens"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "ein Tribut an die Freude und die Ekstase des Lebens"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Wiederholung von 'Oh whoa' am Ende des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "ein hymnischer Aufruf, das Leben zu genießen"
+        ],
+        "positive_aspekte": [
+          "Textbezogenheit",
+          "Analyse von wiederkehrenden Zeilen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Textbezogenheit, aber eine große Varianz in der Tiefe der Analyse",
+    "empfehlung": "Die erste Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen"
+  }
+}

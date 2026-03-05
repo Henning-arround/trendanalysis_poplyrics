@@ -1,0 +1,99 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die surrealen Szenen mit 'Hat check girl', 'Siamese twin' und 'burned gloves' erzeugen ein Bild von Verstrickungen und verlorenen Identitäten"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wirkt wie ein kaleidoskopisches Puzzle"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Diskrepanz zwischen öffentlicher Fassade und innerer Beobachtung ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Hear no evil, See no evil, Speak no evil' werden zu einem Mantra, das die kollektive Ignoranz gegenüber Verbrechen und Schuld thematisiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied zeichnet ein Bild von Identitätsfragmentierung und gesellschaftlicher Maskerade"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verdrängung von Wahrheit und Schuld ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aufzählung von Alltagsgegenständen fungiert als Metaphern für mechanische, aber zugleich zerbrechliche Verbindungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Motiv der drei 'no evil'-Reime erinnert an die bekannten Affen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Fragmentierung und der mechanischen Verbindungen ist gut durchdacht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'A body blow / On the table waiting' vermitteln das Bild einer festgehaltenen, unbeweglichen Gewalt"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied thematisiert die Zerrissenheit zwischen öffentlicher Fassade und innerer Beobachtung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verdrängung von Wahrheit und Schuld ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederkehrende Motive 'Hear no evil, See no evil, Speak no evil' verweisen auf das klassische Affen-Dreigestirn"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Lied wirkt wie ein kaleidoskopisches Puzzle"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Diskrepanz zwischen öffentlicher Fassade und innerer Beobachtung ist gut durchdacht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe aufweist"
+  }
+}

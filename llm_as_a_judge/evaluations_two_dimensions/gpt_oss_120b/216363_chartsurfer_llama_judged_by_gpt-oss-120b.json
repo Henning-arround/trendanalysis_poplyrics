@@ -1,0 +1,120 @@
+{
+  "song": "I Cried for You - Ray Charles (1964)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist hat nun die Oberhand gewonnen.",
+          "Der Text deutet darauf hin, dass er in seiner Vergangenheit unter der Trennung gelitten hat, aber nun eine neue Liebe gefunden hat, die ihn glücklicher macht.",
+          "Die Wiederholung der Zeile wird zu einem triumphierenden Ausdruck, da der Protagonist nun die Situation kontrolliert und seine ehemalige Liebe leidet.",
+          "Der Song ist ein cathartischer Ausdruck der Befreiung und des Neuanfangs, in dem der Protagonist seine emotionale Stärke und Unabhängigkeit demonstriert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung."
+        ],
+        "positive_aspekte": [
+          "Identifiziert korrekt die zentrale Textzeile „I cried for you, now it's your turn to cry over me“ und leitet daraus die Rollenvertauschung ab.",
+          "Erwähnt die Zeilen „every road must have a turning“ und „a love just a little bit truer“ als Hinweis auf Wandel."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist hat nun die Oberhand gewonnen.",
+          "Der Rollentausch symbolisiert die Befreiung und den Neuanfang des Protagonisten, der inzwischen eine neue, treuere Liebe gefunden hat.",
+          "Die Zeile „Every road must have a turning“ bedeutet, dass jeder Weg eine Wende nehmen muss und der Protagonist diese Wende genommen hat, indem er seine alte Liebe hinter sich gelassen hat.",
+          "Durch die Erkenntnis, dass er eine „love just a little bit truer“ und ein „heart just a little bit newer“ gefunden hat, wird gezeigt, dass er aus seiner Vergangenheit gelernt und sich weiterentwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Idee des Rollenwechsels im Refrain.",
+          "Bezieht die Zeile „Every road must have a turning“ in die Interpretation ein."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist hat nun die Oberhand gewonnen.",
+          "Der Text deutet darauf hin, dass er in seiner Vergangenheit unter der Trennung gelitten hat, aber nun eine neue Liebe gefunden hat, die ihn glücklicher macht.",
+          "Die Wiederholung der Zeile wird zu einem triumphierenden Ausdruck, da der Protagonist nun die Situation kontrolliert und seine ehemalige Liebe leidet.",
+          "Der Song ist ein cathartischer Ausdruck der Befreiung und des Neuanfangs, in dem der Protagonist seine emotionale Stärke und Unabhängigkeit demonstriert.",
+          "Die simple, aber effektive Melodie und die markante Stimme von Ray Charles verstärken die emotionale Intensität des Songs und machen ihn zu einem klassischen Beispiel für die Soul‑Musik der 1960er Jahre."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung."
+        ],
+        "positive_aspekte": [
+          "Richtiges Zitieren der Schlüsselzeilen des Songs.",
+          "Erkennt die Wiederholung des Refrains als stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist hat nun die Oberhand gewonnen.",
+          "Der Rollentausch symbolisiert die Befreiung und den Neuanfang des Protagonisten, der inzwischen eine neue, treuere Liebe gefunden hat.",
+          "Die Zeile „Every road must have a turning“ bedeutet, dass jeder Weg eine Wende nehmen muss und der Protagonist diese Wende genommen hat, indem er seine alte Liebe hinter sich gelassen hat.",
+          "Durch die Erkenntnis, dass er eine „love just a little bit truer“ und ein „heart just a little bit newer“ gefunden hat, wird gezeigt, dass er aus seiner Vergangenheit gelernt und sich weiterentwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung."
+        ],
+        "positive_aspekte": [
+          "Identifiziert die zentrale Thematik des Rollenwechsels.",
+          "Bezieht die Textzeile „every road must have a turning“ in die Analyse ein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Protagonist hat nun die Oberhand gewonnen.",
+          "Der Rollentausch symbolisiert die Befreiung und den Neuanfang des Protagonisten, der inzwischen eine neue, treuere Liebe gefunden hat.",
+          "Die Zeile „Every road must have a turning“ bedeutet, dass jeder Weg eine Wende nehmen muss und der Protagonist diese Wende genommen hat, indem er seine alte Liebe hinter sich gelassen hat.",
+          "Durch die Erkenntnis, dass er eine „love just a little bit truer“ und ein „heart just a little bit newer“ gefunden hat, wird gezeigt, dass er aus seiner Vergangenheit gelernt und sich weiterentwickelt hat."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine emotionale Reflexion über eine vergangene Beziehung."
+        ],
+        "positive_aspekte": [
+          "Richtige Identifikation des Refrains als Kern der Aussage.",
+          "Verknüpft die Zeile „every road must have a turning“ mit dem Motiv des Wandels."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": null,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen nahezu dieselben Inhalte; die Varianz ist extrem gering.",
+    "empfehlung": "Die vorliegenden Analysen zeigen ein hohes Maß an Halluzination (über 80 % erfundene Aussagen) und nur geringe analytische Tiefe. Zukünftige Interpretationen sollten sich stärker auf nachweisbare Textstellen stützen, spekulative Aussagen klar kennzeichnen und mehr differenzierte, textbasierte Analysen bieten, um sowohl Halluzinationen zu reduzieren als auch die interpretative Tiefe zu erhöhen."
+  }
+}

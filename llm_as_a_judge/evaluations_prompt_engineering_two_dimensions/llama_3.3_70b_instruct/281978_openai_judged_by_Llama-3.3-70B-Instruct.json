@@ -1,0 +1,99 @@
+{
+  "song": "You Know I Miss You - Fats Domino (1952)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die thematische Komplexität erhöht, weil das Subjekt des Verlangens nicht eindeutig definiert ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach persönlicher und gesellschaftlicher Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und der Metapher des klarer werdenden Himmels"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Botschaft ambivalent, weil das 'she' im Refrain sowohl als konkrete Geliebte als auch als abstrakte Idee von Liebe gelesen werden kann"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität erhöht"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Wiederholungen und der Metapher des klarer werdenden Himmels"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die narrative Struktur bleibt fragmentarisch"
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene, fast improvisatorische Form des frühen Rock-'n'-Roll"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und der Metapher des klarer werdenden Himmels"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Gleichsetzung von Wetter und zwischenmenschlicher Nähe erzeugt eine Spannung zwischen Natur und menschlicher Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Komplexität erhöht"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Wiederholungen und der Metapher des klarer werdenden Himmels"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die monotone Wiederholung ein Gefühl von Sehnsucht erzeugt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sehnsucht nach persönlicher und gesellschaftlicher Nähe"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und der Metapher des klarer werdenden Himmels"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die besten Interpretationen (1, 3, 5) zeigen eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Verständnis für die Metaphern und Wiederholungen im Songtext."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Nachkriegszeit als Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die romantische Sehnsucht einer Ära"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Wortwahl und Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Broadway-Produktion als historischer Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die einfache, aber eindringliche Wiederholung von Tanz und Liebe"
+        ],
+        "positive_aspekte": [
+          "Erkennung der emotionalen Intensität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die post-kriegszeitliche Sehnsucht nach Stabilität"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vorstellung einer unsterblichen, aber zugleich vergänglichen Harmonie"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Wortwahl"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Selbstbezogenheit des lyrischen Ichs"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vorstellung des Tanzes selbst"
+        ],
+        "positive_aspekte": [
+          "Erkennung der Exklusivität der Zuneigung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die romantische Ideologie der Nachkriegszeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Vorstellung einer zeitlosen, fast märchenhaften Sehnsucht"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Wortwahl"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Metaphern und Wortwahl, aber variieren in der Tiefe und der Anzahl der halluzinierten Aussagen.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe. Es ist wichtig, kreative Interpretationen zu vermeiden, die nicht durch den Text gestützt werden."
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "song": "Breakout - Beverley Knight (2009)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Bezieht sich konsequent auf konkrete Textzeilen (z. B. „Standing in the shadows“, „When you're looking like you do“).",
+          "Erklärt, wie einzelne Zeilen zur Gesamtbotschaft von Befreiung und Selbstentfaltung beitragen.",
+          "Verknüpft wiederholte Refrain‑Passagen mit ihrer funktionalen Bedeutung im Song."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare, textbasierte Analyse ohne spekulative Biografie‑ oder Genre‑Angaben.",
+          "Nutzt mehrere Textstellen (z. B. „Get your fine ass on the floor“, „Jimmy Choo's“) zur Untermauerung der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Strukturiert die Analyse in nachvollziehbare Schritte (Einleitung, Zeilen‑Bezug, Gesamtaussage).",
+          "Bleibt bei allen Aussagen eng am Wortlaut des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erweitert die Analyse um weitere Textzeilen („You can't spend the night alone“, „Let the music do you right“).",
+          "Zeigt damit ein etwas höheres Maß an Detailtiefe gegenüber den anderen Versionen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Argumentationskette, die den Song als Aufruf zur Selbstbefreiung in einer Club‑Umgebung darstellt.",
+          "Vermeidet jegliche spekulative Kontextualisierung außerhalb des Textes."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen im Wesentlichen dieselben Punkte; die Varianz liegt nur in der Anzahl der zitierten Zeilen. Die inhaltliche Konsistenz ist hoch, jedoch fehlt an tiefergehender Mehrdeutigkeit oder alternativen Lesarten.",
+    "empfehlung": "Ein Ansatz, der mehr unterschiedliche Textstellen einbezieht (wie Interpretation 2) erzielt leicht höhere analytische Tiefe, bleibt dabei aber vollständig texttreu. Zukünftige Modelle sollten versuchen, Ambivalenzen und mögliche Gegeninterpretationen zu explorieren, um die Tiefe‑Score weiter zu steigern, ohne Halluzinationen einzuführen."
+  }
+}

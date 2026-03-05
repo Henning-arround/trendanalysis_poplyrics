@@ -1,0 +1,122 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile „you’ll build your Sodom like I knew you would“ impliziere eine mythologisch‑biblische Schuld, die über das eigentliche Bild hinausgeht.",
+          "Die Annahme, dass das „Sodom“ noch nicht feststeht, ist spekulativ und nicht aus dem Text ableitbar."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt bewusst mehrdeutig.",
+          "Die offene Frage lässt das Ziel unbeantwortet und erzeugt ein bewusstes Unbehagen."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Verknüpfung von Textstellen (z. B. Licht‑/Dunkel‑Kontrast, Galley‑Slaves, Sodom).",
+          "Durchgehend textbasierte Analyse, kaum spekulative Historisierung.",
+          "Erkennt die Ambivalenz und lässt mehrere Deutungsoptionen offen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Werk sei in die späte 1980‑Jahre des Kalten Krieges einzuordnen.",
+          "Es kritisiere die wachsende Konsum‑ und Neoliberal‑Kultur.",
+          "Der Song sei eine Allegorie auf die westliche Moderne, die in ein „endless sea“ der Selbstzerstörung steuert."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kritisiert, ohne ein konkretes Gegenmodell zu bieten, und lässt den Hörer in Unruhe zurück.",
+          "Die wiederholte Wiederholung von „pay tomorrow“ betont strukturelle Ambiguität."
+        ],
+        "positive_aspekte": [
+          "Gute Erfassung von Bildkontrasten (Licht vs. Dunkelheit, Sodom).",
+          "Klare Benennung von wiederkehrenden Motiven („you will pay tomorrow“, „save me from tomorrow“).",
+          "Verknüpft Text mit historischen Tendenzen, wenn auch spekulativ."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die maritime Symbolik sei eine Allegorie für historische Kolonialexpeditionen.",
+          "Gold, Baumwolle und Perlen werden als Hinweis auf postkoloniale Machtstrukturen interpretiert.",
+          "Der Satz „you’ll build your Sodom“ verweise auf eine moderne „Stadt der Sünde“."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song sei ein bewusst offenes Werk, das die Ambiguität des modernen Schicksals betont.",
+          "Die offene Frage lässt das Schiff als Symbol für einen nie endenden Zyklus von Gier und Verzweiflung stehen."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Textbildern (Avarice, Galley‑Slaves, Sodom).",
+          "Erkennt die Wiederholung von „you will pay tomorrow“ als Refrain‑Mechanismus.",
+          "Behandelt die Spannung zwischen Hilferuf und Ablehnung des Schiffs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die „warning waves“ könnten die aktuelle Umweltkrise andeuten.",
+          "Der Song sei ein Spiegel der Globalisierung und kritisiere Konsum‑ und Ausbeutungsstrukturen.",
+          "Die Zeile über Galley‑Slaves verweise explizit auf historische Sklaverei."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibe in einem permanenten Zustand von Widerspruch und Ungewissheit.",
+          "Der Song halte die Kritik an einer kollektiven, selbstzerstörerischen Irreführung aufrecht."
+        ],
+        "positive_aspekte": [
+          "Identifiziert klar die Gegenüberstellung von Licht/Dunkelheit und materiellen Verlockungen.",
+          "Erwähnt konsequent die wiederholten Refrains und deren Funktion.",
+          "Verbindet Textstellen mit einer breiteren kulturellen Kritik."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song sei ein Produkt der späten 1980‑Jahre‑Dekade mit intensiver Kritik an Konsumismus und neoliberaler Politik.",
+          "Die Zeile „Sodom“ sei ein Hinweis auf eine dekadente Zivilisation."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Text bleibt bewusst mehrdeutig.",
+          "Die wiederholte Androhung des Zahlens lässt sich sowohl als persönliche Konsequenz als auch als kollektive historische Abrechnung deuten."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der imperativen Formulierungen („Pay, you will pay tomorrow“).",
+          "Erkennt die Symbolik von Kreuz‑Licht und Dunkelheit.",
+          "Verknüpft die Bildsprache mit historischen Erinnerungen an Sklaverei und Kolonialismus."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen zentrale Bildmotive (Licht/Dunkelheit, \"pay tomorrow\", \"save me\"), jedoch variiert die Tiefe stark. Die besten Texte (3 und 1) bleiben nah am Text und vermeiden spekulative Historisierung.",
+    "empfehlung": "Eine Interpretation, die primär auf den vorliegenden Text fokussiert, klare Bildanalysen liefert und nur minimal spekulative Kontextualisierungen einbringt, erzielt die höchste Punktzahl. Zukunftige Modelle sollten darauf achten, Halluzinationen zu minimieren und gleichzeitig tiefere, textbasierte Analysen zu fördern."
+  }
+}

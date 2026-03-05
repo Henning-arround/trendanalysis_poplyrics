@@ -1,0 +1,99 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Unfähigkeit, sich von bestimmten Erfahrungen oder Emotionen zu lösen, wird durch die 'OJ's gloves' symbolisiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung von Alltagsszenen und Beobachtungen in New Orleans"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und Symbole, die die emotionale Wirkung des Songs unterstreichen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Prince Charles' Amex account' als Beispiel für den Konsumismus der modernen Gesellschaft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'tattoos and metal bits' der 'last night's punks and fetish kids'"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der spirituellen Suche und Identitätsfindung im Song"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der 'Pearls before pigs and dung become jewels' als Symbol für die Transformation und den Wertewandel"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'last night's punks and fetish kids' und 'today's tourists'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und Symbole, die die emotionale Wirkung des Songs unterstreichen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der 'OJ's gloves' als Symbol für die Unfähigkeit, sich von bestimmten Erfahrungen oder Emotionen zu befreien"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'tattoos and metal bits' der 'last night's punks and fetish kids'"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der spirituellen Suche und Identitätsfindung im Song, sowie die Analyse der literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der 'Pearls before pigs and dung become jewels' als Symbol für die Transformation und den Wertewandel"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Beschreibung der 'last night's punks and fetish kids' und 'today's tourists'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und Symbole, die die emotionale Wirkung des Songs unterstreichen, sowie die Diskussion der spirituellen Suche und Identitätsfindung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und Symbole, aber variieren in der Tiefe und Halluzination",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate. Es ist ratsam, die Analyse der literarischen Stilmittel und Symbole zu vertiefen und die Interpretationen zu variieren, um eine umfassendere Einsicht in den Song zu gewinnen."
+  }
+}

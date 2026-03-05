@@ -1,0 +1,96 @@
+{
+  "song": "Do You Remember - Jay Sean feat. Sean Paul & Lil Jon (2009)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Stimmen von Jay Sean, Sean Paul und Lil Jon ein dynamisches Dialogfeld schaffen, das sowohl R&B‑Melancholie als auch karibische Dancehall‑Energie ausstrahlt.",
+          "Lil Jon’s charakteristisches „yeah“ verleihen dem Stück eine clubtaugliche Atmosphäre.",
+          "Es spricht damit ein breites Publikum an … und verbindet dabei kulturelle Elemente aus R&B, Dancehall und Crunk."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Gute Textbezüge (z. B. „Back when it didn’t have to end“, „fire blazing“, „Let’s bring it back“).",
+          "Erkennt die rhetorische Funktion des Refrains und der Handlungsaufforderungen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Sean Paul und Lil Jon ergänzen das Geschehen mit ihrer typischen Dance‑Hall‑ bzw. Crunk‑Energie, die den Song von einer reinen Ballade zu einem Club‑Anthem transformiert.",
+          "Durch den Einsatz von jamaikanischem Patois … wird die globale Reichweite des Pop‑R&B‑Genres betont.",
+          "Musikalisch unterstützt das treibende Beat‑Muster von Lil Jon die lyrische Botschaft, indem es das Tempo erhöht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detaillierte Analyse der wiederholten Phrasen und ihrer Funktion.",
+          "Verknüpfung von Textstellen mit der Idee eines „Mantras\"."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Sean Paul und Lil Jon ergänzen das Bild, indem sie mit ihren typischen Dance‑hall‑ und Crunk‑Elementen eine energetische Atmosphäre schaffen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Textbezüge (z. B. „Number one“, „champagne\", „wildin’ out\").",
+          "Ausgewogene Analyse von Nostalgie und Aufbruchstimmung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr faktentreu – fast jede Aussage lässt sich direkt aus dem Songtext ableiten.",
+          "Tiefe Analyse der Struktur, des Refrains und der emotionalen Implikationen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Musikalisch verknüpft der Track die sanften R&B‑Melodien von Jay Sean mit den tanzbaren Reggae‑Einflüssen von Sean Paul und den energiegeladenen Crunk‑Elementen von Lil Jon."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Herausarbeitung der Dringlichkeit im Text.",
+          "Gute Verknüpfung von lyrischen Motiven und möglicher musikalischer Wirkung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass Interpretationen 1, 2 und 4 sehr textnah sind, während 3 und 5 vermehrt genre‑ und produktionsbezogene Annahmen einbringen, was zu höheren Halluzinationsraten führt.",
+    "empfehlung": "Interpretationen, die sich streng am vorliegenden Text orientieren (wie Interpretation 4) erzielen die höchste Faktentreue und gleichzeitig eine substanzielle analytische Tiefe. Für zukünftige Modelle sollte der Fokus darauf liegen, spekulative Genre‑ oder Produktionsbeschreibungen zu vermeiden, solange der Text keine entsprechenden Hinweise liefert."
+  }
+}

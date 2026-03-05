@@ -1,0 +1,96 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Post-2000-Pop-Rock-Szene ohne spezifische Merkmale"
+        ],
+        "oberflächliche_aussagen": [
+          "Spannungsfeld zwischen Sehnsucht und Selbstbestimmung"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Metaphern und Bildsprache"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kultureller Kontext des schnellen Konsums von Gefühlen"
+        ],
+        "oberflächliche_aussagen": [
+          "Love kann sowohl Auftrieb als auch Erschöpfung bedeuten"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Wiederholungen im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 5,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Toxische Anziehung ohne Textbezug"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Metaphern und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Digitale Entfremdung als historischer Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Unsicherheit des lyrischen Ichs"
+        ],
+        "positive_aspekte": [
+          "Gute Interpretation der Wiederholungen im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "zeitlos",
+          "universell"
+        ],
+        "positive_aspekte": [
+          "Sehr gute Analyse der Textstruktur und -inhalte"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine gute Analyse des Songs",
+    "empfehlung": "Die beste Interpretation ist die Nummer 5, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "song": "Wait - Martin Jensen feat. Loote (2017)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„Im kulturellen Kontext von 2017, einer Zeit intensiver Diskussionen über Beziehungsmodelle und Selbstverwirklichung“ – es gibt keinen Hinweis im Text auf solche gesellschaftlichen Debatten.",
+          "Die Annahme, dass das Stück „die Spannung zwischen traditionellen Bindungsversprechen und dem wachsenden Individualismus reflektiert“ ist eine spekulative Kontextualisierung, die nicht aus dem Songtext hervorgeht."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song verhandelt das Spannungsfeld zwischen nostalgischer Bindung und dem Wunsch nach individueller Freiheit.“ – eine sehr allgemeine Formulierung ohne konkrete Textbelege.",
+          "„Es entsteht ein paradoxes Bild von Nähe in Abwesenheit.“ – bleibt vage und liefert keine detaillierte Analyse."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Motive des Textes (z. B. Wiederholung von „Every day I’ll wait“, Bildsprache wie „paper walls“ und „cold bed“).",
+          "Verknüpft die Wiederholungen mit einer hypnotischen Wirkung, was eine tiefere stilistische Beobachtung ist."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation, dass „trapped inside these paper walls“ auf „flüchtige, aber bindende Strukturen sozialer Medien“ anspielt, ist nicht im Text verankert.",
+          "Die Behauptung, dass die Widersprüche „die postmoderne Beziehungskultur widerspiegeln“, ist eine spekulative Kulturtheorie ohne Textbeleg."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song verhandelt das Spannungsfeld zwischen festgefahrener Erinnerung und dem Wunsch nach Weiterentwicklung.“ – ein allgemeines Statement ohne konkrete Analyse.",
+          "„Der Refrain fungiert als Mantra, das sowohl Beharrlichkeit als auch Stagnation suggeriert.“ – vage Interpretation ohne Textbeleg."
+        ],
+        "positive_aspekte": [
+          "Erkennt und erklärt zentrale Metaphern (z. B. „cold bed“, „empty seat“, „paper walls“).",
+          "Diskutiert die Ambiguitäten im Text (z. B. gleichzeitiges Versprechen von „I’ll stay“ und „you can go and have your fun“)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass das Lied das „Spannungsfeld zwischen permanenter Erreichbarkeit und dem Wunsch nach beständiger, physischer Nähe“ reflektiert, ist eine Kontextualisierung, die im Text nicht vorkommt.",
+          "Die Behauptung, dass es in einer „Phase intensiver digitaler Vernetzung und gleichzeitig wachsender Angst vor sozialer Isolation“ entstanden sei, ist spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song verhandelt das Spannungsfeld zwischen nostalgischer Bindung und dem Drang nach individueller Freiheit.“ – sehr allgemeines Urteil.",
+          "„Die Wiederholungen erzeugen ein hypnotisches Echo.“ – bleibt vage ohne weitere Erläuterung."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Bildsprache (z. B. „cold bed“, „paper walls“, „half drunk“).",
+          "Analysiert die strukturelle Nicht‑Linearität zwischen Gegenwart und Rückblick."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation, dass das Stück ein Symbol für das „Ausharren in unsicheren, neoliberalen Lebenslagen“ sei, ist nicht aus dem Text ableitbar.",
+          "Die Behauptung, dass es die „post‑digitale Jugendkultur der späten 2010er Jahre“ widerspiegelt, fehlt im Songtext.",
+          "Die Aussage, dass das Wiederholen ein „Mantra“ für „Beständigkeit und Monotonie“ ist, bleibt spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song kreist um das paradoxe Motiv des Festhaltens in einer Beziehung.“ – ein allgemeines Statement.",
+          "„Emotional erzeugt das Stück ein Gefühl von melancholischer Beharrlichkeit.“ – vage, ohne Textbezug."
+        ],
+        "positive_aspekte": [
+          "Erklärt die Symbolik von „cold bed“ und „paper walls“.",
+          "Betont die Ambiguitäten zwischen Loyalität und Freiheit."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Behauptung, dass das Stück die „Generation‑Z‑Tendenz“ zu idealisierten emotionalen Bindungen widerspiegelt, ist nicht im Text verankert.",
+          "Die Aussage, dass die Wiederholung von „Every day I’ll wait“ die „digitale Erwartungshaltung“ symbolisiert, ist spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song verhandelt das Spannungsfeld zwischen nostalgischer Bindung und dem Wunsch nach individueller Freiheit.“ – ein sehr allgemeines Urteil.",
+          "„Die wiederholte Phrase kann als Symbol für die digitale Erwartungshaltung verstanden werden.“ – bleibt vage."
+        ],
+        "positive_aspekte": [
+          "Analysiert die Bildsprache (z. B. „paper walls“, „cold bed“, „half drunk“).",
+          "Diskutiert die Spannung zwischen Schutz und Gefangenschaft im Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen behandeln dieselben Kernmotive, jedoch variiert die Menge an spekulativen Kontextualisierungen stark. Die Tiefe ist durchweg hoch, während die Halluzinationsrate moderat bleibt.",
+    "empfehlung": "Interpretation 3 liefert die ausgewogenste Analyse: sie bleibt weitgehend textnah, weist die geringste Menge an erfundenen Kontexten auf und bietet gleichzeitig eine substanzielle, tiefgehende Interpretation der Bildsprache und strukturellen Wiederholungen."
+  }
+}

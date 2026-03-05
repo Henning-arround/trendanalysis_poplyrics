@@ -1,0 +1,95 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake thematisiert auch seine persönlichen Erfahrungen mit Frauen und Beziehungen"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Art Bilanz seines Lebens und seiner Erfahrungen"
+        ],
+        "positive_aspekte": [
+          "Der Song ist eine Reflexion über seinen Erfolg und seine Position in der Musikindustrie"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake thematisiert auch die Herausforderungen und die Konkurrenz in der Branche"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Art Selbstbewusstseins- und Selbstfindungsprozess"
+        ],
+        "positive_aspekte": [
+          "Der Song ist eine Reflexion über seinen Erfolg und seine Position in der Musikindustrie"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake thematisiert auch die Herausforderungen und die Konkurrenz in der Branche"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Art Selbstbewusstseins- und Selbstfindungsprozess"
+        ],
+        "positive_aspekte": [
+          "Der Song ist eine Reflexion über seinen Erfolg und seine Position in der Musikindustrie"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Drake thematisiert auch die Herausforderungen und die Konkurrenz in der Branche"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist eine Art Selbstbewusstseins- und Selbstfindungsprozess"
+        ],
+        "positive_aspekte": [
+          "Der Song ist eine Reflexion über seinen Erfolg und seine Position in der Musikindustrie"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Song ist eine Reflexion über seinen Aufstieg zum Ruhm und die damit verbundenen Veränderungen in seinem Leben"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 2.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-4 sind sehr ähnlich und wiederholen sich stark",
+    "empfehlung": "Die fünfte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

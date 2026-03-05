@@ -1,0 +1,99 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'Mojito', 'Kanye's Song' und 'Movida' als Club verweist auf eine urbanisierte, kosmopolitische Umgebung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Protagonisten nach einer tiefen emotionalen und physischen Verbindung streben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Interpretation der Metapher 'Ride it'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Konflikten und Kommunikationsproblemen unterstreicht die Komplexität der Beziehung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen Intimität und Distanz, Verlangen und Ablehnung, hervorgerufen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kulturellen und gesellschaftlichen Dimension des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit den widersprüchlichen Bedürfnissen nach Unabhängigkeit und Intimität liegen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Protagonisten nach einer tiefen emotionalen und physischen Verbindung streben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und gesellschaftliche Dimension des Songs ist eng mit der Darstellung von Beziehungen und Sexualität in der Popkultur verbunden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Kontraste zwischen 'Slow it down' und 'Ride it' verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und die Interpretation der Metapher 'Ride it'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die tiefere Bedeutungsebene des Songs könnte in der Auseinandersetzung mit der Balance zwischen Unabhängigkeit und Abhängigkeit in Beziehungen gesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die Protagonisten nach einer tiefen emotionalen und physischen Verbindung streben"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der kulturellen und gesellschaftlichen Dimension des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und die Interpretation der Metapher 'Ride it'",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine hohe Konsistenz in Bezug auf die Analyse der literarischen Stilmittel"
+  }
+}

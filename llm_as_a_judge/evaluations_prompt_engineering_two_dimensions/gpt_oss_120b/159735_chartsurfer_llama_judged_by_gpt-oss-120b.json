@@ -1,0 +1,115 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in einer Zeit, in der die Welt sich von den Zerstörungen des Zweiten Weltkriegs erholte und nach einem neuen Beginn suchte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, wie Metaphern und Symbole, tragen zur thematischen Komplexität bei.",
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist wichtig, um seine Bedeutung vollständig zu verstehen.",
+          "Die Ambiguität und Spannung zwischen dem Warten auf die geliebte Person und dem Warten auf eine neue Ära bleiben im Song bestehen, was seine Interpretation reich und vielschichtig macht."
+        ],
+        "positive_aspekte": [
+          "Gute Textbindung – fast alle Aussagen lassen sich direkt aus dem Songtext ableiten.",
+          "Spezifische Analyse der Zeile mit dem Thrush, wodurch ein tieferes Bild entsteht.",
+          "Erkennt und benennt Ambiguitäten, was die Interpretation substanziell macht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1950er Jahren, einer Zeit, in der die Welt sich von den Zerstörungen des Zweiten Weltkriegs erholte und nach einem Neuanfang suchte.",
+          "Die Sehnsucht nach Frieden, Harmonie und Schönheit, die im Song zum Ausdruck kommt, spiegelt die Stimmung dieser Zeit wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Bedingtheit des Songs ist ebenfalls von Bedeutung.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung, die durch die Verbindung von Naturbildern und emotionalen Ausdrücken geschaffen wird, und die auf eine universelle Sehnsucht nach Liebe, Verbundenheit und neuen Anfängen hinweist."
+        ],
+        "positive_aspekte": [
+          "Klare, textbasierte Interpretation der Bildsprache (Rose, Tau, Sonne).",
+          "Durchgängige Verknüpfung von Bild und emotionaler Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in den frühen 1950er Jahren, einer Zeit, in der die Welt sich von den Zerstörungen des Zweiten Weltkriegs erholte und nach einem Neuanfang suchte.",
+          "Die Sehnsucht nach Frieden, Harmonie und Schönheit, die im Song zum Ausdruck kommt, spiegelt diese gesellschaftliche Stimmung wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Bedingtheit des Songs ist ebenfalls von Bedeutung.",
+          "Die tiefere Bedeutungsebene des Songs liegt in einer universellen Sehnsucht nach Liebe, Verbundenheit und neuen Anfängen."
+        ],
+        "positive_aspekte": [
+          "Vollständige Durchdringung des Textes – jede Bildreferenz wird erklärt.",
+          "Stimmige Verknüpfung von Naturmetaphern und emotionaler Botschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wurde 1951 veröffentlicht, eine Zeit, in der die Welt sich von den Auswirkungen des Zweiten Weltkriegs erholte und eine neue Ära des Friedens und der Hoffnung begann.",
+          "Die Botschaft des Songs kann in diesem Kontext als eine Reflexion über die Sehnsucht nach Frieden, Sicherheit und Glück interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist ebenfalls wichtig für seine Interpretation.",
+          "Die tiefere Bedeutungsebene des Songs liegt in seiner Fähigkeit, die Hörer zu einer Reflexion über ihre eigenen Sehnsüchte und Wünsche anzuregen, und die symbolische Ordnung, die der Song schafft, ist eine, in der die Natur und die Liebe als Quellen der Inspiration und des Trostes dienen."
+        ],
+        "positive_aspekte": [
+          "Ergänzt die Textanalyse um sprachliche Details („dear one“, „calling“).",
+          "Verbindet Text mit einem plausiblen historischen Rahmen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song entstand in einer Zeit, in der die Welt sich von den Zerstörungen des Zweiten Weltkriegs erholte und nach einem neuen Beginn suchte."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, wie Metaphern und Symbole, tragen zur thematischen Komplexität bei.",
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist wichtig, um seine Bedeutung vollständig zu verstehen.",
+          "Die Ambiguität und Spannung zwischen dem Warten auf die geliebte Person und dem Warten auf eine neue Ära bleiben im Song bestehen, was seine Interpretation reich und vielschichtig macht."
+        ],
+        "positive_aspekte": [
+          "Präzise Analyse der Thrush‑Zeile und ihrer emotionalen Funktion.",
+          "Erkennt und diskutiert Mehrdeutigkeit im Text, was die Interpretation tiefgründiger macht."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die fünf Interpretationen wiederholen stark dieselben Grundthesen (Sehnsucht, Naturmetaphern, historischer Kontext). Unterschiede liegen nur in der Detailtiefe und im Anteil spekulativer Aussagen. Die Varianz ist gering, was auf ein hohes Maß an Redundanz hinweist.",
+    "empfehlung": "Interpretationen, die konkrete Textstellen (z. B. die Thrush‑Zeile) gezielt analysieren und gleichzeitig spekulative Kontextualisierungen minimieren, erzielen die höchste Bewertung. Ein Ansatz, der Textbindung mit einer differenzierten Diskussion von Mehrdeutigkeiten verbindet, ist am erfolgversprechendsten."
+  }
+}

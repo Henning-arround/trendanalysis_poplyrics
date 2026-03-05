@@ -1,0 +1,99 @@
+{
+  "song": "When You Give It Away - Bruce Cockburn (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von Globalisierung und postmodernen Identitätskrisen ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass der Text eine 'kaleidoskopische Stadtlandschaft' konstruiert, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und Bildpaare, die textbasiert ist"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'Dings im Herzen' als spirituelle Ressource ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine affektive Spannung zwischen Selbstaufopferung und Selbstverlust erzeugt', ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der kontrastierenden Bildpaare und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung von 'OJ's gloves' mit der Unfähigkeit, die Identität abzustreifen, ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass die Stadt 'kosmopolitisch und historisch geladen' ist, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und ihrer Bedeutung für die Identitätsunsicherheit"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation der 'OJ's gloves' als Markenhaftigkeit ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine Spannung zwischen individueller Entfremdung und gesellschaftlicher Oberflächlichkeit' erzeugt, ohne spezifische Textanalyse"
+        ],
+        "positive_aspekte": [
+          "Die Erörterung der kontrastierenden Bildpaare und ihrer Bedeutung für die moralische Ambivalenz"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung von 'Prince Charles' Amex account' mit britischer Elite-Finanzierung ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass der Text 'eine ethische Forderung nach Selbstlosigkeit' darstellt, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und ihrer Bedeutung für die kulturelle Fragmentierung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der Metaphern und Bildpaare, aber variieren in der Tiefe und der Anzahl der erfundenen Aussagen",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf textbasierten Analysen liegen, wobei die Metaphern und Bildpaare detailliert erörtert werden, ohne in Spekulationen oder allgemeine Aussagen zu verfallen"
+  }
+}

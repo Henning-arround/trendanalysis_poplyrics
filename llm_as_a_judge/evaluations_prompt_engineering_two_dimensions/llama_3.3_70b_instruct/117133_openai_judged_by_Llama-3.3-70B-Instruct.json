@@ -1,0 +1,99 @@
+{
+  "song": "Sie - Manfred Mann (1964)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation verweist auf die frühen 60er-Jahre als Kontext, ohne dass dies direkt im Text erwähnt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass das Tanzen als 'liberierendes Ritual' und 'Zwangs-Performance' gesehen werden kann, ist etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Metaphern und Bildsprache im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation bezieht sich auf die 'Pop-Ästhetik des Grotesken und des Fantastischen' ohne direkten Textbezug."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine kaleidoskopische Collage' darstellt, ist etwas allgemein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Verbindung von Ritualen und grotesken Elementen im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation erwähnt die 'britische Popkultur' als Kontext, ohne dass dies im Text explizit genannt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine ambivalente Beziehung zwischen Subjekt und Publikum' darstellt, ist etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der surrealen Metaphern und assoziativen Bildsprünge."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation bezieht sich auf die 'post-warme Jugendkultur der 1960er-Jahre' ohne direkten Textbezug."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine hybride Ästhetik' darstellt, ist etwas allgemein."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Verbindung von körperlicher Unruhe und ritualisiertem Konsum im Text."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation erwähnt die 'globale Subkultur' als Kontext, ohne dass dies im Text explizit genannt wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Text 'eine ambivalente Haltung gegenüber dem Militarismus' darstellt, ist etwas vage."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Bildsprache und der Verbindung von Gewalt und spielerischer Leichtigkeit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber alle bieten wertvolle Einblicke in den Text.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "song": "Battles - In Flames (2016)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... bietet eine komplexe und mehrschichtige Botschaft, die sich auf verschiedenen Ebenen interpretieren lässt.",
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist komplex und vielschichtig.",
+          "Die Themen des Schmerzes, der Isolation und der Verzweiflung können in verschiedenen Kontexten interpretiert werden, wie z.B. in Bezug auf persönliche Erfahrungen, gesellschaftliche Krisen oder historische Ereignisse.",
+          "Die Zeilen ... deuten auf eine Art von Angst und Unsicherheit hin, die in verschiedenen kulturellen und gesellschaftlichen Kontexten relevant sein kann.",
+          "Die tiefere Bedeutungsebene des Songs liegt möglicherweise in der Auseinandersetzung mit der menschlichen Existenz und der Suche nach Sinn und Bedeutung in einer unsicheren Welt."
+        ],
+        "positive_aspekte": [
+          "Identifiziert zentrale Textstellen und erklärt deren metaphorische Bedeutung (z. B. 'Pain/Friend', Wiederholungen).",
+          "Verknüpft formale Stilmittel (Wiederholungen, Refrains) mit emotionaler Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Schmerz, Freundschaft und der Suche nach Sinn in einer Welt, die von Unsicherheit und Veränderung geprägt ist.",
+          "Diese Zeile unterstreicht die thematische Komplexität ...",
+          "Die kulturelle und gesellschaftliche Relevanz des Songs wird durch die Zeile ... deutlich, die auf die Erfahrung der Entfremdung und Isolation in einer globalisierten und vernetzten Welt hinweist.",
+          "Die Wiederholung der Frage ... und die Aufforderung ... unterstreichen die Angst vor dem Verlust und die Sehnsucht nach authentischen Erfahrungen in einer Welt, die von Konsum und Kontrolle geprägt ist.",
+          "Durch die Analyse dieser Textzeilen wird deutlich, dass der Song ... eine tiefere Bedeutungsebene und symbolische Ordnung aufweist, die sich mit den grundlegenden Fragen des menschlichen Daseins auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Stellt klare Bezüge zu den Schlüsselzeilen her (z. B. 'Pain/Friend', 'Käfig', Wiederholungen).",
+          "Erklärt die Symbolik von 'Käfig' und 'Schuld' im Kontext des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Schmerz, Freundschaft und der Suche nach Sinn in einer Welt, die von Unsicherheit und Veränderung geprägt ist.",
+          "Diese Zeile unterstreicht die thematische Komplexität ...",
+          "Die kulturelle und gesellschaftliche Relevanz des Songs wird durch die Zeile ... deutlich, die auf die Existenz einer 'anderen Seite' hinweist, die möglicherweise eine andere Perspektive oder eine andere Realität darstellt.",
+          "Diese Zeile kann als Symbol für die Fragmentierung und Polarisierung der Gesellschaft interpretiert werden, in der unterschiedliche Gruppen und Individuen unterschiedliche Wahrheiten und Realitäten erleben."
+        ],
+        "positive_aspekte": [
+          "Verknüpft Textzitate mit konkreten Interpretationen (z. B. 'Käfig' = Gefangenschaft, 'Schuld' = Handlungsblockade).",
+          "Erkennt die Dringlichkeit in der Wiederholung von 'What are you waiting for? I'm here'."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Schmerz, Freundschaft und der Suche nach Sinn in einer Welt, die von Unsicherheit und Veränderung geprägt ist.",
+          "Diese Zeile unterstreicht die thematische Komplexität ...",
+          "Die kulturelle und gesellschaftliche Relevanz des Songs zeigt sich in der Auseinandersetzung mit Themen wie Angst, Unsicherheit und der Suche nach Sinn.",
+          "Durch die Analyse dieser Textzeilen kann man die tiefere Bedeutungsebene des Songs erkennen, die sich mit den existenziellen Fragen und Ängsten des modernen Lebens auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Analysiert die Symbolik von 'Käfig' und 'Schuld' präzise.",
+          "Verbindet die Wiederholungen mit emotionalen Zuständen (Dringlichkeit, Resignation)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... thematisiert die Komplexität von Schmerz, Freundschaft und der Suche nach Sinn in einer Welt, die von Unsicherheit und Veränderung geprägt ist.",
+          "Diese Zeile unterstreicht die thematische Komplexität ...",
+          "Die kulturelle und gesellschaftliche Relevanz des Songs wird durch die Zeile ... deutlich, die auf die Erfahrung der Entfremdung und Isolation in einer globalisierten und vernetzten Welt hinweist.",
+          "Durch die Analyse dieser Textzeilen wird deutlich, dass der Song ... eine tiefere Bedeutungsebene und symbolische Ordnung aufweist, die sich mit den grundlegenden Fragen des menschlichen Daseins auseinandersetzt."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge: erklärt die Ambivalenz von 'Pain/Friend' und die Metapher des 'Käfigs'.",
+          "Erkennt die emotionale Dringlichkeit in den Wiederholungen ('What are you waiting for? I'm here')."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen; die Varianz liegt hauptsächlich im Anteil an oberflächlichen, nicht textgebundenen Aussagen. Die besten Texte (1,2,4) kombinieren viele textbasierte Analysen mit wenigen vagen Generalisierungen.",
+    "empfehlung": "Ein Ansatz, der konsequent Textzitate mit klaren, nachvollziehbaren Metaphern‑ und Symboldeutungen verknüpft (wie Interpretation 1), liefert die höchste Tiefe bei voller Faktentreue. Modelle sollten darauf trainiert werden, vage Allgemeinplätze zu vermeiden und jede interpretative Behauptung direkt auf eine Textstelle zu beziehen."
+  }
+}

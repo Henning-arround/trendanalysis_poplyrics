@@ -1,0 +1,112 @@
+{
+  "song": "One Day Tomorrow - Edgar Winter (1975)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet sich das Stück im Kontext der Nach‑1970‑Jahre, einer Phase des gesellschaftlichen Umbruchs, in der kollektive Träume von Frieden und Selbstverwirklichung stark präsent waren.",
+          "Die Textpassage „There will come a time of joy“ spiegelt das damalige Ideal einer post‑Vietnam‑Entspannung wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song projiziert eine utopische Erwartungshaltung, die zugleich Hoffnung und Verdrängung vereint."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (z. B. Analyse der Wiederholungen, der Metaphern „nothing will be left to destroy“ und „I can be the same as you“).",
+          "Die Interpretation bietet eine klare strukturelle Analyse (Form, Stil, Bildsprache) und erkennt die Ambiguität des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet sich das Stück im Kontext der Nach‑1970‑Jahre, einer Phase des wirtschaftlichen Abschwungs und der Suche nach neuen Sinnmodellen.",
+          "Das wiederholte „Morgen“ spiegelt das kollektive Verlangen nach einem Neustart nach den Krisen der 1970er wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song projiziert eine utopische Erwartungshaltung, die zugleich als verzögerte Befreiung und als potenzielles Verdrängen der Gegenwart gelesen werden kann."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbezogene Analysen (z. B. Anaphern, metaphorische Deutungen von „nothing will be left to destroy“).",
+          "Erkennt die Spannung zwischen Hoffnung und möglichem Vergessen, was dem Text gerecht wird."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Metaphorisch steht das „tomorrow“ für ein unerreichbares Versprechen, während das Bild des „smile“ als Symbol für soziale Maske fungiert, die das innere Unbehagen überdeckt.",
+          "Historisch verortet sich das Stück im Kontext der Nach‑1970‑Jahre, einer Phase des wirtschaftlichen Abschwungs und der Suche nach persönlicher Selbstverwirklichung in der westlichen Popkultur.",
+          "Die Idee, dass „nothing will be left to destroy“ nach Erfüllung aller Träume folgt, spiegelt ein post‑optimistisches Weltbild wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song projiziert eine utopische Erwartungshaltung, die zugleich als Flucht aus der Gegenwart gelesen werden kann.",
+          "Die lyrische Unschärfe lässt den Hörer zwischen Hoffnung und Resignation schwanken, ohne eine definitive Auflösung zu bieten."
+        ],
+        "positive_aspekte": [
+          "Viele Punkte sind klar aus dem Text ableitbar (z. B. Analyse der Wiederholungen, der Gegenüberstellung von „dreams of yesterday“ und „dreams at last come true“).",
+          "Die Interpretation erkennt die innere Ambivalenz zwischen Erfüllung und Leere."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch verortet sich das Stück im Kontext der Nach‑1970er‑Jahre, einer Phase des wirtschaftlichen Abschwungs und der gesellschaftlichen Suche nach neuen Sinnmodellen.",
+          "Die Betonung von „tomorrow“ als rettender Horizont spiegelt das kollektive Verlangen nach einem Neustart nach den Krisen der 1970er wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song projiziert eine utopische Erwartungshaltung, die zugleich als Trost und als latente Verzweiflung wirkt.",
+          "Die lyrische Offenheit lässt Raum für multiple Deutungen, ohne eine definitive Auflösung anzubieten."
+        ],
+        "positive_aspekte": [
+          "Starke textbezogene Analyse von Form, Wiederholungen und Metaphern.",
+          "Erkennt die Mehrdeutigkeit des „same as you“ und die Unbestimmtheit der Zeile „There’ll be everything for us to do“."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile „nothing will be left to destroy“ kann als Hinweis auf Erschöpfung nach langen Kämpfen gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "So bleibt der Song in einem Spannungsfeld zwischen erhoffter Vollendung und dem Verlust der eigenen Geschichte, das bewusst unbeantwortet bleibt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend detaillierte, textbasierte Analyse (Anaphern, Metaphern, Ambiguitäten).",
+          "Verknüpft musikalische Form mit historischen Kontexten, ohne unbegründete Behauptungen zu machen.",
+          "Erfasst die emotionale Dualität (Aufbruchsstimmung vs. melancholische Resignation) und bleibt dabei eng am Text."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen ähnliche Grundthesen (Utopie, Spannung, Wiederholungen), jedoch variiert die Tiefe stark; Interpretation 3 liefert die tiefste, textgebundene Analyse, während die anderen teils generische oder historisch spekulative Elemente enthalten.",
+    "empfehlung": "Für eine ausgewogene Bewertung sollte man Interpretation 3 als Vorbild nehmen: sie bleibt fast ausschließlich textbasiert, erkennt Mehrdeutigkeiten und liefert eine substanzielle Analyse ohne unnötige spekulative Historisierung."
+  }
+}

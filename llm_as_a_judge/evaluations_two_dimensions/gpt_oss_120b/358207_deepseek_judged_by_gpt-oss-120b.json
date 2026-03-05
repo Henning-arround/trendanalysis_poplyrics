@@ -1,0 +1,89 @@
+{
+  "song": "You Are The Reason - Air Supply (2001)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Alle Aussagen lassen sich eindeutig aus dem vorliegenden Songtext ableiten.",
+          "Klare, strukturierte Analyse der einzelnen Zeilen.",
+          "Gute Zusammenfassung von Motiv‑ und Themenbezügen."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Vollständige Textbezüge, keine spekulativen Ergänzungen.",
+          "Systematischer Aufbau (Einleitung, Refrain‑Analyse, Schluss).",
+          "Stichhaltige Interpretation von Bildsprache (Freiheit, Wahrheit)."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Ergänzt die Analyse um metaphorische Ebenen (Zauber, Verzauberung, Transformation).",
+          "Verknüpft wiederholte Refrain‑Struktur mit emotionaler Tiefe.",
+          "Bleibt strikt textbasiert, liefert damit die höchste inhaltliche Tiefe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Ableitung von Bildsprache (Licht, Regen, Horizon).",
+          "Gute Verbindung zwischen einzelnen Zeilen und übergeordnetem Thema Hoffnung.",
+          "Keine unbegründeten biografischen oder stilistischen Behauptungen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse, die sowohl die wörtliche Bedeutung als auch die symbolische Ebene (Spell, Future‑from‑the‑Past) beleuchtet.",
+          "Erkennt die strukturelle Wiederholung des Refrains und deren Bedeutung für die emotionale Intensität.",
+          "Bleibt vollständig im Rahmen des vorliegenden Textes – keine Halluzinationen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4.4,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen bleiben strikt texttreu (Halluzinations‑Score 5). Die Tiefen‑Scores variieren leicht (4–5), was auf unterschiedliche Detailtiefe hinweist, aber keine gravierenden Inkonsistenzen.",
+    "empfehlung": "Interpretation 4 (und 5) bieten die beste Balance aus Texttreue und analytischer Tiefe, indem sie zusätzliche metaphorische Ebenen (Zauber, Transformation) einbinden, ohne spekulativ zu werden. Für zukünftige Bewertungen sollte man darauf achten, solche Mehrdeutigkeiten textbasiert zu nutzen, um die Tiefe zu erhöhen, während Halluzinationen strikt vermieden werden."
+  }
+}

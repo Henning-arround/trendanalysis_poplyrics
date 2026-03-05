@@ -1,0 +1,97 @@
+{
+  "song": "Before You Leave - Kurt Nilsen (2004)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wird jedoch auch von einer gewissen Melancholie und Unsicherheit geprägt, da der Sänger sich der Endlichkeit ihrer Zeit zusammen bewusst ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Sehnsucht und dem Verlangen nach einer Person, die bald gehen wird"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Well I'll take what I can before you leave' zeigt, dass der Sänger bereit ist, jeden Moment mit der Person zu teilen, bevor sie geht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wird immer emotionaler und intensiver, insbesondere im letzten Teil, wo der Sänger wiederholt 'Ahh' singt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Sehnsucht und dem Verlangen nach einer Person, die bald gehen wird"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Well I'll take what I can before you leave' zeigt, dass der Sänger bereit ist, jeden Moment mit der Person zu teilen, bevor sie geht"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wird immer emotionaler und intensiver, insbesondere im letzten Teil, wo der Sänger wiederholt 'Ahh' singt"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Sehnsucht und dem Verlangen nach einer Person, die bald gehen wird"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Well I'll take what I can before you leave' zeigt, dass der Sänger bereit ist, jeden Moment mit der Person zu teilen, bevor sie geht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'That is just a smile' deutet darauf hin, dass bereits ein Lächeln der anderen Person genug ist, um ihn glücklich zu machen"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Well I'll take what I can before you leave' zeigt, dass der Sänger sich bewusst ist, dass die Zeit begrenzt ist, und er daher jeden Moment mit der anderen Person nutzen möchte"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song wird jedoch auch von einer gewissen Melancholie und Unsicherheit geprägt, da der Sänger sich der Endlichkeit ihrer Zeit zusammen bewusst ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song handelt von der Sehnsucht und dem Verlangen nach einer Person, die bald gehen wird"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Well I'll take what I can before you leave' zeigt, dass der Sänger bereit ist, jeden Moment mit der Person zu teilen, bevor sie geht"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 2.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber die meisten haben ähnliche Stärken und Schwächen",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe bietet"
+  }
+}

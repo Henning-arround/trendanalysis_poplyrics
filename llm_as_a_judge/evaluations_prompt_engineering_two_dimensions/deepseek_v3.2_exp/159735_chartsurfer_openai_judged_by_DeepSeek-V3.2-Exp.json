@@ -1,0 +1,99 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Every rose is covered with dew' verknüpft das Bild der Natur mit dem Moment des Wartens, doch das Tau kann sowohl Frische als auch Vergänglichkeit implizieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der 'thrush on high, his sleepy mate is calling' erweitert das Motiv des Rufes auf die Tierwelt"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen kollektiver Erwartung und individueller Sehnsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sonnenaufgang als Symbol für Wiederaufbau wird hier jedoch nicht eindeutig als Hoffnung, sondern zugleich als 'waiting' – ein passives Ausharren – präsentiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Diese Unschärfe spiegelt gesellschaftliche Spannungen wider: das Verlangen nach Normalität steht im Widerspruch zu den noch spürbaren Nachwirkungen des Krieges"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation arbeitet die Dualität zwischen öffentlichem und privatem Diskurs heraus"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Das Aufkommen des Tages wird zugleich als universelles Ereignis und als Metapher für persönliche Erfüllung gelesen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten – das gleichzeitige Warten und Rufen, das offene 'you' und das unbenannte 'world' – lassen das Lied in einem Spannungsfeld zwischen öffentlicher Hoffnung und privater Verlangen verharren"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die thematische Mehrschichtigkeit des Liedes"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Sonnenaufgang kann als Metapher für den Wiederaufstieg Westdeutschlands gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität zwischen öffentlicher Erwartung ('the world') und privatem Begehren ('my heart') bleibt ungelöst"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Spannung zwischen kollektiver und individueller Ebene"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die wiederholte Erwartung des Sonnenaufgangs kann als kulturelles Echo der Hoffnung auf Wiederaufbau und Frieden gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die gleichzeitige Verknüpfung von öffentlicher Erwartung und privatem Verlangen bleibt bewusst ambivalent"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation arbeitet die symbolische Ordnung des Liedes heraus"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Auseinandersetzung mit dem Songtext"
+  }
+}

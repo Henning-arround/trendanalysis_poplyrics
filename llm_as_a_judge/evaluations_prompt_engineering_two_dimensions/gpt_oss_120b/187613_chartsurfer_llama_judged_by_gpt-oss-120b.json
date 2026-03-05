@@ -1,0 +1,122 @@
+{
+  "song": "Teach Me Tonight - Neil Diamond (1988)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Idee der romantischen Liebe und der Sehnsucht nach Wissen, die in den 1980er Jahren besonders populär waren."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach Wissen und Liebe.",
+          "Die literarischen Stilmittel ... unterstreichen die Idee, dass das Lernen ein Prozess ist, der überall und jederzeit stattfinden kann.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Liebe und des Lernens verstärkt."
+        ],
+        "positive_aspekte": [
+          "Verweist konkret auf die wiederholte Frage im Text und erkennt die dadurch entstehende Spannung.",
+          "Erkennt die Mehrdeutigkeit zwischen Lehrer‑Schüler‑Beziehung und Liebesbegehren."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach Wissen und Liebe.",
+          "Die literarischen Stilmittel ... unterstreichen die Idee, dass das Lernen ein Prozess ist, der überall und jederzeit stattfinden kann.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Liebe und des Begehrens verstärkt.",
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Idee der romantischen Liebe und der Sehnsucht nach Wissen und Erfahrung.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Liebe und des Lernens.",
+          "Die Zeilen ... symbolisieren die unendliche und allumfassende Natur der Liebe.",
+          "Durch die Analyse des Songs wird deutlich, dass die Botschaft und die thematische Komplexität ... gekennzeichnet sind."
+        ],
+        "positive_aspekte": [
+          "Korrekte Identifikation der zentralen Textstelle, die die Lernbereitschaft ausdrückt.",
+          "Erwähnt die wiederholte Frage und deren mögliche Bedeutung für die Ambiguität."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach Wissen und Liebe.",
+          "Die literarischen Stilmittel ... unterstreichen die Idee, dass das Lernen ein Prozess ist, der überall und jederzeit stattfinden kann.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Liebe und des Lernens verstärkt.",
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Idee der romantischen Liebe und der Bedeutung von Bildung und Wissen.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Liebe und des Lernens.",
+          "Die Zeilen ... symbolisieren die Unendlichkeit und Universalität der Liebe.",
+          "Durch die Analyse des Songs wird deutlich, dass die Botschaften und Themen nicht eindeutig sind, sondern vielmehr durch Ambiguitäten und Spannungen gekennzeichnet sind, die den Hörer zum Nachdenken anregen."
+        ],
+        "positive_aspekte": [
+          "Verknüpft die Metapher des Himmels mit dem Motiv des Schreibens von Liebesbotschaften.",
+          "Betont die Ambiguitäten zwischen Lehrer‑Schüler‑Beziehung und romantischer Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach Wissen und Liebe.",
+          "Die literarischen Stilmittel ... unterstreichen die Idee, dass das Lernen ein Prozess ist, der überall und jederzeit stattfinden kann.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Liebe und des Begehrens verstärkt.",
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Idee der romantischen Liebe und der Sehnsucht nach Wissen und Erfahrung.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Liebe und des Lernens.",
+          "Die Zeilen ... symbolisieren die Unendlichkeit und die Allgegenwart der Liebe.",
+          "Durch die Analyse des Songs wird deutlich, dass die Botschaft und die thematische Komplexität ... gekennzeichnet sind."
+        ],
+        "positive_aspekte": [
+          "Richtige Zitierung der Schlüssellinien, die Lernbereitschaft ausdrücken.",
+          "Hinweis auf die Wiederholung der Frage als stilistisches Mittel."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 2,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Sehnsucht nach Wissen und Liebe.",
+          "Die literarischen Stilmittel ... unterstreichen die Idee, dass das Lernen ein Prozess ist, der überall und jederzeit stattfinden kann.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Liebe und des Begehrens verstärkt.",
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Idee der romantischen Liebe und der Sehnsucht nach Wissen und Erfahrung.",
+          "Die tiefere Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Liebe und des Lernens.",
+          "Die Zeilen ... symbolisieren die unendliche und allumfassende Natur der Liebe.",
+          "Durch die Analyse des Songs wird deutlich, dass die Botschaft nicht nur auf der Oberfläche liegt, sondern dass es auch tiefere Bedeutungsebenen und symbolische Ordnungen gibt, die es zu entschlüsseln gilt."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Metapher des Himmels als Tafel.",
+          "Verweist auf die Wiederholung der Aufforderung „Teach me, tonight“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.8,
+    "durchschnitt_tiefe": 2.4,
+    "konsistenz_über_wiederholungen": "Alle fünf Analysen wiederholen dieselben Grundthesen; die Varianz liegt fast ausschließlich in der Tiefe der Interpretation. Die meisten Aussagen sind oberflächlich, nur Interpretation 3 und 5 zeigen leicht mehr analytische Nuancen.",
+    "empfehlung": "Ein Ansatz, der konkrete Textbelege (z. B. Wiederholungen, Metaphern) mit einer differenzierten, aber textgebundenen Analyse kombiniert, liefert die beste Balance. Interpretation 5 erreicht dies am besten, weil sie zwar keine Halluzinationen enthält, dafür aber mehr spezifische Verknüpfungen zwischen Bildsprache und thematischer Ambiguität herstellt."
+  }
+}

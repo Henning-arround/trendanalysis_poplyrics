@@ -1,0 +1,126 @@
+{
+  "song": "Circus Of Death - Project Pitchfork (1993)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die historische Einordnung in die frühe 1990‑er‑Dekade mit Verweis auf „Clown‑Angst“ (John‑Wayne‑Geller‑Mythos) ist nicht im Text belegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung erzeugt ein Spannungsfeld zwischen Abenteuer‑ und Albtraumszenario.",
+          "Die Mehrdeutigkeit wird durch die wechselnden Perspektiven verstärkt.",
+          "Die wiederholte Refrain‑Zeile erzeugt ein hypnotisches Echo.",
+          "Die Stimme des Opfers liefert ein emotionales Gegenstück, das Schuldzuweisungen und Hilflosigkeit ausdrückt."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah – fast jede Zeile wird konkret zitiert.",
+          "Klare Analyse von Symbolen (Clown, Droge, Rot‑Färbung).",
+          "Erkennt die offene Mehrdeutigkeit des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Droge fungiert als Bindeglied zwischen Performer und Publikum und suggeriert eine totalitäre Ideologie.",
+          "Die lyrische Struktur spiegelt die Medienkritik und Skepsis gegenüber staatlichen Machtstrukturen der frühen 1990‑er‑Jahre wider.",
+          "Die Rotfärbung des Pfades wird als Warnsignal einer politisch aufgeladenen Ära gedeutet."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität zwischen realer Gewalt und metaphorischer Angst wird betont.",
+          "Der Refrain bleibt unverändert, die Stimme des Individuums drückt ein verzweifeltes Flehen aus.",
+          "Die Gegenüberstellung von persönlicher Ohnmacht und allumfassender Bedrohung erzeugt ein Spannungsfeld."
+        ],
+        "positive_aspekte": [
+          "Wenig erfundene Fakten – fast alle Aussagen lassen sich aus dem Text ableiten.",
+          "Gute Balance zwischen konkreter Textanalyse und weiterführender Interpretation.",
+          "Erkennt die kulturelle Einordnung, ohne zu spekulieren."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Einordnung 1993 in die post‑kalte‑Kriegs‑Unsicherheit und Drogen‑Gewaltdebatten ist nicht im Songtext belegt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung erzeugt ein Spannungsfeld zwischen Abenteuer‑ und Horrornarrativ.",
+          "Die Zeile „Its pathway is painted in red“ lässt sowohl Blut als auch politische Markierungen implizieren.",
+          "Die Wiederholung des Refrains nutzt ein anaphorisches Muster, das das Unausweichliche betont.",
+          "Emotional erzeugt das Lied ein Gefühl von Beklemmung und Ohnmacht."
+        ],
+        "positive_aspekte": [
+          "Sehr gründliche Zitierung des Textes.",
+          "Klare Darstellung von Symbolen (Clown, Droge, Rot).",
+          "Erkennt die offene Mehrdeutigkeit des Werks."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft sei eine Warnung vor einer manipulierenden Macht, die durch das „narcotic“ verbreitet wird.",
+          "Historische Einordnung in die frühe 90er‑Jahre mit Verweis auf Reality‑TV und Gewaltspiele."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung erzeugt ein Spannungsfeld zwischen Abenteuer‑Narrativ und apokalyptischer Gewalt.",
+          "Der Refrain erzeugt ein hypnotisches, fast rituelles Gefühl.",
+          "Die direkte Anrede eröffnet eine emotionale Dimension von Hilflosigkeit und Verzweiflung.",
+          "Der Verweis auf Steve McGarrett verknüpft Pop‑Kultur‑Helden mit einer kritischen Sicht auf staatliche Interventionen."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Text und Pop‑Kultur‑Referenz.",
+          "Erkennt die Mehrdeutigkeit des „circus“."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historische Einordnung in die frühen 1990er‑Jahre mit Hinweis auf post‑kalte‑Kriegs‑Unsicherheit und Auflösung ideologischer Narrative."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Gegenüberstellung erzeugt ein Spannungsfeld zwischen Abenteuer‑ und Albtraumszenario.",
+          "Die Mehrdeutigkeit bleibt bewusst erhalten.",
+          "Der Clown wird als Symbol für Humor umgekehrt zu einem Träger tödlicher Droge.",
+          "Die wiederholte Anrede an die Familie erzeugt eine affektive Schicht von Hilflosigkeit.",
+          "Der Verweis auf Steve McGarrett verknüpft Pop‑Referenz und reale Sicherheitsdiskurse."
+        ],
+        "positive_aspekte": [
+          "Sehr textnah, fast jede Zeile wird zitiert.",
+          "Klare Analyse von Symbolen und deren Umkehrung.",
+          "Erkennt die offene Mehrdeutigkeit des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3, 4 und 5 zeigen sehr ähnliche Strukturen und wiederholen viele der gleichen Punkte, wodurch die Varianz gering ist. Interpretation 1 sticht durch die geringste Halluzinationsrate hervor, während Interpretation 2 am wenigsten Tiefe bietet.",
+    "empfehlung": "Für eine ausgewogene Analyse sollte man dem Ansatz von Interpretation 1 folgen: enge Textbindung, wenige spekulative Aussagen und gleichzeitig eine substanzielle, aber nicht oberflächliche Interpretation. Weitere Interpretationen können als Ergänzung dienen, sollten jedoch darauf achten, spekulative historische Kontextualisierungen zu reduzieren."
+  }
+}

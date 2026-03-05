@@ -1,0 +1,99 @@
+{
+  "song": "Let's Get Together Soon - Dusty Springfield (1970)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin ist bereit, ihre Gefühle zu akzeptieren, egal ob sie als richtig oder falsch angesehen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Intensität und die eindringliche Darstellung der Sehnsucht machen den Song zu einem herzlichen und authentischen Ausdruck der menschlichen Erfahrung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person gut"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben"
+        ],
+        "oberflächliche_aussagen": [
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person gut"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben"
+        ],
+        "oberflächliche_aussagen": [
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person gut"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben"
+        ],
+        "oberflächliche_aussagen": [
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person gut"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sängerin ist bereit, ihre Bedenken und Unsicherheiten beiseite zu lassen, um ihre Liebe zu leben"
+        ],
+        "oberflächliche_aussagen": [
+          "Ihre Emotionen werden immer intensiver und ihre Sehnsucht nach dem Geliebten wird zu einem alles beherrschenden Gefühl"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beschreibt die Sehnsucht und das Verlangen nach einer geliebten Person gut"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und ähneln sich stark",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und weniger Wiederholungen zu erreichen"
+  }
+}

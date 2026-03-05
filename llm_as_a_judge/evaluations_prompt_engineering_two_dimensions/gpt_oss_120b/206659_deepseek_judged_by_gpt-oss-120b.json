@@ -1,0 +1,113 @@
+{
+  "song": "Ship Of Fools - World Party (1987)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ära des Thatcherismus und Reaganismus war geprägt von einer neoliberalen Ideologie, die individuelles Erfolgsstreben und wirtschaftlichen Wachstum über soziale Verantwortung stellte."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf mehreren Ebenen interpretiert werden kann.",
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der Song kann auch im kulturellen, historischen und gesellschaftlichen Kontext der späten 1980er Jahre interpretiert werden.",
+          "Die Ambiguität und Spannung ... erzeugen eine komplexe emotionale Wirkung, die den Hörer zum Nachdenken anregt."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche textbezogene Analysen (Metaphern, Wiederholungen, Symbolik).",
+          "Klare Verknüpfung von Zitaten mit interpretativen Schlüssen.",
+          "Erkenntnisreiche Verknüpfung zur biblischen Sodom‑Referenz."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1980er Jahre waren geprägt von einer zunehmenden neoliberalen Orientierung und einem Fokus auf wirtschaftlichen Erfolg."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf mehreren Ebenen interpretiert werden kann.",
+          "Die literarischen Stilmittel ... tragen zur emotionalen Wirkung und affektiven Dimension bei.",
+          "Der kulturelle, historische und gesellschaftliche Kontext ... ist ebenfalls von Bedeutung.",
+          "Insgesamt zeigt der Song ... eine tiefere Bedeutungsebene, die die Ambivalenz und die Gefahren einer Welt aufzeigt, die von Eigennutz und Verführung geprägt ist."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind klar aus dem Text ableitbar (z. B. Wiederholung des Refrains, Bildsprache).",
+          "Verknüpfung von Symbolen (Joker, Kreuzfeuer) mit einer interpretativen Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf mehreren Ebenen interpretiert werden kann.",
+          "Der Song verwendet eine Vielzahl literarischer Stilmittel, um seine Botschaft zu vermitteln.",
+          "Der Song kann auch als Kommentar zu den politischen und gesellschaftlichen Zuständen der Zeit interpretiert werden.",
+          "Insgesamt zeigt der Song eine tiefe Besorgnis um die Zukunft und die Konsequenzen unserer Handlungen."
+        ],
+        "positive_aspekte": [
+          "Durchgehend textbasierte Analyse (Symbolik, Wiederholungen, Bildsprache).",
+          "Klare Herausarbeitung von konkreten Zeilen (z. B. „galley slaves“, „light of the crosses that burn“)."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf mehreren Ebenen interpretiert werden kann.",
+          "Der Song kann auch als Kommentar zu den politischen und gesellschaftlichen Zuständen der Zeit interpretiert werden.",
+          "Insgesamt zeigt der Song eine tiefe Besorgnis um die Zukunft und eine Warnung vor den Gefahren der Gier und des unkritischen Strebens nach Macht und Reichtum."
+        ],
+        "positive_aspekte": [
+          "Starke Verknüpfung von Zitaten mit interpretativen Schlüssen (z. B. „Drawn by the promise…“).",
+          "Konsistente Analyse von Wiederholungen und deren Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ... ist ein vielschichtiges Werk, das auf mehreren Ebenen interpretiert werden kann.",
+          "Der Song verwendet eine Vielzahl literarischer Stilmittel, um seine Botschaft zu vermitteln.",
+          "Der Song kann auch als Kommentar zu den politischen und gesellschaftlichen Zuständen der Zeit interpretiert werden.",
+          "Insgesamt zeigt der Song eine tiefe Besorgnis um die Zukunft der Menschheit und mahnt zur Vorsicht und Reflexion."
+        ],
+        "positive_aspekte": [
+          "Umfassende Analyse von Symbolen (Kreuzfeuer, Ozeane der Geschichte, Sodom).",
+          "Klare Begründung, warum die Wiederholung von „You will pay tomorrow“ Drohung erzeugt."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 2,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen das Grundthema (Warnung vor Gier, Symbolik des 'Ship of Fools') und unterscheiden sich hauptsächlich im Detailgrad und in nicht belegten historischen Kontexten. Die Varianz liegt vor allem bei den wenigen erfundenen Kontext‑Aussagen (Interpretationen 1‑3).",
+    "empfehlung": "Interpretation 2 liefert die faktentreueste Analyse (keine Halluzinationen) und gleichzeitig eine substanzielle, textbasierte Tiefe. Sie balanciert Texttreue und analytische Detailgenauigkeit am besten, weshalb sie als Vorbild für künftige LLM‑Interpretationen dienen sollte."
+  }
+}

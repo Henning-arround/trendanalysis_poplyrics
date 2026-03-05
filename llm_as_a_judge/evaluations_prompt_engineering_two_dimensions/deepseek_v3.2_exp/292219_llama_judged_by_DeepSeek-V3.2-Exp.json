@@ -1,0 +1,99 @@
+{
+  "song": "4:am Forever - Lostprophets (2006)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Dimension des Songs ist geprägt von der Emo- und Rockmusikszene der 2000er Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die affektive Dimension des Songs wird durch die Kontraste zwischen Licht und Dunkelheit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die kulturelle und historische Dimension des Songs kann im Kontext der emo- und rock-Musikszene der 2000er Jahre verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten und Spannungen im Song bleiben ungelöst"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Trauer und den Verlust einer engen Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert auch die Ambiguität der Kommunikation"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile '4 AM forever' am Ende des Songs unterstreicht die ewige Natur des Verlusts"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist geprägt von der Emo- und Rockmusikszene der 2000er Jahre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'It's 4 AM and you are gone' unterstreicht die Vorstellung, dass die Nacht ein Ort der Einsamkeit und des Verlusts ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation thematisiert die Trauer und den Verlust einer engen Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die affektive Dimension des Songs wird auch durch die Zeile 'Hold a little tighter' deutlich"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song bleibt somit ein emotionaler und affektiver Ausdruck der Trauer und des Verlusts"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die literarischen Stilmittel"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad",
+    "empfehlung": "Die erste Interpretation balanciert Textreue mit analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

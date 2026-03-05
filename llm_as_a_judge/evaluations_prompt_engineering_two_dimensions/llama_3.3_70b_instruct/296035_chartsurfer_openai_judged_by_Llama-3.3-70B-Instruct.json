@@ -1,0 +1,99 @@
+{
+  "song": "Ich will – ich kann, I can – I will - Udo Jürgens (1986)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage über den späten Kalten Krieg als historischen Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Erwähnung von 'thematischer Komplexität'"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der Metaphern und symbolischen Gegenüberstellungen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'Komödianten' als ironische Selbstreflexion ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'kultureller Hybridität' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der Fragmentierung des Selbstbildes"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zur 'Globalisierung von Popmusik' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Erwähnung von 'thematischer Komplexität'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation des 'Komödianten' als performative Selbstinszenierung ohne klaren Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'kultureller Grenzverschiebung' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Betonung der symbolischen Bildpaare"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verbindung zur 'europäischen Wohlstand' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Erwähnung von 'Ambivalenzen'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und ihrer Bedeutung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Analyse der textlichen Elemente, jedoch variieren sie in der Tiefe und der Halluzinationsrate.",
+    "empfehlung": "Für eine bessere Interpretation sollte der Fokus auf textbasierten Analysen liegen, wobei Ambivalenzen und Mehrdeutigkeiten berücksichtigt werden sollten, ohne in Spekulationen zu verfallen."
+  }
+}

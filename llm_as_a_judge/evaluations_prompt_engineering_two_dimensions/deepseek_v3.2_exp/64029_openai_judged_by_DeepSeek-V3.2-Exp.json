@@ -1,0 +1,97 @@
+{
+  "song": "Worth It All - Jay Sean (2013)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die Post-Digital-Ära einordnen"
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt der Text einfache, fast gesprochene Metaphern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Diskrepanz zwischen medialen Liebesidealen und der gelebten Erfahrung"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell verortet sich das Stück im post-digitalen Zeitalter"
+        ],
+        "oberflächliche_aussagen": [
+          "Formell nutzt der Text Wiederholungen und Refrains"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation arbeitet die Ambivalenz der Liebesideologie heraus"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext des frühen 2010er-Jahre-Pop"
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt der Text wiederkehrende Metaphern und Symbole"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung von Konflikten und Schwankungen in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Literarisch nutzt der Text einfache Metaphern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt eng am Text und arbeitet die Ambivalenz der Beziehung heraus"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext von 2013, einer Phase intensiver Diskussion über Authentizität"
+        ],
+        "oberflächliche_aussagen": [
+          "Stilistisch nutzt der Text einfache Metaphern"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die Bedeutung von Authentizität und Unvollkommenheit in der Beziehung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Die vierte Interpretation ist aufgrund ihrer Faktentreue und analytischen Tiefe empfehlenswert"
+  }
+}

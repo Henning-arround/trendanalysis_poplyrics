@@ -1,0 +1,99 @@
+{
+  "song": "Dance Only With Me - Perry Como (1958)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Herkunft aus der Broadway-Produktion 'Say Darling' verankert das Lied in einer Unterhaltungswelt, die oft idealisierte Paarbeziehungen inszenierte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'till all our sweet music is gone!' fungiert als Bild für die Endlichkeit der Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der rhetorischen Muster und die Betonung der Ambiguitäten im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Forderung nach exklusivem Tanzen kann als Spiegel dieser Ideale gelesen werden, zugleich aber auch als subtile Kritik"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wortwahl verbindet körperliche Nähe mit einer zeitlich unendlichen Bindung"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der Mehrdeutigkeit in der Botschaft und die Betonung der Spannung zwischen Dauerhaftigkeit und Vergänglichkeit"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach stabilen, exklusiven Partnerschaften ein gesellschaftliches Bedürfnis nach Sicherheit wider"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft bleibt ambivalent: Einerseits ein Versprechen ewiger Verbundenheit, andererseits ein Hinweis auf die Endlichkeit des gemeinsamen Erlebens"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und die Betonung der Ambiguitäten in der Beziehung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Broadway-Ursprungsproduktion 'Say Darling' verortet das Lied in einem Bühnenformat, das oft idealisierte Partnerschaften darstellte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Formulierung 'till all our sweet music is gone' eröffnet eine temporale Endlichkeit"
+        ],
+        "positive_aspekte": [
+          "Die Diskussion der Spannung zwischen Unendlichkeit und Vergänglichkeit und die Betonung der Ambiguitäten in der Forderung nach Alleinheit"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Betonung des exklusiven Tanzes spiegelt die damalige Popkultur wider, die Tanz als soziale Norm und Ausdruck von Zugehörigkeit nutzte"
+        ],
+        "oberflächliche_aussagen": [
+          "Die thematische Schicht bleibt jedoch ambivalent, weil das Wort 'only' sowohl Schutz vor Fremdheit als auch Besitzanspruch impliziert"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und die Betonung der Ambiguitäten in der Beziehung sowie die Diskussion der historischen Kontextualisierung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Ambiguitäten und Mehrdeutigkeiten im Text, jedoch variieren sie in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und Ambivalenzen, wie in Interpretation 1 zu sehen ist. Es ist wichtig, kreative Interpretationen zu fördern, die jedoch stets auf dem Text basieren und dessen Komplexität berücksichtigen."
+  }
+}

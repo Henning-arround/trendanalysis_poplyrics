@@ -1,0 +1,113 @@
+{
+  "song": "Funny How Time Slips Away - Wanda Jackson (1963)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Art Abrechnung interpretiert werden, in der die Sängerin Bilanz über ihre vergangene Beziehung zieht und feststellt, dass die Zeit alle Wunden heilt, aber auch alle Illusionen zerstört."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin scheint nicht verbittert, sondern eher resigniert und nachdenklich.",
+          "Die Sängerin scheint eine gewisse Distanz zu ihrem ehemaligen Partner und seiner neuen Beziehung eingenommen zu haben und betrachtet die Vergangenheit mit einer Mischung aus Nostalgie und Resignation."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (z. B. Begegnung, neue Liebe, das Versprechen, dass er zahlen wird).",
+          "Die Interpretation geht über reine Zusammenfassung hinaus und bietet eine differenzierte Sicht auf Resignation vs. Abrechnung."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Art von feministischer Kritik an der männlichen Untreue und der Verfügbarkeit von Frauen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin scheint eine gewisse Bitterkeit und Enttäuschung zu empfinden, da sie das Gefühl hat, dass ihr Partner seine Versprechungen nicht gehalten hat.",
+          "Die Sängerin ist diejenige, die die Vergangenheit und die Beziehung Revue passieren lässt, während ihr Partner scheinbar unbeschwert in die Zukunft blickt.",
+          "Insgesamt zeigt der Song eine tiefe Einsicht in die menschliche Natur und die Vergänglichkeit der Zeit."
+        ],
+        "positive_aspekte": [
+          "Fast alle Aussagen (7 von 11) sind klar aus dem Songtext ableitbar.",
+          "Die Analyse des Refrains und der wiederholten Zeile „Ain’t it funny how time slips away“ ist textnah und liefert eine sinnvolle Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Sie prophezeit ihm, dass er für seine Untreue und sein gebrochenes Versprechen büßen wird.",
+          "Der Song ist eine Mischung aus Nostalgie, Resignation und einer leichten Rachephantasie.",
+          "Der Song kann auch als Kommentar zu den wechselnden Beziehungen und der Unbeständigkeit der menschlichen Gefühle interpretiert werden.",
+          "Insgesamt ist … ein Country‑Song mit einer starken, selbstbewussten Frauenstimme, die ihre Erfahrungen und Gefühle in einer direkten und authentischen Weise ausdrückt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin scheint nicht mehr unter der Trennung zu leiden, sondern blickt mit einer gewissen Distanz auf die Vergangenheit zurück."
+        ],
+        "positive_aspekte": [
+          "Die Grundhandlung (Wiedersehen, neue Liebe, das Versprechen, dass er zahlen wird) wird korrekt wiedergegeben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch als eine Art von feministischer Kritik an der männlichen Untreue und der Verfügbarkeit von Frauen interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin scheint eine gewisse Bitterkeit und Enttäuschung zu empfinden, da sie das Gefühl hat, dass ihr Partner seine Versprechungen nicht gehalten hat.",
+          "Die Sängerin ist diejenige, die die Vergangenheit und die Beziehung Revue passieren lässt, während ihr Partner scheinbar unbeschwert in die Zukunft blickt.",
+          "Insgesamt zeigt der Song eine tiefe Einsicht in die menschliche Natur und die Vergänglichkeit der Zeit."
+        ],
+        "positive_aspekte": [
+          "Identisch zur Interpretation 1 – sehr textnah, kaum erfundene Details."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 2,
+      "gesamt_score": 2.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Sie stellt fest, dass die Zeit vergangen ist, ohne dass sich viel verändert hat, …",
+          "Sie prophezeit ihm, dass er für seine Untreue und seine Lügen büßen wird.",
+          "Der Song ist eine Mischung aus Nostalgie, Resignation und einer leichten Rachephantasie.",
+          "Der Song kann auch als Kommentar zu den wechselnden Beziehungen und der Unbeständigkeit der menschlichen Gefühle interpretiert werden.",
+          "Insgesamt ist … ein Country‑Song mit einer starken, selbstbewussten Frauenstimme, die ihre Erfahrungen und Gefühle authentisch und überzeugend ausdrückt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Sängerin scheint nicht mehr unter der Trennung zu leiden, sondern blickt mit einer gewissen Distanz auf die vergangene Beziehung zurück."
+        ],
+        "positive_aspekte": [
+          "Grundlegende Textinhalte (Wiedersehen, neue Liebe, das Versprechen, dass er zahlen wird) werden korrekt wiedergegeben."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Interpretationen 1, 2 und 3 zeigen hohe Konsistenz und geringe Halluzination, während 4 und 5 viele erfundene Details enthalten. Die Varianz liegt hauptsächlich in den zusätzlichen, nicht textbasierten Interpretationen.",
+    "empfehlung": "Für eine ausgewogene Analyse sollten Interpretationen gewählt werden, die fast ausschließlich textbasierte Aussagen nutzen (wie 1‑3) und gleichzeitig tiefere, aber belegbare Schlüsse ziehen. Vermeiden Sie spekulative Genre‑ oder feministischen Deutungen, sofern sie nicht klar aus dem Text hervorgehen."
+  }
+}

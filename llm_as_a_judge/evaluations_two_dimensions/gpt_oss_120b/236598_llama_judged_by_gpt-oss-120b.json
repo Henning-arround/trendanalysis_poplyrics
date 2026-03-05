@@ -1,0 +1,104 @@
+{
+  "song": "Timeless - Drunken Tiger feat. BTS (2018)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Timeless\" von Drunken Tiger feat. BTS ist ein komplexes Werk, das sich mit Themen wie Zeit, Vergänglichkeit und Unsterblichkeit auseinandersetzt.",
+          "Durch diese Interpretation wird deutlich, dass \"Timeless\" ein Song ist, der sich mit den großen Fragen des Lebens und der Kunst auseinandersetzt und der versucht, die Vergänglichkeit und die Unsterblichkeit in einer einzigen Musik zu vereinen."
+        ],
+        "positive_aspekte": [
+          "Alle inhaltlichen Behauptungen lassen sich klar aus dem vorliegenden Songtext ableiten.",
+          "Strukturierte Analyse der wichtigsten Motive (Zeit, Kunst, Unsterblichkeit).",
+          "Wenig bis keine spekulativen Aussagen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text spricht auch über die Suche nach dem eigenen Ziel und der eigenen Identität, die wie ein Leitmotiv durch das Leben führt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Timeless\" von Drunken Tiger feat. BTS ist eine tiefgründige Reflexion über die Zeit, die Vergänglichkeit des Lebens und die Unsterblichkeit der Kunst."
+        ],
+        "positive_aspekte": [
+          "Ergänzt den Grundstock der vorherigen Analysen um konkrete Textbezüge (Benjamin’s Button, Time Travel).",
+          "Weniger oberflächliche Wiederholungen, dafür mehr differenzierte Interpretationsansätze.",
+          "Trotz einer kleinen spekulativen Aussage bleibt die Mehrheit der Analyse textbasiert."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Timeless\" von Drunken Tiger feat. BTS ist ein komplexes Werk, das sich mit Themen wie Zeit, Vergänglichkeit und Unsterblichkeit auseinandersetzt.",
+          "Durch diese Interpretation wird deutlich, dass \"Timeless\" ein Song ist, der sich mit den großen Fragen des Lebens und der Kunst auseinandersetzt und der versucht, die Vergänglichkeit und die Unsterblichkeit in einer einzigen Musik zu vereinen."
+        ],
+        "positive_aspekte": [
+          "Vollständig textbasierte Argumentation.",
+          "Klare Strukturierung der Hauptthemen."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text ist auch voller autobiografischer Anspielungen und Reflexionen über das Leben und die Karriere der Interpreten, was den Song zu einem persönlichen und introspektiven Werk macht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song \"Timeless\" von Drunken Tiger feat. BTS ist ein komplexes Werk, das sich mit Themen wie Zeit, Vergänglichkeit und Unsterblichkeit auseinandersetzt.",
+          "Durch diese Interpretation wird deutlich, dass \"Timeless\" ein Song ist, der sich mit den großen Fragen des Lebens und der Kunst auseinandersetzt und der versucht, die Vergänglichkeit und die Unsterblichkeit in einer einzigen Musik zu vereinen."
+        ],
+        "positive_aspekte": [
+          "Beibehaltung der soliden Textbezüge aus den vorherigen Analysen.",
+          "Versuch, eine persönlichere Ebene zu erschließen (auch wenn diese nicht belegt ist)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song \"Timeless\" von Drunken Tiger feat. BTS ist ein komplexes Werk, das sich mit Themen wie Zeit, Vergänglichkeit und Unsterblichkeit auseinandersetzt.",
+          "Durch diese Interpretation wird deutlich, dass \"Timeless\" ein Song ist, der sich mit den großen Fragen des Lebens und der Kunst auseinandersetzt und der versucht, die Vergänglichkeit und die Unsterblichkeit in einer einzigen Musik zu vereinen."
+        ],
+        "positive_aspekte": [
+          "Alle interpretativen Punkte lassen sich eindeutig aus dem Songtext ableiten.",
+          "Konsistente und nachvollziehbare Argumentationskette."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.6,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die fünf Analysen wiederholen fast identische Argumentationsmuster, wodurch die Varianz gering ist. Nur Interpretation 5 bricht leicht aus, indem sie zusätzliche, textbezogene Details einbringt, während Interpretation 4 eine unbegründete autobiografische Behauptung einführt.",
+    "empfehlung": "Für zukünftige Interpretationen sollte ein ausgewogenes Verhältnis zwischen Texttreue und analytischer Tiefe angestrebt werden. Vermeiden Sie generische Floskeln und unbelegte biografische Aussagen, aber ergänzen Sie die Analyse mit konkreten Textbezügen und differenzierten, aber belegbaren Deutungen – wie es Interpretation 5 am besten gelungen ist."
+  }
+}

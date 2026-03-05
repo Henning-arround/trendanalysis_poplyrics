@@ -1,0 +1,95 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Blues-Rock-Klassiker"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine wilde Party",
+          "Die Party ist ein Ort der Exzesse"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Mama told me not to come' wird korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist ein Blues-Rock-Klassiker"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine wilde Party",
+          "Die Party ist ein Ort der Exzesse"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'Mama told me not to come' wird korrekt interpretiert"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine wilde Party"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Metapher für jugendliche Rebellion ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine wilde Party"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Spannung zwischen Vernunft und Vergnügen ist überzeugend"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song beschreibt eine wilde Party"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der Spannung zwischen Vernunft und Vergnügen ist überzeugend"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 3-5 zeigen eine hohe Konsistenz in der Analyse",
+    "empfehlung": "Die Interpretationen 3-5 bieten eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

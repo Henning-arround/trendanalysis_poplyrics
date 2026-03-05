@@ -1,0 +1,87 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern, wie dem 'Scratchen des Rückens', symbolisiert den gegenseitigen Nutzen und die Abhängigkeit in Beziehungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten und Widersprüche im Text, wie die Gegenüberstellung von 'Oh mercy mercy' und 'Oh lawdy lawdy', lassen darauf schließen, dass der Song mehr als nur eine einfache Botschaft vermittelt, sondern vielmehr eine komplexe Exploration der menschlichen Erfahrung darstellt."
+        ],
+        "positive_aspekte": [
+          "Die zentrale Botschaft des Songs scheint auf den ersten Blick einfach zu sein: ein Austausch von Gefälligkeiten, wie in der Zeile 'I'll scratch your back if you'll just scratch mine' deutlich wird."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist ebenfalls von Bedeutung."
+        ],
+        "positive_aspekte": [
+          "Die Spannung zwischen der Oberflächenbotschaft und den tieferen Bedeutungsebenen wird durch die Zeile 'When I'm outta sight then I'm out of mind' deutlich, die auf die Vergänglichkeit von Beziehungen und die Bedeutung von Aufmerksamkeit hinweist."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Wiederholung von 'Oh scratching my back' am Ende des Songs unterstreicht die zentrale Botschaft und die thematische Komplexität, indem sie die Abhängigkeit und den gegenseitigen Nutzen in Beziehungen betont."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Ambiguitäten und Widersprüche im Song, wie die Gegenüberstellung von 'Scratch my back' und 'When I'm outta sight then I'm out of mind', bleiben bewusst ungelöst, was den Song zu einem faszinierenden Beispiel für die Komplexität und Vielschichtigkeit von Musiktexten macht."
+        ],
+        "positive_aspekte": [
+          "Die Verwendung von Metaphern, wie dem 'Scratchen des Rückens', symbolisiert den gegenseitigen Nutzen und die Abhängigkeit in Beziehungen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs, jedoch mit leichten Variationen in der Tiefe und den Halluzinationen.",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie eine ausgewogene Analyse des Songs bietet, die sowohl die textlichen als auch die thematischen Aspekte berücksichtigt."
+  }
+}

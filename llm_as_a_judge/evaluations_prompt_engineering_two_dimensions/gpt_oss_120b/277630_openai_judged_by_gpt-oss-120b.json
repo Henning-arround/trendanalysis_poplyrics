@@ -1,0 +1,100 @@
+{
+  "song": "Peggy's Kitchen Wall - Bruce Cockburn (1984)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das Klima der 1980er‑Jahre einordnen, in dem urbane Gewalt, Drogenkonsum („drinking gin and joking“, Zeile 17) und Polizeipräsenz („Police arrive“, Zeile 9) vermehrt in Popkultur thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr textnahe Analyse jedes Bildes (z. B. „halo“, „blaster“, „muddy up the floor“).",
+          "Klare Herausarbeitung von Ambiguitäten und deren Wirkung auf den Hörer.",
+          "Durchgängige Verknüpfung von Form (Wiederholungen) und Inhalt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Kulturell lässt sich das Werk in den Kontext der 1980‑er‑Jahre einordnen, in denen urbane Gewalt und Polizeipräsenz vermehrt thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Verknüpfung von Bildsprache und thematischer Spannung.",
+          "Gute Balance zwischen Wiederholung des Refrains und tiefergehender Interpretation.",
+          "Klare Benennung von sprachlichen Mitteln (z. B. doppelte Verneinung)."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in das Klima der frühen 1980‑Jahre einordnen, in dem städtische Kriminalität und das wachsende Misstrauen gegenüber Institutionen (Polizei, Nachbarn) thematisiert wurden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende Analyse von Stilmitteln (Refrain, Metaphern).",
+          "Verknüpfung von Traum‑/Realitätsambivalenz mit gesellschaftlicher Moralität.",
+          "Durchgängige Textbelege für jede interpretative Aussage."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die 1980er‑Jahre einordnen, eine Zeit zunehmender urbaner Kriminalität und politischer Spannungen in Nordamerika.",
+          "Die unspezifische „.38“ verweist auf eine verbreitete Pistole, die in populären Darstellungen von Gewalt häufig vorkommt, und verankert den Text in einem breiten kulturellen Bild von Schusswaffen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Herausarbeitung des zentralen Symbols (Bullet‑Hole).",
+          "Gute Beobachtung der Gegensätze zwischen Alltag und Gewalt.",
+          "Stetiger Bezug zu Textzeilen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext von 1984, einer Zeit intensiver politischer Spannungen und urbaner Gewalt in Nordamerika, reflektiert das Stück die Unsicherheit des Individuums gegenüber institutionellen Strukturen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Verknüpfung von narrativen Elementen und stilistischen Mitteln.",
+          "Ausgewogene Diskussion von Traum‑/Realitätsaspekten.",
+          "Durchgehende Textunterstützung jeder Analysebehauptung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen greifen dieselben Kernthemen (Gewalt, Traum/Realität, Wiederholung des Refrains) auf, variieren jedoch im Umfang historischer Kontextualisierung. Die meisten bleiben stark textgebunden; Interpretation 4 enthält die meisten spekulativen Kontext‑Einordnungen.",
+    "empfehlung": "Interpretation 5 bietet die beste Balance zwischen texttreuer Analyse und tiefgehender, aber nicht übermäßig spekulativer Kontextualisierung. Sie nutzt die Bildsprache des Songs voll aus, bleibt dabei faktentreu und liefert eine substanzielle, aber präzise Interpretation."
+  }
+}

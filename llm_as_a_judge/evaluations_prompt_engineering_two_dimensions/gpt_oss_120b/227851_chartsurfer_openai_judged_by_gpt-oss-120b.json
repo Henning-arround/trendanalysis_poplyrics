@@ -1,0 +1,119 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "„post‑moderne Popkultur“ wird als Kontext genannt, obwohl der Text keinerlei Hinweis darauf gibt.",
+          "Die Aussage, dass das Lied „in den Kontext einer post‑modernen Popkultur fällt, in der romantische Ideale häufig mit einer wachsenden Unsicherheit über persönliche Bindungen kombiniert wurden“, ist spekulativ.",
+          "Die Interpretation, dass das „again“ entweder eine Rückkehr zu einer früheren Beziehung oder zu einer idealisierten Vorstellung von Liebe bedeutet, ist nicht aus dem Text ableitbar, sondern eine Erfindung."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Kern des Liedes ist ein Ausdruck von sehnsuchtsvoller Erwartung“ – eine sehr allgemeine Feststellung ohne konkrete Textbelege.",
+          "„Die Ambivalenz von Wärme in Kälte betont“ – vage Formulierung, die kaum neue Einsicht liefert."
+        ],
+        "positive_aspekte": [
+          "Zählt konkrete Textzitate (z. B. Zeilen 1‑2, 3, 9‑10) und verbindet sie mit einer klaren Analyse der Jahreszeiten‑Metaphern.",
+          "Erkennt die offene Zukunft durch das wiederholte „Someday“ und diskutiert die dadurch entstehende Unbestimmtheit."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Einordnung des Songs in den Kalten Krieg und die Annahme, dass die Winter‑Metapher implizit auf geopolitische Spannungen verweist, ist nicht im Text belegt.",
+          "Die Behauptung, dass das Lied mehrere symbolische Ordnungen – romantisch, politisch, existenziell – gleichzeitig eröffnet, geht über das hinaus, was aus den Zeilen ableitbar ist.",
+          "Die Aussage, dass die narrative Stimme unbenannt bleibt und dadurch die Identifikation des Hörers ermöglicht, ist spekulativ."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song vermittelt eine zentrale Botschaft von sehnsuchtsvoller Erwartung und transzendenter Hoffnung“ – ein allgemeines Klischee ohne Detailbezug.",
+          "„Die Ambiguität zwischen ‚snow covers the hope‘ und ‚Spring breaks through‘ lässt offen, ob Hoffnung bereits existiert oder erst erstarken muss“ – vage Formulierung."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der kontrastierenden Metaphern (Schnee vs. Blüte) und ihrer Wirkung.",
+          "Verknüpft die wiederholten Jahreszeiten‑Motiven mit dem Motiv des Wiedersehens und zeigt damit Textkohärenz."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass die Jahreszeiten‑Symbolik das kollektive Verlangen nach einem „Frühling“ nach der „Kälte“ des Kalten Krieges widerspiegelt, ist nicht im Text verankert.",
+          "Die Behauptung, dass „there will be songs to sing“ die Möglichkeit einer kulturellen Wiederbelebung offen lässt, ist spekulativ.",
+          "Die Interpretation, dass das Bild des „hill“ sowohl Aufstieg als auch Barriere bedeuten kann, ist eine Erfindung ohne Textbeleg."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song vermittelt eine zentrale Botschaft von sehnsuchtsvoller Erwartung und transzendenter Hoffnung“ – ein Standardklischee.",
+          "„Diese Spannungen zwischen Hoffnung und Unbestimmtheit, zwischen Natur‑ und Gefühlsmetaphern, verhindern eine eindeutige Lesart“ – sehr allgemein gehalten."
+        ],
+        "positive_aspekte": [
+          "Zählt zahlreiche Textzitate und erklärt deren mögliche Bedeutungen (z. B. „soft as the kiss of snow“).",
+          "Erkennt die Mehrdeutigkeit des Wortes „again“ und diskutiert verschiedene Lesarten."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Annahme, dass die wiederholte Anrufung von „God speed“ ein kulturelles Vertrauen in göttliche Fürsorge widerspiegelt, ist nicht aus dem Text ableitbar.",
+          "Die Einordnung des Songs als „Spiegel einer Ära“ des Kalten Krieges ist spekulativ.",
+          "Die Behauptung, dass die Metapher des Schnees Kälte mit dem Unterdrücken von Hoffnung verknüpft, ist eine Interpretation, die nicht eindeutig im Text verankert ist."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song vermittelt eine doppelte Sehnsucht nach Wiederkehr und nach einer idealisierten Natur“ – sehr allgemeines Statement.",
+          "„Die narrative Struktur bleibt fragmentarisch; es fehlt ein klarer Handlungsbogen“ – vage Kritik ohne konkrete Textbelege."
+        ],
+        "positive_aspekte": [
+          "Identifiziert konsequent die Gegenüberstellung von Winter‑ und Frühlingsmotiven.",
+          "Diskutiert die Ambivalenz von Wärme‑ und Kälte‑Bildungen („Warm as the wind, soft as the kiss of snow“)."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage, dass das Motiv „God speed“ eine fast liturgische Dimension darstelle, ist spekulativ.",
+          "Die Einordnung des Songs in den Kalten Krieg und die Annahme, dass das Wiedersehens‑Motiv eine kollektive Sehnsucht nach Überwindung von Barrieren ausdrückt, ist nicht textbasiert.",
+          "Die Behauptung, dass das Wort „somewhere“ sowohl einen konkreten Ort als auch einen inneren Raum suggeriere, ist eine Interpretation ohne klare Textgrundlage."
+        ],
+        "oberflächliche_aussagen": [
+          "„Der Song vermittelt eine zentrale Botschaft von sehnsuchtsvoller Erwartung und transzendenter Hoffnung“ – ein Standardklischee.",
+          "„Die Ambiguitäten zwischen Natur‑ und Gefühlsmetaphern, zwischen persönlicher Liebe und universeller Hoffnung bleiben offen“ – sehr allgemeine Feststellung."
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der kontrastierenden Sinneseindrücke (Warmheit vs. Kälte).",
+          "Erklärt die Funktion des wiederholten „think of me now and then“ als Brücke zwischen Gegenwart und Zukunft."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4.0,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Jahreszeiten‑Metaphern, Sehnsucht, Kalter‑Krieg‑Kontext). Die Varianz liegt hauptsächlich in der Tiefe der Textbelege; Interpretation 1 und 4 zeigen die ausgewogenste Mischung aus Texttreue und Analyse.",
+    "empfehlung": "Eine Interpretation, die stark textgebunden bleibt, aber gleichzeitig die mehrdeutigen Metaphern differenziert (wie Interpretation 1), liefert das beste Verhältnis von Faktentreue und analytischer Tiefe. Künftige Modelle sollten spekulative Geschichts‑ oder Kulturbezüge nur dann einbringen, wenn sie durch den Text selbst gestützt werden."
+  }
+}

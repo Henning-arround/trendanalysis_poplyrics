@@ -1,0 +1,101 @@
+{
+  "song": "Sternengold und Silbermond - Peter Alexander (1962)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sterne und der Mond dienen als Leitsterne, die den Sänger auf seinem Weg begleiten und ihm Hoffnung geben."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Musik und die Liebe sind eng miteinander verbunden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation geht tief in die Symbolik der Sterne und des Mondes ein und zeigt, wie sie die Sehnsucht und Liebe des Sängers unterstreichen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lichter des Abends verstärken die Atmosphäre der Romantik und Intimität",
+          "Die ewige Wacht, die Sternengold und Silbermond in der Nacht halten, deutet auf eine Art von Überwachung und Schutz hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der Hoffnung und des Vertrauens, dass die Liebe siegen wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der Symbolik der Sternengold und Silbermond und ihre Rolle in der Liebe des Sängers"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lichter des Abends verstärken die Atmosphäre der Romantik und Intimität",
+          "Die ewige Wacht, die Sternengold und Silbermond in der Nacht halten, deutet auf eine Art von Überwachung und Schutz hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Ausdruck der Hoffnung und des Vertrauens, dass die Liebe siegen wird"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der Symbolik der Sternengold und Silbermond und ihre Rolle in der Liebe des Sängers"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tatsache, dass die Sternengold und Silbermond 'den weiten Weg zu dir' führen, deutet darauf hin, dass der Sänger sich von seiner Geliebten getrennt fühlt und auf die Wiederkehr zu ihr hofft"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Schönheit und der Glanz der Sternengold und Silbermond werden als 'wunderschön' beschrieben"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation zeigt, wie die Symbolik der Sternengold und Silbermond die Intensität der Gefühle des Sängers unterstreicht und seine Sehnsucht nach seiner Geliebten ausdrückt"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Lichter des Abends und die Glücksmelodie, die er singt, verstärken die romantische Atmosphäre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die ewige Wacht, die die Sternengold und Silbermond in der Nacht halten, deutet auf eine Art von Beständigkeit und Treue hin"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Bedeutung der Symbolik der Sternengold und Silbermond und ihre Rolle in der Liebe des Sängers und zeigt, wie sie seine Sehnsucht nach seiner Geliebten ausdrückt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2 und 3 sind sehr ähnlich und zeigen eine geringe Konsistenz in ihrer Analyse",
+    "empfehlung": "Die Interpretationen 1, 4 und 5 zeigen eine gute Balance zwischen Textreue und analytischer Tiefe und sind daher empfehlenswert"
+  }
+}

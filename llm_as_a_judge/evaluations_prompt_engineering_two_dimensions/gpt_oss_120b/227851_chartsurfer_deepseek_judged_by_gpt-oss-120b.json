@@ -1,0 +1,119 @@
+{
+  "song": "Somewhere My Love - Roger Whittaker (1982)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Sehnsucht und der Hoffnung erzeugt, die in Zeilen wie ... zum Ausdruck kommt.",
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist nicht explizit genannt, aber die Sehnsucht nach Liebe und Verbindung kann als universelles menschliches Gefühl interpretiert werden.",
+          "Die tiefe Bedeutungsebene des Songs liegt in der symbolischen Ordnung der Natur, die als Metapher für die menschliche Erfahrung verwendet wird.",
+          "Insgesamt zeigt ... eine komplexe emotionale Wirkung, die durch die Verwendung von Metaphern und Symbolen erzeugt wird."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen sind direkt aus dem Text ableitbar und werden mit Zeilenangaben belegt.",
+          "Die Analyse geht detailliert auf einzelne Metaphern (Lieder, Schnee, Hügel) ein.",
+          "Widersprüchliche oder mehrdeutige Passagen werden erkannt und nicht überinterpretiert."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann auch im kulturellen und historischen Kontext der 1980er Jahre interpretiert werden.",
+          "Die romantische Sehnsucht und die Betonung der emotionalen Verbindung zwischen zwei Menschen entsprechen den kulturellen Werten der Zeit."
+        ],
+        "oberflächliche_aussagen": [
+          "Zugleich kann der Song auch als Ausdruck der menschlichen Erfahrung von Liebe und Verlust gesehen werden.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Sehnsucht und der Hoffnung auf ein Wiedersehen erzeugt."
+        ],
+        "positive_aspekte": [
+          "Durchgehend konkrete Textbelege (Zeilenangaben).",
+          "Vielzahl an stilistischen Analysen (Metaphern, Symbole).",
+          "Erkennt die Mehrdeutigkeit von Naturbildern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext, in dem der Song entstand, ist der Beginn der 1980er Jahre, eine Zeit, in der die Popmusik von romantischen Balladen und Liebesliedern geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Sehnsucht und der Hoffnung auf ein Wiedersehen erzeugt, die in Zeilen wie ... zum Ausdruck kommt.",
+          "Der Song ... kann als ein Beispiel für die sentimentale und emotionale Seite der Popmusik dieser Zeit gesehen werden.",
+          "Auf einer tieferen Bedeutungsebene kann der Song auch als eine Metapher für die menschliche Erfahrung der Sehnsucht und der Hoffnung auf ein besseres Leben interpretiert werden.",
+          "Die symbolische Ordnung des Songs ist durch die Natur und die Jahreszeiten strukturiert, die als Metaphern für die menschliche Emotionen und Erfahrungen dienen."
+        ],
+        "positive_aspekte": [
+          "Starke Textbezüge, insbesondere zu den Naturmetaphern.",
+          "Klare Aufschlüsselung von Bildsprache (Lieder, Hügel, Wind, Schnee).",
+          "Erklärt, wie die Metaphern Hoffnung und Wiedersehen darstellen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song ist auch im kulturellen und historischen Kontext der 1980er Jahre zu sehen, als die Sehnsucht nach Liebe ... in einer zunehmend technisierten und isolierten Gesellschaft besonders groß war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Natur wird hier als Spiegel der menschlichen Emotionen verwendet.",
+          "Die emotionale Wirkung des Songs wird durch die affektive Dimension der Sehnsucht und der Hoffnung erzeugt, die den Hörer direkt anspricht.",
+          "Insgesamt zeigt der Song ... eine komplexe emotionale Landschaft, die durch die Verwendung von Metaphern, Symbolen und Bildern erzeugt wird."
+        ],
+        "positive_aspekte": [
+          "Verknüpft konkrete Textstellen mit interpretativen Aussagen.",
+          "Erkennt Ambivalenz zwischen Kälte und Wärme im Bildmaterial.",
+          "Bietet einen historischen Kontext, wenn auch spekulativ."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist in den 1980er Jahren zu verorten, einer Zeit, in der die Popmusik von romantischen Balladen und Liebesliedern geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird zudem durch die affektive Dimension der Sehnsucht und der Hoffnung erzeugt, die in Zeilen wie ... zum Ausdruck kommt.",
+          "Der Song ... kann als Teil dieser Tradition gesehen werden, jedoch mit einer tieferen Bedeutungsebene, die die Sehnsucht nach einer verlorenen Liebe mit der Hoffnung auf ein Wiedersehen verbindet.",
+          "Die symbolische Ordnung des Songs ist durch die Naturbilder und die Metaphern des Frühlings und der Liebe geprägt, die eine universelle und zeitlose emotionale Erfahrung ausdrücken."
+        ],
+        "positive_aspekte": [
+          "Sehr genaue Analyse einzelner Bildungen (Schnee, Frühling, Wind).",
+          "Klare Zuordnung von Symbolen zu emotionalen Zuständen.",
+          "Bezieht den Song in den breiteren Trend der 80er‑Jahre‑Balladen ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4.0,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen wiederholen dieselben Grundthesen (Sehnsucht, Frühlingsmetapher). Unterschiede liegen hauptsächlich im Umfang spekulativer Kontextualisierungen. Die Varianz ist gering; nur Interpretation 3 verzichtet vollständig auf erfundene Kontextangaben.",
+    "empfehlung": "Interpretation 3 liefert die präziseste, texttreue Analyse ohne unbelegte Kontextbehauptungen und erreicht gleichzeitig eine hohe inhaltliche Tiefe. Für zukünftige LLM‑Bewertungen sollte der Fokus auf direkte Textbelege und das Vermeiden spekulativer Historisierung gelegt werden."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Das Bild des Tanzes durch den Himmel verbindet das Körperliche mit dem Spirituellen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Maske steht hier für das Verbergen der irdischen Identität"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Tanzen durch den Himmel verstärkt das Bild einer ekstatischen Vereinigung mit dem Göttlichen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Text und seine Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Metapher der 'first gate of pleasure' deutet an, dass das Betreten des Jenseits zunächst ein sinnliches Vergnügen ist"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Textsymbolik und ihrer Bedeutung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'masquerade' – ein Maskenball – suggeriert, dass das Jenseits ein Spiel aus Verhüllungen und Enthüllungen ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Das Verblassen des Tageslichts und das Aufkommen von Violinen erzeugen eine Klangkulisse, die das Ritual in eine sakrale Atmosphäre taucht"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Übersicht über den Text und seine Struktur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'A scarlet fever shakes me' verbindet körperliches Leiden mit spirituellem Feuer"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse des Textes und seiner Symbolik"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Textsymbolik und ihrer Bedeutung",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine detaillierte Analyse des Textes und seiner Symbolik bietet und keine erfundenen Aussagen enthält"
+  }
+}

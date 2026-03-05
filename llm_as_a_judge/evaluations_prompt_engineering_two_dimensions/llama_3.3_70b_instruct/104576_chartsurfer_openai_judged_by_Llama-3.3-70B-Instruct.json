@@ -1,0 +1,99 @@
+{
+  "song": "Sauerkrautpolka - Gus Backus (1961)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität liegt darin, dass die fröhliche Oberflächlichkeit gleichzeitig ein unterschwelliges Festhalten an traditionellen Rollenmustern und einer reduzierten Lebenswelt suggeriert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft ist die Verknüpfung von Nahrung, Tanz und Ehepartnerin"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Wiederholungen und des Wortspiels 'sauer lustig macht'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Passage über das Gasthaus impliziert eine spontane, unreflektierte Entscheidung, die zugleich die Konsum- und Geschlechterrollen der Nachkriegszeit widerspiegelt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Betonung von 'Edeltraud' als ideale Partnerin"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Form und des Symbols 'Sauerkraut'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die unkritische Glorifizierung von 'Sauerkraut' und 'Polka' kann als nostalgische Verklärung gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholte Nennung der Braut Edeltraud schafft ein Bild von konventioneller Partnerwahl"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der stilistischen Mittel und der Metapher 'sauer lustig macht'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Fixierung auf ein traditionelles Gericht und einen traditionellen Tanz kann als nostalgische Sehnsucht nach Stabilität gelesen werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains erzeugt eine fast mantraartige Formel"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Anaphern und des Parallelismus"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Aussage 'Ich bin nur für Sauerkraut und meine Braut gebaut' lässt Ambiguitäten offen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die direkte Anrede an den Ober erzeugt ein narratives Bild von Selbstbestimmung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der lautmalerischen 'La-la-la'-Passagen und der emotionalen Wirkung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und Halluzinationsrate, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt und die Ambivalenzen und Mehrdeutigkeiten des Textes aufgreift"
+  }
+}

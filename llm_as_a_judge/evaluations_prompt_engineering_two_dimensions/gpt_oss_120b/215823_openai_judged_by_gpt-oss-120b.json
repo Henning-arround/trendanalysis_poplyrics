@@ -1,0 +1,94 @@
+{
+  "song": "Mama Told Me Not To Come - Wilson Pickett (1971)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgängige Verknüpfung von Textzeilen mit interpretativen Aussagen",
+          "Klare Analyse von Metaphern (z. B. „whiskey in your water“, „stale perfume“)",
+          "Ausgewogene Betrachtung von Ambiguität und möglicher Bedeutungsrichtungen",
+          "Historische Einordnung, die exakt dem Veröffentlichungsjahr entspricht"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Umfassende sensorische Analyse (Geruch, Licht, Fenster)",
+          "Erklärung der paradoxen Funktion des Fensters als Flucht‑ und Belastungsweg",
+          "Konsistente Verknüpfung von Refrain‑Wiederholungen mit thematischer Ambiguität",
+          "Passende historische Kontextualisierung ohne spekulative Details"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Präzise Bezugnahme auf fast jede Textzeile",
+          "Differenzierte Betrachtung von Licht‑ und Sichtbarkeitsmetaphern",
+          "Erklärung des Hauses als Symbol für gesellschaftliche Räume",
+          "Historische Einordnung, die die Gegenkultur der frühen 70er‑Jahre korrekt einordnet"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Klare Strukturierung von Bildsprache, Narrative und Refrain‑Wiederholungen",
+          "Erklärung der fragmentarischen Erzählweise als Spiegel der Wahrnehmung",
+          "Genaue Analyse von Metaphern (z. B. „stale perfume“, „cigarette you’re smokin bout…“)",
+          "Historische Kontextualisierung, die die Gegenkultur und sexuelle Liberalisierung korrekt beschreibt"
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Durchgängige Verknüpfung von Textzeilen mit interpretativen Einsichten",
+          "Ausführliche Analyse von Wiederholungen und deren dialektischer Wirkung",
+          "Präzise Beschreibung von sensorischen Eindrücken (Geruch, Licht, Fenster)",
+          "Historische Einordnung, die den gesellschaftlichen Aufbruch der frühen 70er‑Jahre korrekt einordnet"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 5,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen zeigen eine sehr geringe Varianz – sie erreichen durchweg maximale Scores, was auf konsistente Texttreue und tiefgehende Analyse hinweist.",
+    "empfehlung": "Alle Modelle liefern exzellente, textbasierte Analysen. Für zukünftige Aufgaben sollte man jedoch darauf achten, dass die Tiefe nicht nur durch Wiederholung ähnlicher Punkte entsteht; ein stärker differenzierter Fokus auf unterschiedliche interpretative Ebenen (z. B. musikalische Struktur vs. gesellschaftlicher Kontext) könnte die Gesamtqualität weiter steigern."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Spirits' Masquerade - Leaves' Eyes (2011)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Begriffen wie 'Masquerade' und 'Heaven' legt nahe, dass der Song auf eine Art von mystischer oder esoterischer Tradition anspielt"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint in der Einladung zu liegen, 'let the spirits in' und 'let my spirit sing'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'lonely holy spirit's masquerade' kann als ein Symbol für eine Art spirituelle Maskerade verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist intensiv und affektiv"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation der 'scarlet fever' als Symbol für Leidenschaft und Verlangen ist interessant"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 'Masquerade' kann als eine Anspielung auf die venezianischen Maskenbälle des 18. Jahrhunderts verstanden werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Einbettung des Songs ist komplex und mehrdeutig"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguitäten und Spannungen im Text ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Begriffen wie 'Masquerade' und 'heaven' legt nahe, dass der Song auf einer Art von mystischer oder spiritueller Ebene angesiedelt ist"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Einladung zu einer Art spiritueller oder emotionaler Befreiung zu sein"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und Symbole ist detailliert und textbezogen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeilen 'Forget our deeds' und 'For all and forever' deuten auf eine Art von Vergessen oder Vergebung hin"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle, historische und gesellschaftliche Kontextualisierung des Songs ist komplex und vielschichtig"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguitäten und Spannungen im Text ist detailliert und textbezogen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und Symbole, aber variieren in der Tiefe und Halluzination",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Konsistenz in der Analyse der literarischen Stilmittel und Symbole"
+  }
+}

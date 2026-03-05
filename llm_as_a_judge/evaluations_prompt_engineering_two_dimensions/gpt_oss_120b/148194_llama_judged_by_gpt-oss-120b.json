@@ -1,0 +1,111 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Symbolen verstärkt, die die intensive und möglicherweise überwältigende Natur der Liebe vermitteln.",
+          "Der Song bleibt ambivalent, indem er die Spannung zwischen der Ekstase der Liebe und der möglichen Gefahr oder Unordnung, die sie mit sich bringt, nicht auflöst.",
+          "Stattdessen lässt er den Hörer mit der Frage zurück, ob die Liebe eine positive oder negative Kraft ist, oder ob sie vielleicht beides zugleich sein kann.",
+          "Die Frage, ob die Liebe positiv oder negativ ist, bleibt unbeantwortet."
+        ],
+        "positive_aspekte": [
+          "Viele Aussagen leiten sich direkt aus dem Text ab (z. B. die Beschreibung von „two hooks“, die Polizeikontrolle, die Metaphern).",
+          "Die Interpretation erkennt die Ambivalenz des Textes und diskutiert mögliche Mehrdeutigkeiten, was die analytische Tiefe erhöht."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs kann als Teil der 1990er‑Jahre‑Popkultur gesehen werden, die von einer romantisierten und idealisierten Sichtweise der Liebe geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song eingesetzt werden, tragen zur thematischen Komplexität bei.",
+          "Die tiefere Bedeutungsebene des Songs kann als eine Exploration der menschlichen Erfahrung der Liebe und ihrer Auswirkungen auf das Individuum interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Zahlreiche textbezogene Analysen (z. B. Symbolik von „My eyes as wide as open books“, „crescent moon“, „state of disarray“).",
+          "Konsistente Verknüpfung von Metaphern und emotionaler Wirkung."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als Teil der 1990er‑Jahre‑Popkultur gesehen werden, die von einer Rückkehr zu romantischen und emotionalen Themen geprägt war.",
+          "Der kulturelle und historische Kontext des Songs ist wichtig, um seine Bedeutung und Wirkung vollständig zu verstehen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel im Song, wie die Verwendung von Bildern und Symbolen, tragen zur thematischen Komplexität bei.",
+          "Die Ambiguität und Spannung zwischen der positiven und negativen Wirkung der Liebe auf den Protagonisten bleiben im Song bestehen und laden den Hörer ein, seine eigene Interpretation zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Erkennt die zentrale Metapher „drunk on love“ und die wiederkehrende Bildsprache.",
+          "Bezieht die Polizeiszene in die Interpretation ein, was den Textbezug stärkt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle, historische und gesellschaftliche Kontext des Songs ist geprägt von der Idee der romantischen Liebe als einer überwältigenden und transformierenden Erfahrung."
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung und affektive Dimension des Songs werden durch die Verwendung von Bildern und Metaphern verstärkt, die die intensive emotionale Erfahrung der Liebe vermitteln.",
+          "Der kulturelle und historische Kontext des Songs ist wichtig, um seine Bedeutung und Wirkung vollständig zu verstehen."
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern („two hooks“, „crescent moon“, „dizzy heights“).",
+          "Verknüpfung der narrativen Ebene (Verkehrskontrolle) mit der thematischen Aussage über „Trunkenheit“ der Liebe."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der kulturelle und historische Kontext des Songs ist wichtig, um seine Bedeutung und Wirkung vollständig zu verstehen.",
+          "Der Song kann als Teil der 1990er‑Jahre‑Popkultur gesehen werden, die von einer romantischen und idealisierten Sichtweise der Liebe geprägt war."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel im Song, wie die Verwendung von Bildern und Symbolen, tragen zur thematischen Komplexität bei.",
+          "Die Ambiguität und Spannung zwischen der positiven und negativen Wirkung der Liebe auf den Protagonisten bleiben im Song bestehen und laden den Hörer ein, seine eigene Interpretation zu entwickeln."
+        ],
+        "positive_aspekte": [
+          "Klare Textbezüge (z. B. „gods of love“, „crescent moon“, Polizeikommentar).",
+          "Erkennt die mögliche doppelte Bedeutung von Symbolen und die Rolle der „state of disarray“."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 1‑2 und 4‑5 wiederholen stark dieselben allgemeinen Aussagen, wodurch sie in ihrer Oberflächlichkeit steigen. Interpretation 3 ist die einzige, die ohne externe Halluzinationen auskommt und gleichzeitig Ambivalenz textbasiert behandelt.",
+    "empfehlung": "Ein Ansatz, der strikt am Text bleibt, aber gleichzeitig die mehrdeutigen Bildlichkeiten und deren mögliche Spannungsfelder beleuchtet (wie Interpretation 3), liefert die beste Balance zwischen Faktentreue und analytischer Tiefe."
+  }
+}

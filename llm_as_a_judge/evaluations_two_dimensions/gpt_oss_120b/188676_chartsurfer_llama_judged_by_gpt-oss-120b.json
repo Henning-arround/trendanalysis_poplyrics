@@ -1,0 +1,120 @@
+{
+  "song": "Welcome to the Big Room - Neil Young (2015)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Einladung in einen Raum der Freiheit und des Vergessens interpretiert werden, in dem alle Sorgen und Probleme zurückgelassen werden können.",
+          "Die Ablehnung von Kameras deutet darauf hin, dass dies ein Ort ist, an dem man unbesorgt und ohne die Angst vor Beobachtung oder Urteilen sein kann.",
+          "Die Erwähnung von \"talent\" lässt darauf schließen, dass dies ein Ort der Kreativität und des Ausdrucks ist, an dem man seine Fähigkeiten und Leidenschaften ausleben kann.",
+          "Die Aufforderung, \"problems\" und \"troubles\" an der Tür abzugeben, betont die Idee, dass der \"big room\" ein Ort der Flucht und des Vergessens ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des \"Secaucus Lounge\" und des \"Fandango Hotel\" schafft eine Atmosphäre von Luxus und Exklusivität, die den Zuhörer in eine Welt der Entspannung und des Genusses entführt.",
+          "Durchgängig wird die Message von Akzeptanz und Zustimmung verstärkt, was den Song zu einer beruhigenden und einladenden Hymne macht."
+        ],
+        "positive_aspekte": [
+          "Die Analyse bezieht sich konsequent auf wiederholte Textpassagen (z. B. das Refrain‑Motiv \"it's alright\").",
+          "Es wird ein klarer thematischer Fokus (Flucht aus Problemen) erkennbar."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Einladung in einen Raum der Freiheit und des Vergessens interpretiert werden, in dem alle Sorgen und Probleme zurückgelassen werden können.",
+          "Die Ablehnung von Kameras deutet darauf hin, dass dies ein Ort ist, an dem man unbesorgt und ohne die Angst vor Beobachtung oder Urteilen sein kann.",
+          "Die Erwähnung von \"talent\" lässt darauf schließen, dass dies ein Ort der Kreativität und des Ausdrucks ist, an dem man seine Fähigkeiten und Leidenschaften ausleben kann.",
+          "Die Aufforderung, \"problems\" und \"troubles\" an der Tür abzugeben, betont die Idee, dass der \"big room\" ein Ort der Flucht und des Vergessens ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des \"Secaucus Lounge\" und des \"Fandango Hotel\" schafft eine Atmosphäre von Luxus und Exklusivität, die den Zuhörer in eine Welt der Entspannung und des Genusses entführt.",
+          "Durchgängig wird die Message von Akzeptanz und Zustimmung verstärkt, was den Song zu einer beruhigenden und einladenden Hymne macht."
+        ],
+        "positive_aspekte": [
+          "Der Text wird strukturiert wiedergegeben und die wichtigsten wiederholten Motive (Kameras, Talent, Probleme an der Tür) werden genannt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Einladung in einen Raum der Freiheit und des Vergessens interpretiert werden, in dem alle Sorgen und Probleme zurückgelassen werden können.",
+          "Die Ablehnung von Kameras deutet darauf hin, dass dies ein Ort ist, an dem man unbesorgt und ohne die Angst vor Beobachtung oder Urteilen sein kann.",
+          "Die Erwähnung von \"talent\" lässt darauf schließen, dass dies ein Ort der Kreativität und des Ausdrucks ist, an dem man seine Fähigkeiten und Leidenschaften ausleben kann.",
+          "Die Aufforderung, \"problems\" und \"troubles\" an der Tür abzugeben, betont die Idee, dass der \"big room\" ein Ort der Flucht und des Vergessens ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des \"Secaucus Lounge\" und des \"Fandango Hotel\" schafft eine Atmosphäre von Luxus und Exklusivität, die den Zuhörer in eine Welt der Entspannung und des Genusses entführt.",
+          "Durchgängig wird die Message von Akzeptanz und Zustimmung verstärkt, was den Song zu einer beruhigenden und einladenden Hymne macht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt konsistent und wiederholt die zentralen Bildmotive des Songs."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Einladung in einen Raum der Freiheit und des Vergessens interpretiert werden, in dem alle Sorgen und Probleme zurückgelassen werden können.",
+          "Die Ablehnung von Kameras deutet darauf hin, dass dies ein Ort ist, an dem man unbesorgt und ohne die Angst vor Beobachtung oder Urteilen sein kann.",
+          "Die Erwähnung von \"talent\" lässt darauf schließen, dass dies ein Ort der Kreativität und des Ausdrucks ist, an dem man seine Fähigkeiten und Leidenschaften ausleben kann.",
+          "Die Aufforderung, \"problems\" und \"troubles\" an der Tür abzugeben, betont die Idee, dass der \"big room\" ein Ort der Flucht und des Vergessens ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des \"Secaucus Lounge\" und des \"Fandango Hotel\" schafft eine Atmosphäre von Luxus und Exklusivität, die den Zuhörer in eine Welt der Entspannung und des Genusses entführt.",
+          "Durchgängig wird die Message von Akzeptanz und Zustimmung verstärkt, was den Song zu einer beruhigenden und einladenden Hymne macht."
+        ],
+        "positive_aspekte": [
+          "Die Analyse greift die wiederholten Refrains und Anweisungen des Textes auf."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kann als eine Einladung in einen Raum der Freiheit und des Vergessens interpretiert werden, in dem alle Sorgen und Probleme zurückgelassen werden können.",
+          "Die Ablehnung von Kameras deutet darauf hin, dass dies ein Ort ist, an dem man unbesorgt und ohne die Angst vor Beobachtung oder Urteilen sein kann.",
+          "Die Erwähnung von \"talent\" lässt darauf schließen, dass dies ein Ort der Kreativität und des Ausdrucks ist, an dem man seine Fähigkeiten und Leidenschaften ausleben kann.",
+          "Die Aufforderung, \"problems\" und \"troubles\" an der Tür abzugeben, betont die Idee, dass der \"big room\" ein Ort der Flucht und des Vergessens ist."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung des \"Secaucus Lounge\" und des \"Fandango Hotel\" schafft eine Atmosphäre von Luxus und Exklusivität, die den Zuhörer in eine Welt der Entspannung und des Genusses entführt.",
+          "Durchgängig wird die Message von Akzeptanz und Zustimmung verstärkt, was den Song zu einer beruhigenden und einladenden Hymne macht."
+        ],
+        "positive_aspekte": [
+          "Konsistente Wiederholung der Kernmotive des Songs (Kameras, Talent, Probleme an der Tür)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind nahezu identisch, wodurch die Varianz praktisch null ist. Die Wiederholungen führen zu einer hohen Oberflächlichkeit und zu vielen erfundenen Aussagen.",
+    "empfehlung": "Ein besserer Ansatz würde weniger wiederholte, generische Interpretationen liefern und stärker textbasierte, differenzierte Analysen anbieten, die konkrete Textstellen mit klaren, belegten Schlüssen verbinden und gleichzeitig Ambivalenzen offenlassen."
+  }
+}

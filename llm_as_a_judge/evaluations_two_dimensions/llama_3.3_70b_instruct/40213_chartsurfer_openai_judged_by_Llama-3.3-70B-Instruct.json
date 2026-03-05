@@ -1,0 +1,91 @@
+{
+  "song": "Yesterday When I Was Young - Charles Aznavour (1969)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die jugendlichen Visionen sind flüchtig und leicht zu verlieren"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metaphern und Bilder im Text"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Flucht vor Klarheit und Verantwortung"
+        ],
+        "oberflächliche_aussagen": [
+          "Die wahre Leere hinter den flüchtigen Flammen der Liebe"
+        ],
+        "positive_aspekte": [
+          "Versuch, die Thematik des Textes zu erfassen"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Arroganz im Spiel der Liebe"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Vergänglichkeit und des Fehlens eines festen Fundaments"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Fülle von Trinkliedern und verirrten Freuden"
+        ],
+        "positive_aspekte": [
+          "Sehr detaillierte und textbezogene Analyse"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Einsamkeit, die nach dem Ende des äußeren Scheins folgt"
+        ],
+        "positive_aspekte": [
+          "Gute Analyse der Emotionen und Intentionen im Text"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metaphern und Bilder im Text",
+    "empfehlung": "Die beste Interpretation ist die vierte, da sie eine sehr detaillierte und textbezogene Analyse bietet"
+  }
+}

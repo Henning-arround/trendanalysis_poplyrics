@@ -1,0 +1,97 @@
+{
+  "song": "Ein Haus aus den Knochen von Cary Grant - Foyer Des Arts (1984)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die zentrale Botschaft bleibt offen – ist es ein Aufruf zur Konstruktion einer Identität aus fremden, ikonischen Fragmenten, oder ein ironischer Kommentar zur Konsum‑ und Bildkultur der 80er‑Jahre?"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität des Briefes an den Spiegel („Bau mir ein Haus …“) lässt Fragen nach Selbstreflexion und Fremdbild offen, ohne sie zu lösen, und spiegelt damit die fragmentierte, widersprüchliche Moderne der 1980er‑Jahre wider."
+        ],
+        "positive_aspekte": [
+          "Stilistisch dominieren fragmentarische Narrative und Bildsprache, etwa das „Geflüster des Orients“ (Zeile 9) und die „Sonne trägt Jugendstilkleider“ (Zeile 12), die exotische und historisch‑ästhetische Referenzen vermischen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Spannung zwischen Schwaben‑Stereotypen („das peinlichste am Schwabenladen“) und orientalischen Anklängen verdeutlicht ein kulturelles Spannungsfeld zwischen regionaler Identität und globalen Einflüssen, das bewusst nicht aufgelöst, sondern als fortwährende Ambiguität präsentiert wird."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Refrain wiederholt das Bild des Knochenhauses, wodurch ein hypnotisches Mantra entsteht, das zugleich komisch („Na‑Na‑Na…“) und unheimlich wirkt."
+        ],
+        "positive_aspekte": [
+          "Stilistisch dominieren fragmentarische Narrative und wiederholte Metaphern."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Cary Grant, als Ikone des amerikanischen Glamours, wird hier zu einem kulturellen Fremdkörper, dessen „Knochen“ als Rohstoff für ein deutsches Traumhaus dienen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sprachlich nutzt das Stück stark bildhafte Metaphern („Die Sonne trägt Jugendstilkleider“, „verzehrt eine Stulle am Rhein“) und ein wiederkehrendes Motiv des Orients („All das Geflüster des Orients könnte nicht köstlicher sein“), das einerseits exotische Romantik suggeriert, andererseits als ironischer Kontrapunkt zur deutschen Alltagswelt wirkt."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität des „Knochen‑Hauses“ bleibt ungelöst: Es kann als Kritik an der Verdinglichung von Kultur‑Ikonen, als Wunsch nach Unsterblichkeit oder als absurdes Spiel mit Sprache gelesen werden – ein bewusst offener, mehrdeutiger Raum, der die affektive Wirkung zwischen Faszination und Unbehagen balanciert."
+        ],
+        "oberflächliche_aussagen": [
+          "Phrasen wie \"kulturelles Artefakt seiner Zeit\" ohne Erläuterung"
+        ],
+        "positive_aspekte": [
+          "Stilistisch dominieren fragmentarische Narrative und Bildsprache, die durch Metaphern wie „Die Sonne trägt Jugendstilkleider / und verzehrt eine Stulle am Rhein“ (Zeile 9‑10) eine ästhetisch‑historische Verortung schaffen, während das „Geflüster des Orients“ (Zeile 7) exotische Fremdheit einbringt."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Verweis auf Cary Grant verbindet die deutsche Gegenwart mit einer transatlantischen Film‑Ikone, wodurch ein kultureller Dialog zwischen lokaler Identität (Schwaben, Rhein) und globalem Glamour entsteht."
+        ],
+        "oberflächliche_aussagen": [
+          "Die offene Form des Textes lässt mehrere Deutungen zu: ein Wunsch nach einem unsterblichen, aber zugleich sterblichen Zuhause, ein Spiel mit Nostalgie und Entfremdung, oder ein kritischer Kommentar zur Konstruktion von Heldenbildern."
+        ],
+        "positive_aspekte": [
+          "Literarisch arbeitet das Stück mit stark fragmentierten Metaphern und Bildsprache: „Die Sonne trägt Jugendstilkleider“ (Verknüpfung von Moderne und Ästhetik), „verzehrt eine Stulle am Rhein“ (Alltägliches im Fluss der Geschichte) und die wiederholte Anklage an den „Schwabenladen“ (regionaler Stereotyp)."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung, mit leichten Abweichungen in der Tiefe und Halluzination.",
+    "empfehlung": "Die Interpretation 3 bietet eine ausgewogene Analyse, die textbezogen und tiefgehend ist, ohne in Halluzinationen oder Oberflächlichkeit zu verfallen."
+  }
+}

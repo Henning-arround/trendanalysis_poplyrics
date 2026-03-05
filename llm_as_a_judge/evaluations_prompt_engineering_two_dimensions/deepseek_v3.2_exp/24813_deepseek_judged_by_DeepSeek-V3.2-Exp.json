@@ -1,0 +1,104 @@
+{
+  "song": "Du fehlst - Die Toten Hosen (2012)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Toten Hosen sind eine deutsche Punkrock-Band, die sich oft mit Themen wie Liebe, Tod und sozialer Ungerechtigkeit auseinandersetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung von Verlust und Einsamkeit.",
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einer Person, die nicht mehr da ist, und die damit verbundene Leere und Verunsicherung."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret, aber auch offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Toten Hosen sind eine deutsche Punkrock-Band, die sich oft mit Themen wie Liebe, Tod und sozialer Ungerechtigkeit auseinandersetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung von Verlust und Einsamkeit.",
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einer Person, die nicht mehr da ist, und die damit verbundene Leere und Verunsicherung.",
+          "Der Protagonist sehnt sich nach menschlicher Verbindung und Nähe, aber findet sie nicht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Toten Hosen sind eine deutsche Punkrock-Band, die sich oft mit Themen wie Liebe, Tod und sozialer Ungerechtigkeit auseinandersetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung von Verlust und Einsamkeit.",
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einer Person, die nicht mehr da ist, und die damit verbundene Leere und Verunsicherung.",
+          "Der Protagonist sehnt sich nach menschlicher Verbindung und Nähe, aber findet sie nicht."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung von Verlust und Einsamkeit."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist durchgehend spezifisch und textanalytisch, aber auch offen für Ambivalenzen in der Interpretation."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Toten Hosen sind eine deutsche Punkrock-Band, die sich oft mit Themen wie Liebe, Tod und sozialer Ungerechtigkeit auseinandersetzt."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert die Erfahrung von Verlust und Einsamkeit.",
+          "Die zentrale Botschaft des Songs ist die Sehnsucht nach einer Person, die nicht mehr da ist, und die damit verbundene Leere und Verunsicherung.",
+          "Der Protagonist sehnt sich nach menschlicher Verbindung und Gemeinschaft, aber ist unfähig, diese zu finden."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation ist textbezogen und konkret."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 4,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Tiefe und ihrem Halluzinationsgrad, aber insgesamt zeigen sie eine gute Balance zwischen Textreue und analytischer Tiefe.",
+    "empfehlung": "Die vierte Interpretation ist die beste, da sie durchgehend spezifisch und textanalytisch ist, aber auch offen für Ambivalenzen in der Interpretation."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song beschreibt die Oberflächlichkeit und Leichtigkeit, mit der Menschen heutzutage Beziehungen und Emotionen behandeln.",
+          "Die Zeile \"Pull out your heart to make the being alone\" deutet darauf hin, dass Menschen ihre Emotionen und Verletzlichkeiten preisgeben, um sich selbst vor weiteren Verletzungen zu schützen.",
+          "Die zweite Strophe kann als Metapher für die Oberflächlichkeit der digitalen Kommunikation interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert korrekt das wiederholte Refrain‑Motto \"Easy, easy\" aus dem Text.",
+          "Erkennt, dass mehrere Zeilen als Metaphern für gesellschaftliche Phänomene gelesen werden können."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain \"Easy, easy\" unterstreicht die Mühelosigkeit, mit der Menschen ihre Herzen ausziehen und sich von anderen distanzieren.",
+          "Der Song kritisiert die Wegwerfbarkeit von Emotionen und Beziehungen, wie die Zeile \"Throw out the lunch you pay for\" zeigt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt klar fest, dass das Wort \"Easy\" im Song mehrfach vorkommt.",
+          "Verbindet die Textzeile \"They poke around until they get what they want\" mit einer Interpretation von Selbstsucht."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"You switch the screens over the rest of your flows\" wird als Metapher für das schnelle Scrollen durch Social‑Media‑Kanäle interpretiert.",
+          "Die Zeile \"Throw out the lunch you pay for\" wird als Metapher für die Leichtigkeit interpretiert, mit der Menschen Dinge wegwerfen, die ihnen nicht mehr nützlich sind."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt das wiederholte Motiv des „Herzens herausziehen“ im Text.",
+          "Verknüpft mehrere Textstellen zu einem übergeordneten Kritikpunkt an der modernen Beziehungskultur."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Refrain \"Easy, easy\" zieht sich durch den gesamten Song und unterstreicht die Mühelosigkeit, mit der Menschen ihre Herzen ausziehen.",
+          "Der Song kritisiert die Wegwerfbarkeit von Emotionen und Beziehungen, wie die Zeile \"Throw out the lunch you pay for\" zeigt."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Identifiziert korrekt die wiederholte Phrase \"Easy, easy\".",
+          "Verbindet die Textzeile \"They poke around until they get what they want\" mit einer Interpretation von Selbstsucht."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 1,
+      "tiefe_score": 2,
+      "gesamt_score": 1.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song kritisiert die Wegwerfmentalität, die durch die Zeile \"Throw out the lunch you pay for\" verdeutlicht wird.",
+          "Die Zeile \"Pull out your heart to make the being alone\" deutet darauf hin, dass Menschen ihre Emotionen preisgeben, um sich selbst zu schützen."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Stellt fest, dass das Motiv des Herzensausziehens im Text vorkommt.",
+          "Verknüpft mehrere Zeilen zu einer Kritik an oberflächlichen digitalen Interaktionen."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 1,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen wiederholen nahezu identische Inhalte; die Varianz ist minimal, was auf ein hohes Maß an Redundanz und geringe kreative Differenzierung hinweist.",
+    "empfehlung": "Die vorliegenden Interpretationen sind stark textfremd und oberflächlich. Ein besserer Ansatz wäre, mehr direkte Textbelege zu nutzen, weniger spekulative Aussagen zu machen und die Mehrdeutigkeit des Textes explizit zu diskutieren, um sowohl Halluzinationen zu reduzieren als auch die analytische Tiefe zu erhöhen."
+  }
+}

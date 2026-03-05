@@ -1,0 +1,101 @@
+{
+  "song": "Here I Go Again - Blue System (1995)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext der 1990‑er Jahre spiegelt das Stück die postmoderne Auflösung traditioneller Beziehungsmodelle wider: Liebe wird gleichzeitig als \"game\" und als \"desire\" bezeichnet, was ein Widerspruch zwischen Kommerzialisierung und authentischem Verlangen offenbart.",
+          "Die wiederholte Frage nach dem Fehlen eines Briefes kann als Symbol für den Verlust von schriftlicher, verbindlicher Kommunikation in einer zunehmend medienvermittelten Gesellschaft gelesen werden."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Viele Aussagen sind textnah und konkret (z. B. Analyse von Wiederholungen, Metaphern und Figuren).",
+          "Die Interpretation erkennt strukturelle Ambiguitäten und bietet eine differenzierte Lesart."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Stück in die Mitte der 1990‑Jahre einordnen, einer Phase, in der Pop‑Balladen vermehrt Themen von emotionaler Instabilität und postmodernen Beziehungsmodellen behandelten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Sehr detaillierte Analyse von formalen Mitteln (Anaphern, Metaphern).",
+          "Verknüpft Textbeobachtungen mit einer plausiblem historischen Kontext, ohne zu stark zu verallgemeinern."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4.0,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Historisch lässt sich das Werk in die Mitte der 1990er‑Jahre einordnen, eine Phase, in der Pop‑Balladen häufig das Motiv des \"verlorenen\" Liebesglücks thematisierten und gleichzeitig postmoderne Unsicherheiten über Identität reflektierten."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Konsistente Textbezüge, klare Strukturierung der Argumentation.",
+          "Gute Balance zwischen Beschreibung und Interpretation, wenig spekulative Abschweifungen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile \"I never got a letter...\" eröffnet ein Motiv der unerwiderten Kommunikation, das die Ungewissheit des Kontakts in einer Zeit vor digitalem Austausch betont.",
+          "Im kulturellen Kontext der Mitte der 1990er Jahre spiegelt das Stück die postmoderne Auflösung klassischer Rollenbilder wider.",
+          "Die wiederholte Phrase \"Everybody, oh will drive you crazy\" suggeriert ein kollektives, fast schon gesellschaftliches Druckgefühl, das individuelle Liebesgeschichten in ein größeres Narrativ von Verwirrung und Sehnsucht einbettet."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Erkennt wiederkehrende Motive und thematisiert Ambivalenzen zwischen Liebe und Besitz.",
+          "Verbindet Textstellen mit einer übergeordneten Lesart von Rollenbildern."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Im kulturellen Kontext der Mitte der 1990er‑Jahre, einer Phase des Übergangs von analoger zu digitaler Kommunikation, manifestieren sich Spannungen zwischen traditioneller Romantik und emergenten Medienformen.",
+          "Die wiederholte Frage \"Was is this the end?\" bleibt unbeantwortet und lässt das Ende offen, was die postmoderne Ablehnung einer linearen Erzählung unterstreicht."
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Starke Analyse von Wiederholungen und deren funktionaler Bedeutung.",
+          "Verknüpft Text mit einem plausiblen Bild von postmoderner Unsicherheit."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": [
+      1,
+      5
+    ],
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Bewertungen zeigen, dass Interpretationen mit stärker textbezogener Analyse (1,5) geringere Halluzinationsraten und höhere Tiefenwerte erreichen, während stärker spekulative Analysen (2) höhere Halluzinationsraten und niedrigere Tiefenwerte aufweisen.",
+    "empfehlung": "Ein Ansatz, der eng am Text bleibt, formale Mittel systematisch untersucht und kulturelle Einordnungen nur vorsichtig einbringt, liefert die überzeugendste Interpretation. Modelle sollten daher darauf trainiert werden, spekulative Aussagen zu kennzeichnen und zu minimieren."
+  }
+}

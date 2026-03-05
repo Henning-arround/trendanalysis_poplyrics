@@ -1,0 +1,99 @@
+{
+  "song": "Drunk On Love - Basia (1994)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Bildern wie 'A big smile was hanging there like a crescent moon' schafft eine positive und optimistische Atmosphäre"
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird in den Zeilen 'It sometimes comes as quite a shock / When the gods of love decide to knock' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel und ihre Wirkung auf die thematische Komplexität"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die narrative Struktur des Songs, die den Protagonisten bei einer Verkehrskontrolle zeigt, der versucht, seine Liebe als Entschuldigung für sein Fehlverhalten anzuführen, unterstreicht die allgemeine Thematik der Liebe als eine Art von 'Trunkenheit'"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'You'll never know a better day' suggeriert eine Art von Glück und Zufriedenheit"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metaphern und ihrer Wirkung auf die emotionale Wirkung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'My eyes as wide as open books' suggeriert eine Art von Offenheit und Empfänglichkeit für die Erfahrung der Liebe"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs wird durch die Verwendung von Bildern und Symbolen verstärkt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen der Ekstase der Liebe und der möglichen Gefahr oder Unordnung"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Erwähnung von 'gods of love' und 'crescent moon' kann als symbolische Darstellung der mystischen und übernatürlichen Aspekte der Liebe interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die kulturelle und historische Kontextualisierung des Songs ist wichtig, um seine Bedeutung und Wirkung vollständig zu verstehen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Risiken und Konsequenzen von unkontrollierten Emotionen und Verhaltensweisen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'The officer who stopped me said / 'lucky you didn't wind up dead!'' kann als Kommentar zu den Risiken und Konsequenzen von unkontrollierten Emotionen und Verhaltensweisen interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Ambiguität und Spannung zwischen der positiven und negativen Wirkung der Liebe auf den Protagonisten bleiben im Song bestehen"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der unerwarteten und überwältigenden Erfahrung der Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in Bezug auf die Analyse der literarischen Stilmittel und der emotionalen Wirkung des Songs",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine moderate Halluzinationsrate"
+  }
+}

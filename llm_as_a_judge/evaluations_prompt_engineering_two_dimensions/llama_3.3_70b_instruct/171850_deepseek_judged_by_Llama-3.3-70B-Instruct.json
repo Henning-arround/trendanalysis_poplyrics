@@ -1,0 +1,99 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von 'Mahalo' als Symbol für Dankbarkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass der Song sich mit Erfolg und Ruhm auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der literarischen Stilmittel wie Metaphern und Symbole"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Behauptung, dass Drake sich mit der Dynamik zwischen Idolen und Rivalen auseinandersetzt, ohne konkrete Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song die Spannung zwischen künstlerischem Erfolg und persönlichen Kosten thematisiert, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Verwendung von Symbolen wie 'OVO Clique' und 'Red Wing Boot Gang'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation von 'Mahalo' als Symbol für Dankbarkeit, ohne direkten Textbeleg"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage, dass der Song sich mit Selbstwahrnehmung auseinandersetzt"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der emotionalen Wirkung des Songs und der Verwendung von Metaphern"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Behauptung, dass Drake sich mit der Rolle des Künstlers in der Gesellschaft auseinandersetzt, ohne konkrete Textbelege"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Aussage, dass der Song die Komplexität von Erfolg und Ruhm reflektiert, ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Die Erwähnung der Verwendung von Symbolen wie 'OVO Clique' und 'Red Wing Boot Gang'"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Keine"
+        ],
+        "oberflächliche_aussagen": [
+          "Keine"
+        ],
+        "positive_aspekte": [
+          "Die detaillierte Analyse der literarischen Stilmittel, der emotionalen Wirkung und der Verwendung von Symbolen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die beste Interpretation (Nr. 5) zeigt eine hohe Konsistenz in ihrer Analyse",
+    "empfehlung": "Die beste Interpretation (Nr. 5) sollte als Vorbild für zukünftige Analysen dienen, da sie eine hohe Texttreue und analytische Tiefe aufweist"
+  }
+}

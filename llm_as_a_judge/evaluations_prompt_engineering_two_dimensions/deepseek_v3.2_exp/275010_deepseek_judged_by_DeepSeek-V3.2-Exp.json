@@ -1,0 +1,114 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späten 1990er Jahre waren eine Zeit, in der die Popmusik von Themen wie Liebe, Beziehungen und emotionaler Verletzlichkeit geprägt war.",
+          "Der Song kann als Ausdruck einer individualisierten und emotionalisierten Gesellschaft gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Appell, der die zentrale Botschaft der Unverzichtbarkeit von Liebe vermittelt.",
+          "Die Sängerin fleht ihren Partner an, nicht von ihr wegzugehen und die Liebe nicht aufzugeben."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext des Songs.",
+          "Die Analyse der literarischen Stilmittel ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die emphatische Betonung der Bedeutung von Liebe und Beziehung entspricht den dominanten Diskursen über Liebe und Partnerschaft in dieser Zeit.",
+          "Der Song offenbart eine gewisse Ambivalenz in Bezug auf die Konstruktion von Autonomie und Abhängigkeit in Beziehungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Appell, der die zentrale Botschaft der Unverzichtbarkeit von Liebe vermittelt.",
+          "Die Sängerin konstruiert ein Bild von sich selbst als hilflos und leer ohne die Liebe ihres Partners."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die kulturelle Konstruktion von Emotionen und die Rolle von Liebe in der Selbstdefinition.",
+          "Die Analyse der literarischen Stilmittel ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song zeigt auch die Kehrseite dieser Normen auf, indem er die Verletzlichkeit und Abhängigkeit von Liebe thematisiert.",
+          "Die Wiederholung der Bitte, nicht von ihr wegzugehen, kann als Ausdruck der Angst vor Verlassenwerden und der Sehnsucht nach Sicherheit und Geborgenheit interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Appell, der die zentrale Botschaft der Unverzichtbarkeit von Liebe vermittelt.",
+          "Die Sängerin fleht ihren Partner an, nicht von ihr wegzugehen und die Liebe nicht aufzugeben."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext des Songs.",
+          "Die Analyse der literarischen Stilmittel ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die affektive Dimension des Songs wird durch die eindringliche und persönliche Ansprache an den Partner verstärkt.",
+          "Der Song kann als Ausdruck einer individualistischen und emotionalzentrierten Kultur gelesen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Appell, der die zentrale Botschaft der Unverzichtbarkeit von Liebe vermittelt.",
+          "Die Sängerin fleht ihren Partner an, nicht von ihr wegzugehen und die Liebe nicht aufzugeben."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt den kulturellen und historischen Kontext des Songs.",
+          "Die Analyse der literarischen Stilmittel ist überzeugend."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 3,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext selbst enthält jedoch keine expliziten Verweise auf diese Kontexte.",
+          "Stattdessen verweist die Sängerin auf universelle menschliche Erfahrungen wie die Sehnsucht nach Liebe und die Angst vor Verlassenwerden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Appell, der die zentrale Botschaft der Unverzichtbarkeit von Liebe vermittelt.",
+          "Die Sängerin konstruiert ein Bild von sich selbst als hilflos und leer ohne die Liebe ihres Partners."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation berücksichtigt die emotionale Wirkung des Songs.",
+          "Die Analyse der literarischen Stilmittel ist überzeugend."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 2.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung der Halluzination und Tiefe.",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und berücksichtigt den kulturellen und historischen Kontext des Songs."
+  }
+}

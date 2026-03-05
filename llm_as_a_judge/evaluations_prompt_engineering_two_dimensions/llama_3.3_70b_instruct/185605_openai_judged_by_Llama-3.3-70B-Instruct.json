@@ -1,0 +1,104 @@
+{
+  "song": "All I Need - Heather Nova (2003)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Post-9/11-Ära als direkter Einfluss"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Betonung von Respekt und Liebe ohne materielle Bedingungen als post-modernes Ideal"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen ökonomischer Distanz und körperlicher Nähe",
+          "Die Diskussion über die Ambiguität des 'Bedarfs'"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die explizite Erwähnung der Post-9/11-Ära als Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Indie-Ästhetik'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Zirkularität und der Unausweichlichkeit des 'that's all i need'",
+          "Die Diskussion über die affektive Spannung zwischen strukturiertem Wunsch und spontaner Emotionalität"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische Erwähnung der 'Indie-Ästhetik' als direkter Einfluss"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'Authentizität'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Gegenüberstellung von emotionaler Intimität und ökonomischer Distanz",
+          "Die Diskussion über die Ambiguität des 'Bedarfs'"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die explizite Erwähnung der 'post-9/11-Ära' als Kontext"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'kulturelle Sehnsucht'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Spannung zwischen persönlicher Sehnsucht und gesellschaftlicher Forderung nach Authentizität",
+          "Die Diskussion über die Komplexität moderner Beziehungen"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die spezifische Erwähnung der 'Singer-Songwriter-Ära' als direkter Einfluss"
+        ],
+        "oberflächliche_aussagen": [
+          "Die allgemeine Aussage über die 'zeitlosen Themen'"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Ambiguität zwischen ernstem Bekenntnis und spielerischer Improvisation",
+          "Die Diskussion über die offene Definition von 'genug'"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der Textinhalte, aber variieren in der Tiefe und der Halluzinationsrate",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt. Es ist jedoch wichtig, die Halluzinationsrate und die Oberflächlichkeit der Aussagen zu berücksichtigen, um eine umfassende Bewertung zu erhalten."
+  }
+}

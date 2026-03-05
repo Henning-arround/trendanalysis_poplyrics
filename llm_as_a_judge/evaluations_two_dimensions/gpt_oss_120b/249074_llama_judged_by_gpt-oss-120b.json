@@ -1,0 +1,114 @@
+{
+  "song": "Sleepy Time Gal - Bing Crosby (1953)",
+  "judge_modell": "gpt-oss-120b",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text spiegelt eine romantisierte Vorstellung von der Rolle der Frau in den 1950er Jahren wider, in der Frauen ermutigt wurden, sich auf häusliche Pflichten zu konzentrieren und ein einfaches, zurückgezogenes Leben zu führen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anspielungen auf die späte Stunde und die Erwartung, dass die \"Sleepy Time Gal\" bald ins Bett gehen sollte, unterstreichen die Idee, dass es Zeit für sie ist, ihre wilden Nächte hinter sich zu lassen und ein ruhigeres, häuslicheres Leben zu beginnen.",
+          "Der Song endet mit der lakonischen Bemerkung \"She's awake now, this chick\", was darauf hindeutet, dass die \"Sleepy Time Gal\" allmählich erwacht und bereit ist, ihr altes Leben hinter sich zu lassen."
+        ],
+        "positive_aspekte": [
+          "Alle zentralen Textpassagen (Tanz, Cottage, Kochen & Nähen, \"stay‑at‑home, play‑at‑home\", \"Eight o'clock\") werden korrekt wiedergegeben.",
+          "Die Interpretation bleibt größtenteils textnah und liefert konkrete Bezüge zu einzelnen Zeilen.",
+          "Sie erkennt die implizite Aufforderung zum Übergang von nächtlichem Tanzen zu einem häuslichen Leben."
+        ]
+      }
+    },
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text spiegelt eine romantisierte Vorstellung von der Rolle der Frau in den 1950er Jahren wider, in der Frauen ermutigt wurden, sich auf häusliche Pflichten zu konzentrieren und ein einfaches, zurückgezogenes Leben zu führen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anspielungen auf die späte Stunde und die Erwartung, dass die \"Sleepy Time Gal\" bald ins Bett gehen sollte, unterstreichen die Idee, dass es Zeit für sie ist, ihre wilden Nächte hinter sich zu lassen und ein ruhigeres, häuslicheres Leben zu beginnen.",
+          "Der Song endet mit der lakonischen Bemerkung \"She's awake now, this chick\", was darauf hindeutet, dass die \"Sleepy Time Gal\" allmählich erwacht und bereit ist, ihr altes Leben hinter sich zu lassen."
+        ],
+        "positive_aspekte": [
+          "Präzise Wiedergabe der im Text genannten Handlungen (tanzen, Cottage, Kochen, Nähen).",
+          "Klare Struktur: Beschreibung der Figur, deren Verhalten, das Angebot des Sängers und die Schlussbemerkung.",
+          "Erkennt die implizite Botschaft des Übergangs von nächtlicher Aktivität zu häuslicher Ruhe."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text spiegelt eine romantisierte Vorstellung von der Rolle der Frau in den 1950er Jahren wider, in der Frauen ermutigt wurden, sich auf häusliche Pflichten zu konzentrieren und ein einfaches, zurückgezogenes Leben zu führen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anspielungen auf die späte Stunde und die Erwartung, dass die \"Sleepy Time Gal\" bald ins Bett gehen sollte, unterstreichen die Idee, dass es Zeit für sie ist, ihre wilden Nächte hinter sich zu lassen und ein ruhigeres, häuslicheres Leben zu beginnen.",
+          "Der Song endet mit der lakonischen Bemerkung \"She's awake now, this chick\", was darauf hindeutet, dass die \"Sleepy Time Gal\" allmählich erwacht und bereit ist, ihr altes Leben hinter sich zu lassen."
+        ],
+        "positive_aspekte": [
+          "Vollständige Abdeckung aller im Songtext vorkommenden Motive.",
+          "Stetiger Bezug zu konkreten Textzeilen (z. B. \"cottage\", \"cook and sew\").",
+          "Erkennt die Werbe‑ bzw. Propagandakomponente des Textes."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text spiegelt eine romantisierte Vorstellung von der Rolle der Frau in den 1950er Jahren wider, in der Frauen ermutigt wurden, sich auf häusliche Pflichten zu konzentrieren und ein einfaches, zurückgezogenes Leben zu führen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anrede \"Sleepy Time Gal\" und die Erwähnung der späten Stunde (\"Eight o'clock\") unterstreichen die Idee, dass es Zeit für die Frau ist, ihre nächtlichen Aktivitäten zu beenden und sich auszuruhen.",
+          "Der Song kann als eine Art Werbung für ein traditionelles Frauenbild interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Korrekte Identifikation der zentralen Bildsprache (Tanz, Cottage, Hausarbeit).",
+          "Verknüpfung von wiederholten Refrains mit der thematischen Aussage des Songs.",
+          "Erkennt die implizite Werbebotschaft für ein häusliches Frauenideal."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Text spiegelt eine romantisierte Vorstellung von der Rolle der Frau in den 1950er Jahren wider, in der Frauen ermutigt wurden, sich auf häusliche Pflichten zu konzentrieren und ein einfaches, zurückgezogenes Leben zu führen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die wiederholten Anrede \"Sleepy Time Gal\" und die Erwähnung der späten Stunde (\"Eight o'clock\") unterstreichen die Idee, dass es Zeit für die Frau ist, ihre nächtlichen Aktivitäten zu beenden und sich auszuruhen.",
+          "Der Song kann als eine Art Werbung für ein traditionelles Frauenbild interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Stichhaltige Textbezüge zu allen wiederholten Zeilen des Refrains.",
+          "Klare Darstellung des Angebots des Sängers (Cottage, Kochen, Nähen).",
+          "Erkennt die mögliche ideologische Botschaft des Songs."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 3,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Alle fünf Interpretationen sind inhaltlich nahezu identisch, was zu sehr geringen Varianzen bei den Scores führt (Halluzination 4, Tiefe 4).",
+    "empfehlung": "Die Modelle liefern konsistente, textnahe Analysen. Für zukünftige Aufgaben sollte darauf geachtet werden, spekulative kulturhistorische Aussagen zu reduzieren, um den Halluzinations‑Score weiter zu verbessern."
+  }
+}

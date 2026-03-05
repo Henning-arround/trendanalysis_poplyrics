@@ -1,0 +1,89 @@
+{
+  "song": "The Flat Foot Floogee - Louis Armstrong (1954)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Musik eine gemeinschaftliche Erfahrung ist, die Menschen zusammenbringt und sie vergessen lässt, was sie bedrückt."
+        ],
+        "positive_aspekte": [
+          "Der Refrain hat eine ansteckende Wirkung und lädt zum Mitsingen und Tanzen ein."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Musik eine gemeinschaftliche Erfahrung ist, die Menschen zusammenbringt und sie vergessen lässt, was sie bedrückt."
+        ],
+        "positive_aspekte": [
+          "Der Refrain hat eine ansteckende Wirkung und lädt zum Mitsingen und Tanzen ein."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Musik eine gemeinschaftliche Erfahrung ist, die Menschen zusammenbringt und sie vergessen lässt, was sie bedrückt."
+        ],
+        "positive_aspekte": [
+          "Der Refrain hat eine ansteckende Wirkung und lädt zum Mitsingen und Tanzen ein."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Musik eine gemeinschaftliche Erfahrung ist, die Menschen zusammenbringt und sie vergessen lässt, was sie bedrückt."
+        ],
+        "positive_aspekte": [
+          "Der Refrain hat eine ansteckende Wirkung und lädt zum Mitsingen und Tanzen ein."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Musik eine gemeinschaftliche Erfahrung ist, die Menschen zusammenbringt und sie vergessen lässt, was sie bedrückt."
+        ],
+        "positive_aspekte": [
+          "Der Refrain hat eine ansteckende Wirkung und lädt zum Mitsingen und Tanzen ein."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Alle Interpretationen sind sehr ähnlich und wiederholen die gleichen Aussagen.",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu diversifizieren und mehr Textanalyse durchzuführen."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "song": "Pay The Man - The Offspring (1998)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Referenz auf den Song 'Pretty Fly (For a White Guy)' am Ende des Songs kann als ironische Bemerkung interpretiert werden, die auf die Oberflächlichkeit der Popkultur anspielt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Aufforderung zu sein, die Kontrolle über das eigene Leben zurückzugewinnen und sich nicht von den 'Mächtigen' unterdrücken zu lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Songtext und identifiziert die zentrale Botschaft, die Metapher des 'Jester in the corner' und die Wiederholung der Phrase 'In our souls'."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Texte von The Offspring sind oft von einer kritischen Haltung gegenüber der Gesellschaft und Politik geprägt."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Aufforderung zu sein, die Kontrolle über das eigene Leben zurückzugewinnen und sich nicht von den 'Mächtigen' unterdrücken zu lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation identifiziert die Metapher des 'Jester in the corner' und die Wiederholung der Phrase 'In our souls'."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späte 1990er Jahre waren geprägt von einer zunehmenden Globalisierung und einer Verunsicherung über die Zukunft."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Aufforderung zu sein, die Kontrolle über das eigene Leben zurückzugewinnen und sich nicht von den 'Mächtigen' unterdrücken zu lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Songtext und identifiziert die zentrale Botschaft, die Metapher des 'Jester in the corner' und die Wiederholung der Phrase 'In our souls'."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die späte 1990er Jahre waren geprägt von einer zunehmenden Globalisierung und einer Verunsicherung über die Zukunft."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Aufforderung zu sein, die Kontrolle über das eigene Leben zurückzugewinnen und sich nicht von den 'Mächtigen' unterdrücken zu lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation identifiziert die Metapher des 'Jester in the corner' und die Wiederholung der Phrase 'In our souls'."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die neoliberale Globalisierung und die zunehmende Konzentration von Macht und Reichtum bei einer kleinen Elite zu einer zunehmenden Verunsicherung und Unzufriedenheit in der Bevölkerung führten."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint die Aufforderung zu sein, die Kontrolle über das eigene Leben zurückzugewinnen und sich nicht von den 'Mächtigen' unterdrücken zu lassen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert den Songtext und identifiziert die zentrale Botschaft, die Metapher des 'Jester in the corner' und die Wiederholung der Phrase 'In our souls'."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind insgesamt konsistent, aber es gibt einige Wiederholungen von Aussagen.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie die zentrale Botschaft des Songs, die Metapher des 'Jester in the corner' und die Wiederholung der Phrase 'In our souls' analysiert und nur wenige erfundene Aussagen enthält."
+  }
+}

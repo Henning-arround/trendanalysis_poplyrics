@@ -1,0 +1,99 @@
+{
+  "song": "See Emily Play - Pink Floyd (1967)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You'll lose your mind and play' kann als Kritik an der Oberflächlichkeit und dem Konformismus der Gesellschaft interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist melancholisch und nachdenklich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'Spielens' und die Verbindung zwischen Emily und der Natur"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Float on a river' erzeugt ein Bild von Freiheit und Leichtigkeit"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung des Refrains 'See Emily play' kann als eine Art von Distanzierung oder Beobachtung interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Abhängigkeit von anderen und die Verbindung zwischen Emily und der Natur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You'll lose your mind and play' deutet auf die Gefahr hin, dass Emily in ihren Spielen und Träumen die Kontrolle über die Realität verliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist melancholisch und nachdenklich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'Spielens' und die Verbindung zwischen Emily und der Natur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'Free games for May' kann als Symbol für die Sehnsucht nach Freiheit und Unbeschwertheit interpretiert werden"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Zeile 'There is no other day' unterstreicht die Traurigkeit und Verzweiflung"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Verbindung zwischen Emily und der Natur und die symbolische Ordnung des Songs"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'You'll lose your mind and play' deutet auf die Gefahr hin, dass Emily in ihren Spielen und Träumen die Kontrolle über die Realität verliert"
+        ],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist melancholisch und nachdenklich"
+        ],
+        "positive_aspekte": [
+          "Die Analyse der Metapher des 'Spielens' und die Verbindung zwischen Emily und der Natur"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in Bezug auf die Analyse der Metapher des 'Spielens' und die Verbindung zwischen Emily und der Natur",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und zeigt eine gute Konsistenz in Bezug auf die Analyse der Metapher des 'Spielens' und die Verbindung zwischen Emily und der Natur"
+  }
+}

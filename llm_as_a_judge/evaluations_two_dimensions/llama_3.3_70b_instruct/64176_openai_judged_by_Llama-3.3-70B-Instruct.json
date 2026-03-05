@@ -1,0 +1,91 @@
+{
+  "song": "Ride It - Jay Sean (2007)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Metapher 'Ride it', tiefe Einordnung in die Clubatmosphäre und emotionale Dynamik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einige allgemeine Aussagen über die 'flüchtige Nacht' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Verwendung von Phrasen wie 'intensive Nacht' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Gute Einordnung der emotionalen Unsicherheit und des Verlangens nach Nähe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einige allgemeine Aussagen über die 'urbane Partykultur'"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Beschreibung der Clubszene und der emotionalen Dynamik"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Einige spekulative Aussagen über die 'emotionale Unsicherheit' ohne direkten Textbezug"
+        ],
+        "oberflächliche_aussagen": [
+          "Verwendung von Phrasen wie 'flüchtige Begegnung' ohne spezifische Analyse"
+        ],
+        "positive_aspekte": [
+          "Gute Einordnung der körperlichen Anziehungskraft und des Verlangens nach Nähe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Einige allgemeine Aussagen über die 'Sehnsucht'"
+        ],
+        "positive_aspekte": [
+          "Detaillierte Analyse der Ambivalenz zwischen Oberflächlichkeit und echter Intimität"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine gute Konsistenz in der Analyse der emotionalen Dynamik und der Clubatmosphäre, aber variieren in der Tiefe und der Textreue",
+    "empfehlung": "Die beste Interpretation balanciert Textreue mit analytischer Tiefe und Ambivalenzen, wie in Interpretation 1 zu sehen ist"
+  }
+}

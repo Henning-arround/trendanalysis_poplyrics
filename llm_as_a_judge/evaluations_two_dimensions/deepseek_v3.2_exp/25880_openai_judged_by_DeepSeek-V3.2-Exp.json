@@ -1,0 +1,85 @@
+{
+  "song": "Wahre Liebe - Westernhagen (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "openai",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Diese Augen, die mich nicht loslassen, fungieren als Symbol für eine verbindende Präsenz"
+        ],
+        "positive_aspekte": [
+          "Der Wendepunkt entsteht, als die Aufmerksamkeit auf die „Augen in der Menschenmasse“ gerichtet wird."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Kontrast von kaltem Schicksal und wärmender, menschlicher Nähe erzeugt einen Kontrast"
+        ],
+        "positive_aspekte": [
+          "Die Gegenüberstellung von kaltem Schicksal und wärmender, menschlicher Nähe erzeugt einen Kontrast"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Der Nebel der Traurigkeit, der durch die Wärme der Haut des Gegenübers verdampft, illustriert die transformative Kraft der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Sprecher erkennt, dass er nun fähig ist, in diese Augen zu blicken"
+        ],
+        "positive_aspekte": [
+          "Der Nebel der Traurigkeit, der durch die Wärme der Haut des Gegenübers verdampft, illustriert die transformative Kraft der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 5,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Wärme der Haut des Gegenübers löst den „Nebel meiner Traurigkeit“ auf"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 4.2,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren leicht in ihrer Tiefe und Halluzinationsrate",
+    "empfehlung": "Interpretation 5 zeigt eine gute Balance zwischen Textreue und analytischer Tiefe"
+  }
+}

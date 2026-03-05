@@ -1,0 +1,89 @@
+{
+  "song": "Arschgesicht - Udo Lindenberg (1996)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Darstellung der 'glatten Movie-Stars' als Kontrast zu seinem 'Arschgesicht' betont die Vorzüge einer authentischen und individuellen Beziehung gegenüber einer oberflächlichen und konventionellen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs, dass die äußere Erscheinung nicht das Wesentliche ist, sondern die Liebe und Akzeptanz, die man einem Menschen entgegenbringt."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die Lindenberg verwendet, sind vielfältig und reichhaltig."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Metapher 'Du bist 'ne Pflaume' und die Beschreibung der Figur als 'Experiment'."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die emotionale Wirkung des Songs ist geprägt von einer tiefen Zuneigung und Akzeptanz, die der Protagonist seinem Gegenüber entgegenbringt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Zeilen 'Ich hab dich ja so lieb / Du Arschgesicht' und 'Man müßte dich erfinden / Gäb es dich noch nicht'."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs scheint darin zu bestehen, dass die äußere Erscheinung nicht das Wesentliche ist, sondern die Liebe und Akzeptanz, die man einem Menschen entgegenbringt."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation analysiert die Darstellung der 'glatten Movie-Stars' als Kontrast zu seinem 'Arschgesicht'."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die Lindenberg verwendet, sind vielfältig und reichhaltig."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation diskutiert die Zeilen 'Ich hab dich ja so lieb / Du Arschgesicht' und 'Schönheit ist vergänglich / Sie kommt und geht / Doch ein Arschgesicht besteht'."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse des Songs.",
+    "empfehlung": "Die Interpretationen sollten weiterhin auf einer ausgewogenen Analyse des Songtextes basieren und kreative Elemente auf das Minimum reduzieren."
+  }
+}

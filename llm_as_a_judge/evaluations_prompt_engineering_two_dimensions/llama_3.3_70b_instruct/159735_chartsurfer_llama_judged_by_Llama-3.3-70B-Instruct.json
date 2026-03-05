@@ -1,0 +1,97 @@
+{
+  "song": "The World Is Waiting For Sunrise - Les Paul & Mary Ford (1951)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach Frieden, Harmonie und Schönheit, die im Song zum Ausdruck kommt, spiegelt die Stimmung dieser Zeit wider."
+        ],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die Zeile 'Dear one, the world is waiting for the sunrise' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Naturbilder und ihrer Symbolik"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Botschaft des Songs kann in diesem Kontext als eine Reflexion über die Sehnsucht nach Frieden, Sicherheit und Glück interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, wie Metaphern und Symbole, tragen zur thematischen Komplexität bei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die emotionale Wirkung des Songs und die Verwendung von Worten wie 'dear one' und 'calling'"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Ambiguität und Spannung zwischen dem Warten auf die geliebte Person und dem Warten auf eine neue Ära bleiben im Song bestehen"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Rose, die mit Tau bedeckt ist, kann als Symbol für die Reinheit und Unschuld der Liebe interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Verbindung zwischen der natürlichen Welt und der emotionalen Welt des Sängers"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Sehnsucht nach dem 'Sunrise' kann auch als eine Metapher für die Hoffnung auf eine bessere Zukunft gesehen werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Die literarischen Stilmittel, die im Song verwendet werden, wie Metaphern und Symbole, tragen zur thematischen Komplexität bei."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Verbindung zwischen Natur und Emotionen und die tiefe emotionale Wirkung"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 5,
+      "gesamt_score": 5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die zentrale Botschaft des Songs wird durch die Zeile 'Dear one, the world is waiting for the sunrise' deutlich"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine sehr gute Analyse der Naturbilder, ihrer Symbolik und der emotionalen Wirkung des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.8,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, aber die meisten bieten eine gute Mischung aus Textreue und analytischer Tiefe",
+    "empfehlung": "Die beste Interpretation ist diejenige, die eine Balance zwischen Textreue und analytischer Tiefe findet und Ambivalenzen und Mehrdeutigkeiten textbasiert behandelt"
+  }
+}

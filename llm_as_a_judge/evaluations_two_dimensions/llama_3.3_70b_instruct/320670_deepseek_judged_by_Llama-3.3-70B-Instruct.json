@@ -1,0 +1,102 @@
+{
+  "song": "Pay The Man - The Offspring (1998)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Zeile 'And all the girlies say, I'm pretty fly for a white guy' wird als Kommentar zu den Oberflächlichkeiten der Popkultur interpretiert, ohne dass dies direkt aus dem Text hervorgeht."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Suche nach Freiheit und die Rebellion gegen die Unterdrückung.",
+          "Der Text enthält auch Elemente von Zynismus und Resignation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Kritik an den Machenschaften der Mächtigen und der Unterdrückung der einfachen Menschen an."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 2,
+      "gesamt_score": 2.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation wiederholt Aussagen ohne neue Erkenntnisse zu liefern."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Suche nach Freiheit und die Rebellion gegen die Unterdrückung.",
+          "Der Text enthält auch Elemente von Zynismus und Resignation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Kritik an den Machenschaften der Mächtigen und der Unterdrückung der einfachen Menschen an."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation liefert einige spezifische Beispiele und Analysen, die den Text stützen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'We all pay the man for living' suggeriert, dass jeder Mensch Teil dieses Systems ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Machtstrukturen und der Unterdrückung in der Gesellschaft."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation wiederholt Aussagen ohne neue Erkenntnisse zu liefern."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Suche nach Freiheit und die Rebellion gegen die Unterdrückung.",
+          "Der Text enthält auch Elemente von Zynismus und Resignation."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Kritik an den Machenschaften der Mächtigen und der Unterdrückung der einfachen Menschen an."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation liefert einige spezifische Beispiele und Analysen, die den Text stützen."
+        ],
+        "oberflächliche_aussagen": [
+          "Die Zeile 'We all pay the man for living' suggeriert, dass jeder Mensch Teil eines Systems ist."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine detaillierte Analyse der Machtstrukturen und der Unterdrückung in der Gesellschaft und berücksichtigt auch die Ambivalenzen und Mehrdeutigkeiten."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren in ihrer Qualität, wobei die Interpretationen 3 und 5 herausstechen.",
+    "empfehlung": "Für eine bessere Interpretation sollte man sich auf die textbasierten Analysen konzentrieren und Ambivalenzen und Mehrdeutigkeiten berücksichtigen."
+  }
+}

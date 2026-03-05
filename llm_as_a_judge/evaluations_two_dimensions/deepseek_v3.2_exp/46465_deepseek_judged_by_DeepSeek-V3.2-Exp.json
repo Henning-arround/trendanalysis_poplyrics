@@ -1,0 +1,92 @@
+{
+  "song": "Scratch My Back - Slade (1976)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "sexuelle Anspielungen unterstreichen die Idee, dass die Beziehung auf einer Art von physischer Befriedigung basiert"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Songtext ist reich an sexuellen Anspielungen",
+          "Insgesamt kann 'Scratch My Back' als ein Song über die Dynamik einer Beziehung interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Der Refrain 'I'll scratch your back if you'll just scratch mine' symbolisiert eine Art von gegenseitigem Tauschhandel"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Frage nach der Dauerhaftigkeit von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'How long can you go? Oh can you go a dozen times?' lässt darauf schließen, dass die Beziehung von einer gewissen Langeweile und Routine geprägt ist"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song kann auch als eine Metapher für die menschliche Natur interpretiert werden"
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung des Refrains und die Verwendung von Ausrufen wie 'Oh mercy mercy' und 'Oh lawdy lawdy' unterstreichen die emotionale Intensität"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song thematisiert auch die Frage nach der Dauerhaftigkeit von Beziehungen"
+        ],
+        "positive_aspekte": [
+          "Die Zeile 'How long can you go? Oh can you go a dozen times?' lässt darauf schließen, dass die Beziehung von einer gewissen Langeweile und Routine geprägt ist"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext ist auch von einer gewissen Verzweiflung und Frustration geprägt"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die expliziten Anspielungen auf körperliche Befriedigung und Ekstase unterstreichen die sinnliche und körperliche Natur der Beziehung"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.6,
+    "durchschnitt_tiefe": 3.4,
+    "konsistenz_über_wiederholungen": "Die Interpretationen variieren leicht in ihrer Tiefe und Halluzinationsrate, aber insgesamt liefern sie eine konsistente Analyse des Songs",
+    "empfehlung": "Die fünfte Interpretation liefert eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher empfehlenswert"
+  }
+}

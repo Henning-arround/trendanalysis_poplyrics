@@ -1,0 +1,97 @@
+{
+  "song": "Thank Me Now - Drake (2010)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von literarischen Stilmitteln wie Metaphern und Symbolen ist ein weiteres wichtiges Element des Songs, das nicht direkt im Text erwähnt wird"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kulturelles Artefakt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation beleuchtet die zentrale Botschaft des Songs und analysiert die Verwendung von Stilmitteln"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Ambiguitäten und Spannungen zwischen Authentizität und Kommerzialisierung"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist tief in den kulturellen, historischen und gesellschaftlichen Kontext der Hip-Hop-Szene und der Popkultur eingebettet"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Songstruktur und der verwendeten Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Verwendung von Metaphern und Symbolen ist ein wichtiges Element des Songs"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein Beispiel für die kulturelle und soziale Relevanz von Musik"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der zentralen Botschaft des Songs und der verwendeten Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Song thematisiert die Komplexität von Beziehungen und die Art, wie Menschen miteinander interagieren"
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein kulturelles Artefakt seiner Zeit"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bietet eine gute Analyse der Songstruktur und der verwendeten Stilmittel"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 2,
+      "tiefe_score": 5,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Interpretation bietet eine gute Analyse der zentralen Botschaft des Songs und der verwendeten Stilmittel"
+        ],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Die Interpretation ist sehr tiefgehend und bietet eine detaillierte Analyse des Songs"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung",
+    "empfehlung": "Die beste Interpretation ist die Nummer 5, da sie eine sehr tiefgehende und textbasierte Analyse bietet"
+  }
+}

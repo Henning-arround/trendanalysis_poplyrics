@@ -1,0 +1,97 @@
+{
+  "song": "Got To Give It Up - Marvin Gaye (1977)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die 1970er Jahre waren eine Zeit des gesellschaftlichen Umbruchs und der sexuellen Liberalisierung."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein vielschichtiges Werk, das auf verschiedenen Ebenen interpretiert werden kann."
+        ],
+        "positive_aspekte": [
+          "Der Songtext enthält eine Vielzahl von Bildern, die die Atmosphäre einer Party und die Emotionen der Tanzenden beschreiben."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext ist auch reich an literarischen Stilmitteln wie Metaphern und Symbolen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Ausdruck der neuen sexuellen Freiheit und der Selbstbestimmung interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung der Phrase 'Got to give it up' kann als eine Art Mantra interpretiert werden."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 2,
+      "tiefe_score": 4,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein komplexes Werk, das verschiedene Interpretationen zulässt."
+        ],
+        "positive_aspekte": [
+          "Der Songtext enthält eine Vielzahl von Bildern, die die Atmosphäre einer Party und die Emotionen der Tanzenden beschreiben."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Tanzfläche kann als ein Symbol für die Befreiung von sozialen Konventionen und die Ermöglichung von Selbstausdruck interpretiert werden."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein Ausdruck der Freude an Musik, Tanz und sexueller Freiheit interpretiert werden."
+        ],
+        "positive_aspekte": [
+          "Der Songtext enthält eine Vielzahl von Bildern, die die Atmosphäre einer Party und die Emotionen der Tanzenden beschreiben."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Der Songtext enthält jedoch auch Ambiguitäten und Spannungen."
+        ],
+        "oberflächliche_aussagen": [
+          "Der Song kann als ein komplexes Werk interpretiert werden, das sowohl die Freude am Tanz und der Musik als auch die Ermöglichung von Selbstausdruck und sexueller Freiheit thematisiert."
+        ],
+        "positive_aspekte": [
+          "Die Wiederholung der Phrase 'Got to give it up' kann als eine Art Mantra interpretiert werden."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.2,
+    "durchschnitt_tiefe": 3.6,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine moderate Konsistenz in der Bewertung.",
+    "empfehlung": "Die erste Interpretation bietet eine gute Balance zwischen Textreue und analytischer Tiefe."
+  }
+}

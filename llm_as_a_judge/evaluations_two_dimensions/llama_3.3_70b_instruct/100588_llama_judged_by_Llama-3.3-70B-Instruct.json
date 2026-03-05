@@ -1,0 +1,89 @@
+{
+  "song": "A Reason - Circ (2004)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Augen und das Lächeln des geliebten Menschen haben die Macht, den Sänger aufzubauen, aber auch zu verletzen."
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt größtenteils textgetreu und analysiert die emotionale Verbindung zwischen den beiden Personen."
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Refrainzeile 'Show me a reason' wird zu einem flehentlichen Appell"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Notwendigkeit einer Rechtfertigung für die Fortsetzung der Beziehung."
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Erwähnung von 'fire' und 'crash and burn' symbolisiert die intensive, aber auch gefährliche Natur der Beziehung"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die intensive und gefährliche Natur der Beziehung an."
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Bitte 'Show me a reason' wird wiederholt, um die Notwendigkeit einer Rechtfertigung zu betonen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und analysiert die emotionale Verbindung zwischen den beiden Personen."
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 3,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Wiederholung der Refrainzeile 'Show me a reason' wird zu einem flehentlichen Appell"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation betont die Notwendigkeit einer Rechtfertigung für die Fortsetzung der Beziehung."
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 3,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und zeigen eine hohe Übereinstimmung in ihrer Analyse.",
+    "empfehlung": "Die beste Interpretation ist die erste, da sie eine gute Balance zwischen Textreue und analytischer Tiefe zeigt."
+  }
+}

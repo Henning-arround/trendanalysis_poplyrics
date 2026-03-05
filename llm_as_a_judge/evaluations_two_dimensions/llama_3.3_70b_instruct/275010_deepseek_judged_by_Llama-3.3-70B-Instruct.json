@@ -1,0 +1,94 @@
+{
+  "song": "Without Love - Dina Carroll (1999)",
+  "judge_modell": "Llama-3.3-70B-Instruct",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Appell",
+          "Die Sängerin zeigt, dass sie bereit ist, alles zu tun, um die Beziehung zu retten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Emotionen der Sängerin"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein herzlicher und emotionaler Song",
+          "Die Sängerin betont, dass sie ihn braucht und nicht ohne ihn überleben kann"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Abhängigkeit der Sängerin von der Liebe"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Sängerin fleht ihren Partner an, nicht wegzugehen",
+          "Der Refrain wird wiederholt und unterstreicht die Abhängigkeit der Sängerin von der Liebe"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Verzweiflung der Sängerin"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein emotionaler Appell an einen geliebten Menschen",
+          "Die Sängerin zeigt, dass sie bereit ist, alles zu tun, um die Beziehung zu retten"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Emotionen der Sängerin"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 2,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Der Song ist ein herzlicher und emotionaler Song",
+          "Die Sängerin betont, dass sie ihn braucht und nicht ohne ihn überleben kann"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation bleibt textgetreu und beschreibt die Abhängigkeit der Sängerin von der Liebe"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 4,
+    "durchschnitt_tiefe": 2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen sind sehr konsistent und wiederholen sich in ihren Aussagen",
+    "empfehlung": "Es wäre ratsam, die Interpretationen zu überarbeiten, um mehr Tiefe und Spezifität zu erreichen, ohne die Texttreue zu verlieren"
+  }
+}

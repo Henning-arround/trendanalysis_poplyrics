@@ -1,0 +1,92 @@
+{
+  "song": "Easy (Switch Screens) - Son Lux feat. Lorde (2014)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "deepseek",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Gesellschaft, in der Menschen leichtfertig mit ihren Emotionen und Beziehungen umgehen"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Oberflächlichkeit und Selbstsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Gesellschaft, in der Menschen leichtfertig mit ihren Emotionen und Beziehungen umgehen"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Oberflächlichkeit und Selbstsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Wegwerfmentalität"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Oberflächlichkeit und Selbstsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 5,
+      "tiefe_score": 3,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Wegwerfmentalität"
+        ],
+        "positive_aspekte": [
+          "Textbezogene Analyse",
+          "Erwähnung von Oberflächlichkeit und Selbstsucht"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 5,
+      "tiefe_score": 4,
+      "gesamt_score": 4.5,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [],
+        "positive_aspekte": [
+          "Detaillierte textbezogene Analyse",
+          "Erwähnung von Oberflächlichkeit und Selbstsucht in der digitalen Welt"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 5,
+    "durchschnitt_halluzination": 5,
+    "durchschnitt_tiefe": 3.2,
+    "konsistenz_über_wiederholungen": "Die Interpretationen zeigen eine hohe Konsistenz in der Analyse von Oberflächlichkeit und Selbstsucht, aber auch eine Tendenz zu oberflächlichen Aussagen.",
+    "empfehlung": "Die fünfte Interpretation zeigt eine gute Balance zwischen Textreue und analytischer Tiefe und ist daher zu empfehlen."
+  }
+}

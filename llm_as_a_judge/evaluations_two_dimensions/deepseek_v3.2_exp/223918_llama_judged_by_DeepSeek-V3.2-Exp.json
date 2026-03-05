@@ -1,0 +1,96 @@
+{
+  "song": "Clues - Godley & Creme (1979)",
+  "judge_modell": "DeepSeek-V3.2-Exp",
+  "interpretations_modell": "llama",
+  "interpretationen": [
+    {
+      "nummer": 1,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen sind wie lose Enden"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die surreale und fragmentarische Darstellung von Bildern und Symbolen"
+        ]
+      }
+    },
+    {
+      "nummer": 2,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text schaffen eine Atmosphäre der Verwirrung und des Rätsels"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Menschen weigern sich, die Wahrheit zu sehen oder zu hören"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Doppelbödigkeit der menschlichen Natur"
+        ]
+      }
+    },
+    {
+      "nummer": 3,
+      "halluzination_score": 3,
+      "tiefe_score": 4,
+      "gesamt_score": 3.5,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text schaffen eine Atmosphäre der Verwirrung und des Rätsels"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Menschen weigern sich, die Wahrheit zu sehen oder zu hören"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Doppelbödigkeit der menschlichen Natur"
+        ]
+      }
+    },
+    {
+      "nummer": 4,
+      "halluzination_score": 3,
+      "tiefe_score": 3,
+      "gesamt_score": 3,
+      "begründung": {
+        "erfundene_aussagen": [
+          "Die Musik und der Text schaffen eine Atmosphäre der Verwirrung und des Rätsels"
+        ],
+        "oberflächliche_aussagen": [
+          "Die Menschen weigern sich, die Wahrheit zu sehen oder zu hören",
+          "Die Textzeilen präsentieren eine Vielzahl von Bildern und Symbolen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Doppelbödigkeit der menschlichen Natur"
+        ]
+      }
+    },
+    {
+      "nummer": 5,
+      "halluzination_score": 4,
+      "tiefe_score": 4,
+      "gesamt_score": 4,
+      "begründung": {
+        "erfundene_aussagen": [],
+        "oberflächliche_aussagen": [
+          "Die Textzeilen präsentieren eine Vielzahl von Bildern und Symbolen"
+        ],
+        "positive_aspekte": [
+          "Die Interpretation erkennt die Doppelbödigkeit der menschlichen Natur und lädt den Hörer ein, selbst nach den 'Clues' zu suchen"
+        ]
+      }
+    }
+  ],
+  "zusammenfassung": {
+    "beste_interpretation": 1,
+    "durchschnitt_halluzination": 3.4,
+    "durchschnitt_tiefe": 3.8,
+    "konsistenz_über_wiederholungen": "Die Interpretationen 2-4 zeigen eine hohe Konsistenz in ihrer Argumentation, aber auch eine höhere Halluzinationsrate",
+    "empfehlung": "Die erste und fünfte Interpretation zeigen eine gute Balance zwischen Textreue und analytischer Tiefe und sind daher empfehlenswert"
+  }
+}
