@@ -18,10 +18,8 @@ Dateien wie `experimental_leaf_eom.csv` deuten auf die Optimierung und Gegenübe
 
 ### `models/`
 Speichert die finalen trainierten Modelle und abgeleitete Datenstrukturen.
-- **`bertopic_model_dtm`**: Das gespeicherte, trainierte BERTopic-Modell.
-- **`topic_info.csv` & `topic_info_llm.csv`**: Tabellarische Übersicht der gefundenen Topics, deren Größe und repräsentativen Wörtern (ggf. durch ein LLM gelabelt).
+- **`topic_info.csv` & `topic_info_llm.csv`**: Tabellarische Übersicht der gefundenen Topics, deren Größe und repräsentativen Wörtern (teilweise durch ein LLM gelabelt).
 - **`topics_over_time.csv`**: Rohdaten zur zeitlichen Entwicklung der Topics, essenziell für das Dynamic Topic Modeling.
-- **`probabilities.npy`**: Wahrscheinlichkeitswerte der Dokument-zu-Topic-Zuweisungen.
 
 ### `outlier_analysis/`
 Hier finden sich Visualisierungen zu Outlieruntersuchungen. 

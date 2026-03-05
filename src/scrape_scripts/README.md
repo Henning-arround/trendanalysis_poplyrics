@@ -1,6 +1,6 @@
 # Scrape Scripte
 
-In diesem Verzeichnis befinden sich verschiedene Skripte zum Scraping von Songtexten, Chartdaten und Zusatzinformationen. Im Folgenden wird kurz erläutert, was die Skripte machen und welche Ein- und Ausgabedateien es gibt. Nicht alle Skripte sind noch relevant für den finalen Datensatz, da zwischendurch ein neuer Durchlauf gestartet wurde. Aufgrund der Prozessdokumentation wurden sie jedoch nicht entfernt.
+In diesem Verzeichnis befinden sich verschiedene Skripte zum Scraping von Songtexten, Chartdaten und Zusatzinformationen. Im Folgenden wird kurz erläutert, was die Skripte machen und welche Ein- und Ausgabedateien sie verarbeiten. Die Dateien sind im Data Ordner zu finden. Nicht alle Skripte sind noch relevant für den finalen Datensatz, da zwischendurch ein neuer Durchlauf gestartet wurde. Aufgrund der Prozessdokumentation wurden sie jedoch nicht entfernt.
 
 ## Übersicht der Skripte
 
